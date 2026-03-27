@@ -1,1 +1,4 @@
-NPC;+STOCK;20;10;10305.43;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;BAL;4;0;7623.514;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;86;9;8793.887;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;54;11;6594.872;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+QTY;84;6;6002.891;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

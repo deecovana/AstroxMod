@@ -1,4 +1,5 @@
-NPC;+STOCK;2451;2186;47.95947;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2263;2208;46.44278;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;10;0;59.03164;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
-NPC;+STOCK;2402;2308;56.18;Tella's;Bitcola;7h 27m 33s ;26853.91
+NPC;BAL;265;0;43.94916;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;333;0;28.40002;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+PRICE;18;0;46.67734;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+QTY;1350;1332;46.62157;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+PRICE;13;0;26.19857;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389

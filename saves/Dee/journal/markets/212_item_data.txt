@@ -1,12 +1,14 @@
-NPC;+PRICE;191;0;112.8802;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+LOCAL;150;93;28.6975;Biomate University;Void Starcross;2h 5m 25s ;7525.863
-NPC;+LOCAL;150;46;28.6975;Biomate University;Void Starcross;2h 50m 32s ;10232.55
-NPC;-QTY;0;-79;73.63944;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;276;126;27.60755;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;-LOCAL;255;0;99.3375;Astrox Security Patrol;Felishar;3h 28m 20s ;12500.18
-NPC;+LOCAL;150;81;28.6975;Biomate University;Void Starcross;3h 40m 14s ;13214.13
-NPC;+LOCAL;150;94;28.6975;Biomate University;Void Starcross;4h 48m 51s ;17331.44
-NPC;-LOCAL;0;0;133.4386;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
-NPC;-LOCAL;0;0;137.9521;Horizons;Gate of Alpharis;6h 37m 57s ;23877.8
-NPC;-LOCAL;0;0;142.0242;Horizons;Gate of Alpharis;6h 42m 43s ;24163.49
-NPC;+PRICE;0;0;178.1535;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
+NPC;-PRICE;683;0;69.93563;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;345;0;73.04736;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+LOCAL;150;1;86.46166;Biomate University;Void Starcross;0h 1m 1s ;61.12946
+NPC;+LOCAL;150;209;28.6975;Biomate University;Void Starcross;1h 30m 26s ;5426.412
+NPC;BAL;68;-123;86.35018;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+LOCAL;150;2;28.6975;Biomate University;Void Starcross;1h 57m 4s ;7024.489
+NPC;+LOCAL;150;25;28.6975;Biomate University;Void Starcross;2h 15m 7s ;8107.128
+NPC;+STOCK;251;101;12.16332;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;399;119;97.56336;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;986;105;85.14707;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;277;108;55.96013;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;257;0;78.61673;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+LOCAL;150;9;28.6975;Biomate University;Void Starcross;3h 3m 35s ;11015.9
+NPC;+LOCAL;150;10;28.6975;Biomate University;Void Starcross;3h 15m 34s ;11734.13

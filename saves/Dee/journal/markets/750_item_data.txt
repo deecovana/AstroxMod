@@ -1,7 +1,7 @@
-NPC;+STOCK;139;10;16040.74;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;139;10;15942.8;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;166;11;16942.43;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;45;12;12412.96;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;196;11;16118.61;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;2;-7;9509.531;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
-NPC;+PRICE;55;0;11644.06;Inovex;Goru Populan;6h 14m 52s ;22492.41
+NPC;-PRICE;129;0;13686.85;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;158;0;6692.461;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+STOCK;139;10;13364.1;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;167;12;13670.64;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;197;12;13207.6;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;165;7;6637.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;BAL;30;-8;13651.4;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39

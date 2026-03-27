@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;31
 SECTOR;name;Velmera Prime
-SECTOR;level;1.0
+SECTOR;level;1
 SECTOR;faction;Alpha
 SECTOR;filename;sector_31.txt
 SECTOR;is_explored;False
@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;null
+SECTOR;event_type;resources#6611#7#10
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;777;139;3238

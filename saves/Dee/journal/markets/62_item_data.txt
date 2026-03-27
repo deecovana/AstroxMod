@@ -1,5 +1,12 @@
-NPC;+STOCK;2413;2311;95.02602;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;25;0;91.28545;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;2158;1899;151.1438;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1806;1797;179.9192;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-11;106.5488;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;-PRICE;102;0;69.82851;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;1821;1726;117.95;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;+QTY;2371;1984;115.325;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;-PRICE;140;0;119.8053;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;BAL;147;0;79.02227;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;1943;1841;70.95354;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2062;1803;115.061;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2451;2313;81.91342;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2095;2086;154.3934;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;203;0;106.827;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+QTY;1975;1770;122.15;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;BAL;272;0;81.42652;ValueStar;Hunu;2h 58m 0s ;10680.39

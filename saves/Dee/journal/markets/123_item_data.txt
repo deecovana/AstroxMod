@@ -1,4 +1,5 @@
-NPC;+STOCK;793;193;185.2569;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;829;229;180.7928;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1333;238;193.8022;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1638;183;101.2194;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;600;0;155.9433;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+STOCK;815;215;157.8145;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1310;215;164.5481;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1646;191;71.4445;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;831;152;120.9942;Cecil;Junia;2h 29m 20s ;8960.865

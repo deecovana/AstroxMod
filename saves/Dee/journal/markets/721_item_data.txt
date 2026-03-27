@@ -1,4 +1,2 @@
-NPC;+PRICE;14;0;4868.955;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;-QTY;14;-7;7343.813;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;139;12;7147.976;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;47;12;7036.058;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;BAL;117;-10;6035.817;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;128;11;5925.85;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133

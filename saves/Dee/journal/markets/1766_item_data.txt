@@ -1,3 +1,4 @@
-NPC;-QTY;32;-11;10238.63;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
-NPC;+STOCK;71;8;10837.54;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;16;8;10085.34;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;BAL;24;-6;6647.662;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;72;9;8938.843;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;18;10;8362.073;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;44;0;4649.513;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865

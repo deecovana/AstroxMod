@@ -1,6 +1,9 @@
-NPC;+STOCK;724;129;62.36274;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;203;103;54.11934;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1080;142;48.4862;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;98;-93;46.34254;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;174;0;35.4627;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
-NPC;+PRICE;21;0;75.2936;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
+NPC;-PRICE;76;0;32.36092;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;257;95;51.38075;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;+QTY;147;114;62.46962;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;+LOCAL;29;1;36.01376;Acrondia Hub;Temple Gates;0h 56m 59s ;3419.798
+NPC;+STOCK;194;103;34.69043;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;233;133;43.21345;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1046;108;38.14638;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;77;0;76.96973;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
+NPC;+QTY;204;128;32.09575;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

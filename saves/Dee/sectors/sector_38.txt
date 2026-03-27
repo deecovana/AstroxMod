@@ -76,7 +76,6 @@ RESOURCE;1;3230;-166;-440;200;200
 WARPGATE;1;sector_35.txt;3;-1606;-100;2387;0;Law;0
 WARPGATE;2;sector_41.txt;1;2780;-653;3567;0;Law;0
 WARPGATE;3;sector_39.txt;1;-2869;-217;-2875;0;Law;0
-WARPGATE;4;generate;1;-582;-402;482;9;wormhole;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 

@@ -1,1 +1,6 @@
-NPC;+PRICE;2;0;3242.975;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
+NPC;+QTY;68;10;1170.875;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;+STOCK;17;11;2262.986;Star Shepards Hub;Temple Gates;0h 57m 57s ;3477.823
+NPC;BAL;54;-11;1271.489;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;111;11;1336.397;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;73;0;2073.535;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+PRICE;2;0;1540.811;Fellacore Research Center;Grace;2h 34m 4s ;9244.389

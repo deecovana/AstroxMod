@@ -1,2 +1,4 @@
-NPC;+STOCK;634;127;3579.619;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;152;143;3600.955;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;BAL;404;-103;2934.316;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;516;112;2797.5;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;123;114;2934.355;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;400;0;2122.905;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865

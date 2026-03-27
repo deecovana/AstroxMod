@@ -1,3 +1,6 @@
-NPC;+PRICE;49;0;8585.856;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;28;9;10613.75;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;54;8;6959.687;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;11;0;9677.673;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;-PRICE;26;0;9175.967;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;BAL;38;-11;6731.486;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;28;9;8896.781;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;55;9;4914.86;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;18;7;9640.684;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

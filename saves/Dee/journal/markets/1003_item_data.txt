@@ -1,3 +1,4 @@
-NPC;+LOCAL;5;1;1346.188;Acrondia Hub;Temple Gates;1h 2m 42s ;3762.632
-NPC;-QTY;4;-9;730.3656;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
-NPC;+PRICE;9;0;871.1901;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
+NPC;+QTY;27;9;937.75;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;+STOCK;20;11;600.477;Star Shepards Hub;Temple Gates;0h 57m 57s ;3477.823
+NPC;+QTY;13;9;1205.806;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+PRICE;4;0;826.1321;Spacebook;Phistatisia;2h 34m 4s ;9244.389

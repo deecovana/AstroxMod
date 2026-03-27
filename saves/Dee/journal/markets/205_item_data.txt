@@ -1,8 +1,11 @@
-NPC;+PRICE;33;0;104.0032;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;-QTY;176;-126;140.54;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
-NPC;-QTY;143;-101;147.082;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;181;142;78.86541;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;799;147;124.7222;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;150;1;147.1133;Astrox Security Patrol;Felishar;3h 28m 20s ;12500.18
-NPC;+LOCAL;67;34;98.59274;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
-NPC;+PRICE;229;0;98.85793;Psybermind;Ion Child;7h 13m 39s ;26019.77
+NPC;-PRICE;563;0;58.10821;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+NPC;-PRICE;797;0;46.68016;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;149;127;113.6231;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;BAL;480;-89;108.1431;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;103;0;57.72581;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;161;122;50.53256;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;622;142;103.7148;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;759;107;103.0121;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;128;0;77.20472;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+QTY;201;102;101.9287;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+PRICE;290;0;129.2682;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389

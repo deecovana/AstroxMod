@@ -1,2 +1,6 @@
-NPC;+STOCK;594;108;71.5891;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;47;14;49.28578;Horizons;Gate of Alpharis;6h 42m 43s ;24163.49
+NPC;BAL;69;-133;66.59842;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;627;141;56.85035;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;819;125;52.65106;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;155;0;65.13615;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+QTY;291;77;42.935;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;403;102;26.8925;Psybermind;Ion Child;2h 36m 11s ;9371.667

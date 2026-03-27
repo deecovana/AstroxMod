@@ -1,7 +1,9 @@
-NPC;+PRICE;45;0;31221.47;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;-QTY;58;-16;28349.22;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;-QTY;45;-19;32585.94;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;119;22;24071.24;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;142;20;19244.27;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;41;21;27492.08;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;54;-13;17276.56;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+QTY;59;14;26593.75;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;BAL;84;-13;22523.25;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;58;-19;16803.66;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;65;21;18961.73;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;106;22;22143.21;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;44;24;22160.17;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;58;0;17311.94;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+QTY;159;24;25812.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;29;18;17043.75;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667

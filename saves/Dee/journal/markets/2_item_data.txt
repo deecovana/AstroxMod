@@ -1,11 +1,22 @@
-NPC;+STOCK;5320;4679;18.21799;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;-LOCAL;3;0;31.5;Acrondia Hub;Temple Gates;1h 2m 42s ;3762.632
-NPC;-LOCAL;0;0;42.22647;Acrondia Hub;Temple Gates;1h 46m 14s ;6374.585
-NPC;-LOCAL;0;0;42.80638;Acrondia Hub;Temple Gates;1h 49m 33s ;6573.42
-NPC;-LOCAL;0;0;43.43451;Acrondia Hub;Temple Gates;1h 53m 3s ;6783.414
-NPC;+STOCK;4959;4318;17.236;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;4621;4139;19.31624;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;4393;3924;34.24091;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-19;27.46975;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;71;0;26.70071;Inovex;Goru Populan;6h 14m 52s ;22492.41
-NPC;+PRICE;62;0;24.70315;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
+NPC;-PRICE;641;0;13.27833;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;657;0;16.29353;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;-LOCAL;444;0;31.5;Proctors Center;Void Starcross;0h 34m 29s ;2069.568
+NPC;+QTY;3653;3089;16.345;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;-PRICE;62;0;19.33513;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
+NPC;-PRICE;355;0;36.66699;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;-LOCAL;6;0;31.5;Acrondia Hub;Temple Gates;0h 56m 59s ;3419.798
+NPC;-LOCAL;15;15;31.5;Proctors Center;Void Starcross;1h 25m 35s ;5135.035
+NPC;BAL;110;0;28.95094;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;184;0;26.58347;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;BAL;520;0;22.6708;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;4643;4439;12.28599;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;3577;3467;28.04195;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;4197;3449;27.06635;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;4012;3530;13.38835;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;4163;4148;32.48163;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;3424;3032;12.145;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+QTY;4970;4286;16.69325;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+PRICE;184;0;27.13124;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+QTY;4337;3680;16.31;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;BAL;24;0;24.79746;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;BAL;112;0;16.08769;Kith;Kidd Overture;2h 58m 0s ;10680.39

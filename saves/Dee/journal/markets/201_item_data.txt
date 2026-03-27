@@ -1,4 +1,9 @@
-NPC;+PRICE;27;0;62.75715;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;-QTY;0;-128;46.08282;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;416;129;64.54528;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;38;11;60.40064;Horizons;Gate of Alpharis;6h 37m 57s ;23877.8
+NPC;-PRICE;100;0;60.21849;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;865;132;85.74213;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;-PRICE;392;0;80.75469;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;BAL;78;-138;82.10196;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;424;137;48.91775;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;138;113;59.70475;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+QTY;583;100;55.22213;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;178;0;85.38314;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+QTY;187;87;60.46775;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

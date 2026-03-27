@@ -1,9 +1,0 @@
-NPC;+QTY;13;9;22108.69;Desban;Ellisar;2h 9m 20s ;7760.491
-NPC;+STOCK;17;9;35432.12;Biomate University;Void Starcross;3h 44m 48s ;13488.87
-NPC;+STOCK;15;9;36178.72;Lammassu Financial;Void Starcross;3h 44m 48s ;13488.87
-NPC;+STOCK;18;10;30627.69;StarGypsy Warehouse;Void Starcross;3h 44m 48s ;13488.87
-NPC;+STOCK;14;11;32415.85;Proctors Center;Void Starcross;3h 44m 48s ;13488.87
-NPC;+STOCK;16;8;35405.66;Biomate University;Void Starcross;3h 44m 49s ;13489.92
-NPC;+PRICE;13;0;22760.11;Desban;Ellisar;4h 33m 9s ;16389.6
-NPC;+PRICE;9;0;21612.23;Fellacore Research Center;Grace;6h 0m 19s ;21619.05
-NPC;+LOCAL;12;2;13961.53;Astrox Security Patrol;Felishar;6h 7m 32s ;22052.2

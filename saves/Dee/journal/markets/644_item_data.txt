@@ -1,5 +1,12 @@
-NPC;+STOCK;24;3;114381.9;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;25;4;115590.5;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;11;4;87294.95;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;26;3;139124.3;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;7;3;95032.74;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;21;0;93654.55;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;33;0;110931.8;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+STOCK;25;4;93748.82;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;11;4;53923.66;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;26;3;113115.4;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;46;3;98764.97;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;8;4;68051.05;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;11;4;54808;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;36;3;110825;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;19;2;57687.5;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;BAL;33;-4;101309.1;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;BAL;24;-3;71334.7;Kith;Kidd Overture;2h 58m 0s ;10680.39

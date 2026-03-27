@@ -1,13 +1,10 @@
-NPC;+STOCK;5353;4456;98.69281;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;-LOCAL;0;0;153.9803;Acrondia Hub;Temple Gates;1h 46m 14s ;6374.585
-NPC;+PRICE;324;0;141.4559;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
-NPC;-LOCAL;0;0;155.9271;Acrondia Hub;Temple Gates;1h 49m 33s ;6573.42
-NPC;-LOCAL;0;0;158.0359;Acrondia Hub;Temple Gates;1h 53m 3s ;6783.414
-NPC;-QTY;0;-224;125.3931;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;4678;3781;100.5963;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;5005;4596;70.04984;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;4385;4230;75.62357;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;4562;4386;109.7241;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;4705;4179;69.07363;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;4214;3574;128.5143;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;114;0;125.2651;Psybermind;Ion Child;7h 13m 39s ;26019.77
+NPC;-PRICE;897;0;82.70499;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;813;0;70.25267;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;-LOCAL;599;0;105.75;Proctors Center;Void Starcross;0h 34m 29s ;2069.568
+NPC;-LOCAL;60;60;109.3633;Proctors Center;Void Starcross;1h 25m 35s ;5135.035
+NPC;BAL;155;0;64.53094;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;3807;3652;61.98748;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;4263;4087;91.20434;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;4714;4188;50.96394;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;3912;3852;110.5136;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;2701;2567;91.5325;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667

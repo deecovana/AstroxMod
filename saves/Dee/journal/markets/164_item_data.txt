@@ -1,5 +1,9 @@
-NPC;+STOCK;437;125;20.60929;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+LOCAL;150;59;11.91047;Acrondia Hub;Temple Gates;1h 46m 14s ;6374.585
-NPC;+LOCAL;150;8;11.39404;Acrondia Hub;Temple Gates;1h 53m 3s ;6783.414
-NPC;+STOCK;426;114;20.24988;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;788;115;20.45161;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;312;0;16.41582;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;263;90;10.317;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;BAL;535;-114;22.0558;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;433;121;16.74927;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;235;147;13.58872;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;774;101;16.35036;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;86;0;10.77506;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+PRICE;10;0;27.6989;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
+NPC;+QTY;232;144;10.0719;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667

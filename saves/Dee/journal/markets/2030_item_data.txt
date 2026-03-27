@@ -1,2 +1,2 @@
-NPC;+STOCK;456;121;216.8017;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1133;149;195.6731;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+QTY;540;108;169.6716;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;+STOCK;1125;141;149.1108;Proctors Center;Void Starcross;2h 26m 24s ;8784.133

@@ -1,13 +1,12 @@
-NPC;+STOCK;586;209;0.3752723;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-PLAYER;+QTY;424;209;0.376875;Acrondia Hub;Temple Gates;1h 2m 47s ;3767.732
-NPC;-QTY;780;-186;0.3367187;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;1148;230;0.4082517;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;703;239;0.3561412;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;962;189;0.3867368;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1363;240;0.3340974;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;256;189;0.6328368;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-PLAYER;+QTY;781;404;0.3811719;Biomate University;Void Starcross;3h 41m 7s ;13267.73
-PLAYER;+QTY;1157;376;0.3761719;Biomate University;Void Starcross;3h 46m 7s ;13567.14
-PLAYER;+QTY;1629;472;0.3710156;Biomate University;Void Starcross;4h 49m 9s ;17349.04
-PLAYER;+QTY;1011;308;0.3563906;StarGypsy Warehouse;Void Starcross;5h 7m 45s ;18465.46
-PLAYER;+QTY;1977;348;0.3655313;Biomate University;Void Starcross;6h 6m 59s ;22020
+NPC;-PRICE;377;0;0.275369;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;66;0;0.6110322;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+NPC;+QTY;423;209;0.32125;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;BAL;319;-145;0.2912376;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;258;-203;0.4730754;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;545;168;0.2827396;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1162;244;0.2866836;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;550;231;0.2766827;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1021;248;0.2935657;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;663;157;0.421875;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+QTY;1312;180;0.27625;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;779;152;0.266875;Psybermind;Ion Child;2h 36m 11s ;9371.667

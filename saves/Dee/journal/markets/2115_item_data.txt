@@ -1,7 +1,7 @@
-NPC;+STOCK;2249;2055;102.7171;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;1946;1752;101.969;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1933;1794;85.34413;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2248;2033;53.90283;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-72;58.20574;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
-NPC;-QTY;0;-74;93.70042;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;19;0;65.68921;Inovex;Goru Populan;6h 14m 52s ;22492.41
+NPC;-PRICE;194;0;87.45736;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;38;0;92.15681;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;BAL;137;0;45.94461;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;2122;1928;89.32196;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2164;2025;66.47813;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2670;2455;34.46487;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;BAL;86;0;57.74141;ValueStar;Hunu;2h 58m 0s ;10680.39

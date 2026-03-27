@@ -1,7 +1,10 @@
-NPC;+LOCAL;12;3;7835.295;Biomate University;Void Starcross;0h 44m 13s ;2653.042
-NPC;+PRICE;27;0;15320.12;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+LOCAL;12;8;7835.295;Biomate University;Void Starcross;2h 5m 25s ;7525.863
-NPC;+LOCAL;12;3;7835.295;Biomate University;Void Starcross;2h 50m 32s ;10232.55
-NPC;-QTY;0;-1;24204.28;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;21;9;7537.704;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;69;8;28972.76;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+LOCAL;12;1;15665.45;Biomate University;Void Starcross;1h 57m 4s ;7024.489
+NPC;+LOCAL;12;3;8745.34;Biomate University;Void Starcross;2h 15m 7s ;8107.128
+NPC;+STOCK;23;11;3480.347;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;24;11;15007.6;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+LOCAL;12;1;7835.295;Biomate University;Void Starcross;2h 30m 13s ;9013.771
+NPC;+LOCAL;12;1;7835.295;Biomate University;Void Starcross;2h 50m 9s ;10209.02
+NPC;BAL;45;-10;25171.77;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+LOCAL;12;2;7835.295;Biomate University;Void Starcross;3h 3m 35s ;11015.9
+NPC;+LOCAL;12;1;7835.295;Biomate University;Void Starcross;3h 20m 14s ;12014.06
+NPC;+LOCAL;12;1;7835.295;Biomate University;Void Starcross;3h 28m 49s ;12529.77

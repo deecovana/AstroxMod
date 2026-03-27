@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;mining#24443#17#10
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;-1287.786;207.2976;2558.035
@@ -74,7 +74,6 @@ RESOURCE;5;3229.8;-166.0;-439.5;1200;1200
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
 WARPGATE;1;sector_50.txt;3;-2244.4;202.5;2665.8;0;law;0.0
 WARPGATE;2;sector_55.txt;2;1279.8;-83.9;-1026.9;0;law;0.0
-WARPGATE;3;generate;1;1870;-1538;937;9;wormhole;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;45;0;0;0;40;40;0;0,0,0.4,0.8;//rings

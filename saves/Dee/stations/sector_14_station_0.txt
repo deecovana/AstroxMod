@@ -15,9 +15,6 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;4-2-0-2-3-3-7-0-7-1-0-3-0-2-5-1-2-0-4-9-0-8-0
 STATION;interior_seed;3-4-45-9
-STATION;refinery_active_time;0
-STATION;fabricator_active_time;0
-STATION;last_dock_time;24604.66
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -312,10 +309,6 @@ SKILL;231;1.57
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;130;140;437896;SALVAGE#2#20#sector_0.txt#sector_14_station_1.txt#null#null#null#null;Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>2</color> to Horizons in <color='cyan'>Gate of Alpharis</color>;0;A local prospector, <i>Opbru Uobor</i> of the Alpha faction has located a light quantity of special <color='yellow'>Special Junk Part</color> in the <color='cyan'>Void Starcross</color> sector. Head over there and salvage all of the special <color='yellow'>Special Junk Part</color>, and meet <i>Opbru Uobor</i> back at Horizons station located in the <color='cyan'>Gate of Alpharis</color>.;5850;1500
-MISSION;126;120;570761;CHAT_PILOT#sector_56_station_1.txt#sector_95.txt#Bishop Borbe Xears#npc_ship_data_(battle_shuttle_1)#1#missions_transfer_pilot.txt#0#null;Transfer payment to <color='yellow'><i>Bishop Borbe Xears</i></color> in <color='cyan'>Temple Gates</color> and return with signature to ValueStar in <color='cyan'>Hunu</color>;2;<i>Leives Adaniser</i> has a bonus payment for <color='yellow'><i>Bishop Borbe Xears</i></color>. The Civil faction has recognized <color='yellow'><i>Bishop Borbe Xears</i></color> and has award a bonus payment. <color='yellow'><i>Bishop Borbe Xears</i></color> was last working in the <color='cyan'>Temple Gates</color> system. Find them, deliver this envelope, and return to the ValueStar in the <color='cyan'>Hunu</color> system with a signature.;16641;4650
-MISSION;50;120;274370;SCAN_STRUCTURE#sector_56_station_0.txt#sector_95.txt#Community Farming Center#structure_farm_1.txt#1#null#null#null;Locate and scan the <color='yellow'>Community Farming Center</color> structure in <color='cyan'>Temple Gates</color> and return to Transporteers in <color='cyan'>Hunu</color>;1;A recent construction permit was delivered by the Science faction. They are demanding a survey of a new structure that has been constructed by <i>Vosa Rongails</i>. Scan the <color='yellow'>Community Farming Center</color> structure and return back to the Transporteers located in the <color='cyan'>Hunu</color> with the survey data. Once the data is verified, payment will be rendered.;9126;2550
-MISSION;80;120;870352;RECOVER#9#2081#sector_16.txt#sector_36_station_0.txt#null#null#null#null;Recover a light quantity of <color='yellow'>9</color> <color='yellow'>Thermal Systems Packages</color> in <color='cyan'>Entropy</color>, and return to Blargg's in <color='cyan'>Beacon Spita</color>;1;The Science faction has lost track of a light crate somewhere in the <color='cyan'>Entropy</color> system. Head over there and recover the crate containing <color='yellow'>9</color> units of <color='yellow'>Thermal Systems Packages</color>, and dock at the Blargg's in the <color='cyan'>Beacon Spita</color> sector. <i>Ileni Bacvelou</i> has been instructed to wait for the lost cargo at the Blargg's station.;10940;1750
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -326,5 +319,3 @@ SHIP;4;0.91;ship_data_(recon_utility_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
-
-

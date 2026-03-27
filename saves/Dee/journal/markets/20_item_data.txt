@@ -1,12 +1,14 @@
-NPC;+STOCK;4327;3525;69.88163;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;15;0;105.2498;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;-QTY;0;-543;84.61687;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
-NPC;-QTY;0;-841;85.59687;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;5107;4305;69.05342;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;5054;4955;123.3047;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;4406;3946;121.3927;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;3915;3575;73.01729;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-169;75.21117;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
-NPC;-QTY;0;-187;79.48412;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;79;0;127.9954;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
-NPC;-LOCAL;4376;0;110.25;Starbase Corporate Center;Void Starcross;7h 40m 43s ;27643.31
+NPC;-PRICE;817;0;78.27846;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;-LOCAL;426;0;110.25;Starbase Corporate Center;Void Starcross;0h 32m 19s ;1939.833
+NPC;+QTY;3431;2896;138.8844;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;BAL;488;0;88.05373;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;31;0;50.5121;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;BAL;210;0;72.30399;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;5150;4348;53.39446;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;4573;4085;84.23011;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;4275;4170;63.01234;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;4174;3748;114.2365;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;5330;4990;53.98278;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;165;0;53.32632;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+PRICE;27;0;97.04869;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+QTY;2944;2803;109.1475;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667

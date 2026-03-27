@@ -1,4 +1,7 @@
-NPC;+PRICE;76;0;5020.353;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
-NPC;+PRICE;64;0;4761.56;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;112;17;5101.747;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-12;4719.844;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
+NPC;-PRICE;95;0;4211.437;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;95;0;3875.941;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;-PRICE;3;0;4992.796;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;-PRICE;50;0;2948.418;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;+STOCK;115;20;4209.403;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;105;0;2689.628;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+PRICE;17;0;4902.085;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389

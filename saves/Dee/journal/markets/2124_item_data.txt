@@ -1,4 +1,8 @@
-NPC;+STOCK;2551;2422;928.5524;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;2050;1921;896.7056;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2012;1682;1214.732;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2547;2318;905.1759;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;129;0;749.6071;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;1;0;1036.294;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
+NPC;BAL;330;0;981.5876;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;2492;2363;710.5719;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2456;2126;967.9268;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2725;2496;690.7932;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;171;0;948.1974;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+QTY;2181;2074;584.4832;Gunstellar;Adrenal;2h 29m 20s ;8960.865

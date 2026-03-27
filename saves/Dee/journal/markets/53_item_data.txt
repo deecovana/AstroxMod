@@ -1,7 +1,9 @@
-NPC;+STOCK;1947;1711;45.01637;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;32;0;56.02925;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
-NPC;+PRICE;115;0;71.65628;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;2552;2316;44.58878;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2492;2414;34.60096;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2120;1734;73.97717;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;115;0;68.86568;Inovex;Goru Populan;6h 14m 52s ;22492.41
+NPC;-PRICE;115;0;58.9635;Keyworx;Geminey;0h 0m 23s ;23.44398
+NPC;-PRICE;236;0;33.52325;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;34;0;49.03026;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;-PRICE;199;0;40.41093;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;BAL;120;0;51.57921;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;2591;2355;33.34579;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1776;1706;22.28064;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;2227;1997;29.36863;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+QTY;2449;2415;49.11775;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

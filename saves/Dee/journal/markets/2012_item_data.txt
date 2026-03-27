@@ -1,3 +1,4 @@
-NPC;+STOCK;403;120;188.8999;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;411;128;190.021;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;797;122;175.8735;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;390;107;162.0856;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;578;143;94.65416;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;798;123;139.5768;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;1029;143;154.2385;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

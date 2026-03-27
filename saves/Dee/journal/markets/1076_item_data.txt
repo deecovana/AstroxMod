@@ -1,2 +1,3 @@
-NPC;+STOCK;15;10;182884.3;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;31;10;98108.01;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;5;0;152405.1;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+STOCK;16;11;153175;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;32;11;67236.7;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133

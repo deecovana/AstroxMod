@@ -1,3 +1,7 @@
-NPC;+STOCK;597;108;137.2234;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;593;104;136.5898;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;137;126;87.05478;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;BAL;31;-136;60.93053;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;596;107;115.6436;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;125;114;60.31013;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;447;108;76.28338;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;233;146;74.27141;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;440;0;99.4275;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+QTY;854;133;131.6463;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

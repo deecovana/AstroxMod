@@ -1,47 +1,47 @@
 //;LOG DATA FILE (Astrox Imperium)
-modules_on.png;Modules Online;All active modules have been activated and are currently online.
+mission_1.png;New Mission Acquired.;( Tutorial 2 ) Destroy target drone in <color='cyan'>Void Starcross</color> and return to Biomate University in <color='cyan'>Void Starcross</color>
 //;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+gamespeed_1.png;Game speed Normal;The gamespeed has been set to normal speed. (x1) 
 //;LOG DATA FILE (Astrox Imperium)
-law_alert.png;2 Law enforcement ships have arrived.;Law enforcement is currently viewing you as hostile. You should leave the area immediately before you are destroyed.
+gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
 //;LOG DATA FILE (Astrox Imperium)
-friendly_fire_off.png;Friendly Fire Disabled;Your modules will no longer fire upon friendly faction targets.
-//;LOG DATA FILE (Astrox Imperium)
-friendly_fire_on.png;Friendly Fire Active;You have activated Friendly Fire. Your modules will deliver damage to any target, regardless of faction.
-//;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
-//;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
-//;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
-//;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
 //;LOG DATA FILE (Astrox Imperium)
 sp_adjusted.png;+2 Skill Points Acquired.;Your time spent undocked has helped you to improve your skills. +2 skill points have been awarded to your pilot for use at the university.
 //;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+mission_obj_complete.png;Mission Objectives Complete;( Tutorial 2 ) Destroy target drone in <color='cyan'>Void Starcross</color> and return to Biomate University in <color='cyan'>Void Starcross</color>
+//;LOG DATA FILE (Astrox Imperium)
+notify_raider_kill.png;The raider Target Drone has been dispatched.;The lowly criminal will not be bother anyone any longer. With the destruction of his stolen TD-1 Target Drone, all that remains is his memory. The Alpha rating has raised +0.25
 //;LOG DATA FILE (Astrox Imperium)
 modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
 //;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
-//;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+mission_1.png;New Mission Acquired.;( Tutorial 2 ) Destroy target drone in <color='cyan'>Void Starcross</color> and return to Biomate University in <color='cyan'>Void Starcross</color>
 //;LOG DATA FILE (Astrox Imperium)
 notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
 //;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+max_targets.png;Maximum Targets Acquired;Your ship's targeting computer has reached the maximum number of targets it can retain at once. Remove an item from your targeting panel before attempting to target another object.
 //;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Starfort Ramos;Your ship has activated the warp gate and will soon arrive at your destination.
+mission_obj_complete.png;Mission Objectives Complete;( Tutorial 2 ) Destroy target drone in <color='cyan'>Void Starcross</color> and return to Biomate University in <color='cyan'>Void Starcross</color>
 //;LOG DATA FILE (Astrox Imperium)
-notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
+notify_raider_kill.png;The raider Target Drone has been dispatched.;The lowly criminal will not be bother anyone any longer. With the destruction of his stolen TD-1 Target Drone, all that remains is his memory. The Alpha rating has raised +0.25
 //;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Starbase Corporate Center Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Starbase Corporate Center station.
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
+mission_1.png;New Mission Acquired.;( Tutorial 2 ) Destroy target drone in <color='cyan'>Void Starcross</color> and return to Biomate University in <color='cyan'>Void Starcross</color>
 //;LOG DATA FILE (Astrox Imperium)
 notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
 //;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+mission_obj_complete.png;Mission Objectives Complete;( Tutorial 2 ) Destroy target drone in <color='cyan'>Void Starcross</color> and return to Biomate University in <color='cyan'>Void Starcross</color>
+//;LOG DATA FILE (Astrox Imperium)
+notify_raider_kill.png;The raider Target Drone has been dispatched.;The lowly criminal will not be bother anyone any longer. With the destruction of his stolen TD-1 Target Drone, all that remains is his memory. The Alpha rating has raised +0.25
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+orbit_on.png;Orbit Systems Active;You have enabled your ship's ORBIT system. This will cause the ship to automatically orbit your target at the specified distance, angle and speed.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+orbit_off.png;Orbit Systems Disabled;You have disabled your ship's ORBIT system. This will cause the ship to cease orbiting your target, and ignore all orbit settings.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
 //;LOG DATA FILE (Astrox Imperium)

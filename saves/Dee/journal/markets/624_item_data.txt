@@ -1,5 +1,7 @@
-NPC;+STOCK;29;3;83664.59;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;9;4;97669.48;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;29;4;128724.3;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;40;4;112059.3;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;37;4;137473.4;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+LOCAL;5;1;128676.3;StarShepards Headquarters;Void Starcross;0h 28m 28s ;1708.679
+NPC;+QTY;38;3;77187.5;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;+STOCK;9;4;70071.55;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;36;3;109219;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;15;2;123987.5;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+QTY;9;3;108225;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;BAL;14;-2;68134.05;ValueStar;Hunu;2h 58m 0s ;10680.39

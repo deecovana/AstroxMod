@@ -1,12 +1,21 @@
-NPC;-LOCAL;0;0;63.3705;Biomate University;Void Starcross;0h 6m 57s ;417.5862
-NPC;+STOCK;878;878;75.84195;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;-LOCAL;0;0;106.2297;Biomate University;Void Starcross;0h 44m 13s ;2653.042
-NPC;-LOCAL;0;0;127.25;Biomate University;Void Starcross;2h 5m 25s ;7525.863
-NPC;-LOCAL;36;36;57.2625;Biomate University;Void Starcross;2h 50m 32s ;10232.55
-NPC;+STOCK;890;886;55.0327;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;753;744;38.90417;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;876;825;35.57401;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1009;920;38.85101;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-LOCAL;58;58;57.2625;Biomate University;Void Starcross;3h 40m 14s ;13214.13
-NPC;-LOCAL;0;0;126.9509;Biomate University;Void Starcross;4h 48m 51s ;17331.44
-NPC;-LOCAL;15;15;57.2827;Biomate University;Void Starcross;6h 6m 44s ;22004.29
+NPC;-PRICE;26;0;62.16858;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;55;0;52.94136;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+NPC;-LOCAL;8;0;60.8255;Biomate University;Void Starcross;0h 1m 1s ;61.12946
+NPC;+QTY;779;758;42.94688;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;-LOCAL;16;16;57.2625;Biomate University;Void Starcross;1h 30m 26s ;5426.412
+NPC;BAL;6;0;54.05585;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;-LOCAL;10;0;57.2625;Biomate University;Void Starcross;1h 57m 4s ;7024.489
+NPC;-LOCAL;0;0;75.63601;Biomate University;Void Starcross;2h 15m 7s ;8107.128
+NPC;+STOCK;781;781;81.38206;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;860;856;42.47998;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;834;825;28.45202;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;777;726;24.9714;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;806;717;29.19178;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;-LOCAL;0;0;79.78038;Biomate University;Void Starcross;2h 30m 13s ;9013.771
+NPC;+QTY;879;859;21.50525;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;-LOCAL;0;0;81.73055;Biomate University;Void Starcross;2h 36m 32s ;9392.951
+NPC;-LOCAL;0;0;86.46243;Biomate University;Void Starcross;2h 50m 9s ;10209.02
+NPC;-LOCAL;0;0;94.41537;Biomate University;Void Starcross;3h 3m 35s ;11015.9
+NPC;-LOCAL;0;0;105.9506;Biomate University;Void Starcross;3h 15m 34s ;11734.13
+NPC;-LOCAL;0;0;109.0955;Biomate University;Void Starcross;3h 20m 14s ;12014.06
+NPC;-LOCAL;0;0;112.4039;Biomate University;Void Starcross;3h 28m 49s ;12529.77

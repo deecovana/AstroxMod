@@ -1,4 +1,9 @@
-NPC;+STOCK;122;12;43333.46;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;40;0;49424.69;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;60;10;53489.51;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;112;14;39850.39;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;110;0;36311.14;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;88;0;17292.43;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+NPC;-PRICE;13;0;22553.71;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;+STOCK;120;10;36292.61;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;64;14;44536.91;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;53;11;24212.04;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;111;13;30918.22;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;23;14;32062.5;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;BAL;81;-9;47653.32;Kith;Kidd Overture;2h 58m 0s ;10680.39

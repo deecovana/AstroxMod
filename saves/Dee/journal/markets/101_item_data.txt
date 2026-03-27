@@ -1,14 +1,13 @@
-NPC;+STOCK;1416;238;0.9429384;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-PLAYER;+QTY;445;240;0.5203125;Acrondia Hub;Temple Gates;1h 4m 17s ;3857.461
-NPC;+PRICE;712;0;0.9168186;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;-QTY;81;-157;0.7004765;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;1398;220;0.9390815;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;505;243;0.6056549;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;863;189;0.8682225;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1155;224;0.5620324;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-PLAYER;+QTY;1882;484;0.9392579;Biomate University;Void Starcross;3h 41m 7s ;13267.73
-PLAYER;+QTY;2246;364;0.9317579;Biomate University;Void Starcross;3h 46m 7s ;13567.14
-PLAYER;+QTY;2734;488;0.9240234;Biomate University;Void Starcross;4h 49m 9s ;17349.04
-PLAYER;+QTY;845;304;0.9395859;StarGypsy Warehouse;Void Starcross;5h 7m 45s ;18465.46
-PLAYER;+QTY;3066;332;0.9157969;Biomate University;Void Starcross;6h 6m 59s ;22020
-NPC;+PRICE;81;0;0.7310482;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
+NPC;-PRICE;656;0;0.7597747;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+NPC;+QTY;213;173;0.331875;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;+QTY;635;235;0.6328125;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;-PRICE;381;0;0.5465934;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;BAL;8;-245;0.7896029;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;1374;196;0.8281675;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;489;227;0.4192776;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;768;227;0.7791446;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;848;174;0.7226521;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1122;191;0.3937353;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1482;193;0.5890986;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;420;219;0.5803125;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;BAL;69;0;0.7623506;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39

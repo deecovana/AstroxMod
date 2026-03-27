@@ -1,1 +1,3 @@
-NPC;+STOCK;200;123;689.6872;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+QTY;454;95;493.9044;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;+STOCK;207;130;562.5422;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;127;0;562.0543;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865

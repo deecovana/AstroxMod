@@ -1,4 +1,8 @@
-NPC;+STOCK;140;12;14635.18;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;127;14;9547.404;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;36;13;17479.83;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;90;0;19201.8;Inovex;Goru Populan;6h 14m 52s ;22492.41
+NPC;-PRICE;93;0;9685.822;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;BAL;100;-13;8107.451;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;65;-8;12441.86;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;140;12;11499.25;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;111;11;7695.583;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;36;13;14618.64;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;16;0;14370.68;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;BAL;127;-7;12801.13;ValueStar;Hunu;2h 58m 0s ;10680.39

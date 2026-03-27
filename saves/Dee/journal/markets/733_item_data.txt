@@ -1,4 +1,7 @@
-NPC;+STOCK;192;13;88666.16;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;189;10;87960.95;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;95;12;110951.5;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-5;98278.13;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03
+NPC;BAL;25;-9;99440.96;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;193;14;69928.75;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;37;12;95305.69;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;118;12;96066.82;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;32;13;67707.19;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;93;10;91220.73;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;106;14;93375;Gunstellar;Adrenal;2h 29m 20s ;8960.865

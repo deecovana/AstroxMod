@@ -1,7 +1,8 @@
-NPC;+STOCK;2030;1947;57.56047;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;2442;2359;59.59221;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1899;1699;66.62447;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2468;2111;73.7616;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2448;2402;119.4119;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2291;2119;62.88831;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;3;0;59.54708;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
+NPC;-PRICE;249;0;95.47311;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;-PRICE;89;0;58.30404;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;+STOCK;2370;2287;39.96714;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2558;2358;42.94328;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2078;1721;55.90929;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2212;2166;97.92784;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2614;2442;44.39573;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;1573;1412;71.62313;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667

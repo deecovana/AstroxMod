@@ -1,7 +1,8 @@
-NPC;+STOCK;2073;1879;158.2032;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;2064;1870;164.2546;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1902;1873;148.2319;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2601;2438;209.0688;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2482;2386;213.2723;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1748;1688;231.95;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;43;0;197.2375;SimKitten;Kolkax Prime;6h 14m 52s ;22492.41
+NPC;+LOCAL;60;8;200.6523;Daemon Ammunitions;Starfort Ramos;0h 50m 56s ;3056.125
+NPC;-PRICE;15;0;157.2863;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;+STOCK;2296;2102;128.9374;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2484;2455;104.3647;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2233;2137;171.7381;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;299;0;85.2878;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+PRICE;164;0;224.4176;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;BAL;66;0;139.7949;Kith;Kidd Overture;2h 58m 0s ;10680.39

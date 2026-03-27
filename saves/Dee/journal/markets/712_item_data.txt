@@ -1,9 +1,15 @@
-NPC;+STOCK;78;23;180661.9;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;11;0;91033.26;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;72;17;178434.7;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;41;19;178224.3;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;160;21;113636.3;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;105;16;117289.7;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;2;0;142958.8;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
-NPC;+PRICE;30;0;164026.5;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
-NPC;+PRICE;1;0;129278.1;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
+NPC;+QTY;39;16;93375;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;+QTY;27;16;63562.5;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;-PRICE;30;0;131767.7;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
+NPC;+STOCK;25;24;84809.7;Star Shepards Hub;Temple Gates;0h 57m 57s ;3477.823
+NPC;BAL;71;-17;111841;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;6;-24;102704.4;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;BAL;11;0;153338.2;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;79;24;156894.2;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;42;20;143507.6;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;89;18;107697.3;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;163;24;85587.99;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;45;21;58423.86;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;111;22;88367.59;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;91;0;162516.4;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+QTY;111;20;162562.5;Psybermind;Ion Child;2h 36m 11s ;9371.667

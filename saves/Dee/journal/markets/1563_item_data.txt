@@ -1,8 +1,14 @@
-NPC;+STOCK;93;8;37858.87;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+LOCAL;12;10;16957.46;Biomate University;Void Starcross;2h 5m 25s ;7525.863
-NPC;+STOCK;22;10;16313.4;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;20;8;50203.16;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;83;11;43340;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;12;7;16957.46;Biomate University;Void Starcross;3h 40m 14s ;13214.13
-NPC;+LOCAL;12;5;16957.46;Biomate University;Void Starcross;4h 48m 51s ;17331.44
-NPC;+LOCAL;12;15;16957.46;Biomate University;Void Starcross;6h 6m 44s ;22004.29
+NPC;+LOCAL;12;1;39492.86;Biomate University;Void Starcross;1h 57m 4s ;7024.489
+NPC;+LOCAL;12;2;24434.75;Biomate University;Void Starcross;2h 15m 7s ;8107.128
+NPC;+STOCK;23;11;12535.67;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;23;11;40076.36;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;83;11;32937.1;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+LOCAL;12;1;21760.72;Biomate University;Void Starcross;2h 30m 13s ;9013.771
+NPC;+PRICE;19;0;56682.82;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+QTY;17;6;34632.35;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;+LOCAL;12;1;19582.39;Biomate University;Void Starcross;2h 36m 32s ;9392.951
+NPC;+LOCAL;12;1;16957.46;Biomate University;Void Starcross;2h 50m 9s ;10209.02
+NPC;+LOCAL;12;1;16957.46;Biomate University;Void Starcross;3h 3m 35s ;11015.9
+NPC;+LOCAL;12;2;16957.46;Biomate University;Void Starcross;3h 15m 34s ;11734.13
+NPC;+LOCAL;12;1;16957.46;Biomate University;Void Starcross;3h 20m 14s ;12014.06
+NPC;+LOCAL;12;1;16957.46;Biomate University;Void Starcross;3h 28m 49s ;12529.77

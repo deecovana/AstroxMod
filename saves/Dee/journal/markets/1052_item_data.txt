@@ -1,4 +1,6 @@
-NPC;+PRICE;14;0;2203.208;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;53;8;1692.005;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;52;9;1789.184;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;32;11;1550.911;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;14;0;1755.48;Keyworx;Geminey;0h 0m 23s ;23.44398
+NPC;+QTY;21;7;1756.625;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;-PRICE;34;0;1004.229;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;+STOCK;56;11;1314.56;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;31;0;1602.338;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+QTY;42;9;1549.625;Gunstellar;Adrenal;2h 29m 20s ;8960.865

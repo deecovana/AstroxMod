@@ -1,5 +1,12 @@
-NPC;+STOCK;1871;1751;18.3833;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;-QTY;0;-98;19.01353;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;2661;2348;18.67146;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2661;2490;13.18728;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2378;2008;14.58761;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;163;0;9.668656;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;BAL;182;0;8.87974;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;92;0;14.3125;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;2435;2122;15.35723;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1888;1706;8.461921;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2270;2099;10.26314;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2383;2013;11.51354;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;297;0;10.17006;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;2210;2189;16.70196;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+QTY;2279;2108;15.78412;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+PLAYER;-QTY;0;120;16.33629;Biomate University;Void Starcross;2h 42m 50s ;9770.702
+PLAYER;+QTY;78;78;16.41806;Biomate University;Void Starcross;3h 7m 54s ;11274.68

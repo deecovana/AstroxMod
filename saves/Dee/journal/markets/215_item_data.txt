@@ -1,12 +1,18 @@
-NPC;+STOCK;243;149;123.4273;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;0;0;281.6512;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;+LOCAL;150;135;50.505;Biomate University;Void Starcross;2h 5m 25s ;7525.863
-NPC;+STOCK;299;149;48.58678;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;-LOCAL;90;0;181.041;Astrox Security Patrol;Felishar;3h 28m 20s ;12500.18
-NPC;+LOCAL;150;79;50.505;Biomate University;Void Starcross;3h 40m 14s ;13214.13
-NPC;+LOCAL;150;70;50.505;Biomate University;Void Starcross;4h 48m 51s ;17331.44
-NPC;+LOCAL;150;139;50.505;Biomate University;Void Starcross;6h 6m 44s ;22004.29
-NPC;+PRICE;117;0;133.2867;SimKitten;Kolkax Prime;6h 14m 52s ;22492.41
-NPC;-LOCAL;0;0;245.7178;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
-NPC;-LOCAL;0;0;253.6613;Horizons;Gate of Alpharis;6h 37m 57s ;23877.8
-NPC;-LOCAL;0;0;260.8278;Horizons;Gate of Alpharis;6h 42m 43s ;24163.49
+NPC;-PRICE;681;0;135.6074;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;711;75;70.51275;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;+LOCAL;150;185;50.505;Biomate University;Void Starcross;1h 30m 26s ;5426.412
+NPC;BAL;92;0;186.4763;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+LOCAL;150;3;50.505;Biomate University;Void Starcross;1h 57m 4s ;7024.489
+NPC;+LOCAL;150;27;50.505;Biomate University;Void Starcross;2h 15m 7s ;8107.128
+NPC;+STOCK;285;135;21.40635;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;415;0;89.7196;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+PRICE;128;0;136.5361;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+PRICE;21;0;178;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+QTY;797;116;135.5865;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+LOCAL;150;3;50.505;Biomate University;Void Starcross;2h 36m 32s ;9392.951
+NPC;+LOCAL;150;7;50.505;Biomate University;Void Starcross;2h 50m 9s ;10209.02
+NPC;BAL;83;0;168.9426;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+LOCAL;150;13;50.505;Biomate University;Void Starcross;3h 3m 35s ;11015.9
+NPC;+LOCAL;150;17;50.505;Biomate University;Void Starcross;3h 15m 34s ;11734.13
+NPC;+LOCAL;150;4;50.505;Biomate University;Void Starcross;3h 20m 14s ;12014.06
+NPC;+LOCAL;150;5;50.505;Biomate University;Void Starcross;3h 28m 49s ;12529.77

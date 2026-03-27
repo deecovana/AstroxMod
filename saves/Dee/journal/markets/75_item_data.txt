@@ -1,7 +1,4 @@
-NPC;+STOCK;2431;1976;83.40327;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;2395;1940;83.88048;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2348;2207;140.6539;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2189;1934;159.3714;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-86;107.5147;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
-NPC;+PRICE;2;0;150.9893;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
-NPC;+STOCK;1758;1749;102.31;Tella's;Bitcola;7h 27m 33s ;26853.91
+NPC;+STOCK;2946;2491;63.57214;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2387;2361;62.3434;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1922;1781;112.2089;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;2524;2397;76.01212;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667

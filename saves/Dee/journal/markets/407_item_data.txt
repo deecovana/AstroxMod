@@ -1,12 +1,14 @@
-NPC;+STOCK;747;706;444.9907;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;-LOCAL;15;0;497.805;Lacuna Bandits;Ballast Crow;1h 13m 21s ;4401.266
-NPC;+PRICE;8;0;304.2936;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+PRICE;60;0;564.4571;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;907;866;442.6398;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;814;770;391.6656;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;937;894;501.8192;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;845;829;423.6358;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1056;986;491.6694;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;797;720;422.0616;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;11;0;495.399;Inovex;Goru Populan;6h 14m 52s ;22492.41
-NPC;-LOCAL;7;0;484.875;Tella's;Bitcola;7h 29m 50s ;26990.48
+NPC;-PRICE;41;0;364.6617;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;548;542;457.9375;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;-LOCAL;15;0;497.805;Lacuna Bandits;Ballast Crow;1h 1m 0s ;3660.644
+NPC;BAL;43;0;410.401;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;10;0;382.3461;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;BAL;20;0;348.1227;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;974;933;370.5388;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;984;940;293.0547;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;732;689;405.6507;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;774;758;334.6348;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1044;967;333.8236;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;37;0;333.6552;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+PRICE;63;0;193.2372;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;740;723;263.9875;CoraVault;Lins;2h 29m 20s ;8960.865

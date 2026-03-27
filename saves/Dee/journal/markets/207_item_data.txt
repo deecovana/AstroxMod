@@ -1,5 +1,6 @@
-NPC;+PRICE;26;0;99.49977;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;+PRICE;162;0;167.6975;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;649;125;112.2568;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;840;109;131.578;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;41;15;98.31219;Horizons;Gate of Alpharis;6h 37m 57s ;23877.8
+NPC;BAL;403;-121;96.46365;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;140;-112;116.2116;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;505;102;91.80267;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;878;147;107.4035;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;809;88;120.263;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;252;96;80.8665;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667

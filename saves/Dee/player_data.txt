@@ -2,39 +2,39 @@
 <PLAYER>
 PLAYER;name;Dee
 PLAYER;level;4
-PLAYER;xp;7244.00
+PLAYER;xp;6802.00
 PLAYER;next_level_xp;9100.00
 PLAYER;last_level_xp;5100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;1114140.78
+PLAYER;credits;575760.12
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;8
-PLAYER;playtime;28037.15
+PLAYER;skill_points;13
+PLAYER;playtime;12575.68
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
-PLAYER;max_missions;2
-PLAYER;face_1;male_17.png
+PLAYER;max_missions;1
+PLAYER;face_1;male_13.png
 PLAYER;face_2;accessory_1.png
-PLAYER;face_bg;accessory_1.png
-PLAYER;profession_id;0
+PLAYER;face_bg;bgimg_14.png
+PLAYER;profession_id;20
 PLAYER;passive_scanner_settings;False,False,False,False,False,False,True,True,True
 PLAYER;autopilot_settings;True,False,True,True,False
-PLAYER;orbit_data;False,300,0,0,False
+PLAYER;orbit_data;True,700,-15,3,False
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
 PLAYER;cargo_settings;ALL,Name,Ascend,1
-PLAYER;targeting_settings;Name,Ascend
-PLAYER;station_market_settings;SEARCH,Price,Ascend,25
+PLAYER;targeting_settings;Name,Descend
+PLAYER;station_market_settings;SEARCH,Price,Ascend,100
 PLAYER;station_university_settings;SEARCH,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
 PLAYER;sector;sector_0.txt
 PLAYER;sector_id;0
-PLAYER;station;null
-PLAYER;isdocked;False
+PLAYER;station;sector_0_station_0.txt
+PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;3718.76;-918.65;2029.54
+SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;-408.34;260.83;-4454.45
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
@@ -42,22 +42,17 @@ SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0
 // SKILL; skill id, skill lvl, train time remaining, total time
 <SKILLS>
 SKILL;215;1;0;0
-SKILL;41;3;0;0
-SKILL;11;1;0;0
-SKILL;42;2;0;120
-SKILL;55;1;0;0
-SKILL;56;1;0;0
-SKILL;45;1;0;0
-SKILL;240;2;0;130
-SKILL;44;2;0;240
+SKILL;41;1;0;0
+SKILL;11;3;0;360
+SKILL;60;2;0;0
+SKILL;61;1;0;0
+SKILL;58;2;0;0
+SKILL;52;1;0;0
+SKILL;101;1;0;0
 SKILL;21;3;0;360
-SKILL;51;1;0;60
-SKILL;100;1;0;85
-SKILL;54;1;0;60
-SKILL;81;1;0;60
-SKILL;60;1;0;120
-SKILL;231;1;0;180
-SKILL;23;1;0;90
+SKILL;1;2;0;240
+SKILL;216;1;0;60
+SKILL;217;1;0;90
 
 
 
@@ -65,25 +60,26 @@ SKILL;23;1;0;90
 <MEDALS>
 MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful excavation of 100 units of Adamyte. 
 MEDAL;8;True;medal_17.png;First Mission Completed;Awarded for the successful completion of your very first Mission. 
+MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your first raider in combat. 
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
-MISSION;42;64;941943;SCAN_PILOT#sector_0_station_4.txt#sector_3.txt#Mr. Neah Jelyel#npc_ship_data_(excavation_cruiser_1)#10#null#null#null;Track down and scan <color='yellow'><i>Mr. Neah Jelyel</i></color> in <color='cyan'>Starfort Ramos</color> and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;2;0;False;13484.84;0;Civil faction has requested that we verify the whereabouts of a <color='yellow'><i>Mr. Neah Jelyel</i></color>. After a recent ban order from the high court minister <i>Vajkee Lasjonortis</i>, <color='cyan'>Starfort Ramos</color> officials are worried that <color='yellow'><i>Mr. Neah Jelyel</i></color> might cause problems for the local merchants. Scan <color='yellow'><i>Mr. Neah Jelyel</i></color>'s ship and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color> with the scan record.
+MISSION;202;1439;188688;KILL_PILOT#sector_0_station_0.txt#sector_0.txt#Target Drone#npc_ship_data_(target_drone)#1#is_raider#null#null;( Tutorial 2 ) Destroy target drone in <color='cyan'>Void Starcross</color> and return to Biomate University in <color='cyan'>Void Starcross</color>;1;0;False;7983;0;This tutorial mission will require that you locate the target drone (SPACEBAR) will help, and destroy it. When finished, you will need to return to the Biomate University in <color='cyan'>Void Starcross</color>.
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
 STAT;0;;0;
-STAT;1;Projectile Weapons Fired;0;Weapons
-STAT;2;Laser Weapons Fired;0;Weapons
-STAT;3;Beam Weapons Fired;0;Weapons
+STAT;1;Projectile Weapons Fired;36;Weapons
+STAT;2;Laser Weapons Fired;251;Weapons
+STAT;3;Beam Weapons Fired;23;Weapons
 STAT;4;Launcher Weapons Fired;0;Weapons
 STAT;5;Torpedo Weapons Fired;0;Weapons
 STAT;6;Salvage Beams Fired;0;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;340;Excavation
-STAT;11;Adamyte Ore Mined;3913;Excavation
+STAT;10;Mining lasers Fired;70;Excavation
+STAT;11;Adamyte Ore Mined;247;Excavation
 STAT;12;Gradeon Ore Mined;0;Excavation
 STAT;13;Quazor Ore Mined;0;Excavation
 STAT;14;Lokken Ore Mined;0;Excavation
@@ -98,20 +94,20 @@ STAT;22;Junk Collected;0;Excavation
 STAT;23;Scraps Collected;0;Excavation
 STAT;24;Salvage Collected;0;Excavation
 STAT;25;Derelicts Collected;0;Excavation
-STAT;26;Missions Complete;9;Missions
+STAT;26;Missions Complete;13;Missions
 STAT;27;Missions Expired;0;Missions
 STAT;28;Missions Aborted;0;Missions
-STAT;29;Transport Missions Complete;2;Missions
+STAT;29;Transport Missions Complete;0;Missions
 STAT;30;Collection Missions Complete;0;Missions
-STAT;31;Delivery Missions Complete;4;Missions
+STAT;31;Delivery Missions Complete;0;Missions
 STAT;32;Recon Missions Complete;0;Missions
-STAT;33;Harvest Missions Complete;3;Missions
+STAT;33;Harvest Missions Complete;1;Missions
 STAT;34;Escort Missions Complete;0;Missions
 STAT;35;Recover Missions Complete;0;Missions
-STAT;36;Kill Missions Complete;0;Missions
+STAT;36;Kill Missions Complete;24;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
-STAT;38;Sectors Explored;3;Navigation
-STAT;39;Warp gate Jumps;40;Navigation
+STAT;38;Sectors Explored;2;Navigation
+STAT;39;Warp gate Jumps;6;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;0;Missions
@@ -122,9 +118,9 @@ STAT;46;;0;
 STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
-STAT;50;Skill Levels Trained;17;Skills
-STAT;51;Skill Points Earned;66;Skills
-STAT;52;Skill Points Spent;113;Skills
+STAT;50;Skill Levels Trained;11;Skills
+STAT;51;Skill Points Earned;55;Skills
+STAT;52;Skill Points Spent;103;Skills
 STAT;53;;0;
 STAT;54;;0;
 STAT;55;;0;
@@ -132,7 +128,7 @@ STAT;56;;0;
 STAT;57;;0;
 STAT;58;Structures Destroyed;0;Combat
 STAT;59;Npcs Destroyed;0;Combat
-STAT;60;Raiders Destroyed;0;Combat
+STAT;60;Raiders Destroyed;11;Combat
 STAT;61;Projectile Damage Taken;0;Combat
 STAT;62;Laser Damage Taken;0;Combat
 STAT;63;Beam Damage Taken;0;Combat
@@ -148,3 +144,5 @@ STAT;65;Torpedo Damage Taken;0;Combat
 // PLOT; PLOT name ; PLOT value
 <PLOT>
 PLOT;welcome_center;2
+PLOT;tutorial_intro;4
+PLOT;tutorial_combat;2

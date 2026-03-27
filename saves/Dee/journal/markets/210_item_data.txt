@@ -1,12 +1,12 @@
-NPC;+STOCK;197;110;49.84077;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+LOCAL;150;63;24.9275;Biomate University;Void Starcross;0h 44m 13s ;2653.042
-NPC;+PRICE;286;0;101.3587;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
-NPC;+LOCAL;150;43;24.9275;Biomate University;Void Starcross;2h 50m 32s ;10232.55
-NPC;-QTY;0;-15;47.81765;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;276;126;23.98073;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;150;64;24.9275;Biomate University;Void Starcross;3h 40m 14s ;13214.13
-NPC;+LOCAL;150;62;24.9275;Biomate University;Void Starcross;4h 48m 51s ;17331.44
-NPC;+LOCAL;150;213;24.9275;Biomate University;Void Starcross;6h 6m 44s ;22004.29
-NPC;-LOCAL;0;0;112.0737;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
-NPC;-LOCAL;0;0;115.9943;Horizons;Gate of Alpharis;6h 37m 57s ;23877.8
-NPC;-LOCAL;0;0;119.5315;Horizons;Gate of Alpharis;6h 42m 43s ;24163.49
+NPC;+LOCAL;150;174;24.9275;Biomate University;Void Starcross;1h 30m 26s ;5426.412
+NPC;+LOCAL;150;3;24.9275;Biomate University;Void Starcross;1h 57m 4s ;7024.489
+NPC;+LOCAL;150;15;24.9275;Biomate University;Void Starcross;2h 15m 7s ;8107.128
+NPC;+STOCK;272;122;10.56542;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;427;0;42.71179;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+PRICE;203;0;40.66027;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+LOCAL;150;3;24.9275;Biomate University;Void Starcross;2h 36m 32s ;9392.951
+NPC;+LOCAL;150;7;24.9275;Biomate University;Void Starcross;2h 50m 9s ;10209.02
+NPC;BAL;191;-148;72.15067;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+LOCAL;150;9;24.9275;Biomate University;Void Starcross;3h 3m 35s ;11015.9
+NPC;+LOCAL;150;10;24.9275;Biomate University;Void Starcross;3h 15m 34s ;11734.13
+NPC;+LOCAL;150;5;24.9275;Biomate University;Void Starcross;3h 28m 49s ;12529.77

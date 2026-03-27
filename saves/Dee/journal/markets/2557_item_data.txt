@@ -1,3 +1,4 @@
-NPC;+STOCK;37;2;132060.1;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;29;2;153778.3;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;13;2;159246.2;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;BAL;26;-1;133529;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;37;2;93276.45;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;28;2;128383.4;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;13;2;122072.5;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133

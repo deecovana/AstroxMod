@@ -1,2 +1,5 @@
-NPC;+LOCAL;12;1;3974.8;Acrondia Hub;Temple Gates;1h 53m 3s ;6783.414
-NPC;+STOCK;103;9;5732.159;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;94;0;4730.469;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+STOCK;102;8;4717.856;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;2;0;5669.424;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;46;6;3068.75;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;2;0;5463.818;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389

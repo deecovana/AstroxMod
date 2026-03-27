@@ -1,9 +1,24 @@
-NPC;+PRICE;39;0;5948.536;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;52;4;4312.453;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;17;3;3719.051;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;44;3;3281.236;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;15;4;4238.815;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;53;4;6220.87;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;4;-2;6505.313;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;3;0;3438.132;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
-NPC;+PRICE;2;0;5078.938;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
+NPC;-PRICE;7;0;4289.181;Keyworx;Geminey;0h 0m 23s ;23.44398
+NPC;-PRICE;48;0;3367.712;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;12;0;3341.112;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+PLAYER;+QTY;49;1;3568.75;Biomate University;Void Starcross;0h 3m 30s ;210.1761
+NPC;+LOCAL;5;1;3305.83;StarShepards Headquarters;Void Starcross;0h 28m 28s ;1708.679
+NPC;+QTY;30;2;2618.75;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;-PRICE;17;0;3461.284;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;-PRICE;2;0;3935.105;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
+NPC;-PRICE;16;0;2997.493;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;BAL;17;-3;4936.379;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;7;-4;4353.105;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;53;4;3375.631;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;17;3;2666.856;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;20;3;4688.708;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;8;3;2262.709;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;14;3;3090.834;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;52;3;5223.058;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;17;0;4296.467;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+PRICE;23;0;5724.6;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+PRICE;3;0;5506.835;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+QTY;6;4;5212.5;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+QTY;16;3;5368.75;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+QTY;16;4;3362.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;24;3;5518.75;Psybermind;Ion Child;2h 36m 11s ;9371.667

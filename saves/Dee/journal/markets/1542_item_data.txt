@@ -1,2 +1,4 @@
-NPC;+STOCK;107;11;12437.89;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;12;3;9682.776;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
+NPC;BAL;25;-11;10948.67;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;BAL;21;-6;8930.688;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+QTY;29;7;12255.35;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+QTY;95;9;6355.008;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

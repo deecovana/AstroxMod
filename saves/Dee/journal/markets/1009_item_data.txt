@@ -1,5 +1,6 @@
-NPC;+STOCK;37;8;1455.163;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;39;10;1510.664;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;27;9;1544.044;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;1;-11;1520.338;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;4;0;2781.78;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
+NPC;-PRICE;29;0;1120.601;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;30;10;1218.25;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;-PRICE;4;0;2213.477;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
+NPC;+STOCK;28;10;954.2626;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+PLAYER;-QTY;27;2;1146.887;Biomate University;Void Starcross;2h 39m 34s ;9574.85
+PLAYER;+QTY;29;2;1154.725;Biomate University;Void Starcross;3h 20m 27s ;12027.95

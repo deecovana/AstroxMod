@@ -1,6 +1,6 @@
-NPC;+PRICE;168;0;28.96192;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;546;146;39.06371;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;203;136;48.81807;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;775;104;59.95527;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;794;130;27.13988;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;35;-137;49.95599;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03
+NPC;+LOCAL;150;1;39.01167;Lammassu Financial;Void Starcross;0h 20m 42s ;1242.087
+NPC;-PRICE;375;0;33.56816;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;BAL;67;0;40.72771;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;140;-112;39.56615;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;299;149;27.42359;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;44;0;46.77327;Fellacore Research Center;Grace;2h 34m 4s ;9244.389

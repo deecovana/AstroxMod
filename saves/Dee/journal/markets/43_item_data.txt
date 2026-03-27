@@ -1,6 +1,11 @@
-NPC;+STOCK;2373;2282;30.417;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;2278;2187;31.35374;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2609;2488;39.87574;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;111;0;22.22565;SimKitten;Kolkax Prime;6h 14m 52s ;22492.41
-NPC;+PRICE;35;0;42.34613;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
-NPC;+LOCAL;32;8;21.69025;Daemon Ammunitions;Starfort Ramos;7h 10m 36s ;25836.46
+NPC;-PRICE;105;0;30.27463;Keyworx;Geminey;0h 0m 23s ;23.44398
+NPC;-PRICE;91;0;25.22107;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+LOCAL;31;7;21.66005;Daemon Ammunitions;Starfort Ramos;0h 50m 56s ;3056.125
+NPC;BAL;121;0;33.08896;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;117;0;22.41147;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;2251;2160;24.76175;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2107;1986;32.47719;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1902;1761;31.9563;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;203;0;26.98482;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+QTY;1739;1489;17.05852;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+QTY;2218;1920;16.26025;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

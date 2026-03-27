@@ -1,15 +1,11 @@
-PLAYER;-QTY;31;1;2.584375;Acrondia Hub;Temple Gates;1h 3m 8s ;3788.165
-PLAYER;+QTY;77;46;2.609375;Acrondia Hub;Temple Gates;1h 3m 13s ;3793.264
-NPC;-QTY;0;-130;2.258594;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
-NPC;+STOCK;372;168;2.373883;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1241;220;2.125676;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;307;194;1.4079;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;625;182;1.933659;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;348;186;2.340574;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;954;191;2.243787;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-PLAYER;+QTY;475;103;2.380859;Biomate University;Void Starcross;3h 41m 7s ;13267.73
-PLAYER;+QTY;567;92;2.355859;Biomate University;Void Starcross;3h 46m 7s ;13567.14
-PLAYER;+QTY;692;125;2.330078;Biomate University;Void Starcross;4h 49m 9s ;17349.04
-PLAYER;+QTY;391;84;1.406953;StarGypsy Warehouse;Void Starcross;5h 7m 45s ;18465.46
-NPC;-QTY;0;-113;2.527656;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-PLAYER;+QTY;773;81;2.302656;Biomate University;Void Starcross;6h 6m 59s ;22020
+NPC;-PRICE;227;0;1.626081;Keyworx;Geminey;0h 0m 23s ;23.44398
+NPC;-PRICE;45;0;1.790137;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;324;201;1.00625;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;-PRICE;424;0;2.71547;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;BAL;58;0;2.488552;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;1197;176;1.586036;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;344;182;1.865746;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;944;181;1.730531;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;237;137;2.804375;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
+NPC;+QTY;273;150;1.059375;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;BAL;440;-215;1.223791;ValueStar;Hunu;2h 58m 0s ;10680.39

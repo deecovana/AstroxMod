@@ -1,13 +1,16 @@
-NPC;+STOCK;805;715;23.42521;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;-LOCAL;28;0;34.875;Lacuna Bandits;Ballast Crow;1h 13m 21s ;4401.266
-NPC;-QTY;0;-18;27.09303;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;780;690;23.49071;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;884;876;37.47024;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;750;736;38.7332;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;812;770;32.19213;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-3;40.07622;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03
-NPC;+PRICE;9;0;34.4582;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
-NPC;+PRICE;25;0;36.19853;Inovex;Goru Populan;6h 14m 52s ;22492.41
-NPC;+PRICE;34;0;37.80153;Psybermind;Ion Child;7h 13m 39s ;26019.77
-NPC;+STOCK;723;718;37.82427;Tella's;Bitcola;7h 27m 33s ;26853.91
-NPC;-LOCAL;0;0;34.875;Tella's;Bitcola;7h 29m 50s ;26990.48
+NPC;-PRICE;90;0;18.89822;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;844;834;18.40625;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;+QTY;1004;931;25.84625;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;-PRICE;25;0;26.373;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;-LOCAL;35;0;34.875;Lacuna Bandits;Ballast Crow;1h 1m 0s ;3660.644
+NPC;BAL;28;0;18.66052;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;848;758;18.56262;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;715;707;31.2435;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;990;987;32.06274;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;783;772;31.74764;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;5;0;25.02115;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+QTY;899;859;34.21625;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;12;0;30.1211;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+PRICE;1;0;21.27146;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
+NPC;+QTY;654;642;15.2675;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;BAL;30;0;16.13581;ValueStar;Hunu;2h 58m 0s ;10680.39

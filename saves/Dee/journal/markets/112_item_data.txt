@@ -1,6 +1,10 @@
-NPC;+STOCK;1604;180;28.04656;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;1669;245;27.99834;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;254;214;36.52892;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1263;241;33.05904;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1070;194;20.95278;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1400;247;16.61337;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;1424;0;23.37214;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;BAL;806;-216;25.44188;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;1620;196;23.43386;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1114;238;15.14473;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1372;219;11.35678;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;627;203;23.31526;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;660;228;16.59;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;244;207;19.705;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;BAL;235;-227;22.27401;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;BAL;553;-144;23.6685;Kith;Kidd Overture;2h 58m 0s ;10680.39

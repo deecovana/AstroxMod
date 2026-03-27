@@ -1,2 +1,7 @@
-NPC;+STOCK;54;10;13919.39;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;21;11;12753.37;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+QTY;52;9;6907.875;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;+STOCK;53;9;11611;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;20;10;10950.98;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;112;10;6208.095;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;51;0;11579.28;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+PRICE;3;0;12400.97;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+QTY;10;8;8215.875;Gunstellar;Adrenal;2h 29m 20s ;8960.865

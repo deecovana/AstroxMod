@@ -1,5 +1,5 @@
-NPC;+LOCAL;112;1;13.26782;Acrondia Hub;Temple Gates;1h 2m 42s ;3762.632
-NPC;+PRICE;137;0;10.29587;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
-NPC;+LOCAL;118;6;13.01152;Acrondia Hub;Temple Gates;1h 49m 33s ;6573.42
-NPC;-QTY;32;-123;9.132113;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;-QTY;22;-127;12.11571;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03
+NPC;+STOCK;220;119;6.007664;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;133;0;7.77968;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;592;96;6.5265;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;322;128;8.911949;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
+NPC;+QTY;348;92;5.17275;Psybermind;Ion Child;2h 36m 11s ;9371.667

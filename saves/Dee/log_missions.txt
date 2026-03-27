@@ -1,20 +1,14 @@
 //;LOG DATA FILE (Astrox Imperium)
-COMPLETED;Delivery;Light delivery of ;18,971;123829.040620089;Tella's;Bitcola;7h 27m 34s 
-ACCEPTED;Delivery;Light delivery of 2 Entex...;-5200;99858.1402294636;Daemon Ammunitions;Starfort Ramos;7h 12m 55s 
-ACCEPTED;Scan;Track down and scan Mr. N...;-0;103387.231415987;Imperium Republica ;Gate of Alpharis;6h 49m 26s 
-COMPLETED;Harvest;Mine Spec...;12,843;94066.0015575886;Horizons;Gate of Alpharis;6h 30m 6s 
-COMPLETED;Transport;Transport a light shipmen...;13,727;81055.1519482136;Horizons;Gate of Alpharis;6h 14m 53s 
-ACCEPTED;Harvest;Mine Special Adamyte Ore ...;-268;62929.3393329382;Imperium Republica ;Gate of Alpharis;5h 48m 44s 
-COMPLETED;Transport;Transport a light shipmen...;11,978;63197.3393329382;Imperium Republica ;Gate of Alpharis;5h 47m 22s 
-ACCEPTED;Transport;Transport a light shipmen...;-4124.7;58643.563781023;StarGypsy Warehouse;Void Starcross;5h 3m 45s 
-ACCEPTED;Transport;Transport a light shipmen...;-382.5;62793.2634880543;Lammassu Financial;Void Starcross;4h 56m 57s 
-COMPLETED;Harvest;Harvest S...;16,691;63175.7634880543;Lammassu Financial;Void Starcross;4h 55m 25s 
-COMPLETED;Delivery;Dock at Transporteers in ...;14,110;46128.4552639723;Transporteers;Hunu;4h 17m 25s 
-ACCEPTED;Harvest;Harvest Special Adamyte O...;-252;26337.2975491285;Biomate University;Void Starcross;4h 6m 36s 
-ACCEPTED;Delivery;Dock at Transporteers in ...;-5781.1;27366.7975491285;Biomate University;Void Starcross;3h 52m 42s 
-COMPLETED;Delivery;Dock at Astrox Security P...;13,814;36243.4307790995;Astrox Security Patrol;Felishar;3h 22m 35s 
-ACCEPTED;Delivery;Dock at Astrox Security P...;-9500;13054.4307790995;Biomate University;Void Starcross;3h 4m 34s 
-COMPLETED;Harvest;Harvest S...;12,507;22798.230774045;Biomate University;Void Starcross;2h 57m 52s 
-ACCEPTED;Harvest;Harvest Special Adamyte O...;-352;20371.08038342;Lacuna Bandits;Ballast Crow;1h 14m 34s 
-COMPLETED;Delivery;Dock at Lacuna Bandits in...;11,941;20973.08038342;Lacuna Bandits;Ballast Crow;1h 12m 34s 
-ACCEPTED;Delivery;Dock at Lacuna Bandits in...;-203;8928.63995373249;Acrondia Hub;Temple Gates;1h 6m 57s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;8,015;75760.1166558266;Biomate University;Void Starcross;3h 28m 25s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;8,047;67751.116656065;Biomate University;Void Starcross;3h 24m 35s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;8,367;55493.5153133869;Biomate University;Void Starcross;3h 19m 15s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;11,000;59595.229786396;Biomate University;Void Starcross;3h 3m 4s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;7,700;48595.229786396;Biomate University;Void Starcross;2h 58m 2s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;7,700;46546.2297866344;Biomate University;Void Starcross;2h 46m 19s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;7,700;51242.7428970337;Biomate University;Void Starcross;2h 36m 11s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;7,700;44369.5482437611;Biomate University;Void Starcross;2h 34m 4s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;7,040;35685.1483049393;Biomate University;Void Starcross;2h 29m 22s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;7,509;28646.348304987;Biomate University;Void Starcross;2h 26m 24s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;7,040;19858.8083794117;Biomate University;Void Starcross;2h 13m 47s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;7,040;16496.1662163734;Biomate University;Void Starcross;1h 53m 52s 
+COMPLETED;Harvest;( Tutorial 1 ) Harvest yo...;6,525;14591.9011230469;Biomate University;Void Starcross;1h 28m 25s 

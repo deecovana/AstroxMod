@@ -1,4 +1,6 @@
-NPC;+PRICE;8;0;65528.19;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;-QTY;17;-10;79343.75;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;72;10;97204.24;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;170;11;104285.5;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+QTY;41;12;90375;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;BAL;52;-10;86904.09;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;116;12;63657.2;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;169;10;86344.38;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;72;12;46183.77;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;BAL;81;-12;67254.86;ValueStar;Hunu;2h 58m 0s ;10680.39

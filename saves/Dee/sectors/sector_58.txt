@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;58
 SECTOR;name;Lins
-SECTOR;level;8.7
+SECTOR;level;8.6
 SECTOR;faction;Trade
 SECTOR;filename;sector_58.txt
 SECTOR;is_explored;False

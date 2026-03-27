@@ -1,7 +1,0 @@
-PLAYER;-QTY;60;2;930.6344;Biomate University;Void Starcross;3h 23m 0s ;12180.43
-NPC;+STOCK;70;10;906.5069;Biomate University;Void Starcross;3h 44m 48s ;13488.87
-NPC;+STOCK;15;11;1062.724;Lammassu Financial;Void Starcross;3h 44m 48s ;13488.87
-NPC;+STOCK;13;11;961.663;Proctors Center;Void Starcross;3h 44m 48s ;13488.87
-NPC;+STOCK;71;11;918.8424;Biomate University;Void Starcross;3h 44m 49s ;13489.92
-NPC;-PRICE;2;0;630.8372;Lacuna Bandits;Ballast Crow;3h 52m 19s ;13939.56
-PLAYER;+QTY;62;2;931.4983;Biomate University;Void Starcross;3h 57m 48s ;14268.73

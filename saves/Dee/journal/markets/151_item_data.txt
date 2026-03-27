@@ -1,5 +1,11 @@
-NPC;+PRICE;103;0;15.44635;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+LOCAL;100;7;7.864231;Acrondia Hub;Temple Gates;1h 53m 3s ;6783.414
-NPC;-QTY;179;-92;16.54961;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;704;102;12.27713;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;454;145;9.554818;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;602;0;9.893856;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;102;0;9.11236;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;BAL;195;-114;8.745353;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;713;111;9.756819;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;234;147;5.803245;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;298;103;8.326494;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;756;132;8.549279;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;166;76;10.57734;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+PRICE;41;0;6.864929;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
+NPC;+QTY;355;101;12.15625;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;BAL;128;0;8.232697;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39

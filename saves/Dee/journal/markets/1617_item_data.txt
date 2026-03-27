@@ -1,3 +1,3 @@
-NPC;+STOCK;30;8;12576.62;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;70;10;24938.01;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;11;-11;21138.5;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
+NPC;BAL;60;-6;15580.68;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;69;9;15181.91;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;71;11;20826.57;Proctors Center;Void Starcross;2h 26m 24s ;8784.133

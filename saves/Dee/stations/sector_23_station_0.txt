@@ -38,7 +38,9 @@ MERC;4;1.77;npc_ship_data_(transport_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-BUYORDER;Market Out of Stock: (1) Items ;20x141;21276;80004.65
+BUYORDER;Market Shortage: (2) Items ;24x32,20x94;60089;55806.82
+BUYORDER;Market Out of Stock: (2) Items ;20x23,21x36;14430;56461.03
+
 ITEM;1151;19;1.00
 ITEM;1055;7;0.80
 ITEM;1101;10;0.63
@@ -212,13 +214,13 @@ ITEM;2320;7;1.11
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
-SKILL;76;1.78
-SKILL;210;1.51
-SKILL;223;2.13
-SKILL;24;0.84
-SKILL;54;1.58
-SKILL;31;1.55
-SKILL;60;0.60
+SKILL;76;1.68
+SKILL;210;1.33
+SKILL;223;1.94
+SKILL;24;0.64
+SKILL;54;1.51
+SKILL;31;1.41
+SKILL;60;0.52
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>

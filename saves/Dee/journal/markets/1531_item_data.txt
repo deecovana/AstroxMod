@@ -1,3 +1,2 @@
-PLAYER;-QTY;18;1;5507.317;Acrondia Hub;Temple Gates;1h 53m 57s ;6837.414
-NPC;-QTY;9;-6;6517.333;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
-PLAYER;+QTY;60;1;6009.57;Starbase Corporate Center;Void Starcross;7h 43m 55s ;27835.09
+NPC;+STOCK;57;11;2715.778;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;69;10;4941.493;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133

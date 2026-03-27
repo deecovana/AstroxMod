@@ -1,4 +1,5 @@
-NPC;-QTY;6;-10;2034.49;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;89;10;1541.772;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-10;1831.392;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03
-NPC;+PRICE;5;0;1612.816;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
+NPC;+QTY;22;11;708.0677;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;+QTY;46;11;1715.703;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;+STOCK;89;10;1221.476;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;5;0;1207.754;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+QTY;36;6;1531.354;Gunstellar;Adrenal;2h 29m 20s ;8960.865

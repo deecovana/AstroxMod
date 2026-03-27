@@ -1,1 +1,4 @@
-NPC;+STOCK;149;100;1027.826;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;BAL;85;0;806.8281;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;235;117;677.8998;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;172;123;799.4876;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;657;94;1111.176;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

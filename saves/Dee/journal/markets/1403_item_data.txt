@@ -1,3 +1,2 @@
-NPC;-QTY;0;-11;66218.28;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;64;11;59099.08;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;39;9;64421.56;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;38;8;54180.93;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;5;0;38334.88;Spacebook;Phistatisia;2h 34m 4s ;9244.389

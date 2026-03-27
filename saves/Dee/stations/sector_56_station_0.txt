@@ -15,9 +15,6 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-9-1-2-0-3-0-0-4-2-1-0-90
 STATION;interior_seed;4-7-30-7
-STATION;refinery_active_time;0
-STATION;fabricator_active_time;0
-STATION;last_dock_time;15685.97
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -42,7 +39,6 @@ MERC;6;0.76;npc_ship_data_(transport_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-BUYORDER;Market Needs Goods: (1) Items ;21x49;17306;81524.43
 ITEM;1171;23;1.08
 ITEM;1053;73;1.16
 ITEM;1116;66;0.80
@@ -333,9 +329,6 @@ SKILL;44;0.66
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;131;140;505536;SALVAGE#6#20#sector_14.txt#sector_0_station_3.txt#null#null#null#null;Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Gate of Alpharis</color> and return with <color='yellow'>6</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>;5;While collecting some junk in the <color='cyan'>Gate of Alpharis</color> system, <i>Oiwit Xidae</i> discovered a light haul of <color='yellow'>6</color> <color='yellow'>Special Junk Part</color>. Unable to collect the material alone, <i>Oiwit Xidae</i> has requested that a capable pilot salvage the <color='yellow'>Special Junk Part</color> and drop it off at the StarShepards Headquarters station located in the <color='cyan'>Void Starcross</color>.;8589;2400
-MISSION;151;120;348432;FABRICATE#6#2426#sector_0_station_0.txt#sector_3_station_0.txt#null#null#null#null;Produce a light container of <color='yellow'>6</color> <color='yellow'>Nuts And Bolts</color> at the Biomate University fabricator in <color='cyan'>Void Starcross</color>;5;The Commerce Faction has commissioned a production liaison, <i>Ximast Jalisgenve</i> at Daemon Ammunitions. After an audit, <color='yellow'>6</color> items of <color='yellow'>Nuts And Bolts</color> were deemed required. Head on over to <color='cyan'>Void Starcross</color> and manufacture these <color='yellow'>Nuts And Bolts</color> at Biomate University.;9750;2500
-MISSION;71;180;536406;ESCORT#sector_0_station_3.txt#sector_56_station_1.txt#Officer Yomes Dalezetase#npc_ship_data_(pirate_cruiser_1)#19#null#null#null;<color='yellow'><i>Officer Yomes Dalezetase</i></color> requests an escort from StarShepards Headquarters in <color='cyan'>Void Starcross</color> to ValueStar in <color='cyan'>Hunu</color>;3;The Astrox Security Patrol has posted a contract for the safe delivery of a <color='yellow'><i>Officer Yomes Dalezetase</i></color>, wanted for questioning in a non-violent incident a few cycles ago in the <color='cyan'>Void Starcross</color> system. Escort <color='yellow'><i>Officer Yomes Dalezetase</i></color> from StarShepards Headquarters to ValueStar in the <color='cyan'>Hunu</color> system.;6435;1650
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -347,4 +340,3 @@ SHIP;5;1.04;ship_data_(support_escort_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
-

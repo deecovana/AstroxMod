@@ -1,6 +1,9 @@
-NPC;+LOCAL;12;1;5313.447;Biomate University;Void Starcross;0h 6m 57s ;417.5862
-NPC;+STOCK;21;9;4956.825;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+LOCAL;12;5;2367.495;Biomate University;Void Starcross;0h 44m 13s ;2653.042
-NPC;+LOCAL;12;7;2367.495;Biomate University;Void Starcross;2h 5m 25s ;7525.863
-NPC;+LOCAL;12;3;2367.495;Biomate University;Void Starcross;2h 50m 32s ;10232.55
-NPC;+LOCAL;12;6;2367.495;Biomate University;Void Starcross;3h 40m 14s ;13214.13
+NPC;-PRICE;14;0;7744.078;Keyworx;Geminey;0h 0m 23s ;23.44398
+NPC;-PRICE;67;0;3794.054;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+LOCAL;12;8;2367.495;Biomate University;Void Starcross;1h 30m 26s ;5426.412
+NPC;+LOCAL;12;1;2367.495;Biomate University;Void Starcross;1h 57m 4s ;7024.489
+NPC;+LOCAL;12;3;2367.495;Biomate University;Void Starcross;2h 15m 7s ;8107.128
+NPC;+STOCK;21;9;1003.454;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+LOCAL;12;1;2367.495;Biomate University;Void Starcross;2h 30m 13s ;9013.771
+NPC;+LOCAL;12;1;2367.495;Biomate University;Void Starcross;2h 36m 32s ;9392.951
+NPC;+LOCAL;12;1;2367.495;Biomate University;Void Starcross;2h 50m 9s ;10209.02

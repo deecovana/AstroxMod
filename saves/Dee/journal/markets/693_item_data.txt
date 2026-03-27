@@ -1,10 +1,12 @@
-NPC;+STOCK;125;19;13767.27;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;11;0;11803.24;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+PRICE;23;0;11551.86;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;-QTY;0;-18;9047.625;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;125;19;13730.35;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;113;23;11836.55;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;113;16;8168.79;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;123;21;12309.35;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;136;17;14860.51;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;28;-20;14087.63;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
+NPC;-PRICE;106;0;11818.72;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;150;0;10137.59;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+NPC;+QTY;34;24;4950;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;-PRICE;39;0;7324.225;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;-PRICE;80;0;12707.44;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;BAL;19;-24;7345.605;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;122;16;11420.1;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;117;20;5789.189;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;123;21;9932.465;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;143;24;12194.47;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;104;0;10577.64;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;107;17;6285;Gunstellar;Adrenal;2h 29m 20s ;8960.865

@@ -1,3 +1,5 @@
-NPC;+PRICE;14;0;10987.34;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;36;9;9751.418;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;2;-7;12583.59;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;-PRICE;25;0;5161.086;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;77;10;10187.16;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;+STOCK;35;8;7046.754;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;20;0;13983.06;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+QTY;23;6;14917.51;Psybermind;Ion Child;2h 36m 11s ;9371.667

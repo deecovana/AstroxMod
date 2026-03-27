@@ -1,2 +1,5 @@
-NPC;+STOCK;52;11;80692.03;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;-QTY;0;-8;76101.91;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;-PRICE;41;0;65757.26;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+STOCK;51;10;65527.14;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;15;10;46603.77;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;61;7;65110.54;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+PRICE;24;0;41325.25;Spacebook;Phistatisia;2h 34m 4s ;9244.389

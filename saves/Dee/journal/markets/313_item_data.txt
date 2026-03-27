@@ -1,8 +1,13 @@
-NPC;+STOCK;1043;953;239.7792;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;14;0;124.2739;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;-QTY;0;-61;147.3724;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;851;761;240.8506;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;843;833;156.6861;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;925;881;283.3154;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1024;944;112.9469;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-LOCAL;900;0;222.006;StarGypsy Warehouse;Void Starcross;5h 7m 25s ;18445.56
+NPC;-LOCAL;26;0;229.83;StarGypsy Warehouse;Void Starcross;0h 25m 47s ;1547.129
+NPC;+QTY;814;800;86.79751;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;BAL;26;0;220.9789;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;28;0;217.2216;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;BAL;6;0;90.53162;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;957;867;204.4834;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;800;790;109.5376;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;826;739;111.6068;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;872;797;140.437;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;746;666;76.88579;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;797;780;80.9295;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+QTY;920;904;78.9735;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;BAL;49;0;202.8906;Kith;Kidd Overture;2h 58m 0s ;10680.39

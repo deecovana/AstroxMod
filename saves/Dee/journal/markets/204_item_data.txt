@@ -1,6 +1,4 @@
-NPC;+PRICE;39;0;80.84917;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;+STOCK;655;111;103.5572;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;812;115;60.86307;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;265;123;98.57541;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;347;0;101.2294;Psybermind;Ion Child;7h 13m 39s ;26019.77
-NPC;+PRICE;39;0;84.9269;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
+NPC;+QTY;762;134;59.67;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;+STOCK;669;125;78.40134;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;834;137;42.34903;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;273;131;77.57553;Proctors Center;Void Starcross;2h 26m 24s ;8784.133

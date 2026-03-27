@@ -1,8 +1,10 @@
-NPC;+STOCK;2624;2138;513.587;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;2786;2300;531.6227;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2540;2441;747.1539;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2440;2431;821.6886;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2629;2423;671.5613;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2029;1969;828.0789;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2454;1999;1089.789;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;1;0;718.7619;Psybermind;Ion Child;7h 13m 39s ;26019.77
+NPC;-PRICE;486;0;373.1761;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;BAL;108;0;728.127;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;1753;1852;715.8952;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;2132;2024;692.5981;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;4022;2269;671.962;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2326;2120;490.2219;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2069;2009;655.6255;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2835;2380;942.486;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;295;0;930.7253;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;BAL;63;0;781.8851;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39

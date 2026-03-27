@@ -1,2 +1,5 @@
-NPC;+STOCK;213;110;1780.352;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;151;126;2290.129;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;103;0;1506.002;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;599;0;1694.652;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;973;85;1939.219;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;BAL;93;0;1284.191;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;156;131;1972.504;Proctors Center;Void Starcross;2h 26m 24s ;8784.133

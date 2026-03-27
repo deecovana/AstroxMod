@@ -1,9 +1,16 @@
-NPC;+STOCK;51;4;6630.001;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-PLAYER;-QTY;46;1;7025;Biomate University;Void Starcross;0h 52m 13s ;3133.653
-NPC;+STOCK;50;4;6879.326;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;8;3;7032.854;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;31;4;8639.931;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;38;4;12687.53;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;11;4;10701.58;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;16;3;12817.23;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;4;0;12325.34;Inovex;Goru Populan;6h 14m 52s ;22492.41
+NPC;-PRICE;7;0;6157.144;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+PLAYER;-QTY;46;1;5337.5;Biomate University;Void Starcross;0h 2m 59s ;179.5098
+NPC;+QTY;7;2;4437.5;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;BAL;24;-3;7977.921;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;14;-4;9068.197;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;8;3;4740.803;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;28;4;7684.505;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;37;3;10696.51;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;10;3;8697.758;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;27;4;8837.5;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;18;0;9863.073;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+QTY;14;2;4025;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;9;3;4517.5;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
+NPC;+QTY;11;4;4537.5;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;+QTY;12;4;9937.5;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;BAL;3;0;6455.067;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39

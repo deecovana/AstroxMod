@@ -1,5 +1,7 @@
-NPC;+LOCAL;15;5;54.0446;Acrondia Hub;Temple Gates;1h 53m 3s ;6783.414
-NPC;-QTY;174;-96;55.94026;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;697;100;46.73487;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;150;1;49.73568;Lammassu Financial;Void Starcross;4h 57m 10s ;17830.33
-NPC;-QTY;86;-89;27.07258;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+LOCAL;150;1;49.73575;Lammassu Financial;Void Starcross;0h 20m 42s ;1242.087
+NPC;+QTY;341;113;21.61088;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;+STOCK;299;149;39.40173;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;699;102;39.37439;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;192;0;28.21218;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;268;133;45.63488;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+QTY;242;119;37.43025;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

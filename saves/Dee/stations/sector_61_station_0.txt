@@ -41,6 +41,7 @@ MERC;1;1.63;npc_ship_data_(transport_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (3) Items ;118x126,109x224,120x154;73747;42033.82
 ITEM;1400;7;1.02
 ITEM;1001;7;1.23
 ITEM;1054;4;0.56

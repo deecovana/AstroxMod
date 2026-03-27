@@ -1,1 +1,3 @@
-NPC;+STOCK;14;2;313.8171;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;-PRICE;12;0;234.1295;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+STOCK;14;2;234.8778;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;38;2;447.1875;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667

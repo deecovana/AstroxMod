@@ -1,4 +1,7 @@
-NPC;+PRICE;15;0;986.1649;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;13;8;822.5964;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-11;603.9562;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;53;0;838.3085;Inovex;Goru Populan;6h 14m 52s ;22492.41
+NPC;+QTY;38;10;642.375;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;BAL;5;0;746.1405;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;5;-11;613.4872;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;13;8;716.5154;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;35;0;507.2509;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+QTY;35;10;812.2499;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+PRICE;5;0;629.3171;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389

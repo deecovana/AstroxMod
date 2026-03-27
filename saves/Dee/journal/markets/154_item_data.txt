@@ -1,6 +1,9 @@
-NPC;+PRICE;65;0;43.82617;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;-QTY;185;-134;39.30419;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
-NPC;+STOCK;189;105;27.86953;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;871;118;44.13468;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;72;-106;36.86351;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;-QTY;0;-27;52.3216;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03
+NPC;-PRICE;84;0;20.03156;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;361;0;56.35183;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;-PRICE;39;0;32.82454;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;+STOCK;208;124;18.82162;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;134;134;69.08892;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;896;143;35.68962;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;264;0;42.28038;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;349;92;22.0185;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+QTY;509;148;56.06563;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

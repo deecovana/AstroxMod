@@ -1,3 +1,5 @@
-NPC;+STOCK;311;144;318.6486;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;394;144;413.653;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;542;114;402.0518;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;315;148;230.3305;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;379;129;341.062;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;570;142;313.0532;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;404;0;235.7656;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;BAL;155;-149;453.4972;Kith;Kidd Overture;2h 58m 0s ;10680.39

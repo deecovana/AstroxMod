@@ -1,1 +1,5 @@
-NPC;-QTY;0;-10;1560.019;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+QTY;18;8;1546.125;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;BAL;5;0;1229.212;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;51;11;1759.764;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;34;8;1622.125;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;2h 36m 35s ;9395.996

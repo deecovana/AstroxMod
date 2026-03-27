@@ -1,0 +1,181 @@
+[s:30][c:yellow]Star Shepards Hub[/c][/s]
+Engineering Facility
+Bemdee Tudoe
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 3490.424
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Cleaning Chemicals
+Colored Dye
+Anti-Freeze
+Iron Coring Pipes
+Iron Coring Plates
+Large Heatsink
+Large Microchip
+Large Pump
+Misc Hardware
+Small Electronics
+Small Microchip
+Steelium Plates
+Titanyte Beams
+[c:orange]DEMAND[/c]
+Mechanical Tools
+Assembly Tools
+Medical Instruments
+Calibration Tools
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Ship Garage
+University
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  44 - z13
+Advanced 20mm  45 - z29
+Advanced 60mm  10 - z48
+Advanced Missile  30 - z93
+Anti-Freeze  6 - z46
+Antimatter 20mm  3 - z38
+Antimatter Missile  26 - z444
+Assault x1 Launcher  1 - z1,941
+Assorted Gaskets  97 - z12
+Basic Afterburner  1 - z919
+Basic Armor Exterior  8 - z1,163
+Basic Armor Exterior (Doc)  6 - z13,182
+Basic Cargo Expansion  9 - z2,089
+Basic Drone Command Bay  5 - z2,179
+Basic Energy Armor (Doc)  5 - z46,204
+Basic Energy Capacitor  4 - z1,700
+Basic Energy Generator  8 - z3,180
+Basic Engine Core  6 - z4,819
+Basic Explosive Armor  8 - z7,167
+Basic Explosive Armor (Doc)  8 - z72,224
+Basic Filter  2 - z2,669
+Basic Mass Reduction  5 - z532
+Basic Missile  34 - z21
+Basic Scan Booster  9 - z1,615
+Basic Scan Emitter  8 - z1,070
+Basic Shield Booster  1 - z1,537
+Basic Shield Booster (Doc)  6 - z30,638
+Basic Shield Generator  6 - z1,419
+Basic Targeting System  5 - z996
+Basic Thruster  2 - z771
+Basic Thruster (Doc)  5 - z12,647
+Basic Turn Thrust  4 - z1,548
+Blaster x1 Laser  1 - z974
+Bomber Drone  1 - z9,506
+Candy Cane  5 - z35
+Candy Corn  8 - z19
+Carbon  120 - z1
+Carbon Fiber  57 - z61
+Carbon Fiber (Doc)  3 - z419
+Chocolate Bars  4 - z21
+Cleaning Chemicals  7 - z61
+Colored Dye  7 - z77
+Corrosive 60mm  18 - z76
+Corrosive Missile  13 - z211
+Disposables  3 - z4,719
+Explosive 20mm  38 - z43
+Fasteners  40 - z8
+Focused x1 Laser  1 - z1,125
+Focused x1 Laser (Doc)  7 - z13,839
+Fusion 60mm  21 - z74
+Fusion Missile  36 - z64
+Generic Dual 20mm Gun  3 - z1,084
+Generic Gatling 20mm Gun  9 - z620
+Generic Single 20mm Gun  5 - z1,313
+Gummy Bears  9 - z28
+Heavy Combat Drone  15 - z147,469
+Heavy Energy Charge  4 - z270,788
+Heavy Salvage Drone  14 - z144,169
+Heavy Shield Charge  13 - z183,050
+Ion Beam Class 1  6 - z2,389
+Iron Coring Pipes  43 - z95
+Iron Coring Plates  37 - z82
+Junk Part  45 - z100
+Kinetic 20mm  41 - z20
+Kinetic Missile  37 - z472
+Large Defense Drone  8 - z59,375
+Large Heatsink  32 - z112
+Large Microchip  39 - z126
+Large Mining Drone  8 - z113,375
+Large Pump  33 - z193
+Large Salvage Drone  13 - z61,375
+Large Web Field  1 - z92,063
+Light Shield Recharger  2 - z30,456
+Liquid Coolant  83 - z39
+Lubricant  99 - z9
+Metal Brackets  75 - z33
+Misc Hardware  32 - z236
+Nuts And Bolts  20 - z12
+Nuts And Bolts (Doc)  6 - z87
+Ornament  6 - z333
+Oxygen  68 - z1
+Plasma Beam Class 1  8 - z1,605
+Protein Bar  4 - z2,269
+Proton Missile  43 - z171
+Pulse x1 Laser  2 - z337
+Pulse x1 Laser (Doc)  4 - z2,483
+Rapid x1 Launcher  9 - z1,793
+Reinforced Rubber  33 - z19
+Salvage Collector 1  9 - z4,971
+Salvage Collector 1 (Doc)  6 - z46,448
+Small Combat Drone (Doc)  9 - z31,230
+Small Electronics  37 - z295
+Small Life Support Pack  18 - z9,765
+Small Microchip  26 - z333
+Steelium Beam  99 - z10
+Steelium Pipes  52 - z19
+Steelium Plates  31 - z567
+Tactical x1 Launcher  5 - z1,846
+Thermal Controller  2 - z3,669
+Titan Defense Drone  15 - z280,938
+Titanyte Beams  34 - z696
+Torpedo Mark I  27 - z55
+Torpedo Mark III  17 - z180
+Torpedo Mark V  8 - z314
+Torpedo Mark X  3 - z707
+Toxic 20mm  19 - z81
+Water  32 - z0
+Wrapped Box  9 - z5,251
+x1 Torpedo Launcher (Doc)  5 - z359,910
+
+
+<Station University Skills>
+Passive Scanner Systems
+Projectile Maintenance
+Passive Scanner Focal Range
+Projectile Maintenance
+Ship Cargo Stacker
+University Discount
+Module Mechanic
+Miner Cycle Mechanics
+
+
+<Station Missions>
+[c:lime]DELIVERY[/c]
+Deliver light container of <color='yellow'>9</color> <color='yellow'>Thruster Casings</color> to Transporteers Station in <color='cyan'>Hunu</color>
+
+[c:lime]DIALOG[/c]
+Collect a small debt from <color='yellow'><i>Laborer Jidtaj Komne</i></color> in <color='cyan'>Void Starcross</color> and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]ESCORT[/c]
+<color='yellow'><i>Rookie Sivla Aterestdee</i></color> requests an escort from Astrox Security Patrol in <color='cyan'>Felishar</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]DELIVERY[/c]
+Dock at StarShepards Headquarters in <color='cyan'>Void Starcross</color> to deliver a light shipment of <color='yellow'>40</color> <color='yellow'>Steelium Beams</color>
+
+
+
+<Station Ships>

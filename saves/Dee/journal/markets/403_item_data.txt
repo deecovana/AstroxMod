@@ -1,13 +1,14 @@
-NPC;+STOCK;804;799;23.92162;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;28;0;23.86582;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;779;774;23.90424;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;807;757;18.27188;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;976;894;24.78331;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;809;805;13.67764;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;731;691;22.10806;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-LOCAL;783;0;25.875;StarGypsy Warehouse;Void Starcross;5h 7m 25s ;18445.56
-NPC;-QTY;0;-9;14.09397;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03
-NPC;+PRICE;37;0;19.47699;Psybermind;Ion Child;7h 13m 39s ;26019.77
-NPC;+PRICE;12;0;23.24392;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
-NPC;+PRICE;9;0;26.91855;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
-NPC;+STOCK;1013;996;15.22143;Tella's;Bitcola;7h 27m 33s ;26853.91
+NPC;-PRICE;5;0;19.89322;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-LOCAL;12;0;25.875;StarGypsy Warehouse;Void Starcross;0h 25m 47s ;1547.129
+NPC;-PRICE;12;0;17.90574;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
+NPC;-PRICE;10;0;22.33782;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;BAL;12;0;24.30376;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;16;0;25.85456;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;955;950;19.9616;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;931;862;18.33752;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1001;989;23.80476;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1053;971;20.16016;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;866;862;8.613707;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1016;976;16.81168;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;826;819;18.4575;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;BAL;22;0;12.99231;ValueStar;Hunu;2h 58m 0s ;10680.39

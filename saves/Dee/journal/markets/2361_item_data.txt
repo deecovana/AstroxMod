@@ -1,2 +1,4 @@
-NPC;+PRICE;3;0;26105.28;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;-QTY;10;-2;33805.89;Vo Industries;Brimstone;3h 11m 6s ;11466.38
+NPC;-PRICE;10;0;18947.56;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;+PRICE;10;0;27376.57;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+QTY;6;1;12930.05;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+PRICE;6;0;17981.49;Fellacore Research Center;Grace;2h 34m 4s ;9244.389

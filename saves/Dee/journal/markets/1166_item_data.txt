@@ -1,1 +1,4 @@
-NPC;+STOCK;46;8;139360.9;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;42;0;187143;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+STOCK;48;10;98834.13;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;94;8;93261.34;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;50;8;187687.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

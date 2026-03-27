@@ -1,7 +1,5 @@
-NPC;+STOCK;323;140;284.4529;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;330;147;281.827;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;821;149;372.1868;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;212;111;205.458;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;436;120;398.8233;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;505;0;423.6357;Inovex;Goru Populan;6h 14m 52s ;22492.41
-NPC;+LOCAL;150;1;198.7809;Starbase Corporate Center;Void Starcross;7h 40m 43s ;27643.31
+NPC;-PRICE;185;0;209.6708;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;+STOCK;289;106;228.9851;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;773;101;308.7555;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;226;125;140.6868;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;446;130;335.4857;Proctors Center;Void Starcross;2h 26m 24s ;8784.133

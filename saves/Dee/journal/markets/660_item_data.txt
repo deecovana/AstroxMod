@@ -1,8 +1,14 @@
-NPC;+PRICE;2;0;5587.791;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;+STOCK;11;4;5832.94;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;27;4;4991.479;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;34;4;3698.133;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;33;4;5025.319;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-2;6219.844;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
-NPC;-QTY;5;-3;3555.313;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;13;0;3427.384;Psybermind;Ion Child;7h 13m 39s ;26019.77
+NPC;-PRICE;20;0;2132.709;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+NPC;-PRICE;34;0;1783.81;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;19;2;2418.75;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;BAL;19;-4;4487.909;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;4;-2;5343.452;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;11;4;4595.607;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;22;3;4259.126;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;33;3;2636.663;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;40;4;4497.085;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;33;0;3417.963;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;9;3;4812.5;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+QTY;23;2;5080.938;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;BAL;2;0;5328.984;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;BAL;25;-4;4308.986;Kith;Kidd Overture;2h 58m 0s ;10680.39

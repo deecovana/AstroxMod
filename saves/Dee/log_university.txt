@@ -1,16 +1,10 @@
 //;LOG DATA FILE (Astrox Imperium)
-SKILL;1;Beam Focal Range;2 min;7;2193.0;120448.040620089;Tella's;Bitcola;7h 32m 48s 
-SKILL;2;Miner Advanced Systems;2 min;12;1188.0;122641.040620089;Tella's;Bitcola;7h 28m 38s 
-SKILL;1;Storage Manager;3 min;6;2041.0;103387.231415987;Imperium Republica ;Gate of Alpharis;6h 47m 15s 
-SKILL;1;Ship Shield Systems;2 min;5;1340.0;92726.0015575886;Horizons;Gate of Alpharis;6h 31m 12s 
-SKILL;1;Ship LS System Maintenance;1 min;5;2280.0;56248.5637834072;StarGypsy Warehouse;Void Starcross;5h 5m 30s 
-SKILL;1;Ship Mass Engineering;1 min;3;568.0;45560.4552639723;Transporteers;Hunu;4h 19m 6s 
-SKILL;1;Max Mission Contracts;2 min;4;810.0;26589.2975491285;Biomate University;Void Starcross;4h 2m 42s 
-SKILL;3;Beam Basic Operation;6 min;15;3294.0;32608.4158726931;Biomate University;Void Starcross;3h 41m 28s 
-SKILL;1;Ship Gyroscopic Control;1 min;5;1240.0;35003.4307790995;Astrox Security Patrol;Felishar;3h 24m 1s 
-SKILL;2;Beam Basic Operation;4 min;10;2196.0;11463.83038342;Biomate University;Void Starcross;2h 7m 12s 
-SKILL;1;Beam Basic Operation;2 min;5;1098.0;13659.83038342;Biomate University;Void Starcross;2h 3m 12s 
-SKILL;2;Miner Energy Optimization;4 min;14;3500.0;16871.08038342;Lacuna Bandits;Ballast Crow;1h 15m 45s 
-SKILL;1;Miner Energy Optimization;2 min;7;1750.0;20723.08038342;Lacuna Bandits;Ballast Crow;1h 13m 17s 
-SKILL;2;Drone Operation;3 min;10;14250.0;5624.73614883423;Biomate University;Void Starcross;0h 53m 7s 
-SKILL;1;Drone Operation;2 min;5;7125.0;34637.5;Biomate University;Void Starcross;0h 18m 32s 
+SKILL;1;Frigate Ship Operation;2 min;17;6375.0;53220.229786396;Biomate University;Void Starcross;3h 4m 31s 
+SKILL;1;Utility Ship Operation;1 min;11;2625.0;40895.229786396;Biomate University;Void Starcross;2h 53m 7s 
+SKILL;2;Projectile Basic Operation;4 min;10;3020.0;43526.2297866344;Biomate University;Void Starcross;2h 47m 38s 
+SKILL;1;Projectile Basic Operation;2 min;5;1510.0;40806.5851333141;Biomate University;Void Starcross;2h 40m 43s 
+SKILL;3;Beam Basic Operation;6 min;15;3294.0;42316.5851333141;Biomate University;Void Starcross;2h 40m 29s 
+SKILL;2;Beam Basic Operation;4 min;10;2196.0;42172.3482437134;Biomate University;Void Starcross;2h 34m 59s 
+SKILL;1;Beam Basic Operation;2 min;5;1098.0;18740.4083788395;Biomate University;Void Starcross;2h 15m 21s 
+SKILL;3;Laser Basic Operation;6 min;18;6105.0;9986.90112304688;Biomate University;Void Starcross;1h 31m 6s 
+SKILL;2;Laser Basic Operation;4 min;12;4070.0;31890;Biomate University;Void Starcross;0h 4m 45s 

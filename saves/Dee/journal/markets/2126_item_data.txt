@@ -1,7 +1,10 @@
-NPC;+STOCK;2067;1693;70.50821;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;1958;1669;62.75637;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2680;2462;71.7648;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2458;2150;69.6912;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-59;84.08229;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;71;0;82.75271;Psybermind;Ion Child;7h 13m 39s ;26019.77
-NPC;+PRICE;28;0;89.17322;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
+NPC;-PRICE;374;0;56.60313;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;1854;1832;65.60725;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;+LOCAL;133;7;69.18827;Daemon Ammunitions;Starfort Ramos;0h 50m 56s ;3056.125
+NPC;-PRICE;83;0;57.01662;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;BAL;218;0;64.82192;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;2049;1675;57.50829;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2513;2224;44.59696;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1921;1703;61.44218;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2613;2284;43.08126;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2428;2120;57.30365;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133

@@ -1,7 +1,8 @@
-NPC;+STOCK;2176;1796;22.76253;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;133;0;25.55047;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;2208;1828;22.52955;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2071;1846;13.89409;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2070;1969;20.01786;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;21;0;26.66627;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
-NPC;+PRICE;21;0;27.70605;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
+NPC;-PRICE;380;0;18.18693;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;1768;1635;20.75625;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;+QTY;1593;1565;12.39225;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;BAL;6;0;26.79487;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;2214;1834;18.09106;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2606;2381;9.421791;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2760;2364;20.25633;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;280;0;17.96628;Stinkfinger;Jonisae;2h 29m 20s ;8960.865

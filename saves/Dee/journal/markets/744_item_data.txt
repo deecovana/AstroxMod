@@ -1,3 +1,6 @@
-NPC;+STOCK;40;14;152200.6;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;115;14;243204.2;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;59;0;259944.6;SimKitten;Kolkax Prime;6h 14m 52s ;22492.41
+NPC;-PRICE;176;0;100317.4;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;185;10;128437.5;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;BAL;25;-8;126558.2;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;37;11;102676.8;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;37;12;117633;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;113;12;198386.2;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133

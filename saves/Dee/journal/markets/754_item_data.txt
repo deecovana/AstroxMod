@@ -1,2 +1,8 @@
-NPC;+STOCK;164;10;288681.2;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;13;11;192109.5;Tella's;Bitcola;7h 27m 33s ;26853.91
+NPC;-PRICE;10;0;204672.3;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+STOCK;22;10;141332.7;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;167;13;241501.2;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;132;0;274958.6;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;100;8;154046.9;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+QTY;20;10;205625;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;71;9;163437.5;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;BAL;4;0;241928.2;Kith;Kidd Overture;2h 58m 0s ;10680.39

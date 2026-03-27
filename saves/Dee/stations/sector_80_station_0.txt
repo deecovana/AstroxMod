@@ -38,6 +38,11 @@ MERC;6;1.66;npc_ship_data_(pirate_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (2) Items ;325x281,321x237;90958;48933.28
+
+BUYORDER;Buying: (1) Items ;1470x1;39519;59883.79
+SELLORDER;Sale Request Order: (1) Items ;1562x1;8571;24341.44
+
 ITEM;1460;5;0.87
 ITEM;1200;5;1.18
 ITEM;1003;3;0.92

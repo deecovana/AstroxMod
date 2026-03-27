@@ -1,2 +1,6 @@
-NPC;+STOCK;376;116;350.9646;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;150;1;344.6024;StarGypsy Warehouse;Void Starcross;5h 7m 25s ;18445.56
+NPC;-PRICE;11;0;316.3262;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;BAL;179;-81;300.6817;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;541;137;273.4597;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;328;149;290.243;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;333;0;265.4008;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;159;148;315.095;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;null
+SECTOR;event_type;war#7362#6#17
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;1478;135;2032
@@ -49,7 +49,7 @@ LIGHT;light_s;0.56;0.44;0.31;0.78
 STAR;object;0;-10000;0;90000;5;90000
 
 // LIFESUPPORT;type;value
-LIFESUPPORT;food;1.255778
+LIFESUPPORT;food;1.392301
 LIFESUPPORT;water;1.25
 LIFESUPPORT;thermal;1.25
 LIFESUPPORT;waste;1.238817

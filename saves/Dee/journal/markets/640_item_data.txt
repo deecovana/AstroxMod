@@ -1,13 +1,15 @@
-PLAYER;-QTY;42;1;4412.5;Biomate University;Void Starcross;0h 51m 32s ;3092.753
-NPC;+PRICE;8;0;6473.774;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
-NPC;-QTY;0;-2;6519.844;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;-QTY;33;-4;4117.188;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;45;3;4222.409;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;29;4;2939.327;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;18;3;6315.895;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;36;3;6301.179;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;38;3;5306.546;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;36;3;3007.161;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;2;-2;3505.313;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;2;0;4783.838;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
-NPC;+STOCK;8;4;4997.827;Tella's;Bitcola;7h 27m 33s ;26853.91
+NPC;-PRICE;43;0;3320.761;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;13;4;4162.5;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;+QTY;10;3;3718.75;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;BAL;12;-3;5420.391;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;36;-2;4517.216;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;46;3;3411.105;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;28;3;1621.896;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;16;4;5180.495;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;39;4;4167.778;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;36;3;1855.057;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;22;3;2468.75;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;17;0;5169.919;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+QTY;26;2;5162.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;13;3;3568.75;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;BAL;15;-2;3237.979;ValueStar;Hunu;2h 58m 0s ;10680.39

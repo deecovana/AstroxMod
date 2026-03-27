@@ -1,3 +1,13 @@
-NPC;+STOCK;1014;972;71.55079;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;742;725;41.08213;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;947;864;50.39635;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;19;0;43.73492;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;982;943;44.5475;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;+QTY;1014;972;42.4715;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;BAL;42;0;61.28793;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;61;0;45.88405;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;843;776;54.98796;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;824;774;51.89685;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;826;784;58.55376;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;877;860;29.66875;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;965;948;73.10753;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1026;943;35.0756;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;18;0;32.71347;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;1018;999;43.769;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

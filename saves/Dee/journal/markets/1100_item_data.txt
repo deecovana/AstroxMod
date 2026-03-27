@@ -1,5 +1,5 @@
-NPC;-QTY;22;-11;646.7188;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
-PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;3h 55m 14s ;14114.53
-NPC;-QTY;0;-8;315.5313;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;9;0;425.0351;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
-NPC;+PRICE;2;0;455.826;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
+PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;0h 6m 58s ;418.0742
+NPC;-PRICE;34;0;324.8314;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;+PRICE;4;0;529.7391;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;2h 30m 22s ;9022.271
+NPC;+PRICE;8;0;226.6407;Fellacore Research Center;Grace;2h 34m 4s ;9244.389

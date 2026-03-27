@@ -1,9 +1,10 @@
-NPC;+STOCK;2120;1811;110.2791;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;17;0;66.63529;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+PRICE;224;0;93.82786;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;2487;2178;110.7989;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1866;1864;118.6719;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2320;2001;68.70428;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2032;1989;77.35615;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-20;110.1572;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
-NPC;+PRICE;30;0;112.6989;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
+NPC;-PRICE;309;0;93.45712;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;1510;1493;48.9375;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;-PRICE;192;0;84.9158;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;+STOCK;2144;1835;93.79844;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2396;2394;99.17835;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2659;2340;50.22003;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2387;2344;62.13084;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;157;0;105.11;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+QTY;1484;1447;87.6375;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;BAL;130;0;93.66537;Kith;Kidd Overture;2h 58m 0s ;10680.39

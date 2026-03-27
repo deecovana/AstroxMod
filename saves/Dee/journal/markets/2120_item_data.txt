@@ -1,7 +1,8 @@
-NPC;-QTY;0;-138;390.7929;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;2609;2176;379.9578;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2111;1797;401.6319;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;0;-79;434.2087;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;+PRICE;44;0;358.2156;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
-NPC;+PRICE;8;0;414.7579;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
-NPC;+PRICE;44;0;375.7166;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
+NPC;-PRICE;52;0;153.6718;Keyworx;Geminey;0h 0m 23s ;23.44398
+NPC;-PRICE;392;0;445.1077;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;1627;1575;155.5723;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;BAL;38;0;397.9486;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;2715;2282;304.9559;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2184;1870;327.1722;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;35;0;425.9739;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+QTY;1940;1521;452.5024;Cecil;Junia;2h 29m 20s ;8960.865

@@ -1,4 +1,7 @@
-NPC;+STOCK;2048;1989;23.93751;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1887;1714;21.03617;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2793;2476;14.58684;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2343;2051;15.95654;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+LOCAL;112;9;25.76155;Daemon Ammunitions;Starfort Ramos;0h 50m 56s ;3056.125
+NPC;BAL;122;0;20.4376;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;2199;2140;18.7445;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2534;2361;16.86881;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2078;1761;10.21418;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2230;1938;11.73946;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;2524;2498;9.45725;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

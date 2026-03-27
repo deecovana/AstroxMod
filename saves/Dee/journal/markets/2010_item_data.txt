@@ -1,5 +1,7 @@
-NPC;+STOCK;205;105;142.9937;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;164;129;127.5404;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;383;115;135.3732;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;594;115;173.5834;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;676;111;87.61005;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;240;0;142.5914;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;BAL;154;-114;119.2902;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;230;130;123.2421;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;294;140;115.5419;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;713;148;58.08976;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;116;0;85.87796;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+QTY;329;89;142.6425;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

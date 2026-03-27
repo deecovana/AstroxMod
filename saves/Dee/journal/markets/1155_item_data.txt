@@ -1,6 +1,9 @@
-NPC;+STOCK;65;11;90816.45;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+STOCK;62;8;88938.21;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;15;10;60088.46;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;37;11;79441.72;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;58;11;90887.36;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;12;1;89158.93;Starbase Corporate Center;Void Starcross;7h 40m 43s ;27643.31
+NPC;-PRICE;54;0;77026.66;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;15;0;44650.32;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+LOCAL;12;1;90857.05;Starbase Corporate Center;Void Starcross;0h 32m 19s ;1939.833
+NPC;+QTY;38;8;51042.38;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;+STOCK;64;10;76945.54;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;34;8;63887.15;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;20;8;73543.88;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;73;8;60457.82;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+QTY;25;10;44794.25;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

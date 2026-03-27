@@ -1,7 +1,8 @@
-NPC;+STOCK;2074;1808;244.7271;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;-QTY;0;-135;175.4278;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;2299;2033;251.3881;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1920;1670;152.4607;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2547;2194;143.2554;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2513;2493;226.6773;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2060;1680;307.2713;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;266;0;207.4066;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;65;0;162.8891;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;-PRICE;183;0;194.9263;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;BAL;250;0;113.2505;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;2744;2478;203.5324;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2490;2137;99.60175;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2052;1672;255.2098;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;1630;1572;243.2867;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667

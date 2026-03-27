@@ -1,6 +1,10 @@
-NPC;+LOCAL;45;1;19.26449;Acrondia Hub;Temple Gates;1h 2m 42s ;3762.632
-PLAYER;+QTY;46;1;19.68262;Acrondia Hub;Temple Gates;1h 5m 14s ;3914.726
-NPC;+LOCAL;150;106;13.8214;Acrondia Hub;Temple Gates;1h 46m 14s ;6374.585
-NPC;+PRICE;18;0;19.67677;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;683;141;18.3691;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;94;-85;20.6045;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
+NPC;-PRICE;18;0;14.41444;Keyworx;Geminey;0h 0m 23s ;23.44398
+NPC;-PRICE;691;0;10.65074;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;132;129;14.10475;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;BAL;414;-128;15.58827;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;199;106;12.24626;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;517;103;15.29875;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;351;145;20.12575;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+QTY;808;117;10.75975;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+QTY;361;127;22.82962;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;BAL;152;-97;16.73768;ValueStar;Hunu;2h 58m 0s ;10680.39

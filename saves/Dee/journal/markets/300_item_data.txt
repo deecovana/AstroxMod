@@ -1,5 +1,11 @@
-NPC;-QTY;0;-49;48.72981;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
-NPC;+STOCK;806;739;41.17173;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;669;667;70.44665;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;963;914;75.31225;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;7;0;74.67952;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
+NPC;-PRICE;1;0;37.96973;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;27;0;64.47461;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
+NPC;-PRICE;5;0;66.43867;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
+NPC;+STOCK;903;902;38.11037;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;786;719;25.55461;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;916;914;58.71604;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;898;860;37.06594;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;909;860;62.65945;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;777;763;52.97885;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
+NPC;+QTY;917;884;59.32325;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;BAL;9;0;65.30325;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39

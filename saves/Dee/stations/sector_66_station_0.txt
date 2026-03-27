@@ -43,6 +43,8 @@ MERC;8;0.50;npc_ship_data_(transport_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Looking to Sell (1) Items ;1115x2;37071;57504.95
+SELLORDER;Sell Order for: (1) Items ;2386x92;17117;14488.95
 ITEM;1470;4;0.96
 ITEM;1002;1;0.87
 ITEM;1170;2;0.91

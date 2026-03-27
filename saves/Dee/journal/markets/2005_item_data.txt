@@ -1,5 +1,6 @@
-NPC;+STOCK;906;142;305.7812;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;3;0;270.1271;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;885;121;302.8509;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;342;139;210.6243;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;482;0;301.4673;Psybermind;Ion Child;7h 13m 39s ;26019.77
+NPC;-PRICE;764;0;258.7491;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;524;0;261.2909;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+NPC;BAL;77;-126;181.6763;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;870;106;254.7613;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;193;116;174.9768;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;232;130;169.3644;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133

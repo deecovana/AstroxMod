@@ -1,4 +1,7 @@
-NPC;+STOCK;2388;2286;231.436;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2132;1925;330.142;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2316;2182;318.5166;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2581;2465;334.1503;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;BAL;207;0;255.438;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;2194;2092;161.7957;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2175;1968;242.3981;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2333;2199;250.5949;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2411;2295;283.2839;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;2223;2133;205.4937;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;34;0;234.113;Spacebook;Phistatisia;2h 34m 4s ;9244.389

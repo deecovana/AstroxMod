@@ -1,3 +1,6 @@
-NPC;+PRICE;13;0;2564.606;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;+STOCK;28;9;2033.151;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;9;0;1576.397;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
+NPC;+STOCK;14;9;2073.701;Star Shepards Hub;Temple Gates;0h 57m 57s ;3477.823
+NPC;+LOCAL;12;7;691.8275;Proctors Center;Void Starcross;1h 25m 35s ;5135.035
+NPC;BAL;8;0;1755.302;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+PRICE;87;0;1453.223;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+PRICE;7;0;1539.603;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;BAL;6;-10;1845.41;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39

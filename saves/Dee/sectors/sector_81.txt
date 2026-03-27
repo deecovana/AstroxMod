@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;81
 SECTOR;name;Ferrelis Cove
-SECTOR;level;1.9
+SECTOR;level;2
 SECTOR;faction;Pirate
 SECTOR;filename;sector_81.txt
 SECTOR;is_explored;False

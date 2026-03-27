@@ -1,4 +1,7 @@
-NPC;+STOCK;79;10;3108.184;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;-QTY;0;-4;4304.241;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;77;8;3017.139;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;11;0;6530.197;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
+NPC;-PRICE;69;0;2082.07;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;69;0;3175.89;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
+NPC;+QTY;14;6;4908.75;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;BAL;8;0;3643.447;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
+NPC;+STOCK;77;8;2172.205;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;51;0;2581.286;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;BAL;8;0;4646.588;ValueStar;Hunu;2h 58m 0s ;10680.39

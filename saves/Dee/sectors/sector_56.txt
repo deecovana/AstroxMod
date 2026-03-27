@@ -62,11 +62,11 @@ STARLIGHT;color_4;0.00;1.00;0.76;0.72
 STARLIGHT;color_5;0.00;0.68;0.06;0.51
 
 // STATION;Sector filename;X position;Y position;Z position
-STATION;sector_56_station_0.txt;1794;525;-4719;prescan
-STATION;sector_56_station_1.txt;1626;580;3926;prescan
+STATION;sector_56_station_0.txt;1794;525;-4719
+STATION;sector_56_station_1.txt;1626;580;3926
 
-// STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;-2580.00;99.00;2918.00
+// STRUCTURE;Structure filename;X position;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;-2580;99;2918
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;20;100;300;2500;-4505;0;0
@@ -74,20 +74,20 @@ CLUSTER;1;20;150;300;2500;-4505;-2111;-3201
 CLUSTER;1;20;150;300;2500;-4505;1920;4453
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;-4078.4;1298.6;1701.0;4000;3971
-RESOURCE;1;-3549.8;1616.5;3463.3;1200;1200
-RESOURCE;1;-2919.2;-507.2;-3520.4;500;500
-RESOURCE;1;-4636.0;-1414.0;-5030.0;300;300
-RESOURCE;1;-2346.0;-627.0;-4294.0;700;700
-RESOURCE;1;-2705.5;15.9;-2557.7;3000;2971
-RESOURCE;1;-3493.0;527.0;-1571.0;200;200
-RESOURCE;1;4367.0;-486.0;-2285.0;200;200
-RESOURCE;1;-1964.4;792.1;-1592.6;1500;1325
+RESOURCE;1;-3991;1312;1734;4000;3971
+RESOURCE;1;-3552;1624;3426;1200;1200
+RESOURCE;1;-2921;-504;-3515;500;500
+RESOURCE;1;-4636;-1414;-5030;300;300
+RESOURCE;1;-2346;-627;-4294;700;700
+RESOURCE;1;-2782;72;-2570;3000;2971
+RESOURCE;1;-3493;527;-1571;200;200
+RESOURCE;1;4367;-486;-2285;200;200
+RESOURCE;1;-1965;763;-1565;1500;1500
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_57.txt;3;-871;482;-609;0;Trade;0;prescan
-WARPGATE;2;sector_58.txt;1;4416;-389;4122;0;Trade;0;prescan
-WARPGATE;3;sector_0.txt;4;3287;224;-4511;0;Trade;0;prescan
+WARPGATE;1;sector_57.txt;3;-871;482;-609;0;Trade;0
+WARPGATE;2;sector_58.txt;1;4416;-389;4122;0;Trade;0
+WARPGATE;3;sector_0.txt;4;3287;224;-4511;0;Trade;0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;41;0;0;0;0;0;0;0,0,0.4,0.8;;;;

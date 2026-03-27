@@ -1,3 +1,3 @@
-NPC;+PRICE;1;0;2221.279;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
-NPC;+PRICE;13;0;1686.627;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
-NPC;+STOCK;28;11;2189.55;Tella's;Bitcola;7h 27m 33s ;26853.91
+NPC;-PRICE;13;0;1106.856;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
+NPC;BAL;62;-9;2255.854;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+PRICE;8;0;1741.505;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865

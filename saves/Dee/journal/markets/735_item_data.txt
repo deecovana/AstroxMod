@@ -1,6 +1,7 @@
-NPC;+STOCK;113;3;1374020;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-NPC;+PRICE;57;0;2237427;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;113;3;1352370;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;155;3;2934275;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;25;4;2312172;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;-QTY;16;-2;2327656;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;-PRICE;110;0;904108.4;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;26;3;956249.9;Xellon;Ele;0h 50m 9s ;3009.769
+NPC;+QTY;93;4;1009375;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;+STOCK;114;4;861169.6;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;156;4;2414679;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;24;3;1795301;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;41;4;1434375;Psybermind;Ion Child;2h 36m 11s ;9371.667

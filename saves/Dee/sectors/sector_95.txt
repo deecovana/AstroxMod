@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;95
 SECTOR;name;Temple Gates
-SECTOR;level;9.9
+SECTOR;level;10.0
 SECTOR;faction;Temple
 SECTOR;filename;sector_95.txt
 SECTOR;is_explored;True
@@ -61,7 +61,7 @@ STARLIGHT;color_4;0.90;0.28;0.91;0.21
 STARLIGHT;color_5;0.90;0.40;0.91;0.20
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_95_station_0.txt;2107.7;-1038.1;-2460.3
+STATION;sector_95_station_0.txt;2107.7;-1038.1;-2460.3;prescan
 STATION;sector_95_station_1.txt;-3740.5;-123.0;-736.5;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
@@ -72,15 +72,15 @@ RESOURCE;1;3429.7;1300.5;-9061.4;153;153
 
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;-2202.3;-1404.7;-2675.4;1000;0
-RESOURCE;1;-2767.6;-1252.1;-2154.8;1000;558
-RESOURCE;1;2987.4;-1806.0;-2981.2;1000;0
+RESOURCE;1;-2124.7;-1419.3;-2674.8;1000;1000
+RESOURCE;1;-2798.5;-1198.9;-2071.0;1000;1000
+RESOURCE;1;2987.4;-1806.0;-2981.2;1000;1000
 RESOURCE;1;-2390.7;-1516.4;-2171.8;300;300
-RESOURCE;1;389.2;1847.0;411.6;1000;0
-RESOURCE;1;1802.8;-1585.0;-3362.1;1000;0
+RESOURCE;1;361.9;1827.9;416.1;1000;41
+RESOURCE;1;1804.4;-1586.7;-3357.7;1000;1000
 RESOURCE;1;757.8;1293.5;440.4;200;0
-RESOURCE;1;1808.5;-1673.0;-2785.1;1000;0
-RESOURCE;1;1003.6;877.8;-986.4;1000;0
+RESOURCE;1;1804.1;-1683.3;-2789.6;1000;876
+RESOURCE;1;994.1;870.0;-983.3;1000;1000
 RESOURCE;1;255.0;1327.6;162.6;500;0
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;

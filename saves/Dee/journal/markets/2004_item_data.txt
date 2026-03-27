@@ -1,1 +1,4 @@
-NPC;+STOCK;777;130;261.241;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;149;0;154.5052;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;+STOCK;777;130;215.386;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;373;128;215.0278;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;214;123;111.7311;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133

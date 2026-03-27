@@ -1,5 +1,8 @@
-NPC;-QTY;0;-28;168.7077;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;+STOCK;2239;2012;117.4795;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1909;1727;141.3359;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;2758;2415;98.0611;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+LOCAL;53;7;125.0938;Daemon Ammunitions;Starfort Ramos;7h 10m 36s ;25836.46
+NPC;-PRICE;183;0;125.4897;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;-PRICE;102;0;64.16473;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;-PRICE;194;0;75.46133;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;+STOCK;2262;2080;109.5749;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2595;2252;66.33421;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;6;0;62.62507;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+QTY;1666;1552;65.47175;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+QTY;2575;2269;76.92625;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667

@@ -1,18 +1,9 @@
-NPC;+STOCK;1446;246;2.069539;Biomate University;Void Starcross;0h 43m 37s ;2617.443
-PLAYER;+QTY;162;55;2.359125;Acrondia Hub;Temple Gates;1h 4m 13s ;3853.395
-NPC;+PRICE;579;0;2.486518;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
-NPC;+PRICE;32;0;3.047078;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;-QTY;90;-143;2.277281;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
-NPC;-QTY;97;-157;2.521716;Mazu Starship;Volox;3h 11m 6s ;11466.38
-NPC;-QTY;1057;-201;2.655281;Vo Industries;Brimstone;3h 11m 6s ;11466.38
-NPC;+STOCK;1416;216;1.994696;Biomate University;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;1266;220;3.527844;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;723;205;1.983262;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-PLAYER;+QTY;1527;111;2.004328;Biomate University;Void Starcross;3h 41m 7s ;13267.73
-PLAYER;+QTY;1613;86;1.977328;Biomate University;Void Starcross;3h 46m 7s ;13567.14
-PLAYER;+QTY;1744;131;1.949484;Biomate University;Void Starcross;4h 49m 9s ;17349.04
-PLAYER;+QTY;521;74;3.544509;StarGypsy Warehouse;Void Starcross;5h 7m 45s ;18465.46
-NPC;-QTY;0;-87;1.946869;Rendo Labs;Entropy;6h 0m 59s ;21659.03
-NPC;-QTY;0;-53;1.843509;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03
-PLAYER;+QTY;1842;98;1.919869;Biomate University;Void Starcross;6h 6m 59s ;22020
-NPC;+PRICE;652;0;3.013925;Inovex;Goru Populan;6h 14m 52s ;22492.41
+NPC;-PRICE;1200;0;1.604189;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+QTY;504;242;2.602125;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;+QTY;536;154;2.953125;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
+NPC;-PRICE;32;0;2.759684;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
+NPC;BAL;312;-135;2.935027;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;+STOCK;501;189;2.846137;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;1253;207;2.955823;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;726;208;1.466068;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;566;0;1.492521;Stinkfinger;Jonisae;2h 29m 20s ;8960.865

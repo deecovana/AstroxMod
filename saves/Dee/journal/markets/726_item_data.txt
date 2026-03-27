@@ -1,5 +1,6 @@
-NPC;+PRICE;10;0;12935.79;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;+PRICE;44;0;18156.13;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
-NPC;+STOCK;64;10;12260.51;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
-NPC;+PRICE;7;0;19829.88;CoraVault Hub;Pindoris;6h 14m 52s ;22492.41
-NPC;+PRICE;7;0;20002.62;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
+NPC;-PRICE;8;0;6415.584;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
+NPC;+QTY;11;9;10256.25;Keyworx;Geminey;0h 50m 9s ;3009.769
+NPC;+QTY;61;11;9506.25;Foodmaid;Daelus;0h 50m 9s ;3009.769
+NPC;BAL;62;-13;10770.12;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;67;13;9312.011;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;62;0;11161.27;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389

@@ -1,5 +1,8 @@
-NPC;+PRICE;18;0;358285.8;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
-NPC;+PRICE;37;0;252800.9;Keyworx;Geminey;1h 49m 22s ;6562.842
-NPC;+STOCK;43;18;297641.3;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;81;21;322743;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
-NPC;+STOCK;103;23;354549.5;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-PRICE;67;0;212095.3;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;BAL;25;0;281967.4;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
+NPC;BAL;34;-24;175031.9;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
+NPC;+STOCK;85;18;200450.6;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;84;24;265277.8;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+QTY;165;14;317894.4;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+PRICE;74;0;232858.4;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;BAL;12;0;151848.1;Kith;Kidd Overture;2h 58m 0s ;10680.39
