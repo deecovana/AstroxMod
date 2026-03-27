@@ -1,0 +1,275 @@
+[s:30][c:yellow]Biomate University[/c][/s]
+Academic University
+Telyoupea Akpi
+Alpha
+[c:lime]Dock fee 0[/c]
+Timestamp: 23374.02
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Shield Extender
+Improved Shield Extender
+Advanced Shield Extender
+Premium Shield Extender
+Prototype Shield Extender
+Basic Shield Generator
+Improved Shield Generator
+Advanced Shield Generator
+Premium Shield Generator
+Prototype Shield Generator
+[c:orange]DEMAND[/c]
+Mechanical Tools
+Assembly Tools
+Medical Instruments
+Calibration Tools
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Advanced 20mm x2 Gun  6 - z16,000
+Advanced Active Scanner  2 - z9,989
+Advanced Afterburner  16 - z14,131
+Advanced Armor Exterior  9 - z9,680
+Advanced Cargo Expansion  8 - z36,190
+Advanced Explosive Armor  5 - z32,630
+Advanced Impact Armor  2 - z77,707
+Advanced Light Miner  2 - z7,546
+Advanced Mass Reduction  8 - z19,504
+Advanced Shield Extender  12 - z7,111
+Advanced Shield Generator  12 - z3,762
+Advanced Targeting System  9 - z7,199
+Advanced Thruster  15 - z17,455
+Armor Nanobots  34 - z4,278
+Assorted Gaskets  147 - z16
+Basic 20mm  4793 - z1
+Basic 20mm Auto  6 - z912
+Basic 20mm Gun  15 - z1,769
+Basic 20mm Specs  6 - z14,777
+Basic 20mm x2 Gun  12 - z2,024
+Basic 60mm  9000 - z4
+Basic 60mm Cannon  7 - z1,634
+Basic 60mm Railgun  2 - z5,878
+Basic 60mm Specs  6 - z25,428
+Basic 60mm x2 Railgun  2 - z8,010
+Basic Active Scanner  10 - z1,075
+Basic Cargo Expansion  14 - z2,334
+Basic Charged Cell  1523 - z11
+Basic Default Tractor  4 - z2,665
+Basic Dual Launcher  10 - z2,992
+Basic Energy Armor  9 - z12,085
+Basic Explosive Armor  8 - z7,939
+Basic Filter  17 - z2,009
+Basic Light Beam  62 - z921
+Basic Light Laser  6 - z1,032
+Basic Light Miner  30 - z2,971
+Basic Mass Reduction  3 - z770
+Basic Missile  6000 - z8
+Basic Missile Specs  7 - z13,857
+Basic Quad LRM Launcher  5 - z8,016
+Basic Salvager  7 - z1,361
+Basic Shield Extender  12 - z999
+Basic Shield Generator  12 - z376
+Basic Single Launcher  90 - z3,597
+Basic Small Laser  5 - z3,622
+Basic Small Miner  7 - z1,749
+Basic Small Shield Booster  25 - z10,078
+Basic Spotlight  23 - z2,348
+Basic SRM Launcher  4 - z1,933
+Basic Targeting System  21 - z1,629
+Basic Torpedo  532 - z50
+Basic Torpedo Launcher  15 - z15,601
+Basic Triple Launcher  9 - z7,152
+Calibration Tools  76 - z70
+Capacitors  134 - z96
+Carbon  135 - z2
+Cleaning Chemicals  5229 - z64
+Disposables  33 - z1,255
+Dual 60mm Railgun Specs  15 - z12,017
+Emergency LS Kit  34 - z4,071
+Energy Charge  35 - z4,317
+Explosive 60mm  2945 - z27
+Explosive Missile Specs  2 - z54,865
+Fasteners  73 - z14
+Gradeon Ore  2950 - z15
+Improved 20mm Gun  9 - z4,212
+Improved 20mm x2 Gun  9 - z4,134
+Improved 60mm Railgun Specs  3 - z36,634
+Improved 60mm x2 Railgun Specs  3 - z36,634
+Improved Active Scanner  3 - z3,105
+Improved Cargo Expansion  3 - z7,781
+Improved Energy Capacitor  7 - z8,006
+Improved Energy Generator  12 - z9,267
+Improved Filter  8 - z4,598
+Improved Light Laser  8 - z3,900
+Improved Mining Drone  18 - z7,609
+Improved Scan Booster  1 - z10,186
+Improved Shield Extender  12 - z2,149
+Improved Shield Generator  12 - z949
+Improved Single Launcher  12 - z5,378
+Improved Small Beam  5 - z2,862
+Improved Small Laser  4 - z5,541
+Improved Small Miner  11 - z4,912
+Improved Thruster  5 - z3,403
+Improved Turn Thrust  2 - z1,939
+Iron Coring  120 - z4
+Kinetic 20mm  2452 - z3
+Kinetic Missile Specs  3 - z45,399
+Lighting  3488 - z271
+Liquid Coolant  53 - z24
+Lokken Ore  614 - z55
+Mechanical Switch  136 - z44
+Mechanical Tools  40 - z52
+Medical Instruments  61 - z296
+Nuts And Bolts  80 - z13
+Plasite Ore  3720 - z61
+Premium Shield Extender  12 - z28,912
+Premium Shield Generator  12 - z15,389
+Protein Bar  15 - z6,972
+Prototype Shield Extender  12 - z145,021
+Prototype Shield Generator  12 - z77,464
+Shield Charge  37 - z4,506
+Small Armor Bomb  8 - z4,101
+Small Combat Drone  18 - z2,593
+Small Defense Drone  18 - z5,073
+Small Energy Bomb  9 - z4,157
+Small LS Bomb  9 - z4,071
+Small Mining Drone  18 - z6,882
+Small Repair Drone  18 - z2,650
+Small Salvage Drone  18 - z3,463
+Small Shield Bomb  9 - z4,157
+Standard 60mm Railgun Specs  16 - z12,017
+Steelium Pipes  58 - z87
+Temperature Genie  10 - z52,443
+Thermal Controller  3 - z1,252
+Thermal Sensor  80 - z108
+Torim Ore  3034 - z73
+Utility Salvager  4 - z3,422
+Whiskey  6829 - z94
+
+
+<Station University Skills>
+Super Dreadnought Ship Operation
+Super Freighter Ship Operation
+Freighter Ship Operation
+Mining Barge Ship Operation
+Fleet Commander
+Max Mission Contracts
+Ship Energy Regeneration
+Ship Energy Systems
+Projectile Basic Operation
+Laser Basic Operation
+Beam Basic Operation
+Launcher Basic Operation
+Torpedo Basic Operation
+Miner Basic Operation
+Ship Thruster Systems
+Ship Cargo Stacker
+Ship Shield Regeneration
+Escort Ship Operation
+Utility Ship Operation
+Frigate Ship Operation
+Cruiser Ship Operation
+Carrier Ship Operation
+Destroyer Ship Operation
+Battlecruiser Ship Operation
+Dreadnought Ship Operation
+Drone Operation
+Drone Command Systems
+Drone Combat Weapons
+Drone Mining Lasers
+Drone Repair Systems
+Drone Defensive Programing
+Drone Range Signal
+Drone Energy Systems
+Drone Armor Mechanic
+Drone Cargo Mechanic
+Drone Thruster Systems
+
+
+<Station Missions>
+[c:lime]FABRICATE[/c]
+Produce a light container of <color='yellow'>8</color> <color='yellow'>Lubricants</color> at the StarGypsy Warehouse fabricator in <color='cyan'>Void Starcross</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>5</color> to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+[c:lime]KILL RAIDERS[/c]
+Destroy <color='yellow'>5 Raiders</color> in <color='cyan'>Ballast Crow</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]RECOVER[/c]
+Recover a light quantity of <color='yellow'>5000</color> <color='yellow'>Acidic Residues</color> in <color='cyan'>Lins</color>, and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]TRANSPORT[/c]
+Transport <color='yellow'>5</color> units of <color='yellow'>Scrap Support Modules</color> from Temple of the Void in <color='cyan'>Valley of Truths</color> to Legistron in <color='cyan'>Dogstar Prime</color>
+
+[c:lime]HARVEST[/c]
+Harvest <color='yellow'>Special Lokken Ore</color> in <color='cyan'>Jala</color> and return with <color='yellow'>81</color> ore to Blargg's in <color='cyan'>Beacon Spita</color>
+
+[c:lime]REFINE[/c]
+Refine a light container of <color='yellow'>16</color> <color='yellow'>Derelicts</color> at the Imperium Republica  station in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Fragment</color> in <color='cyan'>Jermicus</color> and return with <color='yellow'>9</color> to Gemini Mining in <color='cyan'>Jala</color>
+
+[c:lime]SCAN[/c]
+Recon <color='yellow'><i>Mr. Fuimes Meleno</i></color> in <color='cyan'>Lins</color> and return to Legistron in <color='cyan'>Dogstar Prime</color>
+
+[c:lime]SCAN[/c]
+Find <color='yellow'><i>Watchman Roro Jidao</i></color> in <color='cyan'>Veloxi</color>, scan their ship, and return to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+[c:lime]SCAN[/c]
+Track and scan the target <color='yellow'>Recon Center</color> structure in <color='cyan'>Starfort Ramos</color> and return to Legistron in <color='cyan'>Dogstar Prime</color>
+
+
+
+<Station Ships>
+AC-10 Basilisk / Cruiser    (Battle)
+ME-1 Condor / Escort    (Battle)
+TBE-5 Devastator  / Escort    (Battle)
+ABC-7 Hydra / Cruiser    (Battle)
+HRDC-7 Valiant / Carrier    (Recon)
+RS-1 Translator / Shuttle    (Recon)
+RE-1 Integrator / Escort    (Recon)
+RU-2 Curator / Utility    (Recon)
+RF-3 Assimilator / Frigate    (Recon)
+RC-2 Informer / Cruiser    (Recon)
+RCA-1 Correlator / Carrier    (Recon)
+RDE-1 Destroyer / Destroyer    (Recon)
+RBC-4 Devastar / Battlecruiser    (Recon)
+RDR-1 Nova Reaper / Dreadnought    (Recon)
+AHBC-10 Tsunami  / Battlecruiser    (Battle)
+HMC-8 Thunder / Destroyer    (Battle)
+
+
+<Station Offices>
+(Tutorial Office) Camera Basics 
+[c:grey](Ratamaq Guru)[/c]
+
+(Tutorial Office) Navigation Basics 
+[c:grey](Arji Darn)[/c]
+
+(Tutorial Office) Life Support Basics 
+[c:grey](Carter Burke)[/c]
+
+(Tutorial Office) Introduction 
+[c:grey](Jessa Din)[/c]
+
+(Tutorial Office) Basic Combat 
+[c:grey](Fredric Din)[/c]
+

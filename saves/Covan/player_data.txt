@@ -1,0 +1,153 @@
+// PLAYER;Variable;Value
+<PLAYER>
+PLAYER;name;Covan
+PLAYER;level;5
+PLAYER;xp;12117.00
+PLAYER;next_level_xp;14100.00
+PLAYER;last_level_xp;9100.00
+PLAYER;avatar;none.jpg
+PLAYER;credits;1084044.86
+PLAYER;residual_credits;0.00
+PLAYER;skill_points;34
+PLAYER;playtime;23341.39
+PLAYER;fleet_formation;Broad
+PLAYER;fleet_formation_distance;1
+PLAYER;max_missions;3
+PLAYER;face_1;male_13.png
+PLAYER;face_2;accessory_14.png
+PLAYER;face_bg;accessory_1.png
+PLAYER;profession_id;0
+PLAYER;passive_scanner_settings;False,False,False,False,False,False,True,True,True
+PLAYER;autopilot_settings;True,False,True,True,True
+PLAYER;orbit_data;True,500,0,1,True
+PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
+PLAYER;cargo_settings;ALL,Class,Ascend,1
+PLAYER;targeting_settings;Name,Ascend
+PLAYER;station_market_settings;SEARCH,Name,Ascend,100
+PLAYER;station_university_settings;SEARCH,Name,Ascend,100
+PLAYER;station_mission_settings;ALL,Name,Ascend,100
+PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
+PLAYER;sector;sector_0.txt
+PLAYER;sector_id;0
+PLAYER;station;sector_0_station_0.txt
+PLAYER;isdocked;True
+
+// SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
+<SHIPS>
+SHIP;ship_data_(recon_escort_1)21269.txt;False;False;sector_17_station_0.txt;sector_17.txt;0.0;0.0;0.0
+SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;58.88;-83.02;-4685.93
+
+// MERC;filename;isactive;station;sector;position_x;position_y;position_z;
+<MERC>
+
+// SKILL; skill id, skill lvl, train time remaining, total time
+<SKILLS>
+SKILL;215;1;0;0
+SKILL;41;3;0;0
+SKILL;11;3;0;360
+SKILL;42;1;0;0
+SKILL;55;1;0;0
+SKILL;56;1;0;0
+SKILL;45;1;0;0
+SKILL;1;3;0;360
+SKILL;100;2;0;170
+SKILL;64;1;0;55
+SKILL;31;1;0;120
+SKILL;21;3;0;360
+SKILL;43;1;0;90
+
+
+
+// MEDAL , id , bool, img, desc
+<MEDALS>
+MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful excavation of 100 units of Adamyte. 
+MEDAL;8;True;medal_17.png;First Mission Completed;Awarded for the successful completion of your very first Mission. 
+MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your first raider in combat. 
+
+// MISSION , id , timer, img, data, desc
+<MISSIONS>
+
+// STAT; Stat id, Stat Name ,Stat Value , Stat Type
+<STATS>
+STAT;0;;0;
+STAT;1;Projectile Weapons Fired;16;Weapons
+STAT;2;Laser Weapons Fired;73;Weapons
+STAT;3;Beam Weapons Fired;40;Weapons
+STAT;4;Launcher Weapons Fired;200;Weapons
+STAT;5;Torpedo Weapons Fired;0;Weapons
+STAT;6;Salvage Beams Fired;0;Excavation
+STAT;7;;0;
+STAT;8;;0;
+STAT;8;;0;
+STAT;10;Mining lasers Fired;183;Excavation
+STAT;11;Adamyte Ore Mined;1153;Excavation
+STAT;12;Gradeon Ore Mined;286;Excavation
+STAT;13;Quazor Ore Mined;401;Excavation
+STAT;14;Lokken Ore Mined;0;Excavation
+STAT;15;Torim Ore Mined;0;Excavation
+STAT;16;Plasite Ore Mined;0;Excavation
+STAT;17;Dynex Ore Mined;0;Excavation
+STAT;18;Belasite Ore Mined;0;Excavation
+STAT;19;Xenox Ore Mined;72;Excavation
+STAT;20;Zai Ore Mined;0;Excavation
+STAT;21;Electron Orbs Mined;240;Excavation
+STAT;22;Junk Collected;0;Excavation
+STAT;23;Scraps Collected;0;Excavation
+STAT;24;Salvage Collected;0;Excavation
+STAT;25;Derelicts Collected;0;Excavation
+STAT;26;Missions Complete;17;Missions
+STAT;27;Missions Expired;0;Missions
+STAT;28;Missions Aborted;1;Missions
+STAT;29;Transport Missions Complete;0;Missions
+STAT;30;Collection Missions Complete;0;Missions
+STAT;31;Delivery Missions Complete;2;Missions
+STAT;32;Recon Missions Complete;0;Missions
+STAT;33;Harvest Missions Complete;1;Missions
+STAT;34;Escort Missions Complete;0;Missions
+STAT;35;Recover Missions Complete;1;Missions
+STAT;36;Kill Missions Complete;22;Missions
+STAT;37;Kill Recover Missions Complete;0;Missions
+STAT;38;Sectors Explored;6;Navigation
+STAT;39;Warp gate Jumps;28;Navigation
+STAT;40;Tractor Beams Fired;0;Utility
+STAT;41;Active Shield Cycles;0;Shields
+STAT;42;Dialog Missions Complete;2;Missions
+STAT;43;Salvage Missions Complete;0;Missions
+STAT;44;Refinery Missions Complete;0;Missions
+STAT;45;Fabricator Missions Complete;0;Missions
+STAT;46;;0;
+STAT;47;;0;
+STAT;48;;0;
+STAT;49;;0;
+STAT;50;Skill Levels Trained;15;Skills
+STAT;51;Skill Points Earned;86;Skills
+STAT;52;Skill Points Spent;119;Skills
+STAT;53;;0;
+STAT;54;;0;
+STAT;55;;0;
+STAT;56;;0;
+STAT;57;;0;
+STAT;58;Structures Destroyed;0;Combat
+STAT;59;Npcs Destroyed;0;Combat
+STAT;60;Raiders Destroyed;8;Combat
+STAT;61;Projectile Damage Taken;80;Combat
+STAT;62;Laser Damage Taken;25;Combat
+STAT;63;Beam Damage Taken;0;Combat
+STAT;64;Missile Damage Taken;0;Combat
+STAT;65;Torpedo Damage Taken;0;Combat
+
+// KEY; Sector ; gate_id
+<KEY>
+
+// BOOKMARK; sector_id ; title ; notes ; x ; y ; z
+<BOOKMARKS>
+BOOKMARK;17;Ore 14.7;;332.1;945.3;414.6
+BOOKMARK;17;Ore 14.7;;332.1;945.3;414.6
+
+// PLOT; PLOT name ; PLOT value
+<PLOT>
+PLOT;welcome_center;2
+PLOT;tutorial_intro;4
+PLOT;tutorial_combat;2
+PLOT;638570.transfer_pilot;1
+PLOT;699377.transfer_pilot;1

@@ -1,0 +1,130 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Inovex
+STATION;type;Fabrication Plant
+STATION;owner;Paxon Sipleskol
+STATION;faction;Trade
+STATION;material;station_material_Trade.png
+STATION;color;.70 , 1, .23 , 1
+STATION;level;6
+STATION;icon;invovex.png
+STATION;filename;sector_71_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-1-1-2-8-0-7-1-7-7-3-3-1-6-7-2-7-0
+STATION;interior_seed;3-4-0-8
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;False
+SERVICES;storage;False
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;Astrox Opera House;0.26,0.07;51000;Musical Entertainment;entertain_opera.png;Provide a private opera concert for your entire crew at the famous 'Astrox Opera House', drinks and food included. 26% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;Karaoke Night;0.15,0.05;15000;Musical Entertainment;entertain_show.png;Your fleet is treated to a night of karaoke at the local music tavern. 15% Morale , 5% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;2;1.76;npc_ship_data_(pirate_carrier_1).txt
+MERC;4;1.70;npc_ship_data_(battle_cruiser_1).txt
+MERC;5;1.75;npc_ship_data_(transport_utility_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Shortage: (3) Items ;343x66,341x274,343x171;106687;24638.68
+BUYORDER;Market Low Inventory: (1) Items ;340x84;9455;68905.30
+ITEM;3022;4;1.00;0
+ITEM;3032;4;1.00;0
+ITEM;3034;2;1.00;0
+ITEM;9;1534;1.10;186.9413
+ITEM;2036;92;1.00;186.9413
+ITEM;1593;5;1.07;186.9413
+ITEM;2167;2;1.12;186.9413
+ITEM;1730;4;0.99;186.9413
+ITEM;2016;81;1.05;186.9413
+ITEM;2162;1;0.99;22108.5
+ITEM;603;6;1.02;22108.5
+ITEM;1019;6;1.04;22108.5
+ITEM;1070;7;1.00;22108.5
+ITEM;1312;9;0.98;22108.5
+ITEM;107;162;1.06;22108.5
+ITEM;2103;3811;1.02;22108.5
+ITEM;323;948;1.13;22108.5
+ITEM;2312;1;0.95;22108.5
+ITEM;2315;1;1.02;22108.5
+ITEM;2117;1863;1.02;20.71575
+ITEM;2061;67;1.01;20.71575
+ITEM;2038;71;1.11;20.71575
+ITEM;2167;0;1.01;679468.5
+ITEM;2042;0;1.09;279.1283
+ITEM;1112;4;1.05;279.1283
+ITEM;1306;0;0.96;13079.88
+ITEM;2094;558;0.99;815.7386
+ITEM;2054;97;1.14;815.7386
+ITEM;1024;7;1.13;815.7386
+ITEM;2315;1;1.11;815.7386
+ITEM;2212;1;0.98;815.7386
+ITEM;2257;2;1.04;815.7386
+ITEM;2020;61;1.00;815.7386
+ITEM;1312;8;1.11;815.7386
+ITEM;2381;2;1.05;815.7386
+ITEM;2263;2;1.02;815.7386
+ITEM;2049;86;1.03;815.7386
+ITEM;2217;0;1.00;4869375
+ITEM;1165;8;0.96;4869375
+ITEM;604;6;1.12;4869375
+ITEM;1221;8;1.03;4869375
+ITEM;1312;8;0.98;4869375
+ITEM;1563;9;1.01;4869375
+ITEM;2038;58;1.01;4869375
+ITEM;1654;9;1.04;4869375
+ITEM;2011;0;1.10;33.30563
+ITEM;2131;2;1.13;33.30563
+ITEM;2011;63;0.96;33.30563
+ITEM;1053;2;1.06;33.30563
+ITEM;643;5;1.01;33.30563
+ITEM;1059;5;1.12;33.30563
+ITEM;2286;1;1.02;33.30563
+ITEM;2284;1;0.96;33.30563
+ITEM;320;3080;1.14;24.92175
+ITEM;1111;6;1.03;24.92175
+ITEM;1168;5;1.10;24.92175
+ITEM;1165;8;0.96;24.92175
+ITEM;2336;1;1.07;24.92175
+ITEM;1025;4;1.09;24.92175
+ITEM;1159;8;1.01;24.92175
+ITEM;712;9;0.98;24.92175
+ITEM;2382;1;0.95;24.92175
+ITEM;1023;9;1.04;24.92175
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;44;0.58
+SKILL;35;1.33
+SKILL;27;1.94
+SKILL;225;0.91
+SKILL;43;1.53
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.07;ship_data_(excavation_escort_1).txt
+SHIP;2;0.91;ship_data_(transport_shuttle_1).txt
+SHIP;3;1.02;ship_data_(battle_shuttle_1).txt
+SHIP;4;0.98;ship_data_(pirate_carrier_1).txt
+SHIP;5;1.07;ship_data_(support_escort_1).txt
+SHIP;6;0.95;ship_data_(battle_utility_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

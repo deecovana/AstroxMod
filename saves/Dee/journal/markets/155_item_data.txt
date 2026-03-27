@@ -1,0 +1,6 @@
+NPC;+LOCAL;45;1;19.26449;Acrondia Hub;Temple Gates;1h 2m 42s ;3762.632
+PLAYER;+QTY;46;1;19.68262;Acrondia Hub;Temple Gates;1h 5m 14s ;3914.726
+NPC;+LOCAL;150;106;13.8214;Acrondia Hub;Temple Gates;1h 46m 14s ;6374.585
+NPC;+PRICE;18;0;19.67677;Keyworx;Geminey;1h 49m 22s ;6562.842
+NPC;+STOCK;683;141;18.3691;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;94;-85;20.6045;Vita Assembly;Capital Void;6h 0m 59s ;21659.03

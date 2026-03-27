@@ -1,0 +1,217 @@
+[s:30][c:yellow]Proctors Center[/c][/s]
+Patrol Annex Station
+Kandace
+Law
+[c:lime]Dock fee 25[/c]
+Timestamp: 15613.02
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Drone Command Bay
+Improved Drone Command Bay
+Advanced Drone Command Bay
+Premium Drone Command Bay
+Prototype Drone Command Bay
+[c:orange]DEMAND[/c]
+Adamyte Ore
+Gradeon Ore
+Quazor Ore
+Lokken Ore
+Torim Ore
+Plasite Ore
+Dynex Ore
+Belasite Ore
+Xenox Ore
+Zai Ore
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  7361 - z25
+Advanced 20mm x2 Gun  18 - z6,859
+Advanced Armor Exterior  68 - z15,385
+Advanced Cargo Expansion  14 - z32,368
+Advanced Drone Command Bay  12 - z25,257
+Advanced Energy Armor  41 - z49,009
+Advanced Energy Capacitor  20 - z36,820
+Advanced Engine Core  4 - z33,141
+Advanced Filter  8 - z36,041
+Advanced Impact Armor  16 - z66,851
+Advanced Light Laser  31 - z16,137
+Advanced Mass Reduction  16 - z14,570
+Advanced Regulator  7 - z8,332
+Advanced Scan Booster  50 - z24,283
+Advanced Scan Emitter  32 - z16,691
+Advanced Shield Extender  33 - z25,646
+Advanced Shield Generator  44 - z12,166
+Advanced Targeting System  50 - z14,947
+Advanced Turn Thrust  16 - z14,599
+Anti-Freeze  2560 - z102
+Assorted Gaskets  59 - z9
+Basic 20mm  13621 - z2
+Basic 20mm Gun  4 - z1,304
+Basic 20mm Specs  2 - z15,683
+Basic 20mm x2 Gun  39 - z2,700
+Basic Afterburner  14 - z2,147
+Basic Charged Cell  8105 - z10
+Basic Default Tractor  47 - z1,690
+Basic Drone Command Bay  12 - z1,500
+Basic Energy Armor  26 - z6,593
+Basic Explosive Armor  10 - z6,529
+Basic Filter  17 - z2,690
+Basic Food Rations  5478 - z117
+Basic Impact Armor  25 - z9,144
+Basic Light Beam  13 - z964
+Basic Medium Beam  3 - z1,284
+Basic Medium Laser  14 - z2,077
+Basic Missile  3906 - z18
+Basic Scan Booster  43 - z3,634
+Basic Scan Emitter  14 - z2,029
+Basic Sensor  214 - z49
+Basic Shield Extender  17 - z6,245
+Basic Small Beam  17 - z1,300
+Basic Spotlight  30 - z3,997
+Basic Targeting System  13 - z711
+Basic Triple Launcher  57 - z9,520
+Basic Turn Thrust  28 - z2,101
+Capacitors  412 - z103
+Carbon  345 - z1
+Circuit Board  264 - z111
+Colored Dye  14215 - z220
+Containment Unit  6 - z5,296
+Disposables  11 - z2,864
+Explosive 20mm  3909 - z10
+Explosive 60mm  2749 - z23
+Explosive Missile  8652 - z22
+Fasteners  209 - z18
+Gourmet Food Rations  15452 - z294
+Gradeon Ore  1684 - z21
+Hydrogen  831 - z2
+Improved 20mm Gun  10 - z5,755
+Improved 20mm x2 Gun  32 - z4,587
+Improved Armor Exterior  46 - z5,697
+Improved Cargo Expansion  37 - z4,904
+Improved Drone Command Bay  12 - z6,705
+Improved Energy Armor  24 - z22,621
+Improved Energy Capacitor  15 - z11,757
+Improved Energy Generator  20 - z22,396
+Improved Filter  7 - z6,544
+Improved Impact Armor  15 - z12,350
+Improved Light Beam  11 - z2,307
+Improved Light Miner  5 - z5,337
+Improved Mass Reduction  15 - z3,245
+Improved Scan Booster  14 - z4,263
+Improved Scan Emitter  18 - z1,653
+Improved Shield Extender  19 - z11,974
+Improved Shield Generator  3 - z3,358
+Improved Single Launcher  46 - z6,619
+Improved Small Laser  50 - z5,183
+Improved Turn Thrust  29 - z3,088
+Kinetic 20mm  10206 - z3
+Kinetic 20mm Specs  1 - z44,656
+Kinetic Missile  6142 - z15
+Kinetic Missile Specs  4 - z43,605
+Kitchen Appliances  3580 - z190
+Lighting  3240 - z280
+Lokken Ore  2044 - z82
+Lubricant  166 - z28
+Magnetic Quartz  526 - z1
+Mechanical Switch  194 - z52
+Metal Brackets  409 - z70
+Noodles  9 - z75,935
+Nuts And Bolts  177 - z10
+Optical Interface  194 - z133
+Oxygen  361 - z2
+Premium Drone Command Bay  12 - z133,040
+Protein Bar  9 - z11,189
+Prototype Drone Command Bay  12 - z579,292
+Rubber Tubing  167 - z9
+Scrap  3941 - z35
+Steelium Pipes  361 - z59
+Temperature Genie  22 - z46,952
+Thermal Controller  15 - z2,938
+Thermal Sensor  182 - z62
+Utility Salvager  18 - z6,821
+Water  327 - z1
+Whiskey  2645 - z124
+Wine  2741 - z71
+
+
+<Station University Skills>
+Impact Damage Resistance
+Energy Damage Resistance
+Explosive Damage Resistance
+Beam Focal Range
+University Academic
+Miner Harvest Calibration
+Beam Advanced Systems
+Salvager Energy Optimization
+Launcher Energy Optimization
+Market Auditor
+
+
+<Station Missions>
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk</color> in <color='cyan'>Gate of Alpharis</color> and return with <color='yellow'>7</color> to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+[c:lime]TRANSPORT[/c]
+Move light cargo from StarShepards Headquarters in <color='cyan'>Void Starcross</color> and dock with <color='yellow'>11</color> <color='yellow'>Basic Projectile Impact Mods</color> at Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]REFINE[/c]
+Dock at the Astrox Security Patrol station refinery in <color='cyan'>Felishar</color> and process a light shipment of <color='yellow'>20</color> <color='yellow'>Scraps</color>
+
+[c:lime]RECOVER[/c]
+Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Lins</color> sector, recover the <color='yellow'>29</color> <color='yellow'>Steelium Plates</color> and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]KILL RAIDERS[/c]
+Hunt <color='yellow'>2 Raiders</color> level 10 in <color='cyan'>Starfort Ramos</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Derelict</color> in <color='cyan'>Jala</color> and return with <color='yellow'>5</color> to Temple of the Void in <color='cyan'>Valley of Truths</color>
+
+[c:lime]DIALOG[/c]
+Chat with <color='yellow'><i>Major Boeno Zebast</i></color> about his debt in <color='cyan'>Ballast Crow</color> and return to Tella's in <color='cyan'>Bitcola</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>2</color> to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
+
+[c:lime]SCAN[/c]
+Track down and scan <color='yellow'><i>Foreman Aljid Foeti</i></color> in <color='cyan'>Starfort Ramos</color> and return to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+[c:lime]SCAN[/c]
+Track down and scan <color='yellow'><i>Commander Mastti Fifarda</i></color> in <color='cyan'>Ballast Crow</color> and return to CoraVault in <color='cyan'>Lins</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk</color> in <color='cyan'>Ballast Crow</color> and return with <color='yellow'>2</color> to OmniTrust in <color='cyan'>Ponze</color>
+
+
+
+<Station Ships>
+SHD-10 Jupiter / Super Dreadnought    (Battle)
+BF-1 Enforcer / Frigate    (Battle)
+BE-1 Gabriel / Escort    (Battle)
+BU-1 Gunship / Utility    (Battle)
+LAC-1 Alpharis Predator / Cruiser    (Battle)
+FAD-3 Intercept Piranha / Destroyer    (Battle)
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+
+
+<Station Offices>
+Tutorial Office 
+[c:grey](Fredric Din)[/c]
+

@@ -1,0 +1,153 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Stinkfinger
+STATION;type;Headquarters
+STATION;owner;Restimeslom Lelaseno
+STATION;faction;Pirate
+STATION;material;station_material_Pirate.png
+STATION;color;1 , .1 , .1 , 1
+STATION;level;6
+STATION;icon;stinkfinger.png
+STATION;filename;sector_86_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-4-0-4-2-3-4-0-3-7-2-6-1-5-0-0-2-1-2-5-1-0-0
+STATION;interior_seed;5-8-45-1
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;False
+SERVICES;garage;False
+SERVICES;university;True
+SERVICES;hangar;False
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;6;1.84;npc_ship_data_(transport_utility_1).txt
+MERC;2;1.46;npc_ship_data_(battle_utility_1).txt
+MERC;7;1.73;npc_ship_data_(pirate_carrier_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;1211;4;1.14
+ITEM;331;4331;1.10
+ITEM;1022;7;1.10
+ITEM;1030;6;1.03
+ITEM;1514;6;1.06
+ITEM;2147;1;1.12
+ITEM;2291;1;0.96
+ITEM;2018;60;1.05
+ITEM;2134;1;1.11
+ITEM;2198;1;1.10
+ITEM;1720;8;0.95
+ITEM;2133;2;0.99
+ITEM;1618;2;1.12
+ITEM;350;528;1.11
+ITEM;2062;85;0.99
+ITEM;2309;2;1.05
+ITEM;1310;8;1.03
+ITEM;1153;6;1.07
+ITEM;2285;1;1.06
+ITEM;1219;3;0.95
+ITEM;1305;8;1.14
+ITEM;1208;6;1.08
+ITEM;1211;4;0.97
+ITEM;2158;1;1.03
+ITEM;1063;2;0.99
+ITEM;11;2296;1.02
+ITEM;2258;2;0.98
+ITEM;1153;9;1.11
+ITEM;2143;2;0.98
+ITEM;1113;6;1.00
+ITEM;1216;2;1.04
+ITEM;2254;1;1.03
+ITEM;2124;2;1.10
+ITEM;1404;7;0.98
+ITEM;1711;7;1.10
+ITEM;608;5;1.04
+ITEM;1553;5;1.11
+ITEM;352;3195;1.12
+ITEM;1053;8;1.11
+ITEM;2341;2;1.08
+ITEM;2067;60;1.09
+ITEM;1720;6;1.01
+ITEM;2039;94;1.08
+ITEM;1754;5;1.02
+ITEM;1120;8;0.97
+ITEM;1117;6;1.08
+ITEM;1618;7;1.04
+ITEM;1203;8;1.07
+ITEM;2011;52;1.07
+ITEM;2361;2;1.04
+ITEM;2039;70;1.05
+ITEM;1104;8;1.09
+ITEM;1301;3;0.99
+ITEM;1460;4;0.97
+ITEM;1603;3;1.10
+ITEM;1603;7;1.02
+ITEM;2037;94;1.02
+ITEM;340;4452;1.11
+ITEM;2314;1;1.00
+ITEM;728;3;1.04
+ITEM;2036;81;0.95
+ITEM;2073;91;1.07
+ITEM;1503;3;1.02
+ITEM;2011;86;1.03
+ITEM;2308;1;1.04
+ITEM;1221;6;1.10
+ITEM;2129;2;1.11
+ITEM;9;2507;0.99
+ITEM;1171;8;1.12
+ITEM;109;132;1.11
+ITEM;512;2;1.12
+ITEM;2143;1;1.11
+ITEM;2163;1;1.04
+ITEM;2031;98;1.05
+ITEM;2222;2;1.09
+ITEM;107;145;1.08
+ITEM;1308;7;0.99
+ITEM;1116;2;1.08
+ITEM;2289;1;0.95
+ITEM;1732;9;1.10
+ITEM;2129;2;1.12
+ITEM;2130;2;1.05
+ITEM;1720;9;0.98
+ITEM;1573;6;1.14
+ITEM;2364;2;1.09
+ITEM;2051;99;1.00
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;74;1.58
+SKILL;2;1.13
+SKILL;233;0.85
+SKILL;72;0.63
+SKILL;16;1.63
+SKILL;71;0.50
+SKILL;33;1.29
+SKILL;230;1.26
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.02;ship_data_(excavation_utility_1).txt
+SHIP;2;0.97;ship_data_(transport_utility_1).txt
+SHIP;3;1.00;ship_data_(battle_cruiser_1).txt
+SHIP;4;0.94;ship_data_(support_utility_1).txt
+SHIP;5;1.02;ship_data_(battle_cruiser_1).txt
+SHIP;6;1.07;ship_data_(transport_frigate_1).txt
+SHIP;7;1.03;ship_data_(recon_escort_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

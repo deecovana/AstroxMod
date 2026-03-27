@@ -1,0 +1,152 @@
+[s:30][c:yellow]Acrondia Hub[/c][/s]
+Organization Center
+Bidbruei Lowtibem
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 19201.27
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic 20mm x2 Gun
+Basic 20mm Gun
+Basic 20mm Auto
+Improved 20mm x2 Gun
+Improved 20mm Gun
+Improved 20mm Auto Gun
+Advanced 20mm x2 Gun
+Advanced 20mm Gun
+Advanced 20mm Auto Gun
+Premium 20mm x2 Gun
+Premium 20mm Gun
+Premium 20mm Auto Gun
+Prototype 20mm x2 Gun
+Prototype 20mm Gun
+Prototype 20mm Auto Gun
+[c:orange]DEMAND[/c]
+Adamyte Ore
+Gradeon Ore
+Quazor Ore
+Lokken Ore
+Torim Ore
+Plasite Ore
+Dynex Ore
+Belasite Ore
+Xenox Ore
+Zai Ore
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+University
+Storage
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  36 - z21
+Advanced 20mm Auto Gun  39 - z10,005
+Advanced 20mm Gun  41 - z9,074
+Advanced 20mm x2 Gun  32 - z9,273
+Advanced Energy Capacitor (Doc)  1 - z280,989
+Aluminium Rivets  119 - z8
+Anti-Freeze  1005 - z63
+Assault x1 Launcher (Doc)  2 - z31,183
+Assorted Gaskets  66 - z17
+Assorted Springs  84 - z35
+Basic 20mm Auto  36 - z1,417
+Basic 20mm Gun  37 - z1,369
+Basic 20mm x2 Gun  42 - z1,315
+Basic 60mm Auto Cannon  8 - z1,791
+Basic 60mm x2 Cannon  9 - z1,949
+Basic Active Scanner  10 - z1,332
+Basic Energy Capacitor  9 - z3,224
+Basic Energy Capacitor (Doc)  2 - z36,188
+Basic Light Laser  7 - z2,216
+Basic Scan Emitter  2 - z1,397
+Basic Sensor  86 - z76
+Basic Shield Generator  8 - z1,459
+Basic Thruster  8 - z1,368
+Battery Core  164 - z111
+Burglar Drone  13 - z12,989
+Cleaning Chemicals  2918 - z68
+Containment Unit  8 - z7,549
+Disposables  4 - z1,705
+Dynex Extractor (Doc)  1 - z51,232,910
+Fasteners  88 - z27
+Furniture  2771 - z99
+Fusion Core Torpedo  3011 - z50
+Improved 20mm Auto Gun  39 - z3,426
+Improved 20mm Gun  25 - z3,140
+Improved 20mm x2 Gun  31 - z2,935
+Improved 60mm Cannon  8 - z4,648
+Improved 60mm x2 Cannon  7 - z4,265
+Improved Energy Capacitor  7 - z6,387
+Improved Engine Core  7 - z15,041
+Improved Filter  3 - z4,817
+Improved Light Miner  7 - z4,401
+Improved Mass Reduction  3 - z3,026
+Improved Scan Booster  9 - z6,753
+Improved Scan Booster (Doc)  2 - z83,044
+Improved Shield Generator  3 - z3,989
+Improved Thruster  7 - z2,617
+Junk  5381 - z16
+Junk Power Module  2472 - z413
+Junk Support Module  4808 - z418
+Junk Weapon Module  762 - z350
+Kinetic 20mm  462 - z3
+Kinetic 20mm (Doc)  1 - z294
+Kinetic Missile  4175 - z17
+Lighting  4028 - z179
+Lubricant  75 - z23
+Metal Gears  77 - z20
+Optical Interface  99 - z97
+Ore Harvester 10 (Doc)  1 - z32,612,900
+Ore Harvester 7 (Doc)  1 - z4,104,918
+Polymere  68 - z59
+Premium 20mm Auto Gun  34 - z38,391
+Premium 20mm Gun  41 - z39,536
+Premium 20mm x2 Gun  25 - z30,549
+Prototype 20mm Auto Gun  43 - z178,523
+Prototype 20mm Gun  34 - z165,559
+Prototype 20mm x2 Gun  41 - z170,153
+Prototype ECM Energy Coil (Doc)  2 - z142,456
+Pulse x1 Laser (Doc)  1 - z7,439
+Quazor Ore  4039 - z37
+Regulator  82 - z6
+Rubber Tubing  70 - z14
+Salvage Collector 3 (Doc)  2 - z269,002
+Salvage Collector 5 (Doc)  1 - z1,071,684
+Salvage Collector 8 (Doc)  1 - z8,206,785
+Shield Charge  8 - z6,141
+Small Combat Drone  4 - z3,931
+Small Defense Drone  14 - z7,496
+Small Energy Bomb  4 - z6,249
+Small Repair Drone  15 - z4,051
+Tactical x1 Launcher (Doc)  2 - z37,327
+Tactical x6 Launcher (Doc)  3 - z1,125,915
+Thermal Insulation  58 - z23
+Uranium Core 20mm (Doc)  2 - z775
+
+
+<Station University Skills>
+Salvager Cycle Mechanics
+Launcher Damage Calibration
+Laser Damage Calibration
+Ship Armor Repair Systems
+Salvager Energy Optimization
+Fabrication Accountant
+
+
+<Station Missions>
+[c:lime]SCAN[/c]
+Find <color='yellow'><i>Chairman Fozo Yelbin</i></color> in <color='cyan'>Ambervellis Drea</color>, scan their ship, and return to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+
+
+<Station Ships>

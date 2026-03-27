@@ -1,0 +1,6 @@
+NPC;+STOCK;724;129;62.36274;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;203;103;54.11934;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;1080;142;48.4862;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;98;-93;46.34254;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+PRICE;174;0;35.4627;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
+NPC;+PRICE;21;0;75.2936;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77

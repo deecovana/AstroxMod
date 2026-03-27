@@ -1,0 +1,130 @@
+[s:30][c:yellow]ValueStar[/c][/s]
+Trade Floor Facility
+Binofesiv Sedkeesed
+Trade
+[c:lime]Dock fee 100[/c]
+Timestamp: 16611.05
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Cloak Field Resistance
+Cloak Booster
+Cloak Energy Core
+Cloak Range Extender
+[c:orange]DEMAND[/c]
+Junk
+Scrap
+Fragment
+Derelict
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Items Req: (2) Items 
+ (51) x Scrap
+ (235) x Scrap
+Fulfill order for [c:lime]1,600 profit.[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (1) Items 
+ (173) x Fragment
+Fulfill order for [c:lime]9,646 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (182) x Scrap
+Fulfill order for [c:lime]1,466 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (52) x Junk
+ (38) x Junk
+ (169) x Junk
+Fulfill order for [c:lime]1,857 profit.[/c]
+[c:green]BUY Order[/c] Market Low Inventory: (3) Items 
+ (81) x Fragment
+ (88) x Fragment
+ (83) x Scrap
+Fulfill order for [c:lime]8,315 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Extractor (Doc)  1 - z19,147,500
+Advanced 60mm (Doc)  2 - z643
+Advanced ECM Energy Coil (Doc)  1 - z125,256
+Advanced Energy Capacitor (Doc)  1 - z298,897
+Advanced Regulator  8 - z5,153
+Ball Bearings  82 - z14
+Basic Active Scanner  7 - z1,386
+Basic Afterburner (Doc)  2 - z17,943
+Basic Energy Armor  5 - z7,804
+Basic Light Beam  13 - z616
+Basic Projectile Impact Mod (Doc)  2 - z121,013
+Basic Shield Extender  4 - z3,705
+Basic Shield Generator  7 - z1,342
+Basic Small Laser  3 - z2,357
+Basic Targeting System  8 - z1,491
+Basic Thruster  12 - z1,355
+Belasite Extractor (Doc)  1 - z53,460,000
+Blaster x6 Laser (Doc)  2 - z309,368
+Capacitors  84 - z89
+Cat Food  5 - z18,295
+Cloak Booster  40 - z7,327
+Cloak Energy Core  42 - z8,228
+Cloak Field Resistance  42 - z8,309
+Cloak Range Extender  40 - z8,805
+Colored Dye  3307 - z159
+Containment Unit  3 - z7,054
+Disposables  3 - z1,901
+Furniture  7297 - z89
+Improved 20mm x2 Gun  3 - z3,443
+Improved Energy Armor  8 - z15,593
+Improved Energy Capacitor  3 - z6,843
+Improved Energy Generator  12 - z13,353
+Improved Light Miner  9 - z4,217
+Improved Scan Emitter  6 - z2,931
+Junk  516 - z19
+Kinetic Torpedo  542 - z37
+Lighting  2147 - z171
+Mechanical Belts  98 - z11
+Metal Gears  78 - z21
+Metal Valve  83 - z9
+Ore Harvester 1 (Doc)  1 - z58,523
+Ore Harvester 10 (Doc)  2 - z29,127,760
+Premium Explosive Armor (Doc)  1 - z2,679,005
+Prototype Engine Core (Doc)  1 - z10,589,780
+Pulse x6 Laser (Doc)  2 - z181,697
+Radiated 60mm (Doc)  2 - z871
+Radiated Torpedo  510 - z53
+Reinforced Rubber  131 - z15
+Salvage Collector 5 (Doc)  3 - z1,066,065
+Salvage Collector 7 (Doc)  1 - z4,477,950
+Small Repair Drone  7 - z3,862
+Small Shield Bomb  5 - z5,740
+Small Web Field  4 - z4,783
+Tactical x1 Launcher (Doc)  1 - z36,223
+Tactical x6 Launcher (Doc)  2 - z1,168,920
+Water  334 - z1
+
+
+<Station University Skills>
+Laser Damage Calibration
+Merc Prospector
+Fleet Navigation
+Merc Negotiations
+Laser Damage Calibration
+
+
+<Station Missions>
+
+
+<Station Ships>
+BF-8 Dictator / Frigate    (Battle)
+BU-1 Gunship / Utility    (Battle)
+RS-1 Translator / Shuttle    (Recon)
+PF-1 Pirate Frigate / Frigate    (Assault)

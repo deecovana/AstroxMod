@@ -1,0 +1,161 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Astrox Security Patrol
+STATION;type;Training Post
+STATION;owner;Bidres Oisedar
+STATION;faction;Law
+STATION;material;station_material_Law.png
+STATION;color;0 , .60 , 1 , 1
+STATION;level;8
+STATION;icon;asp.png
+STATION;filename;sector_50_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-6-0-4-8-0-3-1-4-5-2-5-0
+STATION;interior_seed;5-7-15-3
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;False
+SERVICES;garage;False
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;Bottle of Whiskey;0.025,0.0;850;Whiskey;entertain_bar.png;Purchase a bottle of whiskey for each of your fleet members. 2.5% Morale bonus.
+ENTERTAINMENT;Private Party;0.10,0.0;2700;Party;entertain_bar.png;Throw a private party at the local station pub for your entire fleet. 10% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;4;0.97;npc_ship_data_(recon_frigate_1).txt
+MERC;5;1.42;npc_ship_data_(battle_shuttle_1).txt
+MERC;4;0.86;npc_ship_data_(pirate_utility_1).txt
+MERC;8;1.38;npc_ship_data_(transport_carrier_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;2034;77;1.07
+ITEM;2009;74;1.05
+ITEM;2123;1;0.95
+ITEM;2306;1;1.14
+ITEM;2389;1;1.11
+ITEM;2333;1;1.05
+ITEM;2182;2;0.97
+ITEM;2035;89;0.98
+ITEM;331;2651;1.06
+ITEM;2021;99;0.98
+ITEM;2186;1;1.13
+ITEM;1643;6;1.02
+ITEM;2037;85;1.15
+ITEM;2187;1;1.04
+ITEM;2211;1;1.01
+ITEM;2377;2;0.98
+ITEM;712;6;1.10
+ITEM;2031;85;0.99
+ITEM;2010;64;0.98
+ITEM;1301;9;1.13
+ITEM;2378;1;0.96
+ITEM;1582;3;0.96
+ITEM;604;5;1.03
+ITEM;1220;9;1.01
+ITEM;2029;58;1.12
+ITEM;511;1;1.03
+ITEM;2248;2;1.04
+ITEM;1112;6;1.09
+ITEM;1162;3;1.07
+ITEM;1502;7;1.14
+ITEM;1208;8;1.09
+ITEM;1574;7;1.10
+ITEM;2041;72;0.96
+ITEM;106;177;0.96
+ITEM;1533;9;0.97
+ITEM;2355;2;1.01
+ITEM;2095;4498;1.15
+ITEM;2141;2;1.11
+ITEM;1710;5;1.03
+ITEM;212;61;1.00
+ITEM;2112;459;0.97
+ITEM;2038;50;1.09
+ITEM;7;703;0.96
+ITEM;1166;5;0.95
+ITEM;2035;90;1.07
+ITEM;1110;3;1.01
+ITEM;2375;2;1.07
+ITEM;213;71;1.08
+ITEM;1208;6;1.02
+ITEM;1159;6;1.01
+ITEM;1116;8;1.05
+ITEM;1701;7;1.03
+ITEM;1573;3;0.98
+ITEM;2380;2;1.05
+ITEM;2161;2;1.01
+ITEM;2098;1500;1.05
+ITEM;2333;1;1.14
+ITEM;1722;2;1.01
+ITEM;2311;1;1.05
+ITEM;218;82;1.04
+ITEM;215;50;0.96
+ITEM;1171;8;1.01
+ITEM;2192;1;1.09
+ITEM;2361;2;0.97
+ITEM;2030;66;1.08
+ITEM;2113;1810;0.99
+ITEM;2019;60;1.14
+ITEM;2127;2;0.96
+ITEM;53;4929;1.01
+ITEM;2354;2;1.00
+ITEM;1221;2;1.00
+ITEM;2017;59;1.13
+ITEM;2394;1;1.07
+ITEM;1065;8;1.08
+ITEM;2147;1;1.10
+ITEM;1584;5;1.10
+ITEM;1644;3;1.03
+ITEM;2394;1;1.07
+ITEM;1711;4;0.99
+ITEM;343;2430;1.03
+ITEM;1212;6;1.06
+ITEM;2002;56;1.01
+ITEM;2310;1;1.08
+ITEM;1029;2;1.03
+ITEM;1056;9;1.09
+ITEM;1062;2;0.99
+ITEM;2092;4553;1.00
+ITEM;2259;1;1.05
+ITEM;2395;1;0.98
+ITEM;1203;9;0.96
+ITEM;1104;6;0.98
+ITEM;215;65;1.10
+ITEM;2254;1;1.03
+ITEM;343;2613;1.00
+ITEM;2029;60;1.14
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;60;0.86
+SKILL;230;0.85
+SKILL;41;1.15
+SKILL;11;0.62
+SKILL;223;1.75
+SKILL;25;1.74
+SKILL;2;1.32
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.09;ship_data_(battle_escort_1).txt
+SHIP;2;1.06;ship_data_(battle_utility_1).txt
+SHIP;3;0.93;ship_data_(support_cruiser_1).txt
+SHIP;4;0.91;ship_data_(excavation_shuttle_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

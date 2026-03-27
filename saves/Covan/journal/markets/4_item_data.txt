@@ -1,0 +1,9 @@
+NPC;+STOCK;5386;4772;54.02082;Biomate University;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;9005;4724;54.93708;Starbase Corporate Center;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;4533;3919;53.43877;Biomate University;Void Starcross;3h 44m 49s ;13489.92
+NPC;-PRICE;4435;0;58.9254;Mazu Starship;Enoch Estates;3h 52m 19s ;13939.56
+NPC;-LOCAL;2068;0;65.43831;Proctors Center;Void Starcross;4h 15m 41s ;15341.7
+NPC;-LOCAL;2044;0;64.89285;Proctors Center;Void Starcross;4h 17m 37s ;15457.53
+NPC;-LOCAL;0;0;53.20887;Holosynth Industries;Rats Of Mortalis;5h 42m 2s ;20522.59
+NPC;-LOCAL;0;0;53.887;Holosynth Industries;Rats Of Mortalis;5h 44m 12s ;20652.25
+NPC;+PRICE;682;0;43.71989;Fellacore Research Center;Grace;6h 0m 19s ;21619.05

@@ -1,0 +1,15 @@
+PLAYER;-QTY;31;1;2.584375;Acrondia Hub;Temple Gates;1h 3m 8s ;3788.165
+PLAYER;+QTY;77;46;2.609375;Acrondia Hub;Temple Gates;1h 3m 13s ;3793.264
+NPC;-QTY;0;-130;2.258594;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
+NPC;+STOCK;372;168;2.373883;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;1241;220;2.125676;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;307;194;1.4079;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;625;182;1.933659;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;348;186;2.340574;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;954;191;2.243787;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+PLAYER;+QTY;475;103;2.380859;Biomate University;Void Starcross;3h 41m 7s ;13267.73
+PLAYER;+QTY;567;92;2.355859;Biomate University;Void Starcross;3h 46m 7s ;13567.14
+PLAYER;+QTY;692;125;2.330078;Biomate University;Void Starcross;4h 49m 9s ;17349.04
+PLAYER;+QTY;391;84;1.406953;StarGypsy Warehouse;Void Starcross;5h 7m 45s ;18465.46
+NPC;-QTY;0;-113;2.527656;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+PLAYER;+QTY;773;81;2.302656;Biomate University;Void Starcross;6h 6m 59s ;22020

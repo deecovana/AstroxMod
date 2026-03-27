@@ -1,0 +1,8 @@
+NPC;+STOCK;4530;4092;213.3232;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;-QTY;0;-112;248.4922;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;+STOCK;4548;4110;213.4532;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4044;3785;168.2841;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4864;4798;233.2763;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4248;3689;146.3078;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4501;4370;125.3783;Tella's;Bitcola;7h 27m 33s ;26853.91
+NPC;-LOCAL;4830;0;225;Starbase Corporate Center;Void Starcross;7h 40m 43s ;27643.31

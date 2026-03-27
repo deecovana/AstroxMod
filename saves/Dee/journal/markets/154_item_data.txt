@@ -1,0 +1,6 @@
+NPC;+PRICE;65;0;43.82617;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
+NPC;-QTY;185;-134;39.30419;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
+NPC;+STOCK;189;105;27.86953;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;871;118;44.13468;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;72;-106;36.86351;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;-QTY;0;-27;52.3216;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03

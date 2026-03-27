@@ -1,0 +1,13 @@
+PLAYER;-QTY;42;1;4412.5;Biomate University;Void Starcross;0h 51m 32s ;3092.753
+NPC;+PRICE;8;0;6473.774;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
+NPC;-QTY;0;-2;6519.844;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;-QTY;33;-4;4117.188;Vo Industries;Brimstone;3h 11m 6s ;11466.38
+NPC;+STOCK;45;3;4222.409;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;29;4;2939.327;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;18;3;6315.895;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;36;3;6301.179;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;38;3;5306.546;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;36;3;3007.161;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;2;-2;3505.313;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+PRICE;2;0;4783.838;Star Shepards Hub;Temple Gates;7h 13m 39s ;26019.77
+NPC;+STOCK;8;4;4997.827;Tella's;Bitcola;7h 27m 33s ;26853.91

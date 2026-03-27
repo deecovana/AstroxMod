@@ -1,0 +1,8 @@
+NPC;+LOCAL;149;5;23.83051;Acrondia Hub;Temple Gates;1h 49m 33s ;6573.42
+NPC;-QTY;366;-84;44.13678;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
+NPC;+STOCK;539;107;22.234;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;643;103;28.40908;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;478;131;24.15577;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+LOCAL;150;1;21.56578;Lammassu Financial;Void Starcross;4h 57m 10s ;17830.33
+NPC;+PRICE;225;0;43.34959;SimKitten;Kolkax Prime;6h 14m 52s ;22492.41
+NPC;+PRICE;132;0;41.82396;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77

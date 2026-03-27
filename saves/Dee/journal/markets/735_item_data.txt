@@ -1,0 +1,6 @@
+NPC;+STOCK;113;3;1374020;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+PRICE;57;0;2237427;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
+NPC;+STOCK;113;3;1352370;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;155;3;2934275;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;25;4;2312172;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;16;-2;2327656;Rendo Labs;Entropy;6h 0m 59s ;21659.03

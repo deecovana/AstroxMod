@@ -1,0 +1,161 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Kith
+STATION;type;Ordinance Storage Facility
+STATION;owner;Fegalefae Sizilswhea
+STATION;faction;Pirate
+STATION;material;station_material_Pirate.png
+STATION;color;1 , .1 , .1 , 1
+STATION;level;6
+STATION;icon;kith.png
+STATION;filename;sector_82_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-6-1-2-4-0-5-1-5-0-1-4-1-3-9-0-5-1-3-3-0-5-90
+STATION;interior_seed;3-8-15-8
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;False
+SERVICES;university;True
+SERVICES;hangar;False
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;False
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;7;1.01;npc_ship_data_(excavation_escort_1).txt
+MERC;7;1.73;npc_ship_data_(battle_cruiser_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;3021;4;1
+ITEM;3024;2;1
+ITEM;1167;7;1.13
+ITEM;1720;6;1.01
+ITEM;320;4400;1.04
+ITEM;2001;60;1.07
+ITEM;2305;1;0.99
+ITEM;2028;91;1.09
+ITEM;2330;1;1.07
+ITEM;1024;2;1.09
+ITEM;2361;2;1.00
+ITEM;2305;1;1.05
+ITEM;2003;98;1.06
+ITEM;332;1900;1.05
+ITEM;2166;2;1.03
+ITEM;2028;81;1.10
+ITEM;111;115;1.14
+ITEM;10;3233;0.98
+ITEM;2002;95;1.09
+ITEM;623;9;0.98
+ITEM;112;100;0.98
+ITEM;1026;5;1.15
+ITEM;311;765;1.10
+ITEM;2125;2;1.10
+ITEM;112;185;1.03
+ITEM;63;917;1.06
+ITEM;2334;1;0.97
+ITEM;643;6;1.12
+ITEM;1613;9;1.04
+ITEM;2377;2;1.03
+ITEM;2123;2;1.02
+ITEM;1593;8;0.98
+ITEM;644;7;1.11
+ITEM;2018;64;1.07
+ITEM;2029;54;1.08
+ITEM;330;2149;1.04
+ITEM;109;113;1.03
+ITEM;1301;9;1.05
+ITEM;2331;1;1.14
+ITEM;2395;2;1.07
+ITEM;63;4606;1.11
+ITEM;1624;2;1.15
+ITEM;109;197;1.14
+ITEM;1103;9;1.13
+ITEM;2389;1;1.09
+ITEM;1624;5;1.03
+ITEM;662;4;1.09
+ITEM;1070;6;1.00
+ITEM;2095;4242;0.99
+ITEM;2191;2;0.95
+ITEM;1552;9;1.12
+ITEM;2286;1;1.05
+ITEM;2333;1;0.98
+ITEM;2256;1;1.04
+ITEM;1220;6;0.98
+ITEM;1602;2;1.05
+ITEM;1115;4;1.11
+ITEM;2330;1;1.08
+ITEM;1111;2;1.14
+ITEM;320;1742;0.97
+ITEM;1171;2;1.09
+ITEM;2182;1;0.97
+ITEM;1730;7;0.96
+ITEM;523;2;1.09
+ITEM;1027;4;1.09
+ITEM;1514;2;1.13
+ITEM;2167;1;1.12
+ITEM;1209;4;1.04
+ITEM;1711;5;1.06
+ITEM;2304;1;1.11
+ITEM;1066;3;1.14
+ITEM;1534;3;1.04
+ITEM;2004;84;1.00
+ITEM;2192;1;1.05
+ITEM;1057;4;1.00
+ITEM;1752;5;1.12
+ITEM;2125;2;1.14
+ITEM;1752;4;1.03
+ITEM;2016;65;0.96
+ITEM;608;9;0.96
+ITEM;2389;1;1.12
+ITEM;5;2179;1.04
+ITEM;22;3942;0.99
+ITEM;1710;6;1.01
+ITEM;1617;7;1.04
+ITEM;512;1;1.02
+ITEM;1543;6;1.04
+ITEM;2207;1;1.14
+ITEM;1157;3;1.12
+ITEM;2186;1;1.09
+ITEM;2307;2;1.04
+ITEM;1720;7;1.03
+ITEM;110;102;1.01
+ITEM;2302;2;0.97
+ITEM;21;4686;0.97
+ITEM;2388;2;0.96
+ITEM;523;1;1.07
+ITEM;1617;7;1.14
+ITEM;1054;9;1.12
+ITEM;341;419;0.98
+ITEM;2117;3435;1.00
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;31;1.43
+SKILL;227;1.42
+SKILL;6;1.64
+SKILL;3;0.61
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.98;ship_data_(transport_cruiser_1).txt
+SHIP;2;0.92;ship_data_(excavation_carrier_1).txt
+SHIP;3;0.95;ship_data_(support_frigate_1).txt
+SHIP;4;1.00;ship_data_(recon_utility_1).txt
+SHIP;5;0.98;ship_data_(support_cruiser_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

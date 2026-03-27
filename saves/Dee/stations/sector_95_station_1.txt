@@ -1,0 +1,222 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;1
+STATION;name;Acrondia Hub
+STATION;type;Organization Center
+STATION;owner;Bidbruei Lowtibem
+STATION;faction;Temple
+STATION;material;station_material_Temple.png
+STATION;color;.60 , .20 , .80 , 1
+STATION;level;2
+STATION;icon;acrondia.png
+STATION;filename;sector_95_station_1.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-0-1-7-4-3-3-0-3-0-2-0-0
+STATION;interior_seed;3-1-0-5
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;6906.511
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;False
+SERVICES;university;True
+SERVICES;hangar;False
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;False
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Bottle of Whiskey;0.025,0.0;850;Whiskey;entertain_bar.png;Purchase a bottle of whiskey for each of your fleet members. 2.5% Morale bonus.
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;4;1.68;npc_ship_data_(excavation_escort_1).txt
+MERC;7;0.99;npc_ship_data_(support_carrier_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;1;759;1.03;22.47
+ITEM;52;89;0.63;33.86
+ITEM;641;8;0.60;6934.38
+ITEM;2439;4;0.72;366.05
+ITEM;302;18;1.07;65.97
+ITEM;2131;72;0.76;154.13
+ITEM;1057;1;1.03;5167.81
+ITEM;153;42;0.69;9.79
+ITEM;167;148;0.91;86.90
+ITEM;169;105;0.95;99.54
+ITEM;2445;17;0.62;816.89
+ITEM;40;20;0.50;8.72
+ITEM;1620;9;0.61;1130.14
+ITEM;1750;11;1.09;2519.18
+ITEM;1640;7;1.07;7419.71
+ITEM;1580;4;0.93;5574.87
+ITEM;1510;13;1.02;6359.73
+ITEM;2269;17;0.54;43417.07
+ITEM;620;8;1.07;5817.19
+ITEM;1630;8;1.10;7611.03
+ITEM;2284;11;0.84;12588.34
+ITEM;2406;14;1.01;662.06
+ITEM;1600;18;1.14;1460.51
+ITEM;2289;8;0.79;35909.97
+ITEM;1560;12;0.52;781.52
+ITEM;1500;7;0.85;1112.50
+ITEM;8;0;1.63;1289.75
+ITEM;1110;1;0.72;813.44
+ITEM;2170;5;1.22;15761.25
+ITEM;1111;9;0.83;1754.53
+ITEM;729;31;0.75;12651.56
+ITEM;406;2;0.63;22.43
+ITEM;403;15;0.98;24.69
+ITEM;101;445;0.58;0.51
+ITEM;168;28;0.58;37.11
+ITEM;404;17;0.89;24.59
+ITEM;300;18;0.75;52.46
+ITEM;301;4;0.94;143.54
+ITEM;661;9;0.89;9834.38
+ITEM;63;15;0.60;138.69
+ITEM;660;3;0.89;4917.19
+ITEM;7;0;1.61;786.10
+ITEM;1020;31;0.77;8634.38
+ITEM;1021;12;0.66;6593.35
+ITEM;1019;12;0.55;6691.75
+ITEM;151;100;0.55;8.09
+ITEM;1120;18;0.98;1502.81
+ITEM;1121;15;0.55;1737.28
+ITEM;62;78;1.08;164.28
+ITEM;1001;2;0.66;979.47
+ITEM;1003;5;1.15;1367.78
+ITEM;1002;12;0.55;772.13
+ITEM;2;0;1.48;54.94
+ITEM;405;8;0.51;18.71
+ITEM;1025;12;0.77;17855.87
+ITEM;1027;28;0.75;14844.50
+ITEM;1026;12;0.35;8772.33
+ITEM;753;26;0.87;158967.20
+ITEM;102;77;0.93;2.56
+ITEM;1621;10;0.56;2596.57
+ITEM;2330;13;0.85;44986.88
+ITEM;1531;18;1.01;5557.68
+ITEM;741;18;0.66;33904.69
+ITEM;746;18;0.52;27604.69
+ITEM;1751;10;0.78;8570.52
+ITEM;2362;1;1.12;142881.00
+ITEM;1511;16;0.59;8291.26
+ITEM;2345;5;0.88;157876.00
+ITEM;621;9;1.21;13034.38
+ITEM;1631;9;0.53;8425.94
+ITEM;2285;10;0.54;19831.03
+ITEM;1616;17;1.22;7331.21
+ITEM;1561;9;0.88;3131.55
+ITEM;1501;15;0.62;1778.53
+ITEM;1591;18;0.99;3785.53
+ITEM;1170;16;0.96;3054.97
+ITEM;20;81;0.60;67.96
+ITEM;2387;3;0.89;246.84
+ITEM;1009;2;1.06;2537.56
+ITEM;1008;40;0.81;2258.59
+ITEM;2101;12;1.20;38803.13
+ITEM;1007;5;0.65;1932.94
+ITEM;304;18;0.80;122.40
+ITEM;677;2;0.85;202839.10
+ITEM;758;32;0.67;76343.75
+ITEM;691;23;1.08;35203.13
+ITEM;1460;7;0.99;59589.06
+ITEM;158;28;0.81;40.93
+ITEM;2434;4;1.18;692.75
+ITEM;4;0;1.61;199.71
+ITEM;155;150;0.54;14.13
+ITEM;104;162;0.76;2.30
+ITEM;166;70;1.10;89.75
+ITEM;672;22;1.16;263221.90
+ITEM;674;21;1.25;174646.90
+ITEM;711;28;0.64;18335.94
+ITEM;157;15;1.18;54.84
+ITEM;160;28;1.08;29.34
+ITEM;601;9;0.80;8934.38
+ITEM;150;118;1.07;13.26
+ITEM;303;18;0.52;51.77
+ITEM;1201;11;0.97;9039.22
+ITEM;407;7;1.03;484.20
+ITEM;103;430;1.04;1.04
+ITEM;6;0;1.78;572.59
+ITEM;1161;11;0.53;3366.56
+ITEM;600;2;0.76;4267.19
+ITEM;2117;6;0.79;238.53
+ITEM;1150;5;1.20;3233.59
+ITEM;2190;7;0.80;26803.13
+ITEM;1151;12;1.16;6141.84
+ITEM;1100;11;0.55;321.72
+ITEM;1013;29;0.82;4749.88
+ITEM;1014;12;0.72;4066.99
+ITEM;1015;37;0.82;4019.13
+ITEM;3;0;1.74;118.93
+ITEM;164;150;0.42;11.81
+ITEM;114;258;1.05;2.40
+ITEM;2240;1;0.82;60286.88
+ITEM;21;129;1.16;250.69
+ITEM;721;24;0.98;6440.63
+ITEM;720;2;1.08;7040.63
+ITEM;723;23;0.94;6200.63
+ITEM;159;158;0.52;35.40
+ITEM;2441;5;0.81;625.18
+ITEM;1450;8;0.86;4767.19
+ITEM;152;150;0.25;4.22
+ITEM;156;149;0.64;24.28
+ITEM;2432;3;0.66;299.11
+ITEM;1059;17;1.09;6035.53
+ITEM;640;3;0.73;4117.19
+ITEM;162;186;1.05;29.62
+ITEM;2438;5;1.15;386.71
+ITEM;744;37;0.91;250859.40
+ITEM;749;18;0.58;168359.40
+ITEM;734;34;0.86;238359.40
+ITEM;754;34;0.58;168359.40
+ITEM;5;0;1.60;323.15
+ITEM;76;10;0.55;112.60
+ITEM;2417;16;1.18;2674.22
+ITEM;2121;88;0.72;431.85
+ITEM;2127;19;0.65;61.85
+ITEM;1300;2;0.81;12648.13
+ITEM;2113;47;0.54;38.20
+ITEM;2116;68;0.55;64.73
+ITEM;100;424;0.64;0.37
+ITEM;408;7;0.59;3575.06
+ITEM;9;0;1.74;2126.99
+ITEM;10;0;1.75;3426.39
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;75;1.95
+SKILL;36;0.95
+SKILL;16;0.71
+SKILL;63;1.51
+SKILL;74;1.49
+SKILL;228;0.89
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;110;600;870418;KILL_RAIDERS#sector_0_station_5.txt#sector_1.txt#1#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Hunt <color='yellow'>1 Raider</color> level 10 in <color='cyan'>Dellis Primeria</color> and return to Proctors Center in <color='cyan'>Void Starcross</color>;10;There has been a small Raider gang hanging around the warp gates in <color='cyan'>Dellis Primeria</color>. The Missionary faction has requested a sector clearance contract. Head on over to the <color='cyan'>Dellis Primeria</color> and clear out the <color='yellow'>1 Raider</color>, level 10 that have set up camp there. Dock at the Proctors Center station in <color='cyan'>Void Starcross</color> when complete.;33672;12000
+MISSION;130;140;980976;SALVAGE#3#20#sector_14.txt#sector_3_station_0.txt#null#null#null#null;Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Gate of Alpharis</color> and return with <color='yellow'>3</color> to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;11;A local prospector, <i>Qetaj Oulowlow</i> of the Orthodox faction has located a light quantity of special <color='yellow'>Special Junk Part</color> in the <color='cyan'>Gate of Alpharis</color> sector. Head over there and salvage all of the special <color='yellow'>Special Junk Part</color>, and meet <i>Qetaj Oulowlow</i> back at Daemon Ammunitions station located in the <color='cyan'>Starfort Ramos</color>.;7503;2250
+MISSION;81;120;437808;RECOVER#5000#100#sector_95.txt#sector_3_station_0.txt#null#null#null#null;Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Temple Gates</color> sector, recover the <color='yellow'>5000</color> <color='yellow'>Waters</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;11;<i>Lindobem Gillawit</i> has lost track of a shipment crate from his last haul. It has been reported found in <color='cyan'>Temple Gates</color>. In an effort to save time, <i>Lindobem Gillawit</i> has sub-contracted the task of returning the light shipment to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>. The Orthodox faction is aware of the situation and has sent a representative to Daemon Ammunitions.;7091;938
+MISSION;61;140;629643;HARVEST#123#1#sector_14.txt#sector_14_station_1.txt#null#null#null#null;Mine <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Gate of Alpharis</color> and return with <color='yellow'>123</color> to Horizons in <color='cyan'>Gate of Alpharis</color>;9;While collecting some junk in the <color='cyan'>Gate of Alpharis</color> system, <i>Tiao Nostrabecklei</i> discovered a light haul of <color='yellow'>123</color> <color='yellow'>Special Adamyte Ore</color>. Unable to collect the material alone, <i>Tiao Nostrabecklei</i> has requested that a capable pilot harvest the <color='yellow'>Special Adamyte Ore</color> and drop it off at the Horizons station located in the <color='cyan'>Gate of Alpharis</color>.;8503;2550
+MISSION;30;240;590941;TRANSPORT#51#168#sector_0_station_5.txt#sector_97_station_0.txt#null#null#null#null;Transport a light shipment of <color='yellow'>51</color> <color='yellow'>Carbon Fibers</color> from Proctors Center in <color='cyan'>Void Starcross</color> to Temple of the Void in <color='cyan'>Valley of Truths</color>;9;Transport manager <i>Vozeno Welipi</i> has requested a transport of a light shipment of <color='yellow'>51</color> <color='yellow'>Carbon Fibers</color>. They need to be picked up at the storage facility at Proctors Center in <color='cyan'>Void Starcross</color>, and transported to Temple of the Void in <color='cyan'>Valley of Truths</color>. <i>Vozeno Welipi</i> will be waiting at Temple of the Void to receive the shipment. ;9504;2850
+MISSION;51;120;187352;SCAN_STRUCTURE#sector_56_station_1.txt#sector_79.txt#Labor United#structure_habitat_1.txt#1#null#null#null;Find the target <color='yellow'>Labor United</color> structure in <color='cyan'>Dragon Sea</color>, scan, and return to ValueStar in <color='cyan'>Hunu</color>;9;<i>Madsaw Coufei</i> has requested that someone verify the location of <color='yellow'>Labor United</color> in the <color='cyan'>Dragon Sea</color> sector. After a recent mix-up at the zoning office, the Temple reps are concerned that construction guidelines were not followed properly. Return to the ValueStar station located in the <color='cyan'>Hunu</color> with the scan data.;9821;3500
+MISSION;81;120;777021;RECOVER#312#160#sector_56.txt#sector_1_station_0.txt#null#null#null#null;Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Hunu</color> sector, recover the <color='yellow'>312</color> <color='yellow'>Metal Gears</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>;10;<i>Tajta Lomrest</i> has lost track of a shipment crate from his last haul. It has been reported found in <color='cyan'>Hunu</color>. In an effort to save time, <i>Tajta Lomrest</i> has sub-contracted the task of returning the light shipment to Quantex in <color='cyan'>Dellis Primeria</color>. The Missionary faction is aware of the situation and has sent a representative to Quantex.;11442;2813
+MISSION;10;120;363594;DELIVERY#2#10#sector_56_station_0.txt#sector_56_station_1.txt#null#null#null#null;Dock at Transporteers in <color='cyan'>Hunu</color> to deliver a light shipment of <color='yellow'>2</color> <color='yellow'>Zai Ores</color>;11;<i>Atepei Wheadave</i> runs a Orthodox shipping company at ValueStar. After having some issues with a transport ship, <color='yellow'>2</color> items of <color='yellow'>Zai Ores</color> were left behind. Head on over to <color='cyan'>Hunu</color> and deliver these <color='yellow'>Zai Ores</color> to Transporteers.;5890;950
+MISSION;80;120;789916;RECOVER#2#1450#sector_77.txt#sector_14_station_0.txt#null#null#null#null;Recover a light quantity of <color='yellow'>2</color> <color='yellow'>Spotlights</color> in <color='cyan'>Ballast Crow</color>, and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>;9;The Temple faction has lost track of a light crate somewhere in the <color='cyan'>Ballast Crow</color> system. Head over there and recover the crate containing <color='yellow'>2</color> units of <color='yellow'>Spotlights</color>, and dock at the Imperium Republica  in the <color='cyan'>Gate of Alpharis</color> sector. <i>Erodemi Ahtelfi</i> has been instructed to wait for the lost cargo at the Imperium Republica  station.;8754;2625
+MISSION;71;180;745197;ESCORT#sector_0_station_4.txt#sector_0_station_5.txt#Foreman Youqu Dueue#npc_ship_data_(megaship_1)#21#null#null#null;<color='yellow'><i>Foreman Youqu Dueue</i></color> requests an escort from Starbase Corporate Center in <color='cyan'>Void Starcross</color> to Proctors Center in <color='cyan'>Void Starcross</color>;9;The Astrox Security Patrol has posted a contract for the safe delivery of a <color='yellow'><i>Foreman Youqu Dueue</i></color>, wanted for questioning in a non-violent incident a few cycles ago in the <color='cyan'>Void Starcross</color> system. Escort <color='yellow'><i>Foreman Youqu Dueue</i></color> from Starbase Corporate Center to Proctors Center in the <color='cyan'>Void Starcross</color> system.;5115;825
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.92;ship_data_(battle_escort_1).txt
+SHIP;2;1.08;ship_data_(battle_escort_1).txt
+SHIP;3;1.01;ship_data_(pirate_utility_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+

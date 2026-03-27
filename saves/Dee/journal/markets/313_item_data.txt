@@ -1,0 +1,8 @@
+NPC;+STOCK;1043;953;239.7792;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+PRICE;14;0;124.2739;Keyworx;Geminey;1h 49m 22s ;6562.842
+NPC;-QTY;0;-61;147.3724;Vo Industries;Brimstone;3h 11m 6s ;11466.38
+NPC;+STOCK;851;761;240.8506;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;843;833;156.6861;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;925;881;283.3154;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;1024;944;112.9469;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-LOCAL;900;0;222.006;StarGypsy Warehouse;Void Starcross;5h 7m 25s ;18445.56

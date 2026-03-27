@@ -1,0 +1,47 @@
+//;LOG DATA FILE (Astrox Imperium)
+modules_on.png;Modules Online;All active modules have been activated and are currently online.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+law_alert.png;2 Law enforcement ships have arrived.;Law enforcement is currently viewing you as hostile. You should leave the area immediately before you are destroyed.
+//;LOG DATA FILE (Astrox Imperium)
+friendly_fire_off.png;Friendly Fire Disabled;Your modules will no longer fire upon friendly faction targets.
+//;LOG DATA FILE (Astrox Imperium)
+friendly_fire_on.png;Friendly Fire Active;You have activated Friendly Fire. Your modules will deliver damage to any target, regardless of faction.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+sp_adjusted.png;+2 Skill Points Acquired.;Your time spent undocked has helped you to improve your skills. +2 skill points have been awarded to your pilot for use at the university.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Starfort Ramos;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Starbase Corporate Center Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Starbase Corporate Center station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)

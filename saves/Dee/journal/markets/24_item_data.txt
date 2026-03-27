@@ -1,0 +1,8 @@
+NPC;+STOCK;5678;4769;2127.756;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+STOCK;5832;4923;2066.482;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4699;4441;1948.812;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4815;4283;1698.438;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4850;4383;2291.797;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;5359;4806;1950.063;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+PRICE;232;0;2182.925;Psybermind;Ion Child;7h 13m 39s ;26019.77
+NPC;-LOCAL;4820;0;1867.5;Starbase Corporate Center;Void Starcross;7h 40m 43s ;27643.31

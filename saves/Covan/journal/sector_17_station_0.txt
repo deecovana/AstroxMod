@@ -1,0 +1,145 @@
+[s:30][c:yellow]Holosynth Industries[/c][/s]
+Scientific Analysis Facility
+Enolindo Yelbo
+Alpha
+[c:lime]Dock fee 100[/c]
+Timestamp: 21029.95
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Beam Impact Mod
+Basic Beam Energy Mod
+Basic Beam Explosive Mod
+[c:orange]DEMAND[/c]
+Adamyte Ore
+Gradeon Ore
+Quazor Ore
+Lokken Ore
+Torim Ore
+Plasite Ore
+Dynex Ore
+Belasite Ore
+Xenox Ore
+Zai Ore
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Extractor (Doc)  2 - z19,505,810
+Adamyte Ore  205 - z18
+Advanced Afterburner  4 - z10,621
+Advanced Engine Core  9 - z41,290
+Advanced Explosive Armor  7 - z49,474
+Advanced Light Miner  4 - z12,770
+Advanced Shield Extender  2 - z26,367
+Advanced Single Launcher  9 - z13,456
+Basic 60mm Specs  1 - z17,236
+Basic Beam Energy Mod  12 - z3,209
+Basic Beam Explosive Mod  31 - z2,949
+Basic Beam Impact Mod  12 - z2,651
+Basic Large Laser  2 - z2,351
+Basic Laser Energy Mod (Doc)  2 - z49,205
+Basic Medium Miner  3 - z1,897
+Basic Small Miner  9 - z2,101
+Cheeseburger  9 - z221,532
+Containment Unit  3 - z7,379
+Copperi Cables  68 - z55
+Copperi Plates  78 - z50
+Explosive 60mm  1214 - z16
+Explosive Core 20mm  4747 - z4
+Explosive Core Missile  1022 - z19
+Explosive Missile Specs  3 - z40,446
+Fusion Core 60mm  2931 - z16
+Gourmet Food Rations  7578 - z210
+Improved Dual Launcher  4 - z9,525
+Improved Energy Armor  2 - z15,592
+Improved Energy Capacitor  6 - z6,554
+Improved Energy Generator  2 - z11,274
+Improved Energy Generator (Doc)  1 - z155,508
+Improved Filter  8 - z4,155
+Improved Light Laser  9 - z4,603
+Improved Light Miner  9 - z4,177
+Improved Scan Booster  4 - z5,658
+Improved Thruster  5 - z2,826
+Improved Turn Thrust  3 - z3,856
+Kinetic 20mm  2172 - z3
+Kinetic 60mm Specs  2 - z57,122
+Kinetic Missile Specs  2 - z41,498
+LED Lights  98 - z11
+Oil  144 - z4
+Ore Harvester 10 (Doc)  1 - z27,743,070
+Ore Harvester 6 (Doc)  1 - z1,866,056
+Plasma Beam Class 7 (Doc)  3 - z2,275,678
+Premium 20mm Gun  7 - z50,843
+Premium Energy Capacitor (Doc)  1 - z993,556
+Premium Explosive Armor  4 - z219,362
+Premium Shield Extender  5 - z105,248
+Premium Thruster  9 - z44,594
+Prototype Afterburner (Doc)  1 - z2,623,357
+Pulse x2 Laser (Doc)  1 - z12,567
+Quazor Ore  2687 - z34
+Radiated 20mm Specs  2 - z35,187
+Radiated 60mm  4073 - z18
+Radiated 60mm Specs  2 - z60,172
+Scrap Power Module  3465 - z989
+Scrap Shield Module  1286 - z771
+Small Motor  90 - z267
+Torim Ore  4207 - z57
+Wine  1111 - z66
+
+
+<Station University Skills>
+Merc Prospector
+Module Mechanic
+Launcher Advanced Systems
+Miner Focal Range
+
+
+<Station Missions>
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Derelict</color> in <color='cyan'>Ambervellis Drea</color> and return with <color='yellow'>17</color> to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk</color> in <color='cyan'>Felishar</color> and return with <color='yellow'>8</color> to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
+
+[c:lime]SCAN[/c]
+Locate and scan the <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Dogstar Prime</color> and return to Tella's in <color='cyan'>Bitcola</color>
+
+[c:lime]RECOVER[/c]
+Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Rats Of Mortalis</color> sector, recover the <color='yellow'>4</color> <color='yellow'>Electrical and Optical Harness</color> and return to Star Shepards Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]FABRICATE[/c]
+Produce a light container of <color='yellow'>9</color> <color='yellow'>LED Lights</color> at the StarShepards Headquarters fabricator in <color='cyan'>Void Starcross</color>
+
+[c:lime]KILL RAIDERS[/c]
+Destroy <color='yellow'>3 Raiders</color> in <color='cyan'>Hunu</color> and return to Star Shepards Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]HARVEST[/c]
+Mine <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Lins</color> and return with <color='yellow'>90</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]SCAN[/c]
+Scan the <color='yellow'>Shlick Diamond's</color> structure in <color='cyan'>Lins</color> and return to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
+
+
+
+<Station Ships>
+PCA-1 Pirate Carrier / Carrier    (Assault)
+SE-1 Prophet / Escort    (Support)
+LAC-1 Alpharis Predator / Cruiser    (Battle)
+RE-1 Integrator / Escort    (Recon)
+TF-2 Hexalon / Freighter    (Transport)
+PS-1 Shuttle / Shuttle    (Assault)
+SU-3 Archanis / Utility    (Support)

@@ -1,0 +1,8 @@
+NPC;+STOCK;11;9;2790.054;Lammassu Financial;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;14;10;5843.585;StarGypsy Warehouse;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;13;9;6706.482;Starbase Corporate Center;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;20;11;4743.681;Starbase Corporate Center;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;16;9;3892.289;Biomate University;Void Starcross;3h 44m 49s ;13489.92
+NPC;-PRICE;5;0;4906.8;Lacuna Bandits;Ballast Crow;3h 52m 19s ;13939.56
+NPC;+PRICE;3;0;4549.157;Transporteers Hub;Ambervellis Drea;4h 8m 39s ;14919.65
+PLAYER;+QTY;8;1;3980.733;Biomate University;Void Starcross;4h 29m 2s ;16142.09

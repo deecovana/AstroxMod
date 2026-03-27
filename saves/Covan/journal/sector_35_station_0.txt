@@ -1,0 +1,165 @@
+[s:30][c:yellow]Astrox Security Patrol[/c][/s]
+Headquarters
+Akweliile Kinastop
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 22192.57
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Cargo Expansion
+Improved Cargo Expansion
+Advanced Cargo Expansion
+Premium Cargo Expansion
+Prototype Cargo Expansion
+Basic Mass Reduction
+Improved Mass Reduction
+Advanced Mass Reduction
+Premium Mass Reduction
+Prototype Mass Reduction
+[c:orange]DEMAND[/c]
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Advanced 60mm (Doc)  2 - z677
+Advanced Cargo Expansion  12 - z14,318
+Advanced Energy Capacitor (Doc)  2 - z289,206
+Advanced Mass Reduction  46 - z8,830
+Aluminium Rivets  67 - z8
+Assorted Gaskets  84 - z17
+Basic 20mm x2 Gun  3 - z1,601
+Basic 60mm x2 Cannon  6 - z2,055
+Basic Afterburner (Doc)  1 - z17,793
+Basic Cargo Expansion  12 - z1,592
+Basic Dual Launcher  4 - z4,630
+Basic ECM Energy Coil (Doc)  3 - z141,740
+Basic Energy Armor  9 - z7,358
+Basic Filter  17 - z1,652
+Basic Impact Armor  7 - z6,848
+Basic Light Beam  9 - z632
+Basic Mass Reduction  42 - z1,027
+Basic Projectile Explosive Mod (Doc)  1 - z38,685
+Basic Projectile Impact Mod (Doc)  1 - z107,055
+Basic Salvager  13 - z1,965
+Basic Scan Emitter  13 - z1,283
+Basic Sensor  66 - z77
+Basic Shield Generator  5 - z1,393
+Basic Small Laser  2 - z2,085
+Basic Small Miner  14 - z1,942
+Basic Thruster  14 - z1,349
+Battery Core  65 - z105
+Belasite Extractor (Doc)  1 - z57,300,000
+Blaster x6 Laser (Doc)  4 - z339,008
+Carbon  113 - z1
+Carbon Fiber  95 - z25
+Cat Food  5 - z18,295
+Containment Unit  5 - z7,314
+Disposables  5 - z1,838
+Emergency LS Kit  6 - z6,450
+Energy Charge  4 - z6,125
+Fiber Optic Cables  58 - z32
+Gradeon Extractor (Doc)  1 - z24,438,750
+Hydrogen  172 - z2
+Improved 20mm Gun  2 - z3,692
+Improved Cargo Expansion  41 - z3,796
+Improved Energy Capacitor (Doc)  2 - z84,201
+Improved Energy Generator  5 - z13,297
+Improved Explosive Armor  3 - z14,647
+Improved Light Beam  2 - z1,654
+Improved Light Laser  9 - z4,687
+Improved Mass Reduction  50 - z2,280
+Improved Scan Booster  2 - z6,886
+Improved Shield Extender  3 - z8,987
+Improved Thruster  3 - z3,001
+Ion Beam Class 1 (Doc)  2 - z37,019
+Junk  5088 - z15
+Junk Flight Module  1651 - z230
+Junk Support Module  994 - z409
+Junk Thermal Module  1697 - z364
+Liquid Coolant  80 - z23
+Lokken Ore  7468 - z47
+Mechanical Belts  59 - z12
+Metal Brackets  79 - z41
+Optical Interface  58 - z95
+Ore Harvester 1 (Doc)  2 - z63,383
+Ore Harvester 10 (Doc)  1 - z31,891,960
+Ore Harvester 6 (Doc)  1 - z2,124,518
+Plasite Extractor (Doc)  2 - z38,655,000
+Plasma Beam Class 1 (Doc)  2 - z37,744
+Polymere  110 - z55
+Premium Active Scanner  6 - z52,143
+Premium Cargo Expansion  12 - z51,492
+Premium Mass Reduction  38 - z38,077
+Prototype Cargo Expansion  12 - z299,478
+Prototype Mass Reduction  53 - z197,263
+Prototype Shield Generator (Doc)  3 - z3,636,318
+Pulse Beam Class 1 (Doc)  1 - z33,713
+Pulse x6 Laser (Doc)  1 - z187,889
+Rubber Tubing  98 - z13
+Salvage Collector 3 (Doc)  1 - z256,215
+Salvage Collector 7 (Doc)  1 - z4,180,350
+Salvage Collector 8 (Doc)  1 - z8,739,000
+Small Combat Drone  9 - z4,076
+Small Salvage Drone  5 - z5,001
+Small Shield Bomb  8 - z5,899
+Small Web Field  7 - z4,946
+Steelium Pipes  82 - z65
+Uranium Core 20mm (Doc)  1 - z900
+
+
+<Station University Skills>
+Miner Cycle Mechanics
+Ship Gyroscopic Control
+Ship Afterburner Systems
+Ship Shield Regeneration
+Refinery Mechanic
+
+
+<Station Missions>
+[c:lime]KILL RAIDERS[/c]
+Kill <color='yellow'>1 Raider</color> level 10 in <color='cyan'>Dragon Sea</color>. Return to Biomate University in <color='cyan'>Void Starcross</color>
+
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Junk</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>14</color> to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]FABRICATE[/c]
+Dock at the Proctors Center station fabricator in <color='cyan'>Void Starcross</color> and manufacture a light shipment of <color='yellow'>4</color> <color='yellow'>Disposables</color>
+
+[c:lime]ESCORT[/c]
+Escort <color='yellow'><i>General Beyel Qeoa</i></color> from Dreamstar in <color='cyan'>Gendaria</color> to Proctors Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]HARVEST[/c]
+Extract <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Temple Gates</color> and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color> with minimum of <color='yellow'>220</color>
+
+[c:lime]ESCORT[/c]
+<color='yellow'><i>Govenor Molevo Gopastjoh</i></color> requests an escort from Lammassu Financial in <color='cyan'>Void Starcross</color> to OmniTrust in <color='cyan'>Ponze</color>
+
+[c:lime]KILL RAIDERS[/c]
+Exterminate <color='yellow'>2 Raiders</color> in <color='cyan'>Starfort Ramos</color> and dock at StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]REFINE[/c]
+Refine medium shipment of <color='yellow'>69</color> <color='yellow'>Scraps</color> in <color='cyan'>Starfort Ramos</color> at the Daemon Ammunitions station refinery
+
+
+
+<Station Ships>
+EE-1 Mining Escort / Escort    (Excavation)
+SCA-1 Demi / Carrier    (Support)
+SE-1 Prophet / Escort    (Support)

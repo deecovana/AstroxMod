@@ -1,0 +1,169 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Oro Omniplex Center
+STATION;type;Recon Sentry
+STATION;owner;Hasrastast Belbar
+STATION;faction;Labor
+STATION;material;station_material_Labor.png
+STATION;color;1 , .80 , .7 , 1
+STATION;level;3
+STATION;icon;oro_omniplex.png
+STATION;filename;sector_2_station_0.txt
+STATION;max_hp;25000
+STATION;hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-9-0-2-7-2-7-1-5-0-2-7-0-4-8-1-0-0-3-4-1-0-0
+STATION;interior_seed;3-9-15-1
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;1;1.07;npc_ship_data_(battle_escort_1).txt
+MERC;1;1.05;npc_ship_data_(excavation_escort_1).txt
+MERC;1;1.05;npc_ship_data_(excavation_escort_2).txt
+MERC;1;1.05;npc_ship_data_(excavation_escort_3).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;1017;3;1.00
+ITEM;2013;73;1.09
+ITEM;711;9;1.08
+ITEM;2277;2;1.12
+ITEM;21;2445;1.09
+ITEM;2114;2395;0.95
+ITEM;214;58;0.97
+ITEM;1065;2;1.10
+ITEM;205;56;0.98
+ITEM;2328;2;1.10
+ITEM;1007;6;0.98
+ITEM;621;7;1.09
+ITEM;1611;7;1.07
+ITEM;1052;2;1.11
+ITEM;170;74;1.03
+ITEM;310;4743;1.08
+ITEM;2228;2;1.04
+ITEM;1542;3;0.98
+ITEM;2186;2;0.99
+ITEM;63;1502;1.12
+ITEM;1152;8;1.15
+ITEM;1052;4;1.06
+ITEM;1571;6;1.06
+ITEM;1573;9;0.97
+ITEM;1065;8;0.98
+ITEM;1202;9;1.08
+ITEM;503;2;0.99
+ITEM;2119;2644;1.11
+ITEM;2303;2;0.97
+ITEM;2089;4670;1.00
+ITEM;1153;8;1.08
+ITEM;2281;2;1.07
+ITEM;2093;2769;0.97
+ITEM;2354;2;1.13
+ITEM;2116;3956;1.03
+ITEM;310;3143;1.01
+ITEM;2166;1;1.10
+ITEM;2002;83;1.04
+ITEM;1603;2;1.05
+ITEM;1501;9;1.10
+ITEM;209;69;0.97
+ITEM;3;2864;1.07
+ITEM;1115;5;1.05
+ITEM;1012;7;1.14
+ITEM;1511;7;0.98
+ITEM;1532;3;1.04
+ITEM;643;4;0.99
+ITEM;2176;2;1.10
+ITEM;1513;3;1.06
+ITEM;2141;2;1.13
+ITEM;311;2858;1.07
+ITEM;213;54;1.06
+ITEM;1013;2;1.12
+ITEM;1503;5;1.05
+ITEM;1203;5;0.96
+ITEM;720;2;1.07
+ITEM;1618;6;1.07
+ITEM;2015;64;1.03
+ITEM;303;3546;1.05
+ITEM;1553;8;1.01
+ITEM;2171;2;1.04
+ITEM;311;2848;1.02
+ITEM;2002;72;1.05
+ITEM;104;191;1.14
+ITEM;1018;5;1.14
+ITEM;321;1380;1.06
+ITEM;2236;1;1.06
+ITEM;1522;3;0.96
+ITEM;1056;5;1.12
+ITEM;1622;9;1.12
+ITEM;1306;9;0.99
+ITEM;603;3;1.02
+ITEM;2303;1;1.15
+ITEM;2094;4447;1.09
+ITEM;200;58;0.96
+ITEM;2089;4864;1.06
+ITEM;2236;1;1.01
+ITEM;1007;9;0.99
+ITEM;1101;9;0.97
+ITEM;2016;79;1.00
+ITEM;313;4387;1.01
+ITEM;43;299;0.97
+ITEM;1115;2;1.12
+ITEM;1153;6;1.05
+ITEM;204;59;1.01
+ITEM;1202;6;1.04
+ITEM;21;2248;1.03
+ITEM;2118;1266;1.07
+ITEM;621;8;1.06
+ITEM;313;1843;1.04
+ITEM;1633;9;1.04
+ITEM;1541;9;1.13
+ITEM;521;1;0.96
+ITEM;219;50;1.03
+ITEM;720;3;1.01
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;1;0.76
+SKILL;11;1.08
+SKILL;21;1.88
+SKILL;31;1.50
+SKILL;41;0.78
+SKILL;58;1.57
+SKILL;71;1.21
+SKILL;100;1.11
+SKILL;210;1.13
+SKILL;233;1.31
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1;ship_data_(super_dreadnought_2).txt
+SHIP;1;1;ship_data_(missile_escort_1).txt
+SHIP;1;1.04;ship_data_(support_escort_1).txt
+SHIP;2;0.93;ship_data_(transport_escort_1).txt
+SHIP;3;0.93;ship_data_(excavation_escort_1).txt
+SHIP;4;0.93;ship_data_(excavation_escort_2).txt
+SHIP;5;0.93;ship_data_(excavation_escort_3).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

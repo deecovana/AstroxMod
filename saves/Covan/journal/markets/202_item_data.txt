@@ -1,0 +1,9 @@
+NPC;+QTY;203;115;79.48413;Gemini Mining;Jala;2h 9m 20s ;7760.491
+NPC;+STOCK;214;134;106.347;Biomate University;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;233;144;69.55306;StarGypsy Warehouse;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;175;116;114.6004;StarGypsy Warehouse;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;191;131;99.58665;StarShepards Headquarters;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;182;109;61.7521;Proctors Center;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;210;130;104.542;Biomate University;Void Starcross;3h 44m 49s ;13489.92
+NPC;-PRICE;68;0;80.10835;Mazu Starship;Enoch Estates;3h 52m 19s ;13939.56
+NPC;+PRICE;67;0;86.31406;Desban;Ellisar;4h 33m 9s ;16389.6

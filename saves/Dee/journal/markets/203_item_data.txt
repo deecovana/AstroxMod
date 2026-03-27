@@ -1,0 +1,7 @@
+NPC;+PRICE;30;0;72.6955;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
+NPC;+PRICE;356;0;87.90264;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
+NPC;-QTY;42;-108;94.7166;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
+NPC;-QTY;154;-126;81.55402;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;+STOCK;608;129;62.59717;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+LOCAL;64;34;65.78423;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
+NPC;+LOCAL;78;14;62.25555;Horizons;Gate of Alpharis;6h 42m 43s ;24163.49

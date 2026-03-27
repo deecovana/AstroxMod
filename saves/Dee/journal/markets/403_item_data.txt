@@ -1,0 +1,13 @@
+NPC;+STOCK;804;799;23.92162;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+PRICE;28;0;23.86582;Keyworx;Geminey;1h 49m 22s ;6562.842
+NPC;+STOCK;779;774;23.90424;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;807;757;18.27188;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;976;894;24.78331;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;809;805;13.67764;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;731;691;22.10806;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-LOCAL;783;0;25.875;StarGypsy Warehouse;Void Starcross;5h 7m 25s ;18445.56
+NPC;-QTY;0;-9;14.09397;Void Raiders;Corbis Almuni;6h 0m 59s ;21659.03
+NPC;+PRICE;37;0;19.47699;Psybermind;Ion Child;7h 13m 39s ;26019.77
+NPC;+PRICE;12;0;23.24392;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
+NPC;+PRICE;9;0;26.91855;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77
+NPC;+STOCK;1013;996;15.22143;Tella's;Bitcola;7h 27m 33s ;26853.91

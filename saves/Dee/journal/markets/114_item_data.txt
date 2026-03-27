@@ -1,0 +1,18 @@
+NPC;+STOCK;268;217;1.306888;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+PLAYER;+QTY;258;70;2.443875;Acrondia Hub;Temple Gates;1h 2m 50s ;3770.765
+NPC;+LOCAL;250;2;1.372068;Lacuna Bandits;Ballast Crow;1h 13m 21s ;4401.266
+NPC;-QTY;132;-211;1.247334;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;+STOCK;224;173;1.283858;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;361;229;1.86361;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;282;185;1.237802;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;1239;179;2.309786;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;554;214;1.887605;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;858;175;2.192156;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+PLAYER;+QTY;344;120;1.285922;Biomate University;Void Starcross;3h 41m 7s ;13267.73
+PLAYER;+QTY;451;107;1.264922;Biomate University;Void Starcross;3h 46m 7s ;13567.14
+PLAYER;+QTY;561;110;1.243266;Biomate University;Void Starcross;4h 49m 9s ;17349.04
+PLAYER;+QTY;360;78;1.244841;StarGypsy Warehouse;Void Starcross;5h 7m 45s ;18465.46
+NPC;-QTY;0;-69;1.745231;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+PLAYER;+QTY;640;79;1.220231;Biomate University;Void Starcross;6h 6m 59s ;22020
+NPC;+PRICE;129;0;2.128148;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77
+NPC;+STOCK;505;230;1.975041;Tella's;Bitcola;7h 27m 33s ;26853.91

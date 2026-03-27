@@ -1,0 +1,8 @@
+NPC;+STOCK;741;674;28.78351;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;1000;938;31.22374;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;779;736;36.1824;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;754;708;23.67622;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;919;849;19.9727;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-LOCAL;743;0;28.375;StarGypsy Warehouse;Void Starcross;5h 7m 25s ;18445.56
+NPC;-QTY;0;-12;16.02656;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+PRICE;11;0;19.5537;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77

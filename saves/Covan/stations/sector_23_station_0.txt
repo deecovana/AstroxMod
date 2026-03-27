@@ -1,0 +1,135 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;PharmaLife
+STATION;type;Distribution Warehouse
+STATION;owner;Fura Geegacie
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .46, .19, 1
+STATION;level;3
+STATION;icon;ad_image_10.png
+STATION;filename;sector_23_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-3-0-6-4-0-9-1-4-1-3-1-1-5-4-1-1-1-2-7-3-9-90
+STATION;interior_seed;5-0-45-2
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;7;1.97;npc_ship_data_(battle_carrier_1).txt
+MERC;8;1.89;npc_ship_data_(pirate_utility_1).txt
+MERC;4;1.77;npc_ship_data_(transport_utility_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;511;1;1.04
+ITEM;2023;93;0.96
+ITEM;2019;94;1.06
+ITEM;2255;1;1.07
+ITEM;1106;5;0.99
+ITEM;2171;2;1.14
+ITEM;1067;5;1.06
+ITEM;1514;6;1.13
+ITEM;1203;3;1.07
+ITEM;1159;7;0.98
+ITEM;1070;4;1.01
+ITEM;1014;2;1.01
+ITEM;2012;65;1.07
+ITEM;1110;2;1.15
+ITEM;1583;7;1.05
+ITEM;2380;2;1.05
+ITEM;2222;2;1.11
+ITEM;1221;5;1.12
+ITEM;2352;2;1.02
+ITEM;1217;7;1.09
+ITEM;1053;5;0.96
+ITEM;2093;2789;1.13
+ITEM;2092;3857;0.96
+ITEM;2024;62;1.04
+ITEM;2186;1;1.10
+ITEM;2177;2;1.13
+ITEM;1211;3;1.13
+ITEM;2023;60;1.03
+ITEM;22;1486;1.12
+ITEM;2015;90;1.04
+ITEM;2311;2;1.00
+ITEM;2177;1;0.97
+ITEM;604;6;0.96
+ITEM;213;56;1.04
+ITEM;1206;2;1.10
+ITEM;1206;6;1.02
+ITEM;1524;8;1.08
+ITEM;663;7;0.96
+ITEM;1543;9;1.09
+ITEM;1013;2;1.11
+ITEM;2091;1304;1.07
+ITEM;1612;8;1.11
+ITEM;2216;1;1.00
+ITEM;218;59;0.96
+ITEM;2035;67;0.96
+ITEM;2216;2;1.03
+ITEM;1053;4;1.12
+ITEM;22;1850;1.07
+ITEM;642;7;1.07
+ITEM;1014;6;1.15
+ITEM;1013;8;1.06
+ITEM;1116;7;1.02
+ITEM;216;87;1.04
+ITEM;330;3683;1.01
+ITEM;2115;1106;1.13
+ITEM;1532;4;0.99
+ITEM;311;2610;1.02
+ITEM;1612;6;0.97
+ITEM;1701;5;1.02
+ITEM;624;7;0.98
+ITEM;2305;1;0.96
+ITEM;1022;2;1.13
+ITEM;1722;3;1.10
+ITEM;2328;1;0.99
+ITEM;1503;8;1.13
+ITEM;2123;2;1.15
+ITEM;2017;63;1.11
+ITEM;2357;1;1.07
+ITEM;219;67;1.03
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;76;1.68
+SKILL;210;1.33
+SKILL;223;1.94
+SKILL;24;0.64
+SKILL;54;1.51
+SKILL;31;1.41
+SKILL;60;0.52
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.98;ship_data_(support_carrier_1).txt
+SHIP;2;0.97;ship_data_(battle_cruiser_1).txt
+SHIP;3;1.08;ship_data_(transport_escort_1).txt
+SHIP;4;1.01;ship_data_(excavation_escort_1).txt
+SHIP;5;0.98;ship_data_(transport_shuttle_1).txt
+SHIP;6;0.94;ship_data_(transport_utility_1).txt
+SHIP;7;1.07;ship_data_(excavation_cruiser_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

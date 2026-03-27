@@ -1,0 +1,134 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;OmniTrust
+STATION;type;Banking Facility
+STATION;owner;Qevedles Zanlocki
+STATION;faction;Trade
+STATION;material;station_material_Trade.png
+STATION;color;.70 , 1, .23 , 1
+STATION;level;2
+STATION;icon;omnitrust.png
+STATION;filename;sector_57_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-6-1-7-0-2-8-1-5-2-3-6-1-6-3-1-5-0-2-6-2-4-90
+STATION;interior_seed;3-0-30-9
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;False
+SERVICES;garage;False
+SERVICES;university;False
+SERVICES;hangar;False
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Karaoke Night;0.15,0.05;15000;Musical Entertainment;entertain_show.png;Your fleet is treated to a night of karaoke at the local music tavern. 15% Morale , 5% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;2;1.59;npc_ship_data_(pirate_utility_1).txt
+MERC;2;1.34;npc_ship_data_(pirate_cruiser_1).txt
+MERC;5;1.66;npc_ship_data_(battle_shuttle_1).txt
+MERC;7;1.05;npc_ship_data_(support_utility_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;3023;2;1.00;0
+ITEM;3033;2;1.00;0
+ITEM;1581;4;1.14;0
+ITEM;1580;3;1.05;0
+ITEM;2225;1;1.13;0
+ITEM;2276;1;0.97;0
+ITEM;1202;2;1.03;0
+ITEM;2349;1;1.02;0
+ITEM;2216;2;1.08;0
+ITEM;78;1768;0.99;0
+ITEM;722;9;1.10;0
+ITEM;2085;1973;1.05;0
+ITEM;168;51;1.01;0
+ITEM;207;0;1.04;6.349
+ITEM;1013;6;0.97;6.349
+ITEM;1055;0;1.09;4467.591
+ITEM;153;0;1.00;15.85938
+ITEM;2303;2;1.14;15.85938
+ITEM;201;0;0.97;72.65413
+ITEM;213;66;1.15;72.65413
+ITEM;313;420;1.04;72.65413
+ITEM;2140;2;1.10;72.65413
+ITEM;606;2;1.07;72.65413
+ITEM;2090;3033;1.10;72.65413
+ITEM;2330;1;1.13;72.65413
+ITEM;1110;6;1.03;72.65413
+ITEM;302;3395;1.12;72.65413
+ITEM;200;53;0.96;72.65413
+ITEM;20;1389;1.08;72.65413
+ITEM;2394;1;1.07;72.65413
+ITEM;2331;2;1.05;72.65413
+ITEM;2398;2;1.07;72.65413
+ITEM;2166;2;1.14;72.65413
+ITEM;2155;2;1.03;72.65413
+ITEM;701;7;1.10;72.65413
+ITEM;1201;4;1.05;72.65413
+ITEM;1615;3;1.05;72.65413
+ITEM;2394;0;1.12;1211.323
+ITEM;2233;2;1.00;1211.323
+ITEM;2088;768;0.96;311.1724
+ITEM;2226;0;1.02;3842438
+ITEM;725;5;1.03;3842438
+ITEM;2216;1;1.03;3842438
+ITEM;157;73;1.02;3842438
+ITEM;1014;9;0.99;3842438
+ITEM;1571;0;1.06;6669.944
+ITEM;2398;1;1.11;6669.944
+ITEM;303;2482;1.11;6669.944
+ITEM;1454;7;1.14;6669.944
+ITEM;2235;0;1.02;4.0095E+07
+ITEM;500;1;0.98;4.0095E+07
+ITEM;2348;1;0.97;4.0095E+07
+ITEM;2387;2;1.07;4.0095E+07
+ITEM;1532;2;1.10;4.0095E+07
+ITEM;1752;2;1.03;4.0095E+07
+ITEM;1630;4;1.08;4.0095E+07
+ITEM;209;52;1.13;4.0095E+07
+ITEM;1611;6;1.08;4.0095E+07
+ITEM;1512;0;1.05;44398.77
+ITEM;2348;2;1.13;44398.77
+ITEM;300;928;0.96;44398.77
+ITEM;2155;1;1.08;44398.77
+ITEM;76;0;1.05;35.45625
+ITEM;1500;9;1.04;35.45625
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;2;0.76
+SKILL;27;0.77
+SKILL;47;1.41
+SKILL;7;1.76
+SKILL;60;1.84
+SKILL;42;0.65
+SKILL;41;0.66
+SKILL;13;1.89
+SKILL;226;1.22
+SKILL;25;0.71
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.93;ship_data_(excavation_carrier_1).txt
+SHIP;2;1.09;ship_data_(transport_utility_1).txt
+SHIP;3;1.01;ship_data_(pirate_escort_1).txt
+SHIP;4;0.93;ship_data_(recon_escort_1).txt
+SHIP;5;0.96;ship_data_(transport_utility_1).txt
+SHIP;6;0.90;ship_data_(excavation_carrier_1).txt
+SHIP;7;0.99;ship_data_(pirate_shuttle_1).txt
+SHIP;8;1.09;ship_data_(recon_shuttle_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

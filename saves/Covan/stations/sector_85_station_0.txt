@@ -1,0 +1,154 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Scrapdogs
+STATION;type;Civil League
+STATION;owner;Timwhilei Jaliszaesiv
+STATION;faction;Pirate
+STATION;material;station_material_Pirate.png
+STATION;color;1 , .1 , .1 , 1
+STATION;level;2
+STATION;icon;scrapdogs.png
+STATION;filename;sector_85_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-4-1-3-4-2-1-0-1-7-3-2-1-6-7-2-7-90
+STATION;interior_seed;5-1-0-9
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;False
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;3;1.09;npc_ship_data_(transport_carrier_1).txt
+MERC;3;0.63;npc_ship_data_(excavation_escort_1).txt
+MERC;6;1.35;npc_ship_data_(recon_shuttle_1).txt
+MERC;5;1.97;npc_ship_data_(excavation_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;1103;4;1.01
+ITEM;2183;1;1.02
+ITEM;63;1904;0.99
+ITEM;10;4198;1.06
+ITEM;2315;2;0.98
+ITEM;2119;4295;0.98
+ITEM;1614;5;0.97
+ITEM;1554;8;1.01
+ITEM;1624;7;1.05
+ITEM;2197;1;1.13
+ITEM;1754;2;1.03
+ITEM;2265;1;1.11
+ITEM;2039;80;1.14
+ITEM;2283;2;0.96
+ITEM;2168;1;1.09
+ITEM;2029;70;1.11
+ITEM;1307;7;1.14
+ITEM;1209;6;1.03
+ITEM;1071;7;1.11
+ITEM;1107;5;1.05
+ITEM;1069;9;1.11
+ITEM;2135;2;1.07
+ITEM;2379;1;0.95
+ITEM;1304;2;1.07
+ITEM;1062;7;1.10
+ITEM;1711;2;1.04
+ITEM;2113;3755;1.05
+ITEM;1120;2;1.11
+ITEM;1302;2;1.10
+ITEM;2069;86;1.09
+ITEM;1204;7;0.96
+ITEM;2064;52;1.08
+ITEM;2261;1;1.08
+ITEM;1301;6;1.03
+ITEM;109;141;1.13
+ITEM;730;7;1.09
+ITEM;106;158;1.05
+ITEM;1730;3;1.03
+ITEM;2018;89;0.97
+ITEM;1624;4;1.04
+ITEM;2135;1;1.04
+ITEM;2045;94;1.07
+ITEM;1523;4;1.12
+ITEM;2046;57;1.03
+ITEM;2192;2;1.05
+ITEM;2152;1;0.98
+ITEM;2148;2;0.96
+ITEM;1644;4;0.99
+ITEM;728;5;1.00
+ITEM;1161;3;1.02
+ITEM;1302;4;1.00
+ITEM;2050;53;1.02
+ITEM;23;1304;1.11
+ITEM;1028;5;0.96
+ITEM;2134;1;1.02
+ITEM;1309;9;1.09
+ITEM;1168;5;0.99
+ITEM;2136;2;1.13
+ITEM;1732;8;0.97
+ITEM;2048;78;1.05
+ITEM;330;4592;1.10
+ITEM;2142;2;1.00
+ITEM;1712;9;0.96
+ITEM;1219;9;0.98
+ITEM;2316;2;1.12
+ITEM;1623;6;1.08
+ITEM;2314;1;0.99
+ITEM;2340;1;0.99
+ITEM;1503;8;1.08
+ITEM;1553;2;1.06
+ITEM;1222;4;1.08
+ITEM;1061;4;0.95
+ITEM;1163;5;1.05
+ITEM;1301;4;1.04
+ITEM;1120;8;1.13
+ITEM;342;1735;1.14
+ITEM;1731;3;1.08
+ITEM;1514;7;1.06
+ITEM;1573;8;1.01
+ITEM;2055;76;1.03
+ITEM;2115;774;1.10
+ITEM;1623;9;0.99
+ITEM;2102;4916;0.99
+ITEM;2337;2;0.97
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;21;1.50
+SKILL;220;1.90
+SKILL;232;1.99
+SKILL;5;0.85
+SKILL;16;1.69
+SKILL;59;1.57
+SKILL;13;0.54
+SKILL;34;0.70
+SKILL;233;1.52
+SKILL;57;0.79
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.09;ship_data_(battle_shuttle_1).txt
+SHIP;2;0.91;ship_data_(support_frigate_1).txt
+SHIP;3;0.92;ship_data_(transport_utility_1).txt
+SHIP;4;0.98;ship_data_(battle_shuttle_1).txt
+SHIP;5;0.97;ship_data_(transport_shuttle_1).txt
+SHIP;6;1.04;ship_data_(support_shuttle_1).txt
+SHIP;7;1.05;ship_data_(recon_cruiser_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

@@ -1,0 +1,13 @@
+PLAYER;+QTY;0;242;0;Biomate University;Void Starcross;0h 44m 0s ;2640.798
+PLAYER;+QTY;0;93;0;Biomate University;Void Starcross;1h 19m 57s ;4797.271
+NPC;+STOCK;9488;4764;14.76934;StarShepards Headquarters;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;6242;4484;17.37193;StarShepards Headquarters;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;7165;4218;26.80041;Proctors Center;Void Starcross;3h 44m 48s ;13488.87
+NPC;-LOCAL;7083;0;20.43618;Proctors Center;Void Starcross;4h 15m 41s ;15341.7
+PLAYER;+QTY;7398;315;25.83117;Proctors Center;Void Starcross;4h 15m 57s ;15357.6
+NPC;-LOCAL;7361;0;20.02286;Proctors Center;Void Starcross;4h 17m 37s ;15457.53
+PLAYER;+QTY;0;214;0;Crystalis Broadcasting;Jermicus;5h 5m 10s ;18310.58
+PLAYER;+QTY;36;36;20.97322;Acrondia Hub;Temple Gates;5h 18m 12s ;19092.46
+NPC;-LOCAL;0;0;15.29777;Holosynth Industries;Rats Of Mortalis;5h 42m 2s ;20522.59
+PLAYER;+QTY;216;216;18.64422;Holosynth Industries;Rats Of Mortalis;5h 42m 7s ;20527.69
+NPC;-LOCAL;205;0;14.86972;Holosynth Industries;Rats Of Mortalis;5h 44m 12s ;20652.25

@@ -1,0 +1,5 @@
+NPC;+LOCAL;12;6;748.5882;Acrondia Hub;Temple Gates;1h 46m 14s ;6374.585
+NPC;+STOCK;19;9;1151.869;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;24;11;720.2704;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;0;-2;697.275;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+PRICE;2;0;1021.623;CoraVault Hub;Pindoris;7h 13m 39s ;26019.77

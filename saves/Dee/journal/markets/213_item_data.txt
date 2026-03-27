@@ -1,0 +1,14 @@
+NPC;+STOCK;207;108;64.06731;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+LOCAL;150;53;31.6225;Biomate University;Void Starcross;0h 44m 13s ;2653.042
+NPC;+LOCAL;150;43;31.6225;Biomate University;Void Starcross;2h 50m 32s ;10232.55
+NPC;+STOCK;264;114;30.42146;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;337;121;67.46397;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;645;131;69.36697;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;565;117;72.28821;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+LOCAL;150;53;31.6225;Biomate University;Void Starcross;3h 40m 14s ;13214.13
+NPC;+LOCAL;150;78;31.6225;Biomate University;Void Starcross;4h 48m 51s ;17331.44
+NPC;+LOCAL;150;127;31.6225;Biomate University;Void Starcross;6h 6m 44s ;22004.29
+NPC;+PRICE;188;0;116.9009;SimKitten;Kolkax Prime;6h 14m 52s ;22492.41
+NPC;-LOCAL;0;0;143.1473;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
+NPC;-LOCAL;0;0;148.121;Horizons;Gate of Alpharis;6h 37m 57s ;23877.8
+NPC;-LOCAL;0;0;152.6081;Horizons;Gate of Alpharis;6h 42m 43s ;24163.49

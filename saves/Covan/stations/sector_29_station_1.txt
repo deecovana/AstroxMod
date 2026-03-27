@@ -1,0 +1,123 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;1
+STATION;name;Nova Labs
+STATION;type;Scientific Analysis Facility
+STATION;owner;Xulzacoo Aojelmast
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .46, .19, 1
+STATION;level;4
+STATION;icon;novalabs.png
+STATION;filename;sector_29_station_1.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-7-1-6-9-1-6-0-1-3-0-4-0-6-3-2-4-0
+STATION;interior_seed;5-1-15-5
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;True
+SERVICES;garage;False
+SERVICES;university;False
+SERVICES;hangar;True
+SERVICES;storage;False
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;5;1.23;npc_ship_data_(recon_escort_1).txt
+MERC;8;1.80;npc_ship_data_(support_frigate_1).txt
+MERC;4;1.96;npc_ship_data_(pirate_carrier_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;1721;5;1.08
+ITEM;2019;70;0.96
+ITEM;2332;1;1.02
+ITEM;1215;8;0.98
+ITEM;2308;1;1.01
+ITEM;2072;56;0.99
+ITEM;2153;1;0.98
+ITEM;109;178;0.96
+ITEM;2337;1;1.06
+ITEM;115;112;1.13
+ITEM;2178;1;0.96
+ITEM;2312;2;1.02
+ITEM;2069;94;1.14
+ITEM;2148;1;1.06
+ITEM;1114;4;1.00
+ITEM;1113;9;1.12
+ITEM;1308;8;1.07
+ITEM;2285;2;0.99
+ITEM;2188;1;1.00
+ITEM;2163;1;1.09
+ITEM;1067;6;1.15
+ITEM;1514;4;1.01
+ITEM;2044;61;1.13
+ITEM;10;4751;1.13
+ITEM;643;9;1.08
+ITEM;2033;90;1.13
+ITEM;2099;2690;1.00
+ITEM;1731;3;1.10
+ITEM;1169;8;1.05
+ITEM;2313;1;1.08
+ITEM;2262;2;1.13
+ITEM;2029;52;1.10
+ITEM;2363;1;0.99
+ITEM;2021;90;1.13
+ITEM;22;4593;1.07
+ITEM;320;1406;1.02
+ITEM;1120;7;1.06
+ITEM;2012;65;1.00
+ITEM;2361;2;1.03
+ITEM;2192;1;1.08
+ITEM;2030;66;0.96
+ITEM;726;2;1.07
+ITEM;2045;67;1.10
+ITEM;2050;62;1.00
+ITEM;2287;1;1.05
+ITEM;2043;93;1.10
+ITEM;2114;3869;0.95
+ITEM;2112;3842;1.04
+ITEM;2263;1;1.04
+ITEM;2283;1;0.96
+ITEM;663;8;1.03
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;37;0.52
+SKILL;14;1.81
+SKILL;60;1.26
+SKILL;17;1.77
+SKILL;230;1.15
+SKILL;227;1.61
+SKILL;73;1.02
+SKILL;43;0.56
+SKILL;21;1.04
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.2;ship_data_(heavy_drone_cruiser_1).txt
+SHIP;1;1.2;ship_data_(excavation_escort_5).txt
+SHIP;1;0.98;ship_data_(transport_utility_1).txt
+SHIP;2;0.92;ship_data_(battle_carrier_1).txt
+SHIP;3;1.00;ship_data_(transport_shuttle_1).txt
+SHIP;4;1.09;ship_data_(support_utility_1).txt
+SHIP;5;1.06;ship_data_(battle_utility_1).txt
+SHIP;6;1.02;ship_data_(excavation_shuttle_1).txt
+SHIP;7;0.93;ship_data_(recon_shuttle_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

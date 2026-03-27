@@ -1,0 +1,18 @@
+NPC;+STOCK;209;118;58.99404;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+PRICE;63;0;65.23502;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
+NPC;+PRICE;360;0;96.54618;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
+NPC;+LOCAL;150;132;23.3025;Biomate University;Void Starcross;2h 5m 25s ;7525.863
+NPC;+LOCAL;150;27;23.3025;Biomate University;Void Starcross;2h 50m 32s ;10232.55
+NPC;-QTY;323;-87;73.38046;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
+NPC;-QTY;495;-123;44.70047;Vo Industries;Brimstone;3h 11m 6s ;11466.38
+NPC;+STOCK;297;147;22.41745;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;553;115;69.07616;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;785;146;92.73693;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;397;114;51.78707;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;-LOCAL;387;0;84.9645;Astrox Security Patrol;Felishar;3h 28m 20s ;12500.18
+NPC;+LOCAL;150;78;23.3025;Biomate University;Void Starcross;3h 40m 14s ;13214.13
+NPC;+LOCAL;150;80;23.3025;Biomate University;Void Starcross;4h 48m 51s ;17331.44
+NPC;+LOCAL;150;126;23.3025;Biomate University;Void Starcross;6h 6m 44s ;22004.29
+NPC;-LOCAL;0;0;102.6167;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
+NPC;-LOCAL;0;0;106.2818;Horizons;Gate of Alpharis;6h 37m 57s ;23877.8
+NPC;-LOCAL;0;0;109.5883;Horizons;Gate of Alpharis;6h 42m 43s ;24163.49

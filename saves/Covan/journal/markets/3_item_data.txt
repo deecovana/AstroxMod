@@ -1,0 +1,10 @@
+NPC;+QTY;6502;2673;27.744;Desban;Ellisar;2h 9m 20s ;7760.491
+NPC;+STOCK;8580;4458;16.98485;Lammassu Financial;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;8033;4202;17.11679;StarShepards Headquarters;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;6959;3386;28.30129;StarShepards Headquarters;Void Starcross;3h 44m 48s ;13488.87
+NPC;-LOCAL;0;0;36.09932;Proctors Center;Void Starcross;4h 17m 37s ;15457.53
+NPC;-LOCAL;4039;0;29.056;Acrondia Hub;Temple Gates;5h 13m 6s ;18786.8
+NPC;-LOCAL;2493;0;28.8;Holosynth Industries;Rats Of Mortalis;5h 29m 22s ;19762.94
+NPC;-LOCAL;2478;0;28.8;Holosynth Industries;Rats Of Mortalis;5h 42m 2s ;20522.59
+NPC;-LOCAL;2462;0;28.8;Holosynth Industries;Rats Of Mortalis;5h 44m 12s ;20652.25
+PLAYER;+QTY;2687;225;34.997;Holosynth Industries;Rats Of Mortalis;5h 44m 28s ;20668.64

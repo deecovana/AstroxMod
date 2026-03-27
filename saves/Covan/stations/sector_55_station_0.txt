@@ -1,0 +1,119 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Foodmaid
+STATION;type;Food Production Plant
+STATION;owner;Astto Xulaoyel
+STATION;faction;Labor
+STATION;material;station_material_Labor.png
+STATION;color;1 , .80 , .7 , 1
+STATION;level;9
+STATION;icon;foodmaid.png
+STATION;filename;sector_55_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-4-1-1-4-1-4-0-2-4-1-9-0-5-6-2-7-1-6-4-3-3-90
+STATION;interior_seed;4-3-15-2
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;False
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;False
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;2;0.56;npc_ship_data_(excavation_shuttle_1).txt
+MERC;3;1.17;npc_ship_data_(transport_carrier_1).txt
+MERC;3;1.95;npc_ship_data_(battle_escort_1).txt
+MERC;3;1.98;npc_ship_data_(excavation_shuttle_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Shortage: (2) Items ;310x146,310x481;66841;39490.42
+BUYORDER;Market Shortage: (1) Items ;310x216;16764;94477.59
+BUYORDER;Market Demands: (4) Items ;310x252,313x352,312x384,311x111;142682;68159.59
+ITEM;1642;8;1.00
+ITEM;6;1170;1.00
+ITEM;642;8;1.00
+ITEM;1016;2;1.00
+ITEM;1160;8;1.00
+ITEM;1156;6;1.00
+ITEM;1612;7;1.00
+ITEM;2;3218;1.00
+ITEM;520;1;1.00
+ITEM;110;163;1.00
+ITEM;1621;7;1.00
+ITEM;1221;4;1.00
+ITEM;1065;9;1.00
+ITEM;1581;5;1.00
+ITEM;22;1532;1.00
+ITEM;1155;7;1.00
+ITEM;501;2;1.00
+ITEM;332;2174;1.00
+ITEM;604;2;1.00
+ITEM;7;778;1.00
+ITEM;70;276;1.00
+ITEM;61;3994;1.00
+ITEM;602;5;1.00
+ITEM;1309;8;1.00
+ITEM;1067;4;1.00
+ITEM;1300;7;1.00
+ITEM;1602;9;1.00
+ITEM;1108;5;1.00
+ITEM;604;5;1.00
+ITEM;1105;3;1.00
+ITEM;1731;3;1.00
+ITEM;160;78;1.00
+ITEM;1521;5;1.00
+ITEM;204;57;1.00
+ITEM;21;4293;1.00
+ITEM;101;154;1.00
+ITEM;1502;8;1.00
+ITEM;1634;4;1.00
+ITEM;1634;7;1.00
+ITEM;1217;3;1.00
+ITEM;155;80;1.00
+ITEM;1504;9;1.00
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;64;1.14
+SKILL;37;1.15
+SKILL;42;1.77
+SKILL;5;1.48
+SKILL;51;1.79
+SKILL;58;1.05
+SKILL;17;1.12
+SKILL;44;1.36
+SKILL;230;1.87
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.2;ship_data_(missile_escort_2).txt
+SHIP;1;0.96;ship_data_(excavation_escort_1).txt
+SHIP;2;1.02;ship_data_(recon_utility_1).txt
+SHIP;3;1.09;ship_data_(pirate_cruiser_1).txt
+SHIP;4;1.07;ship_data_(support_utility_1).txt
+SHIP;5;0.95;ship_data_(battle_frigate_1).txt
+SHIP;6;1.00;ship_data_(support_frigate_1).txt
+SHIP;7;0.91;ship_data_(pirate_utility_1).txt
+SHIP;8;1.06;ship_data_(excavation_carrier_1).txt
+SHIP;9;0.94;ship_data_(recon_cruiser_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

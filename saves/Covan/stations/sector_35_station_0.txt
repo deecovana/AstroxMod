@@ -1,0 +1,171 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Astrox Security Patrol
+STATION;type;Headquarters
+STATION;owner;Akweliile Kinastop
+STATION;faction;Law
+STATION;material;station_material_Law.png
+STATION;color;0 , .60 , 1 , 1
+STATION;level;4
+STATION;icon;asp.png
+STATION;filename;sector_35_station_0.txt
+STATION;max_hp;25000
+STATION;hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-6-0-3-3-3-6-1-3-9-3-4-0-6-4-2-2-0
+STATION;interior_seed;3-0-0-6
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;22191.57
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;True
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Karaoke Night;0.15,0.05;15000;Musical Entertainment;entertain_show.png;Your fleet is treated to a night of karaoke at the local music tavern. 15% Morale , 5% Loyalty bonus.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;5;1.80;npc_ship_data_(battle_escort_1).txt
+MERC;7;1.54;npc_ship_data_(transport_carrier_1).txt
+MERC;2;1.54;npc_ship_data_(recon_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;2398;2;1.11;676.51
+ITEM;1532;12;0.66;14317.74
+ITEM;2301;2;1.10;289206.30
+ITEM;1542;46;0.66;8829.65
+ITEM;163;67;1.08;7.63
+ITEM;153;84;1.10;17.31
+ITEM;1001;3;0.97;1601.05
+ITEM;1005;6;1.14;2055.06
+ITEM;2274;1;1.09;17792.95
+ITEM;1530;12;0.56;1592.03
+ITEM;1051;4;1.09;4630.48
+ITEM;2372;3;1.11;141740.40
+ITEM;2372;-99;1.11;141740.40
+ITEM;1640;9;1.06;7357.93
+ITEM;620;17;1.02;1651.58
+ITEM;620;-99;0.99;1607.09
+ITEM;1630;7;0.98;6847.73
+ITEM;1150;9;1.05;632.38
+ITEM;1540;42;0.82;1026.87
+ITEM;2351;1;0.97;38685.40
+ITEM;2349;1;0.98;107055.00
+ITEM;1400;-99;1.02;1930.69
+ITEM;1400;13;1.04;1965.36
+ITEM;1600;13;0.99;1283.27
+ITEM;1600;-99;1.00;1295.11
+ITEM;201;66;1.04;77.44
+ITEM;1560;5;1.00;1393.44
+ITEM;1101;2;0.98;2085.12
+ITEM;1201;14;1.00;1941.84
+ITEM;1201;-99;1.03;1995.11
+ITEM;1500;-99;1.05;1348.71
+ITEM;1500;14;1.05;1348.71
+ITEM;208;65;1.01;105.08
+ITEM;2237;1;1.10;57300000.00
+ITEM;2175;-99;0.99;321223.50
+ITEM;2175;4;1.05;339007.50
+ITEM;101;113;1.08;1.29
+ITEM;168;95;1.00;25.27
+ITEM;606;5;1.04;18295.32
+ITEM;661;-99;0.98;6988.61
+ITEM;661;5;1.03;7314.04
+ITEM;660;5;1.07;1837.56
+ITEM;693;6;1.15;6450.09
+ITEM;692;4;1.02;6125.07
+ITEM;204;58;1.09;31.96
+ITEM;2231;1;1.07;24438750.00
+ITEM;102;172;1.13;1.84
+ITEM;1008;2;0.98;3691.88
+ITEM;1531;41;0.66;3796.41
+ITEM;2300;2;1.12;84201.48
+ITEM;1581;5;1.09;13297.06
+ITEM;1651;3;0.99;14647.21
+ITEM;1155;2;0.97;1653.92
+ITEM;1105;9;1.03;4687.05
+ITEM;1541;50;0.78;2279.53
+ITEM;1616;2;1.14;6886.42
+ITEM;1551;3;1.14;8987.38
+ITEM;1501;3;1.11;3000.83
+ITEM;2210;2;0.97;37018.50
+ITEM;20;5088;1.08;15.49
+ITEM;20;-99;1.03;14.83
+ITEM;2084;1651;1.12;229.64
+ITEM;2083;994;1.00;408.63
+ITEM;2088;1697;1.14;364.33
+ITEM;158;80;0.99;23.08
+ITEM;4;7468;1.09;46.52
+ITEM;4;-99;1.04;44.56
+ITEM;166;59;1.04;11.56
+ITEM;157;79;1.00;41.45
+ITEM;206;58;1.12;95.16
+ITEM;2220;2;1.08;63382.50
+ITEM;2229;1;1.06;31891960.00
+ITEM;2225;1;1.14;2124518.00
+ITEM;2235;2;0.98;38655000.00
+ITEM;2200;-99;1.14;40713.75
+ITEM;2200;2;1.05;37743.75
+ITEM;170;-99;1.08;57.75
+ITEM;170;110;1.02;54.80
+ITEM;1454;6;1.11;52142.96
+ITEM;1533;12;0.53;51492.40
+ITEM;1543;38;0.66;38076.51
+ITEM;1534;12;0.63;299478.40
+ITEM;1544;53;0.68;197262.60
+ITEM;2298;3;1.06;3636318.00
+ITEM;2298;-99;1.07;3667835.00
+ITEM;2190;1;1.03;33712.50
+ITEM;2165;1;1.12;187888.50
+ITEM;154;98;0.99;12.57
+ITEM;2242;1;1.03;256215.00
+ITEM;2246;1;1.03;4180350.00
+ITEM;2247;1;1.12;8739000.00
+ITEM;721;9;1.14;4076.19
+ITEM;724;5;1.04;5001.20
+ITEM;700;8;1.02;5898.87
+ITEM;710;7;1.12;4945.55
+ITEM;156;82;0.96;65.44
+ITEM;2392;1;1.15;900.48
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;45;0.89
+SKILL;51;1.24
+SKILL;53;0.54
+SKILL;61;0.55
+SKILL;222;0.89
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;111;600;740685;KILL_RAIDERS#sector_0_station_0.txt#sector_79.txt#1#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Kill <color='yellow'>1 Raider</color> level 10 in <color='cyan'>Dragon Sea</color>. Return to Biomate University in <color='cyan'>Void Starcross</color>;15;A medium group of thugs decided to set up camp in the <color='cyan'>Dragon Sea</color> system. <i>Yerra Foeoufast</i>, who has recently been elected as Overseer of <color='cyan'>Dragon Sea</color> by the Laws, has requesting this contract to maintain in good standing with his constituents. Wipe out the level 10 and return to the Biomate University station.;48312;14400
+MISSION;132;140;386664;SALVAGE#14#20#sector_0.txt#sector_3_station_0.txt#null#null#null#null;Dismantle <color='yellow'>Special Junk</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>14</color> to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;17;<i>Wenao Binobamole</i> has discovered a light cache of <color='yellow'>Special Junk</color> in <color='cyan'>Void Starcross</color>. He is currently unable to dismantle the <color='yellow'>Special Junk</color>, and has requested a pilot to head over and salvage the <color='yellow'>14</color> <color='yellow'>Special Junk</color>. Once complete, head over and meet <i>Wenao Binobamole</i> at the Daemon Ammunitions station located in the <color='cyan'>Starfort Ramos</color>.;7875;1750
+MISSION;150;120;284209;FABRICATE#4#2591#sector_0_station_5.txt#sector_95_station_1.txt#null#null#null#null;Dock at the Proctors Center station fabricator in <color='cyan'>Void Starcross</color> and manufacture a light shipment of <color='yellow'>4</color> <color='yellow'>Disposables</color>;17;<i>Binowit Komqe</i> runs a Judicial production company at Acrondia Hub. After having some issues with a manufacturing plant, <color='yellow'>4</color> items of <color='yellow'>Disposables</color> were marked as low supply. Head on over to <color='cyan'>Void Starcross</color> and fabricate these <color='yellow'>Disposables</color> at Proctors Center.;9900;2200
+MISSION;70;180;699466;ESCORT#sector_18_station_0.txt#sector_0_station_5.txt#General Beyel Qeoa#npc_ship_data_(transport_escort_3)#24#null#null#null;Escort <color='yellow'><i>General Beyel Qeoa</i></color> from Dreamstar in <color='cyan'>Gendaria</color> to Proctors Center in <color='cyan'>Void Starcross</color>;15;A wealthy council member from the Law faction has set up an escort for his oldest son <color='yellow'><i>General Beyel Qeoa</i></color>. He was recently released from a rehab center for bliss addiction, and <i>Mezils Deswelipei</i>, his father, would prefer he doesn't travel alone. You can meet up with <color='yellow'><i>General Beyel Qeoa</i></color> at the Dreamstar station before heading over to Proctors Center.;10065;3000
+MISSION;63;170;160345;HARVEST#220#1#sector_95.txt#sector_14_station_0.txt#null#null#null#null;Extract <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Temple Gates</color> and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color> with minimum of <color='yellow'>220</color>;15;The Law faction has reported that a special medium load of <color='yellow'>Special Adamyte Ore</color> has been scanned in the <color='cyan'>Temple Gates</color> system. <i>Telcae Palindo</i> is credited with the find, but His claim is currently invalid. Hurry up and harvest the <color='yellow'>Special Adamyte Ore</color> and return to Imperium Republica , in the <color='cyan'>Gate of Alpharis</color>.;10250;3075
+MISSION;71;180;103692;ESCORT#sector_0_station_1.txt#sector_57_station_0.txt#Govenor Molevo Gopastjoh#npc_ship_data_(excavation_frigate_3)#5#null#null#null;<color='yellow'><i>Govenor Molevo Gopastjoh</i></color> requests an escort from Lammassu Financial in <color='cyan'>Void Starcross</color> to OmniTrust in <color='cyan'>Ponze</color>;15;The Astrox Security Patrol has posted a contract for the safe delivery of a <color='yellow'><i>Govenor Molevo Gopastjoh</i></color>, wanted for questioning in a non-violent incident a few cycles ago in the <color='cyan'>Void Starcross</color> system. Escort <color='yellow'><i>Govenor Molevo Gopastjoh</i></color> from Lammassu Financial to OmniTrust in the <color='cyan'>Ponze</color> system.;10065;2475
+MISSION;113;600;404382;KILL_RAIDERS#sector_0_station_3.txt#sector_3.txt#2#25#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_frigate_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Exterminate <color='yellow'>2 Raiders</color> in <color='cyan'>Starfort Ramos</color> and dock at StarShepards Headquarters in <color='cyan'>Void Starcross</color>;17;Reports of a small skilled gang in the <color='cyan'>Starfort Ramos</color> system have locals concerned, and Judicial faction members are worried about the increase in criminal activity around their local production facilities. Eliminate <color='yellow'>2 Raiders</color> in total, and return to StarShepards Headquarters station in <color='cyan'>Void Starcross</color> when complete.;58560;14400
+MISSION;143;150;593920;REFINE#69#21#sector_3_station_0.txt#sector_17_station_0.txt#null#null#null#null;Refine medium shipment of <color='yellow'>69</color> <color='yellow'>Scraps</color> in <color='cyan'>Starfort Ramos</color> at the Daemon Ammunitions station refinery;15;Holosynth Industries Station has contacted our client informing them of some medium cargo that remains unclaimed by former employees, <i>Lased Padjidtad</i> of the Law Faction. <color='yellow'>69</color> <color='yellow'>Scraps</color> need to be refined in <color='cyan'>Starfort Ramos</color>, at the Daemon Ammunitions Station refinery.;16800;7000
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.98;ship_data_(excavation_escort_1).txt
+SHIP;2;0.97;ship_data_(support_carrier_1).txt
+SHIP;3;1.01;ship_data_(support_escort_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+STORAGE;2;286;0
+STORAGE;3;176;0
+

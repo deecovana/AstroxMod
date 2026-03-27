@@ -1,0 +1,5 @@
+NPC;+STOCK;82;8;7177.355;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+STOCK;85;11;7006.932;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;22;11;14508.66;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;0;-4;8282.038;Vita Assembly;Capital Void;6h 0m 59s ;21659.03
+NPC;+LOCAL;12;1;14250.56;Starbase Corporate Center;Void Starcross;7h 40m 43s ;27643.31

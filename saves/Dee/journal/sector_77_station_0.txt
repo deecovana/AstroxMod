@@ -1,0 +1,314 @@
+[s:30][c:yellow]Lacuna Bandits[/c][/s]
+Entertainment Hub
+Kilekom Anfer
+Pirate
+[c:lime]Dock fee 100[/c]
+Timestamp: 4753.993
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Water
+Carbon
+Hydrogen
+Oxygen
+Magnetic Quartz
+Iron Coring
+Nitrogen
+Oil
+Copperi Cubex
+Calcium
+Ceramic
+Aluminium Shard
+Dynex Crystal
+Silicon
+Salt Crystal
+Bio Carbon
+Calciate Residue
+Steelium
+Plastix Strands
+Silveryte
+Prometheum
+Neutron Pods
+Uranium
+Goldyte
+Titanyte
+Keypad
+Acidic Residue
+Aluminium Plates
+Copperi Pipes
+Copperi Plates
+Dynex Crystal Resonator
+Electronic Switch
+Glass Panels
+Hand Tools
+Hardened Glass Panels
+Iron Coring Beams
+[c:orange]DEMAND[/c]
+Candy Cane
+Ornament
+Wrapped Box
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Acidic Residue  27 - z15
+Adamyte Ore  319 - z11
+Advanced 60mm  173 - z38
+Advanced 60mm (Doc)  2 - z384
+Advanced Afterburner (Doc)  7 - z113,087
+Advanced Armor Exterior  31 - z15,720
+Advanced Cargo Expansion  13 - z13,938
+Advanced Energy Capacitor  39 - z23,695
+Advanced Energy Generator  18 - z44,680
+Advanced Energy Generator (Doc)  16 - z501,386
+Advanced Engine Core  6 - z49,442
+Advanced Filter  19 - z14,239
+Advanced Missile  37 - z106
+Advanced Regulator  18 - z12,837
+Aged Wine  10 - z64
+Aluminium Plates  41 - z113
+Aluminium Rivets (Doc)  36 - z537
+Aluminium Shard  25 - z22
+Anti-Freeze  21 - z65
+Antimatter 20mm  161 - z91
+Antimatter 60mm  178 - z161
+Antimatter Missile  149 - z466
+Assault x1 Launcher  25 - z3,090
+Assault x2 Launcher  17 - z6,089
+Assault x2 Launcher (Doc)  19 - z69,754
+Assault x3 Launcher  36 - z9,418
+Assorted Gaskets  288 - z8
+Assorted Gaskets (Doc)  16 - z145
+Ball Bearings  160 - z75
+Basic 20mm  171 - z19
+Basic Afterburner  18 - z1,370
+Basic Armor Exterior  1 - z2,030
+Basic Cargo Expansion  33 - z2,355
+Basic Charged Cell  130 - z6
+Basic Explosive Armor (Doc)  2 - z96,706
+Basic Filter  12 - z6,218
+Basic Food Rations  20 - z51
+Basic Laser Energy Mod (Doc)  24 - z52,772
+Basic Laser Impact Mod  27 - z3,878
+Basic Laser Impact Mod (Doc)  27 - z35,830
+Basic Projectile Energy Mod (Doc)  34 - z33,108
+Basic Scan Booster  12 - z1,614
+Basic Sensor (Doc)  30 - z571
+Basic Warp Drive Fuel  300 - z1,606
+Basic Warp Drive Fuel (Doc)  38 - z17,244
+Battery Core  76 - z135
+Battery Core (Doc)  30 - z1,724
+Bio Carbon  42 - z23
+Blaster x1 Laser  38 - z1,214
+Blaster x2 Laser  26 - z2,002
+Bottled Whiskey  25 - z84
+Calciate Residue  29 - z99
+Calcium  375 - z6
+Candy Cane  28 - z44
+Candy Corn  39 - z30
+Carbon  522 - z1
+Carbon Filter  16 - z56,183
+Ceramic  44 - z13
+Cheeseburger  1 - z64,183
+Childrens Toys  5 - z27
+Chocolate Bars  8 - z28
+Circuit Board  61 - z45
+Cleaning Chemicals  33 - z72
+Colored Dye  27 - z151
+Containment Unit  7 - z6,537
+Copperi Cables  129 - z123
+Copperi Cubex  44 - z13
+Copperi Pipes  40 - z113
+Copperi Plates  43 - z139
+Corrosive Missile  39 - z261
+Disposables  2 - z4,218
+Dynex Crystal  26 - z24
+Dynex Crystal Resonator  42 - z190
+Eco Regulator  16 - z42,683
+Electronic Switch  37 - z192
+Elite Skill Manual  42 - z964,388
+Energized Missile  94 - z271
+Energy Bomb  48 - z5,018
+Entertainment Electronics  6 - z215
+Entex IV-series 20mm Gun  31 - z9,737
+Explosive 60mm  10 - z84
+Fasteners  212 - z9
+Focused x3 Laser  22 - z6,962
+Fusion 60mm  121 - z109
+Fusion Missile  125 - z177
+Gaming Devices  38 - z56
+Generic Gatling 20mm Gun  13 - z1,016
+Glass Panels  27 - z261
+Goldyte  40 - z140
+Gourmet Food Rations  16 - z118
+Gradeon Ore  180 - z24
+Gummy Bears  8 - z41
+Ham Sandwich  7 - z21,064
+Hand Tools  37 - z366
+Hardened Glass Panels  44 - z366
+Heavy Defense Drone  47 - z155,703
+Heavy Mining Drone  44 - z149,103
+Heavy Repair Drone  11 - z160,653
+Heavy Salvage Drone  57 - z215,103
+Heavy Shield Charge  59 - z208,224
+Hydrogen  89 - z2
+Impact Missile  31 - z699
+Improved Cargo Expansion  4 - z3,947
+Improved Combat Drone  39 - z57,765
+Improved Defense Drone  4 - z55,065
+Improved Explosive Armor  1 - z12,483
+Improved Filter  6 - z6,237
+Improved Impact Armor  36 - z9,375
+Improved Salvage Drone  40 - z31,215
+Improved Scan Booster  3 - z5,658
+Improved Shield Booster  11 - z5,563
+Improved Shield Generator  38 - z3,325
+Improved Thruster  37 - z2,228
+Interior Lighting  17 - z167
+Ion Beam Class 2  7 - z3,501
+Ion Beam Class 4  27 - z16,789
+Ion Beam Class 4 (Doc)  27 - z315,610
+Iron Coring  337 - z10
+Iron Coring Beams  38 - z416
+Junk Part  141 - z129
+Keypad  28 - z90
+Kinetic 20mm  47 - z13
+Kitchen Appliances  34 - z165
+Large Processor  100 - z97
+Large Processor (Doc)  6 - z1,146
+Large Repair Drone  37 - z81,366
+Large Salvage Drone  6 - z75,366
+LED Lights  72 - z73
+Light Armor Repair  72 - z39,410
+Light Shield Bomb  61 - z3,918
+Light Shield Recharger  14 - z68,951
+Liquid Coolant  84 - z56
+Lokken Ore  134 - z110
+Lubricant  234 - z27
+Magnetic Quartz  430 - z4
+Mechanical Belts  262 - z69
+Mechanical Switch  123 - z125
+Media Recordings  14 - z23
+Medium Energy Charge  10 - z125,275
+Medium Salvage Drone  63 - z15,955
+Medium Shield Bomb  74 - z26,341
+Medium Shield Charge  70 - z127,639
+Medium Web Field  45 - z20,841
+Memory Chip  266 - z121
+Metal Fragment  135 - z584
+Musical Instruments  33 - z197
+Neutron Pods  25 - z47
+Nitrogen  262 - z9
+Noodles  19 - z7,237
+Office Furniture  18 - z72
+Oil  343 - z12
+Ore Harvester 1  15 - z4,336
+Ore Harvester 2  6 - z9,721
+Ore Harvester 3  13 - z13,364
+Ornament  15 - z632
+Oxygen  85 - z1
+Plasma Beam Class 3  22 - z9,414
+Plastic Caps  69 - z45
+Plastix Strands  13 - z5
+Premium Cargo Expansion  13 - z90,892
+Premium Energy Capacitor (Doc)  11 - z866,133
+Premium Engine Core  5 - z195,156
+Premium Shield Generator  11 - z45,063
+Premium Targeting System (Doc)  28 - z764,433
+Prometheum  33 - z232
+Protein Bar  11 - z4,968
+Proton Missile  87 - z160
+Pulse x3 Laser  28 - z1,808
+Pulse x4 Laser  3 - z3,642
+Quazor Ore  383 - z43
+Radiated 60mm  85 - z74
+Regulator  156 - z106
+Reinforced Rubber  66 - z21
+Rubber Tubing (Doc)  16 - z650
+Salt Crystal  250 - z1
+Salvage Collector 1 (Doc)  23 - z72,181
+Scrap Part  92 - z173
+Silicon  200 - z4
+Silveryte  29 - z114
+Small Heatsink  365 - z176
+Small Life Support Pack  52 - z7,604
+Small Mining Drone  66 - z3,682
+Small Motor (Doc)  20 - z2,151
+Small Repair Drone  9 - z6,202
+Small Tractor Drone  70 - z14,755
+Sporting Equipment  9 - z26
+Spotlight  9 - z4,168
+Steelium  34 - z42
+Steelium Beam  254 - z15
+Tactical x1 Launcher  29 - z2,661
+Tactical x3 Launcher  10 - z6,565
+Tactical x4 Launcher (Doc)  33 - z243,247
+Temperature Genie  6 - z21,239
+Thermal Controller  18 - z4,368
+Thermal Insulation  222 - z27
+Thermal Sensor  51 - z62
+Titan Defense Drone  66 - z303,414
+Titan Mining Drone  55 - z205,914
+Titan Salvage Drone  41 - z153,414
+Titanyte  25 - z80
+Torpedo Mark I  127 - z101
+Torpedo Mark III  22 - z303
+Torpedo Mark III (Doc)  35 - z3,321
+Torpedo Mark IX  163 - z732
+Torpedo Mark V  37 - z314
+Torpedo Mark VI  1 - z490
+Torpedo Mark VII  133 - z799
+Torpedo Mark X  115 - z1,487
+Toxic 20mm  46 - z82
+Toxic 60mm  22 - z188
+Undamaged Part  334 - z414
+Uranium  36 - z231
+Uranium Core 60mm  153 - z130
+Waste Burner  19 - z42,683
+Waste Processor  8 - z12,839
+Water  467 - z0
+Wrapped Box  4 - z7,478
+x1 Torpedo Launcher  3 - z74,627
+x1 Torpedo Launcher (Doc)  4 - z917,840
+
+
+<Station University Skills>
+Ship Cargo Stacker
+Miner Basic Operation
+Miner Energy Optimization
+Module Mechanic
+Launcher Focal Range
+Beam Energy Optimization
+Passive Scanner Focal Range
+
+
+<Station Missions>
+[c:lime]REFINE[/c]
+Refine a light container of <color='yellow'>8</color> <color='yellow'>Scrap Parts</color> at the StarGypsy Warehouse station in <color='cyan'>Void Starcross</color>
+
+
+
+<Station Ships>
+EC-1 Mining Cruiser / Cruiser    (Excavation)
+BC-1 Alpharis Predator / Cruiser    (Battle)
+EC-1 Mining Cruiser / Cruiser    (Excavation)
+RCA-1 Correlator / Carrier    (Recon)
+BC-1 Alpharis Predator / Cruiser    (Battle)
+TC-1 Kraken / Cruiser    (Transport)
+SU-1 Archanis / Utility    (Support)
+ES-1 Shuttle / Shuttle    (Excavation)

@@ -1,0 +1,7 @@
+NPC;-QTY;1534;-3095;186.9413;Inovex;Goru Populan;1h 14m 56s ;4496.022
+NPC;+QTY;5016;3501;169.7153;Parisan;Goru Populan;2h 9m 20s ;7760.491
+NPC;-LOCAL;0;0;231.7883;Proctors Center;Void Starcross;4h 17m 37s ;15457.53
+NPC;-LOCAL;0;0;207.3252;Holosynth Industries;Rats Of Mortalis;5h 42m 2s ;20522.59
+NPC;-LOCAL;0;0;210.0273;Holosynth Industries;Rats Of Mortalis;5h 44m 12s ;20652.25
+PLAYER;+QTY;0;72;0;Biomate University;Void Starcross;6h 31m 0s ;23460.83
+PLAYER;+QTY;0;72;0;Biomate University;Void Starcross;6h 29m 37s ;23377.08

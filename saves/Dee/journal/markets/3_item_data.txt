@@ -1,0 +1,12 @@
+NPC;+STOCK;4049;3899;67.01604;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;-LOCAL;0;0;91.94058;Acrondia Hub;Temple Gates;1h 46m 14s ;6374.585
+NPC;+PRICE;145;0;39.19248;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
+NPC;-LOCAL;0;0;93.01756;Acrondia Hub;Temple Gates;1h 49m 33s ;6573.42
+NPC;-LOCAL;0;0;94.18409;Acrondia Hub;Temple Gates;1h 53m 3s ;6783.414
+NPC;-QTY;0;-536;42.29875;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
+NPC;+STOCK;5439;4798;57.10838;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4717;4341;57.67296;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;5792;4907;58.22654;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;3830;3757;34.66253;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4317;4244;68.70279;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+PRICE;391;0;44.56991;Inovex;Goru Populan;6h 14m 52s ;22492.41

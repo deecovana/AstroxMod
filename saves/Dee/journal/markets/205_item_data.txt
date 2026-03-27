@@ -1,0 +1,8 @@
+NPC;+PRICE;33;0;104.0032;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
+NPC;-QTY;176;-126;140.54;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
+NPC;-QTY;143;-101;147.082;Vo Industries;Brimstone;3h 11m 6s ;11466.38
+NPC;+STOCK;181;142;78.86541;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;799;147;124.7222;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+LOCAL;150;1;147.1133;Astrox Security Patrol;Felishar;3h 28m 20s ;12500.18
+NPC;+LOCAL;67;34;98.59274;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
+NPC;+PRICE;229;0;98.85793;Psybermind;Ion Child;7h 13m 39s ;26019.77

@@ -1,0 +1,89 @@
+[s:30][c:yellow]Transporteers[/c][/s]
+Auction Facility
+Ribres Borxaxon
+Trade
+[c:lime]Dock fee 100[/c]
+Timestamp: 16818.82
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic ECM Resistance Field
+Advanced ECM Resistance Field
+Prototype ECM Resistance Field
+Basic ECM Power Boost
+Advanced ECM Power Boost Field
+Prototype ECM Power Boost Field
+Basic ECM Energy Coil
+Advanced ECM Energy Coil
+Prototype ECM Energy Coil
+Basic ECM Range Lock
+Advanced ECM Range Lock
+Prototype ECM Range Lock
+[c:orange]DEMAND[/c]
+Junk
+Scrap
+Fragment
+Derelict
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Shortage: (4) Items 
+ (342) x Scrap
+ (355) x Fragment
+ (252) x Junk
+ (358) x Fragment
+Fulfill order for [c:lime]43,749 profit.[/c]
+[c:green]BUY Order[/c] Market Low Inventory: (2) Items 
+ (159) x Scrap
+ (66) x Scrap
+Fulfill order for [c:lime]6,522 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Super Freighter Ship Operation
+Freighter Ship Operation
+Launcher Focal Range
+Beam Energy Optimization
+Ship Energy Regeneration
+Laser Damage Calibration
+Ship Gyroscopic Control
+Armor Mechanic
+Ship Mass Engineering
+Laser Energy Optimization
+Miner Energy Optimization
+
+
+<Station Missions>
+[c:lime]ESCORT[/c]
+A ship in Biomate University in <color='cyan'>Void Starcross</color> needs an escort to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]DIALOG[/c]
+Collect a small debt from <color='yellow'><i>Chairman Zogore Amyawa</i></color> in <color='cyan'>Lins</color> and return to Temple of the Void in <color='cyan'>Valley of Truths</color>
+
+
+
+<Station Ships>
+F-7 / Freighter    (Transport)
+F-4 / Freighter    (Transport)
+F-1  / Freighter    (Transport)
+ABC-7 Hydra / Cruiser    (Battle)
+RC-2 Informer / Cruiser    (Recon)
+SF-2 Kraken / Super Freighter    (Transport)
+RF-3 Assimilator / Frigate    (Recon)
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+SE-1 Prophet / Escort    (Support)

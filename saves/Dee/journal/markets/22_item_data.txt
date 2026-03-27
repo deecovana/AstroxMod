@@ -1,0 +1,7 @@
+NPC;+STOCK;5440;4627;261.2666;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;-QTY;0;-171;307.9863;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;+STOCK;5162;4349;262.4435;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4463;3907;393.9948;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;5073;4882;226.4197;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;5058;4386;381.6512;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-LOCAL;5034;0;393.75;Starbase Corporate Center;Void Starcross;7h 40m 43s ;27643.31

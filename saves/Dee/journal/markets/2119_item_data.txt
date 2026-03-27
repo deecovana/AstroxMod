@@ -1,0 +1,7 @@
+NPC;-QTY;0;-30;489.9125;RestJag Outlet;Daefore;3h 11m 6s ;11466.38
+NPC;+STOCK;2059;1932;416.6849;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;2505;2382;362.4082;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;2518;2081;383.7074;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;2587;2431;535.3961;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;0;-36;308.4675;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+LOCAL;42;6;454.3924;Daemon Ammunitions;Starfort Ramos;7h 10m 36s ;25836.46

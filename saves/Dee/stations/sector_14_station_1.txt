@@ -1,0 +1,231 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;1
+STATION;name;Horizons
+STATION;type;Headquarters
+STATION;owner;Serzokom Qireno
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .40, .19, 1
+STATION;level;2
+STATION;icon;horizons.png
+STATION;filename;sector_14_station_1.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-4-0-3-0-0-0-1-4-7-1-8-90
+STATION;interior_seed;3-4-15-0
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;24268.38
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;False
+SERVICES;admin;True
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Bottle of Whiskey;0.025,0.0;850;Whiskey;entertain_bar.png;Purchase a bottle of whiskey for each of your fleet members. 2.5% Morale bonus.
+ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;Astrox Opera House;0.26,0.07;51000;Musical Entertainment;entertain_opera.png;Provide a private opera concert for your entire crew at the famous 'Astrox Opera House', drinks and food included. 26% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;8;0.67;npc_ship_data_(transport_escort_1).txt
+MERC;8;1.28;npc_ship_data_(recon_carrier_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Need (1) Items ;406x1147;33720.00;70877.77
+BUYORDER;Buying: (1) Items ;331x348;53248.00;63326.76
+ITEM;1;1055;1.21;0
+ITEM;1532;31;0.81;0
+ITEM;1542;12;0.75;0
+ITEM;641;2;0.90;0
+ITEM;163;79;0.97;0
+ITEM;302;12;0.81;0
+ITEM;2128;43;1.00;0
+ITEM;2131;35;1.10;0
+ITEM;2131;-99;1.18;0
+ITEM;153;50;1.10;0
+ITEM;2444;5;0.83;929.3829
+ITEM;169;158;1.09;929.3829
+ITEM;2445;11;0.94;929.3829
+ITEM;50;69;0.77;929.3829
+ITEM;1520;5;1.11;1464.349
+ITEM;1620;13;0.95;1464.349
+ITEM;1530;28;0.75;1464.349
+ITEM;1750;13;1.14;1464.349
+ITEM;2361;3;0.96;1464.349
+ITEM;1570;13;0.59;1686.627
+ITEM;620;2;0.96;5078.938
+ITEM;2334;9;1.01;5078.938
+ITEM;1540;29;0.77;5078.938
+ITEM;1615;1;0.62;5078.938
+ITEM;201;38;0.72;5078.938
+ITEM;1560;9;0.61;5078.938
+ITEM;1500;9;0.93;1165.386
+ITEM;1590;18;0.92;1165.386
+ITEM;208;52;0.78;1165.386
+ITEM;406;18;0.95;1165.386
+ITEM;403;12;0.95;23.24392
+ITEM;205;67;0.78;23.24392
+ITEM;101;136;0.60;23.24392
+ITEM;168;174;0.58;35.4627
+ITEM;404;11;0.72;19.5537
+ITEM;200;47;0.72;19.5537
+ITEM;300;5;1.22;19.5537
+ITEM;301;7;0.79;19.5537
+ITEM;2651;68;0.81;19.5537
+ITEM;661;3;1.09;19.5537
+ITEM;218;0;1.53;19.5537
+ITEM;63;79;0.83;19.5537
+ITEM;660;2;1.05;19.5537
+ITEM;151;131;0.51;19.5537
+ITEM;204;39;0.76;84.9269
+ITEM;735;1;0.67;84.9269
+ITEM;1001;15;0.52;84.9269
+ITEM;2100;17;0.58;84.9269
+ITEM;2;62;0.82;24.70315
+ITEM;405;15;1.04;24.70315
+ITEM;675;18;1.17;24.70315
+ITEM;731;14;0.52;24.70315
+ITEM;753;7;0.80;142154
+ITEM;759;18;1.13;142154
+ITEM;102;268;1.04;142154
+ITEM;1521;5;1.02;142154
+ITEM;1531;31;0.71;142154
+ITEM;1581;15;1.12;142154
+ITEM;2270;13;0.85;142154
+ITEM;621;8;0.58;6380.577
+ITEM;1541;37;0.84;6380.577
+ITEM;1601;16;1.01;6380.577
+ITEM;305;16;0.82;6380.577
+ITEM;1170;15;0.89;6380.577
+ITEM;20;195;0.64;6380.577
+ITEM;51;85;1.17;6380.577
+ITEM;2397;4;1.20;540.5869
+ITEM;1009;4;1.20;2781.78
+ITEM;304;11;1.18;2781.78
+ITEM;677;2;0.61;2781.78
+ITEM;211;0;1.40;2781.78
+ITEM;712;30;1.03;164026.5
+ITEM;209;0;1.45;164026.5
+ITEM;158;193;1.18;164026.5
+ITEM;155;42;0.50;164026.5
+ITEM;104;29;0.66;164026.5
+ITEM;166;14;0.97;164026.5
+ITEM;203;78;0.58;164026.5
+ITEM;672;29;1.15;164026.5
+ITEM;2539;8;1.19;164026.5
+ITEM;676;30;1.00;164026.5
+ITEM;732;4;0.67;164026.5
+ITEM;756;30;1.27;19945.25
+ITEM;711;23;0.51;19945.25
+ITEM;214;0;1.44;19945.25
+ITEM;157;94;0.84;19945.25
+ITEM;2433;18;0.99;19945.25
+ITEM;160;41;0.80;19945.25
+ITEM;161;40;1.03;19945.25
+ITEM;728;32;1.26;19739.52
+ITEM;210;0;1.48;19739.52
+ITEM;212;0;1.55;178.1535
+ITEM;601;6;0.53;178.1535
+ITEM;150;76;0.56;178.1535
+ITEM;2426;17;0.78;178.1535
+ITEM;303;15;0.80;178.1535
+ITEM;206;34;0.82;178.1535
+ITEM;1200;11;1.18;178.1535
+ITEM;407;19;1.10;178.1535
+ITEM;103;30;0.66;178.1535
+ITEM;165;140;1.18;178.1535
+ITEM;2442;4;0.98;178.1535
+ITEM;170;64;0.68;178.1535
+ITEM;1533;40;0.66;178.1535
+ITEM;1543;28;0.66;178.1535
+ITEM;213;0;1.49;178.1535
+ITEM;600;2;0.77;4134.534
+ITEM;2117;76;0.98;4134.534
+ITEM;1534;38;0.77;4134.534
+ITEM;1544;12;0.69;4134.534
+ITEM;1150;18;1.07;4134.534
+ITEM;1151;19;0.89;4134.534
+ITEM;1100;14;0.54;4134.534
+ITEM;43;72;1.22;4134.534
+ITEM;1055;1;1.01;4134.534
+ITEM;726;10;0.80;4134.534
+ITEM;207;41;0.70;4134.534
+ITEM;164;167;0.76;4134.534
+ITEM;154;65;0.88;4134.534
+ITEM;114;129;0.95;2.128148
+ITEM;1401;4;0.79;2.128148
+ITEM;21;117;0.94;2.128148
+ITEM;2544;12;0.89;2.128148
+ITEM;216;0;1.54;2.128148
+ITEM;2532;8;1.26;2.128148
+ITEM;217;0;1.48;2.128148
+ITEM;215;0;1.60;2.128148
+ITEM;156;132;1.20;41.82396
+ITEM;2432;19;0.63;41.82396
+ITEM;1059;11;1.22;6530.197
+ITEM;2151;19;1.20;6530.197
+ITEM;640;3;1.14;6530.197
+ITEM;162;152;0.72;6530.197
+ITEM;2438;15;0.92;6530.197
+ITEM;202;60;0.80;6530.197
+ITEM;749;28;0.68;185369.6
+ITEM;754;12;1.23;185369.6
+ITEM;2416;3;0.79;1285.268
+ITEM;76;2;0.76;1285.268
+ITEM;2124;1;1.13;1285.268
+ITEM;2120;26;0.94;1285.268
+ITEM;2130;66;0.60;1285.268
+ITEM;2113;97;0.69;1285.268
+ITEM;2116;7;0.60;1285.268
+ITEM;100;262;0.78;1285.268
+ITEM;408;19;0.79;4457.836
+ITEM;1470;19;1.15;4457.836
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;60;1.34
+SKILL;231;1.28
+SKILL;22;1.28
+SKILL;228;1.58
+SKILL;37;0.74
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;150;120;607855;FABRICATE#4#2474#sector_36_station_0.txt#sector_3_station_0.txt#null#null#null#null;Dock at the Blargg's station fabricator in <color='cyan'>Beacon Spita</color> and manufacture a light shipment of <color='yellow'>4</color> <color='yellow'>Hardened Glass Panels</color>;0;<i>Visfie Serhom</i> runs a Alpha production company at Daemon Ammunitions. After having some issues with a manufacturing plant, <color='yellow'>4</color> items of <color='yellow'>Hardened Glass Panels</color> were marked as low supply. Head on over to <color='cyan'>Beacon Spita</color> and fabricate these <color='yellow'>Hardened Glass Panels</color> at Blargg's.;12346;4400
+MISSION;50;120;919488;SCAN_STRUCTURE#sector_0_station_1.txt#sector_19.txt#Corporate Dock#structure_dock_1.txt#1#null#null#null;Locate and scan the <color='yellow'>Corporate Dock</color> structure in <color='cyan'>Crellara</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>;0;A recent construction permit was delivered by the Alpha faction. They are demanding a survey of a new structure that has been constructed by <i>Mesza Peipastoa</i>. Scan the <color='yellow'>Corporate Dock</color> structure and return back to the Lammassu Financial located in the <color='cyan'>Void Starcross</color> with the survey data. Once the data is verified, payment will be rendered.;7480;2550
+MISSION;151;120;133033;FABRICATE#10#2515#sector_3_station_0.txt#sector_0_station_5.txt#null#null#null#null;Produce a light container of <color='yellow'>10</color> <color='yellow'>Radar Systems</color> at the Daemon Ammunitions fabricator in <color='cyan'>Starfort Ramos</color>;0;The Alpha Faction has commissioned a production liaison, <i>Bunpi Zada</i> at Proctors Center. After an audit, <color='yellow'>10</color> items of <color='yellow'>Radar Systems</color> were deemed required. Head on over to <color='cyan'>Starfort Ramos</color> and manufacture these <color='yellow'>Radar Systems</color> at Daemon Ammunitions.;9750;2500
+MISSION;82;120;336738;RECOVER#412#340#sector_14.txt#sector_95_station_1.txt#null#null#null#null;Retrieve a light cache of <color='yellow'>412</color> <color='yellow'>Textile Fabrics</color> from a <color='yellow'>crate</color> in <color='cyan'>Gate of Alpharis</color> sector, drop at Acrondia Hub in <color='cyan'>Temple Gates</color>;2;After a skirmish in <color='cyan'>Gate of Alpharis</color>, the Civil's <i>Yanser Misevdale</i> cannot account for a light shipment of <color='yellow'>Textile Fabrics</color> he was transporting before the attack. Head out to the <color='cyan'>Gate of Alpharis</color> sector and look for the crate. When found, take the contents of the crate back to the Acrondia Hub station in the <color='cyan'>Temple Gates</color> sector.;8296;1000
+MISSION;150;120;246856;FABRICATE#4#2518#sector_20_station_0.txt#sector_0_station_1.txt#null#null#null#null;Dock at the Medicore University station fabricator in <color='cyan'>Cliffs of Drameria</color> and manufacture a light shipment of <color='yellow'>4</color> <color='yellow'>Voltage Regulators</color>;0;<i>Demidoe Mebruza</i> runs a Alpha production company at Lammassu Financial. After having some issues with a manufacturing plant, <color='yellow'>4</color> items of <color='yellow'>Voltage Regulators</color> were marked as low supply. Head on over to <color='cyan'>Cliffs of Drameria</color> and fabricate these <color='yellow'>Voltage Regulators</color> at Medicore University.;13152;4400
+MISSION;11;120;628330;DELIVERY#54#153#sector_0_station_4.txt#sector_77_station_0.txt#null#null#null#null;Deliver light container of <color='yellow'>54</color> <color='yellow'>Assorted Gaskets</color> to Starbase Corporate Center Station in <color='cyan'>Void Starcross</color>;1;The Science Faction has commissioned a transport liaison, <i>Naliafo Birajaliscie</i> at Lacuna Bandits. After an audit, <color='yellow'>54</color> items of <color='yellow'>Assorted Gaskets</color> were left un accounted for. Head on over to <color='cyan'>Void Starcross</color> and deliver these <color='yellow'>Assorted Gaskets</color> to Starbase Corporate Center.;7800;2000
+MISSION;110;600;484561;KILL_RAIDERS#sector_35_station_0.txt#sector_77.txt#2#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Hunt <color='yellow'>2 Raiders</color> level 10 in <color='cyan'>Ballast Crow</color> and return to Astrox Security Patrol in <color='cyan'>Felishar</color>;0;There has been a small Raider gang hanging around the warp gates in <color='cyan'>Ballast Crow</color>. The Alpha faction has requested a sector clearance contract. Head on over to the <color='cyan'>Ballast Crow</color> and clear out the <color='yellow'>2 Raiders</color>, level 10 that have set up camp there. Dock at the Astrox Security Patrol station in <color='cyan'>Felishar</color> when complete.;32208;9000
+MISSION;110;600;485342;KILL_RAIDERS#sector_0_station_3.txt#sector_57.txt#1#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Hunt <color='yellow'>1 Raider</color> level 10 in <color='cyan'>Ponze</color> and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>;0;There has been a small Raider gang hanging around the warp gates in <color='cyan'>Ponze</color>. The Alpha faction has requested a sector clearance contract. Head on over to the <color='cyan'>Ponze</color> and clear out the <color='yellow'>1 Raider</color>, level 10 that have set up camp there. Dock at the StarShepards Headquarters station in <color='cyan'>Void Starcross</color> when complete.;35868;12000
+MISSION;42;120;298153;SCAN_PILOT#sector_95_station_1.txt#sector_0.txt#Entertainer Ninezo Lindove#npc_ship_data_(transport_frigate_1)#13#null#null#null;Track down and scan <color='yellow'><i>Entertainer Ninezo Lindove</i></color> in <color='cyan'>Void Starcross</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>;0;Alpha faction has requested that we verify the whereabouts of a <color='yellow'><i>Entertainer Ninezo Lindove</i></color>. After a recent ban order from the high court minister <i>Bidyit Gillayanyel</i>, <color='cyan'>Void Starcross</color> officials are worried that <color='yellow'><i>Entertainer Ninezo Lindove</i></color> might cause problems for the local merchants. Scan <color='yellow'><i>Entertainer Ninezo Lindove</i></color>'s ship and return to Acrondia Hub in <color='cyan'>Temple Gates</color> with the scan record.;7215;1850
+MISSION;60;140;607828;HARVEST#90#1#sector_35.txt#sector_56_station_1.txt#null#null#null#null;Harvest <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Felishar</color> and return with <color='yellow'>90</color> ore to ValueStar in <color='cyan'>Hunu</color>;0;A local prospector, <i>Xulyi Zantafnuh</i> of the Alpha faction has located a light quantity of special <color='yellow'>Special Adamyte Ore</color> in the <color='cyan'>Felishar</color> sector. Head over there and harvest all of the special <color='yellow'>Special Adamyte Ore</color>, and meet <i>Xulyi Zantafnuh</i> back at ValueStar station located in the <color='cyan'>Hunu</color>.;9174;2400
+MISSION;31;240;629214;TRANSPORT#3#1623#sector_40_station_0.txt#sector_56_station_0.txt#null#null#null#null;Head to Legistron in <color='cyan'>Dogstar Prime</color>, pick up <color='yellow'>3</color> <color='yellow'>Premium Armor Exteriors</color> for a light shipment to Transporteers in <color='cyan'>Hunu</color>;1;The Science faction advisor <i>Bolom Corfamo</i> has placed a light shipment transport order to move <color='yellow'>3</color> <color='yellow'>Premium Armor Exteriors</color> from the Legistron storage in <color='cyan'>Dogstar Prime</color>, to the Transporteers in <color='cyan'>Hunu</color>.;12688;4000
+MISSION;112;600;933370;KILL_RAIDERS#sector_0_station_5.txt#sector_79.txt#1#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Destroy <color='yellow'>1 Raider</color> in <color='cyan'>Dragon Sea</color> and return to Proctors Center in <color='cyan'>Void Starcross</color>;0;A large Raider gang has been seen lurking around in <color='cyan'>Dragon Sea</color>. Their leader, <i>Ileni Assadhom</i>, is a wanted criminal and the Alpha faction has requested a bounty on <i>Ileni Assadhom</i> and his crew. Travel to the <color='cyan'>Dragon Sea</color> and clear out the <color='yellow'>1 Raider</color>, level 10 that have been lurking around. Dock at the Proctors Center station in <color='cyan'>Void Starcross</color> when complete.;53290;16800
+MISSION;42;120;179799;SCAN_PILOT#sector_95_station_0.txt#sector_57.txt#Officer Whimole Jidbun#npc_ship_data_(kj_escort_1)#1#null#null#null;Track down and scan <color='yellow'><i>Officer Whimole Jidbun</i></color> in <color='cyan'>Ponze</color> and return to Star Shepards Hub in <color='cyan'>Temple Gates</color>;1;Science faction has requested that we verify the whereabouts of a <color='yellow'><i>Officer Whimole Jidbun</i></color>. After a recent ban order from the high court minister <i>Gotdee Farvisxo</i>, <color='cyan'>Ponze</color> officials are worried that <color='yellow'><i>Officer Whimole Jidbun</i></color> might cause problems for the local merchants. Scan <color='yellow'><i>Officer Whimole Jidbun</i></color>'s ship and return to Star Shepards Hub in <color='cyan'>Temple Gates</color> with the scan record.;11736;3700
+MISSION;152;120;331740;FABRICATE#25#2462#sector_0_station_1.txt#sector_0_station_3.txt#null#null#null#null;Manufacture <color='yellow'>25</color> <color='yellow'>Small Pumps</color> at Lammassu Financial station fabricator in <color='cyan'>Void Starcross</color>;0;<i>Nota Ronsaw</i> from StarShepards Headquarters Station has commissioned a production run . He has required a small manufacturing run of <color='yellow'>25</color> <color='yellow'>Small Pumps</color>. Set your GPS autopilot to <color='cyan'>Void Starcross</color> and produce these <color='yellow'>Small Pumps</color> on site at the Lammassu Financial immediately.;9805;1325
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.91;ship_data_(recon_escort_1).txt
+SHIP;2;1.02;ship_data_(excavation_cruiser_1).txt
+SHIP;3;1.04;ship_data_(excavation_escort_1).txt
+SHIP;4;0.92;ship_data_(pirate_carrier_1).txt
+SHIP;5;0.90;ship_data_(transport_frigate_1).txt
+SHIP;6;1.02;ship_data_(battle_cruiser_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+

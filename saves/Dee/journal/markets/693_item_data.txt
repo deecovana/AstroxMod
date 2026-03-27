@@ -1,0 +1,10 @@
+NPC;+STOCK;125;19;13767.27;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+PRICE;11;0;11803.24;Keyworx;Geminey;1h 49m 22s ;6562.842
+NPC;+PRICE;23;0;11551.86;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
+NPC;-QTY;0;-18;9047.625;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;+STOCK;125;19;13730.35;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;113;23;11836.55;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;113;16;8168.79;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;123;21;12309.35;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;136;17;14860.51;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;28;-20;14087.63;Vita Assembly;Capital Void;6h 0m 59s ;21659.03

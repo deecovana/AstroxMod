@@ -1,0 +1,65 @@
+//;LOG DATA FILE (Astrox Imperium)
+SELL;1;Salvage Collector 2;650;650.0000;114140.784638643;Starbase Corporate Center;Void Starcross;7h 44m 15s 
+SELL;1;Improved Scan Emitter;814;813.6959;113490.784638643;Starbase Corporate Center;Void Starcross;7h 44m 7s 
+SELL;1;Improved Cargo Expansion;3,601;3601.2400;112677.088715792;Starbase Corporate Center;Void Starcross;7h 43m 55s 
+BUY;1;Advanced Scan Emitter;11,347;11,347;109075.848237276;Starbase Corporate Center;Void Starcross;7h 42m 49s 
+SELL;258;Adamyte Ore;6.86;1770.9090;105058.140229464;Daemon Ammunitions;Starfort Ramos;7h 11m 8s 
+SELL;372;Adamyte Ore;12.79;4758.6010;105528.231538057;Horizons;Gate of Alpharis;6h 43m 3s 
+SELL;372;Adamyte Ore;13.00;4835.9770;100869.630463839;Horizons;Gate of Alpharis;6h 38m 6s 
+SELL;258;Adamyte Ore;13.21;3407.6520;96133.6539013386;Horizons;Gate of Alpharis;6h 31m 58s 
+SELL;332;Carbon;0.57;187.746;63403.4131786823;Biomate University;Void Starcross;6h 6m 59s 
+SELL;98;Magnetic Quartz;1.14;111.7935;63215.6671917439;Biomate University;Void Starcross;6h 6m 59s 
+SELL;352;Oxygen;0.65;227.3357;63103.8736965656;Biomate University;Void Starcross;6h 6m 59s 
+SELL;81;Hydrogen;1.40;113.1975;62876.538018465;Biomate University;Void Starcross;6h 6m 59s 
+SELL;79;Salt Crystal;0.71;56.07419;62763.3405315876;Biomate University;Void Starcross;6h 6m 59s 
+SELL;348;Water;0.22;75.777;62707.2663395405;Biomate University;Void Starcross;6h 6m 59s 
+BUY;1;Salvage Collector 2;6,012;6,012;50936.6147235632;Rendo Labs;Entropy;5h 38m 16s 
+SELL;1;Ore Harvester 1;293;292.5000;56948.1772235632;Rendo Labs;Entropy;5h 36m 5s 
+SELL;304;Carbon;0.57;171.912;56755.6772235632;StarGypsy Warehouse;Void Starcross;5h 7m 45s 
+SELL;74;Magnetic Quartz;2.14;158.4414;56583.7652362585;StarGypsy Warehouse;Void Starcross;5h 7m 45s 
+SELL;332;Oxygen;0.47;154.8581;56425.3238452673;StarGypsy Warehouse;Void Starcross;5h 7m 45s 
+SELL;84;Hydrogen;0.76;64.155;56270.4657825232;StarGypsy Warehouse;Void Starcross;5h 7m 45s 
+SELL;308;Water;0.20;62.062;56206.3107837439;StarGypsy Warehouse;Void Starcross;5h 7m 45s 
+SELL;78;Salt Crystal;0.68;53.235;56144.2487834692;StarGypsy Warehouse;Void Starcross;5h 7m 45s 
+SELL;472;Water;0.22;104.312;46257.6130974293;Biomate University;Void Starcross;4h 49m 9s 
+SELL;131;Magnetic Quartz;1.16;151.7373;46153.3010933399;Biomate University;Void Starcross;4h 49m 9s 
+SELL;504;Oxygen;0.65;328.5173;46001.5637886524;Biomate University;Void Starcross;4h 49m 9s 
+SELL;110;Salt Crystal;0.72;79.57949;45673.0464851856;Biomate University;Void Starcross;4h 49m 9s 
+SELL;488;Carbon;0.57;278.343;45593.466994524;Biomate University;Void Starcross;4h 49m 9s 
+SELL;125;Hydrogen;1.41;176.7187;45315.1240074635;Biomate University;Void Starcross;4h 49m 9s 
+SELL;1;Pulse x1 Laser;32.50;32.5000;27399.2975491285;Biomate University;Void Starcross;3h 55m 14s 
+SELL;400;Oxygen;0.66;263.12;33147.8976467848;Biomate University;Void Starcross;3h 46m 7s 
+SELL;92;Hydrogen;1.43;131.56;32884.7776516676;Biomate University;Void Starcross;3h 46m 7s 
+SELL;376;Water;0.22;84.31799;32753.2176693678;Biomate University;Void Starcross;3h 46m 7s 
+SELL;364;Carbon;0.58;209.391;32668.8996762037;Biomate University;Void Starcross;3h 46m 7s 
+SELL;107;Salt Crystal;0.74;78.8697;32459.508669734;Biomate University;Void Starcross;3h 46m 7s 
+SELL;86;Magnetic Quartz;1.18;101.1231;32380.6389721632;Biomate University;Void Starcross;3h 46m 7s 
+SELL;111;Magnetic Quartz;1.19;132.4674;35902.4158726931;Biomate University;Void Starcross;3h 41m 7s 
+SELL;448;Oxygen;0.66;297.3734;35769.9484654665;Biomate University;Void Starcross;3h 41m 7s 
+SELL;103;Hydrogen;1.45;148.9637;35472.575021863;Biomate University;Void Starcross;3h 41m 7s 
+SELL;404;Water;0.23;91.91;35323.6112920046;Biomate University;Void Starcross;3h 41m 7s 
+SELL;484;Carbon;0.58;280.7805;35231.7012959719;Biomate University;Void Starcross;3h 41m 7s 
+SELL;120;Salt Crystal;0.75;90.09;34950.9207783937;Biomate University;Void Starcross;3h 41m 7s 
+BUY;1;Improved Cargo Expansion;5,507;5,507;14757.83038342;Acrondia Hub;Temple Gates;1h 53m 57s 
+SELL;262;Adamyte Ore;18.29;4793.2670;20265.1472779512;Acrondia Hub;Temple Gates;1h 53m 16s 
+SELL;262;Adamyte Ore;18.29;4793.2670;15571.8801881075;Acrondia Hub;Temple Gates;1h 49m 44s 
+SELL;262;Adamyte Ore;18.29;4793.2670;10878.6130982637;Acrondia Hub;Temple Gates;1h 46m 36s 
+SELL;1;Ore Harvester 1;2,603;2603.2500;6285.34600841999;Lacuna Bandits;Ballast Crow;1h 16m 33s 
+BUY;1;Ore Harvester 3;13,189;13,189;3682.09600841999;Lacuna Bandits;Ballast Crow;1h 16m 27s 
+SELL;1;Medium Mining Drone;975;975.0000;9131.63995373249;Acrondia Hub;Temple Gates;1h 6m 14s 
+SELL;1;Small Mining Drone;4,290;4290.0000;8156.63995373249;Acrondia Hub;Temple Gates;1h 5m 57s 
+SELL;1;Lubricant;4.40;4.3980;3866.63995373249;Acrondia Hub;Temple Gates;1h 5m 14s 
+SELL;1;Active Scanner;520;520.0000;3862.24195587635;Acrondia Hub;Temple Gates;1h 5m 4s 
+SELL;224;Oxygen;0.63;141.9891;3342.24195587635;Acrondia Hub;Temple Gates;1h 4m 20s 
+SELL;240;Carbon;0.29;70.2000;3200.25286591053;Acrondia Hub;Temple Gates;1h 4m 17s 
+SELL;55;Magnetic Quartz;1.37;75.2895;3130.05286896229;Acrondia Hub;Temple Gates;1h 4m 13s 
+SELL;46;Hydrogen;1.54;71.0125;3054.76337921619;Acrondia Hub;Temple Gates;1h 3m 13s 
+BUY;1;Hydrogen;2.58;2.58;2983.75088989735;Acrondia Hub;Temple Gates;1h 3m 8s 
+SELL;70;Salt Crystal;1.46;102.2385;2986.33526480198;Acrondia Hub;Temple Gates;1h 2m 50s 
+SELL;209;Water;0.21;44.8305;2884.09677755833;Acrondia Hub;Temple Gates;1h 2m 47s 
+BUY;1;Improved Scan Emitter;2,484;2,484;3140.61627578735;Biomate University;Void Starcross;0h 54m 46s 
+BUY;1;Containment Unit;7,025;7,025;19874.7361488342;Biomate University;Void Starcross;0h 52m 13s 
+BUY;1;Thermal Controller;4,413;4,413;26899.7361488342;Biomate University;Void Starcross;0h 51m 32s 
+SELL;1;Office Supplies;14.74;14.7362;31312.2361488342;Biomate University;Galaxy Map;0h 49m 50s 
+BUY;1;Small Mining Drone;4,815;4,815;29822.5;Biomate University;Void Starcross;0h 21m 56s 
+BUY;1;Medium Mining Drone;13,238;13,238;41762.5;Biomate University;Void Starcross;0h 15m 58s 

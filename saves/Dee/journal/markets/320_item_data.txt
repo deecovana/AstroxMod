@@ -1,0 +1,9 @@
+NPC;+STOCK;1033;972;20.06809;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+PRICE;11;0;20.59296;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
+NPC;+PRICE;42;0;23.0108;Astrox Security Patrol;Kilotorish;1h 49m 22s ;6562.842
+NPC;-QTY;0;-21;16.03817;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;+STOCK;686;679;24.36199;Lammassu Financial;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;933;886;16.00034;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;999;937;18.60181;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;863;852;22.44801;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;1012;926;24.99068;Proctors Center;Void Starcross;3h 11m 8s ;11468.65

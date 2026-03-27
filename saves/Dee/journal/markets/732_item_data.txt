@@ -1,0 +1,9 @@
+PLAYER;-QTY;194;1;13237.5;Biomate University;Void Starcross;0h 15m 58s ;958.4458
+NPC;+STOCK;207;13;12932.51;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+PLAYER;+QTY;0;1;0;Acrondia Hub;Temple Gates;1h 6m 14s ;3974.725
+NPC;+PRICE;59;0;9171.82;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
+NPC;-QTY;50;-12;10259.53;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;+STOCK;208;14;13083.37;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;87;14;10443.77;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;50;11;12811.34;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;17;-12;11715.94;Rendo Labs;Entropy;6h 0m 59s ;21659.03

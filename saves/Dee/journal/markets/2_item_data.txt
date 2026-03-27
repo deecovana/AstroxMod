@@ -1,0 +1,11 @@
+NPC;+STOCK;5320;4679;18.21799;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;-LOCAL;3;0;31.5;Acrondia Hub;Temple Gates;1h 2m 42s ;3762.632
+NPC;-LOCAL;0;0;42.22647;Acrondia Hub;Temple Gates;1h 46m 14s ;6374.585
+NPC;-LOCAL;0;0;42.80638;Acrondia Hub;Temple Gates;1h 49m 33s ;6573.42
+NPC;-LOCAL;0;0;43.43451;Acrondia Hub;Temple Gates;1h 53m 3s ;6783.414
+NPC;+STOCK;4959;4318;17.236;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4621;4139;19.31624;Starbase Corporate Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;4393;3924;34.24091;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;0;-19;27.46975;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+PRICE;71;0;26.70071;Inovex;Goru Populan;6h 14m 52s ;22492.41
+NPC;+PRICE;62;0;24.70315;Horizons;Gate of Alpharis;7h 13m 39s ;26019.77

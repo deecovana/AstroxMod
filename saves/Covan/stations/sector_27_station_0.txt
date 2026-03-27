@@ -1,0 +1,136 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Nostra
+STATION;type;Civil Housing Facility
+STATION;owner;Yitwo Yanlespea
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .46, .19, 1
+STATION;level;8
+STATION;icon;nostra.png
+STATION;filename;sector_27_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-6-0-5-7-1-8-1-6-0-2-9-1-4-2-2-9-1-3-3-3-0-90
+STATION;interior_seed;4-6-15-9
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;False
+SERVICES;hangar;False
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+ENTERTAINMENT;Private Party;0.10,0.0;2700;Party;entertain_bar.png;Throw a private party at the local station pub for your entire fleet. 10% Morale Boost.
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;7;1.2;npc_ship_data_(transport_cruiser_4).txt
+MERC;5;1.5;npc_ship_data_(Fast_attack_cruiser_5).txt
+MERC;4;1.7;npc_ship_data_(pirate_frigate_4).txt
+MERC;5;1.83;npc_ship_data_(support_escort_1).txt
+MERC;8;1.54;npc_ship_data_(pirate_carrier_1).txt
+MERC;8;0.81;npc_ship_data_(recon_escort_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Shortage: (2) Items ;10x359,4x243;130554;27611.15
+BUYORDER;Market Needs Goods: (1) Items ;1x110;2494;35436.15
+BUYORDER;Market Shortage: (4) Items ;3x217,8x144,4x257,9x148;84547;35618.26
+BUYORDER;Market Out of Stock: (1) Items ;4x68;4543;81752.26
+ITEM;2383;2;0.96
+ITEM;214;95;0.98
+ITEM;2260;2;1.05
+ITEM;2285;1;1.00
+ITEM;2259;2;0.97
+ITEM;2162;2;0.97
+ITEM;2005;63;1.04
+ITEM;2311;1;1.08
+ITEM;1404;2;0.98
+ITEM;662;8;1.05
+ITEM;2182;2;0.96
+ITEM;2306;1;0.96
+ITEM;114;132;0.98
+ITEM;2248;2;1.08
+ITEM;1563;9;1.13
+ITEM;1172;3;1.12
+ITEM;2118;379;1.09
+ITEM;2148;1;1.05
+ITEM;2124;1;1.13
+ITEM;1514;3;0.99
+ITEM;511;2;1.08
+ITEM;2334;2;1.13
+ITEM;2388;2;0.95
+ITEM;1602;2;0.98
+ITEM;502;1;1.05
+ITEM;63;1221;1.03
+ITEM;1612;3;1.04
+ITEM;322;1677;1.10
+ITEM;2009;93;1.06
+ITEM;2148;2;1.03
+ITEM;1215;3;1.13
+ITEM;1544;9;1.02
+ITEM;2032;57;0.95
+ITEM;1154;4;0.97
+ITEM;2302;2;1.13
+ITEM;1543;5;1.14
+ITEM;2363;1;1.14
+ITEM;2040;57;0.97
+ITEM;1730;6;1.02
+ITEM;2379;1;1.07
+ITEM;325;526;1.12
+ITEM;112;192;1.10
+ITEM;1513;6;0.97
+ITEM;643;8;1.08
+ITEM;1210;8;0.95
+ITEM;2028;96;1.01
+ITEM;2158;1;1.10
+ITEM;1574;2;1.08
+ITEM;2015;85;1.04
+ITEM;2359;2;1.08
+ITEM;2389;2;1.12
+ITEM;2361;2;1.13
+ITEM;2177;1;1.01
+ITEM;1152;7;1.11
+ITEM;2037;62;1.00
+ITEM;1158;4;1.09
+ITEM;2040;51;1.08
+ITEM;502;1;1.09
+ITEM;212;79;1.05
+ITEM;1160;3;0.99
+ITEM;2020;61;1.11
+ITEM;2003;59;1.02
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;72;1.10
+SKILL;213;1.38
+SKILL;64;1.09
+SKILL;11;0.93
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.2;Ship_data_(assault_cruiser_10).txt
+SHIP;1;1.2;ship_data_(Mining_barge_10).txt
+SHIP;1;1.05;ship_data_(support_escort_1).txt
+SHIP;2;0.93;ship_data_(excavation_carrier_1).txt
+SHIP;3;1.05;ship_data_(excavation_frigate_1).txt
+SHIP;4;0.97;ship_data_(battle_shuttle_1).txt
+SHIP;5;1.06;ship_data_(recon_cruiser_1).txt
+SHIP;6;1.04;ship_data_(excavation_frigate_1).txt
+SHIP;7;0.97;ship_data_(battle_frigate_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

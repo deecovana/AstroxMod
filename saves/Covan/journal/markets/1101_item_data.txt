@@ -1,0 +1,8 @@
+PLAYER;-QTY;4;1;3654.777;Biomate University;Void Starcross;1h 29m 32s ;5372.518
+PLAYER;-QTY;3;1;3674.196;Biomate University;Void Starcross;1h 35m 37s ;5737.911
+PLAYER;+QTY;5;2;3688.882;Biomate University;Void Starcross;2h 16m 57s ;8217.479
+NPC;+QTY;16;8;2290.714;Dreamstar;Gendaria;3h 40m 0s ;13200.43
+NPC;+STOCK;13;8;3560.594;Biomate University;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;16;9;3112.354;StarShepards Headquarters;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;17;10;1617.852;StarShepards Headquarters;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;16;11;3558.831;Biomate University;Void Starcross;3h 44m 49s ;13489.92

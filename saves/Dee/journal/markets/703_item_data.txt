@@ -1,0 +1,5 @@
+NPC;-QTY;37;-19;3819.844;Mazu Starship;Volox;3h 11m 6s ;11466.38
+NPC;+STOCK;55;21;4909.15;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;172;21;4887.708;StarShepards Headquarters;Void Starcross;3h 11m 8s ;11468.65
+NPC;+STOCK;64;21;5363.42;Proctors Center;Void Starcross;3h 11m 8s ;11468.65
+NPC;+LOCAL;25;1;5606.969;Rendo Labs;Entropy;5h 35m 55s ;20155.75

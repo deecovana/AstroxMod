@@ -1,0 +1,57 @@
+//;LOG DATA FILE (Astrox Imperium)
+SELL;240;Electron Orb;1.20;287.0399;85064.7867431641;Biomate University;Void Starcross;6h 29m 40s 
+SELL;72;Xenox Ore;10.18;732.8875;84777.7468261719;Biomate University;Void Starcross;6h 29m 37s 
+SELL;240;Electron Orb;1.20;287.0399;82805.5863535404;Biomate University;Void Starcross;6h 31m 8s 
+SELL;72;Xenox Ore;10.18;732.8875;82518.5464365482;Biomate University;Void Starcross;6h 31m 0s 
+SELL;225;Quazor Ore;28.00;6299.4200;134725.857421875;Holosynth Industries;Rats Of Mortalis;5h 44m 28s 
+SELL;216;Adamyte Ore;14.92;3221.7100;128526.437011719;Holosynth Industries;Rats Of Mortalis;5h 42m 7s 
+SELL;36;Adamyte Ore;16.78;604.0284;126935.729687929;Acrondia Hub;Temple Gates;5h 18m 12s 
+SELL;214;Adamyte Ore;0.79;169.7020;104034.840405703;Crystalis Broadcasting;Jermicus;5h 5m 10s 
+SELL;1;Improved Light Laser;2,467;2467.0870;82829.5120267868;Biomate University;Void Starcross;4h 29m 2s 
+SELL;1;Basic Small Miner;900;900.1277;80362.4246244431;Biomate University;Void Starcross;4h 28m 42s 
+SELL;315;Adamyte Ore;20.66;6509.4120;79625.3041992188;Proctors Center;Void Starcross;4h 15m 57s 
+SELL;2;Basic Light Beam;589;1178.7820;56904.3562254906;Biomate University;Void Starcross;3h 57m 48s 
+SELL;2;Improved Small Beam;1,829;3658.6030;60255.5741209984;Biomate University;Void Starcross;3h 56m 23s 
+BUY;2;Basic Light Beam;931;1,861;23782.3667571545;Biomate University;Void Starcross;3h 23m 0s 
+BUY;2;Improved Small Beam;2,897;5,794;26744.035556078;Biomate University;Void Starcross;3h 21m 18s 
+SELL;1;Advanced Light Miner;4,703;4703.0000;25058.0306732655;Biomate University;Void Starcross;3h 14m 13s 
+BUY;1;Improved Small Miner;4,913;4,913;20355.0311615467;Biomate University;Void Starcross;3h 14m 4s 
+SELL;3;Basic SRM Launcher;1,226;3678.4480;25267.928134203;Biomate University;Void Starcross;3h 11m 27s 
+BUY;1;Basic SRM Launcher;1,970;1,970;21589.4806244373;Biomate University;Void Starcross;3h 11m 18s 
+BUY;200;Basic Missile;7.81;1,562;16099.8383891582;Biomate University;Void Starcross;2h 55m 42s 
+BUY;2;Basic SRM Launcher;1,953;3,905;19601.7133891582;Biomate University;Void Starcross;2h 51m 38s 
+BUY;1;Improved Small Miner;4,881;4,881;16321.2592875957;Biomate University;Void Starcross;2h 33m 49s 
+SELL;372;Kinetic 20mm;1.58;589.0244;21201.9936625957;Biomate University;Void Starcross;2h 29m 18s 
+BUY;180;Explosive 60mm;27.43;4,937;20612.9692485332;Biomate University;Void Starcross;2h 28m 41s 
+SELL;2;Basic 20mm Auto;567;1133.5600;25550.2295024395;Biomate University;Void Starcross;2h 24m 6s 
+SELL;2;Basic Small Laser;2,323;4645.0140;15128.5338237286;Biomate University;Void Starcross;2h 16m 57s 
+BUY;2;Improved Small Laser;5,562;11,124;10483.5201518536;Biomate University;Void Starcross;2h 10m 46s 
+BUY;300;Kinetic 20mm;2.58;774.4;20936.0172221661;Biomate University;Void Starcross;2h 0m 53s 
+SELL;1;Improved 20mm x2 Gun;2,634;2633.8470;13390.3715922832;Biomate University;Void Starcross;1h 45m 11s 
+BUY;2;Basic 20mm Auto;955;1,909;10756.5249125957;Biomate University;Void Starcross;1h 44m 50s 
+BUY;60;Kinetic 20mm;2.56;153.5;12665.5448100567;Biomate University;Void Starcross;1h 42m 24s 
+BUY;60;Kinetic 20mm;2.53;151.7;12819.0236918926;Biomate University;Void Starcross;1h 41m 58s 
+SELL;582;Basic 20mm;0.59;340.8482;12970.7625834942;Biomate University;Void Starcross;1h 36m 36s 
+BUY;1;Basic Small Laser;3,674;3,674;12629.9143779278;Biomate University;Void Starcross;1h 35m 37s 
+SELL;60;Kinetic 20mm;1.56;93.8730;16304.1106669903;Biomate University;Void Starcross;1h 34m 53s 
+SELL;1;Basic 20mm Auto;577;577.0856;16210.237673521;Biomate University;Void Starcross;1h 34m 45s 
+BUY;1;Basic Small Laser;3,655;3,655;15636.752102375;Biomate University;Void Starcross;1h 29m 32s 
+SELL;60;Basic 20mm;0.61;36.4650;23361.529446125;Biomate University;Void Starcross;1h 21m 58s 
+BUY;60;Kinetic 20mm;2.56;153.5;23325.0644459724;Biomate University;Void Starcross;1h 21m 41s 
+SELL;93;Adamyte Ore;0.79;73.7490;23478.5433278084;Biomate University;Void Starcross;1h 19m 57s 
+SELL;242;Adamyte Ore;0.79;191.9060;15615.1443346739;Biomate University;Void Starcross;0h 44m 0s 
+SELL;1;Basic Active Scanner;681;680.8984;17323.8883666992;Biomate University;Void Starcross;0h 23m 28s 
+SELL;2;Basic Light Miner;1,903;3806.7350;16642.9899902344;Biomate University;Void Starcross;0h 23m 20s 
+SELL;1;Basic Light Laser;640;640.1382;12836.2553710938;Biomate University;Void Starcross;0h 22m 38s 
+BUY;642;Basic 20mm;1.02;657.6;13006.1171875;Biomate University;Void Starcross;0h 17m 58s 
+BUY;1;Basic 20mm Auto;971;971.1;13663.6857299805;Biomate University;Void Starcross;0h 15m 29s 
+BUY;1;Improved Cargo Expansion;7,819;7,819;14634.7432861328;Biomate University;Void Starcross;0h 11m 51s 
+BUY;1;Improved Scan Booster;10,228;10,228;22454.2203369141;Biomate University;Void Starcross;0h 10m 0s 
+BUY;1;Improved 20mm x2 Gun;4,224;4,224;32682.6861572266;Biomate University;Void Starcross;0h 8m 5s 
+BUY;1;Advanced Light Miner;7,890;7,890;38416.3179931641;Biomate University;Void Starcross;0h 5m 58s 
+SELL;1;Protein Bar;4,386;4385.7450;46306.6290283203;Biomate University;Void Starcross;0h 4m 39s 
+SELL;1;Basic Filter;1,282;1281.9670;41920.8839111328;Biomate University;Void Starcross;0h 4m 36s 
+BUY;1;Thermal Controller;1,266;1,266;40638.9169921875;Biomate University;Void Starcross;0h 3m 51s 
+BUY;1;Disposables;1,267;1,267;41904.8862304688;Biomate University;Void Starcross;0h 3m 21s 
+BUY;1;Improved Filter;4,608;4,608;43172.0336914063;Biomate University;Void Starcross;0h 3m 1s 
+BUY;1;Protein Bar;7,220;7,220;47780.388671875;Biomate University;Void Starcross;0h 2m 49s 

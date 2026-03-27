@@ -1,0 +1,144 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Lammassu Hub
+STATION;type;Enterprise Hub
+STATION;owner;Dueemifie Uomi
+STATION;faction;Trade
+STATION;material;station_material_Trade.png
+STATION;color;.70 , 1, .23 , 1
+STATION;level;5
+STATION;icon;lammassu.png
+STATION;filename;sector_63_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-5-0-5-3-2-2-0-2-4-2-3-0-7-2-1-0-0-6-8-1-5-0
+STATION;interior_seed;5-0-30-3
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;False
+SERVICES;hangar;True
+SERVICES;storage;False
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Bottle of Whiskey;0.025,0.0;850;Whiskey;entertain_bar.png;Purchase a bottle of whiskey for each of your fleet members. 2.5% Morale bonus.
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;7;0.54;npc_ship_data_(recon_carrier_1).txt
+MERC;7;1.21;npc_ship_data_(pirate_cruiser_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;2211;1;1.07
+ITEM;2309;2;1.09
+ITEM;2112;667;1.02
+ITEM;61;3383;0.97
+ITEM;2005;71;0.95
+ITEM;1543;4;1.02
+ITEM;2227;1;1.11
+ITEM;724;9;1.00
+ITEM;1160;9;1.02
+ITEM;2282;1;1.05
+ITEM;1700;7;0.98
+ITEM;1120;3;1.11
+ITEM;2141;2;1.01
+ITEM;2182;2;1.05
+ITEM;109;179;0.99
+ITEM;323;3767;0.99
+ITEM;202;65;1.09
+ITEM;2172;1;1.05
+ITEM;1105;8;1.13
+ITEM;1162;4;0.96
+ITEM;2172;1;1.11
+ITEM;523;1;1.07
+ITEM;43;1901;0.96
+ITEM;1007;7;1.09
+ITEM;169;74;0.96
+ITEM;2116;2605;1.13
+ITEM;170;98;1.11
+ITEM;1053;8;1.04
+ITEM;1116;6;1.14
+ITEM;325;3949;1.12
+ITEM;1720;5;1.05
+ITEM;312;3505;1.01
+ITEM;641;6;1.02
+ITEM;2281;2;1.08
+ITEM;214;85;1.12
+ITEM;2141;2;1.12
+ITEM;1460;3;1.00
+ITEM;1521;9;1.09
+ITEM;727;4;1.01
+ITEM;1710;5;1.10
+ITEM;1103;9;1.02
+ITEM;2119;2582;1.10
+ITEM;43;1122;1.12
+ITEM;1310;2;0.96
+ITEM;166;92;0.99
+ITEM;62;2912;0.96
+ITEM;1521;9;1.02
+ITEM;1532;8;0.98
+ITEM;1617;5;1.12
+ITEM;1154;5;1.07
+ITEM;1593;8;1.04
+ITEM;1019;3;1.12
+ITEM;4;4194;1.14
+ITEM;2009;65;1.05
+ITEM;2130;2;1.12
+ITEM;2239;2;1.13
+ITEM;1512;6;1.06
+ITEM;2212;2;1.15
+ITEM;1702;3;1.05
+ITEM;1642;9;1.01
+ITEM;2004;67;0.98
+ITEM;1108;6;1.12
+ITEM;2217;1;1.08
+ITEM;2119;3562;1.05
+ITEM;1720;8;1.08
+ITEM;2114;3127;1.01
+ITEM;2353;2;1.09
+ITEM;2116;2000;1.09
+ITEM;2357;2;0.99
+ITEM;303;2422;0.95
+ITEM;1023;5;1.14
+ITEM;2186;1;1.07
+ITEM;2093;2847;0.98
+ITEM;2192;2;1.04
+ITEM;303;2951;1.15
+ITEM;211;81;1.12
+ITEM;2116;3808;1.11
+ITEM;1624;6;1.09
+ITEM;2113;1366;1.06
+ITEM;2389;2;1.00
+ITEM;2334;1;0.96
+ITEM;1111;7;1.02
+ITEM;1025;5;1.04
+ITEM;1156;4;1.10
+ITEM;1622;9;1.12
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;64;1.72
+SKILL;221;1.96
+SKILL;24;1.64
+SKILL;36;1.26
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.96;ship_data_(support_cruiser_1).txt
+SHIP;2;0.93;ship_data_(pirate_frigate_1).txt
+SHIP;3;1.01;ship_data_(pirate_shuttle_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

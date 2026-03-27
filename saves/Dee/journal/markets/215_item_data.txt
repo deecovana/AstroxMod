@@ -1,0 +1,12 @@
+NPC;+STOCK;243;149;123.4273;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;+PRICE;0;0;281.6512;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
+NPC;+LOCAL;150;135;50.505;Biomate University;Void Starcross;2h 5m 25s ;7525.863
+NPC;+STOCK;299;149;48.58678;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;-LOCAL;90;0;181.041;Astrox Security Patrol;Felishar;3h 28m 20s ;12500.18
+NPC;+LOCAL;150;79;50.505;Biomate University;Void Starcross;3h 40m 14s ;13214.13
+NPC;+LOCAL;150;70;50.505;Biomate University;Void Starcross;4h 48m 51s ;17331.44
+NPC;+LOCAL;150;139;50.505;Biomate University;Void Starcross;6h 6m 44s ;22004.29
+NPC;+PRICE;117;0;133.2867;SimKitten;Kolkax Prime;6h 14m 52s ;22492.41
+NPC;-LOCAL;0;0;245.7178;Horizons;Gate of Alpharis;6h 31m 35s ;23495.41
+NPC;-LOCAL;0;0;253.6613;Horizons;Gate of Alpharis;6h 37m 57s ;23877.8
+NPC;-LOCAL;0;0;260.8278;Horizons;Gate of Alpharis;6h 42m 43s ;24163.49

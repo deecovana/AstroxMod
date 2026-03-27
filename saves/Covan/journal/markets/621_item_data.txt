@@ -1,0 +1,8 @@
+PLAYER;-QTY;8;1;4608.355;Biomate University;Void Starcross;0h 3m 1s ;181.429
+NPC;+STOCK;11;3;4544.538;Biomate University;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;0;99;6584.055;Biomate University;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;12;3;5016.726;Starbase Corporate Center;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;7;3;6557.808;Proctors Center;Void Starcross;3h 44m 48s ;13488.87
+NPC;+STOCK;12;4;4464.359;Biomate University;Void Starcross;3h 44m 49s ;13489.92
+NPC;+STOCK;0;99;6605.231;Biomate University;Void Starcross;3h 44m 49s ;13489.92
+NPC;+PRICE;7;0;4697.283;Horizons;Gate of Alpharis;6h 0m 19s ;21619.05

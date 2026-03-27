@@ -1,0 +1,96 @@
+[s:30][c:yellow]Proctors Center[/c][/s]
+Patrol Annex Station
+Kandace
+Law
+[c:lime]Dock fee 25[/c]
+Timestamp: 11544.59
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Drone Command Bay
+Improved Drone Command Bay
+Advanced Drone Command Bay
+Premium Drone Command Bay
+Prototype Drone Command Bay
+[c:orange]DEMAND[/c]
+Adamyte Ore
+Gradeon Ore
+Quazor Ore
+Lokken Ore
+Torim Ore
+Plasite Ore
+Dynex Ore
+Belasite Ore
+Xenox Ore
+Zai Ore
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Impact Damage Resistance
+Energy Damage Resistance
+Explosive Damage Resistance
+Beam Focal Range
+University Academic
+Miner Harvest Calibration
+Beam Advanced Systems
+Salvager Energy Optimization
+Launcher Energy Optimization
+Market Auditor
+
+
+<Station Missions>
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Entertainer Padta Nidoe</i></color> in <color='cyan'>Arch of Mori</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>General Patu Nortissaw</i></color> in <color='cyan'>Bitcola</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Electronic Fragment</color> in <color='cyan'>Beacon Spita</color> and return with <color='yellow'>7</color> to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+[c:lime]RECOVER[/c]
+Recover a light quantity of <color='yellow'>2</color> <color='yellow'>Basic Shield Boosters</color> in <color='cyan'>Entropy</color>, and return to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
+
+
+
+<Station Ships>
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+BE-1 Gabriel / Escort    (Battle)
+BE-2 Raphael / Escort    (Battle)
+BU-1 Gunship / Utility    (Battle)
+BU-2 Sniper / Utility    (Battle)
+BF-1 Missile Enforcer / Frigate    (Battle)
+
+
+<Station Offices>
+(Tutorial Office) Camera Basics 
+[c:grey](Ratamaq Guru)[/c]
+
+(Tutorial Office) Navigation Basics 
+[c:grey](Arji Darn)[/c]
+
+(Tutorial Office) Life Support Basics 
+[c:grey](Carter Burke)[/c]
+
+(Tutorial Office) Basic Drones 
+[c:grey](Daniel Traek)[/c]
+

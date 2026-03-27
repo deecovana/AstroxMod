@@ -1,0 +1,172 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Desban
+STATION;type;Evidence Holding Facility
+STATION;owner;Qajel Fonsalea
+STATION;faction;Law
+STATION;material;station_material_Law.png
+STATION;color;0 , .60 , 1 , 1
+STATION;level;6
+STATION;icon;desban.png
+STATION;filename;sector_42_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-8-0-3-1-2-3-1-5-2-2-0-90
+STATION;interior_seed;5-9-45-7
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;False
+SERVICES;garage;False
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+ENTERTAINMENT;Private Party;0.10,0.0;2700;Party;entertain_bar.png;Throw a private party at the local station pub for your entire fleet. 10% Morale Boost.
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;8;1.8;npc_ship_data_(recon_battlecruiser_5).txt
+MERC;5;0.76;npc_ship_data_(support_utility_1).txt
+MERC;4;1.31;npc_ship_data_(support_carrier_1).txt
+MERC;9;1.43;npc_ship_data_(support_carrier_1).txt
+MERC;1;1.75;npc_ship_data_(excavation_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;1582;9;1.16;0
+ITEM;2281;2;1.18;290150
+ITEM;209;155;1.00;11.75444
+ITEM;2114;4317;1.02;12.6239
+ITEM;720;17;1.10;12.6239
+ITEM;1541;9;1.14;12.6239
+ITEM;1523;18;1.11;12.6239
+ITEM;2015;196;1.11;12.6239
+ITEM;3;6502;0.99;12.6239
+ITEM;1603;8;1.11;12.6239
+ITEM;168;225;0.98;12.6239
+ITEM;1523;4;1.13;12.6239
+ITEM;1161;8;1.07;12.6239
+ITEM;1023;6;1.06;12.6239
+ITEM;2004;77;1.08;12.6239
+ITEM;502;4;1.00;12.6239
+ITEM;170;165;0.99;12.6239
+ITEM;2353;2;1.08;12.6239
+ITEM;1020;15;1.11;12.6239
+ITEM;2232;1;1.09;2.843582E+07
+ITEM;2186;2;1.00;2.843582E+07
+ITEM;1060;16;1.09;2.843582E+07
+ITEM;1752;15;1.04;2.843582E+07
+ITEM;510;2;1.02;2.843582E+07
+ITEM;512;1;1.03;2.843582E+07
+ITEM;1591;2;0.98;2.843582E+07
+ITEM;2119;3683;1.03;2.843582E+07
+ITEM;1021;10;1.14;2.843582E+07
+ITEM;2328;1;0.99;2.843582E+07
+ITEM;1020;3;1.18;2.843582E+07
+ITEM;1056;11;1.00;2.843582E+07
+ITEM;63;3989;1.11;30.54887
+ITEM;2377;3;1.08;138750.8
+ITEM;642;2;1.18;40771.34
+ITEM;1522;17;1.12;40771.34
+ITEM;642;8;1.08;40771.34
+ITEM;2377;4;1.07;40771.34
+ITEM;2016;85;1.05;40771.34
+ITEM;608;10;1.06;40771.34
+ITEM;1643;6;1.15;240513.7
+ITEM;1022;11;1.13;240513.7
+ITEM;2252;1;1.07;240513.7
+ITEM;2012;178;0.98;240513.7
+ITEM;2166;2;1.12;374119.6
+ITEM;661;9;1.13;7936.578
+ITEM;2176;1;1.12;732981.1
+ITEM;1017;8;1.15;15725.27
+ITEM;2206;1;1.06;2429534
+ITEM;2330;2;1.11;57475.81
+ITEM;2305;1;1.13;57475.81
+ITEM;1065;5;1.02;57475.81
+ITEM;5;1316;1.14;57475.81
+ITEM;1013;16;1.04;57475.81
+ITEM;2089;1406;1.01;57475.81
+ITEM;2009;52;1.06;57475.81
+ITEM;1460;6;1.05;57475.81
+ITEM;2234;3;0.96;57475.81
+ITEM;642;6;1.01;57475.81
+ITEM;1161;9;1.10;57475.81
+ITEM;1581;3;1.08;13166.83
+ITEM;1203;2;1.03;13166.83
+ITEM;2304;2;1.01;72136.03
+ITEM;1103;4;1.10;72136.03
+ITEM;1019;7;1.10;72136.03
+ITEM;2216;2;1.13;2719726
+ITEM;1532;13;1.10;22760.11
+ITEM;1060;12;1.06;22760.11
+ITEM;2006;79;1.01;22760.11
+ITEM;1101;3;1.09;22760.11
+ITEM;2252;1;1.17;22760.11
+ITEM;1009;3;1.15;4472.068
+ITEM;1401;12;1.18;4826.358
+ITEM;202;67;1.17;4826.358
+ITEM;661;8;1.02;7222.152
+ITEM;209;233;1.11;7222.152
+ITEM;1061;4;1.03;7222.152
+ITEM;2132;1;1.06;7222.152
+ITEM;2250;3;1.08;772643.5
+ITEM;212;78;1.06;772643.5
+ITEM;1460;3;1.12;772643.5
+ITEM;212;216;1.10;772643.5
+ITEM;2327;2;1.03;772643.5
+ITEM;2232;2;1.12;772643.5
+ITEM;1503;13;1.13;772643.5
+ITEM;2277;3;1.02;772643.5
+ITEM;42;4061;1.09;772643.5
+ITEM;1303;8;1.03;4087.65
+ITEM;2111;2859;1.01;4087.65
+ITEM;1611;14;1.15;3640.746
+ITEM;623;9;1.12;3640.746
+ITEM;2015;89;1.06;3640.746
+ITEM;661;8;0.98;3640.746
+ITEM;623;2;0.96;3640.746
+ITEM;169;195;1.03;13.9421
+ITEM;1551;2;1.11;8789.379
+ITEM;1561;9;0.99;8789.379
+ITEM;2302;3;0.96;8789.379
+ITEM;61;1256;1.10;8789.379
+ITEM;1160;10;1.11;8789.379
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;212;1.96
+SKILL;61;1.92
+SKILL;228;0.94
+SKILL;15;1.02
+SKILL;27;1.86
+SKILL;64;1.97
+SKILL;224;0.53
+SKILL;42;1.27
+SKILL;11;1.49
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.00;ship_data_(excavation_cruiser_1).txt
+SHIP;2;1.03;ship_data_(excavation_frigate_1).txt
+SHIP;3;1.06;ship_data_(pirate_carrier_1).txt
+SHIP;4;0.98;ship_data_(support_utility_1).txt
+SHIP;5;0.92;ship_data_(pirate_utility_1).txt
+SHIP;6;1.06;ship_data_(battle_shuttle_1).txt
+SHIP;7;1.00;ship_data_(support_carrier_1).txt
+SHIP;8;0.91;ship_data_(pirate_escort_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

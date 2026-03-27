@@ -1,0 +1,149 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Holosynth Industries
+STATION;type;Scientific Analysis Facility
+STATION;owner;Enolindo Yelbo
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .46, .19, 1
+STATION;level;5
+STATION;icon;ad_image_5.png
+STATION;filename;sector_17_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-4-1-4-6-3-5-0-2-5-3-4-0-4-9-2-2-1-7-5-2-2-90
+STATION;interior_seed;3-1-30-5
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;21028.92
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;True
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;5;1.52;npc_ship_data_(recon_escort_1).txt
+MERC;2;1.93;npc_ship_data_(battle_shuttle_1).txt
+MERC;4;1.80;npc_ship_data_(support_shuttle_1).txt
+MERC;3;1.16;npc_ship_data_(battle_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;2230;2;1.04;19505810.00
+ITEM;1;205;1.14;18.11
+ITEM;1522;4;1.11;10620.79
+ITEM;1512;9;1.02;41289.65
+ITEM;1652;7;1.01;49473.80
+ITEM;1210;4;0.98;12769.91
+ITEM;1552;2;1.05;26366.52
+ITEM;1060;9;1.10;13456.49
+ITEM;510;1;0.99;17236.22
+ITEM;1721;12;0.82;3208.74
+ITEM;1722;31;0.75;2948.67
+ITEM;1720;12;0.67;2651.45
+ITEM;1103;2;1.11;2351.15
+ITEM;2353;2;1.06;49205.41
+ITEM;1202;3;1.00;1897.47
+ITEM;1201;9;1.14;2101.46
+ITEM;8;0;1.34;192.49
+ITEM;603;9;1.12;221532.00
+ITEM;661;3;1.09;7378.52
+ITEM;218;68;1.15;55.39
+ITEM;2003;78;1.15;50.25
+ITEM;7;0;1.25;99.48
+ITEM;52;1214;1.14;16.33
+ITEM;2111;4747;1.01;4.00
+ITEM;2117;1022;0.97;18.85
+ITEM;522;-99;1.07;39043.68
+ITEM;522;3;1.11;40446.04
+ITEM;2115;2931;1.03;16.21
+ITEM;313;7578;1.03;210.01
+ITEM;313;-99;1.03;210.01
+ITEM;2;0;1.28;23.76
+ITEM;1056;4;1.14;9525.12
+ITEM;1641;2;1.11;15592.01
+ITEM;1571;6;1.09;6553.78
+ITEM;1581;2;0.96;11274.07
+ITEM;2305;1;1.11;155508.30
+ITEM;621;8;1.00;4155.11
+ITEM;1105;9;1.06;4603.24
+ITEM;1205;9;1.00;4176.50
+ITEM;1616;4;0.97;5657.93
+ITEM;1501;5;1.09;2826.09
+ITEM;1591;3;1.06;3856.18
+ITEM;41;2172;1.04;3.14
+ITEM;511;2;1.08;57122.19
+ITEM;521;2;1.14;41497.80
+ITEM;209;98;0.97;10.85
+ITEM;4;0;1.30;65.82
+ITEM;107;144;0.98;3.79
+ITEM;2229;1;0.96;27743070.00
+ITEM;2225;1;1.04;1866056.00
+ITEM;6;0;1.37;91.11
+ITEM;2206;3;1.04;2275678.00
+ITEM;2206;-99;1.12;2443678.00
+ITEM;1020;7;1.13;50842.79
+ITEM;2302;1;0.97;993555.50
+ITEM;1653;4;1.09;219362.30
+ITEM;1553;5;1.03;105247.70
+ITEM;1503;9;1.03;44593.77
+ITEM;2278;1;1.10;2623357.00
+ITEM;2161;1;1.12;12567.49
+ITEM;3;2687;1.03;34.36
+ITEM;503;2;0.96;35187.18
+ITEM;53;4073;1.04;17.66
+ITEM;513;2;1.14;60172.35
+ITEM;2092;3465;1.03;988.62
+ITEM;2094;1286;0.98;770.51
+ITEM;217;90;1.08;267.43
+ITEM;5;4207;1.05;56.60
+ITEM;310;1111;1.12;65.98
+ITEM;9;0;1.27;256.40
+ITEM;10;0;1.35;563.23
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;226;1.00
+SKILL;230;0.66
+SKILL;32;1.44
+SKILL;43;1.59
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;132;140;994587;SALVAGE#17#23#sector_61.txt#sector_0_station_2.txt#null#null#null#null;Dismantle <color='yellow'>Special Derelict</color> in <color='cyan'>Ambervellis Drea</color> and return with <color='yellow'>17</color> to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>;0;<i>Courib Faega</i> has discovered a light cache of <color='yellow'>Special Derelict</color> in <color='cyan'>Ambervellis Drea</color>. He is currently unable to dismantle the <color='yellow'>Special Derelict</color>, and has requested a pilot to head over and salvage the <color='yellow'>17</color> <color='yellow'>Special Derelict</color>. Once complete, head over and meet <i>Courib Faega</i> at the StarGypsy Warehouse station located in the <color='cyan'>Void Starcross</color>.;14945;6125
+MISSION;131;140;897396;SALVAGE#8#20#sector_35.txt#sector_77_station_0.txt#null#null#null#null;Salvage <color='yellow'>Special Junk</color> in <color='cyan'>Felishar</color> and return with <color='yellow'>8</color> to Lacuna Bandits in <color='cyan'>Ballast Crow</color>;0;While collecting some junk in the <color='cyan'>Felishar</color> system, <i>Vidae Akfar</i> discovered a light haul of <color='yellow'>8</color> <color='yellow'>Special Junk</color>. Unable to collect the material alone, <i>Vidae Akfar</i> has requested that a capable pilot salvage the <color='yellow'>Special Junk</color> and drop it off at the Lacuna Bandits station located in the <color='cyan'>Ballast Crow</color>.;11712;4000
+MISSION;50;120;393634;SCAN_STRUCTURE#sector_78_station_0.txt#sector_40.txt#Industrial Machine#structure_machine_1.txt#1#null#null#null;Locate and scan the <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Dogstar Prime</color> and return to Tella's in <color='cyan'>Bitcola</color>;0;A recent construction permit was delivered by the Alpha faction. They are demanding a survey of a new structure that has been constructed by <i>Zaewhi Foejel</i>. Scan the <color='yellow'>Industrial Machine</color> structure and return back to the Tella's located in the <color='cyan'>Bitcola</color> with the survey data. Once the data is verified, payment will be rendered.;16447;5100
+MISSION;81;120;610133;RECOVER#4#2061#sector_17.txt#sector_95_station_0.txt#null#null#null#null;Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Rats Of Mortalis</color> sector, recover the <color='yellow'>4</color> <color='yellow'>Electrical and Optical Harness</color> and return to Star Shepards Hub in <color='cyan'>Temple Gates</color>;2;<i>Zilsqi Becktaam</i> has lost track of a shipment crate from his last haul. It has been reported found in <color='cyan'>Rats Of Mortalis</color>. In an effort to save time, <i>Zilsqi Becktaam</i> has sub-contracted the task of returning the light shipment to Star Shepards Hub in <color='cyan'>Temple Gates</color>. The Civil faction is aware of the situation and has sent a representative to Star Shepards Hub.;9150;938
+MISSION;151;120;372566;FABRICATE#9#2456#sector_0_station_3.txt#sector_77_station_0.txt#null#null#null#null;Produce a light container of <color='yellow'>9</color> <color='yellow'>LED Lights</color> at the StarShepards Headquarters fabricator in <color='cyan'>Void Starcross</color>;0;The Alpha Faction has commissioned a production liaison, <i>Sipbor Tijantim</i> at Lacuna Bandits. After an audit, <color='yellow'>9</color> items of <color='yellow'>LED Lights</color> were deemed required. Head on over to <color='cyan'>Void Starcross</color> and manufacture these <color='yellow'>LED Lights</color> at StarShepards Headquarters.;11250;2500
+MISSION;112;600;925114;KILL_RAIDERS#sector_95_station_0.txt#sector_56.txt#3#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Destroy <color='yellow'>3 Raiders</color> in <color='cyan'>Hunu</color> and return to Star Shepards Hub in <color='cyan'>Temple Gates</color>;0;A large Raider gang has been seen lurking around in <color='cyan'>Hunu</color>. Their leader, <i>Nineco Samoleah</i>, is a wanted criminal and the Alpha faction has requested a bounty on <i>Nineco Samoleah</i> and his crew. Travel to the <color='cyan'>Hunu</color> and clear out the <color='yellow'>3 Raiders</color>, level 10 that have been lurking around. Dock at the Star Shepards Hub station in <color='cyan'>Temple Gates</color> when complete.;61488;21000
+MISSION;61;140;520972;HARVEST#90#1#sector_58.txt#sector_0_station_3.txt#null#null#null#null;Mine <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Lins</color> and return with <color='yellow'>90</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>;0;While collecting some junk in the <color='cyan'>Lins</color> system, <i>Johpei Wherib</i> discovered a light haul of <color='yellow'>90</color> <color='yellow'>Special Adamyte Ore</color>. Unable to collect the material alone, <i>Johpei Wherib</i> has requested that a capable pilot harvest the <color='yellow'>Special Adamyte Ore</color> and drop it off at the StarShepards Headquarters station located in the <color='cyan'>Void Starcross</color>.;13481;5100
+MISSION;53;150;778074;SCAN_STRUCTURE#sector_77_station_0.txt#sector_58.txt#Shlick Diamond's#structure_raider_hideout.txt#1#null#null#null;Scan the <color='yellow'>Shlick Diamond's</color> structure in <color='cyan'>Lins</color> and return to Lacuna Bandits in <color='cyan'>Ballast Crow</color>;0;Space rats have infested the <color='yellow'>Shlick Diamond's</color> structure over in <color='cyan'>Lins</color>. <i>Xenfa Oiinola</i> has been trying to get help with the infestation, but until the structure is scanned, Alpha union members are not going to come. Head back to the Lacuna Bandits station located in the <color='cyan'>Ballast Crow</color> with a scan report.;14671;5550
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.06;ship_data_(pirate_carrier_1).txt
+SHIP;2;0.93;ship_data_(support_escort_1).txt
+SHIP;3;0.93;ship_data_(battle_cruiser_1).txt
+SHIP;4;1.05;ship_data_(recon_escort_1).txt
+SHIP;5;0.93;ship_data_(transport_frigate_1).txt
+SHIP;6;0.91;ship_data_(pirate_shuttle_1).txt
+SHIP;7;1.01;ship_data_(support_utility_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+

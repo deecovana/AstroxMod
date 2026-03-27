@@ -1,0 +1,184 @@
+[s:30][c:yellow]Lammassu Financial[/c][/s]
+Market Center
+Jelegus
+Trade
+[c:lime]Dock fee 25[/c]
+Timestamp: 14994.58
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+ECM Magweb
+ECM Target Scrambler
+ECM Sensors Jammer
+ECM Mod Disruptor
+[c:orange]DEMAND[/c]
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Industrial Salvager  19 - z12,437
+Advanced Afterburner  14 - z6,071
+Advanced Scan Emitter  9 - z6,071
+Metal Brackets  222 - z43
+Basic Single Launcher  10 - z2,203
+Assorted Gaskets  246 - z15
+Scrap  5378 - z12
+Utility Salvager  10 - z5,265
+Advanced Energy Armor  14 - z47,918
+Junk  7898 - z10
+Improved Small Laser  16 - z3,411
+Protein Bar  4 - z3,411
+Rubber Tubing  182 - z9
+Advanced Mass Reduction  6 - z9
+Kinetic Missile  6768 - z24
+Rubber Tubing  211 - z21
+Basic Small Miner  14 - z2,315
+Basic Charged Cell  3621 - z12
+Protein Bar  11 - z9,832
+Steelium Beams  196 - z196
+Kinetic 20mm  4944 - z4
+Basic Engine Core  11 - z7,827
+Basic 20mm  2991 - z7,827
+Colored Dye  4260 - z180
+Containment Unit  6 - z180
+Basic Turn Thrust  19 - z2,527
+Explosive Missile Specs  4 - z32,210
+Iron Coring  171 - z32,210
+Advanced Light Miner  13 - z22,329
+Basic 20mm  4151 - z2
+Basic Default Tractor  14 - z1,119
+Lubricant  201 - z33
+Mechanical Switch  182 - z52
+Improved Shield Extender  13 - z10,556
+Basic Default Tractor  16 - z1,543
+Basic Turn Thrust  15 - z2,522
+Advanced Filter  7 - z27,045
+Advanced Light Miner  3 - z27,045
+Advanced Scan Emitter  17 - z9,961
+Improved Light Miner  18 - z4,508
+Cleaning Chemicals  3323 - z4,508
+Improved Cargo Expansion  16 - z5,786
+Utility Salvager  16 - z7,185
+Temperature Genie  13 - z50,682
+Quazor Ore  8580 - z17
+Improved Scan Booster  5 - z17
+Basic Triple Launcher  4 - z17
+Basic Thruster  18 - z1,700
+Improved 20mm Gun  13 - z7,047
+Improved Single Launcher  7 - z7,047
+Improved Thruster  19 - z4,512
+Nuts And Bolts  86 - z4,512
+Improved Explosive Armor  13 - z25,233
+Basic Shield Extender  16 - z4,291
+Basic Targeting System  19 - z890
+Hydrogen  182 - z890
+Improved Default Tractor  9 - z890
+Thermal Controller  8 - z890
+Basic Energy Armor  9 - z890
+Advanced Energy Armor  17 - z53,590
+Advanced Filter  5 - z53,590
+Kinetic 20mm  5118 - z5
+Cleaning Chemicals  1076 - z5
+Temperature Genie  10 - z44,230
+Basic Light Beam  15 - z1,063
+Advanced Light Laser  13 - z15,113
+Basic Light Laser  18 - z3,331
+Advanced Shield Generator  9 - z3,331
+Improved Shield Extender  13 - z5,634
+Improved Scan Emitter  13 - z1,994
+Wine  3654 - z34
+Whiskey  4118 - z90
+Kitchen Appliances  4504 - z229
+Improved Turn Thrust  9 - z229
+Basic Targeting System  16 - z1,706
+Improved Light Laser  11 - z2,790
+Explosive 60mm  2368 - z2,790
+Improved Mass Reduction  17 - z3,968
+Improved Single Launcher  8 - z3,968
+Improved Cargo Expansion  19 - z4,062
+Improved Energy Armor  14 - z15,903
+Improved Light Beam  20 - z888
+Mechanical Switch  194 - z64
+Explosive 20mm  2892 - z6
+Basic 20mm Auto  5 - z6
+Capacitors  78 - z6
+Basic Mass Reduction  12 - z1,096
+Advanced Cargo Expansion  15 - z36,179
+Basic Food Rations  5633 - z127
+Advanced Single Launcher  5 - z127
+Advanced Light Laser  16 - z13,157
+Basic Filter  7 - z1,680
+Ham Sandwich  5 - z224,708
+Basic Missile  5965 - z19
+Basic Charged Cell  3849 - z6
+Basic Cargo Expansion  17 - z4,142
+Basic Energy Generator  2 - z4,142
+Iron Coring  330 - z3
+Advanced Shield Extender  18 - z30,917
+Advanced Thruster  20 - z13,148
+Industrial Salvager  17 - z14,643
+Oxygen  309 - z2
+
+
+<Station University Skills>
+Market Auditor
+Market Distributor
+Merc Negotiations
+Merc Prospector
+Storage Accountant
+University Discount
+Refinery Accountant
+Max Mission Contracts
+Mission Negotiations
+Ship Engine Burner
+Tractor Energy Optimization
+Tractor Maintenance
+
+
+<Station Missions>
+[c:lime]HARVEST[/c]
+Mine <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>66</color> to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]TRANSPORT[/c]
+Transport a light shipment of <color='yellow'>3</color> <color='yellow'>Premium Thrusters</color> from ValueStar in <color='cyan'>Hunu</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+
+
+<Station Ships>
+MB-2 Mining Carrier / Mining Barge    (Excavation)
+EE-8 Vagabond / Escort    (Excavation)
+F-3 Behemoth / Super Freighter    (Transport)
+AF-6 Nova / Frigate    (Battle)
+AC-5 Warbringer / Cruiser    (Battle)
+SF-8 Hulk / Super Freighter    (Transport)
+SF-10 Hercules / Super Freighter    (Transport)
+SF-6 Immortal / Super Freighter    (Transport)
+SF-1 Mule / Super Freighter    (Transport)
+TS-1 Dexta / Shuttle    (Transport)
+TE-1 Phoebus / Escort    (Transport)
+TF-2 Hexalon / Freighter    (Transport)
+TU-1 Jonas / Utility    (Transport)
+TU-3 Series / Utility    (Transport)
+TU-6 Jacelor / Utility    (Transport)
+SF-2 Kraken / Super Freighter    (Transport)
+
+
+<Station Offices>
+Tutorial Office 
+[c:grey](Fredric Din)[/c]
+

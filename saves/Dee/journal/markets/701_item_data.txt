@@ -1,0 +1,5 @@
+NPC;+STOCK;135;17;3742.382;Biomate University;Void Starcross;0h 43m 37s ;2617.443
+NPC;-QTY;37;-19;5317.188;Vo Industries;Brimstone;3h 11m 6s ;11466.38
+NPC;+STOCK;137;19;3863.63;Biomate University;Void Starcross;3h 11m 8s ;11468.65
+NPC;-QTY;40;-24;4005.313;Rendo Labs;Entropy;6h 0m 59s ;21659.03
+NPC;+PRICE;93;0;3437.367;Inovex;Goru Populan;6h 14m 52s ;22492.41

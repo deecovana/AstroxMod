@@ -1,0 +1,6 @@
+NPC;+PRICE;36;0;77.6479;Horizons;Gate of Alpharis;1h 49m 22s ;6562.842
+NPC;+PRICE;110;0;82.22598;Monarch Society;Solitudes of Frey;1h 49m 22s ;6562.842
+NPC;+PRICE;108;0;91.55078;Keyworx;Geminey;1h 49m 22s ;6562.842
+NPC;+STOCK;453;108;81.55873;StarGypsy Warehouse;Void Starcross;3h 11m 8s ;11468.65
+NPC;+LOCAL;51;15;75.54987;Horizons;Gate of Alpharis;6h 37m 57s ;23877.8
+NPC;+LOCAL;60;9;72.50001;Horizons;Gate of Alpharis;6h 42m 43s ;24163.49

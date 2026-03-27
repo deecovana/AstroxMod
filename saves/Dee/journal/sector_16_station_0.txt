@@ -1,0 +1,209 @@
+[s:30][c:yellow]Rendo Labs[/c][/s]
+Beam Research Facility
+Bomene Janfonve
+Alpha
+[c:lime]Dock fee 100[/c]
+Timestamp: 20471.11
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Medium Shield Bomb
+Heavy Shield Bomb
+Medium Armor Bomb
+Heavy Armor Bomb
+Light Shield Bomb
+Light Armor Bomb
+Energy Bomb
+Small LS Bomb
+Small Web Field
+Medium Web Field
+Large Web Field
+Spaceframe
+Thermal Systems Package
+Weapon Systems Package
+[c:orange]DEMAND[/c]
+Polymere
+Circuit Board
+Basic Sensor
+Thermal Sensor
+Mechanical Switch
+Fiber Optic Cables
+Capacitors
+Optical Interface
+Regulator
+Battery Core
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Storage
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  157 - z11
+Advanced Regulator  6 - z10,012
+Aluminium Rivets  75 - z47
+Anti-Freeze  5 - z61
+Antimatter 60mm  90 - z123
+Assault x2 Launcher  12 - z3,179
+Assorted Gaskets  45 - z11
+Assorted Springs  49 - z80
+Ball Bearings  130 - z95
+Basic 60mm  95 - z15
+Basic Afterburner  11 - z1,267
+Basic Charged Cell  88 - z8
+Basic Drone Command Bay  18 - z1,535
+Basic Energy Armor  15 - z5,556
+Basic Energy Capacitor (Doc)  11 - z33,421
+Basic Energy Generator  15 - z3,493
+Basic Energy Generator (Doc)  7 - z83,090
+Basic Explosive Armor  17 - z5,109
+Basic Explosive Armor (Doc)  13 - z80,444
+Basic Filter  6 - z6,506
+Basic Impact Armor  19 - z6,576
+Basic Shield Generator  17 - z1,568
+Basic Targeting System  7 - z1,327
+Basic Turn Thrust  13 - z1,611
+Blaster x1 Laser  18 - z651
+Blaster x1 Laser (Doc)  11 - z12,494
+Blaster x2 Laser  10 - z1,560
+Candy Cane  14 - z25
+Candy Corn  13 - z25
+Carbon  14 - z1
+Carbon Fiber  191 - z46
+Chocolate Bars  12 - z16
+Cleaning Chemicals  17 - z43
+Colored Dye  16 - z179
+Concussion Missile  5 - z592
+Containment Unit  2 - z10,612
+Corrosive 20mm  59 - z84
+Disposables  8 - z3,556
+Energy Bomb  60 - z3,728
+Explosive 20mm  4 - z38
+Focused x1 Laser (Doc)  14 - z10,435
+Focused x2 Laser  18 - z1,974
+Fusion 60mm  74 - z94
+Fusion Missile  11 - z107
+Generic Construction Platform  18 - z2,327,891
+Generic Dual 20mm Gun  6 - z808
+Generic Single 20mm Gun  2 - z697
+Gradeon Ore  19 - z27
+Gummy Bears  1 - z23
+Heavy Armor Bomb  30 - z165,468
+Heavy Shield Bomb  25 - z170,717
+Hydrogen  113 - z3
+Improved Afterburner  5 - z2,110
+Improved Armor Exterior (Doc)  10 - z47,262
+Improved Combat Drone  3 - z46,852
+Improved Drone Command Bay  18 - z11,884
+Improved Energy Armor  12 - z15,153
+Improved Energy Generator  5 - z8,101
+Improved Explosive Armor  9 - z12,585
+Improved Explosive Armor (Doc)  18 - z155,884
+Improved Filter  4 - z9,612
+Improved Mass Reduction  6 - z2,142
+Improved Mass Reduction (Doc)  11 - z17,568
+Improved Salvage Drone  27 - z29,752
+Improved Scan Booster  10 - z4,974
+Improved Scan Emitter  6 - z2,350
+Improved Scan Emitter (Doc)  14 - z33,210
+Improved Shield Booster  7 - z7,002
+Improved Shield Generator (Doc)  5 - z34,788
+Improved Targeting System (Doc)  1 - z43,268
+Improved Turn Thrust  2 - z2,031
+Interior Lighting  19 - z187
+Ion Beam Class 1 (Doc)  1 - z26,836
+Junk Part  187 - z79
+Kinetic 20mm  62 - z22
+Kinetic 60mm  78 - z40
+Kinetic Missile  36 - z309
+Kinetics G-series 20mm Gatling  12 - z1,521
+Kinetics G-series 20mm Gun  6 - z2,653
+Kinetics G-series Dual 20mm  9 - z2,473
+Kitchen Appliances  2 - z115
+Large Web Field  63 - z102,524
+Light Armor Bomb  64 - z4,030
+Light Shield Bomb  73 - z4,382
+Light Shield Booster (Doc)  14 - z469,363
+Light Shield Charge  4 - z12,167
+Liquid Coolant  16 - z37
+Lubricant  119 - z25
+Magnetic Quartz  87 - z2
+Mechanical Belts  88 - z67
+Medium Armor Bomb  63 - z17,674
+Medium Mining Drone  29 - z11,717
+Medium Shield Bomb  67 - z17,261
+Medium Web Field  19 - z27,779
+Metal Brackets  175 - z27
+Metal Gears  46 - z17
+Metal Valve  9 - z28
+Micro Leech Drone  25 - z15,467
+Noodles  9 - z10,412
+Nuts And Bolts  155 - z9
+Office Furniture  4 - z72
+Ornament  17 - z371
+Oxygen  10 - z1
+Plastic Caps  84 - z71
+Protein Bar  6 - z4,206
+Pulse Beam Class 2  3 - z4,024
+Pulse x1 Laser  8 - z316
+Pulse x2 Laser  11 - z604
+Reinforced Rubber  179 - z27
+Rubber Tubing  178 - z37
+Rubber Tubing (Doc)  19 - z599
+Salt Crystal  69 - z2
+Salvage Collector 1 (Doc)  7 - z76,636
+Salvage Collector 2  7 - z6,112
+Salvage Collector 2 (Doc)  4 - z144,139
+Scrap Part  119 - z198
+Small Combat Drone  17 - z4,447
+Small Defense Drone  29 - z4,867
+Small LS Bomb  25 - z5,538
+Small Repair Drone  1 - z6,067
+Small Storage Tank  157 - z40
+Small Tractor Drone  9 - z15,467
+Small Web Field  5 - z3,944
+Spaceframe  68 - z862
+Steelium Beam (Doc)  16 - z188
+Steelium Pipes  96 - z20
+Tactical x1 Launcher  4 - z2,731
+Thermal Controller  4 - z3,506
+Thermal Systems Package  60 - z1,667
+Titan Defense Drone  16 - z285,289
+Titan Mining Drone  38 - z197,789
+Titan Salvage Drone  2 - z222,789
+Torpedo Mark II  30 - z144
+Torpedo Mark V  79 - z434
+Torpedo Mark VIII  78 - z514
+Tractor Beam  7 - z12,056
+Uranium Core 60mm  56 - z130
+Water  271 - z0
+Weapon Systems Package  67 - z4,556
+Wrapped Box  18 - z5,394
+
+
+<Station University Skills>
+
+
+<Station Missions>
+[c:lime]SCAN[/c]
+Locate and scan the <color='yellow'>Labor United</color> structure in <color='cyan'>Equalias Val</color> and return to Biomate University in <color='cyan'>Void Starcross</color>
+
+[c:lime]RECOVER[/c]
+Recover a light quantity of <color='yellow'>2</color> <color='yellow'>Spotlights</color> in <color='cyan'>Lins</color>, and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]TRANSPORT[/c]
+Transport a light shipment of <color='yellow'>6</color> <color='yellow'>Improved Turn Thrusts</color> from Star Shepards Hub in <color='cyan'>Temple Gates</color> to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>6</color> to Rendo Labs in <color='cyan'>Entropy</color>
+
+
+
+<Station Ships>
