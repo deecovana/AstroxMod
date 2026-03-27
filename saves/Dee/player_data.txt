@@ -6,7 +6,7 @@ PLAYER;xp;8802.00
 PLAYER;next_level_xp;9100.00
 PLAYER;last_level_xp;5100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;99832.78
+PLAYER;credits;699832.78
 PLAYER;residual_credits;0.00
 PLAYER;skill_points;10
 PLAYER;playtime;18740.02
