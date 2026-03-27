@@ -10,3 +10,13 @@ NPC;+QTY;966;884;46.91321;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+PRICE;3;0;74.53906;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+PRICE;21;0;73.61456;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;932;856;79.3155;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;-QTY;0;-2;72.66352;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;775;676;59.50767;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1894;986;34.00953;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1612;871;77.86496;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1824;914;30.58201;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-62;42.38025;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;29;0;52.93516;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;556;556;43.89424;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;24;0;47.75105;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;2692;798;34.3035;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

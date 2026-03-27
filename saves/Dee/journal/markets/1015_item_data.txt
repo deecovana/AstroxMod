@@ -1,2 +1,4 @@
 NPC;-PRICE;1;0;2709.59;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
 NPC;+STOCK;71;11;2939.404;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;82;11;2859.861;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;63;-8;2978.446;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

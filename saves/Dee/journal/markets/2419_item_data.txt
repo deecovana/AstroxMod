@@ -1,2 +1,7 @@
 NPC;+STOCK;26;2;2456.63;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;33;0;2510.899;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+STOCK;59;2;1953.425;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;28;2;2363.161;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;25;-1;2465.925;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;68;-2;2565.271;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;23;-2;2607.114;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

@@ -7,3 +7,17 @@ NPC;+STOCK;501;189;2.846137;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.
 NPC;+STOCK;1253;207;2.955823;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;726;208;1.466068;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;566;0;1.492521;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;-QTY;0;-53;1.306125;Void Raiders;Corbis Almuni;4h 11m 42s ;15102.06
+NPC;+STOCK;1435;235;1.543181;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;814;180;1.048609;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1473;220;2.943701;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;340;218;2.781483;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;32;0;2.78299;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;106;-180;3.061125;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;0;-122;2.899125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;209;0;2.827693;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;174;174;2.81995;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;168;0;2.606797;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;1004;190;1.05975;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;987;0;2.672558;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;239;207;2.779481;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

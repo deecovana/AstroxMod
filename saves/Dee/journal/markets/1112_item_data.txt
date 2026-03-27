@@ -8,3 +8,10 @@ NPC;+STOCK;17;11;1324.807;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.13
 NPC;+STOCK;79;8;2290.417;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;13;0;2562.27;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;30;9;1711.125;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;63;11;2728.96;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;25;8;1268.004;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;88;9;2218.667;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;69;-10;2278.125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;58;-11;2456.54;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;19;-10;1389.022;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;9;6;1495.125;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

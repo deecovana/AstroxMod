@@ -4,3 +4,9 @@ NPC;+STOCK;608;136;127.0169;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;220;104;235.0207;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;525;141;241.6521;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;421;99;168.8403;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+STOCK;949;110;241.1894;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;745;137;115.8842;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;284;-137;170.1731;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+QTY;887;142;116.82;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;476;132;136.2511;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+STOCK;158;125;186.4667;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54

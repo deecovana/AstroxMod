@@ -3,3 +3,8 @@ NPC;+QTY;638;135;1414.129;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;+STOCK;194;116;1158.041;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;889;146;1052.311;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;967;126;793.4925;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+PRICE;631;0;1265.104;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+STOCK;306;112;1136.748;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;771;-118;1058.539;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;688;-83;1077.961;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;631;0;1302.418;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

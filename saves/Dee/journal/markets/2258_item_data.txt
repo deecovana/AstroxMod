@@ -2,3 +2,6 @@ NPC;-PRICE;3;0;39804.87;Keyworx;Geminey;0h 0m 23s ;23.44398
 NPC;BAL;9;-1;66635.81;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;11;2;63354.48;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;36;0;113149.6;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+STOCK;5;2;67093.38;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;13;2;61376.67;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;7;2;67440;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

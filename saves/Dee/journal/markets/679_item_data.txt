@@ -4,3 +4,7 @@ NPC;+STOCK;25;17;74429.05;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8
 NPC;+PRICE;76;0;68999.61;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+PRICE;55;0;114022.6;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;117;24;107662.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;44;19;72689.56;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;21;0;60714.8;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;-PRICE;14;0;90745.48;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;+QTY;30;14;100593.8;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

@@ -1,2 +1,4 @@
 PLAYER;-QTY;56;2;2330.625;Biomate University;Void Starcross;0h 13m 23s ;803.1697
 NPC;+STOCK;65;9;2166.968;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;65;9;1990.121;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;11;7;5520.625;Blissheads;Estura Cove;4h 50m 45s ;17445.84

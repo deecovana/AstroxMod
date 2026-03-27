@@ -5,3 +5,15 @@ NPC;+STOCK;327;123;151.2945;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.
 NPC;+STOCK;236;110;102.6335;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;242;147;106.0417;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;116;107;65.59725;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;713;111;149.9514;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;351;108;186.763;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;437;110;145.3414;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;351;115;100.3289;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;364;122;98.04027;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;150;423;57.2325;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;+PRICE;25;0;101.4195;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+PRICE;25;0;107.4019;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;BAL;150;0;35.3349;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;482;131;187.1063;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;407;0;195.2369;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+PRICE;736;0;163.3421;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

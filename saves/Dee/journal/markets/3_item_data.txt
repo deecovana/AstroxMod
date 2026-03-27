@@ -10,3 +10,16 @@ NPC;+STOCK;3827;3754;24.5372;Starbase Corporate Center;Void Starcross;2h 26m 24s
 NPC;+STOCK;3557;3557;152.5384;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;4880;4572;38.80175;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;3745;3279;53.17;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;4463;4313;57.40907;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4318;3677;45.42483;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8808;4921;43.71896;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8331;4110;46.56414;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8573;4746;22.56249;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;20;0;39.89276;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;1274;-2553;24.635;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;1274;0;27.3963;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;149;0;57.70315;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;3890;3454;48.82231;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;-LOCAL;0;0;130;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
+NPC;+QTY;5178;4791;28.13785;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+QTY;2895;2615;46.995;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

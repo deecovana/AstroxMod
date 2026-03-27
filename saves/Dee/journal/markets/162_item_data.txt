@@ -4,3 +4,10 @@ NPC;-LOCAL;380;0;29.1375;Lammassu Financial;Void Starcross;0h 20m 42s ;1242.087
 NPC;+QTY;108;80;24.36219;Xellon;Ele;0h 50m 9s ;3009.769
 NPC;+STOCK;493;113;29.00838;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;299;117;23.7708;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;959;132;27.22289;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;620;127;27.98816;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;253;0;23.01053;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-QTY;0;-62;28.06913;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;BAL;163;-107;28.02417;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;713;93;27.92344;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;84;0;9.944674;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

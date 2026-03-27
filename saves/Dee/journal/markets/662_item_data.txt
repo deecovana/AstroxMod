@@ -12,3 +12,10 @@ NPC;+QTY;19;2;8815.625;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;25;4;8683.281;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+PRICE;14;0;13106.3;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;BAL;27;-2;8494.39;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;17;3;7663.129;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;28;3;8960.18;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;42;4;19126.55;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;36;-2;19315.63;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;23;-2;8765.641;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;4;0;12154.14;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;35;4;17718.75;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

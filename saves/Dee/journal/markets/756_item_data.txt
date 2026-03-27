@@ -11,3 +11,12 @@ NPC;+PRICE;94;0;14491.38;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960
 NPC;+PRICE;14;0;17012.69;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+QTY;22;8;17042.81;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+QTY;43;12;15206.25;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+STOCK;93;12;5978.08;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;132;11;4207.673;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;86;10;5996.298;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;164;13;12625.9;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;65;-11;6656.25;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;55;-10;7669.122;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;141;9;4237.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;31;0;9077.665;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-PRICE;152;0;11080.59;Cecil;Junia;4h 51m 22s ;17482.65

@@ -8,3 +8,12 @@ NPC;+QTY;351;145;20.12575;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+QTY;808;117;10.75975;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;361;127;22.82962;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;BAL;152;-97;16.73768;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;-QTY;0;-88;24.10351;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;341;142;11.75894;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;18;0;20.14751;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;BAL;194;-102;10.06917;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;BAL;112;112;22.1287;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;454;113;11.65175;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;194;107;13.65875;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+STOCK;203;104;8.415668;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+PRICE;412;0;18.30554;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

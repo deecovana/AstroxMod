@@ -5,3 +5,18 @@ NPC;+STOCK;2333;2199;250.5949;StarShepards Headquarters;Void Starcross;2h 26m 24
 NPC;+STOCK;2411;2295;283.2839;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;2223;2133;205.4937;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+PRICE;34;0;234.113;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+PRICE;114;0;338.6629;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;4346;2152;157.951;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4127;1952;232.8127;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4687;2276;272.4243;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;133;0;241.9968;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-QTY;0;-6;211.5938;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;0;-34;220.7437;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;-QTY;234;-2177;284.7937;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;234;0;265.6933;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;6358;2012;159.3625;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;2031;1953;168.5125;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;1490;1410;219.9393;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;1821;1632;192.4893;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;192;0;191.8073;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;1441;1441;220.7437;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

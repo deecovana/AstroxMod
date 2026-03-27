@@ -2,3 +2,5 @@ NPC;BAL;6;-1;587.4459;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;8;2;566.5412;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;65;2;354.7132;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;67;2;380.765;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;10;2;539.9664;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;67;2;335.61;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92

@@ -5,3 +5,10 @@ NPC;BAL;43;-10;195288.9;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
 NPC;+STOCK;83;14;99119.39;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;16;10;157088.8;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;143;11;178557.8;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;58;10;203739.3;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;95;12;90130.31;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;30;14;143939.6;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;93;10;108000.9;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;7;-11;150937.5;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;138;-12;167723.4;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;133;-7;159997.1;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

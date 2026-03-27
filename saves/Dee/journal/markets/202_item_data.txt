@@ -5,3 +5,13 @@ NPC;+STOCK;605;144;60.00579;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;345;141;64.9996;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;270;115;71.32042;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;177;126;45.29437;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;+PRICE;56;0;49.15104;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;723;118;58.82032;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;403;0;78.11653;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+PRICE;74;0;64.86753;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-PRICE;153;0;33.89832;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;114;0;53.34345;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;BAL;139;0;45.0164;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;806;83;58.51825;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;270;0;70.1369;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;487;84;78.25515;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

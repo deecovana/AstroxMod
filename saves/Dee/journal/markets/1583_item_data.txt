@@ -3,3 +3,6 @@ NPC;-PRICE;23;0;54444.29;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
 NPC;-PRICE;24;0;139714.3;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.242
 NPC;-PRICE;26;0;97473.8;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+STOCK;56;8;90084.99;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;67;11;84147.91;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;24;0;137731.6;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+QTY;31;9;86243.44;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82

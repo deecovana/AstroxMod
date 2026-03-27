@@ -10,3 +10,16 @@ NPC;+QTY;7;4;53187.5;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+PRICE;5;0;32961.26;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;22;3;22125;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;9;-3;33745.89;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;28;3;38285.94;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;37;4;47904.71;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;35;4;38120.29;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;32;3;43104.52;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;49;4;30681.25;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;24;0;37016.46;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;27;-2;44187.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;25;-2;45009.78;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;20;2;33625;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;21;3;24555.62;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;30;0;26792.86;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-PRICE;26;0;40132.13;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;13;3;43187.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

@@ -10,3 +10,14 @@ NPC;+STOCK;2095;2086;154.3934;Proctors Center;Void Starcross;2h 26m 24s ;8784.13
 NPC;+PRICE;203;0;106.827;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+QTY;1975;1770;122.15;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;272;0;81.42652;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+PRICE;154;0;104.5187;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+PRICE;203;0;112.4625;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;2341;2239;66.89849;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4834;2383;78.56854;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4099;2004;152.2931;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;113;0;91.46151;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;BAL;2451;0;90.94975;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;3489;1427;115.15;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;1676;1652;85.925;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;-PRICE;74;0;89.4181;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;47;0;136.8346;Dustardz;Redsky;4h 52m 11s ;17531.62

@@ -10,3 +10,10 @@ NPC;+STOCK;2472;2079;21.99045;Proctors Center;Void Starcross;2h 26m 24s ;8784.13
 NPC;+PRICE;14;0;54.7307;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;1392;1379;46.27185;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
 NPC;BAL;46;0;30.1481;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+STOCK;4821;2457;41.96918;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2252;1992;35.79218;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4519;2276;37.98362;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4240;2074;30.94318;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4579;2107;20.51786;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;4321;2069;35.7675;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;1319;1250;39.7835;Biomart;Veloxi;4h 47m 5s ;17225.82

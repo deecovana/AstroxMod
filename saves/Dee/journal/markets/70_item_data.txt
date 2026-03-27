@@ -4,3 +4,10 @@ NPC;+QTY;2633;2328;5.94775;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;+STOCK;2378;2302;5.267859;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;1995;1757;4.970431;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;2410;2381;3.72775;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;1847;1760;5.329951;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4834;2456;5.028614;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;3664;1669;4.849467;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-23;4.17175;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;0;-448;4.594614;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+QTY;2007;1997;3.703238;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;-PRICE;0;0;4.463733;Cecil;Junia;4h 51m 22s ;17482.65

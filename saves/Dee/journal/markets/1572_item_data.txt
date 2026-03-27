@@ -4,3 +4,6 @@ NPC;BAL;12;0;21550.52;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
 NPC;+STOCK;76;8;7964.047;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;87;11;15341.75;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;13;7;10977.71;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;77;9;7532.127;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;95;8;14391.98;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;35;0;17134.66;Nova Labs;Noah Fox;4h 16m 43s ;15403.89

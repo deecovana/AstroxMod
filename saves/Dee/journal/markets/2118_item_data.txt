@@ -4,3 +4,10 @@ NPC;+STOCK;1834;1810;302.1228;StarShepards Headquarters;Void Starcross;2h 26m 24
 NPC;+PRICE;129;0;231.275;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+PRICE;441;0;213.9239;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;1795;1761;240.1656;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+STOCK;3563;1729;298.5568;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2627;2241;351.7979;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-1;148.3125;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;0;-386;358.3125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;1409;1409;343.2045;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;2096;2015;360.8894;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;0;0;159.0523;Dustardz;Redsky;4h 52m 11s ;17531.62

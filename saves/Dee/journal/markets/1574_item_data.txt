@@ -1,2 +1,5 @@
 NPC;BAL;8;-10;363139;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;17;9;343991.4;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;26;9;336187.8;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;16;0;180216.4;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+QTY;23;7;433918.9;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

@@ -5,3 +5,12 @@ NPC;+STOCK;99;9;3315.329;Starbase Corporate Center;Void Starcross;2h 26m 24s ;87
 NPC;+PRICE;15;0;5471.563;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;20;6;4815.45;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
 PLAYER;-QTY;75;2;3625.088;Biomate University;Void Starcross;2h 38m 14s ;9494.122
+NPC;+PRICE;15;0;2884.22;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;-QTY;0;-6;5204.25;Void Raiders;Corbis Almuni;4h 11m 42s ;15102.06
+NPC;+STOCK;107;8;3204.02;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;12;30;1755;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;3;-9;776.2501;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;3;0;1090.185;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;7;0;3347.13;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+STOCK;21;10;2106.887;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+QTY;37;9;3560.963;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

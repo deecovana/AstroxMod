@@ -6,3 +6,15 @@ NPC;+STOCK;2215;1721;459.4911;Biomate University;Void Starcross;2h 26m 24s ;8784
 NPC;+STOCK;2589;2430;1232.429;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;2469;2021;666.7104;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;39;0;727.8185;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+PRICE;25;0;1210.637;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+STOCK;2637;2143;427.3502;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1841;1758;1354.443;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4491;1902;1201.194;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4332;1863;620.5637;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;55;0;768.1064;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+PRICE;55;0;830.926;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;0;-65;616.1119;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;948;-1641;1227.347;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;25;0;1130.755;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;3693;1852;1355.771;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;2131;2002;1080.862;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

@@ -10,3 +10,17 @@ NPC;+PRICE;364;0;2.153545;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+PRICE;79;0;2.111148;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;1114;188;2.18925;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;336;-184;1.644367;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+PRICE;269;0;1.7205;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;264;213;0.9080998;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;573;195;1.304784;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;529;201;0.8336368;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1262;202;1.852524;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;766;187;1.354494;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1133;206;1.735184;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;385;-194;1.414875;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;111;0;1.779576;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;44;0;1.745093;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;817;244;1.30725;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;784;213;0.8423362;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;224;0;1.50856;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-PRICE;108;0;1.048747;Cecil;Junia;4h 51m 22s ;17482.65

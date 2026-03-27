@@ -1,0 +1,104 @@
+[s:30][c:yellow]Tella's[/c][/s]
+Entertainment Hub
+Jidzangee Akleinortis
+Pirate
+[c:lime]Dock fee 100[/c]
+Timestamp: 16288.34
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Water
+Carbon
+Hydrogen
+Oxygen
+Magnetic Quartz
+Iron Coring
+Nitrogen
+Oil
+Copperi Cubex
+Calcium
+Ceramic
+Aluminium Shard
+Dynex Crystal
+Silicon
+Salt Crystal
+Bio Carbon
+Calciate Residue
+Steelium
+Plastix Strands
+Silveryte
+Prometheum
+Neutron Pods
+Uranium
+Goldyte
+Titanyte
+Keypad
+Acidic Residue
+Aluminium Plates
+Copperi Pipes
+Copperi Plates
+Dynex Crystal Resonator
+Electronic Switch
+Glass Panels
+Hand Tools
+Hardened Glass Panels
+Iron Coring Beams
+[c:orange]DEMAND[/c]
+Candy Cane
+Ornament
+Wrapped Box
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Demands: (1) Items 
+ (103) x Ornament
+Fulfill order for [c:lime]52,709 profit.[/c]
+[c:green]BUY Order[/c] Market Items Req: (2) Items 
+ (30) x Candy Cane
+ (12) x Ornament
+Fulfill order for [c:lime]307 profit.[/c]
+[c:red]SELL Order[/c] Market Goods: (2) Items 
+ (17) x Oil
+ (54) x Silicon
+Buy items for [c:lime]373 discount.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Refinery Mechanic
+Beam Damage Calibration
+Ship Energy Regeneration
+Beam Focal Range
+Miner Advanced Systems
+
+
+<Station Missions>
+[c:lime]TRANSPORT[/c]
+Transport a light shipment of <color='yellow'>89</color> <color='yellow'>Titanytes</color> from StarShepards Headquarters in <color='cyan'>Void Starcross</color> to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]KILL RAIDERS[/c]
+Hunt <color='yellow'>2 Raiders</color> level 10 in <color='cyan'>Felishar</color> and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+
+
+<Station Ships>
+EU-3 Ore Collector / Utility    (Excavation)
+BF-1 Missile Enforcer / Frigate    (Battle)
+BC-1 Alpharis Predator / Cruiser    (Battle)
+BDN-1 Imperious Titanous / Dreadnought    (Battle)

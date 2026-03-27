@@ -13,3 +13,13 @@ NPC;+PRICE;17;0;5169.919;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;26;2;5162.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;13;3;3568.75;Psybermind;Ion Child;2h 36m 11s ;9371.667
 NPC;BAL;15;-2;3237.979;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;47;4;3362.489;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;32;4;1391.898;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;37;4;5186.602;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;43;4;4002.077;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;3;0;5017.838;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;35;-4;4168.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;28;-4;3454.469;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;33;-2;4455.431;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;25;4;2452.188;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;5;2;4997.188;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

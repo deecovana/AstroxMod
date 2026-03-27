@@ -4,3 +4,9 @@ NPC;+STOCK;102;14;45645.62;StarShepards Headquarters;Void Starcross;2h 26m 24s ;
 NPC;+STOCK;99;12;91191.93;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;62;0;113175.8;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+QTY;64;10;87250;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;81;10;81750.41;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;116;14;42459.12;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;109;10;88894.98;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;125;-10;107089.4;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+QTY;95;14;82250;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;64;14;78111.25;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

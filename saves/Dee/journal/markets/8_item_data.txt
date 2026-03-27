@@ -6,3 +6,8 @@ NPC;-LOCAL;61;61;675;Proctors Center;Void Starcross;1h 25m 35s ;5135.035
 NPC;+STOCK;5257;4810;411.7908;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;4325;4300;654.5987;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;3532;3471;697.2833;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;9240;4915;645.6379;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4906;4843;234.0892;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;7992;4460;676.3828;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-63;254.25;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-LOCAL;14;14;675;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47

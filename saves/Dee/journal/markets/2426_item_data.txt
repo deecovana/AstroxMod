@@ -1,3 +1,5 @@
 NPC;+QTY;3;1;108.5725;Xellon;Ele;0h 50m 9s ;3009.769
 NPC;+QTY;43;1;119.7038;Foodmaid;Daelus;0h 50m 9s ;3009.769
 NPC;-PRICE;18;0;115.5398;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
+NPC;+QTY;23;1;142.6324;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;19;2;105.6424;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

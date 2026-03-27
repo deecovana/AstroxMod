@@ -2,3 +2,11 @@ NPC;+LOCAL;150;1;21.80134;Lammassu Financial;Void Starcross;0h 20m 42s ;1242.087
 NPC;+LOCAL;145;1;24.2956;Acrondia Hub;Temple Gates;0h 56m 59s ;3419.798
 NPC;+STOCK;262;112;13.69176;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;688;148;22.11073;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;389;127;12.18284;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;813;125;21.0026;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;474;127;17.02592;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;2;0;32.99785;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;+QTY;475;86;12.32975;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;161;124;21.59775;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;175;115;14.35713;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+QTY;89;78;24.17748;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

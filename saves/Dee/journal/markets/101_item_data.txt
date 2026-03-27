@@ -11,3 +11,15 @@ NPC;+STOCK;1122;191;0.3937353;Starbase Corporate Center;Void Starcross;2h 26m 24
 NPC;+STOCK;1482;193;0.5890986;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;420;219;0.5803125;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;BAL;69;0;0.7623506;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+STOCK;1366;188;0.8127762;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1018;170;0.7018019;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1327;205;0.3724233;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;941;-181;0.3928125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;665;176;0.421875;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;237;192;0.7903125;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+QTY;1043;225;0.2853281;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;1153;137;0.6083344;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;656;0;0.7187085;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+PRICE;427;0;0.8687271;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;500;166;0.3778125;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+QTY;834;210;0.4270781;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

@@ -1,3 +1,5 @@
 NPC;-PRICE;5;0;30188.14;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+STOCK;70;11;15287.48;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;58;10;15426.21;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;80;10;15030.41;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;68;10;14007.04;Proctors Center;Void Starcross;4h 12m 27s ;15147.92

@@ -9,3 +9,10 @@ NPC;+QTY;33;9;6187.5;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+PRICE;4;0;15716.49;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
 NPC;+QTY;143;12;15187.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;106;9;12806.25;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+PRICE;27;0;16857.2;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+PRICE;143;0;13603.97;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+STOCK;97;14;15686.28;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;51;10;14074.89;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;128;12;6671.799;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;155;0;6062.207;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-PRICE;89;0;11043.42;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65

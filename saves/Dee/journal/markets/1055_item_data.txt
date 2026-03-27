@@ -2,3 +2,13 @@ NPC;+STOCK;45;11;3231.075;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;79;10;4400.361;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;27;9;2867.261;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;62;8;2277.677;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;53;8;3047.8;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;88;9;4357.645;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;35;8;2681.329;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;70;8;2196.63;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;18;0;4075.795;Gemini Mining;Jala;4h 16m 43s ;15403.89
+NPC;-QTY;17;-10;2871.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;61;8;3034.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;18;11;2908.5;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;67;9;1639.837;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+PRICE;4;0;4225.551;Dustardz;Redsky;4h 52m 11s ;17531.62

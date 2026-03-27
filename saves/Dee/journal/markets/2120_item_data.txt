@@ -6,3 +6,10 @@ NPC;+STOCK;2715;2282;304.9559;StarShepards Headquarters;Void Starcross;2h 26m 24
 NPC;+STOCK;2184;1870;327.1722;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;35;0;425.9739;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;1940;1521;452.5024;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+STOCK;4174;1990;308.021;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;7;0;201.4132;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;BAL;2184;0;349.27;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;38;0;365.7891;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;1357;1254;158.2834;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;2170;1853;235.583;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+QTY;1858;1814;252.3615;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84

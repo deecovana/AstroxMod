@@ -1,3 +1,5 @@
 NPC;BAL;27;-2;30024.2;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
 NPC;+STOCK;40;2;31949.22;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;27;0;31118.27;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;-QTY;38;-2;31821.83;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;36;-2;32793.02;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

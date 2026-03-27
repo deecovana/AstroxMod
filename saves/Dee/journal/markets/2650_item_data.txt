@@ -9,3 +9,11 @@ NPC;+PRICE;444;0;402.143;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960
 NPC;+PRICE;28;0;581.4337;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;2320;2099;562.95;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;127;0;451.8639;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+PRICE;30;0;343.6898;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+STOCK;2270;2249;414.4048;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4231;2174;252.7251;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4023;2026;351.6658;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4605;1790;514.0923;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;1126;-1689;520.425;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;6057;1826;255.15;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;2383;2340;492.75;Biomart;Veloxi;4h 47m 5s ;17225.82

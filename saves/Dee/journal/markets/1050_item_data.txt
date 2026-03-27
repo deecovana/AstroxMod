@@ -3,3 +3,8 @@ NPC;+STOCK;34;8;1153.782;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;50;11;945.9452;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;53;0;1096.421;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+PRICE;9;0;965.2883;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
+NPC;+STOCK;43;9;1100.744;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;58;8;846.0297;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;21;-6;1754.88;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;17;11;1750.875;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+STOCK;20;11;1763.071;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54

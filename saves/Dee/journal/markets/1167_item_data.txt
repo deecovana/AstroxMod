@@ -1,2 +1,7 @@
 NPC;-PRICE;6;0;187140.5;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.44398
 NPC;+STOCK;95;8;191952.3;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;105;10;182510.4;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;12;36;114400;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;6;-6;50600;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;6;0;81569.46;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;-PRICE;6;0;170121.5;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

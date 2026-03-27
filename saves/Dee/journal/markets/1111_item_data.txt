@@ -3,3 +3,6 @@ NPC;BAL;5;0;1229.212;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+STOCK;51;11;1759.764;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;34;8;1622.125;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;2h 36m 35s ;9395.996
+NPC;+STOCK;60;9;1692.666;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;14;9;1315.75;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;14;9;971.1138;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

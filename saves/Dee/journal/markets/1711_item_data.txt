@@ -1,3 +1,7 @@
 NPC;+QTY;39;7;3803.538;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;+STOCK;60;8;3884.794;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;51;10;3187.837;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;27;0;3748.987;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+STOCK;60;8;3867.517;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;59;8;3073.478;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;74;0;2877.153;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

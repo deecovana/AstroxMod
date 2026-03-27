@@ -7,3 +7,10 @@ NPC;+STOCK;43;10;5864.749;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.13
 NPC;+STOCK;98;10;2439.482;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;30;12;5993.324;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;69;0;2951.663;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+STOCK;132;11;3551.685;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;54;11;5708.097;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;112;14;2133.511;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;44;14;5939.232;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;85;-13;2422.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;78;-7;2646.327;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;4;0;4015.491;Terra Drone;Geminey;4h 40m 21s ;16821.04

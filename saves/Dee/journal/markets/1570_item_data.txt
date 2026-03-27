@@ -1,3 +1,8 @@
 NPC;-PRICE;13;0;1106.856;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
 NPC;BAL;62;-9;2255.854;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+PRICE;8;0;1741.505;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;-QTY;0;-3;1436.555;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
+NPC;BAL;4;0;1415.939;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;44;9;1249.186;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;11;10;1592.561;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;+PRICE;29;0;1516.411;PharmaLife;Carioullis;4h 52m 11s ;17531.62

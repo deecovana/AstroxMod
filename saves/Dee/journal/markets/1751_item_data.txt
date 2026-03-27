@@ -2,3 +2,7 @@ NPC;+LOCAL;12;1;6755.365;Proctors Center;Void Starcross;0h 34m 29s ;2069.568
 NPC;+QTY;13;6;10818.17;Xellon;Ele;0h 50m 9s ;3009.769
 NPC;BAL;5;-10;9855.586;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;BAL;25;-7;7953.577;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
+NPC;+STOCK;13;8;9369.228;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;21;9;4769.139;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;22;10;9542.56;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+PRICE;2;0;9524.531;Dustardz;Redsky;4h 52m 11s ;17531.62

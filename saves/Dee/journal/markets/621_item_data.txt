@@ -13,3 +13,15 @@ NPC;+STOCK;6;3;9460.618;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;5;0;8029.426;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;46;3;6725;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;13;-3;8799.337;ValueStar;Hunu;2h 58m 0s ;10680.39
+PLAYER;-QTY;33;1;4508.75;Biomate University;Void Starcross;3h 53m 5s ;13985.32
+NPC;+STOCK;24;4;8775.503;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;9;3;4820.449;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;15;-3;10737.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;1;0;9253.177;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;13;-2;10171.39;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;6;-4;9657.177;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;27;3;8825;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;6;2;8425;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;9;3;8425;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+STOCK;12;3;10625.89;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+QTY;10;2;9737.5;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

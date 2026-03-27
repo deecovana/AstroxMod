@@ -5,3 +5,11 @@ NPC;+STOCK;38;8;2012.149;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;52;8;1816.448;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;87;10;927.7745;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;BAL;1;0;1206.85;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;39;9;1971.829;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;62;10;1732.254;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;98;11;792.8789;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;2;-7;1339.86;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;78;-9;922.58;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;72;-6;1119.611;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;11;0;2561.49;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;71;9;1727.8;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

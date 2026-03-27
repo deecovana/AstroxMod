@@ -5,3 +5,11 @@ NPC;+STOCK;2122;1928;89.32196;Biomate University;Void Starcross;2h 26m 24s ;8784
 NPC;+STOCK;2164;2025;66.47813;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;2670;2455;34.46487;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;BAL;86;0;57.74141;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;2209;2015;86.07921;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4363;2199;64.6056;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;5142;2472;31.80715;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;85;0;75.6013;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;1959;1849;69.87667;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;1468;1426;53.08113;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+STOCK;2351;2330;72.52814;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+QTY;2173;2107;92.22713;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

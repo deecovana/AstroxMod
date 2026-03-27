@@ -6,3 +6,9 @@ NPC;+STOCK;662;129;54.1767;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.1
 NPC;+QTY;449;87;34.16438;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;424;139;50.28647;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;BAL;15;-144;61.60605;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+PRICE;142;0;57.04094;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;572;144;70.64885;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;340;120;73.15871;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;804;142;52.68371;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;475;135;73.35781;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;216;134;68.66125;Biomart;Veloxi;4h 47m 5s ;17225.82

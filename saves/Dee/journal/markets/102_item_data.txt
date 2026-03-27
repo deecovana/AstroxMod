@@ -9,3 +9,18 @@ NPC;+STOCK;944;181;1.730531;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;237;137;2.804375;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
 NPC;+QTY;273;150;1.059375;Psybermind;Ion Child;2h 36m 11s ;9371.667
 NPC;BAL;440;-215;1.223791;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;426;222;1.876104;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1427;230;1.509662;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;305;192;0.9529009;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;657;214;1.405732;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;547;203;1.763043;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1112;168;1.687877;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;424;0;2.70672;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;142;-202;1.859375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;156;0;1.197783;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;142;0;2.061042;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1624;197;1.50625;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+STOCK;278;246;1.988543;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;-PRICE;295;0;2.208886;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-PRICE;557;0;2.487988;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;617;177;2.459375;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

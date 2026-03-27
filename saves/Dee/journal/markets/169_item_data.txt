@@ -5,3 +5,11 @@ NPC;+STOCK;654;130;63.89659;Biomate University;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;138;138;135.9709;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;587;115;84.17609;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;563;87;77.63175;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;635;111;63.62794;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;282;144;134.4086;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;230;-77;77.35927;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+QTY;318;143;51.7545;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;417;99;51.7545;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;788;102;103.1381;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+PRICE;297;0;95.49318;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;140;88;52.82775;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

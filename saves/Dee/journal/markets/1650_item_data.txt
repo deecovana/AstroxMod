@@ -5,3 +5,8 @@ NPC;+STOCK;77;8;5116.84;Starbase Corporate Center;Void Starcross;2h 26m 24s ;878
 NPC;+PRICE;6;0;6151.011;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+QTY;16;10;6161.765;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;BAL;7;0;3574.965;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+STOCK;83;11;3198.5;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;86;9;4981.982;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;69;-8;5125.835;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;14;0;4898.147;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;58;-11;5458.134;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

@@ -1,2 +1,7 @@
 NPC;+STOCK;38;8;54180.93;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;5;0;38334.88;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+PRICE;28;0;57353.07;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+STOCK;46;8;52451.6;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;27;-11;49968.39;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;60;7;47987.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;21;10;51174.06;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

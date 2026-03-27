@@ -1,1 +1,4 @@
 NPC;-PRICE;4;0;224.4911;Biomate University;Void Starcross;0h 0m 23s ;23.44398
+NPC;+STOCK;6;2;218.749;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;10;2;133.3335;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;28;0;169.1636;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

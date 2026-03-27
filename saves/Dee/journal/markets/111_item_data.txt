@@ -9,3 +9,12 @@ NPC;+STOCK;509;171;13.43747;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;1118;163;14.59875;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;205;177;17.43563;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;BAL;66;0;24.92036;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;802;166;16.9838;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;598;186;9.897701;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;736;174;26.7915;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;718;236;25.78757;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;998;246;18.37915;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;728;219;12.15875;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;558;-194;18.96563;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;737;139;10.00875;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;296;149;25.00116;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

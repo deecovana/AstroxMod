@@ -8,3 +8,12 @@ NPC;+STOCK;2044;2023;50.4243;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784
 NPC;+STOCK;2173;2163;75.57429;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;2714;2442;31.30314;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;BAL;55;0;42.64381;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+STOCK;2529;2447;46.01631;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4464;2420;47.62607;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;3992;1819;73.03233;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4578;1864;27.63614;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;2173;0;73.7233;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1877;1786;58.33256;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;-PRICE;217;0;81.35141;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-PRICE;381;0;44.3152;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;-PRICE;359;0;30.75999;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65

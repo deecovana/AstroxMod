@@ -3,3 +3,9 @@ NPC;+STOCK;16;11;30043.65;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8
 NPC;+STOCK;17;10;36149.65;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;31;6;24302;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;BAL;30;-11;32669.37;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;27;10;35180.78;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;12;33;15080;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;6;-6;6670;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;6;0;9976.255;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;53;9;51156;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;86;0;36496.52;Cecil;Junia;4h 51m 22s ;17482.65

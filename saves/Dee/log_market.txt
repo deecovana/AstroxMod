@@ -1,4 +1,11 @@
 //;LOG DATA FILE (Astrox Imperium)
+BUY;3;Ion Beam Class 3;2,900;8,700;59167.0234375;Starbase Corporate Center;Void Starcross;4h 13m 49s 
+BUY;1;Improved Filter;4,509;4,509;67942.0234375;Biomate University;Void Starcross;3h 53m 5s 
+BUY;1;Containment Unit;5,209;5,209;72450.7734375;Biomate University;Void Starcross;3h 52m 32s 
+BUY;1;Advanced Regulator;9,009;9,009;77659.5234375;Biomate University;Void Starcross;3h 51m 30s 
+BUY;1;Noodles;4,609;4,609;86668.2734375;Biomate University;Void Starcross;3h 50m 50s 
+BUY;1;Basic Beam Impact Mod;2,418;2,418;91277.0229492188;Biomate University;Void Starcross;3h 48m 1s 
+BUY;1;Plasma Beam Class 1;2,505;2,505;93695.21875;Biomate University;Void Starcross;3h 46m 17s 
 SELL;2;Kinetics G-series 20mm Gatling;929;1858.9980;59704.116656065;Biomate University;Void Starcross;3h 20m 27s 
 SELL;152;Explosive 20mm;15.49;2354.0030;57845.1184871197;Biomate University;Void Starcross;3h 20m 21s 
 BUY;164;Explosive 20mm;18.26;2,995;47126.5153133869;Biomate University;Void Starcross;3h 17m 10s 

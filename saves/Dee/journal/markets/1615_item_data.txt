@@ -4,3 +4,7 @@ NPC;BAL;35;-9;2129.288;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;43;8;2098.642;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;32;11;1757.055;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;58;7;2009.784;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;-QTY;0;-1;2288.773;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;54;11;2010.917;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;14;-7;2041.975;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;BAL;7;7;2127.712;Terra Drone;Geminey;4h 40m 21s ;16821.04

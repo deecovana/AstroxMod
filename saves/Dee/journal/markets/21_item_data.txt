@@ -16,3 +16,21 @@ NPC;+QTY;4330;4325;153.4375;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+PRICE;234;0;159.2041;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;5000;4114;176.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;564;0;143.3989;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+PRICE;378;0;97.11646;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;4952;4514;168.6628;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;9506;4513;174.506;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;7982;3931;120.3023;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8567;3705;99.91998;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-LOCAL;0;0;500;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;+PRICE;215;0;205.3792;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+PRICE;193;0;167.0218;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-QTY;0;-183;205.9375;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;0;0;598.4375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;85;0;150.3834;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;2717;2717;582.9221;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;123;0;172.1634;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;8129;3746;74.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;2885;2698;118.125;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;4295;4082;196.2225;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;568;0;128.0095;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;3006;2791;205.8875;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

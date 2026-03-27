@@ -14,3 +14,14 @@ NPC;+QTY;15;3;11593.75;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;24;4;16515.63;Psybermind;Ion Child;2h 36m 11s ;9371.667
 NPC;BAL;2;0;15240.73;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;BAL;17;-3;16581.19;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;38;4;7941.497;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;28;4;16957.03;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;37;4;7026.956;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;13;4;18061.73;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;10;4;18262.71;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;29;3;8319.157;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;22;0;12451.03;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;3;-3;18965.63;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;3;0;13283.13;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;+QTY;30;2;17018.75;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;37;0;11146.06;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

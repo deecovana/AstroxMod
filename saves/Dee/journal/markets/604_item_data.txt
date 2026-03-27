@@ -8,3 +8,12 @@ NPC;+STOCK;48;4;115302.2;StarShepards Headquarters;Void Starcross;2h 26m 24s ;87
 NPC;+STOCK;27;3;76916.99;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;27;4;49996.93;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;BAL;8;-2;123684.2;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;41;4;116713.8;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;52;4;112595.7;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;31;4;75815.36;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;30;3;47158.06;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;12;0;149036.4;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;BAL;24;-3;82253.88;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;7;3;103025;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;30;3;136644.6;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;20;0;113263.9;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

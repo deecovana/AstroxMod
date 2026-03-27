@@ -8,3 +8,15 @@ NPC;+STOCK;6;3;3827.611;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;27;4;8239.994;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;35;4;10998.38;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;8;0;5370.232;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+PLAYER;-QTY;22;1;4608.75;Biomate University;Void Starcross;3h 50m 50s ;13850.53
+NPC;+PRICE;8;0;10823.17;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;10;4;3540.769;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;31;4;7820.179;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8;3;4148.872;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;38;3;10857.56;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;7;-2;8137.5;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;-QTY;1;-4;4337.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;3;0;6694.768;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;1;0;5014.689;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;5;4;4125;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;6;3;6637.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

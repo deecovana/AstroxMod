@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;resources#14305#20#2
+SECTOR;event_type;resources#22340#20#28
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;322.62;214.5244;-2279.027
@@ -83,6 +83,7 @@ RESOURCE;10;822.7;1265.9;520.0;500.0;500.0
 WARPGATE;1;sector_106.txt;2;2724.2;-7.4;1515.5;0;Temple;-0.7
 WARPGATE;2;sector_109.txt;1;-2461.4;257.6;1991.5;0;Temple;0.8
 WARPGATE;3;sector_108.txt;1;2800.5;-105.2;-1498.3;0;Temple;-0.5
+WARPGATE;4;generate;1;-1029;-447;1841;5;wormhole;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 //PROP;0;0;0;0;0;0;0;lightning 1

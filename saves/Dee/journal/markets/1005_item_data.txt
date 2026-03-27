@@ -1,3 +1,5 @@
 NPC;+STOCK;67;10;34216.65;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;9;0;27465.14;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;98;9;43105.4;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+STOCK;75;8;33002.54;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;89;-9;43301.18;Cecil;Junia;4h 19m 24s ;15564.41

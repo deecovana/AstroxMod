@@ -7,3 +7,10 @@ NPC;+STOCK;1177;173;30.74561;StarShepards Headquarters;Void Starcross;2h 26m 24s
 NPC;+STOCK;1335;179;10.70453;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;276;206;20.87078;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;BAL;239;0;17.25734;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;1494;200;9.467367;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;822;174;14.82604;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1398;221;29.60998;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1239;185;18.56196;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1561;226;10.23131;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;900;-154;18.8715;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;714;-186;19.65686;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

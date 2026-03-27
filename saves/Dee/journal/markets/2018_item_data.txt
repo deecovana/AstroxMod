@@ -1,3 +1,8 @@
 NPC;+STOCK;543;122;458.3138;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;473;120;550.5833;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;BAL;59;0;382.6395;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;528;107;449.0121;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;622;149;514.4575;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;379;-94;561.7444;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;402;89;893.8051;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+STOCK;170;139;543.5302;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54

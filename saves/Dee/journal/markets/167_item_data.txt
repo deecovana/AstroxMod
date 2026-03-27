@@ -5,3 +5,14 @@ NPC;+STOCK;262;143;34.40161;Starbase Corporate Center;Void Starcross;2h 26m 24s 
 NPC;+STOCK;1037;115;64.16107;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;481;87;56.61475;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+PRICE;364;0;82.48225;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+PRICE;792;0;55.31138;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;-QTY;0;-1;87.79075;Void Raiders;Corbis Almuni;4h 11m 42s ;15102.06
+NPC;+STOCK;808;144;42.67914;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;383;121;29.83261;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1143;106;61.44812;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;156;-106;34.09875;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;36;-120;42.40693;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+STOCK;269;121;67.01105;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+PRICE;792;0;56.67298;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+PRICE;99;0;47.19287;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;247;81;48.82075;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

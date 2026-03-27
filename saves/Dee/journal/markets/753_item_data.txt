@@ -4,3 +4,7 @@ NPC;+STOCK;97;13;164300;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;8;0;72069.41;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+PRICE;82;0;94273.63;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+QTY;23;12;127668.8;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;+STOCK;108;11;156525;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;9;0;97300.73;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-PRICE;129;0;66886.87;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;30;0;98598.08;PharmaLife;Carioullis;4h 52m 11s ;17531.62

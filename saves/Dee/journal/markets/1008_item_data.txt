@@ -1,3 +1,10 @@
 NPC;BAL;9;-8;1584.928;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;55;11;2447.537;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;17;8;1539.547;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;64;9;2396.179;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;28;11;1488.929;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;51;11;2760.895;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;38;10;1136.92;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;38;0;2030.823;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+LOCAL;12;31;812.5;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
+NPC;+QTY;47;9;2023.594;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

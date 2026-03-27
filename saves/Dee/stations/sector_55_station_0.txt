@@ -41,6 +41,7 @@ MERC;3;1.98;npc_ship_data_(excavation_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Inventory: (1) Items ;2004x327;64446;54526.72
 ITEM;1022;75;0.73;199600
 ITEM;1152;30;0.60;199600
 ITEM;1067;13;0.69;199600

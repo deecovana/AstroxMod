@@ -7,3 +7,10 @@ NPC;+STOCK;117;17;150349;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;49;0;160032.8;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+PRICE;63;0;72904.97;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;139;23;104762.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;46;23;66898.8;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;125;16;79696.49;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;134;17;143504.8;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;92;-17;83193.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;68;-24;89732.81;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;-PRICE;42;0;114096.4;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;47;0;148365.5;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

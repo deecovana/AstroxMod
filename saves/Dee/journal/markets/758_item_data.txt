@@ -4,3 +4,8 @@ NPC;+STOCK;128;14;48081.77;StarShepards Headquarters;Void Starcross;2h 26m 24s ;
 NPC;+STOCK;106;11;87636.99;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;BAL;83;-11;57644.2;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;BAL;86;-12;45783.2;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;137;14;81282.85;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;120;14;83520.82;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;18;13;37250;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;-PRICE;123;0;44248.76;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;9;0;96127.93;Dustardz;Redsky;4h 52m 11s ;17531.62

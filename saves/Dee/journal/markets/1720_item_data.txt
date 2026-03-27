@@ -2,3 +2,6 @@ NPC;-PRICE;17;0;2342.468;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;-PRICE;59;0;3812.299;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;BAL;8;0;3482.021;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
 NPC;+STOCK;27;10;2332.469;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+PLAYER;-QTY;16;1;2418.196;Biomate University;Void Starcross;3h 48m 1s ;13681.34
+NPC;+STOCK;27;11;2391.632;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;73;0;3515.312;Cecil;Junia;4h 51m 22s ;17482.65

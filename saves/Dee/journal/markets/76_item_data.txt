@@ -4,3 +4,9 @@ NPC;+STOCK;2408;2270;104.0612;Lammassu Financial;Void Starcross;2h 26m 24s ;8784
 NPC;+STOCK;2475;2150;130.9609;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;1870;1677;154.0923;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;2391;2354;160.222;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;2027;1942;129.8259;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4740;2332;99.06783;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4969;2494;124.8662;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4167;1776;151.8782;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;5998;1258;98.4375;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;266;0;85.21214;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65

@@ -4,3 +4,6 @@ NPC;+PRICE;3;0;2936.78;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;62;9;2541.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;17;10;2860.05;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
 NPC;+QTY;28;11;5169.25;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;+STOCK;67;10;1625.662;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;12;11;4066.132;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+QTY;39;10;2409.25;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

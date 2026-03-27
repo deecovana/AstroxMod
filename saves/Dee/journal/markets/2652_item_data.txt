@@ -9,3 +9,12 @@ NPC;+STOCK;1866;1676;652.2613;StarShepards Headquarters;Void Starcross;2h 26m 24
 NPC;+STOCK;2550;2210;335.9203;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;285;0;803.1613;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;2235;2148;366.7;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+PRICE;123;0;712.1349;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;2203;2094;752.1462;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4472;1751;533.5336;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;3933;2098;305.7696;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;3644;1778;635.6149;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4728;2178;305.2902;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;735;-1815;337.25;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;735;0;380.1461;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;50;0;400.0353;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

@@ -38,6 +38,7 @@ MERC;9;1.36;npc_ship_data_(recon_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Surplus: (1) Items ;2029x65;95511;52445.55
 BUYORDER;Market Demands: (3) Items ;310x214,312x168,310x326;61736;20528.28
 BUYORDER;Market Low Inventory: (3) Items ;310x323,311x323,310x379;72519;17983.28
 SELLORDER;Market Production: (3) Items ;2025x68,2022x208,2026x94;155082;55299.67

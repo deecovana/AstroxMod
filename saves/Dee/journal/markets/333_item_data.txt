@@ -7,3 +7,12 @@ NPC;+PRICE;2;0;251.1123;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.
 NPC;+QTY;587;557;257.1484;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;713;661;326.8491;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;620;585;345.7354;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;1012;975;238.4767;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;927;904;186.9484;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1501;693;238.3563;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;999;942;114.0705;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1734;812;344.78;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;21;0;312.6566;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;0;-57;129.1894;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;74;0;349.4759;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+PRICE;29;0;226.1758;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

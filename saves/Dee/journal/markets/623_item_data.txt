@@ -9,3 +9,9 @@ NPC;+STOCK;8;4;39722.96;Starbase Corporate Center;Void Starcross;2h 26m 24s ;878
 NPC;+STOCK;51;3;25207.22;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;5;0;52007.92;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+PRICE;11;0;45543.89;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+STOCK;13;3;42996.36;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;16;3;18469.44;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;11;3;38464.14;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;6;-2;41198.66;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;18;2;18625;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;29;2;31055.63;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

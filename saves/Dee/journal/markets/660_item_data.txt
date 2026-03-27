@@ -12,3 +12,15 @@ NPC;+QTY;9;3;4812.5;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+QTY;23;2;5080.938;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;BAL;2;0;5328.984;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;BAL;25;-4;4308.986;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+PRICE;6;0;3423.535;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;-QTY;6;-2;4468.75;Void Raiders;Corbis Almuni;4h 11m 42s ;15102.06
+NPC;-QTY;0;-3;4454.375;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;15;4;4560.583;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;33;4;4017.72;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;3;0;5066.38;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;36;-4;4518.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;18;3;4562.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;31;3;5555.563;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;-PRICE;20;0;1839.608;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+PRICE;6;0;2838.3;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+QTY;10;3;2818.75;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

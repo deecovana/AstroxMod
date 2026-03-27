@@ -10,3 +10,19 @@ NPC;+STOCK;51;4;7612.647;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;4;3;8268.75;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+QTY;9;3;17740.63;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;BAL;5;-3;16307.91;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;40;3;12361.96;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;25;3;5953.364;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;37;4;15762.61;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;23;4;17689.9;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;9;4;13182.43;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;54;3;6781.676;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;6;0;13051.25;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;2;-3;13365.63;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;1;0;10168.81;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;3;0;17084.66;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;29;4;5993.75;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;24;3;18382.66;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;23;4;18044.47;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;3;0;8949.247;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;15;3;8640.625;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+QTY;9;3;12940.16;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

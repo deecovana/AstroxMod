@@ -4,3 +4,11 @@ NPC;BAL;8;0;1755.302;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
 NPC;+PRICE;87;0;1453.223;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+PRICE;7;0;1539.603;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;BAL;6;-10;1845.41;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+STOCK;22;10;306.0006;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;8;-6;1236.548;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-PRICE;9;0;1442.259;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;BAL;16;-10;2067.332;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;21;8;1218.681;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;27;6;1218.681;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;16;7;1005.811;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;+STOCK;14;9;2120.748;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54

@@ -4,3 +4,6 @@ NPC;+STOCK;227;101;71.80901;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.
 NPC;+STOCK;328;101;165.6087;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;478;119;166.9916;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;877;131;135.6758;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;360;133;68.47128;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;180;-148;164.7491;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;331;-147;167.8401;Cecil;Junia;4h 19m 24s ;15564.41

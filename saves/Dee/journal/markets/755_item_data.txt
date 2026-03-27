@@ -5,3 +5,10 @@ NPC;BAL;135;-10;3223.196;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+STOCK;101;10;3251.611;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;33;9;3442.5;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+PRICE;35;0;3856.981;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+STOCK;66;13;3440.263;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;122;12;6472.989;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;89;14;5270.968;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;115;14;3055.95;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;68;0;5237.453;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;BAL;67;-8;5463.585;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;11;-13;5098.866;Blargg's;Beacon Spita;4h 40m 21s ;16821.04

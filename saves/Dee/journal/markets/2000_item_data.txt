@@ -8,3 +8,12 @@ NPC;+STOCK;285;176;15.81776;Starbase Corporate Center;Void Starcross;2h 26m 24s 
 NPC;+STOCK;872;207;19.59135;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;1167;233;19.2929;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;712;181;13.09;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;314;246;12.04542;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;973;222;12.04597;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;921;246;8.23546;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;516;231;15.05335;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;85;0;10.80957;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;BAL;101;-184;16.44898;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1134;161;12.012;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;1167;0;19.07712;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;221;136;10.7261;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

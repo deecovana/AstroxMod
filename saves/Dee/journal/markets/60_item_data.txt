@@ -8,3 +8,13 @@ NPC;+STOCK;2539;2491;41.39508;Proctors Center;Void Starcross;2h 26m 24s ;8784.13
 NPC;+PRICE;144;0;25.42521;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+PRICE;178;0;35.18647;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;2149;2005;25.1875;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;1933;1873;54.63375;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4186;2056;18.60692;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4183;1818;47.80523;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4254;1715;40.00946;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;1;0;48.45951;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;BAL;2365;0;47.97894;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;142;0;46.7972;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;6430;2244;18.625;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;52;0;17.32582;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;1647;1555;48.6875;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

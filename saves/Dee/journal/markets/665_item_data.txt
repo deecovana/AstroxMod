@@ -3,3 +3,10 @@ NPC;+STOCK;13;3;203013;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;26;4;205194.3;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;15;4;115510.2;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;27;3;209400;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;18;4;245738.9;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;16;3;199633.7;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;14;4;193971.1;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;30;4;195560.2;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;22;-4;204900;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;19;-3;222759.9;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;22;4;245400;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

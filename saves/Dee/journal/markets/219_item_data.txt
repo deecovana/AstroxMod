@@ -3,3 +3,9 @@ NPC;+QTY;743;80;99.06363;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;+QTY;542;98;73.88862;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;254;101;111.0218;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;257;138;110.1406;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;228;137;85.35183;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;588;130;99.94383;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;150;642;32.7275;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;43;-107;14.47563;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;43;0;23.77535;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;-PRICE;413;0;35.44744;Cecil;Junia;4h 51m 22s ;17482.65

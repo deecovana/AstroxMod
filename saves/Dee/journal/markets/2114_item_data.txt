@@ -10,3 +10,21 @@ NPC;+STOCK;2692;2395;37.32758;Proctors Center;Void Starcross;2h 26m 24s ;8784.13
 NPC;+PRICE;202;0;59.58993;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+QTY;2326;2014;47.94925;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;79;0;53.97068;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;-QTY;0;-15;43.04737;Void Raiders;Corbis Almuni;4h 11m 42s ;15102.06
+NPC;+STOCK;1773;1708;51.69162;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4101;1678;37.73002;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2326;2425;34.79937;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4047;1979;61.36919;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4346;2360;44.04105;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4927;2235;35.9436;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;114;0;30.21378;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;568;-1418;45.18638;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;2;0;69.30905;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;BAL;568;0;46.80909;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;12;0;55.38485;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;BAL;15;0;48.65835;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;5445;1344;37.96725;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;3957;1631;35.11525;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;2234;2191;72.75719;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;1620;1583;43.76038;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+QTY;1601;1487;29.9059;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

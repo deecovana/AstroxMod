@@ -12,3 +12,23 @@ NPC;+STOCK;1044;967;333.8236;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;37;0;333.6552;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+PRICE;63;0;193.2372;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;740;723;263.9875;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+PRICE;11;0;466.5814;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;909;868;370.7197;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1859;875;276.8074;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1585;853;397.4498;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1690;916;317.7589;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1722;678;313.3044;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-70;423.9962;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;5;0;405.1893;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;BAL;822;822;405.0018;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;20;0;386.9585;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;2484;625;276.9175;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;812;793;462.2475;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;580;524;440.0995;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;877;875;488.6462;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+QTY;894;882;357.9185;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;1032;987;470.2695;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+STOCK;923;917;327.5269;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;-PRICE;18;0;468.4495;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;1014;984;415.3763;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+QTY;899;886;307.6263;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

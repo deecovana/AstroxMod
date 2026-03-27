@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-3-0-2-1-0-2-0-5-3-2-6-90
 STATION;interior_seed;3-8-45-1
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;16286.24
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -38,6 +41,7 @@ MERC;3;0.55;npc_ship_data_(support_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Demands: (1) Items ;407x103;92533;71281.61
 BUYORDER;Market Items Req: (2) Items ;406x30,407x12;6107;43865.43
 
 SELLORDER;Market Goods: (2) Items ;107x17,113x54;303;46191.53
@@ -167,6 +171,8 @@ SKILL;42;0.99
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;30;240;777973;TRANSPORT#89#124#sector_0_station_3.txt#sector_14_station_0.txt#null#null#null#null;Transport a light shipment of <color='yellow'>89</color> <color='yellow'>Titanytes</color> from StarShepards Headquarters in <color='cyan'>Void Starcross</color> to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>;6;Transport manager <i>Sivbo Furamel</i> has requested a transport of a light shipment of <color='yellow'>89</color> <color='yellow'>Titanytes</color>. They need to be picked up at the storage facility at StarShepards Headquarters in <color='cyan'>Void Starcross</color>, and transported to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>. <i>Sivbo Furamel</i> will be waiting at Imperium Republica  to receive the shipment. ;8170;1900
+MISSION;110;600;625799;KILL_RAIDERS#sector_0_station_3.txt#sector_35.txt#2#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Hunt <color='yellow'>2 Raiders</color> level 10 in <color='cyan'>Felishar</color> and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>;6;There has been a small Raider gang hanging around the warp gates in <color='cyan'>Felishar</color>. The Pirate faction has requested a sector clearance contract. Head on over to the <color='cyan'>Felishar</color> and clear out the <color='yellow'>2 Raiders</color>, level 10 that have set up camp there. Dock at the StarShepards Headquarters station in <color='cyan'>Void Starcross</color> when complete.;31800;12000
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -177,3 +183,4 @@ SHIP;4;1.02;ship_data_(titan).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

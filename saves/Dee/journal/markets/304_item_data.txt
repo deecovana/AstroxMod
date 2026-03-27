@@ -17,3 +17,17 @@ NPC;+QTY;837;832;78.4325;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+QTY;911;910;104.4625;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;912;878;137.5137;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;BAL;16;0;118.559;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+STOCK;950;918;80.82699;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1674;974;82.76403;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;867;849;159.113;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1822;841;81.62343;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1601;885;59.03717;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;437;-544;84.08376;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;16;0;112.8782;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;437;0;96.86453;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;8;0;114.3236;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;1861;911;81.1725;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;884;882;130.2099;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+STOCK;865;847;90.77566;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;-PRICE;56;0;127.5955;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;22;0;149.9352;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

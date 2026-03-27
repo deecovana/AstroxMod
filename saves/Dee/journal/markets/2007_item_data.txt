@@ -5,3 +5,9 @@ NPC;+STOCK;970;123;317.1257;StarShepards Headquarters;Void Starcross;2h 26m 24s 
 NPC;+STOCK;282;132;366.641;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;314;130;448.5031;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;BAL;324;-146;330.3158;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;372;101;198.1427;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1109;139;307.7816;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;407;125;352.1293;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;185;-97;366.7129;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;56;-129;380.4032;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;477;105;198.3083;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

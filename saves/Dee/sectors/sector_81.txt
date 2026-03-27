@@ -4,7 +4,7 @@ SECTOR;name;Ferrelis Cove
 SECTOR;level;2
 SECTOR;faction;Pirate
 SECTOR;filename;sector_81.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;30

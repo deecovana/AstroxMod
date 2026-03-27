@@ -10,3 +10,12 @@ NPC;+QTY;2210;2189;16.70196;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;2279;2108;15.78412;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 PLAYER;-QTY;0;120;16.33629;Biomate University;Void Starcross;2h 42m 50s ;9770.702
 PLAYER;+QTY;78;78;16.41806;Biomate University;Void Starcross;3h 7m 54s ;11274.68
+NPC;+STOCK;4486;2051;15.05542;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4067;1797;9.721463;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4537;2154;10.87705;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;209;-2061;10.19812;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;6277;1791;15.03075;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;1476;1450;13.85475;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;2851;1375;13.85475;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;-PRICE;272;0;12.81689;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+PRICE;265;0;8.673351;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

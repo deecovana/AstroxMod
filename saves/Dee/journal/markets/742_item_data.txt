@@ -4,3 +4,10 @@ NPC;+STOCK;116;12;63657.2;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8
 NPC;+STOCK;169;10;86344.38;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;72;12;46183.77;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;BAL;81;-12;67254.86;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;63;11;84433.45;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;126;10;59139.65;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;181;12;82780.15;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;85;13;42989.78;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;155;-14;86375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;146;-9;95064.54;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;84;9;92043.75;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

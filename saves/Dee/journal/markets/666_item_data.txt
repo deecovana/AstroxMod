@@ -8,3 +8,10 @@ NPC;+STOCK;27;3;294284.4;StarShepards Headquarters;Void Starcross;2h 26m 24s ;87
 NPC;+STOCK;49;3;361567.1;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;11;0;369492.3;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;BAL;30;-3;283269.8;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;11;3;343789.5;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;30;3;282366.9;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;6;4;369305.3;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;53;4;352191.2;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-2;387562.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;13;2;344175;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;5;0;167697.6;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

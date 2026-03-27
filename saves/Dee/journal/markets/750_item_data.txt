@@ -5,3 +5,13 @@ NPC;+STOCK;167;12;13670.64;StarShepards Headquarters;Void Starcross;2h 26m 24s ;
 NPC;+STOCK;197;12;13207.6;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;165;7;6637.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;30;-8;13651.4;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+PRICE;123;0;15586.32;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+PRICE;50;0;6652.804;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;141;12;13305.54;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;179;12;13384.16;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;43;10;9584.112;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;207;10;12544.92;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;25;-8;9956.25;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;5;0;5715.043;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;-PRICE;30;0;13038.86;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;12;-13;10552.49;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

@@ -8,3 +8,16 @@ NPC;+STOCK;41;4;63937.38;Starbase Corporate Center;Void Starcross;2h 26m 24s ;87
 NPC;+STOCK;4;3;58424.36;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;26;0;145940;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;9;3;143325;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+PRICE;1;0;121673.4;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;52;3;111251.9;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;9;4;102124;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;13;3;108281.5;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;45;4;57813.1;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;7;3;57277.92;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;20;0;130928.4;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;37;-4;64187.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;33;-4;74155.89;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;12;3;101725;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;24;3;76844.63;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;10;3;61156.88;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;-PRICE;40;0;106713.2;Cecil;Junia;4h 51m 22s ;17482.65

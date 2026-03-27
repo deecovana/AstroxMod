@@ -15,3 +15,17 @@ NPC;+PRICE;33;0;31.9745;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;1033;962;42.09975;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;926;908;36.38723;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
 NPC;BAL;50;0;48.94805;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+PRICE;36;0;64.89613;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;960;926;52.81633;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1831;814;47.20544;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1805;868;44.18782;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1856;819;33.16187;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-10;57.47963;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;-QTY;0;-56;22.89263;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;6;0;41.95041;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;18;0;58.30643;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;1869;988;37.56375;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;1034;987;35.74581;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;737;729;23.38875;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;+PRICE;10;0;51.07058;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;886;858;54.07762;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

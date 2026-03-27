@@ -2,3 +2,7 @@ NPC;-PRICE;724;0;393.4616;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;-PRICE;749;0;775.3582;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;+STOCK;464;103;960.2285;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;896;147;772.2355;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;842;118;388.9422;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;601;137;932.8433;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;386;-78;956.7012;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;289;-97;942.6578;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

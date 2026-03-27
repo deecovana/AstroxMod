@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;71
 SECTOR;name;Goru Populan
-SECTOR;level;2.1
+SECTOR;level;2.0
 SECTOR;faction;Trade
 SECTOR;filename;sector_71.txt
 SECTOR;is_explored;False

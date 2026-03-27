@@ -1,2 +1,4 @@
 NPC;+STOCK;101;8;128430.7;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;49;8;311850;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+STOCK;112;11;117359.6;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;52;0;282375.8;Cecil;Junia;4h 51m 22s ;17482.65

@@ -5,3 +5,9 @@ NPC;+STOCK;114;4;861169.6;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;156;4;2414679;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;24;3;1795301;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;41;4;1434375;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;114;4;881724.2;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;159;3;2341433;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;27;3;1708841;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;154;-2;2409375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;35;0;2326015;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;152;-2;2163186;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

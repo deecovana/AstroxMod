@@ -4,3 +4,6 @@ NPC;+STOCK;832;146;105.9253;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;333;140;70.56564;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;236;113;123.1525;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;694;0;86.37827;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+STOCK;944;112;101.6392;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;346;110;118.2846;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;1068;124;101.5122;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

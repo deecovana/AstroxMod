@@ -1,3 +1,6 @@
 NPC;-LOCAL;720;0;1213.65;Proctors Center;Void Starcross;0h 34m 29s ;2069.568
 NPC;-LOCAL;26;26;1046.25;Proctors Center;Void Starcross;1h 25m 35s ;5135.035
 NPC;+STOCK;4467;4023;496.3703;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;5351;4656;570.9535;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4603;4577;1052.69;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-LOCAL;0;0;2325;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47

@@ -6,3 +6,9 @@ NPC;+STOCK;77;11;148585.5;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;49;0;238221.1;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+PRICE;25;0;253355.8;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;65;10;155937.5;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;+STOCK;82;10;212465;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;136;12;112759.5;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;88;11;138159.3;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;117;-7;123437.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;107;-10;132117.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;39;-9;199225.6;Terra Drone;Geminey;4h 40m 21s ;16821.04

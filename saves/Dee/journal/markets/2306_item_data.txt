@@ -1,2 +1,5 @@
 NPC;+STOCK;26;2;344726.4;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;18;0;474633.1;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+STOCK;28;2;340462.8;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;25;-1;344968.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;23;-2;350852.7;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

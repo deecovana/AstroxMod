@@ -1,0 +1,124 @@
+[s:30][c:yellow]Ferce Hub[/c][/s]
+Court Warehouse
+Leibe Leitoei
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 18435.02
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Small Mining Drone
+Small Combat Drone
+Small Defense Drone
+Small Repair Drone
+Small Tractor Drone
+Recon Scanner Drone
+Bomber Drone
+Micro Leech Drone
+Burglar Drone
+Improved Mining Drone
+Heavy Mining Drone
+Medium Mining Drone
+Large Mining Drone
+Titan Mining Drone
+Medium Combat Drone
+Improved Combat Drone
+Large Combat Drone
+Heavy Combat Drone
+Titan Combat Drone
+Medium Defense Drone
+Improved Defense Drone
+Large Defense Drone
+Heavy Defense Drone
+Titan Defense Drone
+Medium Repair Drone
+Improved Repair Drone
+Large Repair Drone
+Heavy Repair Drone
+Titan Repair Drone
+Small Salvage Drone
+Medium Salvage Drone
+Improved Salvage Drone
+Large Salvage Drone
+Heavy Salvage Drone
+Titan Salvage Drone
+[c:orange]DEMAND[/c]
+LED Lights
+Micro Processor
+Large Processor
+Motion Sensor
+Pressure Sensor
+Memory Chip
+Small Pump
+Small Heatsink
+Small Motor
+Copperi Cables
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Refinery
+Ship Hangar
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+[c:red]SELL Order[/c] Sale Request Order: (2) Items 
+ (5) x Cloak Booster
+ (4) x Basic Energy Armor
+Buy items for [c:lime]40,996 discount.[/c]
+[c:green]BUY Order[/c] Market Demands: (3) Items 
+ (232) x Small Motor
+ (151) x Motion Sensor
+ (96) x Motion Sensor
+Fulfill order for [c:lime]75,657 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (211) x Micro Processor
+ (105) x Small Pump
+ (156) x LED Lights
+Fulfill order for [c:lime]38,759 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (67) x Motion Sensor
+Fulfill order for [c:lime]6,244 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+
+
+<Station Missions>
+[c:lime]FABRICATE[/c]
+Produce a medium shipment of <color='yellow'>43</color> <color='yellow'>Titanyte Beams</color> in <color='cyan'>Bitcola</color> at the Tella's station fabricator
+
+[c:lime]ESCORT[/c]
+Escort <color='yellow'><i>Commander Peajalis Bazyi</i></color> from StarShepards Headquarters in <color='cyan'>Void Starcross</color> to Genistar in <color='cyan'>Blades of Dandrow</color>
+
+[c:lime]DELIVERY[/c]
+Take medium shipment of <color='yellow'>157</color> <color='yellow'>Aluminium Shards</color> and deliver to <color='cyan'>Gate of Alpharis</color> and dock at Horizons Station
+
+[c:lime]FABRICATE[/c]
+Produce a light container of <color='yellow'>6</color> <color='yellow'>Large Processors</color> at the OmniTrust fabricator in <color='cyan'>Ponze</color>
+
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Module Fragment</color> in <color='cyan'>Blades of Dandrow</color> and return with <color='yellow'>17</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Lammassu Financial in <color='cyan'>Void Starcross</color> to deliver a light shipment of <color='yellow'>3</color> <color='yellow'>Kinetics G-series Dual 20mms</color>
+
+[c:lime]REFINE[/c]
+Refine medium shipment of <color='yellow'>37</color> <color='yellow'>Plasite Ores</color> in <color='cyan'>Void Starcross</color> at the StarGypsy Warehouse station refinery
+
+
+
+<Station Ships>
+TCA-1 Mule / Carrier    (Transport)
+PS-1 Shuttle / Shuttle    (Assault)
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+TF-1 Hexalon / Frigate    (Transport)
+ES-1 Shuttle / Shuttle    (Excavation)
+TE-1 Phoebus / Escort    (Transport)
+TE-1 Phoebus / Escort    (Transport)

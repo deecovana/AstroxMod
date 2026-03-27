@@ -1,4 +1,5 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;2;Escort Ship Operation;1 min;12;2250.0;573510.125;Biomate University;Void Starcross;3h 31m 40s 
 SKILL;1;Frigate Ship Operation;2 min;17;6375.0;53220.229786396;Biomate University;Void Starcross;3h 4m 31s 
 SKILL;1;Utility Ship Operation;1 min;11;2625.0;40895.229786396;Biomate University;Void Starcross;2h 53m 7s 
 SKILL;2;Projectile Basic Operation;4 min;10;3020.0;43526.2297866344;Biomate University;Void Starcross;2h 47m 38s 

@@ -3,3 +3,11 @@ NPC;+STOCK;43;10;270764.9;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;78;10;449797.1;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;17;9;464595.6;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;21;9;619125;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;52;9;238479.5;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;89;11;432160.7;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;25;8;425944.8;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;7;-10;463125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;7;0;535715.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;63;11;235950;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;63;6;850541.3;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;-PRICE;44;0;452072.8;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

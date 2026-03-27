@@ -13,3 +13,14 @@ NPC;+QTY;861;820;13.36788;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+PRICE;2;0;14.20241;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;636;551;22.27025;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;18;0;16.95616;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;1006;928;17.57372;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1735;908;10.28277;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1546;739;21.14926;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1642;818;10.74864;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;40;0;10.27878;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-LOCAL;0;0;28.35966;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
+NPC;BAL;807;0;20.07647;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1585;902;14.48425;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;833;765;22.92548;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;83;0;24.95285;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;540;503;21.84087;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

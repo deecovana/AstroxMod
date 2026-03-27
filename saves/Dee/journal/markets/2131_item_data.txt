@@ -7,3 +7,14 @@ NPC;+STOCK;2009;1912;129.1776;Starbase Corporate Center;Void Starcross;2h 26m 24
 NPC;+PRICE;87;0;157.8012;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;BAL;161;0;147.6943;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;BAL;14;0;88.67093;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;-QTY;0;-23;99.7815;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
+NPC;+STOCK;2062;2161;83.31882;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2780;2187;115.1604;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4231;2222;120.1149;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-9;161.4113;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;-QTY;11;-1998;128.9033;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;24;0;117.7509;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;1350;1347;135.9015;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;2424;2184;191.6369;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;-PRICE;141;0;174.7489;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;82;0;124.3881;PharmaLife;Carioullis;4h 52m 11s ;17531.62

@@ -4,3 +4,7 @@ NPC;+LOCAL;12;10;268709.3;Proctors Center;Void Starcross;1h 25m 35s ;5135.035
 NPC;+STOCK;21;9;118852.2;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;74;0;843777.6;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+PRICE;22;0;393499;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+STOCK;73;9;783634.5;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;90;8;596418.9;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;30;9;118852.2;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;26;0;908649.8;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89

@@ -3,3 +3,7 @@ NPC;+STOCK;51;10;65527.14;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;15;10;46603.77;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;61;7;65110.54;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+PRICE;24;0;41325.25;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+PRICE;71;0;62101.49;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+STOCK;50;9;63122.55;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;24;9;42846.14;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;35;11;42479.66;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

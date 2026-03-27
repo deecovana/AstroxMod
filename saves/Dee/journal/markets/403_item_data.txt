@@ -12,3 +12,15 @@ NPC;+STOCK;866;862;8.613707;Starbase Corporate Center;Void Starcross;2h 26m 24s 
 NPC;+STOCK;1016;976;16.81168;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;826;819;18.4575;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;22;0;12.99231;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;1655;724;17.83995;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1873;872;22.72167;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1771;718;19.85823;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1764;898;8.272571;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1832;816;15.9377;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-17;23.31625;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;BAL;866;0;10.38149;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;2366;711;17.7675;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;694;686;20.0675;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;-PRICE;28;0;8.314436;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-PRICE;51;0;21.50194;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;625;622;24.54531;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

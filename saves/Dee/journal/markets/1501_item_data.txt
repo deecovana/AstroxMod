@@ -1,2 +1,5 @@
 NPC;+STOCK;42;9;1937.292;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;31;0;2825.44;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
+NPC;+QTY;57;10;2693.423;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+STOCK;23;8;1202.003;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+PRICE;23;0;2093.188;PharmaLife;Carioullis;4h 52m 11s ;17531.62

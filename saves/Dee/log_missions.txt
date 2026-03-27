@@ -1,4 +1,9 @@
 //;LOG DATA FILE (Astrox Imperium)
+COMPLETED;Delivery;Dock at Genistar in ;18,853;99832.783203125;Genistar;Blades of Dandrow;5h 12m 20s 
+ACCEPTED;Delivery;Dock at Genistar in Blade...;-19250;62030.01953125;Acrondia Hub;Temple Gates;4h 56m 3s 
+COMPLETED;Escort;Entert...;15,055;81380.01953125;Star Shepards Hub;Temple Gates;4h 52m 13s 
+ACCEPTED;Escort;Entertainer Cooyan Youkil...;-0;66725.01953125;Biomate University;Void Starcross;4h 36m 56s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;7,983;66725.01953125;Biomate University;Void Starcross;4h 36m 0s 
 COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;8,015;75760.1166558266;Biomate University;Void Starcross;3h 28m 25s 
 COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;8,047;67751.116656065;Biomate University;Void Starcross;3h 24m 35s 
 COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;8,367;55493.5153133869;Biomate University;Void Starcross;3h 19m 15s 

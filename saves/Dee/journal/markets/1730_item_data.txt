@@ -2,3 +2,7 @@ NPC;BAL;58;-10;3371.867;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;48;10;1513.397;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;66;8;3269.917;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;46;9;1536.371;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+PRICE;26;0;2233.087;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+STOCK;59;11;1445.344;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;77;11;3198.877;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;68;9;1435.027;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

@@ -4,3 +4,10 @@ NPC;+STOCK;505;102;91.80267;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.
 NPC;+STOCK;878;147;107.4035;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;809;88;120.263;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;252;96;80.8665;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;+STOCK;652;147;86.09872;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;72;0;72.10429;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-QTY;802;-76;107.6625;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;680;-122;111.0071;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;140;0;115.0193;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;402;110;114.8958;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+PRICE;264;0;121.1851;PharmaLife;Carioullis;4h 52m 11s ;17531.62

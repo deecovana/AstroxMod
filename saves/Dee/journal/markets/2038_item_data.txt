@@ -1,3 +1,6 @@
 NPC;-PRICE;396;0;840.1501;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;+STOCK;543;147;836.5637;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;850;142;1290.349;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;503;107;728.7736;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;993;143;1236.385;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;43;2;1783.227;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31

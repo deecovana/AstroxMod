@@ -5,3 +5,9 @@ NPC;+STOCK;805;102;163.7899;StarShepards Headquarters;Void Starcross;2h 26m 24s 
 NPC;+STOCK;536;122;133.0638;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;471;118;214.4804;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;561;94;132.9637;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;648;119;182.6308;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;683;147;123.7445;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;580;109;206.6267;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;394;-142;144.3257;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;369;91;98.56628;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;40;0;164.1779;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

@@ -3,3 +3,10 @@ NPC;BAL;96;0;1306.05;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;727;137;1105.931;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;771;127;1201.968;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;592;148;2000.967;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;737;147;1046.818;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;879;108;1152.211;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;238;142;1249.246;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;706;114;1924.048;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;479;-113;2004.995;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;391;-88;1932.048;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;992;113;1152.069;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

@@ -13,3 +13,12 @@ NPC;+LOCAL;150;3;23.3025;Biomate University;Void Starcross;2h 36m 32s ;9392.951
 NPC;+LOCAL;150;6;23.3025;Biomate University;Void Starcross;2h 50m 9s ;10209.02
 NPC;+LOCAL;150;18;23.3025;Biomate University;Void Starcross;3h 15m 34s ;11734.13
 NPC;+LOCAL;150;4;23.3025;Biomate University;Void Starcross;3h 20m 14s ;12014.06
+NPC;+LOCAL;150;1;23.3025;Biomate University;Void Starcross;3h 41m 18s ;13278.96
+NPC;+STOCK;280;130;8.666738;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;559;121;51.9821;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;749;101;73.56895;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;142;0;63.93458;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+QTY;657;98;51.80325;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;538;137;40.23177;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;-PRICE;304;0;28.9904;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;275;133;63.77267;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

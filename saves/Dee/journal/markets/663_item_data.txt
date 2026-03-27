@@ -8,3 +8,15 @@ NPC;+STOCK;49;3;50024.59;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;10;0;29614.71;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+QTY;10;2;40187.5;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;BAL;30;-2;30553.04;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+PRICE;18;0;18998.46;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;6;3;18964.69;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;17;4;44563.63;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;41;4;24656.86;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;31;4;47727.82;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;25;-2;49187.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;22;-3;44532.02;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;24;4;41125;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;30;3;56555.63;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;4;3;22521.88;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+PRICE;34;0;52388.09;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;9;2;30187.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

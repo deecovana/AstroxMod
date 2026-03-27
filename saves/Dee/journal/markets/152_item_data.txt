@@ -9,3 +9,10 @@ NPC;+STOCK;582;142;8.170407;Biomate University;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;270;120;4.656142;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;682;115;6.341804;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;134;107;6.18075;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+STOCK;561;121;7.812512;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;405;135;4.465363;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;804;122;6.031276;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-106;7.180125;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;+QTY;544;139;4.45875;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;588;110;7.631382;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+PRICE;32;0;7.446318;PharmaLife;Carioullis;4h 52m 11s ;17531.62

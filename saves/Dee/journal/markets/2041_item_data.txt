@@ -1,3 +1,5 @@
 NPC;-PRICE;264;0;616.7791;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;+QTY;121;91;593.8969;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;+STOCK;398;134;613.5679;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;534;147;607.8694;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;739;0;618.165;Cecil;Junia;4h 51m 22s ;17482.65

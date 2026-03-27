@@ -2,3 +2,8 @@ NPC;-PRICE;12;0;127022.9;Keyworx;Geminey;0h 0m 23s ;23.44398
 NPC;+QTY;14;2;127312.5;Keyworx;Geminey;0h 50m 9s ;3009.769
 NPC;+STOCK;27;2;77554.23;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;63;1;104316.2;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+STOCK;29;2;75990.09;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;26;-1;77260.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;62;-1;104864;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;24;-2;88259.79;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;9;-1;63105.64;Blargg's;Beacon Spita;4h 40m 21s ;16821.04

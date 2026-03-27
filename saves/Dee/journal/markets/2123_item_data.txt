@@ -8,3 +8,15 @@ NPC;+STOCK;2069;2009;655.6255;Starbase Corporate Center;Void Starcross;2h 26m 24
 NPC;+STOCK;2835;2380;942.486;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;295;0;930.7253;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;BAL;63;0;781.8851;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+PRICE;130;0;646.0443;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+STOCK;2283;1797;358.8375;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;5825;1803;634.7412;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4523;2197;458.8893;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4288;2219;621.3803;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4709;1874;904.7916;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;1;0;673.1578;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-QTY;572;-1497;653.3881;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;0;-413;419.9596;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-PRICE;63;0;756.7358;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;572;0;709.9838;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;22;0;537.1069;PharmaLife;Carioullis;4h 52m 11s ;17531.62

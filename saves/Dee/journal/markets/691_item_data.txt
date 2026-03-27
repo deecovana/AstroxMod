@@ -9,3 +9,10 @@ NPC;+STOCK;153;21;12858.68;StarShepards Headquarters;Void Starcross;2h 26m 24s ;
 NPC;+STOCK;47;21;17642.81;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;85;23;23212.5;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;BAL;13;0;31085.55;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;76;18;18486.48;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;177;24;11663.86;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;69;22;16278.85;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;33;-14;17512.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;19;-14;18384.4;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;111;23;20775;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+PRICE;18;0;29559.02;Dustardz;Redsky;4h 52m 11s ;17531.62

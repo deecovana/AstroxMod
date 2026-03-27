@@ -10,3 +10,11 @@ NPC;+STOCK;1073;999;33.18185;Starbase Corporate Center;Void Starcross;2h 26m 24s
 NPC;+STOCK;957;874;52.00915;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;11;0;55.40118;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+QTY;942;928;36.83887;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+PRICE;1;0;29.90601;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+PRICE;11;0;57.40141;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;1632;929;41.33018;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1892;935;49.92038;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-LOCAL;0;0;70.16122;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
+NPC;BAL;170;-903;37.61349;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1740;890;25.06825;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;814;789;29.57863;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

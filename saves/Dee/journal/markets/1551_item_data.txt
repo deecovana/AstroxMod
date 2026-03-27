@@ -7,3 +7,6 @@ NPC;+STOCK;21;9;1003.454;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+LOCAL;12;1;2367.495;Biomate University;Void Starcross;2h 30m 13s ;9013.771
 NPC;+LOCAL;12;1;2367.495;Biomate University;Void Starcross;2h 36m 32s ;9392.951
 NPC;+LOCAL;12;1;2367.495;Biomate University;Void Starcross;2h 50m 9s ;10209.02
+NPC;+LOCAL;12;1;2367.495;Biomate University;Void Starcross;3h 41m 18s ;13278.96
+NPC;+STOCK;20;8;880.526;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;39;8;3572.641;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

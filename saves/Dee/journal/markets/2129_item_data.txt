@@ -3,3 +3,10 @@ NPC;+STOCK;1989;1812;120.3029;Biomate University;Void Starcross;2h 26m 24s ;8784
 NPC;+STOCK;2559;2387;125.5616;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;1861;1817;121.9827;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;1876;1804;63.43777;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
+NPC;+STOCK;2136;1959;118.276;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2286;1978;116.2871;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4273;1714;119.768;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;3655;1794;119.9784;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;203;-2356;125.7124;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;11;0;133.0097;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;+QTY;1793;1589;70.4392;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

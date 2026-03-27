@@ -5,3 +5,5 @@ NPC;-PRICE;50;0;2948.418;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+STOCK;115;20;4209.403;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;105;0;2689.628;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+PRICE;17;0;4902.085;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+STOCK;119;24;4133.615;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;68;0;4494.521;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65

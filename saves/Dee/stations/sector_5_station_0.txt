@@ -41,6 +41,7 @@ MERC;8;1.00;npc_ship_data_(battle_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+
 ITEM;1202;5;0.81;0
 ITEM;1111;27;1.25;0
 ITEM;1113;24;0.61;3177.5

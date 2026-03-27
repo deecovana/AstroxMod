@@ -2,3 +2,6 @@ NPC;-PRICE;15;0;253351.9;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;+STOCK;57;10;348442.9;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;55;0;727855.1;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+QTY;25;10;255125;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;68;11;336993.4;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;31;-7;364581;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-PRICE;31;0;336028.7;Cecil;Junia;4h 51m 22s ;17482.65

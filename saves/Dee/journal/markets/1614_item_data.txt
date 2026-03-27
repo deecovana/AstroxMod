@@ -1,2 +1,5 @@
 NPC;+STOCK;66;11;224964.2;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;51;8;96200.7;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;75;9;215213.9;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;60;9;90898.38;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;85;10;214014.9;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

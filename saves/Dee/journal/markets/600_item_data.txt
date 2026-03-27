@@ -14,3 +14,19 @@ NPC;+QTY;19;3;5080.938;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;28;3;3712.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;3;0;4711.45;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
 NPC;BAL;10;-2;5193.286;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+PRICE;10;0;2588.128;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;-QTY;1;-2;2268.75;Void Raiders;Corbis Almuni;4h 11m 42s ;15102.06
+NPC;+STOCK;5;3;2334.839;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;41;4;3232.768;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;13;4;4744.508;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;49;4;1811.534;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;37;3;2161.807;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;2;-4;5068.75;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;32;-2;2318.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;29;-3;2552.677;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;5;0;3176.673;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;45;4;3212.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;20;3;2855.563;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;6;3;4068.75;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+QTY;5;2;3505.563;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+QTY;5;3;4918.75;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

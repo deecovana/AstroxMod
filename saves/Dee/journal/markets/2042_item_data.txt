@@ -1,3 +1,7 @@
 NPC;+LOCAL;150;1;772.3258;StarShepards Headquarters;Void Starcross;0h 28m 28s ;1708.679
 NPC;+STOCK;286;136;609.0891;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;113;104;379.4061;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;391;105;601.9684;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;260;147;362.5618;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;589;-89;567.3764;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-PRICE;589;0;534.9017;Cecil;Junia;4h 51m 22s ;17482.65

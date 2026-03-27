@@ -14,3 +14,14 @@ NPC;+QTY;9;3;4517.5;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
 NPC;+QTY;11;4;4537.5;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;+QTY;12;4;9937.5;Psybermind;Ion Child;2h 36m 11s ;9371.667
 NPC;BAL;3;0;6455.067;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+PLAYER;-QTY;45;1;5208.75;Biomate University;Void Starcross;3h 52m 32s ;13952.42
+NPC;-QTY;7;-3;6708.75;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;48;3;4921.151;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;11;3;4256.762;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;31;3;7510.303;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;41;4;10401.71;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;14;4;8526.036;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;17;4;10839.14;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;8;-2;9476.039;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;7;0;5121.408;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;6;2;8537.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

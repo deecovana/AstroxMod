@@ -3,3 +3,7 @@ NPC;+STOCK;815;108;174.9536;Biomate University;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;717;121;313.3201;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;575;143;313.5367;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;110;0;209.6672;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;852;145;170.561;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;863;146;307.1613;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;322;85;336.1729;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+STOCK;171;139;221.8855;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54

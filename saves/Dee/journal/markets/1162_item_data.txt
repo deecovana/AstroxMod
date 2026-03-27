@@ -5,3 +5,8 @@ NPC;+STOCK;112;10;6208.095;Starbase Corporate Center;Void Starcross;2h 26m 24s ;
 NPC;+PRICE;51;0;11579.28;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+PRICE;3;0;12400.97;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+QTY;10;8;8215.875;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+STOCK;63;10;11286.44;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;29;9;10482.27;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;12;23;3542.5;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;4;-8;1566.875;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;4;0;1797.465;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

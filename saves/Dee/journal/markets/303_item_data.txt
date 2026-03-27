@@ -12,3 +12,20 @@ NPC;+PRICE;57;0;47.51233;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960
 NPC;+QTY;857;854;44.8797;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
 NPC;BAL;66;0;47.57082;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;BAL;14;0;45.62062;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;-QTY;0;-7;67.59385;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;788;768;75.90281;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1668;959;68.95422;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1589;820;83.81371;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1787;865;76.05143;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1665;779;26.32169;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-6;67.8365;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;0;-922;77.1205;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;0;-47;67.59543;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;821;821;71.49256;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;3;0;79.29028;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;2639;971;68.575;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;657;644;86.62737;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+STOCK;765;747;32.66213;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+PRICE;53;0;46.02855;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;721;710;68.6805;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;+QTY;948;916;70.84853;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

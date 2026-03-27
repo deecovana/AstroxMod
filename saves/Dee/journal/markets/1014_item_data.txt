@@ -3,3 +3,8 @@ NPC;+STOCK;102;8;4717.856;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;2;0;5669.424;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;46;6;3068.75;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+PRICE;2;0;5463.818;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+STOCK;105;11;4638.096;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;21;10;3858.393;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;5;-6;3918.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;5;0;4316.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;21;11;4702.188;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

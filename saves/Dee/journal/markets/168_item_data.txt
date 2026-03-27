@@ -7,3 +7,17 @@ NPC;+STOCK;233;133;43.21345;Starbase Corporate Center;Void Starcross;2h 26m 24s 
 NPC;+STOCK;1046;108;38.14638;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;77;0;76.96973;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
 NPC;+QTY;204;128;32.09575;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+PRICE;276;0;33.2782;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;343;149;32.94948;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;699;104;52.14549;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;376;143;40.69832;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1164;118;36.15063;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-23;56.40862;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;-QTY;147;-86;43.18462;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;201;0;29.03104;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;147;0;47.57556;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;85;0;53.00084;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;425;82;33.19775;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;260;137;51.93175;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;377;117;51.93175;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;306;130;44.28662;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

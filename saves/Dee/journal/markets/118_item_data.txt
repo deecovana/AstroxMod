@@ -9,3 +9,13 @@ NPC;+STOCK;324;234;5.438722;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.
 NPC;+STOCK;735;177;5.376675;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;1271;134;2.65375;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;360;-219;3.195276;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;-QTY;106;-244;6.109813;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;1107;208;3.04763;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;528;204;5.204841;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;367;-240;3.925625;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;1015;-178;2.479916;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-PRICE;415;0;6.912273;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;240;-127;3.991568;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1148;209;5.011119;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;1123;0;3.419411;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;851;232;1.811906;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

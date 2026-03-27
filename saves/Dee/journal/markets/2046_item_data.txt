@@ -2,3 +2,5 @@ NPC;+LOCAL;150;1;3223.234;StarShepards Headquarters;Void Starcross;0h 28m 28s ;1
 NPC;+QTY;664;121;1313.772;Foodmaid;Daelus;0h 50m 9s ;3009.769
 NPC;+STOCK;808;130;1846.982;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;289;139;2677.802;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;808;130;1841.163;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;426;137;2599.287;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92

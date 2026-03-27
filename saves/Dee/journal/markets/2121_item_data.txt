@@ -6,3 +6,15 @@ NPC;+STOCK;2203;2073;552.8964;Lammassu Financial;Void Starcross;2h 26m 24s ;8784
 NPC;+STOCK;2292;2391;516.9448;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;2094;1970;380.9069;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;9;0;616.0314;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
+NPC;-QTY;0;-88;347.0759;Void Raiders;Corbis Almuni;4h 11m 42s ;15102.06
+NPC;-QTY;0;-24;569.3903;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
+NPC;-QTY;0;-34;207.5155;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;2365;2315;507.1241;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4385;2182;527.6645;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2040;1791;397.924;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4559;2267;499.0269;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4534;2440;373.0857;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;6332;1947;526.9183;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;1685;1410;303.2036;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;129;0;291.3429;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;17;0;226.4279;PharmaLife;Carioullis;4h 52m 11s ;17531.62

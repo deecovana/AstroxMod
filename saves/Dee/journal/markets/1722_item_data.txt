@@ -1,2 +1,7 @@
 NPC;+STOCK;69;9;1687.424;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;75;8;3337.402;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;78;9;1602.351;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;86;11;3261.518;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;66;-9;3320.549;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;59;-7;3603.772;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;57;0;3451.775;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

@@ -3,7 +3,7 @@ Engineering Facility
 Bemdee Tudoe
 Temple
 [c:lime]Dock fee 100[/c]
-Timestamp: 3490.424
+Timestamp: 17648.16
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -37,119 +37,127 @@ Mission Contracts
 
 
 <Station Market Orders>
+[c:red]SELL Order[/c] Market Surplus: (2) Items 
+ (51) x Cleaning Chemicals
+ (337) x Large Heatsink
+Buy items for [c:lime]33,949 discount.[/c]
+[c:green]BUY Order[/c] Market Needs Goods: (2) Items 
+ (54) x Calibration Tools
+ (75) x Medical Instruments
+Fulfill order for [c:lime]10,697 profit.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
-Adamyte Ore  44 - z13
-Advanced 20mm  45 - z29
-Advanced 60mm  10 - z48
-Advanced Missile  30 - z93
-Anti-Freeze  6 - z46
-Antimatter 20mm  3 - z38
-Antimatter Missile  26 - z444
-Assault x1 Launcher  1 - z1,941
-Assorted Gaskets  97 - z12
-Basic Afterburner  1 - z919
-Basic Armor Exterior  8 - z1,163
-Basic Armor Exterior (Doc)  6 - z13,182
-Basic Cargo Expansion  9 - z2,089
-Basic Drone Command Bay  5 - z2,179
-Basic Energy Armor (Doc)  5 - z46,204
-Basic Energy Capacitor  4 - z1,700
-Basic Energy Generator  8 - z3,180
-Basic Engine Core  6 - z4,819
-Basic Explosive Armor  8 - z7,167
-Basic Explosive Armor (Doc)  8 - z72,224
-Basic Filter  2 - z2,669
-Basic Mass Reduction  5 - z532
-Basic Missile  34 - z21
-Basic Scan Booster  9 - z1,615
-Basic Scan Emitter  8 - z1,070
-Basic Shield Booster  1 - z1,537
-Basic Shield Booster (Doc)  6 - z30,638
-Basic Shield Generator  6 - z1,419
-Basic Targeting System  5 - z996
-Basic Thruster  2 - z771
-Basic Thruster (Doc)  5 - z12,647
-Basic Turn Thrust  4 - z1,548
-Blaster x1 Laser  1 - z974
-Bomber Drone  1 - z9,506
-Candy Cane  5 - z35
-Candy Corn  8 - z19
-Carbon  120 - z1
-Carbon Fiber  57 - z61
-Carbon Fiber (Doc)  3 - z419
-Chocolate Bars  4 - z21
-Cleaning Chemicals  7 - z61
-Colored Dye  7 - z77
-Corrosive 60mm  18 - z76
-Corrosive Missile  13 - z211
-Disposables  3 - z4,719
-Explosive 20mm  38 - z43
-Fasteners  40 - z8
-Focused x1 Laser  1 - z1,125
-Focused x1 Laser (Doc)  7 - z13,839
-Fusion 60mm  21 - z74
-Fusion Missile  36 - z64
-Generic Dual 20mm Gun  3 - z1,084
-Generic Gatling 20mm Gun  9 - z620
-Generic Single 20mm Gun  5 - z1,313
-Gummy Bears  9 - z28
-Heavy Combat Drone  15 - z147,469
-Heavy Energy Charge  4 - z270,788
-Heavy Salvage Drone  14 - z144,169
-Heavy Shield Charge  13 - z183,050
-Ion Beam Class 1  6 - z2,389
-Iron Coring Pipes  43 - z95
-Iron Coring Plates  37 - z82
-Junk Part  45 - z100
-Kinetic 20mm  41 - z20
-Kinetic Missile  37 - z472
-Large Defense Drone  8 - z59,375
-Large Heatsink  32 - z112
-Large Microchip  39 - z126
-Large Mining Drone  8 - z113,375
-Large Pump  33 - z193
-Large Salvage Drone  13 - z61,375
-Large Web Field  1 - z92,063
-Light Shield Recharger  2 - z30,456
-Liquid Coolant  83 - z39
-Lubricant  99 - z9
-Metal Brackets  75 - z33
-Misc Hardware  32 - z236
-Nuts And Bolts  20 - z12
-Nuts And Bolts (Doc)  6 - z87
-Ornament  6 - z333
-Oxygen  68 - z1
-Plasma Beam Class 1  8 - z1,605
-Protein Bar  4 - z2,269
-Proton Missile  43 - z171
-Pulse x1 Laser  2 - z337
-Pulse x1 Laser (Doc)  4 - z2,483
-Rapid x1 Launcher  9 - z1,793
-Reinforced Rubber  33 - z19
-Salvage Collector 1  9 - z4,971
-Salvage Collector 1 (Doc)  6 - z46,448
-Small Combat Drone (Doc)  9 - z31,230
-Small Electronics  37 - z295
-Small Life Support Pack  18 - z9,765
-Small Microchip  26 - z333
-Steelium Beam  99 - z10
-Steelium Pipes  52 - z19
-Steelium Plates  31 - z567
-Tactical x1 Launcher  5 - z1,846
-Thermal Controller  2 - z3,669
-Titan Defense Drone  15 - z280,938
-Titanyte Beams  34 - z696
-Torpedo Mark I  27 - z55
-Torpedo Mark III  17 - z180
-Torpedo Mark V  8 - z314
-Torpedo Mark X  3 - z707
-Toxic 20mm  19 - z81
-Water  32 - z0
-Wrapped Box  9 - z5,251
-x1 Torpedo Launcher (Doc)  5 - z359,910
+Adamyte Ore  44 - z0
+Advanced 20mm  45 - z0
+Advanced 60mm  10 - z0
+Advanced Missile  1768 - z92
+Anti-Freeze  6 - z92
+Antimatter 20mm  3 - z92
+Antimatter Missile  26 - z92
+Assault x1 Launcher  1 - z92
+Assorted Gaskets  97 - z92
+Basic Afterburner  1 - z92
+Basic Armor Exterior  8 - z92
+Basic Armor Exterior (Doc)  6 - z92
+Basic Cargo Expansion  9 - z92
+Basic Drone Command Bay  14 - z2,121
+Basic Energy Armor (Doc)  5 - z2,121
+Basic Energy Capacitor  4 - z2,121
+Basic Energy Generator  8 - z2,121
+Basic Engine Core  6 - z2,121
+Basic Explosive Armor  8 - z2,121
+Basic Explosive Armor (Doc)  8 - z2,121
+Basic Filter  2 - z2,121
+Basic Mass Reduction  5 - z2,121
+Basic Missile  34 - z2,121
+Basic Scan Booster  9 - z2,121
+Basic Scan Emitter  8 - z2,121
+Basic Shield Booster  1 - z2,121
+Basic Shield Booster (Doc)  6 - z2,121
+Basic Shield Generator  6 - z2,121
+Basic Targeting System  5 - z2,121
+Basic Thruster  2 - z2,121
+Basic Thruster (Doc)  5 - z2,121
+Basic Turn Thrust  4 - z2,121
+Blaster x1 Laser  1 - z2,121
+Bomber Drone  1 - z2,121
+Candy Cane  5 - z2,121
+Candy Corn  8 - z2,121
+Carbon  120 - z2,121
+Carbon Fiber  57 - z2,121
+Carbon Fiber (Doc)  5 - z401
+Chocolate Bars  4 - z401
+Cleaning Chemicals  873 - z58
+Colored Dye  7 - z58
+Corrosive 60mm  18 - z58
+Corrosive Missile  1937 - z207
+Disposables  3 - z207
+Explosive 20mm  38 - z207
+Fasteners  40 - z207
+Focused x1 Laser  1 - z207
+Focused x1 Laser (Doc)  7 - z207
+Fusion 60mm  2351 - z73
+Fusion Missile  36 - z73
+Generic Dual 20mm Gun  3 - z73
+Generic Gatling 20mm Gun  19 - z604
+Generic Single 20mm Gun  5 - z604
+Gummy Bears  9 - z604
+Heavy Combat Drone  15 - z604
+Heavy Energy Charge  4 - z604
+Heavy Salvage Drone  14 - z604
+Heavy Shield Charge  13 - z604
+Ion Beam Class 1  14 - z2,309
+Iron Coring Pipes  43 - z2,309
+Iron Coring Plates  37 - z2,309
+Junk Part  45 - z2,309
+Kinetic 20mm  41 - z2,309
+Kinetic Missile  37 - z2,309
+Large Defense Drone  8 - z2,309
+Large Heatsink  32 - z2,309
+Large Microchip  39 - z2,309
+Large Mining Drone  8 - z2,309
+Large Pump  158 - z186
+Large Salvage Drone  13 - z186
+Large Web Field  1 - z186
+Light Shield Recharger  2 - z186
+Liquid Coolant  83 - z186
+Lubricant  203 - z8
+Metal Brackets  75 - z8
+Misc Hardware  171 - z222
+Nuts And Bolts  20 - z222
+Nuts And Bolts (Doc)  6 - z222
+Ornament  923 - z328
+Oxygen  68 - z328
+Plasma Beam Class 1  8 - z328
+Protein Bar  4 - z328
+Proton Missile  43 - z328
+Pulse x1 Laser  2 - z328
+Pulse x1 Laser (Doc)  4 - z328
+Rapid x1 Launcher  20 - z1,763
+Reinforced Rubber  33 - z1,763
+Salvage Collector 1  9 - z1,763
+Salvage Collector 1 (Doc)  6 - z1,763
+Small Combat Drone (Doc)  9 - z1,763
+Small Electronics  150 - z286
+Small Life Support Pack  18 - z286
+Small Microchip  26 - z286
+Steelium Beam  99 - z286
+Steelium Pipes  52 - z286
+Steelium Plates  170 - z544
+Tactical x1 Launcher  5 - z544
+Thermal Controller  2 - z544
+Titan Defense Drone  15 - z544
+Titanyte Beams  177 - z685
+Torpedo Mark I  1947 - z51
+Torpedo Mark III  17 - z51
+Torpedo Mark V  8 - z51
+Torpedo Mark X  3 - z51
+Toxic 20mm  19 - z51
+Water  32 - z51
+Wrapped Box  9 - z51
+x1 Torpedo Launcher (Doc)  5 - z51
 
 
 <Station University Skills>
@@ -164,9 +172,6 @@ Miner Cycle Mechanics
 
 
 <Station Missions>
-[c:lime]DELIVERY[/c]
-Deliver light container of <color='yellow'>9</color> <color='yellow'>Thruster Casings</color> to Transporteers Station in <color='cyan'>Hunu</color>
-
 [c:lime]DIALOG[/c]
 Collect a small debt from <color='yellow'><i>Laborer Jidtaj Komne</i></color> in <color='cyan'>Void Starcross</color> and return to ValueStar in <color='cyan'>Hunu</color>
 
@@ -175,6 +180,15 @@ Collect a small debt from <color='yellow'><i>Laborer Jidtaj Komne</i></color> in
 
 [c:lime]DELIVERY[/c]
 Dock at StarShepards Headquarters in <color='cyan'>Void Starcross</color> to deliver a light shipment of <color='yellow'>40</color> <color='yellow'>Steelium Beams</color>
+
+[c:lime]TRANSPORT[/c]
+Move light cargo from Lammassu Financial in <color='cyan'>Void Starcross</color> and dock with <color='yellow'>264</color> <color='yellow'>Candy Corns</color> at Proctors Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Fabricator Poehom Demiimes</i></color> in <color='cyan'>Ferrelis Cove</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]SCAN[/c]
+Find the target <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Ballast Crow</color>, scan, and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
 
 
 

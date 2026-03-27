@@ -5,3 +5,8 @@ NPC;+STOCK;195;10;44199.75;Biomate University;Void Starcross;2h 26m 24s ;8784.13
 NPC;+STOCK;21;11;45075.67;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;84;14;31283.05;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;21;0;19759.07;Spacebook;Phistatisia;2h 34m 4s ;9244.389
+NPC;+STOCK;196;11;43467.46;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;26;10;40734.54;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;34;13;43117.56;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;97;13;29254.23;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;7;0;26221.93;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74

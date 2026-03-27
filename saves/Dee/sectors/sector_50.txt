@@ -79,6 +79,7 @@ RESOURCE;1;3229.8;-166.0;-439.5;200;200
 WARPGATE;1;sector_45.txt;3;-1608.7;405.4;999.6;0;law;0.0
 WARPGATE;2;sector_46.txt;2;1987.8;-448.3;1447.3;0;law;0.0
 WARPGATE;3;sector_53.txt;1;2284.5;92.0;-2050.8;0;law;0.0
+WARPGATE;4;generate;1;-516;234;4;8;wormhole;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;43;0;0;0;40;40;0;0,0,0.4,0.8;//rings

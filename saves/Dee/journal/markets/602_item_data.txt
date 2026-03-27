@@ -9,3 +9,14 @@ NPC;+STOCK;12;3;15418.1;StarShepards Headquarters;Void Starcross;2h 26m 24s ;878
 NPC;+STOCK;14;4;18181.17;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;42;4;15268.75;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;35;-3;12158.11;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+PRICE;9;0;18200.65;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+STOCK;13;4;18987.53;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;40;4;12548.55;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;33;3;7351.438;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;15;3;15387.06;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;18;4;17609.45;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;24;-2;8240.641;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;9;-3;17392.71;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;3;-4;18838.44;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;44;4;12468.75;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;14;3;7019.469;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

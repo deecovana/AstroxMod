@@ -13,3 +13,12 @@ NPC;+PRICE;402;0;0.5961117;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+PRICE;589;0;0.7857984;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+QTY;242;201;0.9072925;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+QTY;299;171;0.8947001;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+STOCK;890;223;0.4461127;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;559;243;0.6443197;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1516;234;0.4162082;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1395;237;0.3089124;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;686;227;0.9447473;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;1013;-145;0.35305;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;1036;146;0.4439;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;492;241;0.9131;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;-PRICE;721;0;0.8273968;Cecil;Junia;4h 51m 22s ;17482.65

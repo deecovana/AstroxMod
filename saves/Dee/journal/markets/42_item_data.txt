@@ -6,3 +6,8 @@ NPC;+PRICE;160;0;13.967;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;2625;2307;23.56275;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 PLAYER;-QTY;0;164;24.74756;Biomate University;Void Starcross;3h 6m 12s ;11172.58
 PLAYER;+QTY;2;2;25.01456;Biomate University;Void Starcross;3h 16m 2s ;11762.73
+NPC;+PRICE;195;0;11.81595;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+PRICE;254;0;29.71633;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+STOCK;2537;2291;25.47534;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1828;1730;18.0725;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;117;0;19.40791;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74

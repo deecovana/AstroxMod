@@ -9,3 +9,15 @@ NPC;+STOCK;825;787;22.43808;StarShepards Headquarters;Void Starcross;2h 26m 24s 
 NPC;+STOCK;802;790;14.8477;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;722;721;16.27545;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;761;760;25.61181;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
+NPC;+STOCK;875;778;19.25975;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1686;906;12.41326;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2480;850;39.94043;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1730;928;14.1708;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;46;0;30.39849;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;0;-31;34.12771;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-PRICE;4;0;25.7441;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;BAL;802;0;17.97169;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;2500;814;12.4775;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;609;606;15.2675;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;636;630;24.21449;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+QTY;812;800;33.59625;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

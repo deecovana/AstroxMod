@@ -11,3 +11,12 @@ NPC;+PRICE;185;0;759.1183;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+QTY;2426;2328;477.5409;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
 NPC;BAL;387;0;513.8452;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;BAL;280;0;596.9717;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+PRICE;258;0;345.9929;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;4893;2476;608.2813;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4191;2362;354.2538;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;5007;2112;405.0091;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4304;1868;696.5707;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-368;721.9382;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;2353;0;352.6967;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1769;1533;334.202;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;-PRICE;59;0;593.6592;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

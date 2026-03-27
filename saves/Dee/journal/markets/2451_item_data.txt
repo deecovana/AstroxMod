@@ -1,2 +1,6 @@
 NPC;-PRICE;25;0;542.195;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+STOCK;51;2;1278.026;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;53;2;1242.791;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;40;2;689.8931;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;55;2;1238.64;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;56;1;524.706;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

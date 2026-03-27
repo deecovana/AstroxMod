@@ -6,3 +6,13 @@ NPC;+STOCK;2233;2137;171.7381;Starbase Corporate Center;Void Starcross;2h 26m 24
 NPC;+PRICE;299;0;85.2878;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+PRICE;164;0;224.4176;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;BAL;66;0;139.7949;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;2012;1818;119.6836;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4236;1752;97.17829;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2572;2409;172.3043;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4695;2462;162.1692;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-73;212.75;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;-QTY;0;-2233;170.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;2442;2442;186.6261;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;6624;2388;96.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+STOCK;1937;1924;206.9298;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;-PRICE;303;0;209.4971;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65

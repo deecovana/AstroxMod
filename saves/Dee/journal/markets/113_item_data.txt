@@ -11,3 +11,14 @@ NPC;+QTY;360;207;3.255875;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;1383;234;4.40725;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;361;161;3.255875;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;BAL;450;-197;5.531237;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+PRICE;11;0;3.487231;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;1259;232;5.230232;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;798;193;3.335024;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;528;186;6.400546;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1018;210;5.607604;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;565;234;4.809394;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;644;187;6.568213;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;163;-199;5.698002;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;947;149;3.30925;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;721;0;5.515387;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;974;0;2.857273;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

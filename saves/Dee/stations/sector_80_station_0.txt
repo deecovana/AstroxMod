@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-9-1-4-1-1-5-0-6-3-0-1-90
 STATION;interior_seed;5-9-45-1
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;15974.44
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -26,7 +29,6 @@ SERVICES;storage;True
 SERVICES;fabricator;True
 SERVICES;contracts;True
 SERVICES;admin;False
-
 // ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
 ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
 // MERC;level;Price_modifier;Ship_filename
@@ -38,113 +40,137 @@ MERC;6;1.66;npc_ship_data_(pirate_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-BUYORDER;Market Low Inventory: (2) Items ;325x281,321x237;90958;48933.28
-
-BUYORDER;Buying: (1) Items ;1470x1;39519;59883.79
-SELLORDER;Sale Request Order: (1) Items ;1562x1;8571;24341.44
-
-ITEM;1460;5;0.87
-ITEM;1200;5;1.18
-ITEM;1003;3;0.92
-ITEM;1150;7;0.61
-ITEM;1050;7;0.54
-ITEM;1001;6;0.79
-ITEM;1120;7;0.82
-ITEM;1100;8;1.16
-ITEM;1470;9;0.71
-ITEM;1400;6;0.70
-ITEM;1170;5;1.08
-ITEM;1110;9;0.76
-ITEM;1002;1;0.78
-ITEM;1160;3;0.89
-ITEM;1052;2;0.72
-ITEM;1054;5;0.66
-ITEM;1540;9;0.77
-ITEM;1750;7;0.76
-ITEM;1560;2;1.21
-ITEM;1620;7;0.77
-ITEM;1570;4;1.17
-ITEM;1520;1;1.14
-ITEM;1610;8;0.76
-ITEM;1580;2;1.19
-ITEM;1550;2;0.99
-ITEM;1630;3;1.06
-ITEM;1615;1;1.02
-ITEM;1510;5;0.58
-ITEM;1590;2;1.15
-ITEM;1530;6;1.11
-ITEM;1650;2;1.20
-ITEM;1600;4;0.53
-ITEM;1640;8;0.72
-ITEM;1500;1;0.77
-ITEM;2119;1;0.72
-ITEM;63;41;0.77
-ITEM;43;6;0.82
-ITEM;2115;12;1.10
-ITEM;41;1;0.97
-ITEM;2126;6;0.66
-ITEM;2127;47;1.22
-ITEM;2125;17;0.68
-ITEM;50;17;0.53
-ITEM;51;35;1.14
-ITEM;2118;17;0.80
-ITEM;749;1;0.72
-ITEM;746;5;1.15
-ITEM;681;15;1.22
-ITEM;723;9;0.54
-ITEM;748;2;1.00
-ITEM;742;1;0.98
-ITEM;731;8;0.87
-ITEM;692;16;0.91
-ITEM;755;4;0.88
-ITEM;672;17;1.15
-ITEM;760;7;0.64
-ITEM;600;4;0.82
-ITEM;640;2;0.69
-ITEM;660;3;0.90
-ITEM;620;4;1.18
-ITEM;300;3;0.54
-ITEM;406;4;1.14
-ITEM;302;2;0.69
-ITEM;404;1;1.24
-ITEM;405;1;0.98
-ITEM;301;1;1.07
-ITEM;408;7;0.82
-ITEM;403;7;0.64
-ITEM;407;2;0.95
-ITEM;20;80;0.81
-ITEM;1;69;0.88
-ITEM;101;145;0.90
-ITEM;103;79;0.81
-ITEM;100;67;0.98
-ITEM;152;86;0.95
-ITEM;155;87;0.54
-ITEM;153;94;1.19
-ITEM;158;89;1.16
-ITEM;156;34;0.74
-ITEM;151;76;0.97
-ITEM;164;27;0.76
-ITEM;150;96;0.86
-ITEM;157;95;1.11
-ITEM;168;56;0.70
-ITEM;2289;5;0.53
-ITEM;2279;9;1.12
-ITEM;2314;6;0.75
-ITEM;2329;8;0.86
-ITEM;2324;6;0.67
-ITEM;2210;4;0.70
-ITEM;2264;3;0.83
-ITEM;2110;2;0.83
-ITEM;2550;1;0.80
-ITEM;2150;7;0.91
-ITEM;2385;9;1.25
-ITEM;2434;6;0.77
-ITEM;2284;2;0.99
-ITEM;2319;6;0.91
-ITEM;2344;8;1.05
-ITEM;2299;1;0.81
-ITEM;2240;6;0.69
-ITEM;2170;8;0.77
+BUYORDER;Market Out of Stock: (2) Items ;322x219,324x46;102189;81847.80
+BUYORDER;Market Low Inventory: (2) Items ;325x281,321x237;90958.00;48933.28
+BUYORDER;Buying: (1) Items ;1470x1;39519.00;59883.79
+SELLORDER;Sale Request Order: (1) Items ;1562x1;8571.00;24341.44
+ITEM;1;69;0.88;12.38
+ITEM;302;2;0.69;33.10
+ITEM;1052;2;0.72;1411.63
+ITEM;153;94;1.19;13.55
+ITEM;50;17;0.53;10.42
+ITEM;1520;1;1.14;1294.88
+ITEM;1620;7;0.77;1066.38
+ITEM;2329;8;0.86;14531.55
+ITEM;1530;6;1.11;2427.87
+ITEM;2279;9;1.12;29425.11
+ITEM;2385;9;1.25;101.79
+ITEM;1750;7;0.76;1391.64
+ITEM;1640;8;0.72;3914.13
+ITEM;1570;4;1.17;2765.86
+ITEM;2299;1;0.81;21957.70
+ITEM;1580;2;1.19;5903.40
+ITEM;1510;5;0.58;2705.97
+ITEM;1650;2;1.20;6975.28
+ITEM;2344;8;1.05;72224.24
+ITEM;620;4;1.18;5368.75
+ITEM;1630;3;1.06;6082.45
+ITEM;1540;9;0.77;745.92
+ITEM;2284;2;0.99;11918.25
+ITEM;1615;1;1.02;2222.79
+ITEM;2324;6;0.67;16456.43
+ITEM;1600;4;0.53;501.76
+ITEM;2314;6;0.75;9147.04
+ITEM;1550;2;0.99;2993.53
+ITEM;2289;5;0.53;17224.59
+ITEM;1560;2;1.21;1406.18
+ITEM;1610;8;0.76;810.00
+ITEM;2319;6;0.91;11950.16
+ITEM;1500;1;0.77;782.69
+ITEM;2264;3;0.83;10241.06
+ITEM;1590;2;1.15;1749.22
+ITEM;1110;9;0.76;653.75
+ITEM;2170;8;0.77;7965.00
+ITEM;406;4;1.14;32.05
+ITEM;403;7;0.64;12.28
+ITEM;101;145;0.90;0.60
+ITEM;168;56;0.70;32.72
+ITEM;606;26;0.72;239362.50
+ITEM;605;32;0.73;149700.00
+ITEM;603;40;0.68;28687.50
+ITEM;325;0;1.16;30.26
+ITEM;404;1;1.24;28.34
+ITEM;300;3;0.54;26.98
+ITEM;301;1;1.07;133.86
+ITEM;2030;25;0.74;133.78
+ITEM;2031;26;0.75;227.95
+ITEM;2032;30;0.69;296.16
+ITEM;2033;29;0.72;377.15
+ITEM;2126;6;0.66;39.76
+ITEM;63;41;0.77;132.75
+ITEM;660;3;0.90;3968.75
+ITEM;2034;44;0.68;410.52
+ITEM;2035;25;0.70;544.23
+ITEM;2036;29;0.77;874.16
+ITEM;2037;36;0.78;1331.20
+ITEM;2118;17;0.80;242.81
+ITEM;322;0;1.29;317.86
+ITEM;151;76;0.97;10.80
+ITEM;2038;43;0.77;1399.92
+ITEM;1120;7;0.82;999.25
+ITEM;2039;41;0.72;2157.70
+ITEM;2115;12;1.10;84.57
+ITEM;324;0;1.30;76.17
+ITEM;1001;6;0.79;888.88
+ITEM;2110;2;0.83;11290.50
+ITEM;1003;3;0.92;895.13
+ITEM;1002;1;0.78;808.50
+ITEM;604;28;0.65;70687.50
+ITEM;405;1;0.98;27.09
+ITEM;602;31;0.77;11615.63
+ITEM;681;15;1.22;161493.80
+ITEM;748;2;1.00;147468.80
+ITEM;731;8;0.87;126018.80
+ITEM;746;5;1.15;46968.75
+ITEM;1170;5;1.08;2823.88
+ITEM;2210;4;0.70;20662.50
+ITEM;20;80;0.81;68.97
+ITEM;41;1;0.97;18.05
+ITEM;51;35;1.14;37.01
+ITEM;2119;1;0.72;270.05
+ITEM;742;1;0.98;87375.00
+ITEM;692;16;0.91;12860.00
+ITEM;1460;5;0.87;42006.25
+ITEM;158;89;1.16;47.73
+ITEM;2434;6;0.77;361.08
+ITEM;155;87;0.54;9.67
+ITEM;320;0;1.23;28.46
+ITEM;672;17;1.15;219187.50
+ITEM;157;95;1.11;43.06
+ITEM;321;0;1.17;249.98
+ITEM;601;36;0.77;6637.50
+ITEM;150;96;0.86;8.59
+ITEM;1200;5;1.18;4831.88
+ITEM;407;2;0.95;363.66
+ITEM;103;79;0.81;0.65
+ITEM;607;5;0.76;338613.20
+ITEM;1160;3;0.89;2155.31
+ITEM;600;4;0.82;3568.75
+ITEM;1150;7;0.61;1259.38
+ITEM;1100;8;1.16;526.88
+ITEM;43;6;0.82;24.05
+ITEM;1050;7;0.54;910.88
+ITEM;164;27;0.76;14.91
+ITEM;1400;6;0.70;3265.63
+ITEM;2240;6;0.69;38527.50
+ITEM;723;9;0.54;2602.50
+ITEM;2550;1;0.80;49950.00
+ITEM;755;4;0.88;4642.50
+ITEM;608;5;0.75;507022.30
+ITEM;323;0;1.16;50.35
+ITEM;152;86;0.95;10.38
+ITEM;156;34;0.74;20.98
+ITEM;609;32;0.73;767212.50
+ITEM;1054;5;0.66;1412.06
+ITEM;2150;7;0.91;24594.75
+ITEM;640;2;0.69;2918.75
+ITEM;749;1;0.72;153437.50
+ITEM;760;7;0.64;133437.50
+ITEM;2125;17;0.68;746.16
+ITEM;2127;47;1.22;92.66
+ITEM;100;67;0.98;0.44
+ITEM;408;7;0.82;3733.63
+ITEM;1470;9;0.71;37432.50
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
@@ -156,6 +182,19 @@ SKILL;13;0.98
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;52;120;373679;SCAN_STRUCTURE#sector_95_station_1.txt#sector_35.txt#Recon Center#structure_recon_1.txt#1#null#null#null;Track and scan the target <color='yellow'>Recon Center</color> structure in <color='cyan'>Felishar</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>;6;The Pirate faction has commissioned scientific survey of a strange vibration taking place at <color='yellow'>Recon Center</color> in the <color='cyan'>Felishar</color> sector. Head over to <color='cyan'>Felishar</color> and scan the <color='yellow'>Recon Center</color> structure. Once complete, return to the Acrondia Hub station located in the <color='cyan'>Temple Gates</color> with the scan data.;12737;4500
+MISSION;60;140;896588;HARVEST#70#1#sector_3.txt#sector_56_station_0.txt#null#null#null#null;Harvest <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>70</color> ore to Transporteers in <color='cyan'>Hunu</color>;6;A local prospector, <i>Velwo Wenbacweli</i> of the Pirate faction has located a light quantity of special <color='yellow'>Special Adamyte Ore</color> in the <color='cyan'>Starfort Ramos</color> sector. Head over there and harvest all of the special <color='yellow'>Special Adamyte Ore</color>, and meet <i>Velwo Wenbacweli</i> back at Transporteers station located in the <color='cyan'>Hunu</color>.;9280;4000
+MISSION;11;120;290168;DELIVERY#45#157#sector_78_station_0.txt#sector_0_station_2.txt#null#null#null#null;Deliver light container of <color='yellow'>45</color> <color='yellow'>Metal Brackets</color> to Tella's Station in <color='cyan'>Bitcola</color>;8;The Sovereign Faction has commissioned a transport liaison, <i>Selow Couduenalia</i> at StarGypsy Warehouse. After an audit, <color='yellow'>45</color> items of <color='yellow'>Metal Brackets</color> were left un accounted for. Head on over to <color='cyan'>Bitcola</color> and deliver these <color='yellow'>Metal Brackets</color> to Tella's.;11712;3000
+MISSION;140;120;505803;REFINE#3#24#sector_15_station_0.txt#sector_35_station_0.txt#null#null#null#null;Dock at the Crystalis Broadcasting station refinery in <color='cyan'>Jermicus</color> and process a light shipment of <color='yellow'>3</color> <color='yellow'>Electronic Fragments</color>;7;<i>Jancoya Zerastuo</i> runs a Outlaw shipping company at Astrox Security Patrol. After having some issues with a transport ship, <color='yellow'>3</color> items of <color='yellow'>Electronic Fragments</color> were left behind. Head on over to <color='cyan'>Jermicus</color> and refine these <color='yellow'>Electronic Fragments</color> at the Crystalis Broadcasting refinery.;14225;4400
+MISSION;40;120;859805;SCAN_PILOT#sector_35_station_0.txt#sector_95.txt#Entertainer Ronvis Oivis#npc_ship_data_(battle_frigate_2)#22#null#null#null;Locate and scan <color='yellow'><i>Entertainer Ronvis Oivis</i></color> in <color='cyan'>Temple Gates</color> and return to Astrox Security Patrol in <color='cyan'>Felishar</color>;7;<i>Paese Wenbac</i> has requested a location verification on a recent employee. <color='yellow'><i>Entertainer Ronvis Oivis</i></color> is supposed to be running a survey in <color='cyan'>Temple Gates</color>. Please verify the location of this pilot by scanning their ship and return to Astrox Security Patrol in <color='cyan'>Felishar</color>.;10968;3875
+MISSION;61;140;866829;HARVEST#110#3#sector_38.txt#sector_3_station_0.txt#null#null#null#null;Mine <color='yellow'>Special Quazor Ore</color> in <color='cyan'>Equalias Val</color> and return with <color='yellow'>110</color> to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;7;While collecting some junk in the <color='cyan'>Equalias Val</color> system, <i>Bembem Eifu</i> discovered a light haul of <color='yellow'>110</color> <color='yellow'>Special Quazor Ore</color>. Unable to collect the material alone, <i>Bembem Eifu</i> has requested that a capable pilot harvest the <color='yellow'>Special Quazor Ore</color> and drop it off at the Daemon Ammunitions station located in the <color='cyan'>Starfort Ramos</color>.;13066;5100
+MISSION;11;120;764577;DELIVERY#6#7#sector_35_station_0.txt#sector_0_station_2.txt#null#null#null#null;Deliver light container of <color='yellow'>6</color> <color='yellow'>Dynex Ores</color> to Astrox Security Patrol Station in <color='cyan'>Felishar</color>;7;The Outlaw Faction has commissioned a transport liaison, <i>Lomqi Bohore</i> at StarGypsy Warehouse. After an audit, <color='yellow'>6</color> items of <color='yellow'>Dynex Ores</color> were left un accounted for. Head on over to <color='cyan'>Felishar</color> and deliver these <color='yellow'>Dynex Ores</color> to Astrox Security Patrol.;8600;2000
+MISSION;81;120;454652;RECOVER#1#27#sector_16.txt#sector_57_station_0.txt#null#null#null#null;Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Entropy</color> sector, recover the <color='yellow'>1</color> <color='yellow'>Engine Component</color> and return to OmniTrust in <color='cyan'>Ponze</color>;6;<i>Buefou Genbac</i> has lost track of a shipment crate from his last haul. It has been reported found in <color='cyan'>Entropy</color>. In an effort to save time, <i>Buefou Genbac</i> has sub-contracted the task of returning the light shipment to OmniTrust in <color='cyan'>Ponze</color>. The Pirate faction is aware of the situation and has sent a representative to OmniTrust.;14411;5625
+MISSION;30;240;642709;TRANSPORT#87#166#sector_95_station_0.txt#sector_14_station_1.txt#null#null#null#null;Transport a light shipment of <color='yellow'>87</color> <color='yellow'>Mechanical Belts</color> from Star Shepards Hub in <color='cyan'>Temple Gates</color> to Horizons in <color='cyan'>Gate of Alpharis</color>;6;Transport manager <i>Pastdes Oixad</i> has requested a transport of a light shipment of <color='yellow'>87</color> <color='yellow'>Mechanical Belts</color>. They need to be picked up at the storage facility at Star Shepards Hub in <color='cyan'>Temple Gates</color>, and transported to Horizons in <color='cyan'>Gate of Alpharis</color>. <i>Pastdes Oixad</i> will be waiting at Horizons to receive the shipment. ;9120;2850
+MISSION;130;140;704553;SALVAGE#4#20#sector_96.txt#sector_99_station_0.txt#null#null#null#null;Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Arch of Mori</color> and return with <color='yellow'>4</color> to Ferce Hub in <color='cyan'>Semja</color>;6;A local prospector, <i>Yitpa Mosriswo</i> of the Pirate faction has located a light quantity of special <color='yellow'>Special Junk Part</color> in the <color='cyan'>Arch of Mori</color> sector. Head over there and salvage all of the special <color='yellow'>Special Junk Part</color>, and meet <i>Yitpa Mosriswo</i> back at Ferce Hub station located in the <color='cyan'>Semja</color>.;11529;4500
+MISSION;62;140;428768;HARVEST#104#3#sector_38.txt#sector_56_station_1.txt#null#null#null#null;Excavate <color='yellow'>Special Quazor Ore</color> in <color='cyan'>Equalias Val</color> and return with <color='yellow'>104</color> to ValueStar in <color='cyan'>Hunu</color>;6;<i>Nodes Nineemi</i> has discovered a light deposit of <color='yellow'>Special Quazor Ore</color> in <color='cyan'>Equalias Val</color>. He is currently unable to mine the <color='yellow'>Special Quazor Ore</color>, and has requested a pilot to head over and harvest the <color='yellow'>104</color> <color='yellow'>Special Quazor Ore</color>. Once complete, head over and meet <i>Nodes Nineemi</i> at the ValueStar station located in the <color='cyan'>Hunu</color>.;14219;5550
+MISSION;153;150;103084;FABRICATE#31#2459#sector_78_station_0.txt#sector_95_station_1.txt#null#null#null#null;Produce a medium shipment of <color='yellow'>31</color> <color='yellow'>Motion Sensors</color> in <color='cyan'>Bitcola</color> at the Tella's station fabricator;8;Acrondia Hub Station has contacted our client informing them of some medium cargo that remains missing by a former employee, <i>Caport Vozoan</i> of the Sovereign Faction. <color='yellow'>31</color> <color='yellow'>Motion Sensors</color> production run in <color='cyan'>Bitcola</color>, at the Tella's fabricator.;14840;5600
+MISSION;40;120;273403;SCAN_PILOT#sector_56_station_1.txt#sector_0.txt#Sir Peisiv Xuluo#npc_ship_data_(transport_frigate_1)#4#null#null#null;Locate and scan <color='yellow'><i>Sir Peisiv Xuluo</i></color> in <color='cyan'>Void Starcross</color> and return to ValueStar in <color='cyan'>Hunu</color>;6;<i>Fonbar Nineilsdo</i> has requested a location verification on a recent employee. <color='yellow'><i>Sir Peisiv Xuluo</i></color> is supposed to be running a survey in <color='cyan'>Void Starcross</color>. Please verify the location of this pilot by scanning their ship and return to ValueStar in <color='cyan'>Hunu</color>.;8215;3100
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -168,3 +207,4 @@ SHIP;6;1.02;ship_data_(recon_escort_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

@@ -5,3 +5,10 @@ NPC;+STOCK;118;12;96066.82;StarShepards Headquarters;Void Starcross;2h 26m 24s ;
 NPC;+STOCK;32;13;67707.19;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;93;10;91220.73;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;106;14;93375;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;20;0;109899.2;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;-QTY;19;-13;67375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;12;-7;70492.14;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;18;-12;57527.04;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;104;13;89111.25;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;132;0;85376.73;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;49;0;62200.15;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

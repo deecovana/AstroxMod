@@ -7,3 +7,13 @@ NPC;+STOCK;896;143;35.68962;Starbase Corporate Center;Void Starcross;2h 26m 24s 
 NPC;+PRICE;264;0;42.28038;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;349;92;22.0185;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+QTY;509;148;56.06563;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;212;128;19.54479;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;264;130;66.52197;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1002;106;33.98279;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;259;0;30.46084;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;770;-126;35.59075;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;60;0;22.96405;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;389;125;66.55062;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;644;127;22.85439;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;-PRICE;554;0;46.30832;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;72;0;33.78967;PharmaLife;Carioullis;4h 52m 11s ;17531.62

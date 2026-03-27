@@ -14,3 +14,17 @@ NPC;+PRICE;12;0;30.1211;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+PRICE;1;0;21.27146;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
 NPC;+QTY;654;642;15.2675;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;30;0;16.13581;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;1051;961;17.80295;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1497;782;30.21035;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;986;972;33.59278;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1985;995;31.95576;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1512;729;31.01751;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;10;0;17.72971;Gemini Mining;Jala;4h 16m 43s ;15403.89
+NPC;-QTY;0;-783;31.73625;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;889;889;29.54209;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;11;0;27.15462;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;2363;866;30.1475;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;797;737;21.11449;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;651;601;19.85356;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;-PRICE;19;0;32.76645;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;896;867;18.27256;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

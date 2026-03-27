@@ -3,3 +3,11 @@ NPC;+STOCK;289;106;228.9851;Biomate University;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;773;101;308.7555;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;226;125;140.6868;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;446;130;335.4857;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;330;147;219.6063;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;910;137;303.1628;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;372;146;135.7796;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;595;149;327.6553;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;150;486;106.1775;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;25;-125;46.96313;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;737;0;195.9215;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;301;116;202.3702;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

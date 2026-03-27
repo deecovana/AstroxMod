@@ -1,3 +1,6 @@
 NPC;-PRICE;50;0;108843;Keyworx;Geminey;0h 0m 23s ;23.44398
 NPC;+STOCK;124;4;91973.02;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;23;2;73375;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+STOCK;128;4;91030.17;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;17;-4;91375;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-PRICE;42;0;80267.09;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74

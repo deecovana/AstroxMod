@@ -1,3 +1,5 @@
 NPC;BAL;33;-1;4534.438;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;39;2;6225.598;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;35;2;4304.668;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;37;2;4210.494;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;40;1;6234.47;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

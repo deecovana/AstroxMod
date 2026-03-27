@@ -8,3 +8,14 @@ NPC;+STOCK;725;148;82.40615;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;529;127;49.06705;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;857;145;67.84895;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;502;147;48.00537;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;857;132;77.55445;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;676;147;48.09562;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;975;118;65.69284;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;647;145;43.99163;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-22;81.498;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;-QTY;422;-80;47.658;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;325;-97;51.8191;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;943;86;77.31499;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;126;110;56.588;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;346;103;36.93166;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+PRICE;62;0;63.09587;PharmaLife;Carioullis;4h 52m 11s ;17531.62

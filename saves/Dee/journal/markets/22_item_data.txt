@@ -11,3 +11,16 @@ NPC;+QTY;4748;4655;364.875;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+QTY;4485;4259;243.6656;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;5232;4873;452.2656;Psybermind;Ion Child;2h 36m 11s ;9371.667
 NPC;BAL;503;0;335.8766;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+PRICE;347;0;403.4637;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+PRICE;524;0;188.8925;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;9215;4113;295.6822;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8352;4442;132.9528;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8862;4448;141.0502;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4867;4197;404.2951;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;5004;4881;392.7159;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-LOCAL;67;67;395.1318;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;0;-4485;245.3128;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;67;0;384.6183;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;12940;3725;294.875;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;4065;3515;185.6531;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;4784;4638;381.8894;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

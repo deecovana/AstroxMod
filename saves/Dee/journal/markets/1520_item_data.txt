@@ -5,3 +5,6 @@ NPC;+STOCK;11;10;898.034;Star Shepards Hub;Temple Gates;0h 57m 57s ;3477.823
 NPC;+PRICE;3;0;921.4941;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+QTY;12;9;922.1484;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+PRICE;34;0;738.601;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+PRICE;14;0;1294.973;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-PRICE;42;0;1145.863;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;15;0;918.1879;PharmaLife;Carioullis;4h 52m 11s ;17531.62

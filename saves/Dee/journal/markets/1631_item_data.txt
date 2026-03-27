@@ -1,2 +1,6 @@
 NPC;+QTY;16;8;11386.64;Xellon;Ele;0h 50m 9s ;3009.769
 NPC;+STOCK;69;10;9817.991;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;78;9;9578.174;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;79;11;12448.33;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;88;10;9629.651;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;52;0;14138.51;Cecil;Junia;4h 51m 22s ;17482.65

@@ -7,3 +7,9 @@ NPC;+STOCK;774;101;16.35036;StarShepards Headquarters;Void Starcross;2h 26m 24s 
 NPC;+PRICE;86;0;10.77506;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+PRICE;10;0;27.6989;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
 NPC;+QTY;232;144;10.0719;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
+NPC;+STOCK;429;117;16.25839;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;352;117;12.56846;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;901;127;15.53183;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;71;0;18.52903;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;+QTY;492;140;12.597;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+STOCK;240;131;16.13898;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54

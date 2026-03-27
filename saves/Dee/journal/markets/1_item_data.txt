@@ -20,3 +20,19 @@ NPC;+PRICE;82;0;13.15011;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;3584;3304;9.64;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;3163;2844;7.42;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;BAL;599;0;12.9426;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+PRICE;499;0;14.87773;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;5735;4848;6.881602;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;7964;3588;13.77171;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8699;3981;13.43599;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4070;3945;9.945827;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8020;3932;17.15038;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-65;11.74;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-QTY;0;-125;10.46;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;233;0;9.523778;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;-PRICE;123;0;5.562259;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;4728;4728;11.0802;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;39;0;21.65645;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;BAL;194;0;18.09027;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;-LOCAL;0;0;40;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
+NPC;+STOCK;3650;3650;47.52983;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;-PRICE;593;0;17.72527;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

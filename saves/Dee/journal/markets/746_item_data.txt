@@ -7,3 +7,12 @@ NPC;+STOCK;53;11;24212.04;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8
 NPC;+STOCK;111;13;30918.22;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;23;14;32062.5;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;BAL;81;-9;47653.32;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;-QTY;5;-12;21262.5;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
+NPC;+STOCK;74;10;43702.11;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;66;13;23237.61;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;123;12;29645.7;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;42;-11;24018.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;0;-13;19390.22;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;28;-14;26450.99;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;45;9;22550.06;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;62;8;28850.06;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

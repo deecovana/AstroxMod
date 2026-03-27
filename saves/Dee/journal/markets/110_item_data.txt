@@ -6,3 +6,11 @@ NPC;+STOCK;1161;248;10.57208;Starbase Corporate Center;Void Starcross;2h 26m 24s
 NPC;+STOCK;1463;173;9.997451;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;588;197;12.88625;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;242;0;12.25802;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;382;171;18.09743;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;881;222;12.21837;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;397;168;16.72828;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;818;244;11.65461;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1658;195;9.827729;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;990;-171;10.54138;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;1084;203;12.21025;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;931;0;7.763809;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65

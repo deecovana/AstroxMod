@@ -12,3 +12,19 @@ NPC;+STOCK;5330;4990;53.98278;Proctors Center;Void Starcross;2h 26m 24s ;8784.13
 NPC;+PRICE;165;0;53.32632;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+PRICE;27;0;97.04869;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+QTY;2944;2803;109.1475;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;+PRICE;266;0;100.0387;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+PRICE;97;0;81.53153;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+STOCK;4423;3621;52.03851;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;9433;4860;83.32771;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8692;4417;59.3192;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;7915;3741;110.9921;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;9687;4357;52.61325;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-LOCAL;3078;0;110.25;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;0;-3078;115.6094;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;21;0;86.1483;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;BAL;4149;4149;103.9361;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;210;0;73.13645;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;4945;4846;102.165;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;5256;4779;59.82288;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+PRICE;197;0;94.75742;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;76;0;80.09859;PharmaLife;Carioullis;4h 52m 11s ;17531.62

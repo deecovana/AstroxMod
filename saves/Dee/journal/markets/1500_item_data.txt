@@ -1,2 +1,6 @@
 NPC;+QTY;87;10;900.614;Foodmaid;Daelus;0h 50m 9s ;3009.769
 NPC;+PRICE;23;0;916.2811;Psybermind;Ion Child;2h 29m 20s ;8960.865
+NPC;+QTY;13;8;1006.742;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+QTY;11;7;1170.356;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;+STOCK;16;9;826.8913;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+PRICE;27;0;541.386;PharmaLife;Carioullis;4h 52m 11s ;17531.62

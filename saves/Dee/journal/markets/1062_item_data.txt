@@ -1,3 +1,5 @@
 NPC;-PRICE;19;0;7172.188;Keyworx;Geminey;0h 0m 23s ;23.44398
 NPC;+QTY;26;7;7210.5;Keyworx;Geminey;0h 50m 9s ;3009.769
 NPC;+STOCK;69;10;10174.27;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;106;9;4616.015;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;80;11;9873.854;Proctors Center;Void Starcross;4h 12m 27s ;15147.92

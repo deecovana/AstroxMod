@@ -3,3 +3,7 @@ NPC;-PRICE;73;0;15329.44;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+STOCK;89;11;7339.98;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;206;12;9405.689;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;46;7;6937.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;102;13;7158.88;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;79;11;10053.53;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;29;0;16208.29;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+QTY;36;7;16191.56;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

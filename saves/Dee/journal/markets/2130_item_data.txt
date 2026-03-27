@@ -6,3 +6,9 @@ NPC;+STOCK;2595;2252;66.33421;Proctors Center;Void Starcross;2h 26m 24s ;8784.13
 NPC;+PRICE;6;0;62.62507;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+QTY;1666;1552;65.47175;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;2575;2269;76.92625;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;-QTY;0;-48;136.9662;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
+NPC;+STOCK;1981;1798;123.7415;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4513;2251;107.5068;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4982;2387;64.4523;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;102;0;62.38082;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+QTY;2240;2013;88.93426;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

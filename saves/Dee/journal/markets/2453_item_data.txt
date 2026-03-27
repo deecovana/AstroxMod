@@ -2,3 +2,6 @@ NPC;-PRICE;35;0;1207.252;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;+STOCK;37;2;1165.339;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;48;2;1478.518;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;29;2;1017.282;CoraVault;Lins;2h 29m 20s ;8960.865
+NPC;+STOCK;37;2;1160.624;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;50;2;1424.875;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;21;0;1404.631;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74

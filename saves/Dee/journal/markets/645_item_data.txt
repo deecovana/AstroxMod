@@ -6,3 +6,10 @@ NPC;+STOCK;12;4;94301.55;StarShepards Headquarters;Void Starcross;2h 26m 24s ;87
 NPC;+STOCK;13;3;116412.5;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;14;3;243795.9;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;16;0;137764.9;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+STOCK;14;3;157951.2;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;37;3;136865.7;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;16;3;112441.8;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;10;-3;116100;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;8;-2;121002;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;17;3;159000;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;13;4;170667;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82

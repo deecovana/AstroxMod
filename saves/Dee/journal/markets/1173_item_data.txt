@@ -1,2 +1,6 @@
 NPC;-PRICE;28;0;24010.24;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;+STOCK;105;9;10962.68;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;116;11;10083.74;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;12;31;7540;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;6;-6;3335;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;26;0;20082.32;Cecil;Junia;4h 51m 22s ;17482.65

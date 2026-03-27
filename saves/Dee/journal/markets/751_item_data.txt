@@ -5,3 +5,10 @@ NPC;+STOCK;109;13;41274.19;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.13
 NPC;+STOCK;101;13;42796.52;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;18;13;48768.75;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;66;11;40162.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;191;13;32870.54;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;164;-12;26590.22;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+QTY;26;13;49668.75;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+QTY;90;8;27919.69;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;73;11;45050.06;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;151;0;27308.76;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-PRICE;164;0;24435.49;Cecil;Junia;4h 51m 22s ;17482.65

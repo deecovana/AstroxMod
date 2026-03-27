@@ -6,3 +6,11 @@ NPC;+STOCK;177;17;4648.841;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;18;0;5251.226;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
 NPC;+QTY;190;14;1812.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;78;19;2868.75;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+PRICE;95;0;3943.222;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+STOCK;168;18;2388.083;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;176;17;2633.356;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;199;22;4488.397;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;142;-17;2818.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;127;-15;3062.534;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;-PRICE;147;0;3968.841;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;97;14;4497.188;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

@@ -2,3 +2,8 @@ NPC;BAL;122;0;474.8259;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;981;122;219.2044;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;507;130;488.4861;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;754;122;326.2597;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;793;0;280.5103;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+STOCK;1003;144;202.2509;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;619;112;463.7515;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;901;147;306.1945;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;393;-114;531.6435;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

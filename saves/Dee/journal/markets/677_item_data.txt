@@ -5,3 +5,8 @@ NPC;-PRICE;2;0;102615.4;Horizons;Gate of Alpharis;0h 56m 50s ;3410.242
 NPC;+STOCK;84;16;212583.7;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;66;24;213384.9;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;35;17;220472.7;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;85;19;210599;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;53;-13;213656.3;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-PRICE;38;0;155007.9;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;37;-16;193404.2;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;52;20;213656.3;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

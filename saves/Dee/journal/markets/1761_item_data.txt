@@ -2,3 +2,8 @@ NPC;-PRICE;74;0;6058.685;Kinetics Manufacturing;Void Spooflarnia;0h 0m 23s ;23.4
 NPC;+STOCK;28;11;4240.704;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;91;10;6967.23;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;37;8;7788.593;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;36;8;3911.473;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;10;8;10642.83;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;101;10;6568.629;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;2;0;10258.63;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;-PRICE;71;0;6673.988;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65

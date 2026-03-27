@@ -4,3 +4,8 @@ NPC;+STOCK;189;13;77566.48;Biomate University;Void Starcross;2h 26m 24s ;8784.13
 NPC;+STOCK;25;14;64849.38;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;184;12;63719.38;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;85;14;110900.4;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;35;10;62667.78;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;97;12;110250.6;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;76;-9;111375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;62;-14;106548.7;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;69;7;98043.75;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

@@ -12,3 +12,14 @@ NPC;+PRICE;73;0;167.1667;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960
 NPC;+QTY;601;581;68.21763;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;668;614;107.7508;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;773;754;162.0674;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
+NPC;+STOCK;894;860;149.3129;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1789;818;134.0472;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;970;964;130.0101;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1838;846;157.8305;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;33;0;170.5233;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;+PRICE;4;0;106.7911;Gemini Mining;Jala;4h 16m 43s ;15403.89
+NPC;BAL;841;0;69.43088;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;2691;902;134.2287;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;61;0;73.27813;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;40;0;127.048;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;547;528;163.8326;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

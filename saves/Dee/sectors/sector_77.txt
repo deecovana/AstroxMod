@@ -72,14 +72,14 @@ CLUSTER;1;100;50;300;5000;4727;-890;-3146;
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
 RESOURCE;1;4962.9;-1703.7;-3468.2;1200;1200
 RESOURCE;1;1430.3;1585.8;-3931.3;200;200
-RESOURCE;1;3856.3;1525.5;-5542.8;2000;2000
+RESOURCE;1;3959.5;1523.6;-5465.4;2000;2000
 RESOURCE;1;3067.7;2356.8;-4807.0;500;500
-RESOURCE;1;5022.5;-538.6;-5561.0;3300;3300
+RESOURCE;1;4935.3;-616.4;-5590.3;3300;3300
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
 WARPGATE;1;sector_0.txt;5;5415.3;-375.1;183.7;0;alpha;-0.5;prescan
-WARPGATE;2;sector_78.txt;1;-2514.5;683.9;-5293.5;0;alpha;0.2
-WARPGATE;3;sector_79.txt;1;-2538.1;850.3;4419.4;0;alpha;1.0
+WARPGATE;2;sector_78.txt;1;-2514.5;683.9;-5293.5;0;alpha;0.2;prescan
+WARPGATE;3;sector_79.txt;1;-2538.1;850.3;4419.4;0;alpha;1.0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;11;0;0;0;0;0;0;none;//debris 2

@@ -7,3 +7,14 @@ NPC;BAL;204;0;1976.297;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+STOCK;4361;3452;1784.234;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;5053;4521;1514.015;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;3470;2692;1647.55;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;5464;4555;1749.36;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;3889;3631;1575.801;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8810;3757;1492.304;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;3850;3848;1406.513;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4871;4434;1893.907;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4888;4335;1593.618;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-LOCAL;45;45;1867.5;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;0;-45;1958.281;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;3571;3571;1933.945;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;6993;3104;1581.15;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;485;0;1517.909;Cecil;Junia;4h 51m 22s ;17482.65

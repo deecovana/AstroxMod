@@ -4,3 +4,14 @@ NPC;-PRICE;34;0;1004.229;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+STOCK;56;11;1314.56;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;31;0;1602.338;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+QTY;42;9;1549.625;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;31;0;1628.182;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;64;8;1309.833;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;32;11;1134.276;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;36;-7;1388.625;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;79;-10;2486.055;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;30;-6;1546.329;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;44;7;2439.006;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+QTY;13;6;2397.75;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;-PRICE;79;0;2391.813;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;27;0;2229.996;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;30;6;1756.625;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

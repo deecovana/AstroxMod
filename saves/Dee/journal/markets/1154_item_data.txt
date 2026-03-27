@@ -2,3 +2,6 @@ NPC;+QTY;67;6;20549.38;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;+QTY;85;8;19394.38;Foodmaid;Daelus;0h 50m 9s ;3009.769
 NPC;+PRICE;37;0;42653.6;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;BAL;34;-9;34694.08;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+STOCK;98;8;18764.64;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;83;-7;19394.38;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;76;-7;22322.31;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

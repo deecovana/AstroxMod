@@ -6,3 +6,8 @@ NPC;BAL;11;-6;2316.193;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
 NPC;+STOCK;107;9;1448.744;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;42;9;1083.019;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;34;11;1560.265;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;109;11;1327.964;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;42;9;1653.442;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;43;9;1447.06;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;21;0;1510.657;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;+QTY;24;6;2667.6;Biomart;Veloxi;4h 47m 5s ;17225.82

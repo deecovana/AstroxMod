@@ -3,3 +3,13 @@ NPC;+STOCK;89;13;7190.124;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.13
 NPC;+STOCK;38;13;15940.89;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;147;14;7337.655;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;46;11;13687.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+PRICE;2;0;16087.22;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;122;10;7554.068;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;48;14;13812.2;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;99;10;6606.515;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;49;11;15811.09;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;159;12;6973.429;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;24;-14;12468.54;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;55;7;13837.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+PRICE;128;0;17203.59;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;63;12;8691.563;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

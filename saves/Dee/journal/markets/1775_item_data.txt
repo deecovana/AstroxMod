@@ -4,3 +4,8 @@ NPC;BAL;38;-11;6731.486;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+STOCK;28;9;8896.781;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;55;9;4914.86;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;18;7;9640.684;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;38;10;8602.841;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;66;11;4684.833;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;20;-8;8867.957;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;22;-6;8447.434;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;11;-9;8029.943;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

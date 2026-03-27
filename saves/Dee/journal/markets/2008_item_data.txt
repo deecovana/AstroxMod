@@ -6,3 +6,10 @@ NPC;+STOCK;1018;141;198.62;StarShepards Headquarters;Void Starcross;2h 26m 24s ;
 NPC;+STOCK;290;140;155.1254;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;383;0;364.7723;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;156;117;342.4655;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+STOCK;877;136;399.4616;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1123;105;190.7492;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;420;130;145.8266;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;150;611;145.73;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;48;-102;64.4575;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;0;-53;403.9608;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;48;0;91.71008;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

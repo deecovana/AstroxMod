@@ -1,3 +1,5 @@
 NPC;BAL;24;-8;6607.897;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+STOCK;15;8;11363.61;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;19;9;11099.96;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;30;11;10968.06;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;8;-11;11139.64;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41

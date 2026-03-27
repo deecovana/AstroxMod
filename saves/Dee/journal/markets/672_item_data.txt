@@ -2,3 +2,8 @@ NPC;-PRICE;10;0;94536.97;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;-PRICE;116;0;209860;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;BAL;81;-12;226998.6;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+STOCK;27;17;90796.52;Biomate University;Void Starcross;2h 26m 24s ;8784.133
+NPC;-QTY;0;-10;210525;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
+NPC;+STOCK;30;20;83002.41;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;31;23;118666.9;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;40;18;132825;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;27;16;168525;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84

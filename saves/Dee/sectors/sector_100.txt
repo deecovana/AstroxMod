@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;100
 SECTOR;name;Grace
-SECTOR;level;4.8
+SECTOR;level;4.7
 SECTOR;faction;Temple
 SECTOR;filename;sector_100.txt
 SECTOR;is_explored;False

@@ -13,3 +13,11 @@ NPC;BAL;627;-110;112.2163;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;+LOCAL;150;8;61.1;Biomate University;Void Starcross;3h 3m 35s ;11015.9
 NPC;+LOCAL;150;15;61.1;Biomate University;Void Starcross;3h 15m 34s ;11734.13
 NPC;+LOCAL;150;4;61.1;Biomate University;Void Starcross;3h 20m 14s ;12014.06
+NPC;+LOCAL;150;1;61.1;Biomate University;Void Starcross;3h 41m 18s ;13278.96
+NPC;+STOCK;257;107;22.7245;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;286;126;96.07347;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;265;101;128.7866;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;417;-122;135.528;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+QTY;396;110;96.34999;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;447;90;92.32915;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;344;107;150.2943;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

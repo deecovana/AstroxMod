@@ -2,3 +2,11 @@ NPC;+QTY;196;104;335.3228;Foodmaid;Daelus;0h 50m 9s ;3009.769
 NPC;+STOCK;240;135;440.3149;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;187;111;528.9202;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;205;116;353.1807;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;246;141;441.8531;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;289;102;508.1969;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;334;129;338.8955;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;150;644;180.505;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;BAL;150;0;110.6999;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;733;117;489.3699;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;654;89;328.3039;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+QTY;96;94;266.2796;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

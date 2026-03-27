@@ -1,3 +1,7 @@
 NPC;+QTY;38;10;2851.875;Keyworx;Geminey;0h 50m 9s ;3009.769
 PLAYER;-QTY;13;1;3526.875;Lacuna Bandits;Ballast Crow;1h 1m 19s ;3679.544
 PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;2h 17m 44s ;8264.722
+NPC;-PRICE;2;0;1662.936;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;+QTY;13;9;5006.25;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;+PRICE;4;0;3762.467;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+QTY;13;6;3616.875;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

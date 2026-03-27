@@ -6,3 +6,11 @@ NPC;+STOCK;84;24;265277.8;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8
 NPC;+QTY;165;14;317894.4;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+PRICE;74;0;232858.4;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;BAL;12;0;151848.1;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;-QTY;3;-13;272853.8;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;49;24;268162.1;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;107;23;258856;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;61;-19;299787.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;41;-20;279290.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;3;0;252112.1;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;-PRICE;10;0;228603.2;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;9;0;179500.9;Dustardz;Redsky;4h 52m 11s ;17531.62

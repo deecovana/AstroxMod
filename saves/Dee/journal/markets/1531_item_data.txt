@@ -1,2 +1,7 @@
 NPC;+STOCK;57;11;2715.778;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;69;10;4941.493;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;65;8;2562.296;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;78;9;4767.591;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;2;0;2649.868;Gemini Mining;Jala;4h 16m 43s ;15403.89
+NPC;-QTY;0;-9;2436.504;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
+NPC;BAL;61;-8;4471.47;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

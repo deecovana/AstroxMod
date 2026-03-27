@@ -1,1 +1,5 @@
 NPC;+STOCK;105;10;45849.45;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;115;10;43307.24;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;12;30;24375;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;-QTY;2;-10;10781.25;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;2;0;17715.68;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

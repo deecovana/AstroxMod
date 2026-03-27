@@ -16,3 +16,5 @@ NPC;+LOCAL;150;13;50.505;Biomate University;Void Starcross;3h 3m 35s ;11015.9
 NPC;+LOCAL;150;17;50.505;Biomate University;Void Starcross;3h 15m 34s ;11734.13
 NPC;+LOCAL;150;4;50.505;Biomate University;Void Starcross;3h 20m 14s ;12014.06
 NPC;+LOCAL;150;5;50.505;Biomate University;Void Starcross;3h 28m 49s ;12529.77
+NPC;+PRICE;329;0;170.9434;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;292;142;18.78397;Biomate University;Void Starcross;4h 12m 27s ;15147.92

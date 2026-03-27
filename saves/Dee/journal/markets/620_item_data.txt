@@ -22,3 +22,20 @@ NPC;+QTY;6;4;5212.5;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+QTY;16;3;5368.75;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;16;4;3362.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;24;3;5518.75;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+PRICE;18;0;5298.119;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;53;4;3191.084;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;20;3;2528.418;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;24;4;4513.229;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;12;4;2100.17;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;17;3;2833.833;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;55;3;5016.916;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;6;0;4616.178;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-QTY;0;-3;5368.75;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-PRICE;7;0;2336.248;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;-PRICE;3;0;1720.808;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;1;0;3353.449;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;23;3;2512.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;9;4;4505.563;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;4;3;4168.75;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+PRICE;7;0;5007.947;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;19;3;4418.75;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

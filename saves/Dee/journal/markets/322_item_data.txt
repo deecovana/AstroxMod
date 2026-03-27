@@ -12,3 +12,13 @@ NPC;+STOCK;846;827;166.3473;StarShepards Headquarters;Void Starcross;2h 26m 24s 
 NPC;+STOCK;1027;997;135.3741;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;962;885;207.2799;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;916;890;152.8853;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;1880;880;197.5778;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1866;907;202.3101;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1564;718;163.753;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1889;862;132.6381;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1820;858;199.9987;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;34;0;194.3804;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;332;-695;135.7493;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;0;-51;199.3974;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-LOCAL;0;0;293.1141;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
+NPC;BAL;332;0;142.0117;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

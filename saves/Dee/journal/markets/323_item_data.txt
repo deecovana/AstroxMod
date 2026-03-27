@@ -10,3 +10,15 @@ NPC;+STOCK;881;863;37.79628;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;1031;942;26.63156;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;13;0;34.3983;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;586;583;19.19287;Psybermind;Ion Child;2h 36m 11s ;9371.667
+NPC;+STOCK;1839;958;37.26841;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;897;875;38.26013;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1732;701;25.59211;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;840;768;40.70507;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;997;930;37.84969;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;9;0;23.87394;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-QTY;0;-72;42.05288;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-LOCAL;0;0;47.18354;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
+NPC;BAL;984;984;40.7225;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1010;989;24.04539;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;594;542;23.66439;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+QTY;620;614;25.66987;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

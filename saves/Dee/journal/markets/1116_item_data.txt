@@ -2,3 +2,6 @@ NPC;-PRICE;3;0;29473.61;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;+STOCK;80;11;40510.15;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;30;6;49605.23;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;10;7;29299.75;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;88;8;39022.64;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;71;-9;40428.63;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;61;-10;41435.13;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

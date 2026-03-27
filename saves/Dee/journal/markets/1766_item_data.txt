@@ -2,3 +2,6 @@ NPC;BAL;24;-6;6647.662;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+STOCK;72;9;8938.843;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;18;10;8362.073;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;44;0;4649.513;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
+NPC;+STOCK;82;10;8639.108;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;28;10;8091.813;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;8;-10;9044.567;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

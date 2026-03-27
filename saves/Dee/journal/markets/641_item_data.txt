@@ -9,3 +9,14 @@ NPC;+STOCK;8;4;7124.101;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;14;0;11404.54;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+QTY;21;4;6937.5;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;40;2;9861.875;Cecil;Junia;2h 29m 20s ;8960.865
+PLAYER;-QTY;21;1;9008.75;Biomate University;Void Starcross;3h 51m 30s ;13890.03
+NPC;+STOCK;24;3;8679.402;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;11;3;5774.846;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;11;3;4399.286;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;15;0;5473.176;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
+NPC;-QTY;4;-4;4737.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;14;3;5725;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;8;3;4525;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;-PRICE;40;0;9639.584;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;7;0;10301.9;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+QTY;6;3;6737.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

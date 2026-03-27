@@ -1,1 +1,7 @@
 NPC;+STOCK;42;2;29581.89;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;-QTY;12;-2;26890.2;Terra Drone;Geminey;4h 11m 42s ;15102.06
+NPC;+STOCK;44;2;28411.48;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;42;2;21572.31;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;41;-1;29509.3;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;40;-1;27097.69;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;11;2;20344.43;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59

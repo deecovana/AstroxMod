@@ -6,3 +6,10 @@ NPC;+STOCK;179;134;153.129;Starbase Corporate Center;Void Starcross;2h 26m 24s ;
 NPC;+STOCK;659;130;97.64803;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;195;99;54.774;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+PRICE;43;0;62.38258;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+STOCK;261;138;92.25034;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;288;109;150.2089;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;802;143;91.24192;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;101;-78;153.761;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;101;0;148.1464;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;39;0;102.4088;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;466;105;104.5986;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84

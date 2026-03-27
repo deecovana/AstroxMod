@@ -10,3 +10,13 @@ NPC;+STOCK;8;3;98794.84;StarShepards Headquarters;Void Starcross;2h 26m 24s ;878
 NPC;+STOCK;28;3;116931.8;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;39;3;126054.6;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;33;4;167085;Cecil;Junia;2h 29m 20s ;8960.865
+NPC;+STOCK;36;3;88071.33;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;38;4;81442.68;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;26;3;91413.63;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;11;3;89769.48;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;32;4;112733.5;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;43;4;113854.5;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;25;-3;116100;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;42;4;82200;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-PRICE;32;0;136763.5;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;6;0;248849.1;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

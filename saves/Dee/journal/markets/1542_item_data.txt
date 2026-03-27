@@ -2,3 +2,6 @@ NPC;BAL;25;-11;10948.67;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
 NPC;BAL;21;-6;8930.688;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
 NPC;+QTY;29;7;12255.35;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+QTY;95;9;6355.008;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;104;8;9905.185;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;49;11;12195.9;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;-PRICE;19;0;9913.246;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65

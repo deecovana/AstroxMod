@@ -12,3 +12,10 @@ NPC;+LOCAL;150;12;31.6225;Biomate University;Void Starcross;3h 3m 35s ;11015.9
 NPC;+LOCAL;150;13;31.6225;Biomate University;Void Starcross;3h 15m 34s ;11734.13
 NPC;+LOCAL;150;4;31.6225;Biomate University;Void Starcross;3h 20m 14s ;12014.06
 NPC;+LOCAL;150;4;31.6225;Biomate University;Void Starcross;3h 28m 49s ;12529.77
+NPC;+LOCAL;150;1;31.6225;Biomate University;Void Starcross;3h 41m 18s ;13278.96
+NPC;+STOCK;261;111;11.76114;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;549;101;52.28526;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;498;-136;48.04188;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;418;-80;53.19235;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;484;137;83.72057;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;-PRICE;725;0;53.86667;Cecil;Junia;4h 51m 22s ;17482.65

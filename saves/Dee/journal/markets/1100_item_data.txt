@@ -3,3 +3,7 @@ NPC;-PRICE;34;0;324.8314;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+PRICE;4;0;529.7391;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;2h 30m 22s ;9022.271
 NPC;+PRICE;8;0;226.6407;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
+NPC;-QTY;12;-6;401.875;Dustardz;Redsky;4h 19m 24s ;15564.41
+NPC;-PRICE;1;0;243.7087;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
+NPC;+QTY;31;10;535.2188;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+PRICE;29;0;418.8691;PharmaLife;Carioullis;4h 52m 11s ;17531.62

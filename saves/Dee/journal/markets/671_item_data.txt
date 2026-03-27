@@ -6,3 +6,6 @@ NPC;+PRICE;58;0;130796.6;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+QTY;72;22;247100;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;77;18;152250;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;BAL;54;-22;260468.7;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;148;18;231002.2;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;101;23;240292.3;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-4;169050;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41

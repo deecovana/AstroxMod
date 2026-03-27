@@ -5,3 +5,9 @@ NPC;+STOCK;148;148;37.06293;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;387;114;25.85779;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;456;75;20.84375;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;BAL;392;-98;14.08251;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;263;115;36.2698;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;503;116;25.41657;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;47;-109;19.74443;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;385;122;36.32813;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+PRICE;60;0;13.96552;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;145;0;11.66151;PharmaLife;Carioullis;4h 52m 11s ;17531.62

@@ -4,3 +4,7 @@ NPC;+QTY;61;11;9506.25;Foodmaid;Daelus;0h 50m 9s ;3009.769
 NPC;BAL;62;-13;10770.12;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
 NPC;+STOCK;67;13;9312.011;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;62;0;11161.27;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+PRICE;49;0;14638.83;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+PRICE;109;0;14254.78;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
+NPC;+STOCK;79;12;8943.262;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;35;-8;14796.61;Blargg's;Beacon Spita;4h 40m 21s ;16821.04

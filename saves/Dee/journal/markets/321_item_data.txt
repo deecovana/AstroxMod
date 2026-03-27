@@ -9,3 +9,14 @@ NPC;+QTY;847;830;81.28475;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;874;852;109.1605;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+QTY;710;677;159.9927;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;BAL;26;0;97.7075;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+STOCK;954;928;119.8659;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1778;847;155.2991;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1751;764;203.4358;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1533;787;196.854;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-746;201.2207;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;0;-25;110.7335;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-LOCAL;0;0;233.9526;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
+NPC;BAL;695;695;192.931;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;2397;619;156.0105;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;625;612;112.6485;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-PRICE;61;0;83.252;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65

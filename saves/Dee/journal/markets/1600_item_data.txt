@@ -4,3 +4,11 @@ NPC;+STOCK;68;9;791.4866;Starbase Corporate Center;Void Starcross;2h 26m 24s ;87
 NPC;+PRICE;4;0;1043.255;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;BAL;5;-11;1115.802;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;BAL;12;-7;684.6934;Crystalis Broadcasting;Jermicus;2h 58m 0s ;10680.39
+NPC;+STOCK;87;8;1254.135;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;79;11;740.1997;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;20;-7;1054.907;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-PRICE;16;0;861.4651;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;-PRICE;12;0;617.2561;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
+NPC;BAL;57;-11;865.4084;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;4;0;1186.267;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+QTY;10;8;620.1724;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59

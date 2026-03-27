@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;3-4-0-1-3-0-8-1-5-4-1-5-0-2-7-3-7-90
 STATION;interior_seed;3-7-0-9
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;18433.92
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -40,6 +43,7 @@ MERC;7;1.92;npc_ship_data_(excavation_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Sale Request Order: (2) Items ;1779x5,1640x4;71214;89750.73
 BUYORDER;Market Demands: (3) Items ;217x232,212x151,212x96;130103;90913.28
 BUYORDER;Market Shortage: (3) Items ;210x211,215x105,209x156;76029;22677.82
 BUYORDER;Market Shortage: (1) Items ;212x67;11214;43990.77
@@ -157,6 +161,13 @@ SKILL;74;2.00
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;153;150;704858;FABRICATE#43#2485#sector_78_station_0.txt#sector_77_station_0.txt#null#null#null#null;Produce a medium shipment of <color='yellow'>43</color> <color='yellow'>Titanyte Beams</color> in <color='cyan'>Bitcola</color> at the Tella's station fabricator;10;Lacuna Bandits Station has contacted our client informing them of some medium cargo that remains missing by a former employee, <i>Nortisqi Velnono</i> of the Missionary Faction. <color='yellow'>43</color> <color='yellow'>Titanyte Beams</color> production run in <color='cyan'>Bitcola</color>, at the Tella's fabricator.;12040;2800
+MISSION;70;180;808679;ESCORT#sector_0_station_3.txt#sector_80_station_0.txt#Commander Peajalis Bazyi#npc_ship_data_(support_frigate_3)#10#null#null#null;Escort <color='yellow'><i>Commander Peajalis Bazyi</i></color> from StarShepards Headquarters in <color='cyan'>Void Starcross</color> to Genistar in <color='cyan'>Blades of Dandrow</color>;9;A wealthy council member from the Temple faction has set up an escort for his oldest son <color='yellow'><i>Commander Peajalis Bazyi</i></color>. He was recently released from a rehab center for bliss addiction, and <i>Kilemos Fomole</i>, his father, would prefer he doesn't travel alone. You can meet up with <color='yellow'><i>Commander Peajalis Bazyi</i></color> at the StarShepards Headquarters station before heading over to Genistar.;7950;3000
+MISSION;13;150;521589;DELIVERY#157#111#sector_14_station_1.txt#sector_1_station_0.txt#null#null#null#null;Take medium shipment of <color='yellow'>157</color> <color='yellow'>Aluminium Shards</color> and deliver to <color='cyan'>Gate of Alpharis</color> and dock at Horizons Station;9;Quantex Station has contacted our client informing them of some medium cargo that remains unclaimed by a former employee, <i>Sivsip Nortisjohvel</i> of the Temple Faction. <color='yellow'>157</color> <color='yellow'>Aluminium Shards</color> need to be delivered to <color='cyan'>Gate of Alpharis</color>, Horizons Station.;14872;4600
+MISSION;151;120;669376;FABRICATE#6#2458#sector_57_station_0.txt#sector_14_station_1.txt#null#null#null#null;Produce a light container of <color='yellow'>6</color> <color='yellow'>Large Processors</color> at the OmniTrust fabricator in <color='cyan'>Ponze</color>;9;The Temple Faction has commissioned a production liaison, <i>Kolze Fonuhzils</i> at Horizons. After an audit, <color='yellow'>6</color> items of <color='yellow'>Large Processors</color> were deemed required. Head on over to <color='cyan'>Ponze</color> and manufacture these <color='yellow'>Large Processors</color> at OmniTrust.;16165;5000
+MISSION;132;140;483561;SALVAGE#17#25#sector_80.txt#sector_95_station_1.txt#null#null#null#null;Dismantle <color='yellow'>Special Module Fragment</color> in <color='cyan'>Blades of Dandrow</color> and return with <color='yellow'>17</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>;9;<i>Ilsso Whayi</i> has discovered a light cache of <color='yellow'>Special Module Fragment</color> in <color='cyan'>Blades of Dandrow</color>. He is currently unable to dismantle the <color='yellow'>Special Module Fragment</color>, and has requested a pilot to head over and salvage the <color='yellow'>17</color> <color='yellow'>Special Module Fragment</color>. Once complete, head over and meet <i>Ilsso Whayi</i> at the Acrondia Hub station located in the <color='cyan'>Temple Gates</color>.;14518;6125
+MISSION;10;120;826010;DELIVERY#3#1007#sector_0_station_1.txt#sector_77_station_0.txt#null#null#null#null;Dock at Lammassu Financial in <color='cyan'>Void Starcross</color> to deliver a light shipment of <color='yellow'>3</color> <color='yellow'>Kinetics G-series Dual 20mms</color>;10;<i>Febira Diebast</i> runs a Missionary shipping company at Lacuna Bandits. After having some issues with a transport ship, <color='yellow'>3</color> items of <color='yellow'>Kinetics G-series Dual 20mms</color> were left behind. Head on over to <color='cyan'>Void Starcross</color> and deliver these <color='yellow'>Kinetics G-series Dual 20mms</color> to Lammassu Financial.;8170;1900
+MISSION;143;150;481255;REFINE#37#6#sector_0_station_2.txt#sector_0_station_0.txt#null#null#null#null;Refine medium shipment of <color='yellow'>37</color> <color='yellow'>Plasite Ores</color> in <color='cyan'>Void Starcross</color> at the StarGypsy Warehouse station refinery;10;Biomate University Station has contacted our client informing them of some medium cargo that remains unclaimed by former employees, <i>Qecor Corgot</i> of the Missionary Faction. <color='yellow'>37</color> <color='yellow'>Plasite Ores</color> need to be refined in <color='cyan'>Void Starcross</color>, at the StarGypsy Warehouse Station refinery.;10640;1400
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -170,3 +181,5 @@ SHIP;7;1.08;ship_data_(transport_escort_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
+

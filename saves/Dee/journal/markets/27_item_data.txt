@@ -5,3 +5,11 @@ NPC;+STOCK;5157;4866;6686.723;Biomate University;Void Starcross;2h 26m 24s ;8784
 NPC;+STOCK;4030;3777;6430.611;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;4589;3922;10301.7;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;5182;4859;7267.156;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;3852;3561;6528.644;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8141;4111;6324.943;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8440;3851;9914.691;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;9878;4696;6872.351;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-LOCAL;68;68;10085.63;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
+NPC;BAL;68;0;9960.703;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;-PRICE;481;0;5920.455;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;20;0;8559.298;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

@@ -2,3 +2,13 @@ NPC;+QTY;762;134;59.67;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;+STOCK;669;125;78.40134;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;834;137;42.34903;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;273;131;77.57553;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;790;121;75.11115;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;947;113;40.89731;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;382;109;74.51981;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;207;0;45.25145;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-PRICE;3;0;96.14951;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;132;0;54.93102;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;931;141;75.14;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;340;130;92.6757;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;211;0;46.32996;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;282;75;44.6615;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

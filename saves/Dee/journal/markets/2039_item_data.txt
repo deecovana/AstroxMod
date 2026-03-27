@@ -2,3 +2,7 @@ NPC;-PRICE;422;0;1398.798;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;BAL;621;-100;3386.595;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+STOCK;927;139;2697.411;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;538;116;1415.029;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;1030;103;2641.717;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;139;109;3657.025;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;806;-121;2685.04;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;667;-139;3010.971;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04

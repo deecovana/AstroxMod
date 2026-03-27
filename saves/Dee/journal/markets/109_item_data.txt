@@ -8,3 +8,14 @@ NPC;+STOCK;527;244;2.454859;StarShepards Headquarters;Void Starcross;2h 26m 24s 
 NPC;+STOCK;774;244;2.60498;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;679;189;5.591459;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;525;150;5.323125;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
+NPC;+PRICE;889;0;3.451136;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;571;233;3.880812;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;997;209;4.452596;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;700;173;2.435328;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;948;174;2.411119;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;904;225;5.504622;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;579;-195;2.620125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;428;-151;2.915984;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;110;0;3.345882;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;805;234;3.88875;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+PRICE;725;0;4.508468;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

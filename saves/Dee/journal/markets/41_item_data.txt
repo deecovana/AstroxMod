@@ -5,3 +5,15 @@ NPC;+STOCK;2534;2361;16.86881;StarShepards Headquarters;Void Starcross;2h 26m 24
 NPC;+STOCK;2078;1761;10.21418;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;2230;1938;11.73946;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;2524;2498;9.45725;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+PRICE;129;0;22.34827;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;4485;2286;17.64756;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4485;1951;16.22563;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;3847;1769;9.824368;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4465;2235;11.00722;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;127;0;19.18983;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+PRICE;127;0;19.8261;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;+PRICE;9;0;15.03642;Gemini Mining;Jala;4h 16m 43s ;15403.89
+NPC;-QTY;664;-1414;10.11037;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;664;0;12.00342;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;122;0;19.93616;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;5988;1503;17.60825;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

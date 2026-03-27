@@ -1,2 +1,5 @@
 NPC;BAL;27;-8;3280.908;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;36;9;3123.427;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;46;10;3008.852;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;10;0;6400.086;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-PRICE;15;0;4089.404;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74

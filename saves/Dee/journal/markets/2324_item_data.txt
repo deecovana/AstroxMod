@@ -1,2 +1,5 @@
 NPC;+QTY;12;2;17624.07;Foodmaid;Daelus;0h 50m 9s ;3009.769
 NPC;+STOCK;79;2;15114.35;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;81;2;13572.1;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;7;2;33095.3;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+PRICE;74;0;20306.33;Janca Refinery;Canndelis;4h 52m 11s ;17531.62

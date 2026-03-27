@@ -12,3 +12,18 @@ NPC;+STOCK;990;904;20.47951;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;46;0;21.20201;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+QTY;882;824;11.5645;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;68;0;15.2156;ValueStar;Hunu;2h 58m 0s ;10680.39
+NPC;+PRICE;11;0;16.65339;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+STOCK;1475;712;13.77462;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1737;821;14.16617;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1552;703;17.4328;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1942;952;19.70718;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-849;18.05375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;-QTY;0;-42;22.03606;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;-LOCAL;0;0;26.42994;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
+NPC;BAL;960;960;18.83842;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1624;739;20.0485;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;670;647;9.920472;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;-PRICE;0;0;21.1999;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;-PRICE;22;0;19.39946;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;52;0;21.01349;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;924;910;9.684638;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59

@@ -11,3 +11,15 @@ NPC;+STOCK;746;666;76.88579;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;797;780;80.9295;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;920;904;78.9735;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;BAL;49;0;202.8906;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+PRICE;19;0;107.1554;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+PRICE;5;0;83.96914;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
+NPC;+STOCK;1025;935;202.499;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1551;751;106.6893;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;699;673;218.3441;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1783;957;107.661;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;1792;920;132.5583;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;21;0;218.9407;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;0;-872;139.6095;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;725;725;151.6694;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;BAL;6;0;98.96957;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;+QTY;2348;797;106.113;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82

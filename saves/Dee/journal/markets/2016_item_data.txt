@@ -3,3 +3,10 @@ NPC;+STOCK;379;129;341.062;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;570;142;313.0532;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;404;0;235.7656;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;BAL;155;-149;453.4972;Kith;Kidd Overture;2h 58m 0s ;10680.39
+NPC;+PRICE;145;0;468.2999;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;502;123;333.1746;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;683;113;300.6211;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;488;-82;348.2764;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;431;116;228.3383;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;410;78;193.7981;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+STOCK;150;113;285.9613;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54

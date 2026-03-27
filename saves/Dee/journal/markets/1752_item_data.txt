@@ -2,3 +2,5 @@ NPC;+LOCAL;12;10;11543.71;Proctors Center;Void Starcross;1h 25m 35s ;5135.035
 NPC;BAL;9;-8;28514.51;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
 NPC;+STOCK;64;8;21988.37;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;23;11;5105.871;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+PRICE;28;0;35432.74;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;33;10;5105.871;Proctors Center;Void Starcross;4h 12m 27s ;15147.92

@@ -6,3 +6,10 @@ NPC;+STOCK;2456;2126;967.9268;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;878
 NPC;+STOCK;2725;2496;690.7932;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;171;0;948.1974;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+QTY;2181;2074;584.4832;Gunstellar;Adrenal;2h 29m 20s ;8960.865
+NPC;+PRICE;189;0;1110.022;Imperium Bank;Ciando;4h 11m 12s ;15072.39
+NPC;+STOCK;2606;2477;696.7373;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4194;1738;936.9614;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;4621;1896;677.1005;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;0;-427;570.9133;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;BAL;101;0;1094.609;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+PRICE;77;0;599.2107;Dustardz;Redsky;4h 52m 11s ;17531.62

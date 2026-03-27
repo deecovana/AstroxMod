@@ -3,3 +3,7 @@ NPC;-PRICE;599;0;1694.652;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;+QTY;973;85;1939.219;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;BAL;93;0;1284.191;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;156;131;1972.504;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;222;119;1418.133;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;225;132;1212.071;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;295;139;1954.748;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;110;0;875.5828;Cecil;Junia;4h 51m 22s ;17482.65

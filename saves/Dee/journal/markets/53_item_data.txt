@@ -7,3 +7,12 @@ NPC;+STOCK;2591;2355;33.34579;Biomate University;Void Starcross;2h 26m 24s ;8784
 NPC;+STOCK;1776;1706;22.28064;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;2227;1997;29.36863;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;2449;2415;49.11775;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
+NPC;+STOCK;2323;2087;34.41315;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2300;2222;24.96398;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;2739;2353;63.08521;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;3640;1864;21.76949;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;148;0;33.27564;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
+NPC;-QTY;0;-386;64.34863;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;BAL;1319;1319;58.55294;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;1918;1836;40.83551;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;-PRICE;383;0;64.10672;Cecil;Junia;4h 51m 22s ;17482.65

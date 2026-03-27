@@ -4,3 +4,10 @@ NPC;+STOCK;138;13;273443.7;Biomate University;Void Starcross;2h 26m 24s ;8784.13
 NPC;+STOCK;97;10;121561.5;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;41;0;290097.7;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+PRICE;49;0;272998.3;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;-QTY;0;-9;173125;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
+NPC;+STOCK;139;14;269122.5;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;107;10;109212;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;76;10;205123.6;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;58;-8;215937.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
+NPC;+QTY;24;14;170937.5;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+QTY;118;12;102778.1;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84

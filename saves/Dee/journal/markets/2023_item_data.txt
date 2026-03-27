@@ -1,2 +1,5 @@
 NPC;BAL;99;0;376.6452;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;510;134;578.1758;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;208;109;368.2828;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;617;107;567.9279;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-PRICE;182;0;532.1782;Cecil;Junia;4h 51m 22s ;17482.65
