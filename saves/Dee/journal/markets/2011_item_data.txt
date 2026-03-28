@@ -7,3 +7,5 @@ NPC;+PRICE;694;0;86.37827;Medicore University;Cliffs of Drameria;2h 29m 20s ;896
 NPC;+STOCK;944;112;101.6392;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;346;110;118.2846;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;1068;124;101.5122;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;1184;116;101.5122;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;215;121;81.58264;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

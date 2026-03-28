@@ -19,3 +19,11 @@ NPC;-QTY;483;-134;4.213125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;
 NPC;BAL;338;-145;4.515485;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;1162;165;8.37275;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;318;126;6.966904;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+PLAYER;+QTY;765;36;6.887122;StarGypsy Warehouse;Void Starcross;5h 30m 42s ;19842.94
+NPC;+PRICE;112;0;8.927693;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;120;0;10.89064;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+PRICE;245;0;7.575201;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+QTY;1357;136;4.427125;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;1319;157;8.37275;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;250;12;11.67194;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
+PLAYER;+QTY;346;8;4.534124;Starbase Corporate Center;Void Starcross;6h 55m 5s ;24905.48

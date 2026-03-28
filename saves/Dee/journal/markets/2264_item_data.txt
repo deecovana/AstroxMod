@@ -2,3 +2,5 @@ NPC;+STOCK;66;2;13864.91;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;7;0;15454.08;Fellacore Research Center;Grace;2h 34m 4s ;9244.389
 NPC;+STOCK;68;2;13751.12;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;69;1;13760.88;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;70;1;13760.88;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;2;0;14729.9;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

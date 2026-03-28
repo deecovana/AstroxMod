@@ -30,3 +30,16 @@ NPC;+QTY;20;3;2855.563;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;6;3;4068.75;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+QTY;5;2;3505.563;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;5;3;4918.75;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+LOCAL;5;1;2615.562;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
+NPC;+PRICE;2;0;5298.942;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+PRICE;9;0;3620.265;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;14;-2;4116.862;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+PRICE;10;0;4459.655;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+STOCK;15;4;3718.775;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;47;2;3212.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;8;-2;5653.172;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;-QTY;0;-3;4647.968;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-QTY;5;-4;5097.969;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;10;2;5653.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;13;3;5653.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+LOCAL;5;1;1625;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05

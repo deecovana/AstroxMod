@@ -20,3 +20,6 @@ NPC;+STOCK;91;8;31674.71;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;17;-6;39850.03;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;10;-7;42572.89;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;11;0;52404.99;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+LOCAL;12;12;16957.46;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;+PRICE;9;0;54861.65;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+LOCAL;12;23;16957.46;Biomate University;Void Starcross;8h 8m 25s ;29305.03

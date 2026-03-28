@@ -20,3 +20,6 @@ NPC;-QTY;0;-413;419.9596;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;-PRICE;63;0;756.7358;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
 NPC;BAL;572;0;709.9838;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;22;0;537.1069;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+PRICE;49;0;534.6389;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;-QTY;0;-71;676.3877;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;1673;1673;676.3877;Ferce;Allabentoris;7h 55m 5s ;28505.1

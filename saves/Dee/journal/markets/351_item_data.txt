@@ -27,3 +27,7 @@ NPC;+STOCK;1754;851;53.20236;Starbase Corporate Center;Void Starcross;4h 12m 27s
 NPC;-QTY;346;-557;54.78787;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+QTY;2567;976;69.83324;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;752;736;47.01822;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-LOCAL;8;8;85.88812;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;+QTY;3261;694;69.83324;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;26;26;85.16249;Biomate University;Void Starcross;8h 8m 25s ;29305.03
+NPC;+PRICE;31;0;41.07463;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

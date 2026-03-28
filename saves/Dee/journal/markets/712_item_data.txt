@@ -24,3 +24,7 @@ NPC;-QTY;21;-24;59062.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;-PRICE;29;0;155494.1;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;BAL;21;0;61997.69;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;56;14;142875;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+PRICE;39;0;97444.63;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;+QTY;77;21;142875;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;48;18;125705.1;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;11;0;157814.8;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

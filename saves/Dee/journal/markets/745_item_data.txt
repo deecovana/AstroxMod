@@ -5,3 +5,6 @@ NPC;+STOCK;98;10;10342.65;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;165;11;7308.684;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;3;0;7980.975;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;+PRICE;56;0;9042.648;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+PRICE;8;0;13367.79;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;165;9;13809.52;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+STOCK;83;11;11233.83;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

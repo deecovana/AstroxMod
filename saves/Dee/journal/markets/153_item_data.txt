@@ -15,3 +15,10 @@ NPC;BAL;156;-123;9.573811;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;498;139;5.53125;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+LOCAL;150;464;4.0625;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+PRICE;436;0;15.69859;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+PRICE;99;0;8.951012;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;148;0;10.94523;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+LOCAL;150;746;4.0625;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+QTY;400;89;8.421875;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;271;121;1.40625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;305;0;9.000835;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;16;0;5.462575;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

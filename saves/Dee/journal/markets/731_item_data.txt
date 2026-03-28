@@ -15,3 +15,7 @@ NPC;+QTY;136;13;74662.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;32;10;117222.2;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+QTY;89;13;102483.6;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;95;0;93551.64;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;BAL;28;-8;109661.5;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;143;7;74662.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;40;7;166754.7;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;28;0;117533.5;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

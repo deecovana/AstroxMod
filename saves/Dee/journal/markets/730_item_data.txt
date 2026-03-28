@@ -18,3 +18,5 @@ NPC;-QTY;162;-7;25368.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15
 NPC;BAL;149;-13;27702.21;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;102;14;23512.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;188;0;21838.02;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;103;0;23254.1;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;-QTY;0;-4;33731.72;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34

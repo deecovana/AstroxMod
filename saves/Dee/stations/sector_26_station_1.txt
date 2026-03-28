@@ -40,6 +40,13 @@ MERC;2;1.05;npc_ship_data_(battle_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Items Req: (2) Items ;158x419,150x356;22667;83460.06
+BUYORDER;Market Low Inventory: (1) Items ;153x457;6673;67809.86
+BUYORDER;Market Shortage: (2) Items ;156x311,157x197;23554;55263.86
+BUYORDER;Purchase Request (2) Items ;1160x9,51x37;31626;75189.45
+
+SELLORDER;Selling: (2) Items ;105x372,75x265;40255;62038.37
+
 BUYORDER;Purchase Order for: (1) Items ;331x622;115469;26358.61
 
 BUYORDER;Market Out of Stock: (2) Items ;150x358,155x296;16711;45426.28
@@ -338,6 +345,7 @@ SKILL;224;1.61
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;0.9456415;ship_data_(kj_escort_1).txt
 SHIP;1;1.09;ship_data_(battle_cruiser_1).txt
 SHIP;2;0.99;ship_data_(transport_frigate_1).txt
 SHIP;3;0.96;ship_data_(support_carrier_1).txt

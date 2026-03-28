@@ -4,3 +4,4 @@ NPC;+STOCK;100;8;203739.1;StarShepards Headquarters;Void Starcross;4h 12m 27s ;1
 NPC;+STOCK;96;9;193306.5;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;76;-11;201965.4;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;70;-6;191495.5;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;31;0;116263.3;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

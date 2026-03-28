@@ -12,3 +12,8 @@ NPC;-PRICE;3;0;48.67178;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+QTY;855;95;70.14156;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;122;82;64.1112;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+STOCK;264;106;21.42208;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+PRICE;401;0;36.88742;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;-LOCAL;4;4;64.9125;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+QTY;119;115;65.81406;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;366;129;43.31161;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;60;60;64.9125;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74

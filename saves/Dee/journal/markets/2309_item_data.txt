@@ -1,2 +1,4 @@
 NPC;BAL;7;-2;17000.43;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;2;1;8119.816;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+PRICE;32;0;15451.39;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;7;0;17379.2;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

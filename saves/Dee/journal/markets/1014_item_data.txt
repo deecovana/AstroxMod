@@ -8,3 +8,4 @@ NPC;+STOCK;21;10;3858.393;Starbase Corporate Center;Void Starcross;4h 12m 27s ;1
 NPC;-QTY;5;-6;3918.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;5;0;4316.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;21;11;4702.188;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;+PRICE;17;0;4118.688;Inovex;Goru Populan;6h 12m 48s ;22368.54

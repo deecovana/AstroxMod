@@ -19,3 +19,7 @@ NPC;BAL;1629;1629;64.45644;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;7113;2091;37.79775;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;1784;1607;65.52613;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+PRICE;378;0;76.24603;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+PRICE;133;0;66.25291;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;-QTY;0;-111;62.65609;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;1521;1521;62.65609;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;1921;1662;84.80509;Vo Industries;Brimstone;7h 55m 5s ;28505.1

@@ -9,3 +9,6 @@ NPC;-QTY;3;-11;733.25;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
 NPC;-PRICE;3;0;813.4337;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+QTY;49;6;1249.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;13;9;1419.25;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+QTY;11;6;957.2501;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;58;9;1249.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-9;1483.431;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34

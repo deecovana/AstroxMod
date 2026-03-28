@@ -3,3 +3,4 @@ NPC;BAL;38;-10;36760.42;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;+STOCK;26;10;38748.68;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;38;0;23799.8;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;-PRICE;13;0;41708.93;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;45;11;22873.88;Vo Industries;Brimstone;7h 55m 5s ;28505.1

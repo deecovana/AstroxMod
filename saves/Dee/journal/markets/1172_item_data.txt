@@ -8,3 +8,8 @@ NPC;+LOCAL;12;27;3770;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162
 PLAYER;-QTY;9;3;2900;Starbase Corporate Center;Void Starcross;4h 13m 49s ;15229.37
 NPC;-QTY;1;-8;1783.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;1;0;2820.274;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+LOCAL;12;19;3770;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+LOCAL;12;8;3770;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;-QTY;0;-8;7895.358;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;27;8;9403.359;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;10;10;7895.358;Ferce;Allabentoris;7h 55m 5s ;28505.1

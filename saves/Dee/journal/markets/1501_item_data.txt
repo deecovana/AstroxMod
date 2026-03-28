@@ -3,3 +3,7 @@ NPC;+PRICE;31;0;2825.44;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;+QTY;57;10;2693.423;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+STOCK;23;8;1202.003;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;23;0;2093.188;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+PRICE;16;0;1420.745;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;+STOCK;45;8;1654.162;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;-QTY;0;-3;1968.378;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;87;10;1347.747;Vo Industries;Brimstone;7h 55m 5s ;28505.1

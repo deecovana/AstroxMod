@@ -11,3 +11,6 @@ NPC;-QTY;0;-23;4.17175;Dustardz;Redsky;4h 19m 24s ;15564.41
 NPC;-QTY;0;-448;4.594614;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+QTY;2007;1997;3.703238;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;-PRICE;0;0;4.463733;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;43;0;7.101961;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;62;0;7.852932;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;1754;1688;6.220695;Ferce;Allabentoris;7h 55m 5s ;28505.1

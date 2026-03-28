@@ -7,3 +7,9 @@ NPC;+STOCK;813;119;1142.033;Starbase Corporate Center;Void Starcross;4h 12m 27s 
 NPC;-QTY;617;-77;1208.142;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;477;-140;1249.86;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;743;99;709.1243;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+LOCAL;150;170;459.9075;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.13
+NPC;+LOCAL;150;31;459.9075;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;+LOCAL;150;29;459.9075;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+LOCAL;150;141;459.9075;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+LOCAL;150;37;459.9075;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+LOCAL;150;233;459.9075;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

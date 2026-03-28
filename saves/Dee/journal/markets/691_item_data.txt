@@ -16,3 +16,7 @@ NPC;-QTY;33;-14;17512.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;BAL;19;-14;18384.4;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;111;23;20775;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+PRICE;18;0;29559.02;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+QTY;189;21;22312.5;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;132;21;20775;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;55;19;19219.03;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;36;15;14119.03;Ferce;Allabentoris;7h 55m 5s ;28505.1

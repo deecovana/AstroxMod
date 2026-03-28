@@ -19,3 +19,8 @@ NPC;BAL;428;-151;2.915984;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1
 NPC;BAL;110;0;3.345882;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;805;234;3.88875;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+PRICE;725;0;4.508468;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+PRICE;338;0;2.181166;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;405;-161;4.731004;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+LOCAL;250;34;5.95462;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
+NPC;+LOCAL;62;19;3.582576;Tella's;Bitcola;7h 35m 32s ;27332.98
+NPC;+STOCK;329;221;4.406747;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

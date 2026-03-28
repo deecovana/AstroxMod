@@ -15,3 +15,4 @@ NPC;-QTY;25;-8;9956.25;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1556
 NPC;-PRICE;5;0;5715.043;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
 NPC;-PRICE;30;0;13038.86;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
 NPC;BAL;12;-13;10552.49;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;55;0;8699.479;Inovex;Goru Populan;6h 12m 48s ;22368.54

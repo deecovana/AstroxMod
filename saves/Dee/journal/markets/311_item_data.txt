@@ -20,3 +20,14 @@ NPC;-PRICE;29;0;52.93516;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;BAL;556;556;43.89424;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;24;0;47.75105;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;2692;798;34.3035;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-LOCAL;59;59;84.27158;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.13
+NPC;-LOCAL;0;0;115.8242;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;-LOCAL;42;42;82.79865;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+PRICE;8;0;44.89946;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;3578;886;34.3035;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;30;30;81.675;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+QTY;867;865;74.82405;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;1485;618;74.82405;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;0;0;142.4967;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+PRICE;3;0;83.0746;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;-LOCAL;77;77;81.675;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

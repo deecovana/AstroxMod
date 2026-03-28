@@ -36,3 +36,14 @@ NPC;BAL;194;0;18.09027;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;-LOCAL;0;0;40;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+STOCK;3650;3650;47.52983;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;-PRICE;593;0;17.72527;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+PLAYER;+QTY;4197;80;8.2185;StarGypsy Warehouse;Void Starcross;5h 42m 2s ;20522.49
+NPC;-LOCAL;7904;0;18;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
+NPC;+PRICE;10;0;21.60581;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;3364;3317;10.3;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;11940;3976;13.8;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;4780;4779;14.89015;Ferce;Allabentoris;7h 55m 5s ;28505.1
+PLAYER;+QTY;137;84;17.9135;Horizons;Gate of Alpharis;8h 36m 38s ;30998.66
+PLAYER;+QTY;686;549;17.5935;Horizons;Gate of Alpharis;8h 43m 18s ;31398.32
+NPC;-LOCAL;7864;0;18;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+PLAYER;+QTY;8352;488;18.88687;Proctors Center;Void Starcross;8h 56m 59s ;32219.03
+NPC;+PRICE;628;0;9.049366;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

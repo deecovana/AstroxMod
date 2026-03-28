@@ -28,3 +28,11 @@ NPC;+QTY;4945;4846;102.165;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;5256;4779;59.82288;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+PRICE;197;0;94.75742;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+PRICE;76;0;80.09859;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+PRICE;156;0;55.7859;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;-LOCAL;1419;0;110.25;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+QTY;9613;4668;102.165;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;974;0;110.25;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;-QTY;0;-70;46.50024;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;+QTY;5807;4966;66.70216;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;4324;4298;111.5527;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;729;0;67.07434;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

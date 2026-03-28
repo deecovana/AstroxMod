@@ -14,3 +14,5 @@ NPC;BAL;94;-7;10395.63;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1682
 NPC;+QTY;167;8;15637.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;5;0;6438.696;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;44;0;9475.504;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+PRICE;50;0;13507.08;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;181;14;15637.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

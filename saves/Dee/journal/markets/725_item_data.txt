@@ -7,3 +7,5 @@ NPC;+STOCK;102;13;7158.88;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.9
 NPC;+STOCK;79;11;10053.53;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;29;0;16208.29;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;+QTY;36;7;16191.56;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+STOCK;84;14;11172.82;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;114;9;16059.51;Vo Industries;Brimstone;7h 55m 5s ;28505.1

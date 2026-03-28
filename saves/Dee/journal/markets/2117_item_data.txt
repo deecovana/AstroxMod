@@ -17,3 +17,8 @@ NPC;-PRICE;98;0;174.2101;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
 NPC;+QTY;2084;2012;276.075;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;-PRICE;1799;0;136.534;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-PRICE;398;0;193.7317;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;2061;0;158.0316;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;18;0;253.2998;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;-QTY;0;-1473;145.6903;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;1940;1690;189.1713;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+PRICE;398;0;203.3407;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

@@ -14,3 +14,7 @@ NPC;-QTY;0;-23;66.68044;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+QTY;7282;2416;94.72501;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+STOCK;1768;1738;91.98827;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;91;0;39.21937;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;91;0;40.24443;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+QTY;2063;1847;94.8375;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;2451;2378;87.26344;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-QTY;0;-9;74.66344;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34

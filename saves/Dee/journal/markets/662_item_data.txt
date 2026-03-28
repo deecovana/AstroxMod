@@ -19,3 +19,11 @@ NPC;-QTY;36;-2;19315.63;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;-QTY;23;-2;8765.641;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;4;0;12154.14;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;35;4;17718.75;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+PRICE;19;0;9204.761;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;4;0;13559.24;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;7;0;9900.735;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+PRICE;17;0;11064.22;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+STOCK;12;4;8987.807;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;38;3;17718.75;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;2;0;13154.57;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;6;0;16876.4;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

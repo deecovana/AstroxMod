@@ -13,3 +13,10 @@ NPC;+STOCK;901;127;15.53183;StarShepards Headquarters;Void Starcross;4h 12m 27s 
 NPC;-PRICE;71;0;18.52903;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+QTY;492;140;12.597;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+STOCK;240;131;16.13898;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;+STOCK;189;123;15.60328;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;323;127;19.4655;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;632;140;12.597;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;104;-128;9.794737;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;309;102;21.67446;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+LOCAL;150;316;7.41;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+PRICE;575;0;14.9295;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

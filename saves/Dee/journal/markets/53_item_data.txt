@@ -16,3 +16,10 @@ NPC;-QTY;0;-386;64.34863;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15
 NPC;BAL;1319;1319;58.55294;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;1918;1836;40.83551;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;-PRICE;383;0;64.10672;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;2227;0;32.03719;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;199;0;41.96352;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+PRICE;34;0;40.57911;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;2441;2003;50.35662;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;1466;1348;35.59998;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;3767;1849;38.46595;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;3;0;38.43951;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

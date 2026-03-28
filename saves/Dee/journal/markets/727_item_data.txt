@@ -16,3 +16,4 @@ NPC;+STOCK;51;10;14074.89;StarShepards Headquarters;Void Starcross;4h 12m 27s ;1
 NPC;+STOCK;128;12;6671.799;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;155;0;6062.207;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;89;0;11043.42;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;-QTY;20;-9;12743.91;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34

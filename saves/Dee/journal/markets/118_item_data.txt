@@ -19,3 +19,9 @@ NPC;BAL;240;-127;3.991568;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1
 NPC;+QTY;1148;209;5.011119;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;1123;0;3.419411;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+QTY;851;232;1.811906;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;BAL;111;-239;5.842966;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;228;0;5.737549;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;691;133;2.32375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;347;172;4.727766;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+LOCAL;28;15;5.142674;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
+NPC;+QTY;1114;181;5.283489;Vo Industries;Brimstone;7h 55m 5s ;28505.1

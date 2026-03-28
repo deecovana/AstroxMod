@@ -2,3 +2,7 @@ PLAYER;-QTY;56;2;2330.625;Biomate University;Void Starcross;0h 13m 23s ;803.1697
 NPC;+STOCK;65;9;2166.968;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;65;9;1990.121;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;11;7;5520.625;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;BAL;8;0;4232.788;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+QTY;38;8;2495.625;Foodmaid;Daelus;6h 44m 29s ;24269.91
+PLAYER;-QTY;64;1;1977.766;Biomate University;Void Starcross;8h 9m 56s ;29396.25
+NPC;+PRICE;8;0;4311.043;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

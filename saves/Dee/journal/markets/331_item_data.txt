@@ -20,3 +20,4 @@ NPC;+STOCK;1804;823;131.0583;Starbase Corporate Center;Void Starcross;4h 12m 27s
 NPC;-QTY;251;-730;135.7112;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+QTY;1550;799;79.4495;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;581;534;64.62911;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;5;0;103.5161;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

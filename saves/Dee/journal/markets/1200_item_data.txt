@@ -5,3 +5,7 @@ NPC;-PRICE;2;0;1662.936;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
 NPC;+QTY;13;9;5006.25;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+PRICE;4;0;3762.467;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+QTY;13;6;3616.875;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+PLAYER;-QTY;2;3;4831.453;Genistar;Blades of Dandrow;5h 14m 47s ;18887.84
+NPC;BAL;9;0;4373.424;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+PLAYER;+QTY;0;3;0;Lammassu Financial;Void Starcross;6h 4m 43s ;21883.04
+PLAYER;+QTY;15;2;3571.453;Lacuna Bandits;Ballast Crow;6h 35m 43s ;23743.46

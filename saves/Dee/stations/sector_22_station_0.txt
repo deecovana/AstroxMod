@@ -41,6 +41,8 @@ MERC;7;1.92;npc_ship_data_(support_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Inventory: (1) Items ;1003x179;116391;36849.45
+
 BUYORDER;Market Shortage: (1) Items ;8x128;139784;74095.77
 
 BUYORDER;Purchase Order for: (1) Items ;1120x1;1991;55350.63

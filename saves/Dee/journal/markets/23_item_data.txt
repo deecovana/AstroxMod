@@ -21,3 +21,10 @@ NPC;-QTY;0;-23;825.7813;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;+QTY;13328;4427;533.75;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;3814;3294;672.3063;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;-PRICE;545;0;558.5451;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;167;0;715.2242;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;-LOCAL;11;11;787.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+PRICE;225;0;541.9764;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;9052;4348;541.625;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;16571;3243;533.75;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;13;13;787.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;+STOCK;8709;4895;652.3851;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

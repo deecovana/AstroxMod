@@ -17,3 +17,8 @@ NPC;-QTY;664;-1414;10.11037;Starbase Corporate Center;Void Starcross;4h 19m 24s 
 NPC;BAL;664;0;12.00342;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;122;0;19.93616;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;5988;1503;17.60825;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+PRICE;65;0;17.15952;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;BAL;122;0;19.6835;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;1792;1769;19.09737;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;7580;1592;17.60825;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;155;0;11.23689;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

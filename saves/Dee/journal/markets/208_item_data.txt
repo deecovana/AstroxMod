@@ -13,3 +13,7 @@ NPC;-QTY;101;-78;153.761;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15
 NPC;BAL;101;0;148.1464;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;39;0;102.4088;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;466;105;104.5986;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;BAL;39;0;106.9982;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+LOCAL;45;14;123.0734;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
+NPC;+PRICE;213;0;75.16807;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+PRICE;39;0;108.5414;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

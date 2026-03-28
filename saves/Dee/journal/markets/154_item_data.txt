@@ -17,3 +17,13 @@ NPC;+QTY;389;125;66.55062;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;644;127;22.85439;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;-PRICE;554;0;46.30832;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;72;0;33.78967;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;BAL;138;0;32.64334;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;-LOCAL;78;78;53.26617;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+QTY;166;88;54.31813;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;221;149;33.53307;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-QTY;72;-112;27.47507;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;380;113;50.82356;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;60;60;52.425;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+STOCK;179;114;32.45499;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;3;0;28.79174;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;+PRICE;138;0;33.56582;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

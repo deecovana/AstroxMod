@@ -9,3 +9,6 @@ NPC;-QTY;12;-7;5225.25;Terra Drone;Geminey;4h 11m 42s ;15102.06
 NPC;+STOCK;174;11;2201.745;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;162;-9;2945.362;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;12;0;5653.315;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;BAL;21;-9;4085.397;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;-QTY;7;-14;5697.563;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;39;14;5043.806;Ferce;Allabentoris;7h 55m 5s ;28505.1

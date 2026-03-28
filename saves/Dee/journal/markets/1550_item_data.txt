@@ -21,3 +21,6 @@ NPC;+STOCK;48;11;2365.886;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;26;9;3332.288;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;37;0;2892.098;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;+QTY;59;11;2379.578;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+LOCAL;12;14;1100.873;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;+QTY;21;11;2779.735;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;60;10;3093.477;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

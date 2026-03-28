@@ -17,3 +17,6 @@ NPC;+STOCK;4605;1790;514.0923;Starbase Corporate Center;Void Starcross;4h 12m 27
 NPC;-QTY;1126;-1689;520.425;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+QTY;6057;1826;255.15;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;2383;2340;492.75;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+QTY;7780;1723;255.15;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-45;377.7806;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+PRICE;180;0;418.3017;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

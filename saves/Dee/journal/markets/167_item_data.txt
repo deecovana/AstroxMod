@@ -16,3 +16,12 @@ NPC;+STOCK;269;121;67.01105;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;792;0;56.67298;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+PRICE;99;0;47.19287;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;247;81;48.82075;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;+PRICE;192;0;60.08553;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;183;-82;82.83325;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;-LOCAL;0;0;216.5;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+PRICE;574;0;65.1974;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;100;100;255.7406;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;175;76;46.72882;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-QTY;97;-121;97.04694;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;192;95;97.04694;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;59;59;100.2083;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74

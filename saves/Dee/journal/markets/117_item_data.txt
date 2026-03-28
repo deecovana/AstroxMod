@@ -19,3 +19,5 @@ NPC;-QTY;763;-156;26.79975;Starbase Corporate Center;Void Starcross;4h 19m 24s ;
 NPC;+QTY;522;182;49.4445;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;976;196;36.07163;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;217;0;41.46667;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;1725;242;52.83775;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;674;152;49.4445;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

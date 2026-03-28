@@ -24,3 +24,10 @@ NPC;+QTY;817;244;1.30725;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;784;213;0.8423362;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;224;0;1.50856;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;108;0;1.048747;Cecil;Junia;4h 51m 22s ;17482.65
+PLAYER;+QTY;734;205;0.8266781;StarGypsy Warehouse;Void Starcross;5h 28m 46s ;19726.86
+NPC;+PRICE;732;0;1.975602;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+PLAYER;+QTY;545;160;1.414875;Starbase Corporate Center;Void Starcross;6h 56m 28s ;24988.86
+NPC;+LOCAL;250;810;0.6825;Tella's;Bitcola;7h 28m 52s ;26932.76
+NPC;+QTY;334;219;1.765332;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;1036;180;2.185332;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+PRICE;44;0;1.851067;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

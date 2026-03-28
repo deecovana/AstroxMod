@@ -14,3 +14,4 @@ NPC;+STOCK;44;14;5939.232;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;85;-13;2422.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;78;-7;2646.327;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;4;0;4015.491;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+PRICE;95;0;6118.171;Inovex;Goru Populan;6h 12m 48s ;22368.54

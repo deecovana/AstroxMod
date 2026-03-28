@@ -18,3 +18,11 @@ NPC;-QTY;19;-751;38.73838;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1
 NPC;BAL;19;0;44.10439;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-PRICE;3;0;70.1655;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;14;0;46.38019;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+LOCAL;1000;830;24.9925;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.13
+NPC;+LOCAL;1000;197;24.9925;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;+LOCAL;1000;288;24.9925;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+QTY;1851;890;67.86425;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;1000;1340;24.9925;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+QTY;1034;986;74.64179;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+LOCAL;1000;253;24.9925;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+LOCAL;1000;1288;24.9925;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

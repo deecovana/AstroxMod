@@ -13,3 +13,5 @@ NPC;BAL;137;-17;81032.88;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16
 NPC;+QTY;101;21;96525;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+STOCK;37;16;143571.7;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;153;0;96018.19;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;114;13;96525;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;126;15;97582.47;Vo Industries;Brimstone;7h 55m 5s ;28505.1

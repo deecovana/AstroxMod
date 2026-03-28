@@ -20,3 +20,8 @@ NPC;BAL;695;695;192.931;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;+QTY;2397;619;156.0105;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;625;612;112.6485;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;61;0;83.252;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-LOCAL;0;0;319.7543;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
+NPC;BAL;35;0;200.3428;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+QTY;978;941;195.5987;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;3042;645;156.0105;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;0;0;468.5;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05

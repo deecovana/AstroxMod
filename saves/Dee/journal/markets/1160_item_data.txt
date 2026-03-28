@@ -15,3 +15,7 @@ NPC;+STOCK;88;8;1068.85;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+LOCAL;12;38;893.75;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
 NPC;-QTY;1;-11;395.3125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;1;0;468.903;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+LOCAL;12;15;893.75;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+QTY;64;9;2124.375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;12;10;893.75;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+PLAYER;+QTY;48;1;2473.883;Biomate University;Void Starcross;8h 12m 30s ;29550.62

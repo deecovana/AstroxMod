@@ -23,3 +23,12 @@ NPC;-PRICE;656;0;0.7187085;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;1
 NPC;+PRICE;427;0;0.8687271;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;500;166;0.3778125;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;834;210;0.4270781;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+PLAYER;+QTY;1216;448;0.7827421;StarGypsy Warehouse;Void Starcross;5h 29m 16s ;19756.75
+NPC;+PRICE;420;0;0.588973;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;306;0;0.8280386;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+QTY;782;147;0.6328125;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;318;193;0.3446953;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+LOCAL;250;13;0.4994717;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
+PLAYER;+QTY;1693;752;0.3928125;Starbase Corporate Center;Void Starcross;6h 54m 58s ;24898.28
+NPC;+QTY;283;215;0.7729758;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;1263;220;0.2718247;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

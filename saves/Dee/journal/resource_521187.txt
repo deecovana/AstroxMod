@@ -1,0 +1,30 @@
+scan_title;Gradeon Ore 269868
+scan_image;gradeon.png
+scan_sector;Blades of Dandrow
+<color='cyan'>OVERVIEW</color>
+Gradeon Ore
+This soft mineral is often used in agriculture and medicine. Gradeon is very resistant to bacterial growth, and is often referred to as the 'Sterile Stone'. When refined, Gradeon produces many of the basic building blocks needed to sustain human life.
+Timestamp: 32692.12
+<color='cyan'>DETAILS</color>
+Level: 2
+Type: Asteroid
+Class: Resource
+Havestablility: 0.86
+Grow rate: 10 / Value: 10
+Current Value: 387.4259
+Max Value: 500
+Scale: 0.125
+<color='cyan'>HARVEST</color>
+Gradeon Ore
+4 x (Level 1 Materials) 
+3 x (Level 2 Materials) 
+
+
+<color='cyan'>SPECS</color>
+Harvest pfID: 0
+Mission Obj: False
+
+<color='cyan'>LOCATION</color>
+x:-723.3589
+y:-353.129
+z:3341.168

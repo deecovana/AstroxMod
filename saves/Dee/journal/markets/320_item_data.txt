@@ -27,3 +27,7 @@ NPC;-PRICE;0;0;21.1999;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-PRICE;22;0;19.39946;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;52;0;21.01349;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;924;910;9.684638;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;-LOCAL;0;0;35.67859;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
+NPC;+PRICE;1;0;11.09346;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;2424;800;20.0485;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;19;19;22.725;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05

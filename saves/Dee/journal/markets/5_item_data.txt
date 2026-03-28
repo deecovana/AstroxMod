@@ -18,3 +18,10 @@ NPC;+STOCK;9115;4207;445.4908;Proctors Center;Void Starcross;4h 12m 27s ;15147.9
 NPC;+PRICE;474;0;137.5461;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;BAL;74;0;100.4767;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-LOCAL;0;0;382.5;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
+PLAYER;+QTY;9462;122;159.6794;StarGypsy Warehouse;Void Starcross;5h 42m 16s ;20536.49
+NPC;-LOCAL;8308;0;208.7055;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
+NPC;+QTY;13774;4677;139.6125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+PLAYER;+QTY;9633;171;156.4138;StarGypsy Warehouse;Void Starcross;7h 38m 4s ;27484.17
+NPC;+QTY;5695;4963;82.71706;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-LOCAL;8126;0;195.6379;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+PLAYER;+QTY;9778;145;153.3012;StarGypsy Warehouse;Void Starcross;9h 36m 26s ;34586.64

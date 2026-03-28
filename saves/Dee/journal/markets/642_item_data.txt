@@ -26,3 +26,8 @@ NPC;+QTY;23;4;18044.47;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;3;0;8949.247;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+QTY;15;3;8640.625;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;9;3;12940.16;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;7;0;18644.04;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;13;0;18006.15;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;31;2;5993.75;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;3;0;9706.801;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;4;0;18144.97;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

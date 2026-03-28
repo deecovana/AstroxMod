@@ -35,3 +35,14 @@ NPC;+QTY;12913;4058;11.27;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;4931;4685;30.13894;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;-LOCAL;0;0;70;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;-PRICE;4970;0;15.71145;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;3424;0;12.93034;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;17;0;23.04268;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+PRICE;107;0;29.14936;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;103;0;23.05867;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;-LOCAL;7527;0;31.5;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
+NPC;+QTY;4692;4212;17.745;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;17102;4189;11.27;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-220;30.81776;Ferce;Allabentoris;7h 28m 42s ;26922.34
+PLAYER;+QTY;550;493;29.74475;Tella's;Bitcola;7h 28m 58s ;26938.86
+PLAYER;+QTY;8473;499;27.77513;StarGypsy Warehouse;Void Starcross;8h 4m 17s ;29057.66
+NPC;-LOCAL;7435;0;31.5;Proctors Center;Void Starcross;8h 56m 46s ;32206.3

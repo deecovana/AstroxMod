@@ -13,3 +13,6 @@ NPC;BAL;5;0;13642.85;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.
 NPC;+QTY;66;7;13006.82;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;29;0;7730.862;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;+QTY;32;10;14038.1;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+QTY;75;9;13006.82;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;88;7;12975.4;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+PRICE;26;0;15722.2;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

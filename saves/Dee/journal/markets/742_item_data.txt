@@ -11,3 +11,5 @@ NPC;+STOCK;85;13;42989.78;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;155;-14;86375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;146;-9;95064.54;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;84;9;92043.75;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;-QTY;13;-14;91959.38;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;+QTY;39;12;60063.44;Vo Industries;Brimstone;7h 55m 5s ;28505.1

@@ -13,3 +13,6 @@ NPC;+STOCK;48;23;7437.493;StarShepards Headquarters;Void Starcross;4h 12m 27s ;1
 NPC;BAL;20;0;13796.7;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;195;24;8520;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;128;0;10136.59;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;30;0;18506.5;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;20;0;14893.14;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;215;20;8520;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

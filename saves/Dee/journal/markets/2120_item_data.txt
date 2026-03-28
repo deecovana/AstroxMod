@@ -13,3 +13,5 @@ NPC;BAL;38;0;365.7891;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;1357;1254;158.2834;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+QTY;2170;1853;235.583;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;1858;1814;252.3615;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;+QTY;1532;1476;277.1923;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+PRICE;38;0;375.7336;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

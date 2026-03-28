@@ -7,3 +7,5 @@ NPC;-QTY;746;-113;178.3779;Starbase Corporate Center;Void Starcross;4h 19m 24s ;
 NPC;-QTY;0;-53;173.8255;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;636;-110;187.1456;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-PRICE;0;0;159.3802;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;859;106;396.8167;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+LOCAL;150;174;115.0825;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05

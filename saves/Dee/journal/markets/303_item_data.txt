@@ -29,3 +29,10 @@ NPC;+STOCK;765;747;32.66213;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;53;0;46.02855;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;721;710;68.6805;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
 NPC;+QTY;948;916;70.84853;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;0;0;70.03647;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;-LOCAL;17;17;94.95;StarShepards Headquarters;Void Starcross;5h 59m 41s ;21581.04
+NPC;BAL;3;0;74.05611;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;3237;598;68.575;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-14;44.69772;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-QTY;68;-789;43.85371;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;887;873;78.54554;Ferce;Allabentoris;7h 55m 5s ;28505.1

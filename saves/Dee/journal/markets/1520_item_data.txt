@@ -8,3 +8,10 @@ NPC;+PRICE;34;0;738.601;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+PRICE;14;0;1294.973;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;-PRICE;42;0;1145.863;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;15;0;918.1879;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;BAL;12;0;962.8659;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;6;0;814.2972;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;6;0;817.2189;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;21;6;913.8891;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+QTY;93;9;927.7186;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+PRICE;42;0;1168.444;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;6;0;841.6177;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

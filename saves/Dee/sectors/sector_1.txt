@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;1
 SECTOR;name;Dellis Primeria
-SECTOR;level;5.9
+SECTOR;level;6.0
 SECTOR;faction;Labor
 SECTOR;filename;sector_1.txt
 SECTOR;is_explored;False

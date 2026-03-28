@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;86
 SECTOR;name;Jonisae
-SECTOR;level;0.4
+SECTOR;level;0.5
 SECTOR;faction;Pirate
 SECTOR;filename;sector_86.txt
 SECTOR;is_explored;False

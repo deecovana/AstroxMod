@@ -3,3 +3,5 @@ NPC;+STOCK;21;9;76743.91;Lammassu Financial;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;29;8;74928.69;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;33;8;142325.8;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;15;-10;142887.7;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+LOCAL;12;63;48750;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+QTY;18;6;16875;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

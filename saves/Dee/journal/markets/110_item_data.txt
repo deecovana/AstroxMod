@@ -14,3 +14,10 @@ NPC;+STOCK;1658;195;9.827729;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;990;-171;10.54138;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+QTY;1084;203;12.21025;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;931;0;7.763809;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+PLAYER;+QTY;408;11;16.79279;StarGypsy Warehouse;Void Starcross;5h 30m 42s ;19842.94
+NPC;+PRICE;424;0;12.57133;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;465;223;9.696375;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;1225;141;12.21025;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+PLAYER;+QTY;993;3;10.54138;Starbase Corporate Center;Void Starcross;6h 55m 47s ;24947.87
+NPC;+STOCK;513;243;13.20486;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;931;0;8.186997;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

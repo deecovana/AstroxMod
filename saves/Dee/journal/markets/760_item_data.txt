@@ -11,3 +11,4 @@ NPC;+STOCK;76;10;205123.6;Starbase Corporate Center;Void Starcross;4h 12m 27s ;1
 NPC;-QTY;58;-8;215937.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+QTY;24;14;170937.5;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+QTY;118;12;102778.1;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;3;0;127425;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

@@ -4,3 +4,6 @@ NPC;+STOCK;62;11;2378.503;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8
 NPC;+STOCK;19;8;2438.649;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;25;9;2682.905;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;28;9;2429.496;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;37;9;2429.496;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;4;-10;1263.058;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+STOCK;16;11;2204.406;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45

@@ -28,3 +28,15 @@ NPC;+QTY;2377;570;4773.287;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;956;955;4204.417;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+PRICE;75;0;4097.301;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;951;940;4129.547;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;750;0;6012.587;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;893;0;4448.433;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;26;0;4467.44;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;-LOCAL;0;0;6259.056;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
+NPC;+QTY;2927;550;4773.287;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;0;0;6473.09;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
+NPC;-QTY;0;-28;5182.009;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;-LOCAL;22;22;5968.388;Tella's;Bitcola;7h 28m 52s ;26932.76
+NPC;-LOCAL;0;0;6313.927;Tella's;Bitcola;7h 35m 32s ;27332.98
+NPC;+QTY;962;951;2671.128;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+PRICE;26;0;4522.272;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+PRICE;18;0;3014.096;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

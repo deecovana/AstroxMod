@@ -20,3 +20,8 @@ NPC;-QTY;0;-368;721.9382;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;2353;0;352.6967;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;1769;1533;334.202;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;-PRICE;59;0;593.6592;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+STOCK;2184;2051;631.3148;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;1568;1525;591.7585;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-QTY;0;-10;694.5417;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;2424;2424;694.5417;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;167;0;453.9892;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

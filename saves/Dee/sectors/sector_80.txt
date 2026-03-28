@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;resources#20828#20#9
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;573;161;-1344
@@ -73,8 +73,8 @@ CLUSTER;2;20;50;100;2000;-1239;-311;2799
 CLUSTER;2;20;50;100;2000;-257;-562;-3358
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;2;-2095.8;-689.1;2420.3;1000;1000
-RESOURCE;2;-720.2;-279.9;3294.2;500;500
+RESOURCE;2;-2231.0;-838.6;2604.1;1000;369
+RESOURCE;2;-730.0;-359.1;3346.6;500;248
 RESOURCE;2;-298.0;-560.0;-3357.0;1000;0
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation

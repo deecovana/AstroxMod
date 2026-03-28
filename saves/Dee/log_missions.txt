@@ -1,4 +1,16 @@
 //;LOG DATA FILE (Astrox Imperium)
+COMPLETED;Salvage;Dismantle ;20,521;198323.02357471;Horizons;Gate of Alpharis;9h 38m 39s 
+ACCEPTED;Salvage;Dismantle Special Electro...;-15355;146865.69935596;Proctors Center;Void Starcross;8h 58m 36s 
+COMPLETED;Harvest;Harvest S...;15,341;154847.318496585;Proctors Center;Void Starcross;8h 56m 33s 
+ACCEPTED;Harvest;Harvest Special Adamyte O...;-244;131927.56888783;CoraVault;Lins;7h 55m 59s 
+COMPLETED;Delivery;Deliver light container o...;18,321;132271.56888783;ValueStar;Hunu;7h 46m 25s 
+ACCEPTED;Delivery;Deliver light container o...;-2213.125;111837.64310658;StarGypsy Warehouse;Void Starcross;7h 42m 30s 
+COMPLETED;Delivery;Deliver light container o...;15,471;84461.5815831423;Tella's;Bitcola;7h 28m 44s 
+ACCEPTED;Delivery;Deliver light container o...;-482.625;68608.4116307497;Genistar;Blades of Dandrow;7h 19m 55s 
+COMPLETED;Delivery;Deliver light container o...;18,441;69091.0366612673;Genistar;Blades of Dandrow;7h 11m 39s 
+ACCEPTED;Delivery;Deliver light container o...;-9200;41549.8179112673;Starbase Corporate Center;Void Starcross;7h 2m 13s 
+COMPLETED;Harvest;Excavate ...;16,231;50126.9219495058;Starbase Corporate Center;Void Starcross;6h 54m 11s 
+ACCEPTED;Harvest;Excavate Special Torim Or...;-6120;67076.4369622469;StarGypsy Warehouse;Void Starcross;5h 45m 5s 
 COMPLETED;Delivery;Dock at Genistar in ;18,853;99832.783203125;Genistar;Blades of Dandrow;5h 12m 20s 
 ACCEPTED;Delivery;Dock at Genistar in Blade...;-19250;62030.01953125;Acrondia Hub;Temple Gates;4h 56m 3s 
 COMPLETED;Escort;Entert...;15,055;81380.01953125;Star Shepards Hub;Temple Gates;4h 52m 13s 

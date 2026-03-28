@@ -13,3 +13,7 @@ NPC;+QTY;417;99;51.7545;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;788;102;103.1381;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+PRICE;297;0;95.49318;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;140;88;52.82775;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;+PRICE;234;0;57.71845;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;-LOCAL;9;9;107.325;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+QTY;109;100;108.8156;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;65;65;107.325;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74

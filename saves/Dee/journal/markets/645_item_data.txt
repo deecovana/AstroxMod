@@ -13,3 +13,5 @@ NPC;-QTY;10;-3;116100;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564
 NPC;BAL;8;-2;121002;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;17;3;159000;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;13;4;170667;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+QTY;21;4;159000;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;6;3;200629.6;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

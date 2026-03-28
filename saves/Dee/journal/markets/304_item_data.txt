@@ -31,3 +31,13 @@ NPC;+QTY;884;882;130.2099;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445
 NPC;+STOCK;865;847;90.77566;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;-PRICE;56;0;127.5955;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;22;0;149.9352;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+PRICE;21;0;117.7675;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;-LOCAL;328;0;154.125;StarShepards Headquarters;Void Starcross;5h 59m 41s ;21581.04
+NPC;BAL;8;0;125.6649;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;2438;577;81.1725;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-16;112.2843;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;+QTY;987;978;85.02692;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;1758;771;85.02692;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;1728;844;124.1594;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;56;0;133.9978;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;8;0;126.8542;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

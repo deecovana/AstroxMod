@@ -18,3 +18,15 @@ NPC;BAL;146;0;48.91758;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;540;139;25.93425;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+STOCK;171;141;32.30666;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+QTY;117;117;42.75187;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;+PRICE;7;0;31.57881;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;146;0;45.72474;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+LOCAL;150;989;14.7225;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+PRICE;135;0;32.65409;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+STOCK;220;136;46.03556;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;267;117;5.09625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-78;22.67874;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;-QTY;0;-111;39.3926;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;133;133;22.67874;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;472;75;39.89274;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+LOCAL;150;253;14.7225;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+PRICE;146;0;47.53484;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

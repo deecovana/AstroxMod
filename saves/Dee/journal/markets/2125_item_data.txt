@@ -18,3 +18,6 @@ NPC;-QTY;948;-1641;1227.347;Starbase Corporate Center;Void Starcross;4h 19m 24s 
 NPC;BAL;25;0;1130.755;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;3693;1852;1355.771;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;2131;2002;1080.862;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;131;0;650.704;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;35;0;1158.26;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;2225;2118;740.7567;PharmaLife;Carioullis;6h 44m 29s ;24269.91

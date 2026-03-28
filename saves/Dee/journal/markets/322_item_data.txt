@@ -22,3 +22,8 @@ NPC;-QTY;332;-695;135.7493;Starbase Corporate Center;Void Starcross;4h 19m 24s ;
 NPC;-QTY;0;-51;199.3974;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;-LOCAL;0;0;293.1141;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
 NPC;BAL;332;0;142.0117;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;-LOCAL;0;0;391.1863;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
+NPC;+PRICE;43;0;223.5122;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;1451;535;152.8853;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;2472;592;197.5995;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;0;0;535.5;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05

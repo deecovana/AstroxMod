@@ -4,3 +4,5 @@ NPC;+PRICE;65;0;837.1944;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
 NPC;+STOCK;884;136;725.2634;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;278;0;1300.11;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+QTY;707;127;1186.268;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;492;0;588.5612;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;396;0;866.8814;Inovex;Goru Populan;6h 12m 48s ;22368.54

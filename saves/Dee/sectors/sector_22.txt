@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;22
 SECTOR;name;Solitudes of Frey
-SECTOR;level;4.9
+SECTOR;level;4.8
 SECTOR;faction;Alpha
 SECTOR;filename;sector_22.txt
 SECTOR;is_explored;False
@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;null
+SECTOR;event_type;resources#27872#22#2
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;211;267;1607

@@ -9,3 +9,7 @@ NPC;-QTY;122;-18;65375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1556
 NPC;-PRICE;51;0;37772.78;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;BAL;109;-13;69736.96;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;29;24;46375;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;BAL;15;-13;63021.33;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;31;21;94063.44;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;49;18;94063.44;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;53;18;66914.71;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

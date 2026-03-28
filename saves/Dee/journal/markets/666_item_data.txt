@@ -15,3 +15,4 @@ NPC;+STOCK;53;4;352191.2;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;0;-2;387562.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+QTY;13;2;344175;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;5;0;167697.6;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+QTY;10;3;352462.5;Foodmaid;Daelus;6h 44m 29s ;24269.91

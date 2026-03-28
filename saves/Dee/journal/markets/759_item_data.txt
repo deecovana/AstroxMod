@@ -11,3 +11,11 @@ NPC;+STOCK;31;10;144236.9;StarShepards Headquarters;Void Starcross;4h 12m 27s ;1
 NPC;+QTY;115;13;97762.51;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;21;8;81262.5;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;-PRICE;97;0;107002.3;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;19;0;91839.71;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;6;-11;89918.52;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;BAL;10;-11;174530.8;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;125;10;97762.51;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;20;11;90682.97;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-QTY;0;-11;62632.97;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+STOCK;29;11;161448.4;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;10;0;178681.9;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

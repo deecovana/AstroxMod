@@ -12,3 +12,5 @@ NPC;+QTY;21;8;1218.681;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;27;6;1218.681;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;16;7;1005.811;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+STOCK;14;9;2120.748;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;-QTY;0;-6;1829.817;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;+LOCAL;12;3;691.8275;Proctors Center;Void Starcross;8h 56m 46s ;32206.3

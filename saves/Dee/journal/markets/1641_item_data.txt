@@ -5,3 +5,6 @@ NPC;+STOCK;72;11;13132.06;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;25;8;7472.717;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;81;9;13143.63;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;35;9;6673.18;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+PRICE;27;0;15128.65;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;92;11;13143.63;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;17;7;12442.65;Ferce;Allabentoris;7h 55m 5s ;28505.1

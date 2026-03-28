@@ -32,3 +32,12 @@ NPC;+STOCK;923;917;327.5269;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;-PRICE;18;0;468.4495;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+QTY;1014;984;415.3763;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;899;886;307.6263;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;BAL;34;0;412.0183;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;-LOCAL;0;0;528.6351;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
+NPC;+QTY;3477;993;276.9175;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;0;0;546.27;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
+NPC;-LOCAL;0;0;1077.5;Tella's;Bitcola;7h 28m 52s ;26932.76
+NPC;-LOCAL;0;0;1077.5;Tella's;Bitcola;7h 35m 32s ;27332.98
+NPC;+QTY;927;904;396.7934;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;1789;895;337.804;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;20;0;393.2832;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

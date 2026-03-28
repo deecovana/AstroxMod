@@ -13,3 +13,4 @@ NPC;+STOCK;838;200;103.3598;Starbase Corporate Center;Void Starcross;4h 12m 27s 
 NPC;+STOCK;948;245;75.07375;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;426;-212;107.1534;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;-PRICE;1068;0;65.83737;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+QTY;413;183;92.02605;Vo Industries;Brimstone;7h 55m 5s ;28505.1

@@ -16,3 +16,4 @@ NPC;+PRICE;21;0;312.6566;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403
 NPC;-QTY;0;-57;129.1894;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;-PRICE;74;0;349.4759;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;+PRICE;29;0;226.1758;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+STOCK;762;731;115.4264;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

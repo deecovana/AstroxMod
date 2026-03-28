@@ -5,3 +5,4 @@ Start without mods
   -fix- settings 
   -add- 500k money for Escort
   -add- 600k money for Mining
+  -add- 999k money for Transp

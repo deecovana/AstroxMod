@@ -11,3 +11,9 @@ NPC;+STOCK;718;120;35.71014;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.
 NPC;BAL;109;0;93.37345;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;859;141;35.57375;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;264;114;48.81124;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;337;0;69.19662;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+QTY;943;84;35.57375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;143;140;100.2362;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+LOCAL;43;18;69.60045;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
+NPC;+STOCK;160;117;47.72719;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;109;0;96.82307;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

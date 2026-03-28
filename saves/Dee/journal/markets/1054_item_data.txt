@@ -12,3 +12,9 @@ NPC;-PRICE;15;0;2844.328;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;BAL;14;-6;2304.986;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;25;9;1077.375;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;31;6;1077.375;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+PRICE;12;0;2440.645;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+PRICE;2;0;2307.022;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;+QTY;34;8;1911.464;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-QTY;0;-6;2676.464;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-QTY;0;-4;2446.964;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;12;11;1506.118;Ferce;Allabentoris;7h 55m 5s ;28505.1

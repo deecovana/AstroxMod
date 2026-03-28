@@ -2,3 +2,6 @@ NPC;+QTY;7;1;180.6875;Xellon;Ele;0h 50m 9s ;3009.769
 NPC;+STOCK;28;2;184.4613;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;-QTY;0;-1;201.3375;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
 NPC;+STOCK;30;2;172.5812;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;7;-2;304.0371;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;53;1;333.5371;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;8;1;304.0371;Ferce;Allabentoris;7h 55m 5s ;28505.1

@@ -10,3 +10,11 @@ NPC;+QTY;1037;114;209.6655;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;145;126;226.4414;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;469;138;211.3594;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+QTY;501;110;230.7094;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+LOCAL;150;156;69.355;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+PRICE;49;0;165.2315;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+STOCK;129;100;114.9298;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;1163;126;209.6655;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;150;95;69.355;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;+LOCAL;52;19;172.9299;Tella's;Bitcola;7h 35m 32s ;27332.98
+NPC;+QTY;643;130;172.9894;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+STOCK;569;100;203.4147;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

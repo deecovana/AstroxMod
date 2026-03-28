@@ -22,3 +22,11 @@ NPC;+QTY;627;612;56.6712;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+STOCK;873;866;58.16652;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;33;0;43.60145;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;631;628;35.68725;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+QTY;3447;984;24.4135;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-9;64.66273;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-QTY;223;-554;52.22273;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;705;695;65.34946;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;12;0;69.975;CoraVault;Lins;7h 55m 14s ;28514.54
+NPC;+STOCK;852;845;59.08714;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+STOCK;991;986;61.97278;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;20;0;55.46317;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

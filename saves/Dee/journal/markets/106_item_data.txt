@@ -20,3 +20,6 @@ NPC;+QTY;1362;222;4.0035;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;353;183;4.703348;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;763;0;12.84054;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;449;0;4.345811;Cecil;Junia;4h 51m 22s ;17482.65
+PLAYER;+QTY;733;24;6.769293;StarGypsy Warehouse;Void Starcross;5h 30m 42s ;19842.94
+NPC;+QTY;1604;242;4.0035;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+PLAYER;+QTY;61;10;10.23825;Starbase Corporate Center;Void Starcross;6h 55m 41s ;24941.47

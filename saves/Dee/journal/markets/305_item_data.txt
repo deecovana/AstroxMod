@@ -23,3 +23,10 @@ NPC;+QTY;2691;902;134.2287;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;61;0;73.27813;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;40;0;127.048;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;547;528;163.8326;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;+PRICE;601;0;70.99448;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;-LOCAL;1622;0;165.4875;StarShepards Headquarters;Void Starcross;5h 59m 41s ;21581.04
+NPC;BAL;10;0;102.3447;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;3;0;125.466;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;3241;550;134.2287;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;889;870;101.5923;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;10;0;105.9755;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

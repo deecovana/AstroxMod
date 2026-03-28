@@ -6,3 +6,6 @@ NPC;BAL;4;0;1415.939;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;44;9;1249.186;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+QTY;11;10;1592.561;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+PRICE;29;0;1516.411;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;BAL;8;0;1949.726;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;+QTY;37;8;1507.002;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+PRICE;4;0;1479.643;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

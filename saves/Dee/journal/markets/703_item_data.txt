@@ -10,3 +10,7 @@ NPC;+STOCK;170;19;3852.707;StarShepards Headquarters;Void Starcross;4h 12m 27s ;
 NPC;+QTY;82;12;3855.563;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+PRICE;139;0;2664.436;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;73;24;5468.75;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;BAL;12;0;2773.293;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;125;23;2268.75;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;58;17;2053.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;3;0;5299.617;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

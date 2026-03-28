@@ -6,3 +6,5 @@ NPC;-QTY;72;-10;150784.5;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;22;-8;87484.13;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;58;10;163372.5;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;3;0;147055.7;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;BAL;12;0;116743.9;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+PRICE;12;0;123831;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

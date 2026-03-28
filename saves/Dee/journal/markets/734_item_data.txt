@@ -12,3 +12,5 @@ NPC;+STOCK;88;11;138159.3;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;117;-7;123437.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;107;-10;132117.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;39;-9;199225.6;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+STOCK;77;12;144866;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;36;10;277658.6;Ferce;Allabentoris;7h 55m 5s ;28505.1

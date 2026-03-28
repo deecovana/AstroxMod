@@ -15,3 +15,5 @@ NPC;+QTY;13;6;2397.75;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;-PRICE;79;0;2391.813;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;27;0;2229.996;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;30;6;1756.625;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+PRICE;11;0;1201.999;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+PRICE;73;0;2486.129;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

@@ -13,3 +13,10 @@ NPC;+STOCK;4621;1896;677.1005;StarShepards Headquarters;Void Starcross;4h 12m 27
 NPC;-QTY;0;-427;570.9133;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;101;0;1094.609;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+PRICE;77;0;599.2107;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;2181;0;614.5187;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;7;0;596.193;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;+PRICE;195;0;852.1374;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;2441;2270;943.3531;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;-QTY;0;-130;1140.609;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;2264;1961;517.8646;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;2041;2041;1140.609;Ferce;Allabentoris;7h 55m 5s ;28505.1

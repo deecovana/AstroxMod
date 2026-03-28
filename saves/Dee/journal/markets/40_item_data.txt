@@ -19,3 +19,10 @@ NPC;+QTY;1476;1450;13.85475;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;2851;1375;13.85475;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;-PRICE;272;0;12.81689;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;+PRICE;265;0;8.673351;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;BAL;92;0;13.28006;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;4;0;11.22915;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;7659;1382;15.03075;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;1613;1500;16.17933;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;2157;2059;16.17933;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+PRICE;163;0;9.832857;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+PRICE;92;0;13.6491;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

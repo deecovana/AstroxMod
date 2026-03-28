@@ -13,3 +13,6 @@ NPC;BAL;24;-14;12468.54;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;55;7;13837.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+PRICE;128;0;17203.59;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;63;12;8691.563;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;36;0;17661.63;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+QTY;69;14;13837.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;56;0;6631.25;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

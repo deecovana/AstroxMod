@@ -4,3 +4,5 @@ NPC;+STOCK;116;11;10083.74;Starbase Corporate Center;Void Starcross;4h 12m 27s ;
 NPC;+LOCAL;12;31;7540;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
 NPC;-QTY;6;-6;3335;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;-PRICE;26;0;20082.32;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;39;0;9765.379;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;24;-9;23846.24;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47

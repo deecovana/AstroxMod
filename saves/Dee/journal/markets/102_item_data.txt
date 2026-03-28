@@ -24,3 +24,7 @@ NPC;+STOCK;278;246;1.988543;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;-PRICE;295;0;2.208886;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;557;0;2.487988;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+QTY;617;177;2.459375;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+PLAYER;+QTY;523;218;0.9591407;StarGypsy Warehouse;Void Starcross;5h 29m 9s ;19749.45
+PLAYER;+QTY;337;195;2.059375;Starbase Corporate Center;Void Starcross;6h 56m 20s ;24980.26
+NPC;-QTY;31;-206;2.773984;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;399;144;2.401586;Ferce;Allabentoris;7h 55m 5s ;28505.1

@@ -12,3 +12,8 @@ NPC;+QTY;61;8;3034.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;18;11;2908.5;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;67;9;1639.837;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+PRICE;4;0;4225.551;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;28;0;1966.652;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;3;0;3867.568;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+PRICE;15;0;4750.907;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;69;8;3034.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;3;0;3984.284;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

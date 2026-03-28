@@ -4,3 +4,5 @@ NPC;BAL;41;-6;193082.2;Astrox Security Patrol;Kilotorish;1h 53m 54s ;6834.967
 NPC;+STOCK;107;11;208434.8;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;17;0;201189.4;Psybermind;Ion Child;2h 29m 20s ;8960.865
 NPC;+STOCK;106;10;196428.1;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;26;0;199503.5;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;70;7;224588.1;Foodmaid;Daelus;6h 44m 29s ;24269.91

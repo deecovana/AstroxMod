@@ -14,3 +14,4 @@ NPC;BAL;41;-20;279290.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;BAL;3;0;252112.1;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;-PRICE;10;0;228603.2;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;9;0;179500.9;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;81;0;182229;Gunstellar;Adrenal;5h 41m 50s ;20510.81

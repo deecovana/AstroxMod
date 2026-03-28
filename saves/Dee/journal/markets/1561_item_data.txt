@@ -19,3 +19,7 @@ NPC;+PRICE;6;0;1677.915;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.
 NPC;BAL;3;0;2330.31;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+PRICE;16;0;2950.312;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+QTY;10;9;2939.534;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;+PRICE;16;0;3083.047;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+LOCAL;12;17;1045.525;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;+LOCAL;12;22;1045.525;Biomate University;Void Starcross;8h 8m 25s ;29305.03
+NPC;+PRICE;3;0;2431.792;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

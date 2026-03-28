@@ -12,3 +12,8 @@ NPC;BAL;18;-12;57527.04;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;104;13;89111.25;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;132;0;85376.73;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;49;0;62200.15;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+PRICE;106;0;95741.61;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;1;0;51157.6;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;8;-10;60323.8;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;23;0;76345.2;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+PRICE;8;0;64308.14;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

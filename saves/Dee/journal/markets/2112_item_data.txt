@@ -17,3 +17,7 @@ NPC;+STOCK;4240;2074;30.94318;StarShepards Headquarters;Void Starcross;4h 12m 27
 NPC;+STOCK;4579;2107;20.51786;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;4321;2069;35.7675;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;1319;1250;39.7835;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;BAL;13;0;25.79682;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;9;0;38.69762;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+QTY;4283;1734;34.32425;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;2599;2217;35.67385;Vo Industries;Brimstone;7h 55m 5s ;28505.1

@@ -16,3 +16,10 @@ NPC;-QTY;0;-106;7.180125;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
 NPC;+QTY;544;139;4.45875;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;588;110;7.631382;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+PRICE;32;0;7.446318;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+PRICE;194;0;10.25463;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;64;0;6.489629;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;64;-100;8.374451;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+LOCAL;150;983;3.9975;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+QTY;229;79;1.38375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-39;8.113004;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+LOCAL;150;234;3.9975;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74

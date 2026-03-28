@@ -6,3 +6,6 @@ NPC;+STOCK;13;8;9369.228;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;21;9;4769.139;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;22;10;9542.56;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+PRICE;2;0;9524.531;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;13;0;11261.87;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;-QTY;0;-11;9710.29;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+LOCAL;12;2;4603.605;Proctors Center;Void Starcross;8h 56m 46s ;32206.3

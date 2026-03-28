@@ -29,3 +29,12 @@ NPC;+QTY;1034;987;35.74581;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;1744
 NPC;+QTY;737;729;23.38875;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+PRICE;10;0;51.07058;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;886;858;54.07762;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+PRICE;567;0;53.25855;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;10;0;49.48078;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;12;0;50.37986;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+PRICE;27;0;41.3398;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+QTY;2734;865;37.56375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-6;41.93497;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-LOCAL;779;0;63.7875;CoraVault;Lins;7h 55m 14s ;28514.54
+NPC;+STOCK;1766;732;34.47458;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;18;0;58.99408;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

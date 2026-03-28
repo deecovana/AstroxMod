@@ -20,3 +20,12 @@ NPC;+QTY;8;3;4525;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;-PRICE;40;0;9639.584;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;7;0;10301.9;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+QTY;6;3;6737.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+PRICE;21;0;7435.847;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;4;-4;8409.396;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;5;2;7437.5;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;18;4;5725;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;4;2;5006.344;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;31;4;7506.73;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+STOCK;5;3;7119.11;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;28;0;10460.68;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;4;0;8764.919;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

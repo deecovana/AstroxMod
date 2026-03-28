@@ -22,3 +22,8 @@ NPC;+QTY;100;15;10093.35;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;23;20;8773.35;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;150;0;9675.481;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;+PRICE;14;0;8031.066;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;107;0;6457.57;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;26;-13;7601.327;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+PRICE;38;0;8007.484;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;142;14;9030;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;52;0;7055.624;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

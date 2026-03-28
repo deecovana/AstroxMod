@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;43
 SECTOR;name;Poni
-SECTOR;level;2.5
+SECTOR;level;2.6
 SECTOR;faction;Law
 SECTOR;filename;sector_43.txt
 SECTOR;is_explored;False

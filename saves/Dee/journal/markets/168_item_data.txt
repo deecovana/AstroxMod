@@ -21,3 +21,13 @@ NPC;+QTY;425;82;33.19775;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;260;137;51.93175;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;377;117;51.93175;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;306;130;44.28662;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;BAL;31;0;50.00389;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;85;0;48.2455;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;240;0;33.70688;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;557;132;33.19775;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;26;-84;48.46561;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;186;127;37.50295;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;274;88;37.50295;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+LOCAL;150;193;17.9075;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+STOCK;282;108;23.2876;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;111;0;26.20299;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

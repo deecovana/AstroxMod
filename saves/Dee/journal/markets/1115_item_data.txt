@@ -4,3 +4,4 @@ NPC;+QTY;68;11;26581.83;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+STOCK;42;10;23437.63;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;25;-7;23804.63;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;18;-7;23417.46;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+STOCK;69;11;23970.15;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

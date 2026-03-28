@@ -8,3 +8,6 @@ NPC;+LOCAL;12;43;56875;Starbase Corporate Center;Void Starcross;4h 12m 42s ;1516
 NPC;-QTY;3;-9;25156.25;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+QTY;63;6;94937.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+PRICE;59;0;133536.7;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+LOCAL;12;13;56875;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+QTY;71;8;94937.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;12;8;56875;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25

@@ -8,3 +8,6 @@ NPC;+PRICE;5;0;629.3171;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+STOCK;23;10;696.0685;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;1;0;804.3508;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;32;10;399.375;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+PRICE;13;0;723.9536;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;+PRICE;15;0;532.5224;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+PRICE;53;0;622.8592;Inovex;Goru Populan;6h 12m 48s ;22368.54

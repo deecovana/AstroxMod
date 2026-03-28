@@ -13,3 +13,8 @@ NPC;+PRICE;94;0;12.78835;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403
 NPC;-QTY;1509;-1251;20.26425;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;1509;0;21.46648;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;6;0;26.52209;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;BAL;6;0;25.94142;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;123;0;11.3996;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+PRICE;244;0;20.32908;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+PRICE;123;0;11.86031;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;+PRICE;6;0;27.16295;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

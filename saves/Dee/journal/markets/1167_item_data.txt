@@ -5,3 +5,4 @@ NPC;+LOCAL;12;36;114400;Starbase Corporate Center;Void Starcross;4h 12m 42s ;151
 NPC;-QTY;6;-6;50600;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;6;0;81569.46;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-PRICE;6;0;170121.5;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+LOCAL;12;10;114400;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25

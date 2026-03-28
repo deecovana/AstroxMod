@@ -21,3 +21,9 @@ NPC;-QTY;417;-122;135.528;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+QTY;396;110;96.34999;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;447;90;92.32915;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;344;107;150.2943;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+LOCAL;150;228;61.1;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;+PRICE;211;0;217.4272;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+PRICE;7;0;125.9931;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;516;120;96.34999;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;0;0;252.8127;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
+NPC;-LOCAL;0;0;276.7005;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27

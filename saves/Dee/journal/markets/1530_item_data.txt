@@ -6,3 +6,8 @@ NPC;-PRICE;12;0;2147.744;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
 NPC;+QTY;11;8;2328.095;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+PRICE;19;0;2341.016;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+QTY;31;7;2185.99;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+PLAYER;-QTY;4;2;2427.644;Genistar;Blades of Dandrow;5h 14m 59s ;18899.07
+PLAYER;+QTY;0;2;0;Starbase Corporate Center;Void Starcross;5h 56m 37s ;21397.58
+NPC;BAL;4;0;1967.71;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;+STOCK;48;8;1844.072;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;21;9;2105.891;Ferce;Allabentoris;7h 55m 5s ;28505.1

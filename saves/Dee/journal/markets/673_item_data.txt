@@ -9,3 +9,5 @@ NPC;+STOCK;177;17;334749.4;StarShepards Headquarters;Void Starcross;4h 12m 27s ;
 NPC;-QTY;66;-12;325500;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;44;-22;360324.2;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;123;22;309000;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;BAL;8;0;277562.7;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;+QTY;147;24;309000;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

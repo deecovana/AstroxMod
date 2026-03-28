@@ -6,3 +6,12 @@ NPC;+STOCK;339;124;50.17389;StarShepards Headquarters;Void Starcross;4h 12m 27s 
 NPC;+STOCK;1020;123;118.9503;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;23;0;133.7557;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+QTY;899;125;87.21;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;BAL;127;-93;115.6095;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;BAL;25;0;65.81405;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;646;148;82.467;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;984;85;87.21;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;481;123;53.93365;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;384;86;77.18965;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+LOCAL;40;13;97.18241;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
+NPC;+PRICE;25;0;70.74589;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+LOCAL;72;32;89.01013;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27

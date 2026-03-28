@@ -11,3 +11,5 @@ NPC;+PRICE;254;0;29.71633;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
 NPC;+STOCK;2537;2291;25.47534;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;1828;1730;18.0725;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;117;0;19.40791;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;10;0;27.3246;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;+PRICE;108;0;24.52582;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

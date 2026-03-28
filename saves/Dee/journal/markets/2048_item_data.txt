@@ -2,3 +2,4 @@ NPC;-PRICE;871;0;3248.735;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;+QTY;793;82;4475.26;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+STOCK;973;102;3189.097;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;488;-83;1968.194;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+LOCAL;150;219;1450.833;StarShepards Headquarters;Void Starcross;5h 59m 41s ;21581.04

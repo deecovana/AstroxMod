@@ -3,7 +3,7 @@ Academic University
 Telyoupea Akpi
 Alpha
 [c:lime]Dock fee 0[/c]
-Timestamp: 16835.78
+Timestamp: 30603.16
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -51,364 +51,363 @@ Offices
 [c:green]BUY Order[/c] Purchase Request (2) Items 
  (1673) x Textile Fabrics
  (432) x Bottled Whiskey
-Fulfill order for [c:lime]-64,941 profit.[/c]
+Fulfill order for [c:lime]-65,322 profit.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
 Acidic Residue  314 - z12
 Adamyte Ore  5735 - z7
-Advanced 20mm  2 - z7
-Advanced Armor Exterior (Doc)  92 - z136,684
-Advanced ECM Energy Coil  57 - z3,865
-Advanced ECM Power Boost Field (Doc)  68 - z103,426
-Advanced ECM Range Lock  84 - z103,426
-Advanced ECM Range Lock (Doc)  81 - z49,627
-Advanced ECM Resistance Field (Doc)  61 - z49,627
-Advanced Energy Armor  66 - z48,079
-Advanced Energy Capacitor  77 - z7,532
-Advanced Engine Core  37 - z7,532
-Advanced Filter  38 - z7,941
-Advanced Missile  309 - z7,941
-Advanced Regulator  24 - z8,679
-Advanced Scan Booster (Doc)  63 - z92,562
-Advanced Shield Booster  23 - z2,914
-Advanced Shield Generator  12 - z2,914
-Advanced Skill Manual  77 - z391,751
-Advanced Warp Drive Fuel  484 - z7,924
-Advanced Waste Unit  11 - z304,046
+Advanced 20mm  2 - z24
+Advanced Armor Exterior (Doc)  92 - z137,311
+Advanced ECM Energy Coil  57 - z3,823
+Advanced ECM Power Boost Field (Doc)  68 - z103,571
+Advanced ECM Range Lock  84 - z9,808
+Advanced ECM Range Lock (Doc)  81 - z49,407
+Advanced ECM Resistance Field (Doc)  61 - z95,329
+Advanced Energy Armor  66 - z47,874
+Advanced Energy Capacitor  77 - z7,462
+Advanced Engine Core  37 - z41,520
+Advanced Filter  38 - z7,868
+Advanced Missile  309 - z95
+Advanced Regulator  24 - z8,696
+Advanced Scan Booster (Doc)  63 - z92,019
+Advanced Shield Booster  12 - z2,883
+Advanced Shield Generator  12 - z1,526
+Advanced Skill Manual  77 - z389,797
+Advanced Warp Drive Fuel  484 - z7,902
+Advanced Waste Unit  11 - z301,389
 Aged Wine  728 - z49
-AI Bio Filter  16 - z826,157
-AI Interface Drive  950 - z826,157
+AI Bio Filter  16 - z823,600
+AI Interface Drive  950 - z401
 Aluminium Plates  617 - z117
 Aluminium Rivets  171 - z37
-Aluminium Rivets (Doc)  14 - z223
+Aluminium Rivets (Doc)  14 - z220
 Aluminium Shard  802 - z17
 Anti-Freeze  960 - z53
 Antimatter 20mm  1753 - z41
-Antimatter 60mm  2062 - z83
-Antimatter 60mm  2780 - z115
+Antimatter 60mm  4842 - z99
 Antimatter Missile  2203 - z752
-Antimatter Missile (Doc)  10 - z752
+Antimatter Missile (Doc)  10 - z7,931
 Armor Plating  222 - z1,418
-Assault x3 Launcher  106 - z4,616
-Assault x4 Launcher  28 - z6,341
-Assault x9 Launcher  88 - z555,332
-Assembly Tools  867 - z84
-Atmospawn Thermobox  33 - z863,278
-Auxiliary System Mount  804 - z2,693
-Auxiliary System Mount (Doc)  74 - z2,693
+Assault x3 Launcher  106 - z4,596
+Assault x4 Launcher  28 - z6,249
+Assault x9 Launcher  88 - z553,233
+Assembly Tools  26 - z87
+Atmospawn Thermobox  33 - z860,500
+Auxiliary System Mount  804 - z2,685
+Auxiliary System Mount (Doc)  74 - z19,100
 Ball Bearings  635 - z64
-Basic 20mm  78 - z64
-Basic 60mm  380 - z64
-Basic Beam Impact Mod  27 - z2,392
+Basic 20mm  78 - z16
+Basic 60mm  380 - z18
+Basic Beam Impact Mod  27 - z2,376
 Basic Charged Cell  1847 - z5
 Basic Computer  737 - z1,047
-Basic ECM Energy Coil  25 - z6,530
-Basic Explosive Armor  83 - z3,199
-Basic Filter  53 - z3,191
+Basic ECM Energy Coil  25 - z6,472
+Basic Explosive Armor  83 - z3,186
+Basic Filter  53 - z3,198
 Basic Food Rations  852 - z51
-Basic Laser Energy Mod  60 - z3,868
-Basic Laser Explosive Mod  28 - z3,084
-Basic Missile  1933 - z55
-Basic Missile Energy Mod (Doc)  58 - z55
-Basic Projectile Explosive Mod  42 - z2,664
-Basic Scan Emitter  87 - z1,254
-Basic Shield Booster  12 - z1,254
-Basic Shield Generator  12 - z1,254
-Basic Warp Drive  85 - z161,455
-Basic Warp Drive Fuel  884 - z725
-Battery Array  1075 - z1,846
-Belasite Ore  447 - z1,846
+Basic Laser Energy Mod  60 - z3,862
+Basic Laser Explosive Mod  28 - z3,082
+Basic Missile  1933 - z54
+Basic Missile Energy Mod (Doc)  58 - z17,146
+Basic Projectile Explosive Mod  42 - z2,666
+Basic Scan Emitter  87 - z1,255
+Basic Shield Booster  12 - z405
+Basic Shield Generator  12 - z152
+Basic Warp Drive  85 - z161,453
+Basic Warp Drive Fuel  884 - z729
+Battery Array  1075 - z1,823
+Belasite Ore  447 - z420
 Bio Carbon  1494 - z9
-Bio Converter  52 - z111,252
-Biowaste Processor   14 - z567,234
-Blaster x3 Laser  63 - z2,729
-Blaster x5 Laser  31 - z2,729
+Bio Converter  52 - z110,447
+Biowaste Processor   14 - z568,479
+Blaster x3 Laser  62 - z2,753
+Blaster x5 Laser  31 - z13,387
 Bottled Whiskey  775 - z60
-Burglar Drone  122 - z7,554
-Burglar Drone (Doc)  37 - z148,859
+Burglar Drone  122 - z7,494
+Burglar Drone (Doc)  37 - z149,327
 Calciate Residue  1277 - z99
-Calcium  398 - z99
-Calibration Tools  1002 - z57
+Calcium  398 - z3
 Candy Cane  1051 - z18
-Candy Corn  5 - z18
+Candy Corn  5 - z20
 Carbon  1366 - z1
-Carbon Fiber (Doc)  31 - z646
-Carbon Filter  13 - z42,996
-Cat Food  5 - z381,669
+Carbon Fiber (Doc)  31 - z648
+Carbon Filter  13 - z42,980
+Cat Food  5 - z382,042
 Ceramic  382 - z18
-Cheese and Crackers  50 - z202,212
-Cheeseburger  28 - z38,286
+Cheese and Crackers  50 - z201,503
+Cheeseburger  28 - z37,980
 Childrens Toys  1006 - z18
 Chocolate Bars  1016 - z24
 Cleaning Chemicals  965 - z36
-Cloak Field Generator  71 - z948,913
+Cloak Field Generator  71 - z949,492
 Colored Dye  749 - z69
-Communication Device  67 - z69
-Compartment Frame  550 - z69
-Computer Component  3719 - z8,860
-Concussion Missile  2139 - z483
-Connection Harness (Doc)  28 - z5,029
-Containment Processor  5 - z5,029
-Containment Unit  48 - z4,921
-Copperi Cables  275 - z23
+Communication Device  67 - z56
+Compartment Frame  550 - z258
+Computer Component  3719 - z8,887
+Concussion Missile  2139 - z481
+Connection Harness (Doc)  28 - z5,019
+Containment Processor  5 - z409,342
+Containment Unit  48 - z4,896
+Copperi Cables  150 - z23
 Copperi Cubex  554 - z16
 Copperi Plates  713 - z150
 Corrosive 20mm  2216 - z55
 Corrosive 60mm  2136 - z118
 Corrosive Missile  2012 - z120
-Crystaline  Filter  48 - z301,424
+Crystaline  Filter  48 - z299,879
 Dynex Crystal  1624 - z22
 Dynex Ore  3691 - z248
-ECM Target Scrambler  32 - z351,491
-ECM Target Scrambler (Doc)  76 - z5,011,325
-Eco Regulator  24 - z46,517
-Electrical Interface  842 - z389
-Electromagnetic Emitter  875 - z2,047
+ECM Target Scrambler  32 - z352,629
+ECM Target Scrambler (Doc)  76 - z4,987,553
+Eco Regulator  24 - z46,480
+Electrical Interface  842 - z385
+Electromagnetic Emitter  875 - z2,054
 Electron Orb  3729 - z34
-Electronic Fragment  5464 - z1,749
+Electronic Fragment  5464 - z1,742
 Electronic Switch  881 - z259
-Energized Missile (Doc)  46 - z4,034
-Energy Bomb  168 - z2,388
-Engine Component  3852 - z6,529
-Entertainment Electronics  56 - z6,529
-Explosive 20mm  152 - z6,529
-Explosive 60mm  1773 - z52
+Energized Missile (Doc)  46 - z4,030
+Energy Bomb  168 - z2,398
+Engine Component  3852 - z6,541
+Entertainment Electronics  56 - z208
+Explosive 20mm  152 - z18
+Explosive 60mm  1773 - z51
 Fasteners  741 - z10
-Fiber Optic Interface  503 - z729
+Fiber Optic Interface  503 - z718
 Focused x1 Laser  46 - z1,203
-Focused x7 Laser (Doc)  9 - z769,750
-Focused x9 Laser  37 - z769,750
-Focused x9 Laser (Doc)  72 - z769,750
-Foodservice Equipment  1017 - z132
+Focused x7 Laser (Doc)  9 - z769,286
+Focused x9 Laser  37 - z309,555
+Focused x9 Laser (Doc)  72 - z4,393,977
+Foodservice Equipment  1017 - z131
 Foodservice Products  719 - z58
-Fusion 20mm  379 - z58
+Fusion 20mm  379 - z19
 Fusion 60mm  2209 - z86
-Fusion Biomax  43 - z1,079,856
+Fusion Biomax  43 - z1,081,900
 Fusion Missile  2341 - z67
-Gaming Devices  56 - z67
-Generic Construction Platform  114 - z881,724
-Glass Panels  330 - z220
+Gaming Devices  56 - z28
+Generic Construction Platform  114 - z873,984
+Glass Panels  330 - z219
 Goldyte  766 - z152
-Gourmet Food Rations  1025 - z202
+Gourmet Food Rations  1025 - z201
 Gradeon Ore  4544 - z12
-Gravitational Emitter  264 - z12
-Grilled Steak  41 - z116,714
+Gravitational Emitter  264 - z618
+Grilled Steak  41 - z116,947
 Gummy Bears  875 - z19
-Gunstellar 20mm Dual Barrel  96 - z21,813
-Gyroscope Drive (Doc)  76 - z7,178
-Habitax Regulator  42 - z7,178
-Ham Sandwich  13 - z18,988
-Heating Unit (Doc)  35 - z18,988
-Heavy Armor Bomb  46 - z66,899
-Heavy Defense Drone  172 - z131,905
-Heavy Energy Charge  67 - z131,905
-Heavy Mining Drone  66 - z76,394
-Heavy Repair Drone  135 - z76,394
-Heavy Shield Charge  148 - z231,002
-Hull Chassis  5340 - z10,600
+Gunstellar 20mm Dual Barrel  96 - z21,832
+Gyroscope Drive (Doc)  76 - z7,164
+Habitax Regulator  42 - z773,879
+Ham Sandwich  13 - z18,893
+Heating Unit (Doc)  35 - z11,076
+Heavy Armor Bomb  46 - z66,641
+Heavy Defense Drone  172 - z131,933
+Heavy Energy Charge  67 - z208,682
+Heavy Mining Drone  66 - z75,833
+Heavy Repair Drone  135 - z146,783
+Heavy Shield Charge  148 - z229,486
+Hull Chassis  5340 - z10,522
 Hydrogen  426 - z2
-Hydrox Filter  5 - z424,211
+Hydrox Filter  5 - z420,989
 Hygiene Products  803 - z63
-Hyperion Regulator  26 - z280,255
-Impact Missile  2270 - z414
-Improved Combat Drone  196 - z43,467
-Improved Defense Drone  110 - z43,467
-Improved Energy Generator  63 - z10,206
-Improved Filter  33 - z10,206
-Improved Impact Armor (Doc)  67 - z150,604
-Improved Mass Reduction  109 - z1,328
-Improved Mining Drone  174 - z23,865
-Improved Repair Drone  191 - z32,871
-Improved Salvage Drone  72 - z26,626
-Improved Scan Emitter  39 - z1,972
-Improved Shield Booster  20 - z881
-Improved Shield Generator  20 - z389
-Improved Shield Generator (Doc)  82 - z17,047
+Hyperion Regulator  26 - z280,642
+Impact Missile  2270 - z416
+Improved Combat Drone  196 - z43,632
+Improved Defense Drone  110 - z36,882
+Improved Energy Generator  63 - z10,217
+Improved Filter  33 - z4,596
+Improved Impact Armor (Doc)  67 - z150,765
+Improved Mass Reduction  109 - z1,329
+Improved Mining Drone  174 - z23,832
+Improved Repair Drone  191 - z32,832
+Improved Salvage Drone  72 - z26,532
+Improved Scan Emitter  39 - z1,981
+Improved Shield Booster  12 - z871
+Improved Shield Generator  12 - z385
+Improved Shield Generator (Doc)  82 - z16,970
 Interior Lighting  894 - z149
-Ion Beam Class 2  109 - z5,942
-Ion Beam Class 3  84 - z4,766
-Ion Beam Class 4  28 - z4,766
-Ionization Plate  261 - z2,381
+Ion Beam Class 2  109 - z5,914
+Ion Beam Class 3  84 - z4,751
+Ion Beam Class 4  28 - z24,583
+Ionization Plate  261 - z2,375
 Iron Coring  816 - z4
-Iron Coring Beams  246 - z442
+Iron Coring Beams  246 - z439
 Iron Coring Pipes  227 - z122
 Junk Part  4423 - z52
-Kinetic 20mm (Doc)  6 - z219
-Kinetic Missile  2479 - z332
-Kinetics G-series 20mm Gatling  39 - z1,039
-Kitchen Appliances  17 - z1,039
-Large Heatsink  430 - z158
-Large Life Support Pack  68 - z158
-Large Mining Drone  179 - z158
-Large Mining Drone (Doc)  76 - z1,059,210
-Large Motor  808 - z1,841
-Large Processor  150 - z1,841
+Kinetic 20mm (Doc)  6 - z218
+Kinetic Missile  2479 - z330
+Kinetics G-series 20mm Gatling  39 - z1,033
+Kitchen Appliances  17 - z107
+Large Heatsink  430 - z157
+Large Life Support Pack  68 - z212,763
+Large Mining Drone  179 - z72,959
+Large Mining Drone (Doc)  76 - z1,055,513
+Large Motor  808 - z1,845
+Large Processor  150 - z10
 Large Pump  949 - z241
-Large Repair Drone  176 - z241
-Large Web Field  74 - z151,354
+Large Repair Drone  176 - z78,959
+Large Web Field  74 - z151,439
 LED Lights  280 - z9
-Light Armor Bomb  139 - z2,862
-Light Armor Repair  76 - z18,486
-Light Energy Charge  120 - z11,578
-Light Shield Bomb  119 - z4,134
-Light Shield Charge  49 - z9,372
+Light Armor Bomb  139 - z2,848
+Light Armor Repair  76 - z18,588
+Light Energy Charge  120 - z11,514
+Light Shield Bomb  119 - z4,148
+Light Shield Charge  49 - z9,294
 Lokken Ore  4569 - z81
 Magnetic Quartz  1435 - z2
-Magnetic Regulator  973 - z3,189
-Mechanical Belts  259 - z3,189
-Mechanical Tools  902 - z94
-Media Recordings  61 - z94
-Medium Armor Bomb  9 - z94
-Medium Armor Repair  30 - z83,002
-Medium Defense Drone  98 - z10,343
-Medium Mining Drone  208 - z10,131
-Medium Repair Drone  141 - z13,306
-Medium Salvage Drone  93 - z5,978
-Medium Shield Charge  195 - z124,548
-Medium Web Field  157 - z20,027
-Memory Chip  280 - z15
-Memory Chip (Doc)  75 - z15
-Metal Fragment  295 - z15
+Magnetic Regulator  973 - z3,168
+Mechanical Belts  259 - z47
+Mechanical Tools  59 - z44
+Media Recordings  61 - z17
+Medical Instruments  6 - z249
+Medium Armor Bomb  9 - z9,740
+Medium Armor Repair  30 - z81,815
+Medium Defense Drone  98 - z10,344
+Medium Mining Drone  208 - z10,044
+Medium Repair Drone  141 - z13,344
+Medium Salvage Drone  93 - z5,994
+Medium Shield Charge  195 - z124,751
+Medium Web Field  157 - z19,990
+Memory Chip  150 - z15
+Memory Chip (Doc)  75 - z1,080
+Metal Fragment  295 - z301
 Metal Valve  555 - z26
-Micro Computer  610 - z26
-Micro Leech Drone  157 - z14,830
-Micro Processor  280 - z9
-Misc Hardware  852 - z171
-Module Fragment  4835 - z1,634
-Motion Sensor  150 - z1,634
+Micro Computer  610 - z6,864
+Micro Leech Drone  157 - z14,844
+Micro Processor  150 - z9
+Misc Hardware  852 - z172
+Module Fragment  4835 - z1,626
+Motion Sensor  150 - z11
 Musical Instruments  954 - z120
-Neutron Pods  403 - z45
+Neutron Pods  403 - z44
 Nitrogen  1043 - z10
-Noodles  22 - z10
-Oaken 60mm Dual Cannon  50 - z10
+Noodles  22 - z4,696
+Oaken 60mm Dual Cannon  50 - z352,498
 Office Furniture  788 - z76
 Office Supplies  879 - z19
 Oil  569 - z11
-OmniCon Regulator  24 - z87,439
+OmniCon Regulator  24 - z87,047
 Optical Interface  411 - z81
-Optical Interface (Doc)  37 - z1,161
-Ore Harvester 2 (Doc)  73 - z1,161
-Ore Harvester 6  95 - z90,037
-Ornament  909 - z371
-Oxygen  302 - z371
+Optical Interface (Doc)  37 - z1,160
+Ore Harvester 2 (Doc)  73 - z110,119
+Ore Harvester 6  95 - z90,347
+Ornament  909 - z370
+Oxygen  302 - z1
 Personal Clothing  1014 - z29
-Pizza  33 - z431,929
-Plasite Ore  4637 - z116
-Plasma Beam Class 1  47 - z2,477
-Plasma Beam Class 10 (Doc)  87 - z13,989,980
-Plasma Beam Class 2  75 - z13,989,980
-Plastic Caps  572 - z71
+Pizza  33 - z431,389
+Plasite Ore  4637 - z115
+Plasma Beam Class 1  48 - z2,419
+Plasma Beam Class 10 (Doc)  87 - z14,006,860
+Plasma Beam Class 2  74 - z3,670
+Plastic Caps  572 - z70
 Plastix Strands  1107 - z3
 Polymere  972 - z30
 Polymere (Doc)  61 - z307
-Premium Afterburner  21 - z23,863
-Premium Cargo Expansion  28 - z63,622
-Premium Engine Core (Doc)  58 - z1,069,099
-Premium Impact Armor (Doc)  54 - z1,290,514
-Premium Scan Booster  50 - z63,123
-Premium Shield Booster  12 - z63,123
-Premium Shield Generator  21 - z6,307
-Premium Thruster  28 - z34,515
-Pressure Sensor  261 - z12
-Prometheum  1638 - z113
-Protein Bar  5 - z2,335
-Proton Missile  251 - z2,335
-Prototype Drone Command Bay  73 - z783,635
-Prototype ECM Energy Coil  54 - z6,160
-Prototype ECM Resistance Field  101 - z7,048
-Prototype Energy Armor  39 - z7,048
-Prototype Energy Generator  59 - z693,714
-Prototype Shield Booster  21 - z59,434
-Prototype Shield Generator  22 - z31,747
-Prototype Shield Generator (Doc)  53 - z31,747
-Prototype Turn Thrust  106 - z196,428
-Pulse Beam Class 4  42 - z16,834
-Pulse Beam Class 4 (Doc)  64 - z120,776
-Pulse Beam Class 6  63 - z75,941
-Pulse Beam Class 8  50 - z75,941
-Pulse x10 Laser  18 - z148,486
-Pulse x4 Laser (Doc)  6 - z13,938
-Quantex  x-3 20mm Gun  105 - z4,638
+Premium Afterburner  21 - z23,946
+Premium Cargo Expansion  28 - z63,380
+Premium Engine Core (Doc)  58 - z1,072,575
+Premium Impact Armor (Doc)  54 - z1,276,156
+Premium Scan Booster  50 - z62,989
+Premium Shield Booster  12 - z11,723
+Premium Shield Generator  12 - z6,240
+Premium Thruster  28 - z34,457
+Pressure Sensor  150 - z12
+Prometheum  1638 - z112
+Protein Bar  5 - z2,348
+Proton Missile  251 - z248
+Prototype Drone Command Bay  73 - z785,122
+Prototype ECM Energy Coil  54 - z6,178
+Prototype ECM Resistance Field  101 - z7,061
+Prototype Energy Armor  39 - z970,651
+Prototype Energy Generator  59 - z693,886
+Prototype Shield Booster  12 - z58,805
+Prototype Shield Generator  12 - z31,411
+Prototype Shield Generator (Doc)  53 - z2,015,832
+Prototype Turn Thrust  106 - z196,834
+Pulse Beam Class 4  42 - z16,783
+Pulse Beam Class 4 (Doc)  64 - z120,338
+Pulse Beam Class 6  63 - z76,100
+Pulse Beam Class 8  50 - z159,671
+Pulse x10 Laser  18 - z147,445
+Pulse x4 Laser (Doc)  6 - z13,844
+Quantex  x-3 20mm Gun  105 - z4,648
 Quazor Ore  4463 - z57
 Radiated 20mm  2564 - z24
 Radiated 60mm  2323 - z34
-Rapid x5 Launcher  11 - z20,587
-Rapid x9 Launcher (Doc)  82 - z4,275,275
+Rapid x5 Launcher  11 - z20,482
+Rapid x9 Launcher (Doc)  82 - z4,255,172
 Reinforced Rubber  429 - z16
 Rubber Tubing  212 - z20
 Salt Crystal  264 - z1
-Salvage Collector 1  65 - z1,990
-Salvage Collector 10 (Doc)  30 - z1,990
-Salvage Collector 7  82 - z172,330
-Salvage Collector 9  78 - z959,800
-Scrap Part  4952 - z169
-Sensor Array  815 - z482
-Servo Controls  185 - z7,662
+Salvage Collector 1  64 - z2,033
+Salvage Collector 10 (Doc)  30 - z19,787,810
+Salvage Collector 7  82 - z173,474
+Salvage Collector 9  78 - z961,992
+Scrap Part  4952 - z168
+Sensor Array  815 - z478
+Servo Controls  185 - z7,645
 Silicon  1259 - z5
 Silveryte  606 - z154
-Small Defense Drone  84 - z154
-Small Heatsink  250 - z20
-Small Life Support Pack  130 - z11,501
-Small LS Bomb  50 - z3,809
+Small Defense Drone  84 - z5,098
+Small Heatsink  250 - z19
+Small Life Support Pack  130 - z11,515
+Small LS Bomb  50 - z3,798
 Small Microchip  1003 - z202
-Small Mining Drone  132 - z3,552
-Small Motor  257 - z23
-Small Pump  292 - z19
-Small Repair Drone  103 - z3,659
-Small Salvage Drone  66 - z3,440
-Small Web Field  190 - z2,852
-Spaghetti  5 - z776,978
-Sporting Equipment  39 - z776,978
-Spotlight  86 - z2,196
+Small Mining Drone  132 - z3,538
+Small Motor  150 - z22
+Small Pump  150 - z19
+Small Repair Drone  103 - z3,658
+Small Salvage Drone  66 - z3,418
+Small Web Field  190 - z2,848
+Spaghetti  5 - z773,879
+Sporting Equipment  39 - z26
+Spotlight  86 - z2,198
 Steelium  677 - z48
 Steelium Beam  561 - z8
-Steelium Plates  528 - z449
-Surf-n-Turf  30 - z441,661
-Synth Filter  36 - z88,071
-Tactical x2 Launcher  79 - z2,034
-Tactical x5 Launcher  26 - z38,749
-Tactical x6 Launcher  67 - z30,427
-Tactical x7 Launcher  5 - z30,427
-Temperature Genie  40 - z12,362
-Textile Fabrics  991 - z36
-Thermal Controller  47 - z3,362
-Thermal Generex  45 - z3,362
+Steelium Plates  528 - z450
+Surf-n-Turf  30 - z442,300
+Synth Filter  36 - z88,703
+Tactical x2 Launcher  79 - z2,038
+Tactical x5 Launcher  26 - z38,743
+Tactical x6 Launcher  67 - z30,159
+Tactical x7 Launcher  5 - z153,342
+Temperature Genie  40 - z12,418
+Textile Fabrics  991 - z35
+Thermal Controller  47 - z3,348
+Thermal Generex  45 - z127,103
 Thermal Insulation  959 - z27
-Thermal Systems Package (Doc)  83 - z23,007
-Thermex Controller  22 - z397,884
-Titan Defense Drone  58 - z203,739
-Titan Mining Drone  8 - z203,739
-Titan Mining Drone (Doc)  44 - z3,202,680
-Titan Salvage Drone  139 - z269,123
+Thermal Systems Package (Doc)  83 - z22,874
+Thermex Controller  22 - z394,989
+Titan Defense Drone  58 - z202,398
+Titan Mining Drone  8 - z237,399
+Titan Mining Drone (Doc)  44 - z3,208,782
+Titan Salvage Drone  139 - z269,898
 Titanyte  1489 - z77
 Titanyte Plates  648 - z183
-Torim Extractor  17 - z1,248,909
-Torim Ore  4616 - z157
-Torpedo Mark I  455 - z157
-Torpedo Mark II  2027 - z130
-Torpedo Mark III  2714 - z202
-Torpedo Mark IV (Doc)  59 - z1,953
-Torpedo Mark IX  2606 - z697
-Torpedo Mark VI  2365 - z507
+Torim Extractor  17 - z1,248,984
+Torim Ore  4616 - z158
+Torpedo Mark I  455 - z63
+Torpedo Mark II  2027 - z129
+Torpedo Mark III  2714 - z200
+Torpedo Mark IV (Doc)  59 - z1,938
+Torpedo Mark IX  2606 - z696
+Torpedo Mark VI  2365 - z504
 Torpedo Mark VIII  2283 - z359
-Torpedo Mark X  2637 - z427
+Torpedo Mark X  2637 - z429
 Toxic 20mm  2529 - z46
-Toxic 20mm (Doc)  101 - z454
-Toxic 60mm  1981 - z124
-Transport Units  73 - z124
-Undamaged Part  813 - z124
-Uranium  525 - z274
+Toxic 20mm (Doc)  101 - z449
+Toxic 60mm  1981 - z123
+Transport Units  73 - z325
+Undamaged Part  813 - z210
+Uranium  525 - z272
 Uranium Core 60mm  2164 - z39
-Vita 60mm Howitzer (Doc)  9 - z39
-Waste Burner  6 - z18,965
-Waste Processor  11 - z18,965
+Vita 60mm Howitzer (Doc)  9 - z3,454,440
+Waste Burner  6 - z18,980
+Waste Processor  11 - z15,043
 Water  606 - z0
-Weapons Component  5488 - z2,863
-Wrapped Box  819 - z2,413
-Xenox Ore  444 - z2,413
-Zai Ore  250 - z2,413
+Weapons Component  5488 - z2,865
+Wrapped Box  819 - z2,404
+Xenox Ore  444 - z502
+Zai Ore  250 - z595
 
 
 <Station University Skills>
@@ -452,15 +451,6 @@ Ship Shield Regeneration
 
 
 <Station Missions>
-[c:lime]TRANSPORT[/c]
-Transport a light shipment of <color='yellow'>88</color> <color='yellow'>Hydrogens</color> from StarShepards Headquarters in <color='cyan'>Void Starcross</color> to Transporteers in <color='cyan'>Hunu</color>
-
-[c:lime]SCAN[/c]
-Find <color='yellow'><i>Major Ninegore Imesfoevi</i></color> in <color='cyan'>Entropy</color>, scan their ship, and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
-
-[c:lime]FABRICATE[/c]
-Dock at the StarGypsy Warehouse station fabricator in <color='cyan'>Void Starcross</color> and manufacture a light shipment of <color='yellow'>3</color> <color='yellow'>Motion Sensors</color>
-
 [c:lime]SALVAGE[/c]
 Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>17</color> to Transporteers in <color='cyan'>Hunu</color>
 
@@ -502,6 +492,21 @@ Move light cargo from Genistar in <color='cyan'>Blades of Dandrow</color> and do
 
 [c:lime]HARVEST[/c]
 Mine <color='yellow'>Special Plasite Ore</color> in <color='cyan'>Blades of Dandrow</color> and return with <color='yellow'>96</color> to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Blargg's in <color='cyan'>Beacon Spita</color> to deliver a light shipment of <color='yellow'>2</color> <color='yellow'>Improved Drone Command Bays</color>
+
+[c:lime]TRANSPORT[/c]
+Move light cargo from StarShepards Headquarters in <color='cyan'>Void Starcross</color> and dock with <color='yellow'>6</color> <color='yellow'>Premium Targeting Systems</color> at Legistron in <color='cyan'>Dogstar Prime</color>
+
+[c:lime]FABRICATE[/c]
+Dock at the CoraVault station fabricator in <color='cyan'>Lins</color> and manufacture a light shipment of <color='yellow'>3</color> <color='yellow'>Steelium Pipes</color>
+
+[c:lime]KILL RAIDERS[/c]
+Kill <color='yellow'>4 Raiders</color> level 10 in <color='cyan'>Kidd Overture</color>. Return to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]DELIVERY[/c]
+Light delivery of <color='yellow'>1</color> <color='yellow'>Premium Drone Command Bay</color> to StarShepards Headquarters Station in <color='cyan'>Void Starcross</color>
 
 
 

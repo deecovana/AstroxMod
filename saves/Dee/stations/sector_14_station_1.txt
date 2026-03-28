@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-4-0-3-0-0-0-1-4-7-1-8-90
 STATION;interior_seed;3-4-15-0
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;35282.67
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -26,7 +29,6 @@ SERVICES;storage;True
 SERVICES;fabricator;False
 SERVICES;contracts;False
 SERVICES;admin;True
-
 // ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
 ENTERTAINMENT;Bottle of Whiskey;0.025,0.0;850;Whiskey;entertain_bar.png;Purchase a bottle of whiskey for each of your fleet members. 2.5% Morale bonus.
 ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
@@ -40,132 +42,157 @@ MERC;8;1.28;npc_ship_data_(recon_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-BUYORDER;Market Demands: (3) Items ;214x119,210x308,210x287;64013;30192.04
-
-BUYORDER;Market Items Req: (2) Items ;214x277,210x272;55675;40940.04
-BUYORDER;Market Demands: (1) Items ;216x203;59517;102510.00
-BUYORDER;Market Shortage: (2) Items ;209x82,215x129;31538;86841.61
-BUYORDER;Market Demands: (2) Items ;213x122,213x124;42751;63192.61
-BUYORDER;Market Needs Goods: (1) Items ;211x189;32076;19225.92
-BUYORDER;Market Demands: (1) Items ;213x48;7662;63812.77
-BUYORDER;Market Low Inventory: (1) Items ;218x128;34041;65405.77
-ITEM;1470;19;1.11;0
-ITEM;1401;4;0.77;6653.932
-ITEM;1151;19;0.85;6653.932
-ITEM;1100;14;0.54;6653.932
-ITEM;1200;11;1.18;6653.932
-ITEM;1055;1;1.01;6653.932
-ITEM;1170;15;0.89;6653.932
-ITEM;1150;18;1.04;6653.932
-ITEM;1001;15;0.52;6653.932
-ITEM;1009;4;1.11;2213.477
-ITEM;1059;11;1.19;2213.477
-ITEM;1521;5;0.99;2213.477
-ITEM;1581;15;1.12;2213.477
-ITEM;1520;5;1.05;1179.395
-ITEM;1590;18;0.92;1179.395
-ITEM;1615;1;0.62;1179.395
-ITEM;1620;13;0.94;1179.395
-ITEM;1500;9;0.90;1179.395
-ITEM;1750;13;1.13;1179.395
-ITEM;1601;16;1.01;1179.395
-ITEM;1570;13;0.53;1106.856
-ITEM;1560;9;0.58;1106.856
-ITEM;2124;1;1.09;1036.294
-ITEM;50;69;0.77;1036.294
-ITEM;51;85;1.17;1036.294
-ITEM;2116;7;0.60;1036.294
-ITEM;76;2;0.76;1036.294
-ITEM;43;72;1.22;1036.294
-ITEM;2128;43;1.00;1036.294
-ITEM;2117;76;0.98;1036.294
-ITEM;2113;97;0.69;1036.294
-ITEM;2651;68;0.78;1036.294
-ITEM;2120;26;0.94;1036.294
-ITEM;2131;25;0.94;1036.294
-ITEM;63;79;0.83;1036.294
-ITEM;2130;66;0.60;1036.294
-ITEM;759;18;1.13;1036.294
-ITEM;677;2;0.58;102615.4
-ITEM;749;28;0.65;102615.4
-ITEM;753;7;0.79;102615.4
-ITEM;676;30;1.00;102615.4
-ITEM;731;14;0.48;60872
-ITEM;756;30;1.24;60872
-ITEM;672;29;1.15;60872
-ITEM;728;32;1.24;60872
-ITEM;711;23;0.51;60872
-ITEM;675;18;1.16;60872
-ITEM;726;10;0.77;60872
-ITEM;754;12;1.23;60872
-ITEM;732;4;0.67;60872
-ITEM;712;30;0.98;131767.7
-ITEM;735;1;0.67;131767.7
-ITEM;601;6;0.51;4040.131
-ITEM;621;8;0.52;4040.131
-ITEM;620;2;0.89;3935.105
-ITEM;660;2;1.04;3935.105
-ITEM;600;2;0.73;3935.105
-ITEM;640;3;1.14;3935.105
-ITEM;661;3;1.09;3935.105
-ITEM;641;2;0.86;7519.491
-ITEM;405;15;1.04;7519.491
-ITEM;403;12;0.88;17.90574
-ITEM;407;19;1.10;17.90574
-ITEM;300;5;1.17;66.43867
-ITEM;303;15;0.80;66.43867
-ITEM;408;19;0.71;66.43867
-ITEM;301;7;0.79;66.43867
-ITEM;404;11;0.71;66.43867
-ITEM;406;18;0.95;66.43867
-ITEM;305;16;0.79;99.84576
-ITEM;302;12;0.81;99.84576
-ITEM;304;11;1.18;99.84576
-ITEM;21;117;0.94;99.84576
-ITEM;2;62;0.80;19.33513
-ITEM;20;195;0.64;19.33513
-ITEM;1;53;1.25;19.33513
-ITEM;101;136;0.60;19.33513
-ITEM;103;30;0.65;19.33513
-ITEM;114;129;0.94;19.33513
-ITEM;104;29;0.66;19.33513
-ITEM;102;268;1.04;19.33513
-ITEM;100;262;0.78;19.33513
-ITEM;165;140;1.18;19.33513
-ITEM;154;65;0.85;19.33513
-ITEM;160;41;0.75;19.33513
-ITEM;162;152;0.70;19.33513
-ITEM;153;50;1.06;19.33513
-ITEM;164;167;0.76;19.33513
-ITEM;157;94;0.84;19.33513
-ITEM;166;14;0.93;61.7453
-ITEM;168;174;0.57;61.7453
-ITEM;169;158;1.06;90.98592
-ITEM;163;79;0.97;90.98592
-ITEM;156;132;1.16;90.98592
-ITEM;161;40;1.03;90.98592
-ITEM;158;193;1.18;90.98592
-ITEM;155;42;0.50;90.98592
-ITEM;151;131;0.51;90.98592
-ITEM;150;76;0.56;90.98592
-ITEM;2444;5;0.82;90.98592
-ITEM;2532;8;1.24;90.98592
-ITEM;2270;13;0.85;90.98592
-ITEM;2334;9;1.01;90.98592
-ITEM;2433;18;0.99;90.98592
-ITEM;2361;3;0.92;90.98592
-ITEM;2432;19;0.63;90.98592
-ITEM;2151;19;1.20;90.98592
-ITEM;2445;11;0.94;90.98592
-ITEM;2442;4;0.98;90.98592
-ITEM;2100;17;0.56;6464.505
-ITEM;2397;4;1.16;6464.505
-ITEM;2438;15;0.88;241.9682
-ITEM;2131;10;1.18;241.9682
-ITEM;2426;17;0.77;241.9682
-ITEM;2544;12;0.89;241.9682
-ITEM;2416;3;0.75;241.9682
-ITEM;2539;8;1.16;189025.2
+BUYORDER;Market Shortage: (2) Items ;217x218,216x230;92557.00;92220.77
+BUYORDER;Market Demands: (2) Items ;213x122,213x124;42751.00;63192.61
+BUYORDER;Market Demands: (1) Items ;213x48;7662.00;63812.77
+BUYORDER;Market Low Inventory: (1) Items ;218x128;34041.00;65405.77
+ITEM;1;686;1.21;17.27
+ITEM;1532;44;0.75;11765.40
+ITEM;1542;42;0.79;7723.27
+ITEM;641;2;0.86;7293.03
+ITEM;163;79;0.97;31.47
+ITEM;302;12;0.81;38.52
+ITEM;2128;43;1.00;83.71
+ITEM;2131;35;1.06;167.83
+ITEM;2131;-99;1.18;189.50
+ITEM;153;50;1.06;11.62
+ITEM;2444;5;0.82;716.19
+ITEM;169;158;1.06;88.66
+ITEM;2445;11;0.94;926.65
+ITEM;50;69;0.77;15.73
+ITEM;1520;5;1.05;1151.52
+ITEM;1620;13;0.94;1300.23
+ITEM;1530;29;0.78;1570.53
+ITEM;1750;13;1.13;2127.22
+ITEM;2361;3;0.92;20161.96
+ITEM;1570;13;0.53;1038.23
+ITEM;620;2;0.89;3796.52
+ITEM;2334;9;1.01;67292.19
+ITEM;1540;41;0.67;606.07
+ITEM;1615;1;0.62;1190.28
+ITEM;201;69;0.62;37.42
+ITEM;1560;9;0.58;572.41
+ITEM;1500;9;0.90;907.16
+ITEM;1590;18;0.92;1322.79
+ITEM;208;45;0.78;92.98
+ITEM;406;18;0.95;25.40
+ITEM;403;12;0.88;17.23
+ITEM;205;44;0.82;79.61
+ITEM;101;136;0.60;0.35
+ITEM;168;174;0.57;24.21
+ITEM;404;11;0.71;14.48
+ITEM;200;38;0.65;32.20
+ITEM;300;5;1.17;64.64
+ITEM;301;7;0.79;91.58
+ITEM;2651;68;0.78;422.05
+ITEM;661;3;1.09;9593.03
+ITEM;218;0;1.42;312.53
+ITEM;63;79;0.83;139.86
+ITEM;660;2;1.04;4546.52
+ITEM;151;131;0.51;4.74
+ITEM;204;41;0.83;72.73
+ITEM;735;1;0.67;1348258.00
+ITEM;1001;15;0.52;506.09
+ITEM;2100;17;0.56;6181.97
+ITEM;2;62;0.80;18.74
+ITEM;405;15;1.04;28.19
+ITEM;675;18;1.16;298497.90
+ITEM;731;14;0.48;57635.02
+ITEM;753;7;0.79;108785.00
+ITEM;759;18;1.13;164885.00
+ITEM;102;268;1.04;2.27
+ITEM;1521;5;0.99;2263.06
+ITEM;1531;12;0.67;2708.09
+ITEM;1581;15;1.12;11112.84
+ITEM;2270;13;0.85;104716.10
+ITEM;621;8;0.52;3893.03
+ITEM;1541;43;0.81;1772.23
+ITEM;1601;16;1.01;2293.22
+ITEM;305;16;0.79;96.98
+ITEM;1170;15;0.89;2201.98
+ITEM;20;195;0.64;49.91
+ITEM;51;85;1.17;37.21
+ITEM;2397;4;1.16;442.60
+ITEM;1009;4;1.11;2154.47
+ITEM;304;11;1.18;143.75
+ITEM;677;2;0.58;96600.17
+ITEM;211;0;1.50;142.59
+ITEM;712;30;0.98;127395.50
+ITEM;209;0;1.45;117.96
+ITEM;158;193;1.18;47.53
+ITEM;155;42;0.50;8.24
+ITEM;104;29;0.66;1.43
+ITEM;166;14;0.93;60.11
+ITEM;203;43;0.65;49.59
+ITEM;672;29;1.15;214053.70
+ITEM;2539;8;1.16;185274.60
+ITEM;676;30;1.00;86930.31
+ITEM;732;4;0.67;8089.55
+ITEM;756;30;1.24;16639.55
+ITEM;711;23;0.51;9482.58
+ITEM;214;0;1.54;216.72
+ITEM;157;94;0.84;30.43
+ITEM;2433;18;0.99;442.54
+ITEM;160;41;0.75;15.48
+ITEM;161;40;1.03;23.74
+ITEM;728;32;1.24;16639.55
+ITEM;210;0;1.52;132.89
+ITEM;212;0;1.48;148.58
+ITEM;601;6;0.51;3793.03
+ITEM;150;76;0.56;4.89
+ITEM;2426;17;0.77;87.58
+ITEM;303;15;0.80;56.49
+ITEM;206;72;0.65;63.83
+ITEM;1200;11;1.18;4721.86
+ITEM;407;19;1.10;417.77
+ITEM;103;30;0.65;0.48
+ITEM;165;140;1.18;69.78
+ITEM;2442;4;0.98;677.74
+ITEM;170;55;0.56;21.91
+ITEM;1533;32;0.67;44414.53
+ITEM;1543;29;0.78;32800.26
+ITEM;213;0;1.35;147.91
+ITEM;600;2;0.73;2996.52
+ITEM;2117;76;0.98;229.31
+ITEM;1534;12;0.64;208187.40
+ITEM;1544;36;0.72;150239.10
+ITEM;1150;18;1.04;2273.26
+ITEM;1151;19;0.85;3524.59
+ITEM;1100;14;0.54;204.65
+ITEM;43;72;1.22;36.71
+ITEM;1055;1;1.01;3693.07
+ITEM;726;10;0.77;9589.55
+ITEM;207;31;0.73;76.47
+ITEM;164;167;0.76;14.35
+ITEM;154;65;0.85;33.52
+ITEM;114;129;0.94;1.70
+ITEM;1401;4;0.77;6393.03
+ITEM;21;117;0.94;161.86
+ITEM;2544;12;0.89;54669.82
+ITEM;216;0;1.36;249.21
+ITEM;2532;8;1.24;79869.83
+ITEM;217;0;1.40;297.54
+ITEM;215;0;1.46;257.60
+ITEM;156;132;1.16;34.07
+ITEM;2432;19;0.63;198.22
+ITEM;1059;11;1.19;5402.45
+ITEM;2151;19;1.20;65441.36
+ITEM;640;3;1.14;5046.52
+ITEM;162;152;0.70;14.74
+ITEM;2438;15;0.88;233.03
+ITEM;202;51;0.77;53.25
+ITEM;749;28;0.65;129825.80
+ITEM;754;12;1.23;274825.80
+ITEM;2416;3;0.75;935.77
+ITEM;76;2;0.76;110.13
+ITEM;2124;1;1.09;1012.54
+ITEM;2120;26;0.94;328.09
+ITEM;2130;66;0.60;70.44
+ITEM;2113;97;0.69;33.73
+ITEM;2116;7;0.60;47.21
+ITEM;100;262;0.78;0.32
+ITEM;408;19;0.71;3030.33
+ITEM;1470;19;1.11;60716.79
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
@@ -177,6 +204,23 @@ SKILL;37;0.70
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;126;120;689255;CHAT_PILOT#sector_95_station_0.txt#sector_79.txt#Bishop Visad Dowhi#npc_ship_data_(transport_utility_1)#8#missions_transfer_pilot.txt#0#null;Transfer payment to <color='yellow'><i>Bishop Visad Dowhi</i></color> in <color='cyan'>Dragon Sea</color> and return with signature to Star Shepards Hub in <color='cyan'>Temple Gates</color>;2;<i>Bemmos Beuofa</i> has a bonus payment for <color='yellow'><i>Bishop Visad Dowhi</i></color>. The Civil faction has recognized <color='yellow'><i>Bishop Visad Dowhi</i></color> and has award a bonus payment. <color='yellow'><i>Bishop Visad Dowhi</i></color> was last working in the <color='cyan'>Dragon Sea</color> system. Find them, deliver this envelope, and return to the Star Shepards Hub in the <color='cyan'>Temple Gates</color> system with a signature.;22314;6200
+MISSION;123;180;862670;CHAT_PILOT#sector_82_station_0.txt#sector_80.txt#General Bemeno Goremoam#npc_ship_data_(recon_cruiser_1)#2#missions_arrest_escort.txt#0#null;Detain <color='yellow'><i>General Bemeno Goremoam</i></color> in <color='cyan'>Blades of Dandrow</color> and escort them to Kith in <color='cyan'>Kidd Overture</color>;2;<i>Kinjid Sedbac</i> has requested that <color='yellow'><i>General Bemeno Goremoam</i></color> be escorted back into custody. Authorities of the Civil faction has determined guilt opon the accused. <color='yellow'><i>General Bemeno Goremoam</i></color> has refused to cooperate with the courts. Last known sighting of <color='yellow'><i>General Bemeno Goremoam</i></color> was in the vicinity of the <color='cyan'>Blades of Dandrow</color> system. Have a chat with them ann bring them back for further questioning.;32864;8625
+MISSION;70;180;103926;ESCORT#sector_80_station_0.txt#sector_0_station_2.txt#Fabricator Ronyit Xobastdemi#npc_ship_data_(recon_shuttle_1)#10#null#null#null;Escort <color='yellow'><i>Fabricator Ronyit Xobastdemi</i></color> from Genistar in <color='cyan'>Blades of Dandrow</color> to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>;0;A wealthy council member from the Alpha faction has set up an escort for his oldest son <color='yellow'><i>Fabricator Ronyit Xobastdemi</i></color>. He was recently released from a rehab center for bliss addiction, and <i>Akfou Racataf</i>, his father, would prefer he doesn't travel alone. You can meet up with <color='yellow'><i>Fabricator Ronyit Xobastdemi</i></color> at the Genistar station before heading over to StarGypsy Warehouse.;8850;3000
+MISSION;13;150;734353;DELIVERY#7#1551#sector_0_station_4.txt#sector_0_station_1.txt#null#null#null#null;Take medium shipment of <color='yellow'>7</color> <color='yellow'>Improved Shield Boosters</color> and deliver to <color='cyan'>Void Starcross</color> and dock at Starbase Corporate Center Station;1;Lammassu Financial Station has contacted our client informing them of some medium cargo that remains unclaimed by a former employee, <i>Whebem Imesjalis</i> of the Science Faction. <color='yellow'>7</color> <color='yellow'>Improved Shield Boosters</color> need to be delivered to <color='cyan'>Void Starcross</color>, Starbase Corporate Center Station.;10120;1150
+MISSION;52;120;479005;SCAN_STRUCTURE#sector_0_station_4.txt#sector_35.txt#Office Center#structure_office_1.txt#1#null#null#null;Track and scan the target <color='yellow'>Office Center</color> structure in <color='cyan'>Felishar</color> and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;1;The Science faction has commissioned scientific survey of a strange vibration taking place at <color='yellow'>Office Center</color> in the <color='cyan'>Felishar</color> sector. Head over to <color='cyan'>Felishar</color> and scan the <color='yellow'>Office Center</color> structure. Once complete, return to the Starbase Corporate Center station located in the <color='cyan'>Void Starcross</color> with the scan data.;9720;2700
+MISSION;83;150;359525;RECOVER#8#1592#sector_60.txt#sector_0_station_4.txt#null#null#null#null;Reclaim a medium shipment <color='yellow'>crate</color> in <color='cyan'>Veloxi</color>, recover <color='yellow'>8</color> <color='yellow'>Advanced Turn Thrusts</color> and bring back to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;0;A medium shipping crate has come up missing from a mining operation move in <color='cyan'>Veloxi</color>. <i>Foekin Kolwhedemi</i> is looking for an able pilot to scoop up the shipment of <color='yellow'>8</color> <color='yellow'>Advanced Turn Thrusts</color>. Once the crate has been recovered, take it to the Starbase Corporate Center station located in the <color='cyan'>Void Starcross</color> where <i>Foekin Kolwhedemi</i> will be waiting with your payment.;16592;5313
+MISSION;143;150;968040;REFINE#2#27#sector_0_station_3.txt#sector_35_station_0.txt#null#null#null#null;Refine medium shipment of <color='yellow'>2</color> <color='yellow'>Engine Components</color> in <color='cyan'>Void Starcross</color> at the StarShepards Headquarters station refinery;1;Astrox Security Patrol Station has contacted our client informing them of some medium cargo that remains unclaimed by former employees, <i>Ferbo Ousaw</i> of the Science Faction. <color='yellow'>2</color> <color='yellow'>Engine Components</color> need to be refined in <color='cyan'>Void Starcross</color>, at the StarShepards Headquarters Station refinery.;13720;2800
+MISSION;10;120;169562;DELIVERY#40#201#sector_15_station_0.txt#sector_35_station_0.txt#null#null#null#null;Dock at Crystalis Broadcasting in <color='cyan'>Jermicus</color> to deliver a light shipment of <color='yellow'>40</color> <color='yellow'>Basic Sensors</color>;0;<i>Fowe Restvismad</i> runs a Alpha shipping company at Astrox Security Patrol. After having some issues with a transport ship, <color='yellow'>40</color> items of <color='yellow'>Basic Sensors</color> were left behind. Head on over to <color='cyan'>Jermicus</color> and deliver these <color='yellow'>Basic Sensors</color> to Crystalis Broadcasting.;13676;3800
+MISSION;112;600;152232;KILL_RAIDERS#sector_0_station_3.txt#sector_35.txt#1#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Destroy <color='yellow'>1 Raider</color> in <color='cyan'>Felishar</color> and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>;0;A large Raider gang has been seen lurking around in <color='cyan'>Felishar</color>. Their leader, <i>Corweli Kilezeta</i>, is a wanted criminal and the Alpha faction has requested a bounty on <i>Corweli Kilezeta</i> and his crew. Travel to the <color='cyan'>Felishar</color> and clear out the <color='yellow'>1 Raider</color>, level 10 that have been lurking around. Dock at the StarShepards Headquarters station in <color='cyan'>Void Starcross</color> when complete.;55339;12600
+MISSION;133;170;355043;SALVAGE#48#20#sector_96.txt#sector_0_station_5.txt#null#null#null#null;Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Arch of Mori</color> and return to Proctors Center in <color='cyan'>Void Starcross</color> with minimum of <color='yellow'>48</color>;0;The Alpha faction has reported that a special medium load of <color='yellow'>Special Junk Part</color> has been scanned in the <color='cyan'>Arch of Mori</color> system. <i>Oipad Cobastao</i> is credited with the find, but His claim is currently invalid. Hurry up and salvage the <color='yellow'>Special Junk Part</color> and return to Proctors Center, in the <color='cyan'>Void Starcross</color>.;14756;4100
+MISSION;72;180;119939;ESCORT#sector_14_station_1.txt#sector_0_station_5.txt#Colonel Fonate Ronciefi#npc_ship_data_(battle_carrier_1)#18#null#null#null;A ship in Horizons in <color='cyan'>Gate of Alpharis</color> needs an escort to Proctors Center in <color='cyan'>Void Starcross</color>;0;After being selected for an academic grant, Dr. <color='yellow'><i>Colonel Fonate Ronciefi</i></color> has requested an escort to the Proctors Center station in the <color='cyan'>Void Starcross</color> system. <color='yellow'><i>Colonel Fonate Ronciefi</i></color> has posted his pick-up location as Horizons in <color='cyan'>Gate of Alpharis</color>. Be sure to protect the doctor at all cost, and under no circumstances are you to abandon him.;8820;1800
+MISSION;132;140;833331;SALVAGE#12#20#sector_58.txt#sector_3_station_0.txt#null#null#null#null;Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Lins</color> and return with <color='yellow'>12</color> to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;0;<i>Ciehore Ciejo</i> has discovered a light cache of <color='yellow'>Special Junk Part</color> in <color='cyan'>Lins</color>. He is currently unable to dismantle the <color='yellow'>Special Junk Part</color>, and has requested a pilot to head over and salvage the <color='yellow'>12</color> <color='yellow'>Special Junk Part</color>. Once complete, head over and meet <i>Ciehore Ciejo</i> at the Daemon Ammunitions station located in the <color='cyan'>Starfort Ramos</color>.;12597;3500
+MISSION;153;150;899874;FABRICATE#29#2449#sector_0_station_2.txt#sector_14_station_1.txt#null#null#null#null;Produce a medium shipment of <color='yellow'>29</color> <color='yellow'>Thermal Sensors</color> in <color='cyan'>Void Starcross</color> at the StarGypsy Warehouse station fabricator;2;Horizons Station has contacted our client informing them of some medium cargo that remains missing by a former employee, <i>Komjalis Ficoudue</i> of the Civil Faction. <color='yellow'>29</color> <color='yellow'>Thermal Sensors</color> production run in <color='cyan'>Void Starcross</color>, at the StarGypsy Warehouse fabricator.;13720;2800
+MISSION;141;120;621416;REFINE#8#20#sector_78_station_0.txt#sector_15_station_0.txt#null#null#null#null;Refine a light container of <color='yellow'>8</color> <color='yellow'>Junk Parts</color> at the Tella's station in <color='cyan'>Bitcola</color>;0;The Alpha Faction has commissioned a refinery liaison, <i>Arbac Keekaddam</i> at Crystalis Broadcasting. After an audit, <color='yellow'>8</color> items of <color='yellow'>Junk Parts</color> were left unused. Head on over to <color='cyan'>Bitcola</color> and refine these <color='yellow'>Junk Parts</color> at the Tella's refinery.;19520;6250
+MISSION;126;120;673531;CHAT_PILOT#sector_56_station_0.txt#sector_77.txt#Mr. Paekin Ribcou#npc_ship_data_(recon_frigate_3)#24#missions_transfer_pilot.txt#0#null;Transfer payment to <color='yellow'><i>Mr. Paekin Ribcou</i></color> in <color='cyan'>Ballast Crow</color> and return with signature to Transporteers in <color='cyan'>Hunu</color>;0;<i>Demijan Renowhi</i> has a bonus payment for <color='yellow'><i>Mr. Paekin Ribcou</i></color>. The Alpha faction has recognized <color='yellow'><i>Mr. Paekin Ribcou</i></color> and has award a bonus payment. <color='yellow'><i>Mr. Paekin Ribcou</i></color> was last working in the <color='cyan'>Ballast Crow</color> system. Find them, deliver this envelope, and return to the Transporteers in the <color='cyan'>Hunu</color> system with a signature.;20423;4650
+MISSION;10;120;449840;DELIVERY#2#1120#sector_78_station_0.txt#sector_56_station_0.txt#null#null#null#null;Dock at Tella's in <color='cyan'>Bitcola</color> to deliver a light shipment of <color='yellow'>2</color> <color='yellow'>Focused x1 Lasers</color>;0;<i>Xawho Arqorib</i> runs a Alpha shipping company at Transporteers. After having some issues with a transport ship, <color='yellow'>2</color> items of <color='yellow'>Focused x1 Lasers</color> were left behind. Head on over to <color='cyan'>Bitcola</color> and deliver these <color='yellow'>Focused x1 Lasers</color> to Tella's.;11210;3800
+MISSION;132;140;259108;SALVAGE#18#20#sector_14.txt#sector_99_station_0.txt#null#null#null#null;Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Gate of Alpharis</color> and return with <color='yellow'>18</color> to Ferce Hub in <color='cyan'>Semja</color>;0;<i>Colom Sawnortistu</i> has discovered a light cache of <color='yellow'>Special Junk Part</color> in <color='cyan'>Gate of Alpharis</color>. He is currently unable to dismantle the <color='yellow'>Special Junk Part</color>, and has requested a pilot to head over and salvage the <color='yellow'>18</color> <color='yellow'>Special Junk Part</color>. Once complete, head over and meet <i>Colom Sawnortistu</i> at the Ferce Hub station located in the <color='cyan'>Semja</color>.;9394;875
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -189,3 +233,4 @@ SHIP;6;1.02;ship_data_(battle_cruiser_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

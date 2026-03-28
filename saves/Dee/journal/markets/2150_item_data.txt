@@ -1,3 +1,5 @@
 NPC;+QTY;25;1;17556.75;Keyworx;Geminey;0h 50m 9s ;3009.769
 NPC;-QTY;6;-1;19660.5;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
 NPC;BAL;20;-1;26936.47;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+PRICE;12;0;35106.57;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;6;-2;31692.69;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47

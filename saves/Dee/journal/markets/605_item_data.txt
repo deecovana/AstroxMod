@@ -21,3 +21,6 @@ NPC;+QTY;12;4;129867;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;27;0;142865.2;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-PRICE;8;0;130966.2;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;36;0;198827.4;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+LOCAL;5;1;121455.8;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
+NPC;+QTY;28;4;96600.01;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;8;0;141490.7;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

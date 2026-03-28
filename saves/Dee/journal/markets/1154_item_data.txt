@@ -5,3 +5,5 @@ NPC;BAL;34;-9;34694.08;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;+STOCK;98;8;18764.64;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;83;-7;19394.38;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;76;-7;22322.31;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+LOCAL;12;13;12512.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+LOCAL;12;9;12512.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25

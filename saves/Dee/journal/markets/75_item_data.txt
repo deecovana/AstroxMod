@@ -15,3 +15,6 @@ NPC;+QTY;2115;2002;81.97507;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+STOCK;1947;1920;50.94935;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;-PRICE;241;0;131.1692;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+QTY;2143;2051;127.0882;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+QTY;2543;2381;70.97613;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;8091;1992;55.71075;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;155;7;79.83572;CoraVault;Lins;7h 55m 14s ;28514.54

@@ -34,3 +34,13 @@ NPC;+QTY;2885;2698;118.125;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;4295;4082;196.2225;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;568;0;128.0095;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+QTY;3006;2791;205.8875;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;4330;0;162.8824;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;-LOCAL;77;77;232.3649;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;BAL;59;0;205.1167;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;148;0;160.9843;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;5142;4931;218.4375;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;13050;4921;74.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;4214;4012;117.3984;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-LOCAL;79;79;228.5586;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;-QTY;0;-31;134.8984;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;+QTY;4668;4468;227.6586;Ferce;Allabentoris;7h 55m 5s ;28505.1

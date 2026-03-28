@@ -2,3 +2,6 @@ NPC;-PRICE;10;0;8243.123;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;+QTY;63;9;7851.875;Foodmaid;Daelus;0h 50m 9s ;3009.769
 NPC;+QTY;21;11;8266.25;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;BAL;6;0;8583.897;Terra Drone;Geminey;4h 40m 21s ;16821.04
+PLAYER;+QTY;7;1;8021.078;Lacuna Bandits;Ballast Crow;6h 35m 35s ;23735.16
+NPC;+QTY;69;6;7851.875;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+PRICE;4;0;5724.579;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

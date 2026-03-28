@@ -12,3 +12,6 @@ NPC;+PRICE;298;0;164.2845;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;1540
 NPC;-QTY;8;-142;36.94375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;8;0;52.81701;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;402;104;164.3354;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+LOCAL;150;154;83.525;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+LOCAL;150;135;83.525;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;+QTY;981;116;182.633;Vo Industries;Brimstone;7h 55m 5s ;28505.1

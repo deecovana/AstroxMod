@@ -18,3 +18,8 @@ NPC;BAL;82;-6;3606.3;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.
 NPC;BAL;8;0;6218.445;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;82;9;3494.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;38;8;4588.453;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+LOCAL;12;20;1885;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+QTY;23;7;3593.644;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+LOCAL;12;8;1885;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;+QTY;24;10;4875.679;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;40;0;4092.467;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

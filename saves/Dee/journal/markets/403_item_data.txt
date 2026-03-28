@@ -24,3 +24,18 @@ NPC;+QTY;694;686;20.0675;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;-PRICE;28;0;8.314436;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;51;0;21.50194;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+QTY;625;622;24.54531;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;-LOCAL;1486;0;25.875;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.13
+NPC;-LOCAL;1216;0;25.875;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;-LOCAL;1190;0;25.875;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+PRICE;2;0;23.61448;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+PRICE;44;0;24.95278;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+STOCK;910;871;25.39268;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;2898;532;17.7675;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-14;14.50459;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;-QTY;0;-9;11.95066;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;-LOCAL;343;0;25.875;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+QTY;566;566;14.50459;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;59;0;25.875;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+PRICE;51;0;22.51622;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;16;0;26.67956;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-LOCAL;68;68;26.96925;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

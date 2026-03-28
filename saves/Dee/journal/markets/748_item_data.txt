@@ -10,3 +10,7 @@ NPC;+STOCK;104;13;115935.1;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;142;10;102712.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;43;10;110733.6;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;57;10;72507.19;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;26;0;69092.72;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+STOCK;61;14;118411.5;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;152;10;102712.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;46;12;99743.14;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

@@ -7,3 +7,6 @@ NPC;+QTY;16;11;1194.038;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;10;8;1105.538;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+QTY;13;7;677.0895;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+QTY;23;8;813.3503;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;-QTY;1;-10;550.2055;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-QTY;5;-8;932.2975;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;70;8;787.373;Vo Industries;Brimstone;7h 55m 5s ;28505.1

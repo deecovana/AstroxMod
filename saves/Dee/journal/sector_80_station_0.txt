@@ -3,7 +3,7 @@ Deep Space Array
 Couue Atelow
 Pirate
 [c:lime]Dock fee 100[/c]
-Timestamp: 18736.9
+Timestamp: 32876.45
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -47,159 +47,155 @@ Mission Contracts
 
 
 <Station Market Orders>
+[c:red]SELL Order[/c] Sell Order for: (2) Items 
+ (7) x Focused x3 Laser
+ (7) x Quantex  x-2 20mm Gun
+Buy items for [c:lime]50,277 discount.[/c]
 [c:green]BUY Order[/c] Market Out of Stock: (2) Items 
  (219) x Entertainment Electronics
  (46) x Gaming Devices
-Fulfill order for [c:lime]57,983 profit.[/c]
+Fulfill order for [c:lime]57,146 profit.[/c]
 [c:green]BUY Order[/c] Market Low Inventory: (2) Items 
  (281) x Childrens Toys
  (237) x Musical Instruments
-Fulfill order for [c:lime]44,600 profit.[/c]
+Fulfill order for [c:lime]43,855 profit.[/c]
 [c:green]BUY Order[/c] Buying: (1) Items 
  (1) x x1 Torpedo Launcher
-Fulfill order for [c:lime]-20,530 profit.[/c]
-[c:red]SELL Order[/c] Sale Request Order: (1) Items 
- (1) x Advanced Shield Generator
-Buy items for [c:lime]8,845 discount.[/c]
+Fulfill order for [c:lime]-20,854 profit.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
 Adamyte Ore  69 - z12
 Anti-Freeze  2 - z33
-Assault x1 Launcher  2 - z1,412
+Assault x1 Launcher  2 - z1,408
 Assorted Gaskets  94 - z14
 Basic 60mm  17 - z10
-Basic Afterburner  1 - z1,295
-Basic Armor Exterior  7 - z1,066
-Basic Armor Exterior (Doc)  8 - z14,532
-Basic Cargo Expansion  6 - z2,428
-Basic Cargo Expansion (Doc)  9 - z29,425
+Basic Afterburner  1 - z1,293
+Basic Armor Exterior  7 - z1,064
+Basic Armor Exterior (Doc)  8 - z14,497
+Basic Cargo Expansion  4 - z2,448
+Basic Cargo Expansion (Doc)  9 - z29,373
 Basic Charged Cell (Doc)  9 - z102
-Basic Drone Command Bay  7 - z1,392
-Basic Energy Armor  8 - z3,914
-Basic Energy Capacitor  4 - z2,766
-Basic Energy Capacitor (Doc)  1 - z21,958
-Basic Energy Generator  2 - z5,903
-Basic Engine Core  5 - z2,706
-Basic Explosive Armor  2 - z6,975
-Basic Explosive Armor (Doc)  8 - z72,224
-Basic Filter  4 - z5,369
-Basic Impact Armor  3 - z6,082
-Basic Mass Reduction  9 - z746
-Basic Mass Reduction (Doc)  2 - z11,918
-Basic Scan Booster  1 - z2,223
-Basic Scan Booster (Doc)  6 - z16,456
-Basic Scan Emitter  4 - z502
-Basic Scan Emitter (Doc)  6 - z9,147
-Basic Shield Booster  2 - z2,994
-Basic Shield Booster (Doc)  5 - z17,225
-Basic Shield Generator  2 - z1,406
-Basic Targeting System  8 - z810
-Basic Targeting System (Doc)  6 - z11,950
-Basic Thruster  1 - z783
-Basic Thruster (Doc)  3 - z10,241
-Basic Turn Thrust  2 - z1,749
-Blaster x1 Laser  9 - z654
-Blaster x1 Laser (Doc)  8 - z7,965
+Basic Drone Command Bay  7 - z1,388
+Basic Energy Armor  8 - z3,903
+Basic Energy Capacitor  4 - z2,761
+Basic Energy Capacitor (Doc)  1 - z21,902
+Basic Energy Generator  2 - z5,894
+Basic Engine Core  5 - z2,696
+Basic Explosive Armor  2 - z6,964
+Basic Explosive Armor (Doc)  8 - z72,088
+Basic Filter  3 - z5,410
+Basic Impact Armor  3 - z6,071
+Basic Mass Reduction  9 - z744
+Basic Mass Reduction (Doc)  2 - z11,894
+Basic Scan Booster  1 - z2,218
+Basic Scan Booster (Doc)  6 - z16,404
+Basic Scan Emitter  4 - z500
+Basic Scan Emitter (Doc)  6 - z9,122
+Basic Shield Booster  2 - z2,987
+Basic Shield Booster (Doc)  5 - z17,152
+Basic Shield Generator  2 - z1,404
+Basic Targeting System  8 - z808
+Basic Targeting System (Doc)  6 - z11,924
+Basic Thruster  1 - z781
+Basic Thruster (Doc)  3 - z10,216
+Basic Turn Thrust  2 - z1,746
+Blaster x1 Laser  9 - z652
+Blaster x1 Laser (Doc)  8 - z7,944
 Candy Cane  4 - z32
 Candy Corn  7 - z12
 Carbon  145 - z1
 Carbon Fiber  56 - z33
-Cat Food  26 - z239,363
-Cheese and Crackers  32 - z149,700
-Cheeseburger  40 - z28,688
+Cat Food  26 - z238,668
+Cheese and Crackers  5 - z77,273
+Cheeseburger  5 - z7,098
 Chocolate Bars  1 - z28
 Cleaning Chemicals  3 - z27
 Colored Dye  1 - z134
-Comm Device  25 - z134
-Compartment Frame  26 - z228
-Connection Harness  30 - z296
-Cooling Unit  29 - z377
+Comm Device  25 - z133
+Compartment Frame  150 - z50
+Connection Harness  30 - z297
+Cooling Unit  150 - z87
 Corrosive 20mm  6 - z40
-Corrosive Missile  41 - z133
-Disposables  3 - z3,969
-Duct Work  44 - z411
-Electrical Interface  25 - z544
-Electrical Regulator  29 - z874
-Electromagnetic Emitter  36 - z1,331
-Energized Missile  17 - z243
+Corrosive Missile  41 - z132
+Disposables  2 - z4,010
+Duct Work  44 - z409
+Electrical Interface  25 - z543
+Electrical Regulator  129 - z437
+Electromagnetic Emitter  150 - z281
+Energized Missile  17 - z242
 Fasteners  76 - z11
 Fiber Optic Interface  43 - z1,400
-Focused x1 Laser  7 - z999
-Fuel Injector  41 - z2,158
-Fusion 60mm  12 - z85
-Generic Dual 20mm Gun  6 - z889
-Generic Dual 20mm Gun (Doc)  2 - z11,291
-Generic Gatling 20mm Gun  3 - z895
-Generic Single 20mm Gun  1 - z809
-Grilled Steak  28 - z70,688
+Focused x1 Laser  7 - z997
+Fuel Injector  128 - z675
+Fusion 60mm  12 - z84
+Generic Dual 20mm Gun  6 - z887
+Generic Dual 20mm Gun (Doc)  2 - z11,263
+Generic Gatling 20mm Gun  3 - z893
+Generic Single 20mm Gun  1 - z806
+Grilled Steak  28 - z70,456
 Gummy Bears  1 - z27
-Ham Sandwich  31 - z11,616
-Heavy Armor Bomb  15 - z161,494
-Heavy Defense Drone  2 - z147,469
-Heavy Mining Drone  8 - z126,019
-Improved Defense Drone  5 - z46,969
-Ion Beam Class 1  5 - z2,824
-Ion Beam Class 1 (Doc)  4 - z20,663
+Ham Sandwich  31 - z11,584
+Heavy Armor Bomb  15 - z161,236
+Heavy Defense Drone  2 - z147,175
+Heavy Mining Drone  8 - z125,725
+Improved Defense Drone  5 - z46,889
+Ion Beam Class 1  5 - z2,819
+Ion Beam Class 1 (Doc)  4 - z20,601
 Junk Part  80 - z69
 Kinetic 20mm  1 - z18
 Kinetic 60mm  35 - z37
-Kinetic Missile  1 - z270
-Large Combat Drone  1 - z87,375
-Light Energy Charge  16 - z12,860
-Light Shield Recharger  5 - z42,006
+Kinetic Missile  1 - z269
+Large Combat Drone  1 - z87,197
+Light Energy Charge  16 - z12,832
+Light Shield Recharger  5 - z41,908
 Liquid Coolant  89 - z48
-Liquid Coolant (Doc)  6 - z361
+Liquid Coolant (Doc)  6 - z360
 Lubricant  87 - z10
-Medium Armor Repair  17 - z219,188
+Media Recordings  19 - z24
+Medium Armor Repair  17 - z218,813
 Metal Brackets  95 - z43
-Noodles  36 - z6,638
+Noodles  35 - z6,720
 Nuts And Bolts  96 - z9
-Ore Harvester 1  5 - z4,832
-Ornament  2 - z364
+Ore Harvester 1  2 - z4,869
+Ornament  2 - z363
 Oxygen  79 - z1
-Pizza  5 - z338,613
-Plasma Beam Class 1  3 - z2,155
-Protein Bar  4 - z3,569
-Pulse Beam Class 1  7 - z1,259
-Pulse x1 Laser  8 - z527
+Pizza  5 - z339,024
+Plasma Beam Class 1  3 - z2,150
+Protein Bar  5 - z710
+Pulse Beam Class 1  7 - z1,255
+Pulse x1 Laser  8 - z526
 Radiated 20mm  6 - z24
-Rapid x1 Launcher  7 - z911
+Rapid x1 Launcher  7 - z907
 Reinforced Rubber  27 - z15
-Salvage Collector 1  6 - z3,266
-Salvage Collector 1 (Doc)  6 - z38,528
-Small Repair Drone  9 - z2,603
-Small Repair Drone (Doc)  1 - z49,950
-Small Salvage Drone  4 - z4,643
-Spaghetti  5 - z507,022
+Salvage Collector 1  6 - z3,256
+Salvage Collector 1 (Doc)  6 - z38,410
+Small Repair Drone  9 - z2,592
+Small Repair Drone (Doc)  1 - z49,822
+Small Salvage Drone  4 - z4,632
+Spaghetti  5 - z507,155
 Steelium Beam  86 - z10
 Steelium Pipes  34 - z21
-Surf-n-Turf  32 - z767,213
-Tactical x1 Launcher  5 - z1,412
-Tactical x1 Launcher (Doc)  7 - z24,595
-Thermal Controller  2 - z2,919
-Titan Defense Drone  1 - z153,438
-Titan Salvage Drone  7 - z133,438
-Torpedo Mark X  17 - z746
+Surf-n-Turf  32 - z765,022
+Tactical x1 Launcher  5 - z1,408
+Tactical x1 Launcher (Doc)  7 - z24,540
+Thermal Controller  1 - z2,960
+Titan Defense Drone  1 - z152,992
+Titan Salvage Drone  7 - z132,992
+Torpedo Mark X  17 - z744
 Toxic 20mm  47 - z93
 Water  67 - z0
-Wrapped Box  7 - z3,734
-x1 Torpedo Launcher  9 - z37,433
+Wrapped Box  7 - z3,724
+x1 Torpedo Launcher  9 - z37,322
 
 
 <Station University Skills>
 
 
 <Station Missions>
-[c:lime]SCAN[/c]
-Track and scan the target <color='yellow'>Recon Center</color> structure in <color='cyan'>Felishar</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>
-
 [c:lime]HARVEST[/c]
 Harvest <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>70</color> ore to Transporteers in <color='cyan'>Hunu</color>
-
-[c:lime]DELIVERY[/c]
-Deliver light container of <color='yellow'>45</color> <color='yellow'>Metal Brackets</color> to Tella's Station in <color='cyan'>Bitcola</color>
 
 [c:lime]REFINE[/c]
 Dock at the Crystalis Broadcasting station refinery in <color='cyan'>Jermicus</color> and process a light shipment of <color='yellow'>3</color> <color='yellow'>Electronic Fragments</color>
@@ -230,6 +226,36 @@ Produce a medium shipment of <color='yellow'>31</color> <color='yellow'>Motion S
 
 [c:lime]SCAN[/c]
 Locate and scan <color='yellow'><i>Sir Peisiv Xuluo</i></color> in <color='cyan'>Void Starcross</color> and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]DIALOG[/c]
+Chat with <color='yellow'><i>Sir Qocee Jalisao</i></color> about his debt in <color='cyan'>Void Starcross</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]RECOVER[/c]
+Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Bitcola</color> sector, recover the <color='yellow'>1</color> <color='yellow'>Acrondia 60mm Dual Howitzer</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]ESCORT[/c]
+<color='yellow'><i>Professor Ueto Whimahin</i></color> requests an escort from Acrondia Hub in <color='cyan'>Temple Gates</color> to Proctors Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]DIALOG[/c]
+Chat with <color='yellow'><i>Entertainer Oazeno Johsoue</i></color> about his debt in <color='cyan'>Dragon Sea</color> and return to Proctors Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]SCAN[/c]
+Recon <color='yellow'><i>Professor Astreno Viheabaz</i></color> in <color='cyan'>Starfort Ramos</color> and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]RECOVER[/c]
+Retrieve a light cache of <color='yellow'>20</color> <color='yellow'>Communication Devices</color> from a <color='yellow'>crate</color> in <color='cyan'>Felishar</color> sector, drop at Tella's in <color='cyan'>Bitcola</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>3</color> to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]TRANSPORT[/c]
+Transport a light shipment of <color='yellow'>3</color> <color='yellow'>Advanced Energy Generators</color> from Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]DELIVERY[/c]
+Take medium shipment of <color='yellow'>2</color> <color='yellow'>Assault x7 Launchers</color> and deliver to <color='cyan'>Gate of Alpharis</color> and dock at Horizons Station
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Bishop Witxe Dierast</i></color> in <color='cyan'>Temple Gates</color> and return to Transporteers in <color='cyan'>Hunu</color>
 
 
 

@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;84
 SECTOR;name;Archon
-SECTOR;level;0.8
+SECTOR;level;0.7
 SECTOR;faction;Pirate
 SECTOR;filename;sector_84.txt
 SECTOR;is_explored;False

@@ -1,3 +1,5 @@
 NPC;+QTY;39;11;5385.794;Cecil;Junia;2h 29m 20s ;8960.865
 NPC;+PRICE;10;0;5002.856;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
 NPC;-QTY;30;-9;5410.737;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+QTY;13;8;5621.362;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;46;0;5586.097;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

@@ -16,3 +16,7 @@ NPC;-QTY;0;-13;19390.22;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;28;-14;26450.99;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;45;9;22550.06;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;62;8;28850.06;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;28;0;22533.65;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;17;14;40481.72;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+QTY;30;10;37828.55;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;22;0;25101.37;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

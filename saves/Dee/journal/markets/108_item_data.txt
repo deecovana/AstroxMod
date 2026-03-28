@@ -22,3 +22,6 @@ NPC;+QTY;1142;229;12.198;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;363;0;16.28151;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;522;0;15.42627;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-PRICE;452;0;14.95531;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+PLAYER;+QTY;486;18;10.23957;StarGypsy Warehouse;Void Starcross;5h 30m 42s ;19842.94
+NPC;+QTY;1273;131;12.198;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+PLAYER;+QTY;742;11;10.545;Starbase Corporate Center;Void Starcross;6h 55m 32s ;24932.07

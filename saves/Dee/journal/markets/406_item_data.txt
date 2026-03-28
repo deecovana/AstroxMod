@@ -28,3 +28,13 @@ NPC;+QTY;797;737;21.11449;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.8
 NPC;+QTY;651;601;19.85356;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;-PRICE;19;0;32.76645;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+QTY;896;867;18.27256;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;899;0;35.00723;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;5;0;25.8741;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;+PRICE;25;0;29.5677;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;-LOCAL;2;0;34.875;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
+NPC;+QTY;907;873;30.49625;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;3221;858;30.1475;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;0;0;36.19088;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
+NPC;-QTY;0;-6;13.93741;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-LOCAL;0;0;77.5;Tella's;Bitcola;7h 28m 52s ;26932.76
+NPC;-LOCAL;0;0;77.5;Tella's;Bitcola;7h 35m 32s ;27332.98

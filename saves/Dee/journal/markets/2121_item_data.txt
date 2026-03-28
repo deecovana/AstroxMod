@@ -18,3 +18,5 @@ NPC;+QTY;6332;1947;526.9183;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.8
 NPC;+QTY;1685;1410;303.2036;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;129;0;291.3429;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;17;0;226.4279;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;1597;1484;244.5508;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;3988;2391;244.5508;Ferce;Allabentoris;7h 55m 5s ;28505.1

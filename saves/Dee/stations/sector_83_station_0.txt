@@ -38,7 +38,13 @@ MERC;9;1.36;npc_ship_data_(recon_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-SELLORDER;Market Surplus: (1) Items ;2029x65;95511;52445.55
+BUYORDER;Market Items Req: (1) Items ;310x145;9413;57436.96
+BUYORDER;Market Needs Goods: (2) Items ;312x581,310x107;90806;92740.96
+BUYORDER;Market Shortage: (3) Items ;313x362,404x250,405x330;130372;110980.50
+BUYORDER;Market Shortage: (3) Items ;313x209,310x128,313x81;97330;92588.69
+BUYORDER;Market Out of Stock: (1) Items ;403x99;2531;71359.69
+SELLORDER;Market Production: (3) Items ;2020x192,2025x87,341x103;103639;56320.87
+
 BUYORDER;Market Demands: (3) Items ;310x214,312x168,310x326;61736;20528.28
 BUYORDER;Market Low Inventory: (3) Items ;310x323,311x323,310x379;72519;17983.28
 SELLORDER;Market Production: (3) Items ;2025x68,2022x208,2026x94;155082;55299.67

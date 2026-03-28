@@ -11,3 +11,11 @@ NPC;BAL;47;-109;19.74443;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;385;122;36.32813;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+PRICE;60;0;13.96552;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+PRICE;145;0;11.66151;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;BAL;47;0;20.12853;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;-LOCAL;0;0;62.5;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+PRICE;180;0;20.89191;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;545;135;26.84375;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;-QTY;0;-111;23.23984;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;+QTY;168;80;19.51586;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;40;40;28.53502;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+PRICE;47;0;20.73203;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

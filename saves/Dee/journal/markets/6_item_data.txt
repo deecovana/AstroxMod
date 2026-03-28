@@ -18,3 +18,6 @@ NPC;+QTY;6706;3155;83.9125;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-LOCAL;3;3;275.625;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+QTY;2943;2552;131.8215;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+STOCK;4860;4857;282.0226;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;-LOCAL;7431;0;275.625;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
+NPC;-LOCAL;7387;0;275.625;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;+PRICE;411;0;164.7508;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

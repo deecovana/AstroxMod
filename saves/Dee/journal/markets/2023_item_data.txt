@@ -3,3 +3,8 @@ NPC;+STOCK;510;134;578.1758;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;208;109;368.2828;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;617;107;567.9279;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;182;0;532.1782;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+LOCAL;150;155;187.1025;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.13
+NPC;+LOCAL;150;21;187.1025;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;+LOCAL;150;137;187.1025;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+LOCAL;150;49;187.1025;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+LOCAL;150;209;187.1025;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

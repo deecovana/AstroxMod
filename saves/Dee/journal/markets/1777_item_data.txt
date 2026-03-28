@@ -5,3 +5,5 @@ NPC;+STOCK;86;11;8815.08;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;42;10;9442.845;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;94;8;8855.691;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+PRICE;54;0;8028.118;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+QTY;104;10;8855.691;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;61;9;6066.505;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

@@ -21,3 +21,6 @@ NPC;+QTY;3489;1427;115.15;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;1676;1652;85.925;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;-PRICE;74;0;89.4181;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;47;0;136.8346;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+STOCK;2033;1908;142.3605;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;-QTY;0;-37;68.68881;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;1749;1749;68.68881;Ferce;Allabentoris;7h 55m 5s ;28505.1

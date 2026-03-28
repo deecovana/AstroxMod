@@ -6,3 +6,4 @@ NPC;+STOCK;842;118;388.9422;Biomate University;Void Starcross;4h 12m 27s ;15147.
 NPC;+STOCK;601;137;932.8433;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;386;-78;956.7012;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;289;-97;942.6578;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+QTY;336;138;855.8752;Foodmaid;Daelus;6h 44m 29s ;24269.91

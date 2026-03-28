@@ -18,3 +18,7 @@ NPC;+PRICE;296;0;9.871199;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;1540
 NPC;+PRICE;296;0;10.29678;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;BAL;104;0;12.98903;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;BAL;88;0;5.665801;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+PRICE;278;0;5.749306;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;466;116;5.53125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;355;96;5.88293;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+LOCAL;150;192;4.0625;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74

@@ -20,3 +20,8 @@ NPC;BAL;442;-141;35.77594;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1
 NPC;+QTY;830;141;37.78375;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;21;0;55.89109;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-PRICE;286;0;31.79637;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+LOCAL;150;138;27.1375;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;+QTY;933;103;37.78375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;0;0;120.6365;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
+NPC;+STOCK;580;121;59.11772;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-LOCAL;0;0;131.2462;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27

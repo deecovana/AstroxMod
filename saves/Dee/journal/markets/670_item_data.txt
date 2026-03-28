@@ -16,3 +16,7 @@ NPC;-PRICE;58;0;110420.7;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+QTY;134;23;74700;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+PRICE;92;0;61757.03;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+PRICE;27;0;134120.9;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+PRICE;9;0;124858.7;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+QTY;151;17;74700;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;85;15;104476.1;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+PRICE;22;0;67424.95;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

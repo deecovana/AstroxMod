@@ -4,3 +4,4 @@ NPC;+PRICE;127;0;562.0543;Medicore University;Cliffs of Drameria;2h 29m 20s ;896
 NPC;+STOCK;337;130;546.612;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;66;-141;561.4994;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;66;0;535.9278;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+LOCAL;150;220;199.7125;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05

@@ -11,3 +11,8 @@ NPC;BAL;680;-122;111.0071;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1
 NPC;BAL;140;0;115.0193;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;402;110;114.8958;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+PRICE;264;0;121.1851;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;BAL;140;0;108.3782;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;125;0;140.9044;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+PRICE;106;0;62.72429;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;-QTY;107;-88;71.53695;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+PRICE;140;0;113.1696;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

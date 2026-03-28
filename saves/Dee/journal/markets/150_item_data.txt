@@ -13,3 +13,9 @@ NPC;BAL;31;-145;9.803981;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;441;80;5.7285;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;389;77;12.21068;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;95;84;10.64475;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+PRICE;56;0;6.576263;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+LOCAL;150;730;3.705;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+PRICE;29;0;6.782604;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+PRICE;341;0;6.549739;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+QTY;249;99;1.2825;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;150;343;3.705;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74

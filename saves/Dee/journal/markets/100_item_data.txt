@@ -23,3 +23,11 @@ NPC;-QTY;971;-152;0.251875;Starbase Corporate Center;Void Starcross;4h 19m 24s ;
 NPC;BAL;54;0;0.4819964;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;1573;229;0.27125;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;205;189;0.36625;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+PLAYER;+QTY;1227;428;0.2618281;StarGypsy Warehouse;Void Starcross;5h 28m 41s ;19721.56
+NPC;BAL;89;0;0.2303332;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;6;0;0.3370945;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;BAL;54;0;0.4560761;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;319;0;0.5540877;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;1764;191;0.27125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+PLAYER;+QTY;1743;772;0.251875;Starbase Corporate Center;Void Starcross;6h 56m 4s ;24964.57
+NPC;+PRICE;54;0;0.4792648;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

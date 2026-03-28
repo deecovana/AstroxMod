@@ -5,3 +5,5 @@ NPC;BAL;8;-1;35015.88;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;+PRICE;24;0;41791.63;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
 NPC;+STOCK;82;2;17046.86;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;58;2;29439.66;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;22;0;38851;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+QTY;15;1;27047.29;Ferce;Allabentoris;7h 55m 5s ;28505.1

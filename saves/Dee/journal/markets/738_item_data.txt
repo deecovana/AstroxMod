@@ -13,3 +13,6 @@ NPC;+STOCK;100;4;1088223;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;35;-2;661072.5;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+QTY;34;4;975000;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;41;2;829335;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;1;0;1003786;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+STOCK;45;3;668522.6;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+STOCK;30;4;448544.7;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

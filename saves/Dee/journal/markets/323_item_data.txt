@@ -22,3 +22,11 @@ NPC;BAL;984;984;40.7225;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;+QTY;1010;989;24.04539;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;594;542;23.66439;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;620;614;25.66987;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;-LOCAL;0;0;64.62775;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
+NPC;+PRICE;5;0;36.56552;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;26;0;38.57161;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+PRICE;11;0;29.73422;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+STOCK;805;796;17.79914;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;2418;579;37.43325;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;0;0;95.25;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05
+NPC;+STOCK;820;761;27.95298;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

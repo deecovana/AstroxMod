@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;23
 SECTOR;name;Carioullis
-SECTOR;level;4.7
+SECTOR;level;4.6
 SECTOR;faction;Alpha
 SECTOR;filename;sector_23.txt
 SECTOR;is_explored;False

@@ -18,3 +18,10 @@ NPC;+STOCK;4728;2178;305.2902;Starbase Corporate Center;Void Starcross;4h 12m 27
 NPC;-QTY;735;-1815;337.25;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;735;0;380.1461;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;50;0;400.0353;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;BAL;14;0;447.7646;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;93;0;684.7687;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;99;0;502.2209;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;1878;1697;846.45;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;5938;1466;533.9;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-67;372.0912;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+PRICE;93;0;703.769;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

@@ -15,3 +15,8 @@ NPC;+LOCAL;150;10;28.6975;Biomate University;Void Starcross;3h 15m 34s ;11734.13
 NPC;+STOCK;542;143;93.88482;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;306;-93;97.46113;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;231;-75;95.56017;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+LOCAL;150;143;28.6975;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;+LOCAL;150;283;28.6975;Biomate University;Void Starcross;8h 8m 25s ;29305.03
+NPC;-LOCAL;0;0;125.8053;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
+NPC;+PRICE;365;0;77.91319;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-LOCAL;0;0;137.0249;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27

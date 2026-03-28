@@ -23,3 +23,11 @@ NPC;+QTY;3890;3454;48.82231;Temple of the Void;Valley of Truths;4h 47m 5s ;17225
 NPC;-LOCAL;0;0;130;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+QTY;5178;4791;28.13785;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;2895;2615;46.995;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+PRICE;359;0;35.06402;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;-LOCAL;2002;0;71.45258;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
+NPC;+QTY;5807;4995;58.955;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;4821;4093;22.91299;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;2808;2770;56.19299;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;1811;0;67.01131;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;+STOCK;3911;3691;37.29795;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;149;0;60.64763;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

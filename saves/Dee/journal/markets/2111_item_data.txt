@@ -27,3 +27,7 @@ NPC;+QTY;2395;2324;37.7245;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;2194;1939;29.7245;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;1372;1367;40.2325;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+PRICE;12;0;29.90405;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;12;0;30.46365;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+QTY;1967;1844;41.95675;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;8217;2174;36.8885;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-16;24.64502;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34

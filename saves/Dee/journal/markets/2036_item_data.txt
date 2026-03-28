@@ -8,3 +8,4 @@ NPC;+STOCK;306;112;1136.748;StarShepards Headquarters;Void Starcross;4h 12m 27s 
 NPC;-QTY;771;-118;1058.539;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;688;-83;1077.961;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;631;0;1302.418;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+LOCAL;129;100;673.4235;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05

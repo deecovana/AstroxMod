@@ -10,3 +10,5 @@ NPC;+STOCK;4969;2494;124.8662;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;151
 NPC;+STOCK;4167;1776;151.8782;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;5998;1258;98.4375;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;266;0;85.21214;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;7921;1923;98.4375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;1824;1778;71.86102;Ferce;Allabentoris;7h 55m 5s ;28505.1

@@ -5,3 +5,7 @@ NPC;+STOCK;78;9;4767.591;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15
 NPC;+PRICE;2;0;2649.868;Gemini Mining;Jala;4h 16m 43s ;15403.89
 NPC;-QTY;0;-9;2436.504;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
 NPC;BAL;61;-8;4471.47;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+PLAYER;-QTY;59;2;4451.184;Starbase Corporate Center;Void Starcross;5h 56m 13s ;21373.29
+NPC;+QTY;8;6;4032.555;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;3;0;5273.311;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;+LOCAL;12;3;3744.125;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27

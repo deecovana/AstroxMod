@@ -15,3 +15,5 @@ NPC;-QTY;69;-10;2278.125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15
 NPC;BAL;58;-11;2456.54;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;19;-10;1389.022;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;9;6;1495.125;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+PLAYER;-QTY;62;1;2725.903;Biomate University;Void Starcross;8h 14m 22s ;29662.24
+NPC;+PRICE;19;0;1424.443;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

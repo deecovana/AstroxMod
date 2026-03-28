@@ -21,3 +21,8 @@ NPC;-LOCAL;0;0;235;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+QTY;5079;4643;80.00457;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;700;0;74.20216;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;+QTY;5217;4970;117.4339;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;-LOCAL;5408;0;105.75;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
+NPC;+PRICE;322;0;41.80013;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+STOCK;6510;3809;88.54511;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;-LOCAL;5135;0;105.75;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;+PRICE;81;0;122.9867;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

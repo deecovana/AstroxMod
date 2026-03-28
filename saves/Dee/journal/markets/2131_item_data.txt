@@ -18,3 +18,7 @@ NPC;+QTY;1350;1347;135.9015;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;2424;2184;191.6369;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;-PRICE;141;0;174.7489;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;82;0;124.3881;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;BAL;19;0;93.0504;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;29;0;202.3161;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+PRICE;182;0;149.4706;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;+PRICE;20;0;163.7319;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

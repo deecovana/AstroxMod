@@ -26,3 +26,17 @@ NPC;BAL;114;0;41.23747;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1682
 NPC;+QTY;2293;663;51.17175;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;626;599;53.92808;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;11;0;19.71591;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;-LOCAL;1215;0;63.7875;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.13
+NPC;+PRICE;21;0;61.71524;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;-LOCAL;837;0;63.7875;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;-LOCAL;778;0;63.7875;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+QTY;617;604;72.55828;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;3010;717;51.17175;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;19;19;63.7875;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+QTY;811;810;25.55097;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;1546;735;25.55097;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;2242;696;25.55097;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;0;0;111.2887;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+PRICE;5;0;26.60594;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;+PRICE;9;0;56.12815;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-LOCAL;0;0;141.75;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

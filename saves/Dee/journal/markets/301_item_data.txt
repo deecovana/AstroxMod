@@ -30,3 +30,10 @@ NPC;-PRICE;76;0;75.79391;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;12;0;154.911;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+QTY;900;862;144.9769;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;755;729;119.3759;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;BAL;7;0;84.05754;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;3487;981;43.40625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;265;-605;141.6216;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;-LOCAL;1;0;156.2625;CoraVault;Lins;7h 55m 14s ;28514.54
+NPC;+STOCK;977;964;138.9817;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;8;0;61.41905;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;+PRICE;7;0;87.9397;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

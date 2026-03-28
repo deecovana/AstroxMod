@@ -3,3 +3,5 @@ NPC;+PRICE;2;0;517.6329;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;18;2;538.7363;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;-PRICE;40;0;599.0735;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;5;0;291.2358;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;5;0;320.522;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;-QTY;9;-1;228.9629;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34

@@ -8,3 +8,6 @@ NPC;+STOCK;108;11;156525;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;9;0;97300.73;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
 NPC;-PRICE;129;0;66886.87;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;30;0;98598.08;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;44;14;98932.98;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-QTY;10;-12;117083;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;82;10;92504.68;Vo Industries;Brimstone;7h 55m 5s ;28505.1

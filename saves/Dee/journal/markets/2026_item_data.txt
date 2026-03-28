@@ -7,3 +7,7 @@ NPC;+STOCK;382;147;651.3821;StarShepards Headquarters;Void Starcross;4h 12m 27s 
 NPC;+STOCK;277;105;759.8129;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;599;143;883.6813;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;114;0;1055.49;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+LOCAL;150;27;590.1837;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;+LOCAL;150;35;349.765;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+LOCAL;150;62;349.765;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+LOCAL;150;215;349.765;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

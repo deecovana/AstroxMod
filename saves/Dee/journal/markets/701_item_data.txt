@@ -7,3 +7,5 @@ NPC;+QTY;59;22;4912.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+PRICE;75;0;2544.318;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
 NPC;+STOCK;139;21;2861.514;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;15;-17;4666.625;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;BAL;15;0;4373.99;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;93;0;2252.319;Inovex;Goru Populan;6h 12m 48s ;22368.54

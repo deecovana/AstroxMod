@@ -1,15 +1,15 @@
 // PLAYER;Variable;Value
 <PLAYER>
 PLAYER;name;Dee
-PLAYER;level;4
-PLAYER;xp;8802.00
-PLAYER;next_level_xp;9100.00
-PLAYER;last_level_xp;5100.00
+PLAYER;level;7
+PLAYER;xp;20240.00
+PLAYER;next_level_xp;27100.00
+PLAYER;last_level_xp;20100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;699832.78
+PLAYER;credits;1197430.92
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;10
-PLAYER;playtime;18740.02
+PLAYER;skill_points;67
+PLAYER;playtime;35282.67
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;1
@@ -17,9 +17,9 @@ PLAYER;face_1;male_13.png
 PLAYER;face_2;accessory_1.png
 PLAYER;face_bg;bgimg_14.png
 PLAYER;profession_id;20
-PLAYER;passive_scanner_settings;False,False,False,False,False,False,False,False,True
-PLAYER;autopilot_settings;True,False,True,True,True
-PLAYER;orbit_data;True,700,-15,3,True
+PLAYER;passive_scanner_settings;False,False,False,False,False,False,True,True,True
+PLAYER;autopilot_settings;True,False,True,True,False
+PLAYER;orbit_data;True,700,-15,3,False
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
 PLAYER;cargo_settings;ALL,Name,Ascend,1
 PLAYER;targeting_settings;Name,Descend
@@ -27,15 +27,16 @@ PLAYER;station_market_settings;SEARCH,Price,Ascend,100
 PLAYER;station_university_settings;SEARCH,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
-PLAYER;sector;sector_80.txt
-PLAYER;sector_id;80
-PLAYER;station;sector_80_station_0.txt
+PLAYER;sector;sector_14.txt
+PLAYER;sector_id;14
+PLAYER;station;sector_14_station_1.txt
 PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(recon_escort_2)97593.txt;True;False;sector_0_station_0.txt;sector_0.txt;2500.67;-597.29;-678.61
-SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_0.txt;sector_0.txt;-408.34;260.83;-4454.45
+SHIP;ship_data_(excavation_escort_1)43359.txt;True;False;sector_0_station_0.txt;sector_80.txt;3529.03;200.47;2319.99
+SHIP;ship_data_(recon_escort_2)97593.txt;False;False;sector_80_station_0.txt;sector_0.txt;2500.67;-597.29;-678.61
+SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_0.txt;sector_0.txt;-921.05;-51.61;-4501.53
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
@@ -43,9 +44,9 @@ SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_
 // SKILL; skill id, skill lvl, train time remaining, total time
 <SKILLS>
 SKILL;215;2;0;60
-SKILL;41;1;0;0
+SKILL;41;3;0;360
 SKILL;11;3;0;360
-SKILL;60;2;0;0
+SKILL;60;3;0;360
 SKILL;61;1;0;0
 SKILL;58;2;0;0
 SKILL;52;1;0;0
@@ -54,6 +55,7 @@ SKILL;21;3;0;360
 SKILL;1;2;0;240
 SKILL;216;1;0;60
 SKILL;217;1;0;90
+SKILL;71;1;0;90
 
 
 
@@ -74,16 +76,16 @@ STAT;2;Laser Weapons Fired;251;Weapons
 STAT;3;Beam Weapons Fired;35;Weapons
 STAT;4;Launcher Weapons Fired;0;Weapons
 STAT;5;Torpedo Weapons Fired;0;Weapons
-STAT;6;Salvage Beams Fired;0;Excavation
+STAT;6;Salvage Beams Fired;41;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;70;Excavation
-STAT;11;Adamyte Ore Mined;247;Excavation
-STAT;12;Gradeon Ore Mined;0;Excavation
+STAT;10;Mining lasers Fired;899;Excavation
+STAT;11;Adamyte Ore Mined;2189;Excavation
+STAT;12;Gradeon Ore Mined;1539;Excavation
 STAT;13;Quazor Ore Mined;0;Excavation
 STAT;14;Lokken Ore Mined;0;Excavation
-STAT;15;Torim Ore Mined;0;Excavation
+STAT;15;Torim Ore Mined;800;Excavation
 STAT;16;Plasite Ore Mined;0;Excavation
 STAT;17;Dynex Ore Mined;0;Excavation
 STAT;18;Belasite Ore Mined;0;Excavation
@@ -94,33 +96,33 @@ STAT;22;Junk Collected;0;Excavation
 STAT;23;Scraps Collected;0;Excavation
 STAT;24;Salvage Collected;0;Excavation
 STAT;25;Derelicts Collected;0;Excavation
-STAT;26;Missions Complete;16;Missions
+STAT;26;Missions Complete;22;Missions
 STAT;27;Missions Expired;0;Missions
 STAT;28;Missions Aborted;0;Missions
 STAT;29;Transport Missions Complete;0;Missions
 STAT;30;Collection Missions Complete;0;Missions
-STAT;31;Delivery Missions Complete;1;Missions
+STAT;31;Delivery Missions Complete;4;Missions
 STAT;32;Recon Missions Complete;0;Missions
-STAT;33;Harvest Missions Complete;1;Missions
+STAT;33;Harvest Missions Complete;3;Missions
 STAT;34;Escort Missions Complete;1;Missions
 STAT;35;Recover Missions Complete;0;Missions
 STAT;36;Kill Missions Complete;26;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
-STAT;38;Sectors Explored;7;Navigation
-STAT;39;Warp gate Jumps;23;Navigation
+STAT;38;Sectors Explored;8;Navigation
+STAT;39;Warp gate Jumps;82;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;0;Missions
-STAT;43;Salvage Missions Complete;0;Missions
+STAT;43;Salvage Missions Complete;1;Missions
 STAT;44;Refinery Missions Complete;0;Missions
 STAT;45;Fabricator Missions Complete;0;Missions
 STAT;46;;0;
 STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
-STAT;50;Skill Levels Trained;12;Skills
-STAT;51;Skill Points Earned;60;Skills
-STAT;52;Skill Points Spent;115;Skills
+STAT;50;Skill Levels Trained;16;Skills
+STAT;51;Skill Points Earned;147;Skills
+STAT;52;Skill Points Spent;160;Skills
 STAT;53;;0;
 STAT;54;;0;
 STAT;55;;0;

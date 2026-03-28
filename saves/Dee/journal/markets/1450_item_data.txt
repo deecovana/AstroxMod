@@ -14,3 +14,5 @@ NPC;+STOCK;86;10;2196.112;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;64;9;2024.512;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;0;-4;4068.75;Dustardz;Redsky;4h 19m 24s ;15564.41
 NPC;+QTY;17;7;3812.5;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+PRICE;0;0;4231.604;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+PRICE;6;0;2907.219;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

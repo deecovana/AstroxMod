@@ -11,3 +11,4 @@ NPC;+STOCK;27;3;1708841;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;154;-2;2409375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;-PRICE;35;0;2326015;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;BAL;152;-2;2163186;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;81;0;2323043;Gunstellar;Adrenal;5h 41m 50s ;20510.81

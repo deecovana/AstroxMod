@@ -1,3 +1,8 @@
 NPC;-PRICE;37;0;41114.7;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;-PRICE;20;0;37905.18;Mazu Starship;Enoch Estates;0h 56m 50s ;3410.242
 NPC;+STOCK;45;10;20081.15;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
+NPC;+STOCK;15;9;41068.9;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;36;11;15511.67;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-QTY;8;-11;37678.67;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;17;9;37678.67;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;20;0;38930.8;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

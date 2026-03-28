@@ -11,3 +11,7 @@ NPC;+LOCAL;150;486;106.1775;Starbase Corporate Center;Void Starcross;4h 12m 42s 
 NPC;-QTY;25;-125;46.96313;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;-PRICE;737;0;195.9215;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+QTY;301;116;202.3702;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+LOCAL;150;260;106.1775;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+STOCK;156;120;187.995;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;476;115;229.9151;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;490;126;135.1721;Foodmaid;Daelus;6h 44m 29s ;24269.91

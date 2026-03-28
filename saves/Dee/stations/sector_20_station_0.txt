@@ -37,6 +37,9 @@ MERC;9;1.59;npc_ship_data_(battle_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Out of Stock: (2) Items ;353x331,351x491;58696;106490.90
+BUYORDER;Market Shortage: (3) Items ;353x332,350x422,350x479;80833;46734.91
+BUYORDER;Market Items Req: (4) Items ;350x419,350x225,353x170,352x237;175272;93259.91
 BUYORDER;Request Order: (1) Items ;350x575;20082;62451.61
 BUYORDER;Purchase Order for: (1) Items ;325x1658;24282;43876.61
 BUYORDER;Market Low Inventory: (1) Items ;350x37;2864;67266.03
@@ -371,12 +374,12 @@ ITEM;2246;63;0.97;2510.899
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
-SKILL;53;1.50
-SKILL;7;0.97
-SKILL;6;1.91
-SKILL;231;1.43
-SKILL;41;1.46
-SKILL;228;1.93
+SKILL;53;1.34
+SKILL;7;0.88
+SKILL;6;1.87
+SKILL;231;1.24
+SKILL;41;1.37
+SKILL;228;1.85
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>

@@ -17,3 +17,4 @@ NPC;BAL;24;-3;82253.88;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1682
 NPC;+QTY;7;3;103025;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;30;3;136644.6;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;20;0;113263.9;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+STOCK;27;3;126435.3;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

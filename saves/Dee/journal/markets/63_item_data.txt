@@ -16,3 +16,5 @@ NPC;BAL;2442;2442;186.6261;Starbase Corporate Center;Void Starcross;4h 40m 21s ;
 NPC;+QTY;6624;2388;96.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+STOCK;1937;1924;206.9298;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;-PRICE;303;0;209.4971;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+PRICE;28;0;113.7848;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;+QTY;8280;1656;96.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

@@ -7,3 +7,7 @@ NPC;+PRICE;51;0;2581.286;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;BAL;8;0;4646.588;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;+STOCK;79;10;2033.741;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;8;0;3763.679;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
+NPC;BAL;8;0;4227.134;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;27;7;3777.235;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;68;9;2529.416;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;8;0;4384.831;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

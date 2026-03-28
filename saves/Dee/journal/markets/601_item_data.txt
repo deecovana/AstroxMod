@@ -20,3 +20,11 @@ NPC;-PRICE;3;0;6694.768;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;BAL;1;0;5014.689;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;5;4;4125;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;6;3;6637.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+PLAYER;-QTY;35;1;6636.563;Genistar;Blades of Dandrow;5h 13m 26s ;18806.18
+NPC;BAL;7;-3;9333.588;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;BAL;4;-3;6217.493;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;9;0;9014.651;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+STOCK;22;3;4871.146;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;8;4;5837.5;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;16;2;6606.344;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;4;0;8702.717;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

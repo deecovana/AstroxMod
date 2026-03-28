@@ -16,3 +16,5 @@ NPC;-QTY;854;-3687;93.45625;Starbase Corporate Center;Void Starcross;4h 19m 24s 
 NPC;+QTY;5062;4671;64.70569;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;627;0;76.94316;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-PRICE;675;0;99.76199;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;11920;4366;81.9375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;675;0;101.3909;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

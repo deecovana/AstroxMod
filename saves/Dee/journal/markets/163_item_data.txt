@@ -20,3 +20,10 @@ NPC;BAL;96;0;21.79592;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821
 NPC;BAL;115;-126;34.12692;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;447;109;41.36719;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;182;0;27.05289;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;97;0;42.41058;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;-LOCAL;0;0;93.75;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+PRICE;246;0;30.25192;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+QTY;104;104;110.7422;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;349;145;40.85977;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+QTY;310;82;30.77379;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;52;52;42.95734;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74

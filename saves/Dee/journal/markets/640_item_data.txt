@@ -23,3 +23,10 @@ NPC;-QTY;28;-4;3454.469;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;33;-2;4455.431;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;25;4;2452.188;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+QTY;5;2;4997.188;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+PLAYER;-QTY;1;1;2918.281;Genistar;Blades of Dandrow;5h 13m 34s ;18814.38
+NPC;+PRICE;22;0;2678.849;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;15;2;4447.969;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;-QTY;10;-2;4303.172;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;13;3;4303.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;16;3;4303.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;7;4;4978.259;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45

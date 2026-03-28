@@ -1,19 +1,19 @@
 // PLAYER OPTIONS FILE FOR ASTROX IMPERIUM
 
 //GRAPHICS OPTIONS
-OPTION_ui_scale;0.67
+OPTION_ui_scale;0.6872753
 OPTIONS_mouse_scroll_sensitivity;2
-OPTION_cam_drag;3.194782
-OPTION_vsync;1
-OPTION_depth;True
-OPTION_fog;True
-OPTION_blur;True
-OPTION_bloom;True
+OPTION_cam_drag;4.432382
+OPTION_vsync;0
+OPTION_depth;False
+OPTION_fog;False
+OPTION_blur;False
+OPTION_bloom;False
 OPTION_exposure;False
-OPTION_skybox;True
-OPTION_particles;True
-OPTION_space_traffic;True
-OPTION_station_traffic;True
+OPTION_skybox;False
+OPTION_particles;False
+OPTION_space_traffic;False
+OPTION_station_traffic;False
 OPTIONS_ui_color_1;0.2330064,0.2330057,0.2091258,0.99
 OPTIONS_ui_color_2;0.1912575,0.1912575,0.1912571,0.94
 OPTIONS_ui_color_3;0.2238802,0.2147547,0.2,0.99
@@ -27,7 +27,7 @@ OPTIONS_invert_mouse;False
 OPTIONS_refinery_export_storage;False
 OPTION_bloom_brightness;0
 OPTIONS_3d_sound;0
-OPTIONS_cam_fov;64.83707
+OPTIONS_cam_fov;62.41854
 OPTIONS_target_panel_resize;0
 OPTIONS_enable_controller_inputs;False
 OPTIONS_market_popup;True

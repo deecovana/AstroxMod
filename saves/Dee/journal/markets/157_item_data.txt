@@ -13,3 +13,12 @@ NPC;BAL;65;-104;39.41885;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;510;93;37.85925;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+LOCAL;150;597;13.9425;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+QTY;117;81;18.98325;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;BAL;84;0;23.63081;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;65;0;38.67782;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+LOCAL;150;930;13.9425;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+PRICE;423;0;45.20078;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;249;99;4.82625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-44;41.21121;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;-QTY;0;-69;23.14857;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+LOCAL;150;347;13.9425;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+PRICE;65;0;40.91721;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

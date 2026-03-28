@@ -11,3 +11,8 @@ NPC;-QTY;0;-386;358.3125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15
 NPC;BAL;1409;1409;343.2045;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;2096;2015;360.8894;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;0;0;159.0523;Dustardz;Redsky;4h 52m 11s ;17531.62
+NPC;+PRICE;83;0;301.8237;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;131;0;193.4618;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+STOCK;2587;2493;195.1686;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;-QTY;0;-80;234.3578;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;1597;1453;157.722;Ferce;Allabentoris;7h 55m 5s ;28505.1

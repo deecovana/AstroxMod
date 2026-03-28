@@ -38,6 +38,7 @@ MERC;7;1.21;npc_ship_data_(pirate_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Sell Order for: (1) Items ;2397x100;62035;114643.20
 BUYORDER;Market Shortage: (1) Items ;4x355;58810;62287.53
 BUYORDER;Market Low Inventory: (1) Items ;8x102;90122;34044.53
 ITEM;1173;6;0.58

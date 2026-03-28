@@ -17,3 +17,5 @@ NPC;+PRICE;13;0;48994.9;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
 NPC;-QTY;32;-4;56187.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;28;-4;51276.3;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-PRICE;44;0;54690.45;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;BAL;4;-2;25039.31;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+QTY;7;3;25625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

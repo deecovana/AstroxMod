@@ -1,4 +1,55 @@
 //;LOG DATA FILE (Astrox Imperium)
+SELL;1;Electronic Fragment;108;107.9000;198430.923568606;Horizons;Gate of Alpharis;9h 39m 11s 
+SELL;145;Torim Ore;110;16006.2200;162546.92201221;StarGypsy Warehouse;Void Starcross;9h 36m 26s 
+SELL;488;Adamyte Ore;15.11;7373.3810;162220.69935596;Proctors Center;Void Starcross;8h 56m 59s 
+SELL;549;Adamyte Ore;12.79;7022.7590;143182.255020022;Horizons;Gate of Alpharis;8h 43m 18s 
+SELL;84;Adamyte Ore;13.00;1091.9990;136259.49623096;Horizons;Gate of Alpharis;8h 36m 38s 
+BUY;1;Blaster x3 Laser;2,726;2,726;135267.497451663;Biomate University;Void Starcross;8h 14m 22s 
+BUY;1;Plasma Beam Class 2;3,616;3,616;137993.400527835;Biomate University;Void Starcross;8h 12m 46s 
+SELL;1;Plasma Beam Class 1;1,841;1841.1250;141609.206924319;Biomate University;Void Starcross;8h 12m 30s 
+BUY;1;Salvage Collector 1;1,978;1,978;139789.682047009;Biomate University;Void Starcross;8h 9m 56s 
+SELL;499;Gradeon Ore;20.02;9989.8790;141767.44779408;StarGypsy Warehouse;Void Starcross;8h 4m 17s 
+SELL;171;Torim Ore;112;19216.3600;114050.76810658;StarGypsy Warehouse;Void Starcross;7h 38m 4s 
+SELL;493;Gradeon Ore;21.29;10497.8300;94959.4126378298;Tella's;Bitcola;7h 28m 58s 
+SELL;160;Salt Crystal;1.06;170.3519;51961.8179112673;Starbase Corporate Center;Void Starcross;6h 56m 28s 
+SELL;195;Hydrogen;1.51;294.6937;51791.4659672976;Starbase Corporate Center;Void Starcross;6h 56m 20s 
+SELL;672;Oxygen;0.29;196.9094;51496.7723027468;Starbase Corporate Center;Void Starcross;6h 56m 11s 
+SELL;772;Water;0.20;153.0490;51299.8629094362;Starbase Corporate Center;Void Starcross;6h 56m 4s 
+SELL;194;Magnetic Quartz;2.02;391.5403;51146.8139287233;Starbase Corporate Center;Void Starcross;6h 55m 55s 
+SELL;3;Ceramic;8.02;24.0572;50755.2735844851;Starbase Corporate Center;Void Starcross;6h 55m 47s 
+SELL;10;Nitrogen;7.36;73.5930;50731.2164365053;Starbase Corporate Center;Void Starcross;6h 55m 41s 
+SELL;11;Copperi Cubex;7.90;86.9440;50657.6234418154;Starbase Corporate Center;Void Starcross;6h 55m 32s 
+SELL;18;Iron Coring;7.54;135.7200;50570.6794492006;Starbase Corporate Center;Void Starcross;6h 55m 22s 
+SELL;4;Acidic Residue;11.90;47.5904;50434.9594784975;Starbase Corporate Center;Void Starcross;6h 55m 14s 
+SELL;8;Oil;3.69;29.4892;50387.3690778017;Starbase Corporate Center;Void Starcross;6h 55m 5s 
+SELL;752;Carbon;0.31;230.9579;50357.8798810244;Starbase Corporate Center;Void Starcross;6h 54m 58s 
+SELL;2;Ore Harvester 1;2,632;5264.9860;28230.001630187;Lacuna Bandits;Ballast Crow;6h 35m 43s 
+SELL;1;Ore Harvester 2;5,801;5801.2500;22978.8153017759;Lacuna Bandits;Ballast Crow;6h 35m 35s 
+BUY;1;Ore Harvester 3;9,689;9,689;17255.8653002977;Lacuna Bandits;Ballast Crow;6h 34m 49s 
+SELL;3;Ore Harvester 1;292;877.4995;29776.5996838808;Lammassu Financial;Void Starcross;6h 4m 43s 
+BUY;2;Ore Harvester 3;14,713;29,426;28949.1002331972;StarShepards Headquarters;Void Starcross;6h 0m 58s 
+SELL;2;Basic Cargo Expansion;157;314.4439;58463.5127373934;Starbase Corporate Center;Void Starcross;5h 56m 37s 
+BUY;2;Improved Cargo Expansion;4,451;8,902;58149.0687981844;Starbase Corporate Center;Void Starcross;5h 56m 13s 
+SELL;122;Torim Ore;114;13952.6400;73196.4369622469;StarGypsy Warehouse;Void Starcross;5h 42m 16s 
+SELL;80;Adamyte Ore;6.45;515.8397;59243.7953606844;StarGypsy Warehouse;Void Starcross;5h 42m 2s 
+SELL;36;Oil;5.22;187.785;58752.9556390047;StarGypsy Warehouse;Void Starcross;5h 30m 42s 
+SELL;15;Acidic Residue;6.52;97.812;58565.1706658602;StarGypsy Warehouse;Void Starcross;5h 30m 42s 
+SELL;11;Ceramic;12.08;132.9185;58467.3586694002;StarGypsy Warehouse;Void Starcross;5h 30m 42s 
+SELL;18;Copperi Cubex;7.71;138.7152;58334.4401665926;StarGypsy Warehouse;Void Starcross;5h 30m 42s 
+SELL;24;Nitrogen;5.11;122.5224;58195.7249871492;StarGypsy Warehouse;Void Starcross;5h 30m 42s 
+SELL;28;Iron Coring;7.15;200.2;58073.2025948763;StarGypsy Warehouse;Void Starcross;5h 30m 42s 
+SELL;448;Carbon;0.56;251.1599;57873.0026131868;StarGypsy Warehouse;Void Starcross;5h 29m 16s 
+SELL;218;Hydrogen;0.80;173.5825;57621.8426858187;StarGypsy Warehouse;Void Starcross;5h 29m 9s 
+SELL;248;Magnetic Quartz;2.04;504.8782;57448.2602120638;StarGypsy Warehouse;Void Starcross;5h 28m 58s 
+SELL;368;Oxygen;0.48;178.2518;56943.3820382357;StarGypsy Warehouse;Void Starcross;5h 28m 53s 
+SELL;205;Salt Crystal;0.68;139.9125;56773.1802222729;StarGypsy Warehouse;Void Starcross;5h 28m 46s 
+SELL;428;Water;0.20;87.6330;56643.6177617311;StarGypsy Warehouse;Void Starcross;5h 28m 41s 
+BUY;2;Basic Cargo Expansion;2,428;4,855;56973.134765625;Genistar;Blades of Dandrow;5h 14m 59s 
+BUY;3;Ore Harvester 1;4,831;14,494;61828.4223632813;Genistar;Blades of Dandrow;5h 14m 47s 
+BUY;1;Basic Filter;5,368;5,368;76322.7817382813;Genistar;Blades of Dandrow;5h 13m 47s 
+BUY;1;Disposables;3,968;3,968;81691.0625;Genistar;Blades of Dandrow;5h 13m 42s 
+BUY;1;Thermal Controller;2,918;2,918;85659.34375;Genistar;Blades of Dandrow;5h 13m 34s 
+BUY;1;Noodles;6,637;6,637;88577.625;Genistar;Blades of Dandrow;5h 13m 26s 
 BUY;3;Ion Beam Class 3;2,900;8,700;59167.0234375;Starbase Corporate Center;Void Starcross;4h 13m 49s 
 BUY;1;Improved Filter;4,509;4,509;67942.0234375;Biomate University;Void Starcross;3h 53m 5s 
 BUY;1;Containment Unit;5,209;5,209;72450.7734375;Biomate University;Void Starcross;3h 52m 32s 

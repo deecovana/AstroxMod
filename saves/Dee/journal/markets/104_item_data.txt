@@ -21,3 +21,14 @@ NPC;BAL;168;0;2.606797;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;1004;190;1.05975;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;987;0;2.672558;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+QTY;239;207;2.779481;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+PLAYER;+QTY;749;248;2.844872;StarGypsy Warehouse;Void Starcross;5h 28m 58s ;19738.76
+NPC;+PRICE;748;0;2.629756;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;106;0;3.182412;Dustardz;Redsky;5h 41m 50s ;20510.81
+NPC;+PRICE;237;0;1.075422;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;+PRICE;652;0;2.364877;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;1219;215;1.05975;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+PLAYER;+QTY;368;194;2.818125;Starbase Corporate Center;Void Starcross;6h 55m 55s ;24955.27
+NPC;-QTY;140;-151;2.350713;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+LOCAL;250;552;0.8775001;Tella's;Bitcola;7h 28m 52s ;26932.76
+NPC;+LOCAL;250;27;0.8775001;Tella's;Bitcola;7h 35m 32s ;27332.98
+NPC;+PRICE;168;0;2.713145;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

@@ -21,3 +21,7 @@ NPC;+QTY;12;3;101725;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;24;3;76844.63;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;10;3;61156.88;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;-PRICE;40;0;106713.2;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;16;0;69587.96;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;14;0;99817.7;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;21;4;83687.5;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;16;4;101725;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

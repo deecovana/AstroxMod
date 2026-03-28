@@ -22,3 +22,15 @@ NPC;-QTY;1013;-145;0.35305;Starbase Corporate Center;Void Starcross;4h 19m 24s ;
 NPC;+QTY;1036;146;0.4439;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;492;241;0.9131;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;-PRICE;721;0;0.8273968;Cecil;Junia;4h 51m 22s ;17482.65
+PLAYER;+QTY;927;368;0.6473638;StarGypsy Warehouse;Void Starcross;5h 28m 53s ;19733.46
+NPC;+PRICE;244;0;0.419317;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;BAL;242;0;0.8755301;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;BAL;98;-213;0.5667104;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;516;0;0.9343247;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+PRICE;801;0;0.9039254;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;1257;221;0.4439;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+PLAYER;+QTY;1685;672;0.35305;Starbase Corporate Center;Void Starcross;6h 56m 11s ;24971.87
+NPC;-QTY;0;-64;0.6804263;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;1533;186;0.5249836;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;431;228;0.4973836;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;98;0;0.5800211;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

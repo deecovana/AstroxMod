@@ -7,3 +7,4 @@ NPC;+STOCK;14;4;567233.9;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;47;4;720312;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;14;4;729028.4;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;41;-3;356206.1;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+QTY;42;4;869501.2;Vo Industries;Brimstone;7h 55m 5s ;28505.1

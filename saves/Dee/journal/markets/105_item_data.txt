@@ -21,3 +21,9 @@ NPC;-QTY;740;-202;10.8375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1
 NPC;BAL;589;-151;10.57967;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;900;147;4.425;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;702;206;5.2375;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+PLAYER;+QTY;1241;28;9.936563;StarGypsy Warehouse;Void Starcross;5h 30m 42s ;19842.94
+NPC;+PRICE;650;0;8.849401;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;828;143;11.4375;Psybermind;Ion Child;6h 44m 29s ;24269.91
+PLAYER;+QTY;607;18;10.5375;Starbase Corporate Center;Void Starcross;6h 55m 22s ;24922.67
+NPC;+LOCAL;68;24;6.793727;Tella's;Bitcola;7h 35m 32s ;27332.98
+NPC;+STOCK;928;188;5.960258;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

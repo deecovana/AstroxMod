@@ -8,3 +8,8 @@ NPC;-QTY;0;-1;2288.773;Terra Drone;Geminey;4h 11m 42s ;15102.06
 NPC;+STOCK;54;11;2010.917;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;14;-7;2041.975;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;BAL;7;7;2127.712;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;BAL;5;-9;2283.247;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+STOCK;11;10;1115.085;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;22;0;2074.097;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;36;0;2387.897;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+PRICE;5;0;2348.466;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

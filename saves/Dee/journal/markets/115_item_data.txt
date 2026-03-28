@@ -14,3 +14,5 @@ NPC;+STOCK;1239;185;18.56196;Starbase Corporate Center;Void Starcross;4h 12m 27s
 NPC;+STOCK;1561;226;10.23131;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;900;-154;18.8715;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;714;-186;19.65686;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;194;0;28.16796;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;978;156;14.697;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

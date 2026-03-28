@@ -18,3 +18,10 @@ NPC;-QTY;258;-645;53.06275;Starbase Corporate Center;Void Starcross;4h 19m 24s ;
 NPC;-QTY;0;-3;82.2534;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;258;0;58.47732;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;2339;675;44.6745;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+LOCAL;1000;1380;24.505;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.13
+NPC;+LOCAL;1000;162;24.505;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;+LOCAL;1000;225;24.505;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+QTY;3327;988;44.6745;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;1000;309;24.505;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+STOCK;870;856;61.1248;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+LOCAL;1000;1036;24.505;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

@@ -18,3 +18,7 @@ NPC;-LOCAL;0;0;70.16122;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
 NPC;BAL;170;-903;37.61349;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;1740;890;25.06825;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;814;789;29.57863;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;-LOCAL;0;0;93.46597;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
+NPC;+PRICE;32;0;31.78795;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;2476;736;25.06825;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-LOCAL;0;0;127.25;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05

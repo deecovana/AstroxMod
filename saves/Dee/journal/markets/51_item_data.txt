@@ -5,3 +5,7 @@ NPC;+STOCK;2186;2074;19.70499;StarShepards Headquarters;Void Starcross;4h 12m 27
 NPC;+STOCK;4468;2293;35.1608;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;153;0;28.35011;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;+QTY;4509;2090;36.9635;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+QTY;6177;1668;36.9635;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;2112;2000;27.23071;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;2506;2356;35.22257;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;179;0;37.52203;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29

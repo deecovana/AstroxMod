@@ -14,3 +14,12 @@ NPC;-PRICE;208;0;86.12116;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.7
 NPC;BAL;81;0;71.12843;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+PRICE;165;0;58.0846;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;251;75;46.50008;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;583;0;56.42477;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;81;0;68.92039;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;256;0;52.43976;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;209;108;82.4524;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+LOCAL;47;18;58.25661;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
+NPC;+STOCK;421;118;76.2462;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+STOCK;191;144;40.94874;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;379;0;62.80734;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;+LOCAL;69;22;53.11941;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27

@@ -11,3 +11,6 @@ NPC;BAL;79;-8;1574.664;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1682
 NPC;+QTY;72;9;1127.781;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;10;7;2431.25;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+QTY;13;10;1059.375;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+PRICE;33;0;1357.823;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;10;0;2329.579;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+LOCAL;12;8;812.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25

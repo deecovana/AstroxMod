@@ -12,3 +12,6 @@ NPC;BAL;65;0;28.92186;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;BAL;2381;2381;41.33139;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;1863;1766;31.87606;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;-PRICE;169;0;23.49494;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;BAL;86;0;45.11059;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;BAL;65;0;31.66637;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;65;0;33.24988;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

@@ -4,3 +4,6 @@ NPC;+QTY;13;8;1006.742;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+QTY;11;7;1170.356;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+STOCK;16;9;826.8913;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;27;0;541.386;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+PRICE;9;0;1331.886;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;34;7;541.9529;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+PRICE;5;0;1223.65;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

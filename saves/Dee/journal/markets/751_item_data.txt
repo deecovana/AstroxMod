@@ -12,3 +12,5 @@ NPC;+QTY;90;8;27919.69;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+QTY;73;11;45050.06;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;151;0;27308.76;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;164;0;24435.49;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;18;0;50379.7;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;116;7;41062.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

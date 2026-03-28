@@ -6,3 +6,11 @@ NPC;+PRICE;333;0;265.4008;Medicore University;Cliffs of Drameria;2h 29m 20s ;896
 NPC;+QTY;159;148;315.095;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+STOCK;457;129;284.146;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;581;-93;355.6342;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+LOCAL;150;184;121.55;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.13
+NPC;+LOCAL;150;23;121.55;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;+LOCAL;150;48;121.55;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+QTY;539;113;233.2825;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;649;108;273.955;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;150;161;121.55;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+LOCAL;150;41;121.55;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+LOCAL;150;165;121.55;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

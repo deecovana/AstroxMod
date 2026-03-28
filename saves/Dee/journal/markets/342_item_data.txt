@@ -16,3 +16,12 @@ NPC;-QTY;237;-591;14.74187;Starbase Corporate Center;Void Starcross;4h 19m 24s ;
 NPC;BAL;237;0;16.76265;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;2631;976;16.54525;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;811;773;10.33048;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+LOCAL;923;872;7.4425;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.13
+NPC;+LOCAL;1000;150;7.4425;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;+LOCAL;1000;256;7.4425;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+QTY;642;602;11.53588;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;3198;567;16.54525;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;1000;1261;7.4425;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+LOCAL;1000;366;7.4425;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+PRICE;76;0;18.25351;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+LOCAL;1000;1642;7.4425;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

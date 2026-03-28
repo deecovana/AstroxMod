@@ -20,3 +20,8 @@ NPC;BAL;55;-10;7669.122;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;+QTY;141;9;4237.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;31;0;9077.665;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;152;0;11080.59;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;43;0;15897.19;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;148;11;10406.25;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;52;8;14243.91;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+QTY;42;11;11709.52;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+STOCK;42;12;16066.11;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45

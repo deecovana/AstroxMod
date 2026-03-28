@@ -16,3 +16,8 @@ NPC;-QTY;0;-73;72.06925;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
 NPC;-QTY;0;-2428;56.99125;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;1850;1850;59.74624;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;6825;2197;42.5415;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+PRICE;47;0;45.94722;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;+PRICE;97;0;71.34647;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;1914;1843;65.60725;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;8616;1791;42.5415;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;1731;1706;63.94755;Ferce;Allabentoris;7h 55m 5s ;28505.1

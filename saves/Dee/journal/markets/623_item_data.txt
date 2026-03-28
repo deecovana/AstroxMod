@@ -15,3 +15,8 @@ NPC;+STOCK;11;3;38464.14;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15
 NPC;BAL;6;-2;41198.66;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;18;2;18625;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;29;2;31055.63;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+LOCAL;5;1;16250;StarShepards Headquarters;Void Starcross;5h 59m 41s ;21581.04
+NPC;+PRICE;15;0;40161;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+PRICE;20;0;41752.97;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;32;2;50187.5;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;21;3;18625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

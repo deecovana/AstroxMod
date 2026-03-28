@@ -12,3 +12,11 @@ NPC;+QTY;931;141;75.14;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;340;130;92.6757;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;211;0;46.32996;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;282;75;44.6615;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+PRICE;419;0;80.76263;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+PRICE;215;0;76.8749;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+PRICE;250;0;39.86675;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;1065;134;75.14;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;20;-95;75.98597;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;168;148;75.98597;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;215;0;80.58691;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;+PRICE;132;0;58.55417;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

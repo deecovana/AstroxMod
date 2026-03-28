@@ -10,3 +10,6 @@ NPC;+STOCK;109;10;88894.98;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;125;-10;107089.4;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+QTY;95;14;82250;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;64;14;78111.25;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+QTY;98;9;104375;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+STOCK;112;13;97536.53;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;91;0;61624.36;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

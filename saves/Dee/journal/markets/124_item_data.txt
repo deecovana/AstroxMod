@@ -12,3 +12,7 @@ NPC;-QTY;119;-208;69.05937;Starbase Corporate Center;Void Starcross;4h 19m 24s ;
 NPC;BAL;119;0;71.25024;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-PRICE;407;0;120.1331;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;595;0;93.52444;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+STOCK;334;166;61.63412;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;788;166;109.0344;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+LOCAL;186;18;80.12804;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
+NPC;+PRICE;595;0;97.14779;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

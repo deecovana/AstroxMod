@@ -10,3 +10,9 @@ NPC;+STOCK;706;114;1924.048;Starbase Corporate Center;Void Starcross;4h 12m 27s 
 NPC;-QTY;479;-113;2004.995;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;391;-88;1932.048;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;992;113;1152.069;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+LOCAL;150;21;878.0712;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;+LOCAL;150;36;642.785;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+QTY;1133;141;1152.069;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;150;142;642.785;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+LOCAL;150;36;642.785;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;+LOCAL;150;188;642.785;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

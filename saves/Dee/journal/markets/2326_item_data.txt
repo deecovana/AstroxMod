@@ -3,3 +3,5 @@ NPC;-PRICE;31;0;215813.9;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+STOCK;63;2;89881.33;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;37;0;185672;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.865
 NPC;+STOCK;63;2;92561.96;Biomate University;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;20;1;122969.2;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;3;0;111590.8;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

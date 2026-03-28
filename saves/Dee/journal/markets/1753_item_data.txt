@@ -3,3 +3,6 @@ NPC;+PRICE;14;0;94327.91;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;BAL;23;-11;76424.03;Kith;Kidd Overture;2h 58m 0s ;10680.39
 NPC;+STOCK;22;10;84973.95;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;26;0;126551.5;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+LOCAL;12;17;51862.23;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
+NPC;+LOCAL;12;2;51862.23;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;+PRICE;26;0;134252.1;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

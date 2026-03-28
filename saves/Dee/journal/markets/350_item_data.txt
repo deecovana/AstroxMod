@@ -31,3 +31,6 @@ NPC;BAL;38;0;32.61031;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821
 NPC;+QTY;2273;565;21.81225;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;875;820;21.75939;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;-PRICE;42;0;17.68458;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;-LOCAL;0;0;95.25;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;-LOCAL;59;59;42.8625;Biomate University;Void Starcross;8h 8m 25s ;29305.03
+NPC;+PRICE;42;0;19.0365;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29

@@ -5,3 +5,5 @@ NPC;+STOCK;3992;3742;553.7405;Biomate University;Void Starcross;2h 26m 24s ;8784
 NPC;+STOCK;3742;3690;1716.322;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;8186;4444;1698.86;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-LOCAL;0;0;3725;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
+NPC;-LOCAL;5193;0;1676.25;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
+NPC;-LOCAL;4959;0;1676.25;Proctors Center;Void Starcross;8h 56m 46s ;32206.3

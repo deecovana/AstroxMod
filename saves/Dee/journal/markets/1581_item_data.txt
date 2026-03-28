@@ -7,3 +7,4 @@ NPC;+PRICE;13;0;7818.04;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
 NPC;+STOCK;63;10;10206.24;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;68;8;9742.619;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;66;0;11274.32;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+STOCK;24;9;10710.44;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45

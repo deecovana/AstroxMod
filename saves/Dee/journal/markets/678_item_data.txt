@@ -18,3 +18,6 @@ NPC;+QTY;25;20;17812.5;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;41;16;17812.5;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;113;19;20527.81;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;20;18;21843.75;Blissheads;Estura Cove;4h 50m 45s ;17445.84
+NPC;+PRICE;8;0;27836.54;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+STOCK;93;19;20899.23;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;126;18;18062.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91

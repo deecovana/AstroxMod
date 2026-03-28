@@ -20,3 +20,6 @@ NPC;BAL;165;-108;103.4224;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;350;76;47.64375;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;561;146;93.60553;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+PRICE;151;0;123.4691;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;433;83;47.64375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;37;-75;122.5033;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;164;127;122.5033;Ferce;Allabentoris;7h 55m 5s ;28505.1

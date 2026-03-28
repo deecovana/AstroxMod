@@ -11,3 +11,9 @@ NPC;+PRICE;349;0;32.9822;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
 NPC;-QTY;114;-144;39.73541;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;69;0;60.45188;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;378;129;24.20712;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
+NPC;BAL;69;0;57.99266;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;17;0;47.62053;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;886;134;54.095;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;202;138;45.91933;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+STOCK;479;101;22.16921;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;69;0;59.89663;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

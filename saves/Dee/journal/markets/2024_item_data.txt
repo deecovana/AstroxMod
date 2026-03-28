@@ -5,3 +5,7 @@ NPC;BAL;92;-97;704.1672;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;+STOCK;278;128;676.6211;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;359;0;715.5479;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-PRICE;738;0;519.9776;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+LOCAL;150;32;484.2883;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
+NPC;+LOCAL;150;35;251.03;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
+NPC;+LOCAL;150;141;251.03;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
+NPC;+LOCAL;150;214;251.03;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13

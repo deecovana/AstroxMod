@@ -22,3 +22,7 @@ NPC;+QTY;3382;1529;265.1;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;2594;2468;215.7925;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+QTY;1922;1851;493.2895;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;1280;1261;348.7;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;+QTY;8778;1834;304.7;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;1946;1611;405.0791;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+STOCK;4526;1932;195.3227;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;136;0;208.8569;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29

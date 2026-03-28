@@ -19,3 +19,6 @@ NPC;+QTY;34;6;1340.885;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;15;7;780.325;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;19;11;692.7375;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;-PRICE;10;0;1431.785;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+LOCAL;12;11;414.05;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;+QTY;40;6;1340.885;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;12;18;414.05;Biomate University;Void Starcross;8h 8m 25s ;29305.03

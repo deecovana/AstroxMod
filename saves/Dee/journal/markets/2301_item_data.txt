@@ -3,3 +3,5 @@ NPC;BAL;8;-1;220175;Blargg's;Beacon Spita;1h 53m 54s ;6834.967
 NPC;+STOCK;35;2;193526.9;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;38;0;160863;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+STOCK;37;2;186849.5;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;BAL;6;-2;209633.3;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+PRICE;6;0;218434.2;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

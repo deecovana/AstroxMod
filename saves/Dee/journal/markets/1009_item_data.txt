@@ -8,3 +8,5 @@ NPC;+STOCK;39;10;1039.093;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;39;11;909.4309;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;37;0;1836.663;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;BAL;9;0;1396.284;Terra Drone;Geminey;4h 40m 21s ;16821.04
+NPC;+PRICE;11;0;972.1816;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;-QTY;5;-9;1035.396;Ferce;Allabentoris;7h 28m 42s ;26922.34

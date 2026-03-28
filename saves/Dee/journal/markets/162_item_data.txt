@@ -11,3 +11,10 @@ NPC;-QTY;0;-62;28.06913;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
 NPC;BAL;163;-107;28.02417;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;713;93;27.92344;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;84;0;9.944674;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+PRICE;350;0;21.53305;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;BAL;57;-106;25.78413;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;-LOCAL;58;58;29.1375;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+PRICE;132;0;25.30618;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;379;122;27.98843;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-LOCAL;42;42;29.1375;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+STOCK;178;147;12.74314;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

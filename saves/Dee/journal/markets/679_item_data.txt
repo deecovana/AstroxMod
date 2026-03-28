@@ -8,3 +8,4 @@ NPC;+STOCK;44;19;72689.56;StarShepards Headquarters;Void Starcross;4h 12m 27s ;1
 NPC;-PRICE;21;0;60714.8;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;-PRICE;14;0;90745.48;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
 NPC;+QTY;30;14;100593.8;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;+PRICE;54;0;69159.39;Gunstellar;Adrenal;5h 41m 50s ;20510.81

@@ -8,3 +8,6 @@ NPC;+STOCK;120;11;9030.586;Starbase Corporate Center;Void Starcross;4h 12m 27s ;
 NPC;+LOCAL;12;35;7117.5;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
 NPC;+PRICE;27;0;9476.451;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
 NPC;BAL;12;0;4575.439;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+LOCAL;12;13;7117.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+LOCAL;12;8;7117.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;+QTY;46;11;19723.89;Vo Industries;Brimstone;7h 55m 5s ;28505.1

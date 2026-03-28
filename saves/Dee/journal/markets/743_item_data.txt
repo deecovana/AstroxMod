@@ -14,3 +14,8 @@ NPC;+STOCK;180;10;78058.27;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;124;-10;97968.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;-PRICE;49;0;64098.45;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+QTY;101;13;96112.51;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;BAL;24;-12;131537.8;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
+NPC;+PRICE;111;0;154355;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;54;14;134268.8;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;109;8;96112.51;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;43;13;127154.7;Ferce;Allabentoris;7h 55m 5s ;28505.1

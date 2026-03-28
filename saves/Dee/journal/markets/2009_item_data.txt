@@ -10,3 +10,5 @@ NPC;BAL;150;0;110.6999;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1682
 NPC;+QTY;733;117;489.3699;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;654;89;328.3039;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;96;94;266.2796;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+LOCAL;51;15;391.289;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
+NPC;+LOCAL;150;145;180.505;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25

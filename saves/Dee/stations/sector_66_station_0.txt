@@ -43,6 +43,9 @@ MERC;8;0.50;npc_ship_data_(transport_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Shortage: (2) Items ;406x424,406x194;35897;36213.48
+SELLORDER;Sale Request Order: (3) Items ;159x221,204x161,1070x8;250486;83118.38
+
 SELLORDER;Looking to Sell (1) Items ;1115x2;37071;57504.95
 SELLORDER;Sell Order for: (1) Items ;2386x92;17117;14488.95
 ITEM;1470;4;0.96

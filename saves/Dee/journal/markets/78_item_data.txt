@@ -20,3 +20,6 @@ NPC;+QTY;1490;1410;219.9393;Temple of the Void;Valley of Truths;4h 47m 5s ;17225
 NPC;+QTY;1821;1632;192.4893;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;192;0;191.8073;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+QTY;1441;1441;220.7437;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
+NPC;+PRICE;2223;0;214.0431;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;8349;1991;159.3625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-31;237.7761;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34

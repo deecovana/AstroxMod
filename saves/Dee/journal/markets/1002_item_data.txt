@@ -11,3 +11,5 @@ NPC;BAL;12;0;559.0248;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821
 NPC;+QTY;56;6;1285.335;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;11;7;1156.5;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+QTY;42;11;772.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
+NPC;+PRICE;33;0;1219.141;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+STOCK;39;8;1257.373;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45

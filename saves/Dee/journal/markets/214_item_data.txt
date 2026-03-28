@@ -19,3 +19,11 @@ NPC;+STOCK;280;130;14.90389;Biomate University;Void Starcross;4h 12m 27s ;15147.
 NPC;+STOCK;924;102;98.26184;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;642;144;94.84416;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;1030;106;97.71526;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+LOCAL;150;213;40.0725;Biomate University;Void Starcross;6h 9m 3s ;22143.94
+NPC;+STOCK;373;107;91.92106;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
+NPC;+QTY;239;127;117.5974;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;+QTY;858;130;127.4614;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+LOCAL;150;198;40.0725;Biomate University;Void Starcross;8h 8m 25s ;29305.03
+NPC;-LOCAL;0;0;183.0695;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
+NPC;+STOCK;101;101;190.6514;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-LOCAL;0;0;198.7363;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27

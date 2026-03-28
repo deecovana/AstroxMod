@@ -9,3 +9,9 @@ NPC;+STOCK;48;11;108787.8;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.9
 NPC;+STOCK;125;12;191990;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;33;-11;202562.6;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;47;10;103125;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;+PRICE;37;0;112955.7;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+PRICE;84;0;143894.8;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;192;7;128437.5;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;55;8;103125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;29;0;200362.1;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+PRICE;33;0;213016.6;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

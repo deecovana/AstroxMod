@@ -5,3 +5,7 @@ NPC;+PRICE;63;0;6476.546;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
 NPC;+STOCK;106;10;4864.801;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;19;0;10802.99;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;+QTY;30;11;10761.54;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+LOCAL;12;11;3152.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+PRICE;20;0;6105.091;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+QTY;38;8;4789.375;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+LOCAL;12;9;3152.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25

@@ -13,3 +13,8 @@ NPC;-QTY;78;-9;922.58;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564
 NPC;BAL;72;-6;1119.611;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;11;0;2561.49;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;71;9;1727.8;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;BAL;11;0;2369.259;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+QTY;78;7;1727.8;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;5;-8;1329.02;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;30;9;2270.615;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;11;0;2431.663;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

@@ -17,3 +17,8 @@ NPC;+QTY;454;113;11.65175;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;194;107;13.65875;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+STOCK;203;104;8.415668;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;412;0;18.30554;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;BAL;96;-98;12.20368;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
+NPC;+LOCAL;150;700;7.2475;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
+NPC;+QTY;240;90;2.50875;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;150;348;7.2475;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+PRICE;96;0;12.73616;Blargg's;Beacon Spita;9h 36m 0s ;34560.29

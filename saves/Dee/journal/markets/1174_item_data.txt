@@ -9,3 +9,6 @@ NPC;-QTY;6;-6;6670;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;6;0;9976.255;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;53;9;51156;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;86;0;36496.52;Cecil;Junia;4h 51m 22s ;17482.65
+NPC;+PRICE;31;0;26155;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+LOCAL;12;14;15080;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+LOCAL;12;12;15080;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25

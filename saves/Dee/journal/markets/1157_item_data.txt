@@ -5,3 +5,4 @@ NPC;+QTY;27;8;145199.3;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+LOCAL;12;36;99872.5;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15162.17
 NPC;-QTY;5;-7;44174.38;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;5;0;50741.7;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+LOCAL;12;10;99872.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
