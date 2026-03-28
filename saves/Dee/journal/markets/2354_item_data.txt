@@ -1,3 +1,6 @@
 NPC;+QTY;25;1;23350.87;Psybermind;Ion Child;2h 36m 11s ;9371.667
 NPC;+STOCK;71;2;27885.89;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;73;2;27753.54;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;75;2;25951.3;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;77;2;24951.58;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;25;0;25551.97;Psybermind;Ion Child;14h 10m 55s ;51055.01

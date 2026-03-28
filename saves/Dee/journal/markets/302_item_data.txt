@@ -39,3 +39,27 @@ NPC;-LOCAL;779;0;63.7875;CoraVault;Lins;7h 55m 14s ;28514.54
 NPC;+STOCK;1766;732;34.47458;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;18;0;58.99408;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;128;-832;52.69131;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;2451;620;47.18751;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;1089;522;53.51417;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;55;0;30.77198;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;128;0;55.36775;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;1013;980;29.40012;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;25;0;34.97932;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+PRICE;12;0;50.10253;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;966;838;53.52411;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3265;814;44.76167;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2760;955;43.37887;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;885;885;22.14903;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1766;0;33.84088;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;2;0;30.64927;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;-PRICE;1856;0;32.248;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;BAL;3;0;32.52576;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;BAL;17;0;41.62382;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;BAL;3;0;40.87511;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+STOCK;1942;976;53.08967;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3637;903;35.49557;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4254;989;43.01461;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3579;819;41.52692;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;849;849;21.54715;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2614;758;31.04243;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;48;0;38.69794;Foodmaid;Daelus;14h 12m 27s ;51147.38

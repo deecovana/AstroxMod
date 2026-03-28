@@ -16,3 +16,14 @@ NPC;+QTY;41;2;829335;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;1;0;1003786;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;+STOCK;45;3;668522.6;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+STOCK;30;4;448544.7;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+QTY;18;2;1250678;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;22;4;1201149;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;144;3;1150555;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;103;3;1026479;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;30;0;400035.5;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;103;0;980870.4;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;148;4;1153065;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;7;3;601207.1;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;25;3;1168406;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;152;4;1111209;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;106;3;946678.5;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

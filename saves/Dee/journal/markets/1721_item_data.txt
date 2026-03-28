@@ -8,3 +8,5 @@ NPC;+PRICE;1;0;2427.248;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
 NPC;-QTY;70;-7;2391.724;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+QTY;67;7;1606.867;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;75;8;1606.867;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;85;10;1431.348;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;93;8;1243.7;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31

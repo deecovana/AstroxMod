@@ -17,3 +17,18 @@ NPC;+STOCK;128;12;6671.799;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;155;0;6062.207;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;-PRICE;89;0;11043.42;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;-QTY;20;-9;12743.91;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+QTY;48;8;14239.5;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+PRICE;54;0;15042.64;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;110;13;14996.12;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;63;12;13685.2;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;139;11;6054.882;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;61;13;14224.5;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;-PRICE;139;0;5766.289;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;73;10;13663.31;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;121;11;14695.65;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;85;12;13098.7;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;149;10;5159.1;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;61;0;14705.86;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;BAL;43;-11;13584.73;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;BAL;6;-11;9307.01;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;BAL;11;-10;12994.4;Foodmaid;Daelus;14h 12m 27s ;51147.38

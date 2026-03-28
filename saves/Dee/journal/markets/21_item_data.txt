@@ -45,3 +45,25 @@ NPC;-LOCAL;79;79;228.5586;Starbase Corporate Center;Void Starcross;6h 54m 38s ;2
 NPC;-QTY;0;-31;134.8984;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;+QTY;4668;4468;227.6586;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;1810;-3142;167.86;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;14422;4916;174.4463;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;8560;4230;163.4531;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;-LOCAL;28;28;231.0345;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;1810;0;176.9272;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;123;0;176.816;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;-LOCAL;40;40;225;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;16677;3627;69.71202;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;18071;3649;168.1035;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;12427;4445;117.9083;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3494;3454;231.4447;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;33;0;225;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+QTY;5071;4619;228.4531;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+QTY;4466;4340;146.4462;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;16873;4446;118.1775;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;6001;4191;173.9976;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;21356;4679;65.55585;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;21687;3616;158.6763;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;20283;3410;110.2129;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3812;3779;231.1659;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;11943;3376;93.42704;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;2691;2691;220.4362;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;-LOCAL;18;18;234.3219;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

@@ -8,3 +8,8 @@ NPC;+QTY;57;2;1238.64;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;25;-1;1223.832;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;26;1;1223.832;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;28;0;1425.765;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;+PRICE;29;0;791.5698;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;42;2;661.3911;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;43;1;662.5476;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;59;2;1204.71;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;45;2;614.3628;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

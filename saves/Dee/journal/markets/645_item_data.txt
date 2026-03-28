@@ -16,3 +16,16 @@ NPC;+QTY;13;4;170667;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;21;4;159000;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+STOCK;6;3;200629.6;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-QTY;10;-4;98553;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;41;4;137335.5;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;48;3;115329.7;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;25;4;147760.3;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;45;4;133923;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;11;3;116797.1;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;17;3;234351.1;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;17;0;228291.8;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;14;2;96213;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;14;4;94139.66;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;52;4;106511.5;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;49;4;126818.4;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;11;3;109151.2;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;21;4;222922.9;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

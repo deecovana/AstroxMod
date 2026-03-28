@@ -24,3 +24,13 @@ NPC;+LOCAL;51;11;70.53043;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;+STOCK;181;130;51.14072;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;328;0;54.41986;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;+PRICE;114;0;56.90838;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;475;130;65.15987;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;180;139;58.27885;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;153;0;35.34022;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+LOCAL;150;135;27.0725;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
+NPC;+STOCK;1022;105;56.31267;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;616;141;63.62506;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;151;100;93.58443;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+STOCK;1169;147;54.13772;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;725;109;61.97179;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;125;0;83.30643;Psybermind;Ion Child;14h 10m 55s ;51055.01

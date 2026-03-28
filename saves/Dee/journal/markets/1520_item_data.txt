@@ -16,3 +16,6 @@ NPC;+QTY;93;9;927.7186;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;42;0;1168.444;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;6;0;841.6177;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;0;-6;1151.515;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+STOCK;43;9;688.1508;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;BAL;6;6;1079.316;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+PRICE;21;0;933.3271;PharmaLife;Carioullis;14h 10m 55s ;51055.01

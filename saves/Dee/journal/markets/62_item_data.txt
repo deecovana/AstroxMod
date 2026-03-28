@@ -25,3 +25,13 @@ NPC;+STOCK;2033;1908;142.3605;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;-QTY;0;-37;68.68881;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;1749;1749;68.68881;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;558;-1783;67.10201;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;92;0;133.2872;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+PRICE;558;0;71.68624;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;121;0;155.4906;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;2848;2290;69.57164;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;5169;1680;108.4502;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4349;1898;89.45311;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;2315;2290;57.93375;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;7391;2222;106.3585;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4502;2051;86.88326;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6070;1971;147.0937;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

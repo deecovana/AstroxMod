@@ -17,3 +17,11 @@ NPC;+PRICE;27;0;2229.996;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;30;6;1756.625;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+PRICE;11;0;1201.999;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+PRICE;73;0;2486.129;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;42;0;1608.777;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;74;10;1216.199;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;40;10;1503.776;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;41;9;1068.925;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;40;9;1615.132;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+STOCK;85;11;1186.741;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;41;11;1462.121;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;42;0;1700.89;Gunstellar;Adrenal;14h 10m 55s ;51055.01

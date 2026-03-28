@@ -1,2 +1,5 @@
 NPC;+STOCK;59;2;3920184;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;61;2;3823796;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;62;1;3802700;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;64;2;3709040;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;66;2;3548450;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

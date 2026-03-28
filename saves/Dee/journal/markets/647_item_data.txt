@@ -16,3 +16,12 @@ NPC;-QTY;20;-4;582864.8;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;21;-2;565538.9;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-PRICE;20;0;567489.4;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-QTY;18;-4;394836;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;18;0;408501;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;21;3;384006.3;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;25;3;331835.3;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;38;4;449608.7;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;38;0;437181.1;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;28;3;333261.5;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;25;4;372540.8;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;31;3;305914.4;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;24;3;538413.4;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

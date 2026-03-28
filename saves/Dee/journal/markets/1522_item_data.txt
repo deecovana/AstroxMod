@@ -5,3 +5,8 @@ NPC;+PRICE;35;0;7866.382;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;55;9;5178.487;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+STOCK;51;10;9420.356;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;50;11;6841.17;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;56;6;6833.129;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;61;10;9232.548;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;65;9;6670.479;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;71;10;8979.901;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;76;11;6264;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

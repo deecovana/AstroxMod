@@ -23,3 +23,22 @@ NPC;-LOCAL;3097;0;519.5126;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
 NPC;+QTY;16873;2971;141.525;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;3031;0;487.9113;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;-QTY;0;-3691;247.641;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;2382;0;416.25;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+PRICE;0;0;264.7124;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-LOCAL;0;0;925;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;-LOCAL;0;0;925;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;4203;4203;260.0411;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;12946;4166;311.3175;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;8044;4004;305.5271;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4675;3982;322.0878;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;7043;4661;417.7496;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;6090;0;416.25;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;+QTY;4653;4496;412.1106;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;6090;0;423.8873;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;12739;4695;303.7284;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;8387;4184;251.6414;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;21315;4442;126.8862;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;16397;3451;307.5424;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4592;3899;312.9528;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;11061;4971;414.9078;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;0;0;925;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03

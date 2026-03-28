@@ -28,3 +28,16 @@ NPC;+PRICE;38;0;8007.484;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;142;14;9030;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;52;0;7055.624;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-QTY;109;-21;11511.6;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;130;23;6405.75;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;48;0;12258.84;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;51;0;11358.24;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;164;22;8664.158;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;160;23;5398.859;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;105;17;9589.056;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;165;0;11479.89;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;127;18;10920.88;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;187;23;8440.658;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;105;17;9534.582;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;183;18;10972.21;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;130;0;6903;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;BAL;37;-17;12719.08;Foodmaid;Daelus;14h 12m 27s ;51147.38

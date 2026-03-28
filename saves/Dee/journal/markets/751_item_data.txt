@@ -15,3 +15,11 @@ NPC;-PRICE;164;0;24435.49;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;18;0;50379.7;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;+QTY;116;7;41062.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;181;-10;32818.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;181;0;33529.32;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;128;12;39042.89;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;115;14;42520.5;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;126;11;42339.94;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;194;13;33226.6;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;142;14;38044.96;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;140;14;41082.57;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;18;0;51478.97;Gunstellar;Adrenal;14h 10m 55s ;51055.01

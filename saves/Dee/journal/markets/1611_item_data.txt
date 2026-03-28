@@ -5,3 +5,10 @@ NPC;+STOCK;64;10;1135.385;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.9
 NPC;+STOCK;43;9;1260.885;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;10;-8;1351.004;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;-PRICE;10;0;1635.659;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;+QTY;72;8;1119.441;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;26;10;3209.615;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;81;9;1047.721;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;51;8;1217.994;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;60;9;1203.366;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;91;10;971.6562;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;71;11;1154.524;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

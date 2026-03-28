@@ -23,3 +23,19 @@ NPC;+QTY;8616;1791;42.5415;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.9
 NPC;+QTY;1731;1706;63.94755;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;0;-274;36.66378;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;829;-1387;55.23574;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;6266;2456;57.60021;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;829;0;58.63772;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;3274;2445;56.95763;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;10986;2370;41.74928;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;8379;2113;56.71585;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;6491;2116;37.8206;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;293;0;59.94087;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+QTY;2105;1957;43.32861;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+QTY;8520;2029;38.11773;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;1914;0;64.05827;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;5581;2307;55.67454;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;13280;2294;38.29152;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;10211;1832;53.89635;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;10900;2380;36.4878;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3709;1859;56.59399;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;1854;0;63.61835;Foodmaid;Daelus;14h 12m 27s ;51147.38

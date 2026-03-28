@@ -6,3 +6,7 @@ NPC;+STOCK;56;8;90084.99;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;67;11;84147.91;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;24;0;137731.6;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;+QTY;31;9;86243.44;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
+NPC;+STOCK;41;9;140356.9;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;75;8;77011.39;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;83;8;74913.97;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;12;-11;59974.47;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

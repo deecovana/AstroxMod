@@ -22,3 +22,17 @@ NPC;+QTY;85;15;104476.1;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;22;0;67424.95;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;-QTY;131;-19;132076.5;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;180;-15;124716;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;93;15;68667.75;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;22;0;91675.61;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+STOCK;202;22;120704.2;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;175;24;72590.48;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;112;19;63590.54;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;91;23;94797.98;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;117;0;118503.8;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;218;16;118344.3;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;195;20;69512.66;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;134;22;58373.47;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;141;24;114260.3;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;89;0;61021.24;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;44;-14;102326.9;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;BAL;82;-23;117630.4;Foodmaid;Daelus;14h 12m 27s ;51147.38

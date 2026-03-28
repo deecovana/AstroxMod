@@ -23,3 +23,20 @@ NPC;+PRICE;29;0;202.3161;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+PRICE;182;0;149.4706;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;20;0;163.7319;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-QTY;2620;-2222;99.20358;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;2190;2129;104.8631;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;2620;0;106.7567;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;0;99;124.2392;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;230;0;84.76658;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+PRICE;12;0;124.7934;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;4447;1827;103.1593;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1797;1797;116.8125;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1697;1686;126.2111;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;2207;2205;114.4033;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+QTY;2054;2054;99.66862;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+LOCAL;2500;27089;58.695;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
+NPC;+STOCK;6273;1826;96.25925;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3787;1990;109.01;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1937;1926;123.197;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;11;0;127.5194;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;82;0;130.6041;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;BAL;69;0;190.1231;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

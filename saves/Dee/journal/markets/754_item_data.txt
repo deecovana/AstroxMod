@@ -11,3 +11,11 @@ NPC;+STOCK;177;10;234236;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15
 NPC;+PRICE;14;0;285830.5;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+QTY;36;7;228437.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;46;12;138125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;59;13;133494;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;190;13;231462;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;63;7;138453.1;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+QTY;202;12;230221.9;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;70;11;121451.4;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;212;10;225877.9;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;71;0;172841.8;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;14;0;263336.6;Dustardz;Redsky;14h 12m 27s ;51147.38

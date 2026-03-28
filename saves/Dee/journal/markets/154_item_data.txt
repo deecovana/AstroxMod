@@ -27,3 +27,16 @@ NPC;-LOCAL;60;60;52.425;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+STOCK;179;114;32.45499;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;3;0;28.79174;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;138;0;33.56582;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;314;93;33.51938;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;467;87;50.82371;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;212;0;21.45494;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;316;104;19.3882;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;205;145;50.61323;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;918;148;34.89206;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;419;105;33.47278;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;106;77;22.52935;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+QTY;182;87;48.62535;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;431;115;17.67381;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;316;111;48.82796;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;913;143;34.54492;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;47;0;22.54636;Dustardz;Redsky;14h 12m 27s ;51147.38

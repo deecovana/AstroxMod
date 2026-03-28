@@ -5,3 +5,8 @@ NPC;+PRICE;22;0;9101.395;Imperium Bank;Ciando;4h 11m 12s ;15072.39
 NPC;+STOCK;60;11;11944.06;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;69;8;6144.128;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;42;-7;11977.66;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+STOCK;51;9;11458.12;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;78;9;5645.589;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;30;7;6593.124;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;52;10;11671.3;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;89;11;5468.56;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

@@ -6,3 +6,6 @@ NPC;+QTY;21;6;80172;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+PRICE;57;0;82107.99;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
 NPC;+STOCK;67;9;30427.27;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;33;9;37598.36;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;76;9;28010.63;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;43;10;35759.77;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;43;0;32087.77;Proctors Center;Void Starcross;12h 34m 48s ;45288.88

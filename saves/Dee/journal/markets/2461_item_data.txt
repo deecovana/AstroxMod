@@ -3,3 +3,7 @@ NPC;-PRICE;8;0;1015.697;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+STOCK;77;2;1058.452;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;84;2;572.2535;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;-QTY;74;-1;1079.364;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;74;0;1099.989;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-PRICE;84;0;545.3188;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;76;2;1067.447;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;86;2;500.7924;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

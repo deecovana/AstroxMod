@@ -16,3 +16,14 @@ NPC;+PRICE;125;0;140.9044;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+PRICE;106;0;62.72429;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;-QTY;107;-88;71.53695;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+PRICE;140;0;113.1696;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;393;129;121.1307;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;800;148;85.7767;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+LOCAL;150;127;41.47;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
+NPC;+STOCK;938;138;81.53173;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;818;138;109.4223;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;200;75;140.8018;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+STOCK;792;138;122.0968;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;233;-88;82.39735;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;1053;115;75.8803;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;795;115;109.8806;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;77;-148;129.5057;Foodmaid;Daelus;14h 12m 27s ;51147.38

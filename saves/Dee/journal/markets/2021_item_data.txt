@@ -15,3 +15,12 @@ NPC;+LOCAL;150;198;65.2275;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.
 NPC;+LOCAL;150;43;65.2275;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
 NPC;-QTY;338;-78;160.6879;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;554;-94;182.4965;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;250;100;28.54581;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;664;110;176.9996;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;365;115;28.54581;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;933;128;159.3305;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1070;137;158.7311;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;801;137;174.4679;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;475;110;28.4047;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1191;121;154.3678;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;689;109;204.7458;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

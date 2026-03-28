@@ -24,3 +24,10 @@ NPC;+QTY;229;79;1.38375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;0;-39;8.113004;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+LOCAL;150;234;3.9975;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;-QTY;750;-148;10.58584;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;916;112;6.054445;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+LOCAL;73;22;6.662773;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;668;107;7.294367;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;268;87;13.32659;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;86;0;9.838532;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;+QTY;348;94;8.652589;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;1032;116;5.563074;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

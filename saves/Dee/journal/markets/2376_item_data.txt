@@ -4,3 +4,9 @@ NPC;+QTY;51;1;103913.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+STOCK;81;2;49627.02;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;99;2;108718.4;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;79;-2;49372.16;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;79;0;51852.03;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;40;0;73852.2;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;81;2;48469.16;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;101;2;106562.3;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;101;0;103058.7;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;83;2;45791.3;Biomate University;Void Starcross;14h 1m 15s ;50475.31

@@ -3,7 +3,7 @@ Headquarters
 Serzokom Qireno
 Alpha
 [c:lime]Dock fee 100[/c]
-Timestamp: 35288.82
+Timestamp: 41489.18
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -54,49 +54,49 @@ Offices
 [c:green]BUY Order[/c] Market Shortage: (2) Items 
  (218) x Small Motor
  (230) x Small Heatsink
-Fulfill order for [c:lime]8,335 profit.[/c]
+Fulfill order for [c:lime]7,909 profit.[/c]
 [c:green]BUY Order[/c] Market Demands: (2) Items 
  (122) x Pressure Sensor
  (124) x Pressure Sensor
-Fulfill order for [c:lime]16,118 profit.[/c]
+Fulfill order for [c:lime]15,921 profit.[/c]
 [c:green]BUY Order[/c] Market Demands: (1) Items 
  (48) x Pressure Sensor
-Fulfill order for [c:lime]2,508 profit.[/c]
+Fulfill order for [c:lime]2,473 profit.[/c]
 [c:green]BUY Order[/c] Market Low Inventory: (1) Items 
  (128) x Copperi Cables
-Fulfill order for [c:lime]7,010 profit.[/c]
+Fulfill order for [c:lime]6,853 profit.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
 Adamyte Ore  686 - z17
-Advanced Cargo Expansion  44 - z11,765
-Advanced Mass Reduction  42 - z7,723
-Advanced Regulator  2 - z7,293
+Advanced Cargo Expansion  12 - z11,746
+Advanced Mass Reduction  12 - z1,386
+Advanced Regulator  2 - z7,283
 Aluminium Rivets  79 - z31
-Anti-Freeze  12 - z39
+Anti-Freeze  12 - z38
 Antimatter 20mm  43 - z84
 Antimatter 60mm  35 - z168
 Assorted Gaskets  50 - z12
-Assorted Springs (Doc)  5 - z716
+Assorted Springs (Doc)  5 - z715
 Ball Bearings  158 - z89
-Ball Bearings (Doc)  11 - z927
+Ball Bearings (Doc)  11 - z926
 Basic 60mm  69 - z16
-Basic Afterburner  5 - z1,152
-Basic Armor Exterior  13 - z1,300
-Basic Cargo Expansion  29 - z1,571
-Basic Drone Command Bay  13 - z2,127
-Basic Drone Command Bay (Doc)  3 - z20,162
-Basic Energy Capacitor  13 - z1,038
-Basic Filter  2 - z3,797
-Basic Impact Armor (Doc)  9 - z67,292
-Basic Mass Reduction  41 - z606
-Basic Scan Booster  1 - z1,190
+Basic Afterburner  5 - z1,150
+Basic Armor Exterior  13 - z1,299
+Basic Cargo Expansion  29 - z1,568
+Basic Drone Command Bay  13 - z2,125
+Basic Drone Command Bay (Doc)  3 - z20,136
+Basic Energy Capacitor  13 - z1,036
+Basic Filter  2 - z3,792
+Basic Impact Armor (Doc)  9 - z67,215
+Basic Mass Reduction  12 - z212
+Basic Scan Booster  1 - z1,188
 Basic Sensor  69 - z37
-Basic Shield Generator  9 - z572
-Basic Thruster  9 - z907
-Basic Turn Thrust  18 - z1,323
-Battery Core  45 - z93
+Basic Shield Generator  9 - z571
+Basic Thruster  9 - z906
+Basic Turn Thrust  18 - z1,321
+Battery Core  46 - z93
 Candy Cane  18 - z25
 Candy Corn  12 - z17
 Capacitors  44 - z80
@@ -105,106 +105,108 @@ Carbon Fiber  174 - z24
 Chocolate Bars  11 - z14
 Circuit Board  38 - z32
 Cleaning Chemicals  5 - z65
-Colored Dye  7 - z92
-Concussion Missile  68 - z422
-Containment Unit  3 - z9,593
+Colored Dye  7 - z91
+Concussion Missile  68 - z421
+Containment Unit  3 - z9,583
+Copperi Cables  20 - z467
 Corrosive Missile  79 - z140
-Disposables  2 - z4,547
+Disposables  2 - z4,542
 Fasteners  131 - z5
 Fiber Optic Cables  41 - z73
-Generic Construction Platform  1 - z1,348,258
-Generic Dual 20mm Gun  15 - z506
-Generic Single 20mm Gun (Doc)  17 - z6,182
+Generic Construction Platform  1 - z1,345,750
+Generic Dual 20mm Gun  15 - z505
+Generic Single 20mm Gun (Doc)  17 - z6,168
 Gradeon Ore  62 - z19
 Gummy Bears  15 - z28
-Heavy Energy Charge  18 - z298,498
-Heavy Mining Drone  14 - z57,635
-Heavy Repair Drone  7 - z108,785
-Heavy Salvage Drone  18 - z164,885
+Heavy Energy Charge  18 - z298,207
+Heavy Mining Drone  14 - z57,470
+Heavy Repair Drone  7 - z108,620
+Heavy Salvage Drone  18 - z164,720
 Hydrogen  268 - z2
-Improved Afterburner  5 - z2,263
-Improved Cargo Expansion  12 - z2,708
-Improved Energy Generator  15 - z11,113
-Improved Engine Core (Doc)  13 - z104,716
-Improved Filter  8 - z3,893
-Improved Mass Reduction  43 - z1,772
-Improved Scan Emitter  16 - z2,293
+Improved Afterburner  5 - z2,260
+Improved Cargo Expansion  12 - z2,711
+Improved Energy Generator  15 - z11,102
+Improved Engine Core (Doc)  13 - z104,570
+Improved Filter  8 - z3,883
+Improved Mass Reduction  43 - z1,770
+Improved Scan Emitter  16 - z2,291
 Interior Lighting  16 - z97
-Ion Beam Class 1  15 - z2,202
+Ion Beam Class 1  15 - z2,199
 Junk Part  195 - z50
 Kinetic 60mm  85 - z37
-Kinetic 60mm (Doc)  4 - z443
-Kinetics G-series 20mm Gatling  4 - z2,154
+Kinetic 60mm (Doc)  4 - z442
+Kinetics G-series 20mm Gatling  4 - z2,152
 Kitchen Appliances  11 - z144
-Large Life Support Pack  2 - z96,600
-Large Web Field  30 - z127,396
-Liquid Coolant  193 - z48
+Large Life Support Pack  2 - z96,385
+Large Web Field  30 - z127,245
+Liquid Coolant  193 - z47
 Lubricant  42 - z8
 Magnetic Quartz  29 - z1
 Mechanical Belts  14 - z60
-Mechanical Switch  43 - z50
-Medium Armor Repair  29 - z214,054
-Medium Combat Drone (Doc)  8 - z185,275
-Medium Life Support Pack  30 - z86,930
-Medium Mining Drone  4 - z8,090
-Medium Salvage Drone  30 - z16,640
-Medium Web Field  23 - z9,483
+Mechanical Switch  44 - z50
+Medium Armor Repair  29 - z213,843
+Medium Combat Drone (Doc)  8 - z185,094
+Medium Life Support Pack  30 - z86,830
+Medium Mining Drone  4 - z8,075
+Medium Salvage Drone  30 - z16,625
+Medium Web Field  23 - z9,458
 Metal Brackets  94 - z30
-Metal Brackets (Doc)  18 - z443
+Metal Brackets (Doc)  18 - z442
 Metal Gears  41 - z15
 Metal Valve  40 - z24
-Micro Leech Drone  32 - z16,640
-Noodles  6 - z3,793
+Micro Leech Drone  32 - z16,625
+Noodles  6 - z3,783
 Nuts And Bolts  76 - z5
-Nuts And Bolts (Doc)  17 - z88
+Nuts And Bolts (Doc)  17 - z87
 Office Furniture  15 - z56
-Optical Interface  72 - z64
-Ore Harvester 1  11 - z4,722
-Ornament  19 - z418
+Optical Interface  72 - z63
+Ore Harvester 1  11 - z4,717
+Ornament  19 - z417
 Oxygen  30 - z0
 Plastic Caps  140 - z70
-Plastic Caps (Doc)  4 - z678
-Polymere  55 - z22
-Premium Cargo Expansion  32 - z44,415
-Premium Mass Reduction  29 - z32,800
-Protein Bar  2 - z2,997
+Plastic Caps (Doc)  4 - z677
+Polymere  150 - z6
+Premium Cargo Expansion  12 - z16,389
+Premium Mass Reduction  29 - z32,750
+Pressure Sensor  20 - z225
+Protein Bar  2 - z2,992
 Proton Missile  76 - z229
-Prototype Cargo Expansion  12 - z208,187
-Prototype Mass Reduction  36 - z150,239
-Pulse Beam Class 1  18 - z2,273
-Pulse Beam Class 2  19 - z3,525
-Pulse x1 Laser  14 - z205
+Prototype Cargo Expansion  12 - z209,713
+Prototype Mass Reduction  36 - z149,983
+Pulse Beam Class 1  18 - z2,271
+Pulse Beam Class 2  19 - z3,520
+Pulse x1 Laser  14 - z204
 Radiated 20mm  72 - z37
-Rapid x2 Launcher  1 - z3,693
-Recon Scanner Drone  10 - z9,590
-Regulator  31 - z76
+Rapid x2 Launcher  1 - z3,689
+Recon Scanner Drone  10 - z9,575
+Regulator  150 - z15
 Reinforced Rubber  167 - z14
-Rubber Tubing  65 - z34
+Rubber Tubing  65 - z33
 Salt Crystal  129 - z2
-Salvage Collector 2  4 - z6,393
+Salvage Collector 2  4 - z6,383
 Scrap Part  117 - z162
-Small Defense Drone (Doc)  12 - z54,670
-Small Mining Drone (Doc)  8 - z79,870
+Small Defense Drone (Doc)  12 - z54,598
+Small Mining Drone (Doc)  8 - z79,798
 Steelium Pipes  132 - z34
 Steelium Pipes (Doc)  19 - z198
-Tactical x2 Launcher  11 - z5,402
-Tactical x2 Launcher (Doc)  19 - z65,441
-Thermal Controller  3 - z5,047
+Tactical x2 Launcher  11 - z5,397
+Tactical x2 Launcher (Doc)  19 - z65,380
+Thermal Controller  3 - z5,042
 Thermal Insulation  152 - z15
 Thermal Insulation (Doc)  15 - z233
-Thermal Sensor  51 - z53
-Titan Defense Drone  28 - z129,826
-Titan Repair Drone  12 - z274,826
-Torpedo Mark I (Doc)  3 - z936
+Thermal Sensor  150 - z10
+Titan Defense Drone  28 - z129,575
+Titan Repair Drone  12 - z274,575
+Torpedo Mark I (Doc)  3 - z934
 Torpedo Mark II  2 - z110
-Torpedo Mark IX  1 - z1,013
+Torpedo Mark IX  1 - z1,011
 Torpedo Mark V  26 - z328
 Toxic 60mm  66 - z70
 Uranium Core 20mm  97 - z34
 Uranium Core 60mm  7 - z47
 Water  262 - z0
-Wrapped Box  19 - z3,030
-x1 Torpedo Launcher  19 - z60,717
+Wrapped Box  19 - z3,025
+x1 Torpedo Launcher  19 - z60,655
 
 
 <Station University Skills>

@@ -1,0 +1,305 @@
+[s:30][c:yellow]Astrox Security Patrol[/c][/s]
+Headquarters
+Akweliile Kinastop
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 40932.83
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Polymere
+Circuit Board
+Basic Sensor
+Thermal Sensor
+Mechanical Switch
+Fiber Optic Cables
+Capacitors
+Optical Interface
+Regulator
+Battery Core
+Basic Cargo Expansion
+Improved Cargo Expansion
+Advanced Cargo Expansion
+Premium Cargo Expansion
+Prototype Cargo Expansion
+Basic Mass Reduction
+Improved Mass Reduction
+Advanced Mass Reduction
+Premium Mass Reduction
+Prototype Mass Reduction
+[c:orange]DEMAND[/c]
+LED Lights
+Micro Processor
+Large Processor
+Motion Sensor
+Pressure Sensor
+Memory Chip
+Small Pump
+Small Heatsink
+Small Motor
+Copperi Cables
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  5571 - z13
+Advanced Afterburner  31 - z7,952
+Advanced Cargo Expansion  12 - z10,333
+Advanced Filter  4 - z11,442
+Advanced Impact Armor  5 - z42,908
+Advanced Mass Reduction  12 - z9,651
+Advanced Missile  157 - z105
+Advanced Regulator  3 - z5,538
+Advanced Scan Booster (Doc)  18 - z173,320
+Advanced Shield Generator  18 - z11,146
+Advanced Skill Manual  6 - z456,906
+Aged Wine  4 - z42
+Anti-Freeze  33 - z32
+Assault x2 Launcher  37 - z3,422
+Assault x3 Launcher  12 - z4,083
+Assorted Springs  364 - z83
+Basic 60mm (Doc)  13 - z205
+Basic Afterburner  34 - z744
+Basic Beam Impact Mod (Doc)  27 - z30,933
+Basic Cargo Expansion  12 - z1,273
+Basic Cargo Expansion (Doc)  16 - z16,075
+Basic Charged Cell  79 - z4
+Basic Energy Armor  21 - z4,680
+Basic Energy Capacitor  22 - z1,466
+Basic Explosive Armor (Doc)  23 - z50,036
+Basic Filter  7 - z4,369
+Basic Food Rations  3 - z77
+Basic Mass Reduction  50 - z611
+Basic Missile  178 - z35
+Basic Projectile Energy Mod  18 - z1,870
+Basic Projectile Impact Mod  4 - z7,592
+Basic Sensor  150 - z80
+Basic Shield Generator  28 - z1,279
+Basic Thruster  27 - z960
+Basic Turn Thrust  7 - z1,129
+Basic Warp Drive Fuel  328 - z1,229
+Basic Warp Drive Fuel (Doc)  11 - z11,309
+Battery Core  43 - z62
+Blaster x3 Laser  12 - z2,602
+Calcium  245 - z5
+Capacitors  150 - z119
+Carbon  8 - z1
+Carbon Filter  11 - z45,691
+Cheeseburger  2 - z33,191
+Childrens Toys  2 - z14
+Chocolate Bars  13 - z19
+Circuit Board  42 - z45
+Colored Dye  18 - z124
+Containment Unit  12 - z9,038
+Copperi Cables  62 - z229
+Disposables  4 - z5,319
+Eco Regulator  9 - z46,191
+Elite Skill Manual  22 - z1,336,575
+Entertainment Electronics  27 - z198
+Entex IV-series 20mm Gun (Doc)  12 - z113,258
+Entex V-series 20mm Gatling  6 - z9,538
+Entex V-series Dual 20mm  32 - z4,616
+Explosive 20mm  131 - z28
+Fasteners  66 - z8
+Fiber Optic Cables  64 - z61
+Fusion 20mm  14 - z55
+Fusion 60mm  137 - z46
+Fusion Missile  74 - z90
+Gaming Devices  6 - z47
+Generic Dual 20mm Gun  23 - z694
+Gourmet Food Rations  31 - z116
+Gradeon Ore  184 - z27
+Gummy Bears  28 - z17
+Ham Sandwich  2 - z16,692
+Heavy Armor Bomb  63 - z73,053
+Heavy Armor Repair  67 - z429,525
+Heavy Energy Charge  74 - z233,106
+Heavy Shield Bomb  4 - z120,903
+Improved Armor Exterior (Doc)  27 - z42,144
+Improved Cargo Expansion  12 - z2,588
+Improved Combat Drone (Doc)  20 - z434,059
+Improved Defense Drone (Doc)  20 - z569,059
+Improved Drone Command Bay  25 - z7,985
+Improved Energy Capacitor  6 - z5,745
+Improved Explosive Armor  20 - z13,972
+Improved Explosive Armor (Doc)  29 - z106,038
+Improved Filter  9 - z11,238
+Improved Impact Armor (Doc)  39 - z156,315
+Improved Mass Reduction  12 - z1,427
+Improved Mass Reduction (Doc)  30 - z30,487
+Improved Repair Drone (Doc)  19 - z423,259
+Improved Targeting System  16 - z3,321
+Improved Turn Thrust  27 - z2,494
+Ion Beam Class 2  31 - z3,676
+Ion Beam Class 3 (Doc)  33 - z121,635
+Junk Part  41 - z48
+Kinetics G-series 20mm Gun  32 - z2,060
+Large Defense Drone  11 - z63,381
+Large Repair Drone  28 - z72,381
+Large Salvage Drone  16 - z82,381
+Large Web Field  6 - z102,572
+LED Lights  152 - z85
+Light Energy Charge  63 - z17,021
+Light Shield Bomb  17 - z4,919
+Liquid Coolant  40 - z40
+Lokken Ore  52 - z100
+Magnetic Quartz  487 - z2
+Mechanical Belts  311 - z72
+Mechanical Switch  11 - z41
+Media Recordings  22 - z20
+Medium Combat Drone  57 - z12,507
+Medium Repair Drone  42 - z15,357
+Medium Salvage Drone  25 - z12,057
+Medium Shield Bomb  58 - z17,345
+Metal Brackets  76 - z47
+Metal Valve  33 - z14
+Micro Leech Drone  7 - z8,007
+Motion Sensor  56 - z104
+Musical Instruments  25 - z113
+Nitrogen  17 - z6
+Noodles  13 - z10,738
+Nuts And Bolts  99 - z5
+Oil  130 - z11
+Optical Interface  61 - z74
+Ore Harvester 3  35 - z17,567
+Ornament  10 - z381
+Oxygen  530 - z0
+Plastix Strands  125 - z6
+Polymere  60 - z26
+Premium Afterburner  30 - z38,180
+Premium Cargo Expansion  12 - z40,668
+Premium Drone Command Bay  14 - z94,758
+Premium Drone Command Bay (Doc)  33 - z1,079,652
+Premium Energy Generator  32 - z144,998
+Premium Mass Reduction  12 - z21,409
+Premium Shield Booster  26 - z76,835
+Premium Shield Generator  19 - z56,550
+Premium Thruster  11 - z34,632
+Protein Bar  5 - z4,319
+Prototype Cargo Expansion  49 - z249,119
+Prototype Mass Reduction  12 - z133,784
+Pulse Beam Class 1  14 - z2,010
+Pulse Beam Class 2  13 - z5,017
+Pulse Beam Class 2 (Doc)  34 - z56,672
+Pulse Beam Class 3  17 - z9,446
+Pulse x1 Laser  33 - z542
+Pulse x4 Laser  32 - z3,742
+Quantex  x-6 20mm Gatling  16 - z3,977
+Quazor Ore  281 - z35
+Radiated 60mm  120 - z52
+Rapid x4 Launcher  22 - z16,528
+Recon Scanner Drone  62 - z11,157
+Regulator  47 - z73
+Rubber Tubing (Doc)  2 - z516
+Salt Crystal  559 - z1
+Salvage Collector 1  39 - z3,541
+Salvage Collector 2 (Doc)  33 - z72,458
+Salvage Collector 3  18 - z11,472
+Scrap Part  352 - z113
+Silicon  128 - z4
+Small Heatsink  101 - z192
+Small Life Support Pack  19 - z7,366
+Small Mining Drone  7 - z6,563
+Sporting Equipment  28 - z18
+Spotlight  10 - z2,969
+Steelium Beam  167 - z11
+Steelium Pipes  316 - z31
+Steelium Pipes (Doc)  22 - z236
+Tactical x2 Launcher (Doc)  29 - z27,161
+Temperature Genie  7 - z16,692
+Thermal Controller  13 - z1,969
+Thermal Sensor  41 - z60
+Titan Defense Drone  36 - z195,953
+Titan Mining Drone  25 - z253,453
+Titan Salvage Drone  36 - z273,453
+Torpedo Mark III  143 - z204
+Torpedo Mark VI  23 - z437
+Toxic 20mm  121 - z51
+Tractor Beam  21 - z7,613
+Undamaged Part  137 - z236
+Uranium Core 20mm  24 - z26
+Waste Burner  15 - z26,191
+Waste Processor  14 - z13,192
+Water  52 - z0
+x1 Torpedo Launcher  21 - z33,716
+
+
+<Station University Skills>
+Miner Cycle Mechanics
+Ship Gyroscopic Control
+Ship Afterburner Systems
+Ship Shield Regeneration
+Refinery Mechanic
+
+
+<Station Missions>
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Arch of Mori</color> and return with <color='yellow'>9</color> to Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]TRANSPORT[/c]
+Transport <color='yellow'>56</color> units of <color='yellow'>Thruster Casings</color> from StarGypsy Warehouse in <color='cyan'>Void Starcross</color> to Ferce Hub in <color='cyan'>Semja</color>
+
+[c:lime]DIALOG[/c]
+Transfer payment to <color='yellow'><i>Leader Leiile Wajel</i></color> in <color='cyan'>Lins</color> and return with signature to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
+
+[c:lime]FABRICATE[/c]
+Dock at the Blargg's station fabricator in <color='cyan'>Beacon Spita</color> and manufacture a light shipment of <color='yellow'>3</color> <color='yellow'>Copperi Cables</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Arch of Mori</color> and return with <color='yellow'>3</color> to Tella's in <color='cyan'>Bitcola</color>
+
+[c:lime]SCAN[/c]
+Track and scan the target <color='yellow'>Defensive Gun Platform</color> structure in <color='cyan'>Jermicus</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]DIALOG[/c]
+Chat with <color='yellow'><i>Overseer Bastfe Ferero</i></color> about his debt in <color='cyan'>Vindicati</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]HARVEST[/c]
+Harvest <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>97</color> ore to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]HARVEST[/c]
+Extract <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return to Biomate University in <color='cyan'>Void Starcross</color> with minimum of <color='yellow'>198</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>6</color> to CoraVault in <color='cyan'>Lins</color>
+
+[c:lime]SCAN[/c]
+Find <color='yellow'><i>Leader Lownalia Timbid</i></color> in <color='cyan'>Hunu</color>, scan their ship, and return to Tella's in <color='cyan'>Bitcola</color>
+
+[c:lime]REFINE[/c]
+Refine a light container of <color='yellow'>47</color> <color='yellow'>Quazor Ores</color> at the Daemon Ammunitions station in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]ESCORT[/c]
+A ship in StarGypsy Warehouse in <color='cyan'>Void Starcross</color> needs an escort to Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]HARVEST[/c]
+Extract <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Lins</color> and return to Ferce Hub in <color='cyan'>Semja</color> with minimum of <color='yellow'>153</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Star Shepards Hub in <color='cyan'>Temple Gates</color> to deliver a light shipment of <color='yellow'>10</color> <color='yellow'>Media Recordings</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>7</color> to CoraVault in <color='cyan'>Lins</color>
+
+
+
+<Station Ships>
+EE-1 Mining Escort / Escort    (Excavation)
+SCA-1 Demi / Carrier    (Support)
+SE-1 Prophet / Escort    (Support)

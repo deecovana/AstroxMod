@@ -6,3 +6,12 @@ NPC;-QTY;87;-6;57464.63;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;BAL;79;-8;60875.3;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+LOCAL;12;12;28567.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;-QTY;52;-6;65102.04;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+LOCAL;12;27;28567.5;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+LOCAL;12;12;28567.5;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;23;11;12610.35;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;39;9;48122.38;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;1;28567.5;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;-PRICE;39;0;43760.48;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;21;9;12577.39;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;49;10;42056.76;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;21;28567.5;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

@@ -13,3 +13,19 @@ NPC;+LOCAL;12;8;3770;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.
 NPC;-QTY;0;-8;7895.358;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;27;8;9403.359;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+QTY;10;10;7895.358;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+LOCAL;12;23;3770;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;84;0;4862.159;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;64;0;6999.383;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+LOCAL;12;20;3770;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;93;9;4699.902;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;23;11;1664.165;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;116;8;10730.75;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;1;3770;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+QTY;67;9;12340.22;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;116;0;10432.71;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;101;8;4341.474;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;21;9;1659.815;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;125;9;9993.614;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;21;0;5358.917;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;+LOCAL;12;17;3770;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+PLAYER;-QTY;91;2;4749.874;Biomate University;Void Starcross;14h 55m 27s ;53727.54

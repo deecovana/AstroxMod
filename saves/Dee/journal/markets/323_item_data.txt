@@ -30,3 +30,22 @@ NPC;+STOCK;805;796;17.79914;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;2418;579;37.43325;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;0;0;95.25;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05
 NPC;+STOCK;820;761;27.95298;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+QTY;1399;502;38.18501;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;947;942;36.72126;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;39;0;27.15789;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;947;0;37.72512;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;918;879;26.21946;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3203;785;35.654;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2405;673;24.11202;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1902;918;39.81947;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;820;0;26.68105;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;997;0;37.26222;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;3213;808;24.03681;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;1891;973;24.44367;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3947;744;34.94373;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2286;887;36.28598;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4086;873;22.34278;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1695;711;39.92841;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1737;740;35.27258;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;586;0;20.97958;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;26;0;38.02504;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

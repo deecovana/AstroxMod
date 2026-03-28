@@ -1,4 +1,8 @@
 //;LOG DATA FILE (Astrox Imperium)
+MOVED;RE-2 Harm;11124;439609.397789717;Biomate University;Void Starcross;14h 36m 38s 
+MOVED;EE-1 Mining Escort;15328;450733.272789717;Biomate University;Void Starcross;14h 36m 31s 
+ACTIVATED;TF-1 Hexalon;0;219456.625;Horizons;Gate of Alpharis;9h 50m 29s 
+BUY;TF-1 Hexalon;977,974;219456.625;Horizons;Gate of Alpharis;9h 49m 59s 
 ACTIVATED;EE-1 Mining Escort;0;135267.497451663;Biomate University;Void Starcross;8h 21m 57s 
 ACTIVATED;DE-1 Basic Escort;0;135267.497451663;Biomate University;Void Starcross;8h 21m 22s 
 ACTIVATED;EE-1 Mining Escort;0;135267.497451663;Biomate University;Void Starcross;8h 20m 43s 

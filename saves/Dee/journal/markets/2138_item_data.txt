@@ -2,3 +2,6 @@ NPC;-PRICE;80;0;4443810;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;+STOCK;82;2;4476164;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;82;2;4275275;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;80;-2;4253277;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;80;0;4399659;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;82;2;4288358;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;84;2;4246982;Biomate University;Void Starcross;14h 1m 15s ;50475.31

@@ -16,3 +16,15 @@ NPC;+STOCK;77;12;144866;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;36;10;277658.6;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;59;-13;177659.4;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;0;-8;237325;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;20;0;155148.7;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+STOCK;14;14;229588.4;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;118;11;121083.8;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;102;14;128596.4;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;102;0;122395.1;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;89;7;212721.9;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;35;-14;218576.8;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;24;10;224422.4;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;99;10;200448.1;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;116;14;113497.2;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;35;0;222958.1;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;38;-9;117434.1;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

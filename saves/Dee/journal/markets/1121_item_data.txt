@@ -5,3 +5,6 @@ NPC;+QTY;32;10;1896.75;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+QTY;22;6;2704.725;Cosmic Jay's;Canndelis;2h 36m 11s ;9371.667
 NPC;BAL;10;-7;2235;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+PRICE;10;0;2330.205;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+PRICE;2;0;2303.622;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;BAL;4;0;2473.409;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;BAL;8;-7;2477.76;Dustardz;Redsky;14h 12m 27s ;51147.38

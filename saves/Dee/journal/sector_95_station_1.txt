@@ -3,7 +3,7 @@ Organization Center
 Bidbruei Lowtibem
 Temple
 [c:lime]Dock fee 100[/c]
-Timestamp: 17790.5
+Timestamp: 50839.17
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -55,157 +55,164 @@ Mission Contracts
 
 
 <Station Market Orders>
+[c:green]BUY Order[/c] Market Shortage: (4) Items 
+ (77) x Lokken Ore
+ (150) x Dynex Ore
+ (470) x Adamyte Ore
+ (345) x Quazor Ore
+Fulfill order for [c:lime]9,168 profit.[/c]
 [c:green]BUY Order[/c] Market Items Req: (1) Items 
  (102) x Lokken Ore
-Fulfill order for [c:lime]2,101 profit.[/c]
+Fulfill order for [c:lime]1,839 profit.[/c]
 [c:red]SELL Order[/c] Market Inventory: (1) Items 
  (177) x Reinforced Rubber
-Buy items for [c:lime]3,457 discount.[/c]
+Buy items for [c:lime]3,470 discount.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
+Adamyte Ore  5263 - z19
 Advanced 60mm  89 - z25
-Advanced Regulator  8 - z5,011
-Aluminium Rivets (Doc)  4 - z280
+Advanced Regulator  8 - z4,961
+Aluminium Rivets (Doc)  4 - z277
 Anti-Freeze  18 - z55
-Antimatter 60mm  72 - z119
-Assault x2 Launcher  1 - z4,283
+Antimatter 60mm  72 - z118
+Assault x2 Launcher  1 - z4,260
 Assorted Gaskets  150 - z2
 Assorted Springs  148 - z70
 Ball Bearings  105 - z81
-Ball Bearings (Doc)  17 - z597
+Ball Bearings (Doc)  17 - z591
 Basic 20mm  20 - z6
-Basic Armor Exterior  9 - z821
-Basic Drone Command Bay  11 - z2,110
-Basic Energy Armor  7 - z6,193
-Basic Energy Generator  4 - z4,527
-Basic Engine Core  13 - z5,261
-Basic Engine Core (Doc)  17 - z30,235
-Basic Filter  8 - z4,856
-Basic Impact Armor  8 - z6,385
-Basic Mass Reduction (Doc)  11 - z9,995
-Basic Missile (Doc)  14 - z547
-Basic Scan Emitter  18 - z1,233
-Basic Shield Booster (Doc)  8 - z28,092
-Basic Shield Generator  12 - z537
-Basic Thruster  7 - z886
-Belasite Ore  14 - z713
-Blaster x1 Laser  1 - z621
-Blaster x1 Laser (Doc)  5 - z13,453
-Blaster x2 Laser  9 - z1,389
-Burglar Drone  31 - z9,767
+Basic Armor Exterior  9 - z813
+Basic Drone Command Bay  11 - z2,099
+Basic Energy Armor  7 - z6,161
+Basic Energy Generator  4 - z4,500
+Basic Engine Core  13 - z5,233
+Basic Engine Core (Doc)  17 - z29,890
+Basic Filter  8 - z4,830
+Basic Impact Armor  8 - z6,352
+Basic Mass Reduction (Doc)  11 - z9,927
+Basic Missile (Doc)  14 - z544
+Basic Scan Emitter  18 - z1,227
+Basic Shield Booster (Doc)  8 - z27,888
+Basic Shield Generator  12 - z530
+Basic Thruster  7 - z880
+Blaster x1 Laser  1 - z616
+Blaster x1 Laser (Doc)  5 - z13,393
+Blaster x2 Laser  9 - z1,380
+Burglar Drone  31 - z9,691
 Candy Cane  2 - z16
 Candy Corn  15 - z20
 Carbon  205 - z0
-Carbon Fiber  29 - z27
+Carbon Fiber  29 - z26
 Chocolate Bars  17 - z20
-Cleaning Chemicals  18 - z41
-Colored Dye  4 - z117
-Containment Unit  9 - z7,911
-Corrosive Missile  15 - z100
-Disposables  3 - z3,956
-Entex IV-series 20mm Gun  40 - z6,011
-Entex V-series 20mm Gatling  12 - z1,330
-Entex V-series Dual 20mm  26 - z6,460
-Fasteners  93 - z6
-Focused x1 Laser  18 - z1,234
-Focused x2 Laser  15 - z1,218
+Cleaning Chemicals  18 - z40
+Colored Dye  4 - z116
+Containment Unit  9 - z7,861
+Corrosive Missile  15 - z99
+Disposables  3 - z3,930
+Entex IV-series 20mm Gun  12 - z1,461
+Entex V-series 20mm Gatling  12 - z1,286
+Entex V-series Dual 20mm  12 - z1,519
+Fasteners  135 - z5
+Focused x1 Laser  18 - z1,227
+Focused x2 Laser  15 - z1,204
 Fusion Missile  78 - z137
-Generic Dual 20mm Gun  12 - z196
-Generic Gatling 20mm Gun  12 - z166
-Generic Single 20mm Gun  15 - z961
+Generic Dual 20mm Gun  12 - z190
+Generic Gatling 20mm Gun  12 - z161
+Generic Single 20mm Gun  12 - z175
+Gradeon Ore  370 - z83
 Gummy Bears  8 - z13
-Gunstellar 20mm Dual Barrel  12 - z3,143
-Gunstellar 20mm Gatling  39 - z10,052
-Gunstellar 20mm Gun  12 - z3,022
-Heavy Repair Drone  26 - z127,234
+Gunstellar 20mm Dual Barrel  12 - z3,039
+Gunstellar 20mm Gatling  39 - z9,963
+Gunstellar 20mm Gun  12 - z2,922
+Heavy Repair Drone  26 - z126,404
 Hydrogen  32 - z2
-Improved Armor Exterior  10 - z1,832
-Improved Armor Exterior (Doc)  13 - z35,816
-Improved Cargo Expansion  19 - z4,539
-Improved Combat Drone  18 - z25,250
-Improved Defense Drone  18 - z18,950
-Improved Drone Command Bay  10 - z6,683
-Improved Drone Command Bay (Doc)  1 - z120,235
-Improved Engine Core  16 - z5,958
-Improved Explosive Armor (Doc)  5 - z126,684
-Improved Filter  9 - z11,111
-Improved Impact Armor  9 - z5,827
-Improved Mass Reduction (Doc)  10 - z13,810
-Improved Scan Booster  17 - z6,258
-Improved Shield Generator  9 - z2,513
-Improved Thruster  15 - z1,299
-Improved Turn Thrust  18 - z3,114
-Ion Beam Class 1  16 - z2,497
+Improved Armor Exterior  10 - z1,812
+Improved Armor Exterior (Doc)  13 - z35,576
+Improved Cargo Expansion  19 - z4,513
+Improved Combat Drone  18 - z25,024
+Improved Defense Drone  18 - z18,724
+Improved Drone Command Bay  10 - z6,634
+Improved Drone Command Bay (Doc)  1 - z119,643
+Improved Engine Core  16 - z5,897
+Improved Explosive Armor (Doc)  5 - z125,869
+Improved Filter  9 - z11,061
+Improved Impact Armor  9 - z5,759
+Improved Mass Reduction (Doc)  10 - z13,653
+Improved Scan Booster  17 - z6,230
+Improved Shield Generator  9 - z2,497
+Improved Thruster  15 - z1,287
+Improved Turn Thrust  18 - z3,096
+Ion Beam Class 1  16 - z2,483
 Junk Part  81 - z49
-Kinetic 20mm (Doc)  3 - z199
-Kinetics G-series 20mm Gatling  2 - z2,114
-Kinetics G-series 20mm Gun  12 - z378
-Kinetics G-series 20mm Gun (Doc)  12 - z33,033
-Kinetics G-series Dual 20mm  4 - z1,433
-Kitchen Appliances  18 - z96
-Large Life Support Pack  2 - z161,489
-Large Salvage Drone  32 - z57,111
-Light Armor Repair  23 - z29,433
-Light Shield Recharger  7 - z49,011
-Liquid Coolant  30 - z34
-Liquid Coolant (Doc)  4 - z588
+Kinetic 20mm (Doc)  3 - z197
+Kinetics G-series 20mm Gatling  2 - z2,103
+Kinetics G-series 20mm Gun  12 - z365
+Kinetics G-series 20mm Gun (Doc)  12 - z32,883
+Kinetics G-series Dual 20mm  4 - z1,420
+Kitchen Appliances  18 - z95
+Large Life Support Pack  2 - z160,409
+Large Salvage Drone  32 - z56,609
+Light Armor Repair  23 - z29,283
+Light Shield Recharger  7 - z48,735
+Liquid Coolant  150 - z7
+Liquid Coolant (Doc)  4 - z585
 Lubricant  44 - z15
 Magnetic Quartz  107 - z2
 Mechanical Belts  70 - z75
-Medium Armor Repair  22 - z222,834
-Medium Energy Charge  21 - z149,645
-Medium Web Field  28 - z13,528
+Medium Armor Repair  22 - z221,778
+Medium Energy Charge  21 - z148,991
+Medium Web Field  28 - z13,402
 Metal Brackets  150 - z6
-Metal Gears  28 - z25
-Noodles  9 - z7,011
-Nuts And Bolts  111 - z11
-Office Furniture  18 - z36
-Ore Harvester 2  11 - z7,404
-Ornament  7 - z401
+Metal Gears  28 - z24
+Noodles  9 - z6,961
+Nuts And Bolts  150 - z2
+Office Furniture  18 - z35
+Ore Harvester 2  11 - z7,362
+Ornament  7 - z399
 Oxygen  206 - z1
-Plasite Ore  3 - z291
-Plasma Beam Class 2  11 - z2,328
-Protein Bar  2 - z3,306
-Proton Missile  6 - z187
-Pulse Beam Class 1  5 - z2,753
-Pulse Beam Class 1 (Doc)  7 - z21,033
-Pulse Beam Class 2  12 - z5,199
-Pulse x1 Laser  11 - z226
-Quantex  x-2 20mm Gun  12 - z786
-Quantex  x-3 20mm Gun  37 - z2,906
-Quantex  x-6 20mm Gatling  44 - z2,425
+Plasma Beam Class 2  11 - z2,301
+Protein Bar  2 - z3,280
+Proton Missile  6 - z185
+Pulse Beam Class 1  5 - z2,740
+Pulse Beam Class 1 (Doc)  7 - z20,883
+Pulse Beam Class 2  12 - z5,175
+Pulse x1 Laser  11 - z223
+Quantex  x-2 20mm Gun  12 - z760
+Quantex  x-3 20mm Gun  37 - z2,880
+Quantex  x-6 20mm Gatling  44 - z2,403
+Quazor Ore  1776 - z154
 Reinforced Rubber  109 - z16
 Salt Crystal  188 - z2
-Salvage Collector 1 (Doc)  1 - z47,593
-Scrap Part  129 - z212
-Small Combat Drone  24 - z5,287
-Small Mining Drone  1 - z6,007
-Small Repair Drone  23 - z5,047
+Salvage Collector 1 (Doc)  1 - z47,262
+Scrap Part  129 - z211
+Small Combat Drone  24 - z5,257
+Small Mining Drone  1 - z5,977
+Small Repair Drone  23 - z5,017
 Small Storage Tank  158 - z24
-Small Storage Tank (Doc)  5 - z492
-Spotlight  8 - z3,806
-Steelium Beam  51 - z6
-Steelium Pipes  145 - z19
-Steelium Pipes (Doc)  3 - z223
-Tactical x2 Launcher  17 - z5,055
-Thermal Controller  3 - z3,156
+Small Storage Tank (Doc)  5 - z489
+Spotlight  8 - z3,780
+Steelium Beam  73 - z5
+Steelium Pipes  150 - z5
+Steelium Pipes (Doc)  3 - z221
+Tactical x2 Launcher  17 - z5,029
+Thermal Controller  3 - z3,130
 Thermal Insulation  186 - z25
-Thermal Insulation (Doc)  5 - z327
-Titan Combat Drone  37 - z202,778
-Titan Defense Drone  18 - z120,278
-Titan Mining Drone  34 - z190,278
-Titan Repair Drone  34 - z120,278
-Torpedo Mark II  10 - z79
-Torpedo Mark II (Doc)  16 - z2,270
-Torpedo Mark VI  88 - z330
-Toxic 20mm  19 - z46
-Tractor Beam  2 - z9,956
-Uranium Core 20mm  47 - z27
+Thermal Insulation (Doc)  5 - z325
+Titan Combat Drone  37 - z201,522
+Titan Defense Drone  18 - z119,022
+Titan Mining Drone  34 - z189,022
+Titan Repair Drone  34 - z119,022
+Torpedo Mark II  10 - z78
+Torpedo Mark II (Doc)  16 - z2,260
+Torpedo Mark VI  88 - z327
+Toxic 20mm  19 - z45
+Tractor Beam  2 - z9,885
+Uranium Core 20mm  47 - z26
 Uranium Core 60mm  68 - z45
 Water  215 - z0
-Wrapped Box  7 - z2,569
+Wrapped Box  7 - z2,543
 
 
 <Station University Skills>
@@ -218,12 +225,6 @@ Fabrication Accountant
 
 
 <Station Missions>
-[c:lime]ESCORT[/c]
-<color='yellow'><i>Czar Whojalis Eidieyit</i></color> requests an escort from Astrox Security Patrol in <color='cyan'>Felishar</color> to Lammassu Financial in <color='cyan'>Void Starcross</color>
-
-[c:lime]DELIVERY[/c]
-Dock at Imperium Republica  in <color='cyan'>Gate of Alpharis</color> to deliver a light shipment of <color='yellow'>33</color> <color='yellow'>Thermal Insulations</color>
-
 [c:lime]SCAN[/c]
 Locate and scan the <color='yellow'>Storage Facility</color> structure in <color='cyan'>Felishar</color> and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
 
@@ -256,6 +257,30 @@ Dock at the Astrox Security Patrol station fabricator in <color='cyan'>Felishar<
 
 [c:lime]SCAN[/c]
 Find the target <color='yellow'>Community Farming Center</color> structure in <color='cyan'>Felishar</color>, scan, and return to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
+
+[c:lime]KILL RAIDERS[/c]
+Hunt <color='yellow'>1 Raider</color> level 10 in <color='cyan'>Void Starcross</color> and return to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
+
+[c:lime]DIALOG[/c]
+Chat with <color='yellow'><i>Father Oagot Neilekadd</i></color> about his debt in <color='cyan'>Felishar</color> and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]HARVEST[/c]
+Mine <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Ballast Crow</color> and return with <color='yellow'>91</color> to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
+
+[c:lime]HARVEST[/c]
+Mine <color='yellow'>Special Plasite Ore</color> in <color='cyan'>Blades of Dandrow</color> and return with <color='yellow'>114</color> to Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]TRANSPORT[/c]
+Move light cargo from Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> and dock with <color='yellow'>5</color> <color='yellow'>Focused x3 Lasers</color> at StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]RECOVER[/c]
+Recover a light quantity of <color='yellow'>129</color> <color='yellow'>Bottled Whiskeys</color> in <color='cyan'>Blades of Dandrow</color>, and return to Star Shepards Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>5</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Entropy</color> and return to CoraVault in <color='cyan'>Lins</color> with minimum of <color='yellow'>43</color>
 
 
 

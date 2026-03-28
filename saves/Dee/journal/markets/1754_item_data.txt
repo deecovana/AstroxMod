@@ -13,3 +13,16 @@ NPC;+LOCAL;12;23;268709.3;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
 NPC;+QTY;28;6;391695.5;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+LOCAL;12;3;268709.3;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;-QTY;66;-7;784879.3;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+LOCAL;12;12;268709.3;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+PRICE;66;0;799042.4;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;26;0;847676;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;74;8;780654.3;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;98;8;570176.4;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;21;9;118903.9;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;21;268709.3;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;-PRICE;12;0;118903.9;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;105;7;571224.3;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;83;9;752388.3;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;114;9;540291.1;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;20;8;118903.9;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;26;0;875479.9;Gunstellar;Adrenal;14h 10m 55s ;51055.01

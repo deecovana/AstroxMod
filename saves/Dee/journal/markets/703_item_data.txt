@@ -15,3 +15,8 @@ NPC;+QTY;125;23;2268.75;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;58;17;2053.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;3;0;5299.617;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-QTY;38;-12;3796.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+STOCK;188;18;3671.27;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;98;23;3169.063;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;183;18;5388.272;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;60;22;3744.063;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;79;18;4147.127;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

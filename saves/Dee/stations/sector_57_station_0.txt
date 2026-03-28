@@ -38,6 +38,9 @@ MERC;7;1.05;npc_ship_data_(support_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Shortage: (2) Items ;302x316,301x380;77466;71341.18
+BUYORDER;Market Out of Stock: (1) Items ;300x632;53769;106738.20
+BUYORDER;Market Shortage: (2) Items ;300x97,302x478;33503;44976.86
 BUYORDER;Market Needs Goods: (3) Items ;300x357,301x162,300x206;100588;78583.86
 BUYORDER;Market Shortage: (3) Items ;301x437,300x336,302x119;87263;82838.86
 BUYORDER;Market Demands: (2) Items ;301x194,301x202;93258;47805.69

@@ -13,3 +13,14 @@ NPC;+QTY;96;94;266.2796;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.
 NPC;+LOCAL;51;15;391.289;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
 NPC;+LOCAL;150;145;180.505;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;-QTY;153;-93;438.3772;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+LOCAL;150;465;180.505;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;153;0;456.4245;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+LOCAL;150;267;180.505;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;258;105;437.3571;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;412;123;487.6563;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;150;2;180.505;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+QTY;511;99;489.2449;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;389;131;420.6411;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;614;103;458.9051;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;293;143;79.47079;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;256;180.505;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

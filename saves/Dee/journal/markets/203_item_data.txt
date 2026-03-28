@@ -17,3 +17,14 @@ NPC;+QTY;143;140;100.2362;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+LOCAL;43;18;69.60045;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;+STOCK;160;117;47.72719;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;109;0;96.82307;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+LOCAL;44;1;69.09312;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;+LOCAL;11;1;58.59117;Astrox Security Patrol;Felishar;10h 35m 10s ;38110.46
+NPC;+PRICE;175;0;79.01742;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+STOCK;138;127;40.33036;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;234;0;47.80964;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+PRICE;1;0;95.4355;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+QTY;261;118;100.1126;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;131;82;67.06309;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+STOCK;539;111;103.5456;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;1055;112;31.36541;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;176;0;77.51406;Gunstellar;Adrenal;14h 10m 55s ;51055.01

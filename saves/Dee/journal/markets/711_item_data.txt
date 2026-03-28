@@ -21,3 +21,13 @@ NPC;BAL;140;-14;12715.87;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16
 NPC;+QTY;94;23;16277.81;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+QTY;33;21;20015.86;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;140;-17;19982.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;152;15;21555.78;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;140;0;20244.97;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;164;24;19804.43;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;120;22;21616.25;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;158;18;11973.94;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;163;18;21826.8;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;84;14;25095.31;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;182;18;19184.96;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;137;17;20828.3;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;164;24;12101.87;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

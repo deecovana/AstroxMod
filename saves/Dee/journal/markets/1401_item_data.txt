@@ -6,3 +6,5 @@ NPC;+QTY;52;11;7625;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+PRICE;20;0;8592.183;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
 NPC;+STOCK;55;9;10691.38;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;0;-1;10006.34;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+STOCK;65;10;10393.05;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;65;0;9966.599;Proctors Center;Void Starcross;12h 34m 48s ;45288.88

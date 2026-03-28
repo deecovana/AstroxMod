@@ -8,3 +8,7 @@ NPC;+LOCAL;12;52;136500;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
 NPC;+QTY;21;9;47250;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;12;15;136500;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;-QTY;22;-10;352506;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;22;0;357605.1;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-PRICE;39;0;303062.5;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+STOCK;33;11;352370.6;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;20;8;47066.25;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31

@@ -3,3 +3,9 @@ NPC;+STOCK;20;4;904414;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;30;3;441660.6;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;24;4;882830.4;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;27;-3;441939;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;27;0;480471.7;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;30;3;448454.4;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;28;4;864425.1;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;32;0;729931.1;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;+STOCK;34;4;438127.8;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;31;3;823701.3;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

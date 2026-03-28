@@ -7,3 +7,12 @@ NPC;-PRICE;26;0;20082.32;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;39;0;9765.379;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;BAL;24;-9;23846.24;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;-QTY;19;-9;24575.76;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;47;8;9832.449;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+LOCAL;12;25;7540;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;19;0;25440.61;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+LOCAL;12;20;7540;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;20;8;3328.33;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;1;7540;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+STOCK;20;8;3319.63;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;47;0;10849.1;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+LOCAL;12;18;7540;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

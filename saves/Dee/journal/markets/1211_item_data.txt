@@ -1,2 +1,5 @@
 NPC;+STOCK;93;11;456273.3;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;101;8;407557.5;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;112;11;363162.6;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;121;9;357986.9;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;131;10;303531.1;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

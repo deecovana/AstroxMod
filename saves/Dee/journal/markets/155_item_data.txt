@@ -22,3 +22,15 @@ NPC;+LOCAL;150;700;7.2475;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
 NPC;+QTY;240;90;2.50875;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;150;348;7.2475;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+PRICE;96;0;12.73616;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;618;101;15.21376;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;179;0;17.37175;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;97;0;15.03152;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;266;116;2.494812;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;725;107;14.3384;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;314;148;9.77409;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;411;120;13.90321;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;BAL;31;0;15.76924;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;399;133;2.498994;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;863;138;13.19904;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;97;0;15.9648;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;BAL;192;-126;19.53099;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

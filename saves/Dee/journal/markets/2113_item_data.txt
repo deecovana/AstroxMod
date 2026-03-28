@@ -15,3 +15,12 @@ NPC;BAL;83;0;43.87981;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+PRICE;112;0;32.04358;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;+QTY;1779;1648;63.35325;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;0;-129;23.74689;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+STOCK;1809;1785;23.77383;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;128;0;42.05573;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;4455;2368;58.79473;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4053;1775;62.09371;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1812;1803;35.47449;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;-PRICE;2499;0;44.32331;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;6345;1890;56.29683;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4145;1867;61.41812;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4632;2133;43.4293;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

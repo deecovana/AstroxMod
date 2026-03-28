@@ -3,3 +3,12 @@ NPC;+STOCK;86;9;8793.887;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;54;11;6594.872;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+QTY;84;6;6002.891;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+PRICE;59;0;6644.123;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+QTY;62;8;6595.391;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+STOCK;13;9;7269.99;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;18;8;8623.338;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;97;11;8352.313;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;97;0;8025.253;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;29;11;8648.214;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;38;9;8356.314;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;106;9;7618.333;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;62;0;6943.786;Gunstellar;Adrenal;14h 10m 55s ;51055.01

@@ -6,3 +6,10 @@ NPC;+STOCK;92;10;18763.2;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15
 NPC;+LOCAL;12;24;6760;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+PRICE;23;0;12023.51;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;-QTY;87;-9;21825.44;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;87;0;22111.76;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;97;10;21099.71;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;100;8;18306.54;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;55;0;9480.364;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+QTY;109;9;18322.46;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;105;8;20712.47;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;118;9;17558.98;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

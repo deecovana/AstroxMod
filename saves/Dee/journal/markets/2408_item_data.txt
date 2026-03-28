@@ -3,3 +3,5 @@ NPC;+STOCK;44;2;1190.226;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15
 NPC;-QTY;40;-2;1232.7;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;38;-2;1272.917;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;2;0;1076.71;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+STOCK;40;2;1245.831;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+PRICE;2;0;1097.375;PharmaLife;Carioullis;14h 10m 55s ;51055.01

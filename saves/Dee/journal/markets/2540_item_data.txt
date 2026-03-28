@@ -1,3 +1,4 @@
 NPC;BAL;20;-1;417425.8;Astrox Security Patrol;Felishar;1h 53m 54s ;6834.967
 NPC;+PRICE;20;0;434350.4;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;-QTY;87;-2;497282.6;Cecil;Junia;4h 19m 24s ;15564.41
+NPC;+STOCK;22;2;423385.5;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63

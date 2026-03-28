@@ -13,3 +13,11 @@ NPC;+QTY;11;7;1156.5;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+QTY;42;11;772.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+PRICE;33;0;1219.141;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+STOCK;39;8;1257.373;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;21;0;1216.539;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;0;0;751.5361;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+LOCAL;12;42;390;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;+LOCAL;12;3;390;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;29;10;846.6078;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;40;11;841.065;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;20;8;498.1001;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;30;0;1206.073;Psybermind;Ion Child;14h 10m 55s ;51055.01

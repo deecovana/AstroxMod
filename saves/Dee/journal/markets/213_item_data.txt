@@ -25,3 +25,21 @@ NPC;+LOCAL;150;223;31.6225;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;-LOCAL;0;0;125.979;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;-LOCAL;0;0;138.3422;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
 NPC;-QTY;10;-140;11.60789;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;0;0;138.6864;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;+LOCAL;150;155;31.6225;Biomate University;Void Starcross;9h 55m 27s ;35727.44
+PLAYER;-QTY;130;20;24.325;Biomate University;Void Starcross;9h 56m 24s ;35784.61
+NPC;+QTY;321;141;55.6781;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;-LOCAL;0;0;132.7532;Astrox Security Patrol;Felishar;10h 47m 13s ;38833.52
+NPC;+PRICE;130;0;17.09638;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-LOCAL;0;0;137.1744;Astrox Security Patrol;Felishar;11h 10m 1s ;40201.27
+NPC;-LOCAL;0;0;147.7892;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;-LOCAL;0;0;202.4219;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
+PLAYER;+QTY;20;20;227.8875;Horizons;Gate of Alpharis;11h 30m 41s ;41441.04
+NPC;+STOCK;270;140;15.20302;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;437;116;52.32263;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;568;131;49.5085;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;526;108;51.59792;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;696;147;47.67257;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;647;31.6225;Biomate University;Void Starcross;14h 3m 2s ;50582.58
+NPC;+PRICE;349;0;75.79748;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+LOCAL;150;43;31.6225;Biomate University;Void Starcross;14h 30m 11s ;52211.07

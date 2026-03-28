@@ -31,3 +31,24 @@ NPC;+QTY;1601;1487;29.9059;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;176
 NPC;+QTY;1822;1921;35.11525;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;10728;1326;36.54125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;0;-1773;51.28609;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;0;0;46.04869;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+PRICE;0;0;53.90947;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;1925;1925;51.32009;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;14795;2245;34.05957;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4363;1936;36.65189;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;6017;1970;58.80518;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2583;2015;44.08268;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1794;1775;68.00683;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;4927;0;32.91972;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;3565;1945;43.73988;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+QTY;1937;1726;71.45909;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;7436;1419;58.52928;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;2;0;66.49614;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+STOCK;4100;2175;48.96864;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1904;2003;33.59674;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;16697;1902;33.0885;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6103;1740;33.51301;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;9169;1733;56.70144;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2350;1782;45.2289;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6652;1725;31.28776;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;60;0;64.3597;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

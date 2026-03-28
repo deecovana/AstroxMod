@@ -26,3 +26,12 @@ NPC;+QTY;21;11;2779.735;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+STOCK;60;10;3093.477;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-QTY;56;-8;1966.793;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;5;-7;404.1049;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;37;11;3327.112;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;32;11;2779.746;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;14;0;3760.782;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;16;11;400.7176;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;67;8;2300.938;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;47;10;3265.153;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;27;11;404.6871;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;33;1100.873;Biomate University;Void Starcross;14h 3m 2s ;50582.58
+NPC;+LOCAL;12;5;1100.873;Biomate University;Void Starcross;14h 30m 11s ;52211.07

@@ -19,3 +19,9 @@ NPC;+QTY;96;18;2868.75;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;131;24;3653.172;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;37;0;3126.557;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;147;-21;2396.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;82;0;3047.759;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+STOCK;143;16;2955;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;223;24;4382.699;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;79;12;2119.062;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;168;21;2294.97;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;244;21;4171.022;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

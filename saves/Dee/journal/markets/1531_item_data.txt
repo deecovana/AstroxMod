@@ -9,3 +9,13 @@ PLAYER;-QTY;59;2;4451.184;Starbase Corporate Center;Void Starcross;5h 56m 13s ;2
 NPC;+QTY;8;6;4032.555;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;3;0;5273.311;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+LOCAL;12;3;3744.125;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;+LOCAL;12;1;3744.913;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;+LOCAL;12;2;3510.851;Astrox Security Patrol;Felishar;10h 47m 13s ;38833.52
+NPC;+STOCK;22;10;2468.154;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;75;10;2499.823;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;67;8;4262.975;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;34;11;3996.433;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+QTY;83;8;2522.82;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;71;8;3077.05;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;92;9;2379.412;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;69;10;4441.487;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

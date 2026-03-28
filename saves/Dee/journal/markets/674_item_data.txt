@@ -16,3 +16,12 @@ NPC;+PRICE;153;0;96018.19;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;114;13;96525;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;126;15;97582.47;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-QTY;145;-22;87182.88;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;149;22;123790.1;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;126;0;102328.6;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;132;18;93417.8;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;171;22;121901.1;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;89;19;77473.13;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;110;21;78115.38;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;194;23;116972.2;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;129;19;74581.57;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;154;17;76331.52;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

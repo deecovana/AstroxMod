@@ -8,3 +8,9 @@ NPC;+QTY;402;89;893.8051;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+STOCK;170;139;543.5302;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+STOCK;187;132;302.1029;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-QTY;393;-135;449.8608;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;393;0;479.7162;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;534;141;445.9124;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;527;148;535.6898;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;683;149;412.7018;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;516;137;545.6067;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;1197;256.815;Star Shepards Hub;Temple Gates;14h 8m 41s ;50921.47

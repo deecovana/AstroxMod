@@ -8,3 +8,6 @@ NPC;+QTY;49;9;4152.405;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;9;7;5819.377;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+QTY;10;7;5763.575;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;-QTY;17;-11;3320.294;Ferce;Allabentoris;7h 28m 42s ;26922.34
+NPC;+QTY;44;9;6465.488;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+QTY;13;7;5305.2;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;BAL;3;0;5818.222;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5

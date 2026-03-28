@@ -5,3 +5,10 @@ NPC;+STOCK;106;9;4616.015;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;80;11;9873.854;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;17;0;10100.17;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;95;-11;4593.56;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;17;0;8453.523;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;95;0;4678.137;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;22;10;3804.113;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;6;0;4291.078;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;91;11;9641.684;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;91;0;9269.771;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;106;11;4420.303;Biomate University;Void Starcross;14h 1m 15s ;50475.31

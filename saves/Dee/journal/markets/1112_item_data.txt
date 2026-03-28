@@ -18,3 +18,13 @@ NPC;+QTY;9;6;1495.125;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 PLAYER;-QTY;62;1;2725.903;Biomate University;Void Starcross;8h 14m 22s ;29662.24
 NPC;+PRICE;19;0;1424.443;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;56;-6;2752.11;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+PLAYER;-QTY;12;1;2575.294;Astrox Security Patrol;Felishar;10h 48m 47s ;38927.69
+NPC;+PRICE;56;0;2842.14;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;22;10;2532.412;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;37;0;1874.864;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;67;11;2750.212;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;69;11;2431.242;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;77;10;2630.479;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;35;10;1199.32;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;68;10;2405.03;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;28;0;2579.264;PharmaLife;Carioullis;14h 10m 55s ;51055.01

@@ -2,3 +2,6 @@ NPC;-PRICE;10;0;2587.247;Holosynth Industries;Rats Of Mortalis;0h 56m 50s ;3410.
 NPC;BAL;41;-9;3728.48;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;50;9;3532.823;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;72;11;1522.238;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+QTY;60;10;3526.686;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;69;9;3452.485;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;50;11;2869.466;Stinkfinger;Jonisae;12h 51m 8s ;46268.94

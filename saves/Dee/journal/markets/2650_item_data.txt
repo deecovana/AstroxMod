@@ -22,3 +22,17 @@ NPC;-QTY;0;-45;377.7806;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+PRICE;180;0;418.3017;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-QTY;0;-28;579.8587;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;923;-1347;415.422;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;5376;1353;352.2049;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;923;0;426.8797;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;2456;2456;562.097;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;3334;2411;409.1527;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;9930;2150;228.8174;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;7692;2316;336.1909;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3388;2262;498.1288;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1787;1666;546.8497;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1755;1692;358.2697;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;1787;0;534.4911;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;11788;1858;222.0136;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;9546;1854;315.4059;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2858;1732;501.0165;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3551;1764;517.9786;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

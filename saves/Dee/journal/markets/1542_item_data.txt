@@ -7,3 +7,8 @@ NPC;+QTY;49;11;12195.9;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;-PRICE;19;0;9913.246;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;BAL;13;-8;9074.481;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+QTY;21;11;9132.396;PharmaLife;Carioullis;6h 44m 29s ;24269.91
+NPC;+LOCAL;12;1;13036.25;Astrox Security Patrol;Felishar;10h 35m 10s ;38110.46
+NPC;+LOCAL;12;2;11773.57;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;+LOCAL;12;12;3807.147;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
+NPC;+STOCK;113;9;9464.891;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;113;0;8866.384;Proctors Center;Void Starcross;12h 34m 48s ;45288.88

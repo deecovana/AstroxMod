@@ -15,3 +15,17 @@ NPC;-QTY;3;-12;7043.907;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+PRICE;22;0;7873.543;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-QTY;0;-3;15357.19;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;25;-24;9289.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;22;21;9357.188;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;19;0;14147.47;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;25;0;9688.046;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;39;0;7311.833;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+PRICE;22;0;9679.903;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;47;22;9088.055;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;78;24;14909.26;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;65;19;8778.771;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;49;12;6051.938;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+QTY;78;13;8713.313;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;17;0;11872.03;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;68;21;8844.724;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;97;19;14246.93;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;22;0;10127.13;Gunstellar;Adrenal;14h 10m 55s ;51055.01

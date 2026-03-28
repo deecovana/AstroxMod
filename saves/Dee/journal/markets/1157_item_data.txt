@@ -6,3 +6,12 @@ NPC;+LOCAL;12;36;99872.5;Starbase Corporate Center;Void Starcross;4h 12m 42s ;15
 NPC;-QTY;5;-7;44174.38;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;5;0;50741.7;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+LOCAL;12;10;99872.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;+LOCAL;12;31;99872.5;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;50;0;168108.4;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+LOCAL;12;18;99872.5;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;61;11;163668.9;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;22;10;44086.03;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;1;99872.5;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+STOCK;72;11;151073.1;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;21;9;43970.79;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;19;99872.5;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

@@ -16,3 +16,12 @@ NPC;+LOCAL;12;20;1592.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;2136
 NPC;+QTY;27;8;4261.009;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+LOCAL;12;7;1592.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;+STOCK;29;10;3281.973;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+LOCAL;12;26;1592.5;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+LOCAL;12;15;1592.5;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;60;10;4063.368;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;23;11;702.9662;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;34;7;4254.67;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;-PRICE;27;0;1768.9;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+STOCK;70;10;3952.651;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;21;9;701.1288;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;21;1592.5;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

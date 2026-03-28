@@ -12,3 +12,13 @@ NPC;-QTY;4;-8;1566.875;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1556
 NPC;BAL;4;0;1797.465;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;10;0;8670.636;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;+LOCAL;12;19;3542.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
+NPC;+LOCAL;12;36;3542.5;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;10;0;8886.426;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+LOCAL;12;17;3542.5;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;37;8;10202.07;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;21;9;1563.741;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;73;10;11002.75;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;45;8;10059.41;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;23;11;1559.654;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;10;0;9096.25;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+LOCAL;12;19;3542.5;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

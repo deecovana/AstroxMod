@@ -6,3 +6,9 @@ NPC;+STOCK;29;11;3180.775;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;32;0;3393.728;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;56;8;2072.173;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;-QTY;34;-8;2664.807;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;34;0;2752.395;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;42;8;2602.657;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;29;0;3126.761;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;50;8;2506.406;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;38;9;3094.082;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;56;0;2204.749;Psybermind;Ion Child;14h 10m 55s ;51055.01

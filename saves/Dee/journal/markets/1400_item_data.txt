@@ -7,3 +7,12 @@ NPC;+QTY;38;8;2495.625;Foodmaid;Daelus;6h 44m 29s ;24269.91
 PLAYER;-QTY;64;1;1977.766;Biomate University;Void Starcross;8h 9m 56s ;29396.25
 NPC;+PRICE;8;0;4311.043;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;-QTY;56;-8;2031.15;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+PLAYER;+QTY;39;1;3650.969;Astrox Security Patrol;Felishar;10h 53m 2s ;39182.17
+NPC;+PRICE;6;0;5948.035;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;56;0;2259.673;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;49;10;3429.335;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;67;11;1993.146;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+PLAYER;-QTY;5;2;3579.881;Ferce Hub;Semja;12h 33m 50s ;45230.7
+NPC;+STOCK;78;11;1714.45;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+PLAYER;+QTY;0;2;0;Starbase Corporate Center;Void Starcross;14h 13m 57s ;51237.79
+PLAYER;+QTY;68;1;1977.095;Biomate University;Void Starcross;14h 39m 2s ;52742.96

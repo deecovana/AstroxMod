@@ -8,3 +8,10 @@ NPC;+STOCK;31;23;118666.9;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;40;18;132825;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;27;16;168525;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;-QTY;10;-20;81753;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;33;15;136633.9;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+QTY;69;20;141500.6;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;10;0;84033.23;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;30;20;74781.38;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;31;0;116170.1;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;49;19;72089.27;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;47;16;105850.7;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

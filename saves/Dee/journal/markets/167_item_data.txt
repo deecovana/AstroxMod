@@ -25,3 +25,13 @@ NPC;+QTY;175;76;46.72882;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;-QTY;97;-121;97.04694;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;192;95;97.04694;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-LOCAL;59;59;100.2083;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+QTY;559;78;56.62016;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+STOCK;205;146;97.96767;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;924;116;40.82813;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;178;142;40.82461;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1279;136;59.11253;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1279;0;56.96072;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;1073;149;40.77886;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;319;114;95.27588;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;173;137;39.55439;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1418;139;53.80943;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

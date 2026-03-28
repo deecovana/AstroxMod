@@ -27,3 +27,28 @@ NPC;-LOCAL;8126;0;195.6379;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 PLAYER;+QTY;9778;145;153.3012;StarGypsy Warehouse;Void Starcross;9h 36m 26s ;34586.64
 NPC;-QTY;0;-747;75.06754;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;1520;-3096;157.4829;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;7580;0;172.125;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+QTY;14500;4722;150.2814;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;4364;3991;112.2733;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;1520;0;164.032;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;4364;0;115.4739;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+PRICE;5695;0;87.20106;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;-LOCAL;0;0;382.5;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;-LOCAL;0;0;382.5;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+PLAYER;+QTY;214;140;99.97976;Starbase Corporate Center;Void Starcross;11h 57m 56s ;43076.8
+NPC;+STOCK;5904;4384;159.7828;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;17362;3588;133.3475;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;18043;3543;147.2246;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;11814;4234;173.0456;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;9365;0;172.125;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;+QTY;3805;3382;86.26331;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;3969;3969;68.74422;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;411;0;104.199;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;21911;4549;125.8812;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;22101;4058;141.5163;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;8996;4681;82.44211;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4708;4494;91.78608;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;14034;4669;178.3853;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;0;0;382.5;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
+NPC;+PRICE;4364;0;119.8773;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;BAL;233;0;93.96024;Foodmaid;Daelus;14h 12m 27s ;51147.38

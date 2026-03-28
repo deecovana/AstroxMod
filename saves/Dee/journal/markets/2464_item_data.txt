@@ -1,3 +1,6 @@
 NPC;+STOCK;4;2;1859.869;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;22;2;1700.46;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;+STOCK;6;2;1766.387;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;8;2;1721.005;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;8;0;1641.232;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;10;2;1580.216;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

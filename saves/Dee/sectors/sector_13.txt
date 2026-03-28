@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;13
 SECTOR;name;Jala
-SECTOR;level;5.7
+SECTOR;level;5.8
 SECTOR;faction;Labor
 SECTOR;filename;sector_13.txt
 SECTOR;is_explored;False

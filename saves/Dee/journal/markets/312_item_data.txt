@@ -31,3 +31,28 @@ NPC;-LOCAL;0;0;146.8148;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
 NPC;+PRICE;25;0;47.43554;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;14;0;70.97348;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-LOCAL;0;0;187;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
+NPC;+QTY;680;680;223.6736;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;951;937;44.41718;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;-LOCAL;62;62;84.15;StarGypsy Warehouse;Void Starcross;10h 11m 22s ;36682.7
+NPC;+PRICE;34;0;70.18901;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;12;0;46.06332;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;852;0;52.58021;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;744;741;75.51819;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;951;0;47.68253;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;1728;876;50.34772;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3066;988;61.89222;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1045;983;85.54806;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1763;746;34.22906;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1043;671;46.788;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1671;953;54.52257;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1671;0;51.6392;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;2655;892;34.47439;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;45;0;67.38954;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;2394;666;49.29478;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3817;751;59.10182;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1954;909;82.62872;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1074;702;46.96334;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2494;823;48.79681;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;951;0;50.883;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;45;0;68.52436;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;11;0;42.58377;PharmaLife;Carioullis;14h 10m 55s ;51055.01

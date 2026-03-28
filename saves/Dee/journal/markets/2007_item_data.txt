@@ -13,3 +13,13 @@ NPC;BAL;56;-129;380.4032;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16
 NPC;+QTY;477;105;198.3083;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+LOCAL;49;19;321.9754;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
 NPC;+QTY;618;141;198.3083;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+LOCAL;150;380;136.4025;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+LOCAL;150;271;136.4025;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;749;131;181.1375;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1257;148;288.0757;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;451;137;438.4297;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1384;127;289.9655;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;874;125;161.6444;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1533;149;270.3315;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;269;119;60.05383;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;192;136.4025;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

@@ -2,3 +2,5 @@ NPC;+QTY;71;10;36800.51;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;BAL;26;-9;48249.16;ValueStar;Hunu;2h 58m 0s ;10680.39
 NPC;-QTY;0;-8;29622.36;Terra Drone;Geminey;4h 11m 42s ;15102.06
 NPC;+PRICE;9;0;30381.19;PharmaLife;Carioullis;4h 52m 11s ;17531.62
+NPC;+QTY;20;11;30440.54;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;-PRICE;39;0;34873.73;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88

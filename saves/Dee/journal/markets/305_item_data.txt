@@ -32,3 +32,24 @@ NPC;+QTY;889;870;101.5923;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;10;0;105.9755;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;0;-27;100.5888;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;125;-769;148.468;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;979;968;85.21503;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;1499;529;129.7762;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;-LOCAL;71;71;168.4368;StarShepards Headquarters;Void Starcross;10h 9m 47s ;36587.3
+NPC;+PRICE;2;0;155.2678;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;125;0;153.6966;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;9;0;124.1145;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+PRICE;2;0;90.05204;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;1077;952;148.609;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2396;897;127.0076;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;991;920;174.9646;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1690;699;174.8444;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;-LOCAL;36;0;165.4875;Temple of the Void;Vindicati;12h 51m 19s ;46279.07
+NPC;+STOCK;744;708;170.1845;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;-LOCAL;29;0;165.4875;Temple of the Void;Vindicati;13h 32m 8s ;48728.66
+NPC;+STOCK;1840;763;146.4621;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4238;997;130.7556;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3138;742;125.1478;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2359;669;171.4579;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1635;794;66.59189;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1811;818;88.22794;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;12;0;136.766;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

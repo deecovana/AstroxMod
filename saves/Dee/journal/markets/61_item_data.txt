@@ -19,3 +19,18 @@ NPC;+QTY;2063;1847;94.8375;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;2451;2378;87.26344;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;-QTY;0;-9;74.66344;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;-QTY;0;-309;95.33701;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;4234;1783;87.237;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;2208;2165;88.25738;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;0;0;98.21377;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;2455;2298;102.9491;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;10;0;99.85013;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+PRICE;249;0;78.73078;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;9633;2351;92.21027;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;4761;0;55.40033;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;4423;1764;50.47988;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+LOCAL;2500;37887;29.25;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
+NPC;+STOCK;1983;1983;97.0798;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;11597;1964;89.03845;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6836;2413;46.51896;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;2063;0;96.93098;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;4234;0;90.80244;PharmaLife;Carioullis;14h 10m 55s ;51055.01

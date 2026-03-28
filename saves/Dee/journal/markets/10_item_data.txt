@@ -8,3 +8,14 @@ NPC;-LOCAL;0;0;3725;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;-LOCAL;5193;0;1676.25;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
 NPC;-LOCAL;4959;0;1676.25;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;-QTY;0;-250;594.957;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;2606;0;1676.25;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+PRICE;0;0;628.4154;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-LOCAL;0;0;3725;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;-LOCAL;0;0;3725;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;3359;3359;573.2567;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;6157;3551;1700.446;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;2960;0;1676.25;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;-PRICE;2960;0;1672.917;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;7501;4142;543.3916;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;7502;4542;1644.084;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;0;0;3725;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03

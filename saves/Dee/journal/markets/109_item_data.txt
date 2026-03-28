@@ -25,3 +25,21 @@ NPC;+LOCAL;250;34;5.95462;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
 NPC;+LOCAL;62;19;3.582576;Tella's;Bitcola;7h 35m 32s ;27332.98
 NPC;+STOCK;329;221;4.406747;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-QTY;245;-209;5.170444;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+QTY;1179;182;4.44838;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;314;0;4.71005;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;979;174;3.640807;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1365;186;4.333822;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;917;217;2.200098;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;620;192;2.782443;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1075;171;5.33516;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;581;172;2.822659;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;1075;0;5.251803;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;1025;136;3.428379;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;1152;235;2.197526;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;474;-178;4.504531;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;616;218;2.656597;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1213;234;3.395491;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1345;193;1.947571;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;611;183;2.77912;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1320;245;5.115131;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;338;0;2.216044;Gunstellar;Adrenal;14h 10m 55s ;51055.01

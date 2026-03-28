@@ -32,3 +32,26 @@ NPC;-LOCAL;0;0;142.4967;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
 NPC;+PRICE;3;0;83.0746;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;-LOCAL;77;77;81.675;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
 NPC;-QTY;0;-3;74.32879;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+QTY;1045;968;85.50748;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;827;804;64.89079;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;-LOCAL;440;0;81.675;StarGypsy Warehouse;Void Starcross;10h 11m 22s ;36682.7
+NPC;+PRICE;35;0;52.78257;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;775;0;62.75051;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;832;832;71.92651;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;0;0;74.317;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;1522;747;60.58902;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4419;841;32.45414;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1402;962;82.77611;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1333;777;40.48978;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2809;985;28.62272;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;848;840;44.53738;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;2809;0;26.1725;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;711;685;37.52172;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+QTY;1870;878;51.61043;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;2502;980;58.91692;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;5188;769;29.78524;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2261;859;79.26151;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2771;901;49.38311;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1441;885;41.45572;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3509;700;24.81392;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;29;0;59.52313;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

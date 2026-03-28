@@ -4,3 +4,9 @@ NPC;+STOCK;31;10;341644.5;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;38;9;178979.7;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;40;9;336440.9;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;55;10;129720.4;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+QTY;44;6;178794;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;47;0;200728.1;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;50;10;323979.5;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;52;8;169625.6;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;59;9;312174;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;75;-7;177677;Foodmaid;Daelus;14h 12m 27s ;51147.38

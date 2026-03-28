@@ -24,3 +24,10 @@ NPC;+PRICE;52;0;18.10976;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;142;0;43.33755;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;0;-445;24.03187;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;0;-1933;54.465;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;0;0;56.17564;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;10717;2289;17.13514;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;4254;0;38.12809;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;BAL;38;0;44.72331;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;BAL;15;0;41.45851;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+STOCK;12766;2049;15.67145;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4531;2166;45.6688;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

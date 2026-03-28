@@ -5,3 +5,7 @@ NPC;+STOCK;42;10;23437.63;Starbase Corporate Center;Void Starcross;4h 12m 27s ;1
 NPC;-QTY;25;-7;23804.63;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;18;-7;23417.46;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+STOCK;69;11;23970.15;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+STOCK;28;10;22958.58;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;69;0;23264.44;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+QTY;43;10;16851.11;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+STOCK;29;11;22716.3;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

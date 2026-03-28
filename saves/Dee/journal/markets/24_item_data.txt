@@ -23,3 +23,23 @@ NPC;-LOCAL;2003;0;1867.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;213
 NPC;-LOCAL;809;0;1867.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 PLAYER;+QTY;0;1;0;Horizons;Gate of Alpharis;9h 39m 11s ;34751.77
 NPC;-QTY;1398;-4066;1741.838;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;13318;4508;1497.704;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;3578;3397;1294.411;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;-LOCAL;45;45;1867.5;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;1398;0;1791.131;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-LOCAL;34;34;1869.815;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;18210;4892;1467.589;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4182;4148;1896.508;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;9237;4349;1545.372;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;27;0;1867.5;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+QTY;4348;4144;1979.161;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;9237;0;1472.902;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;3373;2880;817.1039;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;7571;3721;1412.473;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;5185;3787;1742.336;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;10864;3871;1512.819;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;21750;3540;1445.49;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;12025;4454;1375.119;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4902;4875;1915.995;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;13090;3853;1421.311;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;2717;0;1867.5;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

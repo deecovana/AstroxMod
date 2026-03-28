@@ -15,3 +15,10 @@ NPC;+STOCK;14;9;2120.748;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;-QTY;0;-6;1829.817;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;+LOCAL;12;3;691.8275;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;-QTY;2;-7;1446.026;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+LOCAL;12;13;691.8275;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+STOCK;23;11;306.1337;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;28;691.8275;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;-PRICE;12;0;306.1337;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;18;9;1408.933;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;BAL;7;0;1590.814;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;21;9;306.1337;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

@@ -15,3 +15,17 @@ NPC;-PRICE;702;0;6633.087;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-LOCAL;3861;0;13162.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
 NPC;-LOCAL;2473;0;13162.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;-QTY;0;-511;10303.46;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-LOCAL;6;6;13162.5;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;3719;0;9016.969;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-LOCAL;20;20;13285.75;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;8452;4733;8695.357;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;13353;3722;5317.523;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4287;4267;13263.08;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;11436;3999;8115.867;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;8;0;13210.98;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;-PRICE;11436;0;7690.71;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;16220;2867;5275.384;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;12076;3624;8492.959;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;20130;3910;4903.968;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;15072;3636;7531.891;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;26;26;13277.33;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

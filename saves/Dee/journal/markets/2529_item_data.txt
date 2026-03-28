@@ -5,3 +5,5 @@ NPC;-QTY;48;-2;11776.59;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;BAL;47;-1;13237.85;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-PRICE;13;0;5497.529;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;-QTY;11;-2;11308.85;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+STOCK;13;2;10657.76;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;49;2;12609.5;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46

@@ -18,3 +18,15 @@ NPC;+QTY;2089;2062;22.03138;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
 NPC;+STOCK;2087;2013;30.80927;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;155;0;15.87463;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-QTY;509;-2055;24.24041;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;509;0;25.13808;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;15;0;20.45263;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+PRICE;27;0;31.41495;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;2871;2362;24.35784;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;5674;2059;30.44376;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1660;1540;17.30369;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;5674;0;29.20539;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;2479;2282;32.05615;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;223;0;24.2242;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+LOCAL;2500;19936;10.9525;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
+NPC;+STOCK;4753;1882;23.8124;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6037;1975;29.30256;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

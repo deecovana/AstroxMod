@@ -6,3 +6,6 @@ NPC;+STOCK;5;2;67093.38;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;13;2;61376.67;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;7;2;67440;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;9;2;67440;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;15;2;61654.2;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;11;2;65773.28;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;17;2;60271.39;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46

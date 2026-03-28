@@ -17,3 +17,12 @@ NPC;+QTY;886;134;54.095;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;202;138;45.91933;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+STOCK;479;101;22.16921;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;69;0;59.89663;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;151;121;27.2366;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+STOCK;1010;124;52.02106;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1098;138;48.73761;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;479;0;20.20395;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;1098;0;45.79645;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;680;141;70.81834;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+STOCK;1127;117;49.91413;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;31;0;34.37662;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;BAL;602;-134;65.95636;Foodmaid;Daelus;14h 12m 27s ;51147.38

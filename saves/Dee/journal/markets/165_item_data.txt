@@ -17,3 +17,14 @@ NPC;+QTY;145;108;76.68281;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;299;144;35.28719;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-LOCAL;34;34;74.8125;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;-QTY;458;-114;70.44345;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;944;140;52.68338;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;594;145;34.16853;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;458;0;72.12175;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;567;109;69.14872;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;175;141;72.3111;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1068;124;49.41384;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;130;80;65.98338;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+STOCK;707;140;67.79008;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;295;120;71.0649;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;112;0;55.98567;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;BAL;119;-113;62.5294;Foodmaid;Daelus;14h 12m 27s ;51147.38

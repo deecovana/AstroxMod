@@ -3,3 +3,7 @@ NPC;+STOCK;36;2;2272.579;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;38;2;2137.76;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;54;-2;1059.614;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;53;-1;1194.78;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+STOCK;40;2;2073.488;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;40;0;2040.823;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;55;2;1084.907;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;42;2;1947.334;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

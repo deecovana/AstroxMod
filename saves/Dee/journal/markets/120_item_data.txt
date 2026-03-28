@@ -5,3 +5,8 @@ NPC;+STOCK;1638;242;112.7377;Biomate University;Void Starcross;4h 12m 27s ;15147
 NPC;+STOCK;1147;195;220.6415;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+LOCAL;60;26;192.7668;Tella's;Bitcola;7h 35m 32s ;27332.98
 NPC;-QTY;1442;-196;111.9776;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;1442;0;120.9992;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;1636;194;115.1259;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1147;0;208.8681;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;1815;179;104.0147;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1366;219;197.3107;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

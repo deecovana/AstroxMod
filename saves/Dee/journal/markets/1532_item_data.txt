@@ -3,3 +3,6 @@ NPC;+PRICE;31;0;15623.49;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+QTY;24;11;10140.08;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;+QTY;21;7;10330.05;Psybermind;Ion Child;2h 36m 11s ;9371.667
 NPC;+PRICE;20;0;9248.772;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+LOCAL;12;1;15642.73;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;+LOCAL;12;2;13775;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;+QTY;28;8;9184.724;Quantex;Dellis Primeria;12h 33m 5s ;45185.51

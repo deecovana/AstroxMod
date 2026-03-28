@@ -29,3 +29,18 @@ NPC;+STOCK;101;101;190.6514;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-LOCAL;0;0;198.7363;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
 NPC;-QTY;427;-149;98.71861;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;4;-146;14.70969;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;0;0;199.1725;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;+QTY;761;119;95.21612;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;-LOCAL;0;0;181.7898;Astrox Security Patrol;Felishar;10h 47m 13s ;38833.52
+NPC;+PRICE;4;0;16.10866;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-LOCAL;0;0;187.3924;Astrox Security Patrol;Felishar;11h 10m 1s ;40201.27
+NPC;-LOCAL;0;0;200.8437;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;-LOCAL;0;0;279.939;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
+NPC;+STOCK;126;122;14.58639;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1145;115;92.76817;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;887;126;91.37216;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;285;0;107.2976;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+STOCK;1271;126;87.14608;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;989;102;86.1512;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;633;40.0725;Biomate University;Void Starcross;14h 3m 2s ;50582.58
+NPC;+LOCAL;150;66;40.0725;Biomate University;Void Starcross;14h 30m 11s ;52211.07

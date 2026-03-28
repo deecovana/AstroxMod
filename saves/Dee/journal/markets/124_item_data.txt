@@ -16,3 +16,13 @@ NPC;+STOCK;334;166;61.63412;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;788;166;109.0344;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+LOCAL;186;18;80.12804;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
 NPC;+PRICE;595;0;97.14779;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+PRICE;1489;0;80.24597;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;846;0;102.6484;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;1715;226;77.60587;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;288;169;67.30509;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;937;178;66.59078;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;505;132;83.11597;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;1114;167;104.8639;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;1912;197;74.25967;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;735;230;80.79546;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1186;249;63.00258;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

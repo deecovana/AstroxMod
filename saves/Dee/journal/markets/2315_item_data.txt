@@ -1,3 +1,5 @@
 NPC;BAL;26;-1;21200.77;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;+QTY;5;2;12283.68;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+PRICE;26;0;21675.23;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+PRICE;25;0;34947.25;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;BAL;35;-2;24331.79;Psybermind;Ion Child;13h 31m 19s ;48679.5

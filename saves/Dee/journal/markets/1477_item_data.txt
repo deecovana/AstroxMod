@@ -6,3 +6,6 @@ NPC;BAL;15;-10;142887.7;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;+LOCAL;12;63;48750;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
 NPC;+QTY;18;6;16875;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;63;-8;159095.6;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+STOCK;26;8;16781.25;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;37;11;16809.38;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;26;11;136424.8;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

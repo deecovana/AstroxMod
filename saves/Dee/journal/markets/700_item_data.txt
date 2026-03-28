@@ -9,3 +9,10 @@ NPC;+STOCK;119;24;4133.615;Biomate University;Void Starcross;4h 12m 27s ;15147.9
 NPC;-PRICE;68;0;4494.521;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;-QTY;106;-13;4146.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
 NPC;-QTY;0;-15;2596.5;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+PRICE;106;0;4379.189;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;35;18;4786;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;80;0;3095.3;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;126;20;4190.844;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;83;19;3569.063;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;149;23;3976.654;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;13;0;3092.007;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

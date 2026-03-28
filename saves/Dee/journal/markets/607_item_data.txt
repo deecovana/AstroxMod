@@ -11,3 +11,17 @@ NPC;+LOCAL;5;1;432863.2;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
 NPC;-PRICE;0;0;546524.8;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;12;0;332084.6;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;-QTY;30;-3;431236;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;27;0;576700.8;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;34;4;414345.5;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;53;3;535245.7;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;35;3;515422.7;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;42;3;502666.3;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;15;2;376382.5;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;5;0;318282.8;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;-PRICE;42;0;481025.4;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;55;2;536061.5;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;37;3;400821.3;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;58;3;525785.8;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;35;3;518907.4;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;46;4;474487.7;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;17;-4;522193.3;Foodmaid;Daelus;14h 12m 27s ;51147.38

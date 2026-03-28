@@ -14,3 +14,9 @@ NPC;+QTY;649;108;273.955;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;150;161;121.55;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
 NPC;+LOCAL;150;41;121.55;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
 NPC;+LOCAL;150;165;121.55;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
+NPC;+QTY;296;146;53.19448;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;788;139;265.562;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;444;148;53.19448;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;591;117;192.5328;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;903;115;249.3655;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;552;108;52.93152;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

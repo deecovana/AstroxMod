@@ -4,3 +4,10 @@ NPC;+STOCK;24;8;128614.4;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;19;10;68687.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+STOCK;26;8;65297.61;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;33;9;126288.7;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;34;8;56824.74;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;43;10;123849.6;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;43;0;120932.1;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;25;10;103640.5;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;40;6;56155.31;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;48;8;53310.89;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;53;10;113507.7;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

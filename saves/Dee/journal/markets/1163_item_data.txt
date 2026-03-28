@@ -11,3 +11,12 @@ NPC;BAL;12;0;4575.439;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821
 NPC;+LOCAL;12;13;7117.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
 NPC;+LOCAL;12;8;7117.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;+QTY;46;11;19723.89;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+PRICE;32;0;19591.32;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+LOCAL;12;15;7117.5;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;20;8;3141.829;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;1;7117.5;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+QTY;39;7;14721.86;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;BAL;10;-6;17057.65;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;22;10;3133.616;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;32;0;20211.69;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+LOCAL;12;14;7117.5;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

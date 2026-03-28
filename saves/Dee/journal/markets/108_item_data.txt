@@ -25,3 +25,18 @@ NPC;-PRICE;452;0;14.95531;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 PLAYER;+QTY;486;18;10.23957;StarGypsy Warehouse;Void Starcross;5h 30m 42s ;19842.94
 NPC;+QTY;1273;131;12.198;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 PLAYER;+QTY;742;11;10.545;Starbase Corporate Center;Void Starcross;6h 55m 32s ;24932.07
+NPC;+QTY;653;167;10.06591;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;743;189;15.98238;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1457;184;11.81527;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;855;202;9.354352;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;966;224;9.533473;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;775;0;15.21396;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;639;149;11.43392;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;754;141;13.08549;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;518;191;15.97668;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;986;243;15.62209;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1083;228;8.817734;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;922;168;12.30466;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;943;201;9.690892;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;984;209;14.54868;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;325;0;8.680355;Gunstellar;Adrenal;14h 10m 55s ;51055.01

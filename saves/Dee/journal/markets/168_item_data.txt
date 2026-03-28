@@ -31,3 +31,17 @@ NPC;+QTY;274;88;37.50295;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+LOCAL;150;193;17.9075;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+STOCK;282;108;23.2876;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;111;0;26.20299;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+QTY;332;88;24.45407;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;82;0;35.41624;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+PRICE;332;0;26.65934;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;295;145;6.164313;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;823;124;49.95122;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;296;149;46.20316;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1308;144;34.85459;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;940;117;50.1899;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;6;0;53.37054;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+STOCK;434;139;6.174644;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1071;131;47.78202;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1414;106;33.91682;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;332;0;28.13282;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;185;0;48.03365;PharmaLife;Carioullis;14h 10m 55s ;51055.01

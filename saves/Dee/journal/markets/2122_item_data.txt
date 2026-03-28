@@ -26,3 +26,16 @@ NPC;-QTY;0;-10;694.5417;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;2424;2424;694.5417;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;167;0;453.9892;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-QTY;0;-333;286.2438;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;6397;1504;607.1633;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;8069;1672;579.8913;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2335;2434;383.407;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4576;2223;319.1481;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;2257;2144;356.2162;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;4304;0;673.3994;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;11039;1841;381.684;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+QTY;3754;1419;381.684;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;10352;2283;548.1771;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;13179;2140;351.9541;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6062;2308;360.9874;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4081;1728;317.5611;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;1568;0;616.4389;PharmaLife;Carioullis;14h 10m 55s ;51055.01

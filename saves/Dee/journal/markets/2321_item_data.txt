@@ -4,3 +4,4 @@ NPC;-QTY;24;-2;56157.06;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;BAL;23;-1;69936.81;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;26;-1;142756.9;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+PRICE;26;0;149255.2;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+STOCK;25;2;66634.61;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

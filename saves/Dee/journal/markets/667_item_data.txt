@@ -14,3 +14,15 @@ NPC;+STOCK;41;3;311046.7;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;38;-2;547950;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+PRICE;14;0;424537.6;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-QTY;8;-3;301236;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;8;0;324065.8;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;11;3;306383.4;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;37;3;177395;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;42;4;528933;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;45;4;299608.3;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;41;3;303582.5;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;45;0;292320;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;41;4;177261.5;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;45;4;149626;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;41;3;524855.8;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;49;4;285099.8;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;35;-4;249551.9;Foodmaid;Daelus;14h 12m 27s ;51147.38

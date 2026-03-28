@@ -16,3 +16,17 @@ NPC;+STOCK;156;120;187.995;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;476;115;229.9151;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;490;126;135.1721;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;-QTY;232;-98;218.6603;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+LOCAL;150;352;106.1775;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;232;0;228.6405;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+LOCAL;150;222;106.1775;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;376;144;216.5592;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1043;133;295.8233;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;278;128;46.8692;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;740;145;319.5827;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;150;2;106.1775;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;-PRICE;740;0;303.9967;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;1134;91;294.3199;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;382;-94;253.8868;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;496;120;211.052;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;280;130;46.74669;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;885;145;294.736;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

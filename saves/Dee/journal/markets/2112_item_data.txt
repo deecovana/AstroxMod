@@ -22,3 +22,20 @@ NPC;BAL;9;0;38.69762;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+QTY;4283;1734;34.32425;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;2599;2217;35.67385;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-QTY;0;-379;19.04086;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;6978;2459;37.76201;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;0;0;20.91105;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;2303;2289;53.00329;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;1672;1672;19.97705;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1651;1750;33.69538;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;8907;1929;35.2799;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;7763;1758;37.51176;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;6735;2156;17.82295;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;6735;0;16.10141;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;1901;2000;44.72255;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;4053;2381;18.09383;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;11626;2484;37.36716;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3500;1849;32.93814;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;11011;2104;33.66496;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3996;2095;43.82977;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;8447;1712;15.0212;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;1963;-2320;37.83903;Foodmaid;Daelus;14h 12m 27s ;51147.38

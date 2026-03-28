@@ -32,3 +32,25 @@ NPC;+QTY;334;219;1.765332;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;1036;180;2.185332;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;44;0;1.851067;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;72;-192;0.90153;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;882;148;0.7816856;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;72;0;0.9364969;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;1036;0;2.229309;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;267;195;0.8408135;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1026;209;1.233073;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1126;244;0.7562667;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1428;166;1.809064;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;742;197;1.31243;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1320;187;1.685858;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;462;172;1.016006;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;1320;0;1.65654;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;601;139;2.002271;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;1535;187;1.92616;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;560;-144;1.332855;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;472;205;0.7748585;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1226;200;1.190419;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1336;210;0.6923695;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1611;183;1.696462;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;768;223;1.301921;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1529;209;1.577692;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;560;0;1.421788;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;60;0;2.204244;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

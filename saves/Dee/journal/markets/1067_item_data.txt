@@ -7,3 +7,10 @@ NPC;+QTY;10;7;16936.05;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+QTY;86;7;17158;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;0;-11;11294.15;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;21;-7;6243.12;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;24;6;9270.15;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;21;0;6615.379;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;29;8;6045.499;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;96;10;16675.52;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;37;8;5540.794;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;106;10;15873.49;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;25;-6;18010.9;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

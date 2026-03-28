@@ -16,3 +16,15 @@ NPC;BAL;86;0;45.11059;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;BAL;65;0;31.66637;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+PRICE;65;0;33.24988;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;0;-13;26.38643;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+QTY;1932;1667;44.09642;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;24;0;32.10156;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+STOCK;1943;1943;24.33767;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;118;0;34.89056;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;3935;2003;42.14609;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2034;1979;36.97388;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;2658;2325;28.25842;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;2034;0;36.11143;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;BAL;21;0;30.09753;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+LOCAL;2500;28322;15.21;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
+NPC;+STOCK;5898;1963;40.44947;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3970;1936;34.93177;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

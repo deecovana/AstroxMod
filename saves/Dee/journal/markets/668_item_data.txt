@@ -9,3 +9,10 @@ NPC;+STOCK;14;4;729028.4;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;41;-3;356206.1;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+QTY;42;4;869501.2;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-QTY;10;-4;568247;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;10;0;580257.9;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;51;4;711636.3;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;14;0;711486.6;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;55;4;711701.1;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;14;4;561487.1;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;59;4;673341.8;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;17;3;704740.9;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

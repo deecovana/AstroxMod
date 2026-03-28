@@ -5,3 +5,4 @@ NPC;BAL;22;-1;21398.05;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;-QTY;1;-1;37606.07;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;-QTY;14;-2;14601.86;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;3;2;37606.07;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-PRICE;4;0;19062.07;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88

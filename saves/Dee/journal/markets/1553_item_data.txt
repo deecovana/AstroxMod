@@ -14,3 +14,11 @@ NPC;+LOCAL;12;1;31858.9;Biomate University;Void Starcross;3h 41m 18s ;13278.96
 NPC;BAL;32;-7;92021.11;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+LOCAL;12;22;31858.9;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;-QTY;1;-11;11694.67;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+LOCAL;12;11;31858.9;Biomate University;Void Starcross;9h 55m 27s ;35727.44
+NPC;+PRICE;12;0;14143.29;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;36;10;73735.39;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;23;11;11596.64;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;32;9;11711.52;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;28;31858.9;Biomate University;Void Starcross;14h 3m 2s ;50582.58
+NPC;+LOCAL;12;5;31858.9;Biomate University;Void Starcross;14h 30m 11s ;52211.07
+PLAYER;-QTY;10;2;24506.85;Biomate University;Void Starcross;14h 44m 28s ;53068.73

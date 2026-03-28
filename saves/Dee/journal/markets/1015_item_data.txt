@@ -4,3 +4,5 @@ NPC;+STOCK;82;11;2859.861;Starbase Corporate Center;Void Starcross;4h 12m 27s ;1
 NPC;BAL;63;-8;2978.446;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;61;9;4900.5;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+PRICE;25;0;3650.893;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+STOCK;72;9;2832.598;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;72;9;2895.487;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

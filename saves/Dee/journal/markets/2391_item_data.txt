@@ -4,3 +4,6 @@ NPC;+STOCK;65;2;354.7132;Starbase Corporate Center;Void Starcross;2h 26m 24s ;87
 NPC;+QTY;67;2;380.765;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+STOCK;10;2;539.9664;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;67;2;335.61;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;12;2;520.3367;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;67;2;332.6768;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;14;2;510.2894;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

@@ -17,3 +17,13 @@ NPC;-PRICE;30;0;13038.86;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
 NPC;BAL;12;-13;10552.49;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;55;0;8699.479;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;-QTY;127;-14;13339.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;55;0;8943.507;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;127;0;13753.03;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;140;13;13503.07;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;192;13;12760.18;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;26;14;10158.75;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;217;10;12031.61;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;67;0;13460.53;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;217;0;11599.54;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;BAL;5;0;5891.298;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+STOCK;151;11;12923.09;Biomate University;Void Starcross;14h 1m 15s ;50475.31

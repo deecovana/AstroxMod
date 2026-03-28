@@ -15,3 +15,12 @@ NPC;+STOCK;61;14;118411.5;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;152;10;102712.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+STOCK;46;12;99743.14;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-QTY;158;-14;131884.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;106;0;101546.3;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+PRICE;5;0;89002.52;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;169;11;128671.9;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;165;13;99416.66;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;34;8;68221.31;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;46;0;96057.42;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;104;0;112837;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;179;10;122744.9;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;179;14;97028.73;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31

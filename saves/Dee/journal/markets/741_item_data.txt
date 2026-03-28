@@ -14,3 +14,12 @@ NPC;+PRICE;74;0;47501.88;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+STOCK;52;13;47164.79;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;33;7;40612.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;185;-11;43618.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;43;9;42850.4;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;185;0;45182.83;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;197;12;44465.68;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;47;14;39881.78;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;55;12;41320.44;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;109;12;27791.01;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;210;13;43749.81;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;120;11;26446.17;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;2;0;48005.67;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

@@ -26,3 +26,17 @@ NPC;+QTY;52;8;14243.91;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+QTY;42;11;11709.52;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+STOCK;42;12;16066.11;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-QTY;79;-14;5989.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;63;11;14239.5;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+PRICE;79;0;6642.739;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;1;0;6423.275;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;153;12;3662.151;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;67;12;7387.465;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;175;11;12104.78;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;73;10;14224.5;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;39;8;8601.938;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;175;0;11428.64;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;94;7;12333.47;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+STOCK;91;12;6103.891;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;166;13;3296.769;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;68;13;7192.097;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;43;0;16225.58;Gunstellar;Adrenal;14h 10m 55s ;51055.01

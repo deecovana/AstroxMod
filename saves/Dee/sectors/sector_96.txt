@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;96
 SECTOR;name;Arch of Mori
-SECTOR;level;9
+SECTOR;level;8.9
 SECTOR;faction;Temple
 SECTOR;filename;sector_96.txt
 SECTOR;is_explored;True
@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;null
+SECTOR;event_type;resources#54750#23#9
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;-198.5435;-104.7486;-1241.626

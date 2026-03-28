@@ -5,3 +5,8 @@ NPC;+STOCK;72;10;14662.25;StarShepards Headquarters;Void Starcross;4h 12m 27s ;1
 NPC;-PRICE;12;0;17316.29;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 PLAYER;-QTY;70;2;14712.91;StarShepards Headquarters;Void Starcross;6h 0m 58s ;21658.07
 PLAYER;-QTY;13;1;9688.984;Lacuna Bandits;Ballast Crow;6h 34m 49s ;23689.06
+PLAYER;-QTY;36;1;17216.72;Astrox Security Patrol;Felishar;11h 11m 16s ;40276.52
+PLAYER;-QTY;35;1;17391.72;Astrox Security Patrol;Felishar;11h 19m 58s ;40798.49
+NPC;+STOCK;81;11;14706.2;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;8;7;8964.047;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;91;10;14715.53;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94

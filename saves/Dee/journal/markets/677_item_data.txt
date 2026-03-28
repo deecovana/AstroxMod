@@ -13,3 +13,10 @@ NPC;+QTY;52;20;213656.3;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;75;21;195786.4;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;54;-14;212699.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
 NPC;-QTY;0;-6;225599.5;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+PRICE;54;0;220534.5;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;76;22;213478.9;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;99;22;196469.7;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;35;0;216747.5;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;99;23;202125.6;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;55;18;189967.4;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;54;19;206069.7;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

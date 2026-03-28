@@ -31,3 +31,22 @@ NPC;+PRICE;13;0;18006.15;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;31;2;5993.75;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;3;0;9706.801;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;4;0;18144.97;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+PRICE;40;0;12880.94;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;7;0;19427.27;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+PLAYER;-QTY;1;1;13360.59;Starbase Corporate Center;Void Starcross;12h 4m 59s ;43499.67
+NPC;+STOCK;35;4;5569.349;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;40;3;14942.56;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;27;4;17433.1;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4;3;12753.73;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;57;3;5867.006;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;9;2;7941.719;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;24;0;18169.37;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;57;0;5166.058;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+LOCAL;5;1;10571.71;Vo Industries;Brimstone;12h 43m 27s ;45807.53
+NPC;+QTY;30;3;17515.53;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;44;4;12263.55;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;39;4;5101.287;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;33;3;17016.32;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;60;3;4535.528;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;6;0;15685.17;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;1;0;10867.53;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

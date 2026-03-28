@@ -2,3 +2,7 @@ NPC;-PRICE;53;0;21013.17;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;+STOCK;57;8;38823.35;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;65;8;37888.15;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;33;8;31688.94;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
+NPC;+PRICE;7;0;24829.45;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;73;8;37025.13;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;82;9;37200.66;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;92;10;36629.57;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

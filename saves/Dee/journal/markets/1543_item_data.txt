@@ -2,3 +2,9 @@ NPC;+STOCK;91;11;19344.94;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8
 NPC;+STOCK;43;8;26601.59;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;13;0;28594.3;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+STOCK;53;10;24795.63;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+LOCAL;12;1;37570.39;Astrox Security Patrol;Felishar;10h 35m 10s ;38110.46
+NPC;+LOCAL;12;2;32162.37;Astrox Security Patrol;Felishar;10h 47m 13s ;38833.52
+NPC;+LOCAL;12;2;30749.96;Astrox Security Patrol;Felishar;11h 10m 1s ;40201.27
+NPC;+STOCK;61;8;23158.3;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;61;0;20761.97;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;101;10;19746.11;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94

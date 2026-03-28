@@ -18,3 +18,15 @@ NPC;+QTY;2143;2051;127.0882;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17
 NPC;+QTY;2543;2381;70.97613;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;8091;1992;55.71075;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;155;7;79.83572;CoraVault;Lins;7h 55m 14s ;28514.54
+NPC;+QTY;1724;1696;139.6609;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+PRICE;455;0;68.07027;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;32;0;122.4882;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;10359;2268;50.77591;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4779;2195;129.833;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1555;1323;108.754;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+QTY;3746;2022;139.535;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;3135;1580;108.754;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;4779;0;126.7949;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;3593;2104;115.9832;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;7109;2330;122.1004;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;2543;0;77.06315;Psybermind;Ion Child;14h 10m 55s ;51055.01

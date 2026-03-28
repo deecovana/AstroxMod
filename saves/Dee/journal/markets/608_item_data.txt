@@ -10,3 +10,10 @@ NPC;-QTY;0;-1;846006.1;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+LOCAL;5;1;650209.8;Genistar;Blades of Dandrow;4h 26m 8s ;15968.31
 NPC;-PRICE;0;0;837191.3;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-QTY;2;-3;773647;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;2;0;794713.4;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;6;4;777830.5;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;15;4;616900.4;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;29;3;653619.7;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;19;4;616901.1;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;9;3;758813.8;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;23;4;591374.6;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

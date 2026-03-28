@@ -12,3 +12,11 @@ NPC;+PRICE;13;0;723.9536;Xellon;Ele;5h 41m 50s ;20510.81
 NPC;+PRICE;15;0;532.5224;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+PRICE;53;0;622.8592;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;-QTY;0;-5;633.4313;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+QTY;19;9;449.37;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+STOCK;33;10;669.4503;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;67;11;732.1206;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;67;0;702.5096;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;44;11;649.0974;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;75;8;696.1361;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;35;0;523.0018;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;19;0;477.6742;PharmaLife;Carioullis;14h 10m 55s ;51055.01

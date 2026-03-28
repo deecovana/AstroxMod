@@ -7,3 +7,12 @@ NPC;+QTY;28;9;2429.496;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;37;9;2429.496;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;4;-10;1263.058;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+STOCK;16;11;2204.406;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+QTY;31;6;2665.812;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;15;0;1322.175;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;47;10;2366.875;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;72;10;2317.18;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;34;0;1699.741;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+QTY;79;7;2319.906;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;56;9;2286.547;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;40;9;2551.597;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;87;8;2246.324;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

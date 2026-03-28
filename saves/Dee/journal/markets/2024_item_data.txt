@@ -9,3 +9,7 @@ NPC;+LOCAL;150;32;484.2883;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.
 NPC;+LOCAL;150;35;251.03;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
 NPC;+LOCAL;150;141;251.03;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476.67
 NPC;+LOCAL;150;214;251.03;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
+NPC;+QTY;240;90;109.8594;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;350;110;109.8594;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;225;115;698.1048;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;480;130;109.3163;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

@@ -4,3 +4,6 @@ NPC;+STOCK;27;2;384723.1;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;14;0;515911.5;Imperium Bank;Ciando;4h 11m 12s ;15072.39
 NPC;+STOCK;29;2;377560.4;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;20;-1;569058.8;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+QTY;31;2;379204.9;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;22;2;551328.1;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;33;2;357391.2;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

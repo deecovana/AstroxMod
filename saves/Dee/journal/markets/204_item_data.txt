@@ -20,3 +20,18 @@ NPC;-QTY;20;-95;75.98597;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;168;148;75.98597;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;215;0;80.58691;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;132;0;58.55417;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;350;139;46.7272;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+LOCAL;64;21;79.0967;Astrox Security Patrol;Felishar;10h 47m 13s ;38833.52
+NPC;+PRICE;295;0;101.5483;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+STOCK;179;115;57.51524;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;277;0;64.14813;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;1200;135;74.02567;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1047;100;38.06291;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;515;133;69.77801;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;515;0;65.869;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;871;128;79.51436;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;1341;141;70.05892;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1186;139;33.10868;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;662;147;61.68167;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;419;0;84.65185;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;BAL;266;-109;73.90434;Foodmaid;Daelus;14h 12m 27s ;51147.38

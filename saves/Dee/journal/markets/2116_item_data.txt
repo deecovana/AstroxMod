@@ -15,3 +15,22 @@ NPC;+STOCK;2192;2039;105.5527;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;8650;2466;36.4675;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;0;-62;77.84554;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;0;-2164;39.16358;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;2371;2356;47.21158;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;2415;2389;54.54846;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;297;0;78.1944;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;0;0;43.38361;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;2331;2331;75.42606;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;2398;2398;39.03048;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;11038;2388;33.71279;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4762;2347;51.51217;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2490;2138;39.63245;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;4499;0;66.47781;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;3648;1912;84.85233;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;BAL;6;0;84.42471;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+LOCAL;2500;27190;32.695;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
+NPC;+STOCK;4486;2088;34.58887;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;13303;2265;31.14571;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;7012;2250;48.17982;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6859;2360;63.41317;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;2371;0;52.1872;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;BAL;318;0;90.98653;Foodmaid;Daelus;14h 12m 27s ;51147.38

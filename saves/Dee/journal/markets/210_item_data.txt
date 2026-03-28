@@ -21,3 +21,20 @@ NPC;+PRICE;745;0;52.21627;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;91;0;49.4803;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;-LOCAL;0;0;122.0919;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
 NPC;-QTY;11;-139;9.150311;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;0;0;122.3632;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;+LOCAL;142;131;24.9275;Biomate University;Void Starcross;9h 55m 27s ;35727.44
+NPC;+QTY;472;97;70.85641;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;-LOCAL;0;0;103.1132;Astrox Security Patrol;Felishar;10h 47m 13s ;38833.52
+NPC;+PRICE;142;0;11.37471;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-LOCAL;0;0;106.5983;Astrox Security Patrol;Felishar;11h 10m 1s ;40201.27
+NPC;-LOCAL;0;0;114.9658;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;+PRICE;472;0;73.14989;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;-LOCAL;0;0;172.6049;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
+NPC;+STOCK;286;144;9.581501;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;287;142;42.57875;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;150;2336;24.9275;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
+NPC;+STOCK;414;128;9.163493;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;254;109;43.05611;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;401;24.9275;Biomate University;Void Starcross;14h 3m 2s ;50582.58
+NPC;+PRICE;472;0;75.42562;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+LOCAL;150;54;24.9275;Biomate University;Void Starcross;14h 30m 11s ;52211.07

@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;35
 SECTOR;name;Felishar
-SECTOR;level;9.7
+SECTOR;level;9.8
 SECTOR;faction;Law
 SECTOR;filename;sector_35.txt
 SECTOR;is_explored;True
@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;null
+SECTOR;event_type;resources#54509#7#9
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;-110.8669;137.1814;84.28587
@@ -61,38 +61,38 @@ STARLIGHT;color_4;0.10;0.18;0.30;0.95
 STARLIGHT;color_5;0.53;0.78;0.68;0.42
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_35_station_0.txt;2637.097;98.56665;-3583.199
+STATION;sector_35_station_0.txt;2637.097;98.56665;-3583.199;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_energy_gen_1.txt;3300.40;-611.75;-326.60
-STRUCTURE;structure_habitat_1.txt;-3427.50;506.80;-2641.50
-STRUCTURE;structure_energy_gen_1.txt;-3076.30;239.08;-3057.50
-STRUCTURE;structure_recon_1.txt;-2585.70;252.00;-3033.30
-STRUCTURE;structure_medical_1.txt;3197.90;-203.60;-1036.80
-STRUCTURE;structure_gun_platform_1.txt;1001.10;806.90;1366.10
-STRUCTURE;structure_energy_gen_1.txt;1010.10;695.85;2143.70
-STRUCTURE;structure_office_1.txt;3370.10;-90.30;99.20
-STRUCTURE;structure_storage_1.txt;422.10;462.10;2333.10
-STRUCTURE;structure_farm_1.txt;-2582.80;326.70;-3460.40
-STRUCTURE;structure_recon_1.txt;3467.40;-1018.80;-239.00
 STRUCTURE;structure_medical_1.txt;1654.10;551.20;2161.10
+STRUCTURE;structure_recon_1.txt;3467.40;-1018.80;-239.00
+STRUCTURE;structure_farm_1.txt;-2582.80;326.70;-3460.40
+STRUCTURE;structure_storage_1.txt;422.10;462.10;2333.10
+STRUCTURE;structure_office_1.txt;3370.10;-90.30;99.20
+STRUCTURE;structure_energy_gen_1.txt;1010.10;695.85;2143.70
+STRUCTURE;structure_gun_platform_1.txt;1001.10;806.90;1366.10
+STRUCTURE;structure_medical_1.txt;3197.90;-203.60;-1036.80
+STRUCTURE;structure_recon_1.txt;-2585.70;252.00;-3033.30
+STRUCTURE;structure_energy_gen_1.txt;-3076.30;239.08;-3057.50
+STRUCTURE;structure_habitat_1.txt;-3427.50;506.80;-2641.50
+STRUCTURE;structure_energy_gen_1.txt;3300.45;-611.74;-326.76
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;150;100;500;10000;0;0;0;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
 RESOURCE;1;-4640.2;-416.1;-2646.0;1000;1000
-RESOURCE;1;-4249.5;-981.5;-4430.0;2000;2000
-RESOURCE;1;-5191.5;-1129.6;-3469.6;2400;2400
-RESOURCE;1;4242.8;-290.9;-420.6;1000;1000
-RESOURCE;1;4260.6;-1655.3;-682.0;2000;2000
+RESOURCE;1;-4213.9;-1014.1;-4466.7;2000;0
+RESOURCE;1;-5245.6;-1301.3;-3522.0;2400;43
+RESOURCE;1;4306.5;-311.0;-312.0;1000;585
+RESOURCE;1;4282.9;-1696.0;-598.9;2000;240
 RESOURCE;1;1662.4;-367.3;4014.8;2400;2400
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_36.txt;3;-3711.8;83.0;2243.9;0;law;0.0
-WARPGATE;2;sector_40.txt;1;3471.0;-987.6;-2974.3;0;law;0.0
-WARPGATE;3;sector_38.txt;1;-3347.4;-320.3;-3727.9;0;law;0.0
-WARPGATE;4;sector_0.txt;3;2988.4;-555.6;3775.2;0;law;0.0
+WARPGATE;1;sector_36.txt;3;-3711.8;83.0;2243.9;0;law;0.0;prescan
+WARPGATE;2;sector_40.txt;1;3471.0;-987.6;-2974.3;0;law;0.0;prescan
+WARPGATE;3;sector_38.txt;1;-3347.4;-320.3;-3727.9;0;law;0.0;prescan
+WARPGATE;4;sector_0.txt;3;2988.4;-555.6;3775.2;0;law;0.0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 //PROP;0;0;0;0;0;0;0;lightning 1

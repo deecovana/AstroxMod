@@ -22,3 +22,23 @@ NPC;+PRICE;365;0;77.91319;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-LOCAL;0;0;137.0249;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
 NPC;-QTY;135;-122;78.78706;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;66;-84;10.53419;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;0;0;137.3373;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;+LOCAL;150;233;28.6975;Biomate University;Void Starcross;9h 55m 27s ;35727.44
+NPC;+QTY;388;111;55.96564;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;-LOCAL;127;0;99.3375;Astrox Security Patrol;Felishar;10h 35m 10s ;38110.46
+NPC;-LOCAL;119;0;99.3375;Astrox Security Patrol;Felishar;10h 47m 13s ;38833.52
+NPC;+PRICE;150;0;13.59372;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;223;104;102.5863;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;-LOCAL;91;0;99.3375;Astrox Security Patrol;Felishar;11h 10m 1s ;40201.27
+NPC;-LOCAL;56;0;99.3375;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;-LOCAL;0;0;195.1774;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
+NPC;+STOCK;269;119;11.8364;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;356;125;94.41306;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1095;109;83.60322;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1095;0;82.33958;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;414;145;10.54937;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;367;136;91.78593;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1197;102;80.00721;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;462;28.6975;Biomate University;Void Starcross;14h 3m 2s ;50582.58
+NPC;+PRICE;388;0;59.45474;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+LOCAL;150;50;28.6975;Biomate University;Void Starcross;14h 30m 11s ;52211.07

@@ -4,3 +4,10 @@ NPC;+STOCK;313;137;2965.219;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;454;141;2897.653;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+LOCAL;150;237;1712.165;StarShepards Headquarters;Void Starcross;5h 59m 41s ;21581.04
 NPC;-QTY;649;-85;4850.103;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+LOCAL;150;635;1712.165;StarShepards Headquarters;Void Starcross;10h 9m 47s ;36587.3
+NPC;+STOCK;277;127;794.9056;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;366;89;794.9056;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;757;108;4594.543;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+LOCAL;150;32;5452.404;Temple of the Void;Vindicati;13h 32m 8s ;48728.66
+NPC;+STOCK;485;119;769.6182;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;603;149;2726.849;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

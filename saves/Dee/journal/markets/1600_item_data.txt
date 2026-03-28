@@ -14,3 +14,7 @@ NPC;BAL;4;0;1186.267;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;10;8;620.1724;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
 NPC;+PRICE;17;0;1029.305;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-QTY;76;-11;1254.317;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;76;0;1272.473;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;86;10;1251.349;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;67;10;817.4393;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;97;11;1205.811;Biomate University;Void Starcross;14h 1m 15s ;50475.31

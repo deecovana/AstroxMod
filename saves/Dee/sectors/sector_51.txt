@@ -77,6 +77,7 @@ RESOURCE;1;3230;-166;-440;200;200
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
 WARPGATE;1;sector_48.txt;2;-1914;927;3249;0;Law;0
 WARPGATE;2;sector_54.txt;1;4632;-1383;-2808;0;Law;0
+WARPGATE;3;generate;1;734;524;-1221;8;wormhole;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;0;0;0;0;0;0;0;0.55,0.32,0.30,0.22;;;;

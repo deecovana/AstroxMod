@@ -14,3 +14,15 @@ NPC;+QTY;84;9;92043.75;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;-QTY;13;-14;91959.38;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;+QTY;39;12;60063.44;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-QTY;0;-7;47063.75;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;75;12;84223.13;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;59;0;75835.47;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;39;0;63050.82;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;137;11;56789.03;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;159;13;90519.73;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;95;10;41297.74;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;95;0;38050.79;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;151;14;57088.75;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;85;10;80680.99;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;161;10;52125.11;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;159;13;90521.95;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;107;12;36751.94;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

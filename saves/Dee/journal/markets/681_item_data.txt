@@ -16,3 +16,13 @@ NPC;-PRICE;42;0;114096.4;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;47;0;148365.5;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;35;18;157143.8;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;-QTY;27;-19;66598.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;91;0;127186.5;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;27;0;68147.13;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;85;22;68659.33;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;50;23;63249.79;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;90;22;86053.59;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;150;16;137525.3;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;47;19;162902.1;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+STOCK;68;18;61635.53;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;84;16;86853.98;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;170;20;134784.4;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

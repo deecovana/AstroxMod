@@ -35,3 +35,23 @@ NPC;+QTY;1533;186;0.5249836;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+QTY;431;228;0.4973836;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;98;0;0.5800211;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;145;-157;0.937756;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;1111;184;0.6276528;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;603;172;0.4973865;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;145;0;0.9496358;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;188;0;0.6954862;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+PRICE;123;0;0.443283;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+PRICE;1533;0;0.5691558;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;370;225;0.9063515;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1310;199;0.6033788;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1696;180;0.3778327;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1860;175;0.2916265;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;913;227;0.8959553;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;625;0;0.8574967;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;913;0;0.8576597;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;1937;241;0.3780165;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;95;0;0.7868809;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+STOCK;1477;220;0.427183;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1536;226;0.5537714;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2111;174;0.3543213;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1919;234;0.3150807;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;276;0;0.5031251;PharmaLife;Carioullis;14h 10m 55s ;51055.01

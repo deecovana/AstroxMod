@@ -6,3 +6,5 @@ NPC;+STOCK;68;11;336993.4;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;31;-7;364581;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;-PRICE;31;0;336028.7;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+QTY;75;7;339625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;86;11;311063.2;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;94;8;298939.9;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31

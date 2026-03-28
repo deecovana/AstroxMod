@@ -18,3 +18,13 @@ NPC;+QTY;78;7;1727.8;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;5;-8;1329.02;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;30;9;2270.615;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;11;0;2431.663;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;38;8;2270.623;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;39;0;2009.602;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;10;0;2575.148;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;50;11;1891.23;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;89;11;1608.302;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;83;11;1084.148;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;61;11;1788.577;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;97;8;1492.535;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;82;10;1070.895;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;10;0;2430.831;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

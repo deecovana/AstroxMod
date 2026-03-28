@@ -27,3 +27,21 @@ NPC;+LOCAL;28;15;5.142674;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
 NPC;+QTY;1114;181;5.283489;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-QTY;1078;-172;2.973506;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;928;-179;3.02115;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;686;158;5.182271;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;896;224;2.935969;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;928;0;3.277383;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;106;0;6.316356;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;1117;189;3.233134;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;936;245;2.07887;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;893;207;5.036448;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;931;196;5.202085;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;435;195;3.870719;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1051;168;2.312765;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1129;216;4.970969;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;1051;0;2.153954;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;266;145;5.622272;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;1071;140;5.174881;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;1301;230;4.932731;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;471;231;3.727519;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1270;219;2.031037;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;347;0;4.793733;PharmaLife;Carioullis;14h 10m 55s ;51055.01

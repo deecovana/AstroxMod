@@ -2,3 +2,7 @@ NPC;BAL;41;-6;446181.4;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;51;10;433410.8;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;62;11;428869;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;26;0;448516.3;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;72;10;428475.5;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;26;0;460602.1;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;81;9;409427.8;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;90;9;395507.7;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

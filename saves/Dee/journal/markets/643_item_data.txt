@@ -20,3 +20,21 @@ NPC;-PRICE;44;0;54690.45;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;BAL;4;-2;25039.31;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+QTY;7;3;25625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;5;-4;23531.88;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;41;4;50611.56;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;21;0;24447.78;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;24;0;47831.89;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;12;3;45448.75;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;2;0;57238.59;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;27;3;46993.32;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;10;3;25022.89;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;45;4;49265.19;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;35;4;23284.92;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;52;3;53696.89;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;52;0;52324.88;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;38;3;23044.38;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;30;3;44867;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;14;4;23626.44;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;41;3;20716.04;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;31;3;49138.92;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;56;4;51670.34;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;4;0;29410.07;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

@@ -1,3 +1,6 @@
 NPC;BAL;21;-2;566.6823;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;23;2;553.3302;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;25;2;524.3416;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;26;1;522.8954;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;28;2;488.3079;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;30;2;478.1007;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

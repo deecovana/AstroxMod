@@ -26,3 +26,16 @@ NPC;+QTY;98;98;222.075;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;45;45;84.59999;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+PRICE;122;0;42.98072;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;113;-146;46.57136;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;820;144;48.29579;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;223;126;82.01594;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+STOCK;214;101;45.658;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;176;131;83.25674;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;955;135;46.03158;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;460;135;50.66322;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1085;110;65.49074;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;324;110;44.05845;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;317;141;78.47902;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1219;134;61.44324;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;461;136;50.49092;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;3;0;63.61155;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;BAL;76;0;72.78925;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

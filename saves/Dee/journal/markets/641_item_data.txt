@@ -30,3 +30,27 @@ NPC;+STOCK;5;3;7119.11;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;28;0;10460.68;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;4;0;8764.919;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;21;-3;8693;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+PLAYER;-QTY;20;1;8693;Biomate University;Void Starcross;10h 4m 48s ;36288.39
+NPC;+QTY;17;4;10322.31;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;16;0;5997.701;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;4;0;5163.919;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+STOCK;6;3;5190.174;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;21;0;7627.858;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+PLAYER;+QTY;5;1;4734.625;Starbase Corporate Center;Void Starcross;12h 5m 40s ;43540.89
+NPC;+STOCK;23;3;8412.613;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;21;3;5414.269;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;8;3;4351.723;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;12;4;6925.402;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;27;3;7238.125;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+QTY;6;3;5034.625;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;12;0;6468.434;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;8;2;6734.625;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;26;3;8237.17;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;25;4;4958.573;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;20;3;9822.927;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;27;3;9895.744;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;9;4;4148.403;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;16;4;6026.699;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;21;0;8053.488;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;BAL;9;-4;9545.631;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
+NPC;BAL;5;-2;9823.112;Dustardz;Redsky;14h 12m 27s ;51147.38

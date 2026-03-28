@@ -13,3 +13,8 @@ NPC;+QTY;89;9;3204.643;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;21;-9;4679.815;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;77;-6;3894.279;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;0;-7;3375.558;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+QTY;28;7;3511.635;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+STOCK;100;11;3042.99;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;BAL;31;-10;5374.276;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;111;11;2887.736;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;31;0;5608.042;Psybermind;Ion Child;14h 10m 55s ;51055.01

@@ -16,3 +16,15 @@ NPC;+PRICE;13;0;1117.384;Xellon;Ele;5h 41m 50s ;20510.81
 NPC;+LOCAL;12;12;942.5;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
 NPC;BAL;8;0;2756.336;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;+LOCAL;12;8;942.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;+QTY;61;7;1253.471;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+LOCAL;12;20;942.5;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;15;0;3271.624;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+LOCAL;12;19;942.5;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;72;11;1198.638;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;1;942.5;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+QTY;45;8;2882.056;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;0;99;1673.999;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;2;0;2490.73;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;BAL;8;0;2658.715;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;20;8;414.9538;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;62;-6;1400.713;Foodmaid;Daelus;14h 12m 27s ;51147.38

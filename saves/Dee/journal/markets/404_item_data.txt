@@ -46,3 +46,22 @@ NPC;+STOCK;1486;882;11.32528;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33
 NPC;-LOCAL;0;0;62.5;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
 NPC;-QTY;143;-873;24.2325;Biomate University;Void Starcross;9h 48m 4s ;35284.71
 NPC;-QTY;0;-4;18.4825;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+QTY;787;785;16.7325;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;788;788;74.75723;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;-LOCAL;63;0;55.75275;StarGypsy Warehouse;Void Starcross;10h 11m 22s ;36682.7
+NPC;+PRICE;25;0;11.64272;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;4358;859;23.91968;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2484;755;10.4412;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;897;685;20.65721;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;782;781;24.09531;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;1486;0;10.41148;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+STOCK;954;909;13.28793;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;932;932;19.07657;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+STOCK;1020;877;23.93188;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;5189;831;23.4347;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;806;743;62.57036;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3303;819;9.501075;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1098;886;19.967;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2439;870;14.03702;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;7;0;17.55136;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;BAL;32;0;28.93892;Foodmaid;Daelus;14h 12m 27s ;51147.38

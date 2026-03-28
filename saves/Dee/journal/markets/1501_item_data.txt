@@ -7,3 +7,9 @@ NPC;+PRICE;16;0;1420.745;Xellon;Ele;5h 41m 50s ;20510.81
 NPC;+STOCK;45;8;1654.162;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;-QTY;0;-3;1968.378;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;87;10;1347.747;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;41;10;1405.528;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;41;0;1527.32;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;51;9;1830.591;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;58;7;1822.029;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;67;9;1736.389;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;23;0;2117.945;PharmaLife;Carioullis;14h 10m 55s ;51055.01

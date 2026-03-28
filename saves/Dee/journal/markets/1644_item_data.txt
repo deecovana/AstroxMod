@@ -2,3 +2,6 @@ NPC;-PRICE;39;0;982004.7;Biomate University;Void Starcross;0h 0m 23s ;23.44398
 NPC;+STOCK;50;11;958420.8;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;68;0;435692.8;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;-QTY;31;-8;970365.4;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;31;0;1001296;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;40;9;980666.6;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;50;10;940021.2;Biomate University;Void Starcross;14h 1m 15s ;50475.31

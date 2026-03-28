@@ -26,3 +26,29 @@ NPC;-LOCAL;0;0;120.6365;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;+STOCK;580;121;59.11772;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-LOCAL;0;0;131.2462;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
 NPC;-QTY;33;-117;9.96155;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;0;0;131.5416;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;-LOCAL;0;0;126.4499;Astrox Security Patrol;Felishar;10h 47m 13s ;38833.52
+NPC;+PRICE;33;0;10.91601;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-LOCAL;0;0;130.244;Astrox Security Patrol;Felishar;11h 10m 1s ;40201.27
+NPC;-LOCAL;0;0;139.3533;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;+PRICE;610;0;47.26901;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;-LOCAL;0;0;186.2375;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
+NPC;+STOCK;139;106;9.87805;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1070;137;33.7127;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;460;106;53.58044;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;586;144;34.25368;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;988;132;61.13286;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;691;97;83.81834;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;988;0;57.62269;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;589;129;53.51411;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;146;106;61.68983;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;77;0;62.66838;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;273;134;9.975902;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1189;119;32.16498;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;692;103;49.07259;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;567;125;32.72345;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1093;105;56.94046;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;549;27.1375;Biomate University;Void Starcross;14h 3m 2s ;50582.58
+NPC;+PRICE;77;0;63.98648;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;75;0;46.25586;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+LOCAL;150;63;27.1375;Biomate University;Void Starcross;14h 30m 11s ;52211.07

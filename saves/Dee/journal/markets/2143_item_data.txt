@@ -1,2 +1,5 @@
 NPC;+STOCK;18;2;200789.3;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;13;0;179730.6;Stinkfinger;Jonisae;4h 11m 12s ;15072.39
+NPC;+STOCK;20;2;194279.1;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;40;2;182728.6;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;22;2;189599.5;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

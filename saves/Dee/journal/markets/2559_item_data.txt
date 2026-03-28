@@ -1,3 +1,4 @@
 NPC;+STOCK;64;2;1067560;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;60;-2;1120500;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;59;-1;1082350;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+PRICE;3;0;868059.3;Inovex;Goru Populan;11h 3m 47s ;39827.63

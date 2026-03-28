@@ -13,3 +13,10 @@ NPC;BAL;21;-9;4085.397;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;-QTY;7;-14;5697.563;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;39;14;5043.806;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;76;-8;5095.8;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;71;7;4582.875;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;76;0;5351.672;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;71;0;4871.339;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;89;13;5127.708;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;100;9;5962.875;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;185;11;2048.848;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;71;0;5034.003;Gunstellar;Adrenal;14h 10m 55s ;51055.01

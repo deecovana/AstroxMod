@@ -13,3 +13,12 @@ NPC;+LOCAL;150;187;32.7275;Starbase Corporate Center;Void Starcross;5h 56m 1s ;2
 NPC;+LOCAL;39;8;82.71365;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
 NPC;+LOCAL;150;140;32.7275;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;+QTY;874;110;81.63088;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+LOCAL;150;371;32.7275;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;874;0;83.54739;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+LOCAL;150;228;32.7275;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;345;117;82.21322;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;282;132;14.44667;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;150;2;32.7275;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+STOCK;460;115;77.63759;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;257;107;14.40891;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;194;32.7275;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

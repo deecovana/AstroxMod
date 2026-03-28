@@ -12,3 +12,12 @@ NPC;+PRICE;9;0;96127.93;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+PRICE;9;0;99373.49;Dustardz;Redsky;5h 41m 50s ;20510.81
 NPC;BAL;3;0;85175.63;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;+STOCK;90;13;38325.5;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+QTY;146;9;81223.13;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;54;0;49550.64;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+STOCK;160;14;77187.77;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;140;12;45588.09;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;134;14;81744.63;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;134;0;77167.31;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;172;12;74393.7;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;151;11;40033.94;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;147;13;74641.02;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

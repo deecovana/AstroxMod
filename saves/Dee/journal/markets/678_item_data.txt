@@ -21,3 +21,13 @@ NPC;+QTY;20;18;21843.75;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+PRICE;8;0;27836.54;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+STOCK;93;19;20899.23;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;126;18;18062.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;144;21;21305.78;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;64;0;28379.72;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;149;23;17788.8;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;164;20;20153.07;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;124;17;16081.23;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;84;22;20190.59;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;21;21;14546.88;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+STOCK;180;16;19053.51;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;130;23;16122.73;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;37;0;20082.63;PharmaLife;Carioullis;14h 10m 55s ;51055.01

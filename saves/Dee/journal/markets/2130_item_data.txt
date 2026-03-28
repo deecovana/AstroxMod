@@ -18,3 +18,19 @@ NPC;+QTY;3955;1715;88.93426;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.
 NPC;+STOCK;1899;1833;66.90195;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-QTY;0;-23;120.6523;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;0;-1981;122.9769;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+STOCK;2132;2132;117.5839;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;5676;1721;85.7011;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1999;1930;166.457;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4233;1971;107.8274;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;7353;2371;58.52513;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;2374;2296;162.6277;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+QTY;2453;2453;136.8724;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+QTY;3582;1583;166.7442;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;6;0;70.19299;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+LOCAL;2500;25907;48.7825;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
+NPC;+STOCK;4252;2120;111.9236;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;7602;1926;78.54978;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;5406;1824;163.8807;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4694;2432;105.6393;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;9254;1901;52.028;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;38;0;109.9287;Dustardz;Redsky;14h 12m 27s ;51147.38

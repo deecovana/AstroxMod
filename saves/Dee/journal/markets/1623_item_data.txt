@@ -4,3 +4,5 @@ NPC;+QTY;38;11;29084.78;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;-PRICE;66;0;51901.78;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;+PRICE;38;0;32035.64;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;-QTY;63;-7;77125.09;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;48;10;31970.74;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+STOCK;71;8;74511.16;Temple of the Void;Vindicati;12h 57m 36s ;46656.88

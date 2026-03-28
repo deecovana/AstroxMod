@@ -9,3 +9,11 @@ NPC;+PRICE;2;0;9524.531;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+PRICE;13;0;11261.87;Xellon;Ele;5h 41m 50s ;20510.81
 NPC;-QTY;0;-11;9710.29;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+LOCAL;12;2;4603.605;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;+LOCAL;12;9;3189.03;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+STOCK;35;10;7874.991;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;7;0;8542.398;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;21;8;8930.472;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;17;3189.03;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;-PRICE;12;0;1411.146;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;30;9;8514.165;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;22;10;1411.146;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

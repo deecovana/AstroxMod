@@ -26,3 +26,20 @@ NPC;+STOCK;574;213;3.098076;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;1162;215;3.30925;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;306;0;3.510293;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;1059;-200;5.24173;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;348;0;5.366863;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+PRICE;116;0;3.89762;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;1260;201;5.029379;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1407;245;3.123936;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1239;221;5.314789;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;509;178;4.877014;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;880;236;6.308555;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;548;177;6.69963;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;195;143;5.208256;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;880;0;6.00838;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;1484;245;5.312414;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;1459;196;6.349219;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;776;248;6.304307;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1724;240;5.072067;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;527;196;4.954148;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1062;182;5.904019;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;129;-219;5.940609;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

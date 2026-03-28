@@ -9,3 +9,6 @@ NPC;BAL;7;-6;47090.15;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+STOCK;25;11;56763.43;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;23;6;38156.25;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;-QTY;0;-5;21411.5;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+PRICE;75;0;62955.17;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+QTY;36;11;53256.5;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+PRICE;23;0;39354;Psybermind;Ion Child;14h 10m 55s ;51055.01

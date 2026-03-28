@@ -9,3 +9,8 @@ NPC;+STOCK;12;11;4066.132;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+QTY;39;10;2409.25;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+STOCK;38;10;5109.95;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+PRICE;24;0;3722.142;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;73;6;1620.264;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;47;10;3290.743;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;84;11;1513.914;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;50;11;2407.927;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;93;9;1404.738;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

@@ -42,6 +42,8 @@ MERC;3;1.16;npc_ship_data_(battle_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Demands: (1) Items ;2x240;10952;76479.86
+BUYORDER;Market Items Req: (1) Items ;2x362;10968;55431.18
 SELLORDER;Sell Order Request for (1) Items ;2439x249;109803;106050.20
 SELLORDER;Sale Request Order: (3) Items ;116x35,217x12,353x12;5358;48015.13
 ITEM;1074;38;0.71;0

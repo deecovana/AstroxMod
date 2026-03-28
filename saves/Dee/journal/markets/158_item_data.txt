@@ -31,3 +31,21 @@ NPC;+QTY;472;75;39.89274;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+LOCAL;150;253;14.7225;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+PRICE;146;0;47.53484;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;40;-100;39.58371;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+QTY;307;93;39.51208;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;265;0;44.04398;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+PRICE;472;0;41.63091;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+LOCAL;150;794;14.7225;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;+LOCAL;150;33;14.7225;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;266;116;5.067937;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;432;125;37.34922;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;558;139;48.5083;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;907;119;16.64525;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;264;96;18.7457;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+QTY;242;146;30.96085;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+QTY;362;98;18.7457;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;907;0;14.90115;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;251;129;25.07185;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;BAL;67;0;31.31005;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;554;122;36.57689;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;519;100;48.14309;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1014;107;12.90655;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

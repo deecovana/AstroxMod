@@ -15,3 +15,23 @@ NPC;BAL;133;-7;159997.1;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;+QTY;106;11;90625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;36;-7;195953.1;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;51;-7;202325;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;43;13;143057.8;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;51;0;206221.3;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;79;0;226118;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;61;10;203916;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;116;10;81972.7;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;57;14;134429.3;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;156;13;169717;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;147;14;153079.9;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;106;13;102724.4;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;52;14;250865.6;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+LOCAL;15;52;81250;Ferce Hub;Semja;12h 33m 30s ;45210.61
+NPC;-PRICE;106;0;92179.07;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;105;14;135557.8;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;163;7;170221.9;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;39;11;261482.4;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;54;-7;163852.9;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;74;13;201050.5;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;127;11;72800.69;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;70;13;127721.4;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;147;14;150505.3;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

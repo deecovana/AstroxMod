@@ -4,3 +4,6 @@ NPC;BAL;35;-7;891953.9;Kith;Kidd Overture;2h 58m 0s ;10680.39
 NPC;-QTY;52;-8;411480.3;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;41;-11;502405.1;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+STOCK;22;8;372946.3;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+STOCK;50;9;484057.6;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;22;0;352656.2;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+STOCK;52;11;459710;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

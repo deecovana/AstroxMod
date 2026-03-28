@@ -10,3 +10,11 @@ NPC;BAL;2;0;9251.541;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.
 NPC;-PRICE;44;0;18810.5;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+LOCAL;9;7;12967.5;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;+PRICE;44;0;19605.63;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+LOCAL;12;33;12967.5;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+LOCAL;12;18;12967.5;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;40;9;28646.35;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;21;9;5724.154;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;41;11;13893.71;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;50;10;27910.21;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;22;10;5709.191;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;52;11;12779.66;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

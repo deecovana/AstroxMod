@@ -37,3 +37,24 @@ NPC;+QTY;5807;4966;66.70216;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+QTY;4324;4298;111.5527;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;729;0;67.07434;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-QTY;1460;-2963;51.8714;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;27;27;114.641;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+PLAYER;+QTY;41;10;50.35363;Astrox Security Patrol;Felishar;10h 35m 39s ;38139.52
+NPC;+PRICE;1460;0;53.25206;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;156;0;60.31726;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;-LOCAL;52;52;110.25;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;5907;4447;49.26344;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;14202;4769;79.77187;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;12313;3621;54.15477;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4298;4246;114.0885;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;49;0;110.25;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+QTY;2975;2783;67.84203;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;9687;0;48.64975;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;4357;4308;73.83932;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+QTY;15553;3240;53.98697;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+PLAYER;+QTY;274;128;104.4876;Temple of the Void;Vindicati;13h 34m 29s ;48869.22
+NPC;+STOCK;13946;4333;99.11195;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;20552;4999;52.51887;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4422;4373;112.6901;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;14323;4636;46.30804;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;215;0;72.31829;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;-LOCAL;818;0;110.25;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

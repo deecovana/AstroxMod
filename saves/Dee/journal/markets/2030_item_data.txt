@@ -1,3 +1,8 @@
 NPC;+QTY;540;108;169.6716;Foodmaid;Daelus;0h 50m 9s ;3009.769
 NPC;+STOCK;1125;141;149.1108;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;453;118;178.1438;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;569;116;172.5325;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1259;134;139.4839;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1259;0;134.2659;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;700;131;173.2894;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;1388;129;127.2091;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

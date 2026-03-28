@@ -5,3 +5,8 @@ NPC;+STOCK;11;2;134937.4;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;29;0;105758.9;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+STOCK;67;2;150604.2;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;13;2;129541.2;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+PRICE;67;0;156564.9;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;69;2;153329.4;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;15;2;121596.3;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;71;2;150597.3;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;17;2;119215.2;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

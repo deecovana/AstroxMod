@@ -21,3 +21,16 @@ NPC;-QTY;0;-130;1140.609;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;2264;1961;517.8646;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+QTY;2041;2041;1140.609;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;809;-1797;695.8912;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;6493;2299;931.1951;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;3473;1432;1140.613;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+QTY;4549;2368;616.2141;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;809;0;745.359;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;8566;2073;889.2178;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;6456;1835;642.561;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;2166;2060;594.7347;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+QTY;2006;1985;424.1791;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+QTY;8077;1621;644.7917;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;7;0;690.0513;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;3167;2358;733.4676;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;10142;2065;617.894;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;116;0;422.7119;PharmaLife;Carioullis;14h 10m 55s ;51055.01

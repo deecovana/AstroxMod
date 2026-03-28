@@ -4,3 +4,6 @@ NPC;+STOCK;28;10;7115.183;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8
 NPC;+QTY;59;6;5775;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+STOCK;37;9;6555.386;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;68;0;13158.65;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+PRICE;18;0;15669.69;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+STOCK;46;9;6083.092;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;53;7;6032.425;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94

@@ -11,3 +11,10 @@ NPC;+PRICE;36;0;1569.586;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;BAL;9;-9;1014.75;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+QTY;26;9;1289.762;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+QTY;18;7;1224.47;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;33;7;1289.27;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;47;11;1564.976;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;47;0;1642.47;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+QTY;17;7;1664.944;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+QTY;108;8;1191.376;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;9;0;1557.727;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+PRICE;47;0;1717.056;Gunstellar;Adrenal;14h 10m 55s ;51055.01

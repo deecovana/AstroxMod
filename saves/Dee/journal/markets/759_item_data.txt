@@ -19,3 +19,11 @@ NPC;+QTY;20;11;90682.97;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;-QTY;0;-11;62632.97;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+STOCK;29;11;161448.4;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;10;0;178681.9;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;28;8;90634.5;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+PRICE;2;0;160343.6;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+STOCK;139;14;90886.69;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;44;13;138925.6;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;103;11;155468.1;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;53;9;138746.4;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;153;14;87850.01;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;64;11;136050.8;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

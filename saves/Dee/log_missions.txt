@@ -1,4 +1,8 @@
 //;LOG DATA FILE (Astrox Imperium)
+COMPLETED;Recover;Locate a light ;28,278;231606.957360029;Daemon Ammunitions;Starfort Ramos;13h 55m 17s 
+ACCEPTED;Recover;Locate a light Crate in t...;-37500;210739.615398884;Starbase Corporate Center;Void Starcross;11h 57m 14s 
+COMPLETED;Salvage;Dismantle ;17,838;19428.3388671875;Astrox Security Patrol;Felishar;10h 35m 2s 
+ACCEPTED;Salvage;Dismantle Special Junk Pa...;-343;1447.2880859375;Biomate University;Void Starcross;10h 20m 31s 
 COMPLETED;Salvage;Dismantle ;20,521;198323.02357471;Horizons;Gate of Alpharis;9h 38m 39s 
 ACCEPTED;Salvage;Dismantle Special Electro...;-15355;146865.69935596;Proctors Center;Void Starcross;8h 58m 36s 
 COMPLETED;Harvest;Harvest S...;15,341;154847.318496585;Proctors Center;Void Starcross;8h 56m 33s 

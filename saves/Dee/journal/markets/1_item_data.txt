@@ -49,3 +49,35 @@ PLAYER;+QTY;8352;488;18.88687;Proctors Center;Void Starcross;8h 56m 59s ;32219.0
 NPC;+PRICE;628;0;9.049366;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-QTY;0;-275;8.8102;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;1424;-4311;6.8688;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;6681;0;18;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+QTY;8893;4113;14.8902;Ferce;Allabentoris;10h 9m 19s ;36559.19
+PLAYER;+QTY;747;516;14.301;Astrox Security Patrol;Felishar;10h 35m 19s ;38119.51
+PLAYER;+QTY;2523;1776;13.981;Astrox Security Patrol;Felishar;10h 47m 19s ;38839.55
+NPC;+PRICE;11;0;19.01374;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;1424;0;7.477986;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;7026;4503;12.87642;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+PLAYER;+QTY;3315;792;13.661;Astrox Security Patrol;Felishar;11h 11m 11s ;40271.46
+PLAYER;+QTY;5571;2256;13.341;Astrox Security Patrol;Felishar;11h 19m 53s ;40793.47
+NPC;-LOCAL;0;0;40;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+PLAYER;+QTY;2736;2736;40;Acrondia Hub;Temple Gates;11h 35m 5s ;41705.94
+NPC;-LOCAL;2728;0;38.66888;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+PLAYER;+QTY;6208;3480;40;Acrondia Hub;Temple Gates;11h 50m 23s ;42623.54
+NPC;+STOCK;4918;3494;6.730448;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;8717;4520;7.394557;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;12798;4099;12.7413;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;9159;4431;10.43001;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;10928;4247;17.99701;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;5691;0;18;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;+QTY;4497;4434;10.27;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+QTY;17377;4579;12.8142;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;4312;4312;8.153257;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;19;0;9.064878;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+STOCK;9581;4663;6.219479;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;16933;4993;13.56169;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;12755;4038;7.044567;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;8233;3505;10.86685;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;10136;4445;17.98408;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;5263;0;18;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
+NPC;BAL;233;0;9.776835;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;BAL;3333;3333;11.97282;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;BAL;3364;0;11.17085;Foodmaid;Daelus;14h 12m 27s ;51147.38

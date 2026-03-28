@@ -2,3 +2,7 @@ NPC;+STOCK;562;118;644.758;Starbase Corporate Center;Void Starcross;2h 26m 24s ;
 NPC;+STOCK;691;129;629.0333;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;482;-80;614.3519;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-PRICE;598;0;563.2762;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+STOCK;598;116;599.897;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;718;131;625.2128;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;526;102;508.8352;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;621;139;598.1696;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

@@ -17,3 +17,12 @@ NPC;BAL;39;0;106.9982;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+LOCAL;45;14;123.0734;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;+PRICE;213;0;75.16807;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;+PRICE;39;0;108.5414;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+LOCAL;46;1;122.278;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;+PRICE;109;0;110.0371;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+STOCK;201;100;144.5674;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;942;140;85.23109;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;942;0;82.2421;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;376;115;91.77509;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;521;145;85.71035;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;247;146;145.5971;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1048;106;78.85369;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

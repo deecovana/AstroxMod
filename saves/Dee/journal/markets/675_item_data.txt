@@ -15,3 +15,14 @@ NPC;BAL;3;0;252112.1;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;-PRICE;10;0;228603.2;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;9;0;179500.9;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+PRICE;81;0;182229;Gunstellar;Adrenal;5h 41m 50s ;20510.81
+NPC;+QTY;70;21;267447.1;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;67;0;211538.5;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;89;22;204478.7;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;89;19;253867;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;130;23;252274.1;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;57;16;268810.6;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;53;19;175105.6;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+STOCK;106;17;196087.9;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;111;22;241970.1;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;152;22;244289.4;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;81;0;184095;Gunstellar;Adrenal;14h 10m 55s ;51055.01

@@ -23,3 +23,15 @@ NPC;+PRICE;11;0;52404.99;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+LOCAL;12;12;16957.46;Biomate University;Void Starcross;6h 9m 3s ;22143.94
 NPC;+PRICE;9;0;54861.65;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+LOCAL;12;23;16957.46;Biomate University;Void Starcross;8h 8m 25s ;29305.03
+PLAYER;-QTY;11;1;13044.2;Biomate University;Void Starcross;10h 3m 10s ;36190.45
+PLAYER;-QTY;9;1;42443.87;Starbase Corporate Center;Void Starcross;12h 12m 19s ;43939.45
+NPC;+STOCK;21;10;6172.516;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;88;9;42437.38;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;17;8;41855.09;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;101;10;30447.61;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;97;9;42309.52;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;30;9;6233.66;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;19;10;41066.28;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;110;9;28852.07;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;35;16957.46;Biomate University;Void Starcross;14h 3m 2s ;50582.58
+NPC;+LOCAL;12;5;16957.46;Biomate University;Void Starcross;14h 30m 11s ;52211.07

@@ -18,3 +18,21 @@ NPC;+QTY;1006;965;66.34901;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;852;805;59.20275;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;1736;733;37.11675;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;-QTY;358;-656;28.57274;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;1558;591;63.16852;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;805;798;37.12186;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;358;0;30.17016;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;1115;757;26.52495;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2306;748;61.75896;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1991;988;37.28327;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1598;838;81.76309;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1598;0;79.07661;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;-LOCAL;10;0;98.569;Vo Industries;Brimstone;12h 43m 27s ;45807.53
+NPC;+QTY;2535;544;36.8826;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;852;0;61.99689;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;1837;722;25.60025;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3153;669;52.04168;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3214;908;59.46217;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3332;797;33.76192;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;901;766;41.10976;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2575;977;77.40975;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;805;0;38.0606;Gunstellar;Adrenal;14h 10m 55s ;51055.01

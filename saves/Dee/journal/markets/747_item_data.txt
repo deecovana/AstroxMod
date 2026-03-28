@@ -14,3 +14,18 @@ NPC;+QTY;98;9;104375;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+STOCK;112;13;97536.53;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;91;0;61624.36;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-QTY;105;-13;71063.75;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;8;7;39930;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;45;13;60381.25;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+STOCK;106;11;77445.79;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;130;14;37218.04;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;121;12;88183.2;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;16;8;39830;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;34;8;97346.26;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;121;0;85995.13;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;22;9;37187.5;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+QTY;141;11;37088.75;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;119;13;75978.91;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;151;10;32696.71;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;132;11;84369.51;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;45;0;61954.72;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;62;0;117002.8;Psybermind;Ion Child;14h 10m 55s ;51055.01

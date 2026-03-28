@@ -9,3 +9,14 @@ NPC;+STOCK;346;110;118.2846;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;1068;124;101.5122;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;1184;116;101.5122;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+STOCK;215;121;81.58264;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+QTY;451;118;70.44899;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;547;0;108.9331;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;1293;109;98.68948;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;371;145;74.26981;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;470;124;115.9511;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;470;0;113.6003;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;487;116;74.31472;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;1428;135;96.03754;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;591;140;68.70213;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;596;109;69.44035;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;619;149;110.5946;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

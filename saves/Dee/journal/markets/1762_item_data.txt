@@ -6,3 +6,11 @@ NPC;+STOCK;101;8;7048.25;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;18;8;4625.191;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;51;11;8266.947;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-QTY;92;-9;7058.06;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;24;6;4633.722;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;92;0;7246.041;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;101;9;6912.089;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;61;10;7778.506;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;35;11;4395.45;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;112;11;6642.342;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;70;9;7357.389;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;43;8;3971.077;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

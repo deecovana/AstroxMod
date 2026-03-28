@@ -1,3 +1,5 @@
 NPC;BAL;28;-2;57295.96;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;30;2;55930.94;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;34;0;56510.71;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
+NPC;+QTY;32;2;55991.2;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;34;2;53940.57;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

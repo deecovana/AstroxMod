@@ -9,3 +9,9 @@ NPC;+STOCK;66;11;4684.833;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;20;-8;8867.957;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;-QTY;22;-6;8447.434;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;11;-9;8029.943;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+STOCK;20;9;7520.426;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;75;9;4408.996;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;49;11;6709.842;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;75;0;4344.783;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;21;10;7565.218;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;86;11;4093.771;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

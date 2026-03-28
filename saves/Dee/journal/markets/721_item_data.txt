@@ -3,3 +3,10 @@ NPC;+STOCK;128;11;5925.85;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.13
 NPC;+STOCK;49;14;5941.838;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;21;-8;4307.701;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;147;10;5043.806;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+QTY;42;8;3175.8;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;136;8;5893.388;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;61;12;5898.397;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;61;0;5824.839;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;171;12;3392.37;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;150;14;5627.51;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;71;10;5759.77;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

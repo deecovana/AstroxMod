@@ -25,3 +25,16 @@ NPC;+PRICE;65;0;40.91721;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;76;-136;47.35356;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;0;-80;24.48035;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;7;-89;20.56197;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+QTY;412;144;45.63755;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;93;0;38.46896;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+PRICE;275;0;24.87602;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+LOCAL;150;996;13.9425;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;+LOCAL;150;25;13.9425;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;276;126;4.799437;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;932;108;36.90395;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;321;130;27.38307;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;-PRICE;932;0;36.547;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;86;75;28.39444;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;BAL;84;0;24.80267;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;1080;148;35.94146;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;391;13.9425;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03

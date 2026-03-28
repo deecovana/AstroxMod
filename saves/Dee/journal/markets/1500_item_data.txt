@@ -7,3 +7,7 @@ NPC;+PRICE;27;0;541.386;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+PRICE;9;0;1331.886;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;34;7;541.9529;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+PRICE;5;0;1223.65;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+QTY;16;7;1336.579;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+QTY;18;11;1051.699;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+STOCK;53;9;535.6417;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;7;0;945.3759;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5

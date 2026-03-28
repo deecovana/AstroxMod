@@ -16,3 +16,13 @@ NPC;BAL;78;-7;2646.327;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1682
 NPC;BAL;4;0;4015.491;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+PRICE;95;0;6118.171;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;-QTY;123;-9;3535.8;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;65;11;5713.387;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;88;11;5902.875;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;88;0;6089.947;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;135;12;3326.135;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;76;11;4702.875;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+QTY;42;11;3560.775;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;44;0;5816.241;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;145;10;3251.728;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;89;11;2412.809;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;56;12;5757.275;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

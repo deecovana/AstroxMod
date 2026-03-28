@@ -6,3 +6,6 @@ NPC;+QTY;63;2;256.2852;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;14;1;464.44;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+PRICE;25;0;548.1331;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;60;2;371.28;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;62;2;353.4548;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;6;0;350.286;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;+STOCK;64;2;330.7889;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31

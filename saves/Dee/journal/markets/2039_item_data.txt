@@ -8,3 +8,8 @@ NPC;-QTY;806;-121;2685.04;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1
 NPC;BAL;667;-139;3010.971;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+LOCAL;128;87;1329.42;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
 NPC;+QTY;994;110;4020.968;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;+STOCK;794;127;2959.253;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;128;0;592.2757;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;-PRICE;139;0;3550.238;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;814;147;2962.146;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;288;149;3484.002;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

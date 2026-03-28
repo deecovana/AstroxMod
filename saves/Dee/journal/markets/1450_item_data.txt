@@ -16,3 +16,9 @@ NPC;-QTY;0;-4;4068.75;Dustardz;Redsky;4h 19m 24s ;15564.41
 NPC;+QTY;17;7;3812.5;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+PRICE;0;0;4231.604;Dustardz;Redsky;5h 41m 50s ;20510.81
 NPC;+PRICE;6;0;2907.219;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+PRICE;86;0;2351.108;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;96;10;2193.284;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;73;9;1786.044;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;83;10;1804.438;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;106;10;1960.394;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;93;10;1689.538;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

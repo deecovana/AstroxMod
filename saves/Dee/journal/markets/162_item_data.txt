@@ -19,3 +19,14 @@ NPC;+QTY;379;122;27.98843;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-LOCAL;42;42;29.1375;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+STOCK;178;147;12.74314;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-QTY;829;-130;27.17687;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;445;95;21.59574;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;91;0;17.20968;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;445;0;22.78821;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;969;140;26.74779;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;162;120;28.55316;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;402;103;23.36733;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;200;80;18.08597;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;542;140;23.33299;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;268;106;27.11693;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;656;114;22.28171;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;445;0;23.47223;Gunstellar;Adrenal;14h 10m 55s ;51055.01

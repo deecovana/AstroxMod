@@ -26,3 +26,16 @@ NPC;-PRICE;2;0;520429.4;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;1748
 NPC;+QTY;16;4;281250;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;1;0;222336.2;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-QTY;74;-3;389650;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;67;3;426115.6;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;74;0;408147.3;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;62;0;374291.2;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;20;4;259560.5;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;71;4;420591.6;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;140;3;209835.5;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;164;0;409358.2;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;16;2;296731.3;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;77;3;403944;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;23;3;245025.2;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;74;3;414235.4;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;141;4;211973.5;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;167;3;388926.6;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

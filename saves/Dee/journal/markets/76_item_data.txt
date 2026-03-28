@@ -13,3 +13,17 @@ NPC;-PRICE;266;0;85.21214;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+QTY;7921;1923;98.4375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;1824;1778;71.86102;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;0;-2027;129.3775;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;0;0;133.7746;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;1879;1879;131.2628;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;10379;2458;92.84608;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;7287;2318;122.1459;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3842;1972;145.8651;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;6603;2436;147.1327;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;6603;0;140.0015;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;5919;2077;145.4053;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;2231;1878;183.3631;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;92;0;165.4771;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;4244;2365;127.7514;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;12858;2479;84.3661;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;9544;2257;119.8356;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;8969;2366;134.1858;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

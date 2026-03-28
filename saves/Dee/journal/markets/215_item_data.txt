@@ -24,3 +24,14 @@ NPC;-LOCAL;0;0;218.2979;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;-LOCAL;0;0;238.0435;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
 NPC;-QTY;0;-92;187.2206;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;67;-83;18.53922;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;0;0;238.5931;Horizons;Gate of Alpharis;9h 50m 43s ;35443.09
+NPC;-LOCAL;0;0;180.264;Astrox Security Patrol;Felishar;10h 35m 10s ;38110.46
+NPC;-LOCAL;0;0;198.0371;Astrox Security Patrol;Felishar;10h 47m 13s ;38833.52
+NPC;+PRICE;67;0;21.59307;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;125;125;203.6227;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;-LOCAL;0;0;205.0983;Astrox Security Patrol;Felishar;11h 10m 1s ;40201.27
+NPC;-LOCAL;0;0;222.0514;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;-LOCAL;0;0;340.3865;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
+NPC;+QTY;530;115;89.78842;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+STOCK;196;129;18.56593;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;430;50.505;Biomate University;Void Starcross;14h 3m 2s ;50582.58

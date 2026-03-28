@@ -1,2 +1,5 @@
 NPC;-QTY;16;-2;69113.3;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;18;2;69113.3;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;17;1;88227.96;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+QTY;19;2;88140.55;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;10;1;51003.38;Quantex;Dellis Primeria;12h 33m 5s ;45185.51

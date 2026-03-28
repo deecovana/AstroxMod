@@ -5,3 +5,5 @@ NPC;+QTY;46;2;781.8475;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+PRICE;8;0;509.7776;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;35;2;741.5862;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;48;2;781.8475;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;50;2;758.3441;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;BAL;33;-2;755.8433;Psybermind;Ion Child;13h 31m 19s ;48679.5

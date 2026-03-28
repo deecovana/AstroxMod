@@ -32,3 +32,28 @@ NPC;+STOCK;991;986;61.97278;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;20;0;55.46317;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-QTY;0;-12;49.99714;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;186;-779;36.03246;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;2625;954;56.11878;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;1522;817;65.34966;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+QTY;894;872;28.22714;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+STOCK;1068;882;33.00401;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4250;803;22.45125;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3591;966;53.48779;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1604;671;40.78196;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2613;975;59.17472;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;864;790;30.09314;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;852;0;56.64904;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;2613;0;57.67934;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;990;983;55.47462;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+QTY;951;894;50.52079;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;2190;586;40.4852;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;23;0;46.0478;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;1898;830;31.68553;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;5218;968;21.57558;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4402;811;52.93116;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1128;981;35.08459;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;1000;9145;20.215;Star Shepards Hub;Temple Gates;14h 8m 41s ;50921.47
+NPC;+PRICE;894;0;30.85003;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;23;0;46.90403;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;29;0;51.72036;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;BAL;27;0;62.7522;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
+NPC;BAL;3;0;44.26276;Dustardz;Redsky;14h 12m 27s ;51147.38

@@ -15,3 +15,13 @@ NPC;+QTY;192;7;128437.5;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;55;8;103125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;29;0;200362.1;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;+PRICE;33;0;213016.6;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+PRICE;5;0;285334.9;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+STOCK;67;12;91803.76;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;58;10;100613.7;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;139;14;185272.5;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;68;14;197075;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;82;13;180557.8;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;146;7;185221.9;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;77;10;82754.86;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;70;12;92115.98;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;17;-12;220678.2;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

@@ -9,3 +9,11 @@ NPC;+STOCK;139;21;2861.514;Biomate University;Void Starcross;4h 12m 27s ;15147.9
 NPC;BAL;15;-17;4666.625;Blargg's;Beacon Spita;4h 40m 21s ;16821.04
 NPC;BAL;15;0;4373.99;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+PRICE;93;0;2252.319;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;+QTY;96;15;4519.063;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;10;0;2807.879;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;139;0;3047.332;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;96;0;4743.8;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;161;22;2888.203;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;104;0;4268.563;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+STOCK;181;20;2834.998;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;96;0;4879.364;Gunstellar;Adrenal;14h 10m 55s ;51055.01

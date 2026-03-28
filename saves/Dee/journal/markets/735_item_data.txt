@@ -13,3 +13,13 @@ NPC;-PRICE;35;0;2326015;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;BAL;152;-2;2163186;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;81;0;2323043;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;-QTY;110;-4;873250;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;36;4;1023250;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+STOCK;113;3;800781.8;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;155;3;2107299;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;31;4;1631669;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;62;0;2596023;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;31;0;1594659;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;117;4;748816.2;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;155;3;2051348;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;35;4;1483256;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;41;0;1483140;Psybermind;Ion Child;14h 10m 55s ;51055.01

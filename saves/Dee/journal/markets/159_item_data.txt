@@ -17,3 +17,8 @@ NPC;-LOCAL;4;4;64.9125;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
 NPC;+QTY;119;115;65.81406;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;366;129;43.31161;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-LOCAL;60;60;64.9125;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+QTY;476;110;43.31179;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+QTY;546;145;37.14798;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+STOCK;191;131;64.56567;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;323;132;62.18473;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;771;142;48.32222;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

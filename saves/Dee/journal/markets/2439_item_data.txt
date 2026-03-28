@@ -5,3 +5,5 @@ NPC;+STOCK;14;2;222.5091;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;17;0;306.4684;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+STOCK;40;2;434.101;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;-QTY;13;-1;220.185;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;13;0;236.6572;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;15;2;221.3752;Biomate University;Void Starcross;12h 16m 20s ;44180.46

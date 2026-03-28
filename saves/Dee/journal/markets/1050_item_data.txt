@@ -11,3 +11,8 @@ NPC;+STOCK;20;11;1763.071;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;28;0;1305.829;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;21;11;1288.875;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;53;10;1097.25;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;61;8;1045.419;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;66;8;777.1915;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;77;11;778.8638;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;87;10;719.8758;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;21;0;1393.519;Psybermind;Ion Child;14h 10m 55s ;51055.01

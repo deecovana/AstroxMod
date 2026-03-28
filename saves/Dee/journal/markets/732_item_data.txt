@@ -15,3 +15,19 @@ NPC;+QTY;77;8;13256.25;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;18;12;12293.91;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+QTY;174;7;7659.516;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-QTY;67;-12;8559.563;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;101;12;8283.469;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;208;0;10204.47;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;34;0;6647.47;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;220;12;9824.284;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;115;14;7969.314;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;61;0;9171.083;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;86;9;13251.94;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;BAL;1;0;7591.573;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;BAL;44;-11;16065.26;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;BAL;14;0;8908.896;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+STOCK;230;10;9726.02;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;127;12;7583.817;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;74;13;8689.968;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;44;0;16447.09;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;18;0;12485.55;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;BAL;25;-10;7788.952;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

@@ -2,3 +2,4 @@ NPC;-PRICE;9;0;314.6669;Keyworx;Geminey;0h 0m 23s ;23.44398
 NPC;+QTY;11;2;315.27;Keyworx;Geminey;0h 50m 9s ;3009.769
 NPC;-QTY;8;-2;662.811;Terra Drone;Geminey;4h 11m 42s ;15102.06
 NPC;-PRICE;6;0;407.1138;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
+NPC;BAL;5;-1;455.0333;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

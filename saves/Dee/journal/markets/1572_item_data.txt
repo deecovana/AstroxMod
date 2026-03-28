@@ -12,3 +12,10 @@ NPC;+QTY;19;6;10977.71;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+PRICE;24;0;23319.17;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;12;0;21470.79;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;67;-10;7455.761;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;67;0;8093.506;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;25;0;10606.81;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;75;8;7755.314;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;104;9;13809.78;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;111;7;13746.37;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;86;11;7066.583;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;122;11;12839.63;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

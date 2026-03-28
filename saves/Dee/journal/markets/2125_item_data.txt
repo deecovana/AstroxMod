@@ -22,3 +22,15 @@ NPC;+PRICE;131;0;650.704;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;BAL;35;0;1158.26;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+QTY;2225;2118;740.7567;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;-QTY;0;-131;824.2732;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+QTY;1285;1283;937.1891;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;2637;0;472.8023;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;4769;2132;440.3;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2922;1974;1177.622;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;6432;2100;593.2382;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;6432;0;525.811;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;6765;1996;388.0273;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;5726;2033;1312.206;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3160;2212;1202.314;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;8708;2276;466.5354;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;131;0;705.3804;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;BAL;1966;1966;704.3626;Dustardz;Redsky;14h 12m 27s ;51147.38

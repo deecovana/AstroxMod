@@ -6,3 +6,8 @@ NPC;+STOCK;69;11;3551.323;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;19;6;5351.874;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+PRICE;8;0;2667.932;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+QTY;29;9;5505.128;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;36;7;5505.145;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+STOCK;78;9;3451.126;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;27;11;4540.037;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;78;0;3382.666;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;BAL;3;0;3274.426;Communications Hub;Ele;13h 31m 19s ;48679.5

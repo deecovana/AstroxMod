@@ -3,3 +3,6 @@ NPC;BAL;17;-7;40212.48;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;26;9;39168.13;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;BAL;44;-9;41710.8;Kith;Kidd Overture;2h 58m 0s ;10680.39
 NPC;+STOCK;35;9;38296.43;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;+QTY;45;10;38040.04;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;54;9;37325.11;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;65;11;35486.54;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

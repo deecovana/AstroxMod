@@ -10,3 +10,13 @@ NPC;-QTY;131;-7;2542.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1556
 NPC;-PRICE;43;0;2824.009;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;BAL;123;-8;2691.924;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-QTY;95;-8;3655.8;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;61;11;5953.388;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;29;0;4350.653;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+PRICE;95;0;3832.198;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;109;14;3721.557;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;72;11;5708.708;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;87;12;5564.534;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;137;14;2442.381;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;9;0;2478.673;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;+STOCK;119;10;3517.066;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;137;14;2498.573;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

@@ -9,3 +9,13 @@ NPC;+STOCK;49;4;295194.2;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15
 NPC;+STOCK;34;3;392293.6;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;33;-3;411303.6;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;44;-4;299647;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+LOCAL;5;1;256750;StarShepards Headquarters;Void Starcross;10h 9m 47s ;36587.3
+NPC;+PRICE;2;0;836950.4;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;47;3;269759.6;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;9;4;119201.1;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;34;0;374625.6;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;11;2;119201.1;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+LOCAL;5;1;548070.6;Temple of the Void;Vindicati;12h 51m 19s ;46279.07
+NPC;+STOCK;51;4;229682;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;15;4;115409.1;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;38;4;352156.8;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

@@ -4,3 +4,4 @@ NPC;+STOCK;70;11;73517.8;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15
 NPC;-QTY;51;-8;75192;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;41;-10;69193.47;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;61;0;42521.3;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;+STOCK;52;11;65974.41;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46

@@ -32,3 +32,28 @@ NPC;-LOCAL;1811;0;67.01131;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;+STOCK;3911;3691;37.29795;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;149;0;60.64763;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;323;-4140;57.1636;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;1435;0;58.5;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+QTY;13250;4442;43.79602;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;-LOCAL;0;0;130;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;-LOCAL;0;0;130;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;4445;4122;55.62038;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;8977;4659;43.49194;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;18019;4769;43.2237;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;12001;3670;44.39492;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4978;3543;58.30086;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;27;27;58.5;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;+QTY;4206;4061;27.75825;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+QTY;4143;3912;41.82506;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;27;0;58.86028;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;16498;4497;44.24615;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;4388;4042;57.35989;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;8767;4322;54.61069;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;22796;4777;41.81004;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;20813;4315;41.7258;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4783;3509;24.83853;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3802;3775;56.54812;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;0;0;130;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
+PLAYER;+QTY;1776;1776;130;Acrondia Hub;Temple Gates;14h 6m 33s ;50793.13
+NPC;+PRICE;359;0;36.64425;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;66;0;43.46546;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;2127;-3680;54.55007;Foodmaid;Daelus;14h 12m 27s ;51147.38

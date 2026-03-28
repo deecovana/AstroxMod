@@ -7,3 +7,9 @@ NPC;-QTY;28;-10;669.375;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;BAL;18;-10;693.0158;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;30;-6;1273.483;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+PRICE;10;0;1373.068;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
+NPC;+STOCK;26;8;613.111;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;67;9;1502.481;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+QTY;18;8;1365.886;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;31;0;1344.661;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;42;11;1267.137;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+PLAYER;-QTY;14;4;685.2487;Starbase Corporate Center;Void Starcross;14h 24m 47s ;51887.05

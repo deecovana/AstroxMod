@@ -32,3 +32,23 @@ NPC;+QTY;22;4;4562.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;7;-3;4553.172;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+PRICE;12;0;4460.944;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;0;-2;3446.5;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+QTY;9;2;4553.188;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;13;0;3316.527;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;2;0;5309.407;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;10;0;3762.63;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;25;3;4492.709;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;26;4;4015.392;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;37;4;2554.646;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;39;3;4434.598;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;36;3;3805.935;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;11;2;2367.313;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;36;0;3630.053;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;39;2;2554.438;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;3;3;3903.064;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+STOCK;29;4;4331.684;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;42;3;2474.37;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;40;4;4316.156;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;40;4;3503.647;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;5;0;2042.402;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;BAL;3;-3;2933.112;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;BAL;11;-2;4801.804;Foodmaid;Daelus;14h 12m 27s ;51147.38

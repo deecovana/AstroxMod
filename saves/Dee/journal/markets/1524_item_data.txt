@@ -1,3 +1,7 @@
 NPC;+STOCK;36;10;106231.8;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;47;11;103969.4;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;61;0;157247.4;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+STOCK;57;10;99153.39;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;19;0;77217.63;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+QTY;66;9;99569.05;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;76;10;94214.46;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

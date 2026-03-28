@@ -5,3 +5,6 @@ NPC;+PRICE;44;0;4649.513;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960
 NPC;+STOCK;82;10;8639.108;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;28;10;8091.813;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;BAL;8;-10;9044.567;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;+STOCK;17;9;8584.238;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;92;10;8143.232;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;18;10;8850.163;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

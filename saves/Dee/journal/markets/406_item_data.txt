@@ -40,3 +40,20 @@ NPC;-LOCAL;0;0;77.5;Tella's;Bitcola;7h 28m 52s ;26932.76
 NPC;-LOCAL;0;0;77.5;Tella's;Bitcola;7h 35m 32s ;27332.98
 NPC;-QTY;0;-12;30.18819;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;165;-886;17.6483;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;1671;685;33.54917;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;165;0;18.27536;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;899;0;35.58945;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;1150;985;16.76023;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4144;923;29.49484;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2645;974;32.82077;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2901;916;30.77405;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1866;977;28.64909;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;734;692;25.3685;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;911;902;33.85917;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;3854;953;30.71751;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;9;0;19.89266;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+STOCK;1894;744;15.45281;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3388;743;31.68585;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4583;729;29.616;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1595;706;28.03134;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1730;996;24.51172;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

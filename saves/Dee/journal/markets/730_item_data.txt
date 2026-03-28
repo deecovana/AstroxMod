@@ -20,3 +20,17 @@ NPC;+QTY;102;14;23512.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;188;0;21838.02;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;103;0;23254.1;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;-QTY;0;-4;33731.72;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+PRICE;174;0;25178.79;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;187;13;23726.5;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;113;11;21746.05;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;40;12;29548.29;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;78;14;31477.46;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;163;14;27121.78;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;186;10;31356.38;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;68;14;37055.81;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;186;0;28987.76;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;91;13;31539.94;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;200;13;22223.15;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;51;11;28717.86;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;105;14;29577.63;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;162;13;26773.45;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

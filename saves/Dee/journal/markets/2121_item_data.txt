@@ -21,3 +21,16 @@ NPC;+PRICE;17;0;226.4279;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;1597;1484;244.5508;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;3988;2391;244.5508;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;602;-1763;503.9834;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;0;0;353.7159;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+PRICE;602;0;513.9727;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;2494;2471;428.4497;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;2597;1995;508.724;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;8744;2145;426.1617;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1708;1807;478.0712;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;8;0;432.1119;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;4534;0;358.3206;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;10491;1747;425.1912;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+QTY;3760;2052;478.2812;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;39;0;433.1725;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+STOCK;4590;1993;494.0834;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;12920;2429;398.2849;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

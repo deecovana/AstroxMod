@@ -9,3 +9,12 @@ NPC;+STOCK;1070;175;109.3993;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;462;-131;138.8708;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;-PRICE;462;0;134.0356;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-QTY;404;-202;153.7104;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;404;0;158.3323;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;581;177;155.5749;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1553;226;95.57434;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1277;207;105.2711;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1277;0;98.63057;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;1758;205;95.13784;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;1992;234;90.142;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1482;205;91.18761;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;882;-202;96.54779;Foodmaid;Daelus;14h 12m 27s ;51147.38

@@ -33,3 +33,25 @@ PLAYER;+QTY;1743;772;0.251875;Starbase Corporate Center;Void Starcross;6h 56m 4s
 NPC;+PRICE;54;0;0.4792648;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;52;-206;0.4719062;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;381;-225;0.26465;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;1436;209;0.2511156;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;905;242;0.4219062;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+PRICE;202;0;0.3032788;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;0;0;0.4553393;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+PRICE;381;0;0.2713783;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;284;232;0.4642101;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+PRICE;966;0;0.2584392;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;1940;176;0.2506089;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1459;198;0.2609971;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1958;215;0.233173;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;481;178;0.5114287;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;481;0;0.5026972;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;1611;152;0.2604437;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;89;0;0.2664073;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;630;249;0.2553495;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2181;241;0.2298307;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1649;213;0.230354;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1856;245;0.2522736;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;720;239;0.4776407;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;779;0;0.2843655;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;114;-188;0.377394;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;BAL;506;-186;0.3277012;Foodmaid;Daelus;14h 12m 27s ;51147.38

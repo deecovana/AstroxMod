@@ -2,3 +2,6 @@ NPC;+PRICE;27;0;2495.386;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+PRICE;18;0;2509.463;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+PRICE;9;0;1587.33;Dustardz;Redsky;5h 41m 50s ;20510.81
 NPC;-QTY;3;-8;3073.301;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;+STOCK;37;10;2445.886;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+QTY;32;8;1549.458;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;BAL;22;-10;3201.331;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

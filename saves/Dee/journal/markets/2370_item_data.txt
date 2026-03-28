@@ -4,3 +4,5 @@ NPC;+STOCK;68;2;104267.7;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;68;2;103425.8;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;8;1;76667.84;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-QTY;67;-1;103536.7;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;67;0;104982.3;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;69;2;99090.65;Biomate University;Void Starcross;12h 16m 20s ;44180.46

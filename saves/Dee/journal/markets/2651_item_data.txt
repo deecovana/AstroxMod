@@ -18,3 +18,20 @@ NPC;+QTY;5028;1383;593.125;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;7407;2379;593.125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;2204;2164;591.2359;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+QTY;1787;1779;728.4124;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;5554;1263;508.4503;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;2139;0;491.4569;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;4188;2049;469.4504;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;9572;2165;569.2006;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;7614;2060;496.853;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4292;2149;579.2831;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3948;1970;373.319;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;4110;1906;590.395;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;-PRICE;3948;0;353.4015;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;3873;1515;423.0769;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;6559;2371;446.0814;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;11277;1705;555.4681;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;9951;2337;478.0389;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;5689;1816;394.988;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4082;1939;564.7045;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6376;2428;327.5623;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;168;0;400.1405;Gunstellar;Adrenal;14h 10m 55s ;51055.01

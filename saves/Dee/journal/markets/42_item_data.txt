@@ -14,3 +14,16 @@ NPC;-PRICE;117;0;19.40791;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.7
 NPC;BAL;10;0;27.3246;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;+PRICE;108;0;24.52582;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-QTY;0;-2;24.27831;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;3847;1310;25.42457;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;47;0;30.87892;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+STOCK;1817;1817;23.52338;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;6099;2252;24.75305;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4103;2275;17.30764;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1855;1772;24.12245;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;4103;0;16.12849;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;4198;2381;23.0686;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;7778;1679;24.13391;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6282;2179;15.08701;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;301;0;12.76075;Foodmaid;Daelus;14h 12m 27s ;51147.38
+PLAYER;-QTY;817;1000;23.4819;Biomate University;Void Starcross;14h 53m 41s ;53621.35
+PLAYER;+QTY;1817;1000;23.7489;Biomate University;Void Starcross;15h 5m 21s ;54321.32

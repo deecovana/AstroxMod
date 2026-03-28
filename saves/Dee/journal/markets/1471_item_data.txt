@@ -14,3 +14,9 @@ NPC;-PRICE;44;0;452072.8;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;174
 NPC;+PRICE;40;0;689946.3;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+QTY;22;10;759525.1;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;73;10;235950;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+STOCK;100;11;405680.6;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;63;0;829004.4;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+QTY;106;6;406292.3;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;84;11;198349.5;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;114;8;394209.8;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;16;9;503602.6;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

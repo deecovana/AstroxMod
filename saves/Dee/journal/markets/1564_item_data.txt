@@ -17,3 +17,9 @@ NPC;-PRICE;19;0;219062;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+LOCAL;12;11;85359.56;Biomate University;Void Starcross;6h 9m 3s ;22143.94
 NPC;+LOCAL;12;23;85359.56;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;-QTY;6;-6;31333.52;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+LOCAL;12;10;85359.56;Biomate University;Void Starcross;9h 55m 27s ;35727.44
+NPC;+PRICE;12;0;38328.46;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;22;10;31070.88;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;31;9;31378.67;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;14;10;213880.6;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;5;85359.56;Biomate University;Void Starcross;14h 30m 11s ;52211.07

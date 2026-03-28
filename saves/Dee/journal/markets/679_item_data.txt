@@ -11,3 +11,8 @@ NPC;+QTY;30;14;100593.8;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
 NPC;+PRICE;54;0;69159.39;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;-QTY;4;-22;120902.8;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;157;-18;94342.44;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;54;20;108648.5;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+PRICE;54;0;75923.13;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;66;22;66145.63;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;78;12;66828.69;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;100;22;64463.68;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

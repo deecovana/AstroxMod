@@ -25,3 +25,15 @@ NPC;+QTY;8349;1991;159.3625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.
 NPC;-QTY;0;-31;237.7761;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;-QTY;0;-74;265.5444;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;0;-33;259.0365;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+QTY;5626;1499;232.4805;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;2223;0;222.2663;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;10647;2298;154.3942;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;7331;1705;228.4603;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4237;1904;238.5455;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;2098;1864;256.7926;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;12547;1900;141.7288;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;9695;2364;221.6899;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;6614;2377;224.0781;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;2288;2054;254.1359;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;99;0;205.9133;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;16;0;284.5725;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

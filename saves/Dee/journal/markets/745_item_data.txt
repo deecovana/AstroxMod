@@ -9,3 +9,11 @@ NPC;+PRICE;8;0;13367.79;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;165;9;13809.52;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+STOCK;83;11;11233.83;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-QTY;89;-9;10339.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;165;0;13988.02;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;175;10;6975.441;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;19;11;13401.94;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+LOCAL;15;66;4875;Ferce Hub;Semja;12h 33m 30s ;45210.61
+NPC;-PRICE;83;0;10922.41;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;BAL;12;0;7179.5;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+STOCK;99;10;9826.434;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;188;13;6458.22;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

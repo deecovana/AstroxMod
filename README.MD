@@ -3,6 +3,7 @@
 ## 0327 Continue Dee 
 - Created folders for 1280x and 1600x
 - Removed Deleted remote branches in local repo manually
+- Interesting Weapon combination 20mm_Antimatter +Beam found
 
 ## 0327 New Dee 
 - Started without mods

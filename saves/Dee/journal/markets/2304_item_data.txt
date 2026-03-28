@@ -1,3 +1,7 @@
 NPC;+QTY;8;1;44199.67;Acrondia Corp.;Crown of Imperium;2h 29m 20s ;8960.865
 NPC;+QTY;13;1;52537.93;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;-QTY;5;-2;64012.93;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+PRICE;36;0;68903.41;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+QTY;14;1;52519.13;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;BAL;4;-2;34388.83;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;BAL;6;-2;48651.41;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5

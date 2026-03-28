@@ -5,3 +5,7 @@ NPC;+PRICE;11;0;34601.36;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+STOCK;28;11;34515.27;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;69;6;27043.63;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;-QTY;21;-7;34444.56;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;21;0;36154.86;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;6;0;20195.73;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;30;9;34837.66;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;6;0;20967.78;Gunstellar;Adrenal;14h 10m 55s ;51055.01

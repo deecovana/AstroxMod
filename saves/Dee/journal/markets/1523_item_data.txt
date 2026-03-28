@@ -6,3 +6,13 @@ NPC;+STOCK;61;11;13154.29;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;38;9;40222.4;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;72;11;13026.92;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-QTY;15;-6;23935.3;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;3;0;39378.32;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;15;0;24630.62;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;23;8;24097.3;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;80;8;11562.23;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;49;11;39314.25;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;49;0;38142.18;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;34;11;23313.86;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;90;10;10531.36;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;59;10;36863.06;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;41;0;34479.73;Gunstellar;Adrenal;14h 10m 55s ;51055.01

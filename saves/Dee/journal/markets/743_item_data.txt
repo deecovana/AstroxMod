@@ -19,3 +19,16 @@ NPC;+PRICE;111;0;154355;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+QTY;54;14;134268.8;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;109;8;96112.51;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;43;13;127154.7;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;39;13;105968.2;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;49;0;67438.34;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;123;14;88024.06;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;51;12;101742.5;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;138;14;92723.85;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;191;11;72818.1;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;89;11;109529.1;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;191;0;67161.45;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;137;14;85437.27;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;63;12;94782.94;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;138;14;92486.52;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;204;13;59110.59;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;36;-13;70249.91;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

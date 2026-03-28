@@ -16,3 +16,14 @@ NPC;+PRICE;131;0;193.4618;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+STOCK;2587;2493;195.1686;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;-QTY;0;-80;234.3578;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;1597;1453;157.722;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;3082;1485;157.7231;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;273;0;371.3697;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+STOCK;5316;1753;287.5147;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3780;2371;328.464;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;1810;1765;302.2119;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+QTY;1868;1476;225.3344;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;17;0;231.7185;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;+QTY;7715;2399;287.3106;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;27;0;333.3254;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+STOCK;9758;2043;271.4733;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3836;2427;335.0496;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

@@ -16,3 +16,13 @@ NPC;+QTY;32;10;14038.1;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;75;9;13006.82;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;88;7;12975.4;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;26;0;15722.2;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;+QTY;39;10;16033;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;83;8;12498.49;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;50;11;15484.91;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;14;9;13054.95;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;95;11;8074.011;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;34;11;15554.51;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;95;0;7836.158;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;92;9;11686.19;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;58;8;15318.3;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;16;11;13151.24;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

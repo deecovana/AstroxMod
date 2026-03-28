@@ -28,3 +28,28 @@ NPC;-LOCAL;5135;0;105.75;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;+PRICE;81;0;122.9867;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;-QTY;0;-35;80.89993;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;0;-4569;80.7742;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;3532;0;105.75;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+QTY;11665;3586;60.36974;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;132;0;63.83838;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;457;0;101.012;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;-LOCAL;0;0;235;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;-LOCAL;16;16;108.6107;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;3361;3361;77.56855;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;13718;4590;46.37762;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;15168;3503;55.79656;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;13952;4981;87.55277;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4839;3490;49.51881;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;947;0;105.75;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;+QTY;4721;4196;85.89838;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;947;0;109.211;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;3801;3413;67.88973;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;18467;4515;87.50342;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;3450;3450;77.02287;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;+STOCK;8050;4689;75.36602;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;18677;4959;41.60891;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;19202;4034;54.22195;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;23043;4576;85.78342;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4712;3363;49.59403;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4795;3848;104.7069;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;0;0;235;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
+NPC;BAL;81;0;117.2107;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38

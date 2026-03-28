@@ -5,3 +5,9 @@ NPC;+PRICE;27;0;3748.987;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
 NPC;+STOCK;60;8;3867.517;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;59;8;3073.478;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;74;0;2877.153;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+PRICE;60;0;3993.977;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;69;9;3909.179;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;69;10;2972.573;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;80;11;2975.537;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;80;11;3797.39;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;90;10;2842.927;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

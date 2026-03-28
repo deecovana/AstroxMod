@@ -1,4 +1,14 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;3;Ship Thruster Systems;4 min;21;3105.0;446364.203331709;Biomate University;Void Starcross;14h 39m 52s 
+SKILL;2;Ship Thruster Systems;3 min;14;2070.0;466061.347008467;Biomate University;Void Starcross;14h 34m 38s 
+SKILL;1;Ship Energy Systems;1 min;7;1197.0;470872.341881514;Starbase Corporate Center;Void Starcross;14h 20m 50s 
+SKILL;3;Salvager Basic Operation;5 min;15;3636.0;472069.341881514;Starbase Corporate Center;Void Starcross;14h 16m 10s 
+SKILL;2;Salvager Basic Operation;3 min;10;2424.0;474990.342125654;Starbase Corporate Center;Void Starcross;14h 12m 56s 
+SKILL;3;Ship Afterburner Systems;5 min;27;2430.0;12192.8949890137;Astrox Security Patrol;Felishar;11h 4m 5s 
+SKILL;2;Ship Shield Regeneration;2 min;16;2310.0;14722.8949890137;Astrox Security Patrol;Felishar;11h 0m 34s 
+SKILL;2;Ship Afterburner Systems;3 min;18;1620.0;17132.8949890137;Astrox Security Patrol;Felishar;10h 56m 14s 
+SKILL;1;Ship Afterburner Systems;2 min;9;810.0;16000.145111084;Astrox Security Patrol;Felishar;10h 51m 17s 
+SKILL;1;Ship Gyroscopic Control;1 min;5;1240.0;16810.1451721191;Astrox Security Patrol;Felishar;10h 50m 11s 
 SKILL;3;Ship Shield Systems;6 min;15;3870.0;139312.255020022;Horizons;Gate of Alpharis;8h 44m 24s 
 SKILL;1;Salvager Basic Operation;2 min;5;1212.0;50749.8179112673;Starbase Corporate Center;Void Starcross;6h 58m 57s 
 SKILL;3;Miner Basic Operation;6 min;15;1404.0;27286.5996704102;Lacuna Bandits;Ballast Crow;6h 22m 56s 

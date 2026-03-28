@@ -1,2 +1,5 @@
 NPC;+STOCK;8;2;92579.91;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;10;2;89017.06;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;12;2;80856.35;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;12;0;71262.93;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;81;2;167716.6;Temple of the Void;Vindicati;12h 57m 36s ;46656.88

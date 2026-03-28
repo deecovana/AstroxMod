@@ -10,3 +10,11 @@ NPC;+STOCK;148;18;231002.2;Biomate University;Void Starcross;4h 12m 27s ;15147.9
 NPC;+STOCK;101;23;240292.3;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;0;-4;169050;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
 NPC;BAL;16;0;207882.4;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
+NPC;+QTY;70;20;139804;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+PRICE;148;0;234920.1;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;48;0;167053.4;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;169;21;226455.4;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;101;0;231499.6;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;29;15;291725;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+STOCK;186;17;221551.6;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;123;22;226655.6;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

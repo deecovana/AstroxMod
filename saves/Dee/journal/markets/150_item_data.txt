@@ -21,3 +21,14 @@ NPC;+QTY;249;99;1.2825;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;150;343;3.705;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;-QTY;99;-97;4.717462;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;-QTY;0;-72;12.41802;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+QTY;389;91;11.39202;PharmaLife;Carioullis;10h 9m 19s ;36559.19
+NPC;+LOCAL;150;994;3.705;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;+STOCK;275;125;1.275375;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;368;109;5.407367;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;243;87;10.64546;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+QTY;111;82;6.765472;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;-PRICE;96;0;8.1516;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;+QTY;211;139;5.493375;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;+QTY;311;117;9.829436;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;BAL;270;-78;6.057643;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;419;144;1.277513;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31

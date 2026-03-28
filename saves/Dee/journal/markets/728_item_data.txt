@@ -17,3 +17,24 @@ NPC;+PRICE;44;0;9475.504;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+PRICE;50;0;13507.08;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;181;14;15637.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;147;-10;14839.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;120;11;8433.469;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+QTY;15;11;6909.563;Ferce;Allabentoris;10h 9m 19s ;36559.19
+NPC;+PRICE;147;0;15408.14;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;100;0;13293.01;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;158;11;15204.75;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;194;13;14986.41;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;131;11;7792.667;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;108;14;10021.62;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;222;13;8430.771;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;58;14;9424.5;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;59;9;13551.94;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+LOCAL;15;53;4875;Ferce Hub;Semja;12h 33m 30s ;45210.61
+NPC;-PRICE;222;0;7922.559;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;128;11;9328.769;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
+NPC;BAL;34;-12;7993.71;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;BAL;10;0;10746.52;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+STOCK;172;14;14555.44;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;206;12;14512.16;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;141;10;7110.559;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;108;14;10079.4;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;236;14;7407.045;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

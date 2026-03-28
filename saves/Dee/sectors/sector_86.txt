@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;86
 SECTOR;name;Jonisae
-SECTOR;level;0.5
+SECTOR;level;0.3
 SECTOR;faction;Pirate
 SECTOR;filename;sector_86.txt
 SECTOR;is_explored;False
@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;resources#16171#22#4
+SECTOR;event_type;war#48788#16#3
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;1515;-6;-1578

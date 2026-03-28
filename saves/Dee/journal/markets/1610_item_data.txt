@@ -2,3 +2,8 @@ NPC;-QTY;0;-5;1279.267;Transporteers Hub;Ambervellis Drea;4h 11m 42s ;15102.06
 NPC;+STOCK;33;9;875.876;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;8;6;696.9375;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+PRICE;17;0;578.7779;Xellon;Ele;5h 41m 50s ;20510.81
+NPC;+STOCK;44;11;830.3493;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;8;0;753.1695;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;+QTY;11;11;1278.493;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;BAL;2;0;1189.722;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;55;11;785.6245;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

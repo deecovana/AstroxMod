@@ -7,3 +7,6 @@ NPC;-PRICE;52;0;14138.51;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+QTY;95;7;9629.651;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;32;10;11091.12;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;40;8;11091.12;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+PRICE;7;0;15741.06;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;104;9;9227.909;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;89;10;11802.6;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

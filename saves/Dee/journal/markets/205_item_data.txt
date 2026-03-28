@@ -23,3 +23,13 @@ NPC;+PRICE;151;0;123.4691;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;433;83;47.64375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;37;-75;122.5033;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;164;127;122.5033;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+QTY;859;130;99.58772;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+LOCAL;150;1;150.5321;Astrox Security Patrol;Felishar;10h 35m 10s ;38110.46
+NPC;+STOCK;289;139;126.3863;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+LOCAL;150;16;139.453;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;+STOCK;966;107;94.16129;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;667;101;109.7973;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;338;113;110.1249;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+QTY;544;148;120.5199;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;569;136;43.64375;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1097;131;90.10303;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

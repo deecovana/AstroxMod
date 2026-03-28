@@ -6,3 +6,5 @@ NPC;+PRICE;14;0;2662.62;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.
 NPC;+QTY;46;11;1613.795;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;43;0;1068.058;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+QTY;52;6;1613.795;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+PRICE;6;0;1939.576;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;60;8;1469.105;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46

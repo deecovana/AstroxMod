@@ -23,3 +23,11 @@ NPC;+STOCK;421;118;76.2462;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;3392
 NPC;+STOCK;191;144;40.94874;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;379;0;62.80734;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+LOCAL;69;22;53.11941;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;+LOCAL;150;20;93.42317;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;+PRICE;583;0;60.28556;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+STOCK;646;108;44.35246;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;421;0;74.94096;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;646;0;43.04943;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;290;131;81.04824;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+STOCK;758;112;42.08412;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;779;-86;80.46938;Foodmaid;Daelus;14h 12m 27s ;51147.38

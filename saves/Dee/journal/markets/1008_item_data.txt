@@ -12,3 +12,14 @@ NPC;+PRICE;12;0;2475.018;Xellon;Ele;5h 41m 50s ;20510.81
 NPC;+QTY;75;11;2406.25;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;43;7;2676.586;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;27;0;1580.838;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+PRICE;16;0;2723.134;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
+NPC;+STOCK;84;9;2337.166;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;37;9;1454.781;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;61;10;2672.88;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;49;11;1074.761;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;49;0;1038.018;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;72;11;2677.219;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;92;8;2235.757;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;46;9;1381.859;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;60;11;950.8701;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;57;-9;1590.256;Foodmaid;Daelus;14h 12m 27s ;51147.38

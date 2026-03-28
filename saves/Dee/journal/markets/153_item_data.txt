@@ -22,3 +22,15 @@ NPC;+QTY;400;89;8.421875;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;271;121;1.40625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;305;0;9.000835;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;16;0;5.462575;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+QTY;752;149;10.52789;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;0;0;9.320937;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+STOCK;420;149;1.398438;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;875;123;9.943015;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;131;131;6.65471;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;280;0;9.554626;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;-PRICE;94;0;12.95764;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;+STOCK;569;149;1.400781;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;121;121;6.81904;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;99;0;9.125948;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;37;0;12.24472;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;BAL;317;-83;8.595626;Foodmaid;Daelus;14h 12m 27s ;51147.38

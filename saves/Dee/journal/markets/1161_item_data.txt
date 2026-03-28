@@ -19,3 +19,13 @@ NPC;BAL;7;0;3769.131;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 PLAYER;-QTY;74;1;3615.806;Biomate University;Void Starcross;8h 12m 46s ;29566.62
 NPC;+PRICE;30;0;4633.002;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;-QTY;63;-11;3668.22;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+LOCAL;12;29;1755;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+LOCAL;12;17;1755;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;73;10;3471.674;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;21;9;774.6975;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;1;1755;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+QTY;32;7;2610.697;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+QTY;19;11;2232.698;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;21;9;772.6725;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;14;1755;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+PLAYER;+QTY;76;3;3453.148;Biomate University;Void Starcross;14h 39m 9s ;52749.01

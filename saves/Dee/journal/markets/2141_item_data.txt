@@ -3,3 +3,5 @@ NPC;-PRICE;26;0;58415.43;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+STOCK;21;2;57141.15;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;24;1;59823;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+STOCK;59;2;29487.47;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+PRICE;20;0;25656.46;Gunstellar;Adrenal;11h 29m 25s ;41365.69
+NPC;+PRICE;20;0;26755.85;Gunstellar;Adrenal;14h 10m 55s ;51055.01

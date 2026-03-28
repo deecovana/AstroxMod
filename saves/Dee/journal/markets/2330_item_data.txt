@@ -4,3 +4,7 @@ NPC;+STOCK;47;2;46669.34;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;26;0;36771.78;Spacebook;Phistatisia;2h 34m 4s ;9244.389
 NPC;+STOCK;49;2;44953.26;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;27;-1;42143.71;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+QTY;50;1;44929.35;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;29;2;41250.94;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+STOCK;52;2;44277.3;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;54;2;43262.73;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

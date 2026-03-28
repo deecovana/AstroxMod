@@ -8,3 +8,8 @@ NPC;-QTY;386;-78;956.7012;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1
 NPC;BAL;289;-97;942.6578;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;336;138;855.8752;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;-QTY;750;-92;384.3304;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;750;0;411.2064;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;853;103;371.5414;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;403;114;919.4035;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;969;116;344.3214;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;397;108;924.1481;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

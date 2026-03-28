@@ -2,3 +2,4 @@ NPC;-PRICE;6;0;90145.48;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;+QTY;54;1;87756.9;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+PRICE;43;0;150022.6;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;-QTY;33;-1;121634.7;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;+PRICE;10;0;65464.38;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69

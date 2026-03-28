@@ -3,3 +3,5 @@ NPC;+STOCK;49;2;1866.883;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;51;2;1793.11;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;10;1;868.8749;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+PRICE;10;0;1718.52;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
+NPC;+QTY;52;1;1789.686;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;54;2;1742.81;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31

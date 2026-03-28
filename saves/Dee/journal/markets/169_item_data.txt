@@ -17,3 +17,11 @@ NPC;+PRICE;234;0;57.71845;Xellon;Ele;5h 41m 50s ;20510.81
 NPC;-LOCAL;9;9;107.325;Lammassu Financial;Void Starcross;6h 4m 29s ;21869.14
 NPC;+QTY;109;100;108.8156;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;65;65;107.325;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;+PRICE;635;0;65.8328;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;767;132;64.04564;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;724;137;81.16061;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;159;132;90.84286;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;819;95;81.17467;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;886;119;59.80388;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;205;140;106.1181;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;942;123;76.22292;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

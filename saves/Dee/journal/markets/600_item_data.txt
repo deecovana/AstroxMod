@@ -44,3 +44,23 @@ NPC;+QTY;10;2;5653.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;13;3;5653.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+LOCAL;5;1;1625;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05
 NPC;-QTY;1;-4;2346.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;16;3;4761.156;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;6;0;2395.849;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;1;0;2404.779;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+PRICE;14;0;3970.997;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;5;4;2150.393;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;50;3;3027.634;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;52;3;1745.218;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;33;4;2511.972;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;22;3;4186.212;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;25;3;3319.063;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;22;0;3987.341;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;55;3;1754.438;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;3;0;2347.342;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+STOCK;53;3;2871.164;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;20;4;4600.851;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;58;3;1481.903;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;33;4;2452.475;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;26;4;3724.319;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;23;0;5465.994;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;BAL;38;-3;3632.974;Foodmaid;Daelus;14h 12m 27s ;51147.38

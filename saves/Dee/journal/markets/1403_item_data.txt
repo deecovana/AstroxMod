@@ -6,3 +6,8 @@ NPC;BAL;27;-11;49968.39;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;+QTY;60;7;47987.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;21;10;51174.06;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+QTY;66;6;47987.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;9;8;34309.69;Gunstellar;Adrenal;10h 9m 19s ;36559.19
+NPC;+STOCK;76;10;46830.49;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;85;9;45700.75;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;36;9;47248.18;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;22;0;45301.8;Psybermind;Ion Child;14h 10m 55s ;51055.01

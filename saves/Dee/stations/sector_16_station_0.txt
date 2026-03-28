@@ -38,6 +38,8 @@ MERC;7;1.34;npc_ship_data_(support_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Out of Stock: (1) Items ;203x385;74614;128344.90
+BUYORDER;Market Low Inventory: (2) Items ;170x518,200x230;67344;78400.42
 BUYORDER;Market Out of Stock: (3) Items ;202x192,202x410,170x195;103669;48101.77
 
 BUYORDER;Looking to Buy (1) Items ;324x1177;58679;47964.90

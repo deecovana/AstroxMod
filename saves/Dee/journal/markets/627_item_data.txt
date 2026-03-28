@@ -13,3 +13,14 @@ NPC;+STOCK;32;3;315519.7;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;31;-2;577664.8;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;5;-3;297319.9;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;-PRICE;26;0;290438;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
+NPC;+LOCAL;5;1;169000;StarShepards Headquarters;Void Starcross;10h 9m 47s ;36587.3
+NPC;+PRICE;3;0;437051.1;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;8;3;275223.4;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;36;4;288065.3;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;36;0;281784.7;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;8;3;78461.5;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;9;4;402012.8;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;11;3;75965.5;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;8;3;278603;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;39;3;262036.9;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;34;-3;556466.4;Foodmaid;Daelus;14h 12m 27s ;51147.38

@@ -2,3 +2,5 @@ NPC;+QTY;55;9;3543.467;KIN AI;Xenilo Valley;0h 50m 9s ;3009.769
 NPC;+QTY;32;9;1792.632;CoraVault;Lins;2h 29m 20s ;8960.865
 NPC;+QTY;34;7;3134.784;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;+PRICE;29;0;2971.037;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;+PRICE;28;0;3156.392;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+QTY;19;9;3393.787;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94

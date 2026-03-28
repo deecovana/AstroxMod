@@ -24,3 +24,8 @@ NPC;+LOCAL;12;17;1045.525;Biomate University;Void Starcross;6h 9m 3s ;22143.94
 NPC;+LOCAL;12;22;1045.525;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;+PRICE;3;0;2431.792;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;1;-11;383.7881;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+LOCAL;12;12;1045.525;Biomate University;Void Starcross;9h 55m 27s ;35727.44
+NPC;+STOCK;22;10;380.5711;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;58;7;3059.005;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;68;10;2921.556;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;4;1045.525;Biomate University;Void Starcross;14h 30m 11s ;52211.07

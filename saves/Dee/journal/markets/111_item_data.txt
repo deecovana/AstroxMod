@@ -22,3 +22,16 @@ NPC;+LOCAL;224;19;20.98558;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
 NPC;+QTY;1548;226;26.36062;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;916;179;10.00875;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;578;-224;17.06715;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;935;199;26.8319;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+PRICE;578;0;17.55425;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;778;200;16.693;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;1150;215;26.13248;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;781;223;17.89322;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;894;166;11.5785;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;965;247;25.77763;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;975;197;16.10036;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1114;198;9.277838;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1359;209;25.07288;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1208;243;24.65227;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;733;175;17.71175;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;1064;170;11.01627;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

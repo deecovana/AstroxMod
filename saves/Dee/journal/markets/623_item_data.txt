@@ -20,3 +20,22 @@ NPC;+PRICE;15;0;40161;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+PRICE;20;0;41752.97;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+QTY;32;2;50187.5;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;21;3;18625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;+QTY;24;4;41111.56;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+LOCAL;5;1;16250;StarShepards Headquarters;Void Starcross;10h 9m 47s ;36587.3
+NPC;+PRICE;13;0;44478.2;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;16;3;43470.57;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;24;3;18040.77;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;8;3;7544.375;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;10;4;40518.62;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;55;4;23979.95;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;4;3;45190.63;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;55;0;21921.14;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;11;3;7544.375;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+LOCAL;3;1;48707.59;Temple of the Void;Vindicati;12h 51m 19s ;46279.07
+NPC;+LOCAL;4;1;43132.74;Temple of the Void;Vindicati;13h 32m 8s ;48728.66
+NPC;+STOCK;20;4;42866.63;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;28;4;16403.26;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;27;3;38968.19;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;14;3;7304.375;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;9;3;40493.61;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;59;4;19396.01;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

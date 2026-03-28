@@ -11,3 +11,12 @@ NPC;BAL;9;0;1396.284;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+PRICE;11;0;972.1816;Xellon;Ele;5h 41m 50s ;20510.81
 NPC;-QTY;5;-9;1035.396;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;-QTY;31;-8;1032.46;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;31;0;1093.85;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+PRICE;13;0;1942.862;Vo Industries;Brimstone;11h 29m 25s ;41365.69
+NPC;+STOCK;42;11;990.3283;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;48;9;797.9233;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;78;11;2384.388;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;57;0;1100.036;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+STOCK;51;9;934.736;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;58;10;709.487;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+PLAYER;-QTY;40;2;988.8381;Biomate University;Void Starcross;14h 53m 17s ;53597.11

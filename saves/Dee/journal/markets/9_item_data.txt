@@ -8,3 +8,16 @@ NPC;-LOCAL;459;0;1046.25;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
 NPC;+QTY;3903;3106;1035.787;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;-LOCAL;139;0;1046.25;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;-QTY;0;-444;501.549;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;0;0;2325;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;-LOCAL;0;0;2325;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;-LOCAL;0;0;2325;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;3446;3446;470.2286;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;9676;4325;533.5885;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;4616;4616;2752.242;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;3935;0;1101.987;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;-PRICE;3935;0;1130.999;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;14640;4964;530.9254;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;18731;4091;496.9829;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;7948;4013;1093.953;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;0;0;2325;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
+NPC;BAL;3903;0;944.2542;Foodmaid;Daelus;14h 12m 27s ;51147.38

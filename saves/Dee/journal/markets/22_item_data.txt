@@ -28,3 +28,27 @@ NPC;-LOCAL;69;69;393.75;Starbase Corporate Center;Void Starcross;5h 56m 1s ;2136
 NPC;+QTY;15904;2964;294.875;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;16;16;393.75;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;-QTY;0;-813;209.755;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+QTY;12543;4191;133.7809;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;-LOCAL;24;24;393.75;Starbase Corporate Center;Void Starcross;10h 13m 58s ;36838.04
+NPC;+PRICE;74;0;266.3896;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
+NPC;+PRICE;0;0;220.8131;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;4952;4815;219.1796;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;-LOCAL;42;42;393.75;Starbase Corporate Center;Void Starcross;11h 57m 51s ;43071.76
+NPC;+STOCK;4853;4853;203.5867;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;19578;3674;286.0665;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;16509;3966;120.7743;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;13431;4569;124.2678;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;5036;4994;401.289;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;9107;4103;384.6158;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;18;0;393.75;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
+NPC;+QTY;3998;3678;491.668;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;9107;0;373.9308;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;3611;3087;189.7809;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;+QTY;16492;3061;122.8106;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;8633;3780;188.0064;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;23183;3605;271.1183;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;20436;3927;109.3368;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;21444;4952;115.7811;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4754;4736;405.6659;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;13963;4856;364.3319;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;549;0;393.75;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44

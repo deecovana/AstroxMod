@@ -5,3 +5,7 @@ NPC;+PRICE;45;0;10406.28;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960
 NPC;+STOCK;76;2;7177.855;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;17;2;5440.282;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;75;-1;7161.767;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;75;0;7504.788;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;77;2;7271.941;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;79;2;6814.218;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;19;2;4938.309;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31

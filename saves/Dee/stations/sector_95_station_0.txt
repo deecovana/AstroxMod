@@ -17,7 +17,7 @@ STATION;seed;2-1-1-4-8-0-3-1-5-3-3-8-0
 STATION;interior_seed;4-3-45-9
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;17647.06
+STATION;last_dock_time;50984.65
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -40,126 +40,122 @@ MERC;7;1.30;npc_ship_data_(battle_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-BUYORDER;Market Low Inventory: (1) Items ;352x195;49507;37169.05
-BUYORDER;Market Demands: (1) Items ;353x182;16370;88295.05
-SELLORDER;Looking to Sell (2) Items ;113x456,50x293;9140;100510.20
-
-SELLORDER;Market Surplus: (2) Items ;300x51,2012x337;48087;28096.38
-BUYORDER;Market Needs Goods: (2) Items ;353x54,352x75;27373;77748.13
-
-ITEM;1;44;0.92;0
-ITEM;42;45;1.19;0
-ITEM;52;10;1.14;0
-ITEM;61;1768;1.12;91.98827
-ITEM;302;6;0.92;91.98827
-ITEM;2128;3;0.50;91.98827
-ITEM;2652;26;0.69;91.98827
-ITEM;1052;1;0.95;91.98827
-ITEM;351;0;1.34;91.98827
-ITEM;153;97;1.05;91.98827
-ITEM;1520;1;0.84;91.98827
-ITEM;1620;8;0.83;91.98827
-ITEM;2329;6;0.79;91.98827
-ITEM;1530;9;0.97;91.98827
-ITEM;1750;14;1.10;2120.748
-ITEM;2339;5;0.71;2120.748
-ITEM;1570;4;0.76;2120.748
-ITEM;1580;8;0.69;2120.748
-ITEM;1510;6;0.95;2120.748
-ITEM;1650;8;1.23;2120.748
-ITEM;2344;8;1.05;2120.748
-ITEM;620;2;0.64;2120.748
-ITEM;1540;5;0.58;2120.748
-ITEM;60;34;0.52;2120.748
-ITEM;1615;9;0.77;2120.748
-ITEM;1600;8;1.01;2120.748
-ITEM;1550;1;0.56;2120.748
-ITEM;2289;6;0.86;2120.748
-ITEM;1560;6;1.22;2120.748
-ITEM;1610;5;0.91;2120.748
-ITEM;1500;2;0.76;2120.748
-ITEM;2264;5;1.00;2120.748
-ITEM;1590;4;1.03;2120.748
-ITEM;1110;1;1.08;2120.748
-ITEM;727;1;0.74;2120.748
-ITEM;353;0;1.26;2120.748
-ITEM;406;5;1.25;2120.748
-ITEM;403;8;0.92;2120.748
-ITEM;101;120;0.87;2120.748
-ITEM;168;57;1.22;2120.748
-ITEM;2435;5;0.71;401.201
-ITEM;404;4;0.93;401.201
-ITEM;300;873;1.03;58.16652
-ITEM;301;7;0.66;58.16652
-ITEM;2129;18;0.74;58.16652
-ITEM;63;1937;1.13;206.9298
-ITEM;660;3;1.05;206.9298
-ITEM;2111;38;1.14;206.9298
-ITEM;151;40;0.73;206.9298
-ITEM;1120;1;0.91;206.9298
-ITEM;2180;7;0.93;206.9298
-ITEM;2115;2351;0.95;72.52814
-ITEM;62;36;0.56;72.52814
-ITEM;1001;3;0.94;72.52814
-ITEM;1003;19;0.65;603.7888
-ITEM;1002;5;1.20;603.7888
-ITEM;405;9;1.02;603.7888
-ITEM;743;15;1.00;603.7888
-ITEM;675;4;1.04;603.7888
-ITEM;759;14;0.98;603.7888
-ITEM;671;13;0.76;603.7888
-ITEM;1170;14;0.90;2309.096
-ITEM;2010;43;0.82;2309.096
-ITEM;2011;37;0.71;2309.096
-ITEM;20;45;1.13;2309.096
-ITEM;41;41;1.07;2309.096
-ITEM;2119;37;1.18;2309.096
-ITEM;747;8;0.70;2309.096
-ITEM;2012;32;0.82;2309.096
-ITEM;2013;39;0.84;2309.096
-ITEM;733;8;1.24;2309.096
-ITEM;2014;158;0.76;186.4667
-ITEM;758;13;0.72;186.4667
-ITEM;712;1;0.72;186.4667
-ITEM;1460;2;0.66;186.4667
-ITEM;158;83;0.96;186.4667
-ITEM;155;203;0.48;8.415668
-ITEM;350;0;1.25;8.415668
-ITEM;352;0;1.23;8.415668
-ITEM;157;75;0.88;8.415668
-ITEM;2015;171;0.67;221.8855
-ITEM;150;20;1.13;221.8855
-ITEM;2426;6;0.74;221.8855
-ITEM;407;923;0.86;327.5269
-ITEM;103;68;0.89;327.5269
-ITEM;1160;8;0.69;327.5269
-ITEM;600;4;0.56;327.5269
-ITEM;2117;43;0.74;327.5269
-ITEM;1100;2;0.78;327.5269
-ITEM;2160;4;0.52;327.5269
-ITEM;1050;20;0.94;1763.071
-ITEM;164;33;0.96;1763.071
-ITEM;1400;9;1.01;1763.071
-ITEM;2240;6;0.81;1763.071
-ITEM;2538;9;0.54;1763.071
-ITEM;2016;150;0.78;285.9613
-ITEM;693;18;0.92;285.9613
-ITEM;2017;26;0.70;285.9613
-ITEM;152;99;0.91;285.9613
-ITEM;156;52;0.68;285.9613
-ITEM;2018;170;0.79;543.5302
-ITEM;1054;5;0.83;543.5302
-ITEM;640;2;0.84;543.5302
-ITEM;749;15;1.23;543.5302
-ITEM;2019;177;0.72;685.155
-ITEM;75;1947;0.50;50.94935
-ITEM;77;17;0.87;50.94935
-ITEM;2120;8;0.88;50.94935
-ITEM;2125;3;0.65;50.94935
-ITEM;2127;19;1.08;50.94935
-ITEM;100;32;0.68;50.94935
-ITEM;408;9;1.11;50.94935
-ITEM;2253;5;0.59;50.94935
+BUYORDER;Market Demands: (1) Items ;353x182;16370.00;88295.05
+SELLORDER;Looking to Sell (2) Items ;113x456,50x293;9140.00;100510.20
+BUYORDER;Market Needs Goods: (2) Items ;353x54,352x75;27373.00;77748.13
+ITEM;1;44;0.92;13.06
+ITEM;42;45;1.19;29.00
+ITEM;52;10;1.14;48.49
+ITEM;61;1768;1.12;91.45
+ITEM;302;6;0.92;46.27
+ITEM;2128;3;0.50;38.14
+ITEM;2652;26;0.69;445.43
+ITEM;1052;1;0.95;1946.00
+ITEM;351;0;2.50;226.73
+ITEM;153;97;1.05;11.83
+ITEM;1520;1;0.84;922.02
+ITEM;1620;8;0.83;1166.53
+ITEM;2329;6;0.79;13227.08
+ITEM;1530;9;0.97;2094.89
+ITEM;1750;14;1.10;2120.37
+ITEM;2339;5;0.71;46383.27
+ITEM;1570;4;0.76;1705.89
+ITEM;1580;8;0.69;3192.54
+ITEM;1510;6;0.95;4832.68
+ITEM;1650;8;1.23;7181.51
+ITEM;2344;8;1.05;72403.13
+ITEM;620;2;0.64;2680.44
+ITEM;1540;5;0.58;535.03
+ITEM;60;34;0.52;20.80
+ITEM;1615;9;0.77;1620.32
+ITEM;1600;8;1.01;1072.90
+ITEM;1550;1;0.56;1544.91
+ITEM;2289;6;0.86;30733.45
+ITEM;1560;6;1.22;1421.90
+ITEM;1610;5;0.91;998.74
+ITEM;1500;2;0.76;773.66
+ITEM;2264;5;1.00;12679.64
+ITEM;1590;4;1.03;1552.03
+ITEM;1110;1;1.08;976.09
+ITEM;727;1;0.74;9541.31
+ITEM;353;1;1.05;60.19
+ITEM;406;5;1.25;35.53
+ITEM;403;8;0.92;18.77
+ITEM;101;120;0.87;0.57
+ITEM;168;57;1.22;61.50
+ITEM;2435;5;0.71;400.62
+ITEM;404;4;0.93;20.65
+ITEM;300;1000;0.25;9.09
+ITEM;301;7;0.66;77.24
+ITEM;2129;18;0.74;75.89
+ITEM;63;1937;1.13;205.22
+ITEM;660;3;1.05;4730.44
+ITEM;2111;38;1.14;43.31
+ITEM;151;40;0.73;7.83
+ITEM;1120;1;0.91;1128.52
+ITEM;2180;7;0.93;13878.27
+ITEM;2115;2351;0.95;72.00
+ITEM;62;36;0.56;63.85
+ITEM;1001;3;0.94;1086.91
+ITEM;1003;19;0.65;600.70
+ITEM;1002;5;1.20;1315.31
+ITEM;405;9;1.02;28.40
+ITEM;743;15;1.00;147854.40
+ITEM;675;4;1.04;271465.40
+ITEM;759;14;0.98;144554.40
+ITEM;671;13;0.76;183704.50
+ITEM;1170;14;0.90;2308.65
+ITEM;2010;43;0.82;95.24
+ITEM;2011;37;0.71;81.76
+ITEM;20;45;1.13;100.56
+ITEM;41;41;1.07;20.19
+ITEM;2119;37;1.18;473.48
+ITEM;747;8;0.70;59608.75
+ITEM;2012;150;0.25;23.17
+ITEM;2013;39;0.84;126.90
+ITEM;733;8;1.24;113608.80
+ITEM;2014;150;0.25;41.37
+ITEM;758;13;0.72;61608.75
+ITEM;712;1;0.72;92413.13
+ITEM;1460;2;0.66;30584.81
+ITEM;158;83;0.96;38.78
+ITEM;155;203;0.48;8.39
+ITEM;350;0;2.50;114.11
+ITEM;352;1;1.05;256.03
+ITEM;157;75;0.88;33.29
+ITEM;2015;171;0.67;221.17
+ITEM;150;20;1.13;11.70
+ITEM;2426;6;0.74;87.14
+ITEM;407;923;0.86;325.87
+ITEM;103;68;0.89;0.72
+ITEM;1160;8;0.69;1611.74
+ITEM;600;4;0.56;2280.44
+ITEM;2117;43;0.74;171.74
+ITEM;1100;2;0.78;338.04
+ITEM;2160;4;0.52;2496.53
+ITEM;1050;20;0.94;1755.78
+ITEM;164;33;0.96;19.52
+ITEM;1400;9;1.01;4983.48
+ITEM;2240;6;0.81;46601.77
+ITEM;2538;9;0.54;31398.30
+ITEM;2016;150;0.78;284.57
+ITEM;693;18;0.92;9793.05
+ITEM;2017;26;0.70;334.05
+ITEM;152;99;0.91;9.91
+ITEM;156;52;0.68;19.07
+ITEM;2018;150;0.25;115.44
+ITEM;1054;5;0.83;1851.52
+ITEM;640;2;0.84;3680.44
+ITEM;749;15;1.23;281521.90
+ITEM;2019;177;0.72;678.13
+ITEM;75;1947;0.50;49.87
+ITEM;77;17;0.87;180.64
+ITEM;2120;8;0.88;314.63
+ITEM;2125;3;0.65;710.19
+ITEM;2127;19;1.08;81.21
+ITEM;100;32;0.68;0.29
+ITEM;408;9;1.11;5262.84
+ITEM;2253;5;0.59;361649.10
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
@@ -174,12 +170,17 @@ SKILL;45;0.76
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;120;120;991254;CHAT_PILOT#sector_56_station_1.txt#sector_0.txt#Laborer Jidtaj Komne#npc_ship_data_(support_frigate_3)#2#missions_debt_collection.txt#0#null;Collect a small debt from <color='yellow'><i>Laborer Jidtaj Komne</i></color> in <color='cyan'>Void Starcross</color> and return to ValueStar in <color='cyan'>Hunu</color>;10;<i>Sipni Vakfou</i> has requested that debt be collected from <color='yellow'><i>Laborer Jidtaj Komne</i></color>. After 3 payments to the Missionary faction for transport fines, <color='yellow'><i>Laborer Jidtaj Komne</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Laborer Jidtaj Komne</i></color> was in the vicinity of the <color='cyan'>Void Starcross</color> system. Have a chat with them, collect the debt, and return to the ValueStar in the <color='cyan'>Hunu</color> system to deliver the payment.;10540;3100
 MISSION;71;180;946408;ESCORT#sector_35_station_0.txt#sector_0_station_3.txt#Rookie Sivla Aterestdee#npc_ship_data_(transport_frigate_3)#0#null#null#null;<color='yellow'><i>Rookie Sivla Aterestdee</i></color> requests an escort from Astrox Security Patrol in <color='cyan'>Felishar</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>;9;The Astrox Security Patrol has posted a contract for the safe delivery of a <color='yellow'><i>Rookie Sivla Aterestdee</i></color>, wanted for questioning in a non-violent incident a few cycles ago in the <color='cyan'>Felishar</color> system. Escort <color='yellow'><i>Rookie Sivla Aterestdee</i></color> from Astrox Security Patrol to StarShepards Headquarters in the <color='cyan'>Void Starcross</color> system.;5610;1650
 MISSION;10;120;832327;DELIVERY#40#152#sector_0_station_3.txt#sector_35_station_0.txt#null#null#null#null;Dock at StarShepards Headquarters in <color='cyan'>Void Starcross</color> to deliver a light shipment of <color='yellow'>40</color> <color='yellow'>Steelium Beams</color>;10;<i>Daero Sipvelcou</i> runs a Missionary shipping company at Astrox Security Patrol. After having some issues with a transport ship, <color='yellow'>40</color> items of <color='yellow'>Steelium Beams</color> were left behind. Head on over to <color='cyan'>Void Starcross</color> and deliver these <color='yellow'>Steelium Beams</color> to StarShepards Headquarters.;6460;1900
 MISSION;32;240;384598;TRANSPORT#264#403#sector_0_station_1.txt#sector_0_station_5.txt#null#null#null#null;Move light cargo from Lammassu Financial in <color='cyan'>Void Starcross</color> and dock with <color='yellow'>264</color> <color='yellow'>Candy Corns</color> at Proctors Center in <color='cyan'>Void Starcross</color>;11;<i>Xiga Eima</i> was unable to complete a large shipment from Lammassu Financial to Proctors Center. A light shipment containing <color='yellow'>264</color> <color='yellow'>Candy Corns</color> is located at the storage bay at Lammassu Financial in <color='cyan'>Void Starcross</color>. Retrieve the <color='yellow'>Candy Corns</color> and transport them to Proctors Center in <color='cyan'>Void Starcross</color>.;7980;1050
 MISSION;40;120;516395;SCAN_PILOT#sector_1_station_0.txt#sector_81.txt#Fabricator Poehom Demiimes#npc_ship_data_(support_frigate_2)#10#null#null#null;Locate and scan <color='yellow'><i>Fabricator Poehom Demiimes</i></color> in <color='cyan'>Ferrelis Cove</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>;11;<i>Leitaj Lindoemi</i> has requested a location verification on a recent employee. <color='yellow'><i>Fabricator Poehom Demiimes</i></color> is supposed to be running a survey in <color='cyan'>Ferrelis Cove</color>. Please verify the location of this pilot by scanning their ship and return to Quantex in <color='cyan'>Dellis Primeria</color>.;14534;4650
 MISSION;51;120;692785;SCAN_STRUCTURE#sector_0_station_4.txt#sector_77.txt#Industrial Machine#structure_machine_1.txt#1#null#null#null;Find the target <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Ballast Crow</color>, scan, and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;10;<i>Welimad Goport</i> has requested that someone verify the location of <color='yellow'>Industrial Machine</color> in the <color='cyan'>Ballast Crow</color> sector. After a recent mix-up at the zoning office, the Missionary reps are concerned that construction guidelines were not followed properly. Return to the Starbase Corporate Center station located in the <color='cyan'>Void Starcross</color> with the scan data.;10248;2625
+MISSION;80;120;630975;RECOVER#1#1612#sector_38.txt#sector_80_station_0.txt#null#null#null#null;Recover a light quantity of <color='yellow'>1</color> <color='yellow'>Advanced Targeting System</color> in <color='cyan'>Equalias Val</color>, and return to Genistar in <color='cyan'>Blades of Dandrow</color>;9;The Temple faction has lost track of a light crate somewhere in the <color='cyan'>Equalias Val</color> system. Head over there and recover the crate containing <color='yellow'>1</color> units of <color='yellow'>Advanced Targeting System</color>, and dock at the Genistar in the <color='cyan'>Blades of Dandrow</color> sector. <i>Bidni Nosad</i> has been instructed to wait for the lost cargo at the Genistar station.;13878;3500
+MISSION;150;120;802558;FABRICATE#4#2449#sector_0_station_1.txt#sector_0_station_3.txt#null#null#null#null;Dock at the Lammassu Financial station fabricator in <color='cyan'>Void Starcross</color> and manufacture a light shipment of <color='yellow'>4</color> <color='yellow'>Thermal Sensors</color>;9;<i>Atepae Yelsocoo</i> runs a Temple production company at StarShepards Headquarters. After having some issues with a manufacturing plant, <color='yellow'>4</color> items of <color='yellow'>Thermal Sensors</color> were marked as low supply. Head on over to <color='cyan'>Void Starcross</color> and fabricate these <color='yellow'>Thermal Sensors</color> at Lammassu Financial.;11000;1100
+MISSION;131;140;111452;SALVAGE#9#20#sector_95.txt#sector_95_station_1.txt#null#null#null#null;Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Temple Gates</color> and return with <color='yellow'>9</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>;11;While collecting some junk in the <color='cyan'>Temple Gates</color> system, <i>Gorejag Bemils</i> discovered a light haul of <color='yellow'>9</color> <color='yellow'>Special Junk Part</color>. Unable to collect the material alone, <i>Gorejag Bemils</i> has requested that a capable pilot salvage the <color='yellow'>Special Junk Part</color> and drop it off at the Acrondia Hub station located in the <color='cyan'>Temple Gates</color>.;9760;800
+MISSION;141;120;674816;REFINE#3#24#sector_77_station_0.txt#sector_56_station_0.txt#null#null#null#null;Refine a light container of <color='yellow'>3</color> <color='yellow'>Electronic Fragments</color> at the Lacuna Bandits station in <color='cyan'>Ballast Crow</color>;10;The Missionary Faction has commissioned a refinery liaison, <i>Sawhea Funedorn</i> at Transporteers. After an audit, <color='yellow'>3</color> items of <color='yellow'>Electronic Fragments</color> were left unused. Head on over to <color='cyan'>Ballast Crow</color> and refine these <color='yellow'>Electronic Fragments</color> at the Lacuna Bandits refinery.;15000;3750
+MISSION;141;120;688061;REFINE#4#24#sector_35_station_0.txt#sector_77_station_0.txt#null#null#null#null;Refine a light container of <color='yellow'>4</color> <color='yellow'>Electronic Fragments</color> at the Astrox Security Patrol station in <color='cyan'>Felishar</color>;11;The Orthodox Faction has commissioned a refinery liaison, <i>Caenostra Melkile</i> at Lacuna Bandits. After an audit, <color='yellow'>4</color> items of <color='yellow'>Electronic Fragments</color> were left unused. Head on over to <color='cyan'>Felishar</color> and refine these <color='yellow'>Electronic Fragments</color> at the Astrox Security Patrol refinery.;15000;3750
+MISSION;30;240;788546;TRANSPORT#57#106#sector_99_station_0.txt#sector_80_station_0.txt#null#null#null#null;Transport a light shipment of <color='yellow'>57</color> <color='yellow'>Nitrogens</color> from Ferce Hub in <color='cyan'>Semja</color> to Genistar in <color='cyan'>Blades of Dandrow</color>;10;Transport manager <i>Atebue Zaehea</i> has requested a transport of a light shipment of <color='yellow'>57</color> <color='yellow'>Nitrogens</color>. They need to be picked up at the storage facility at Ferce Hub in <color='cyan'>Semja</color>, and transported to Genistar in <color='cyan'>Blades of Dandrow</color>. <i>Atebue Zaehea</i> will be waiting at Genistar to receive the shipment. ;15200;6650
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -191,5 +192,4 @@ SHIP;5;0.98;ship_data_(support_carrier_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
-
 

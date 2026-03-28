@@ -16,3 +16,17 @@ NPC;+QTY;3299;3243;254.25;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;4786;4099;444.3806;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-LOCAL;6067;0;675;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;-QTY;0;-447;419.58;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-LOCAL;5555;0;675;Proctors Center;Void Starcross;10h 7m 45s ;36465.69
+NPC;+PRICE;0;0;425.4893;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;-LOCAL;0;0;1500;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;-LOCAL;0;0;1500;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;3760;3760;411.8163;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;14014;4774;629.5237;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3784;3784;233.8086;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;9880;4325;687.4481;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-LOCAL;7023;0;675;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
+NPC;-PRICE;7023;0;671.1104;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;8578;4818;402.5142;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4912;4912;231.2029;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;11777;4754;651.3245;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;0;0;1500;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03

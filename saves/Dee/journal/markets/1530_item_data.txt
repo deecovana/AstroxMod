@@ -12,3 +12,12 @@ NPC;BAL;4;0;1967.71;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;+STOCK;48;8;1844.072;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;21;9;2105.891;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-QTY;2;-7;1377.023;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+STOCK;55;9;1472.812;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+LOCAL;12;2;1711.677;Astrox Security Patrol;Felishar;11h 19m 44s ;40784.41
+NPC;+STOCK;21;9;2366.923;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;4;0;2390.36;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;-PRICE;21;0;2259.681;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;16;8;2278.208;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
+NPC;BAL;2;0;1483.489;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;BAL;4;0;2181.477;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+STOCK;29;8;2160.803;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

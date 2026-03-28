@@ -22,3 +22,11 @@ NPC;BAL;122;0;19.6835;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+QTY;1792;1769;19.09737;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;7580;1592;17.60825;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;155;0;11.23689;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+STOCK;9655;2075;16.95861;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;6443;1958;15.55437;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1;0;16.97881;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;-PRICE;4465;0;10.33011;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;8364;1921;15.48455;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;+STOCK;11535;1880;16.08653;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;10253;1889;14.63153;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;3057;2393;11.21341;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

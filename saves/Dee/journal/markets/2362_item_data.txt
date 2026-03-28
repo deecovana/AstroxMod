@@ -3,3 +3,7 @@ NPC;+STOCK;12;2;119935;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;17;0;107238.5;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+STOCK;3;2;115304;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;-QTY;0;-1;111936.6;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;+QTY;14;2;119189.2;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
+NPC;+STOCK;16;2;113405.4;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;18;2;110549.8;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;15;-2;96939.63;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38

@@ -7,3 +7,9 @@ NPC;+QTY;20;7;3073.785;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+LOCAL;12;36;1690;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;-QTY;8;-9;2967.299;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;19;11;2967.299;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;+LOCAL;12;3;1690;Acrondia Hub;Temple Gates;11h 50m 16s ;42616.52
+NPC;+STOCK;38;10;1582.554;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;47;6;4855.825;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;-PRICE;38;0;1511.418;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;48;10;1468.725;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;20;1690;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03

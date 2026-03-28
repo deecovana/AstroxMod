@@ -1,2 +1,4 @@
 NPC;+STOCK;54;11;4151239;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;64;10;4070084;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;+STOCK;73;9;3873322;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;73;0;3655890;Proctors Center;Void Starcross;12h 34m 48s ;45288.88

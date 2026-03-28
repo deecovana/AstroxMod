@@ -1,3 +1,5 @@
 NPC;+STOCK;92;8;9777.983;Biomate University;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;47;9;6863.161;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
 NPC;-QTY;75;-9;9805.531;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;75;0;10099.16;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;84;9;9623.984;Biomate University;Void Starcross;14h 1m 15s ;50475.31

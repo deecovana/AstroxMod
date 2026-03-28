@@ -5,3 +5,6 @@ NPC;+QTY;27;1;23341.5;Gunstellar;Adrenal;2h 29m 20s ;8960.865
 NPC;+STOCK;42;2;8042.995;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;35;0;21981.1;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;+QTY;7;2;20349;Biomart;Veloxi;4h 47m 5s ;17225.82
+NPC;+STOCK;44;2;7707.752;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;46;2;7430.736;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;27;0;24301.25;Gunstellar;Adrenal;14h 10m 55s ;51055.01

@@ -12,3 +12,13 @@ NPC;+QTY;44;14;98932.98;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;-QTY;10;-12;117083;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;82;10;92504.68;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-QTY;122;-13;146734.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;+PRICE;93;0;78568.66;Inovex;Goru Populan;11h 3m 47s ;39827.63
+NPC;+PRICE;122;0;150138.2;Biomate University;Void Starcross;11h 3m 47s ;39827.63
+NPC;+STOCK;133;11;144657.8;Biomate University;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;121;13;152625.3;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;52;8;98719.5;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;-PRICE;121;0;146388.3;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;90;9;168668.2;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
+NPC;BAL;71;-11;98646.97;Psybermind;Ion Child;13h 31m 19s ;48679.5
+NPC;+STOCK;146;13;140593.2;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;131;10;143617.9;Proctors Center;Void Starcross;14h 1m 15s ;50475.31

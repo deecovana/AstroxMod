@@ -13,3 +13,9 @@ NPC;BAL;5;0;816.6573;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.
 NPC;+PRICE;31;0;1063.396;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;-QTY;5;-8;1238.106;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;0;-6;1412.683;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+PRICE;20;0;1442.995;Terra Drone;Geminey;11h 29m 25s ;41365.69
+NPC;+STOCK;81;10;1145.451;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;15;10;759.6184;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;38;9;1571.737;PharmaLife;Carioullis;12h 33m 5s ;45185.51
+NPC;+QTY;91;10;1142.112;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;BAL;8;8;1286.349;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5

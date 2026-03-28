@@ -4,3 +4,6 @@ NPC;+LOCAL;12;30;422.5;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+QTY;14;8;1043.25;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;BAL;6;0;1149.179;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;+STOCK;26;11;460.7314;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;+STOCK;32;9;647.6367;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
+NPC;+LOCAL;12;67;422.5;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
+NPC;BAL;6;0;1167.953;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5

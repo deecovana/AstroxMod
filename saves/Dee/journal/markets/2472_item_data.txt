@@ -2,3 +2,5 @@ NPC;+STOCK;49;2;2709.493;Starbase Corporate Center;Void Starcross;2h 26m 24s ;87
 NPC;+STOCK;51;2;2578.819;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;48;-1;2719.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+QTY;81;1;3726.487;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+STOCK;50;2;2596.67;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;50;2;2660.364;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

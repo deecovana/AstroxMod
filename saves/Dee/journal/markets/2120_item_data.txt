@@ -17,3 +17,9 @@ NPC;+QTY;1532;1476;277.1923;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+PRICE;38;0;375.7336;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-QTY;0;-117;296.2004;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;-QTY;0;-33;332.1442;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
+NPC;+PRICE;23;0;202.9769;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
+NPC;+STOCK;5006;2291;297.637;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
+NPC;+STOCK;3970;1786;340.8501;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;-PRICE;1357;0;141.7109;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
+NPC;+STOCK;6854;1848;279.0631;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;4483;2299;342.6534;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31

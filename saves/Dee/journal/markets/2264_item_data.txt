@@ -4,3 +4,7 @@ NPC;+STOCK;68;2;13751.12;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;69;1;13760.88;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;70;1;13760.88;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;2;0;14729.9;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;+STOCK;72;2;13535.91;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+QTY;25;2;13491.49;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;BAL;3;-1;12326.72;Communications Hub;Ele;13h 31m 19s ;48679.5
+NPC;+STOCK;74;2;12790.98;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
