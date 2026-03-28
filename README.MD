@@ -1,8 +1,13 @@
-# AstroxMod GitHub repo (CC4 2026)
+# "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
+
+## 0327 Continue Dee 
+Created folders for 1280x and 1600x
 
 ## 0327 New Dee 
-Start without mods
-  -fix- settings 
-  -add- 500k money for Escort
-  -add- 600k money for Mining
-  -add- 999k money for Transp
+Started without mods
+	-fix- settings 
+	-add- 500k money for Escort
+	-add- 600k money for Mining
+	-add- 999k money for Transp
+
+
