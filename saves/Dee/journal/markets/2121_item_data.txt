@@ -20,3 +20,4 @@ NPC;-PRICE;129;0;291.3429;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;17;0;226.4279;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;1597;1484;244.5508;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;3988;2391;244.5508;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;602;-1763;503.9834;Biomate University;Void Starcross;9h 48m 4s ;35284.71

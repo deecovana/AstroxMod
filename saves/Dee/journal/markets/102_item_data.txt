@@ -28,3 +28,4 @@ PLAYER;+QTY;523;218;0.9591407;StarGypsy Warehouse;Void Starcross;5h 29m 9s ;1974
 PLAYER;+QTY;337;195;2.059375;Starbase Corporate Center;Void Starcross;6h 56m 20s ;24980.26
 NPC;-QTY;31;-206;2.773984;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;399;144;2.401586;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;0;-58;1.184531;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

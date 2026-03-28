@@ -12,3 +12,4 @@ NPC;+QTY;654;89;328.3039;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;96;94;266.2796;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
 NPC;+LOCAL;51;15;391.289;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
 NPC;+LOCAL;150;145;180.505;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;-QTY;153;-93;438.3772;Biomate University;Void Starcross;9h 48m 4s ;35284.71

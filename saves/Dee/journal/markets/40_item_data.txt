@@ -26,3 +26,4 @@ NPC;+QTY;1613;1500;16.17933;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;2157;2059;16.17933;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;163;0;9.832857;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;+PRICE;92;0;13.6491;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;0;-78;16.01271;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -34,3 +34,4 @@ NPC;-QTY;0;-64;0.6804263;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;1533;186;0.5249836;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+QTY;431;228;0.4973836;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;98;0;0.5800211;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;145;-157;0.937756;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -15,3 +15,4 @@ NPC;+QTY;402;104;164.3354;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;1768
 NPC;+LOCAL;150;154;83.525;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
 NPC;+LOCAL;150;135;83.525;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;+QTY;981;116;182.633;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;774;-107;259.3901;Biomate University;Void Starcross;9h 48m 4s ;35284.71

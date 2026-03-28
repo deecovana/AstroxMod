@@ -29,3 +29,4 @@ NPC;+STOCK;31;4;7506.73;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.4
 NPC;+STOCK;5;3;7119.11;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;28;0;10460.68;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;4;0;8764.919;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;21;-3;8693;Biomate University;Void Starcross;9h 48m 4s ;35284.71

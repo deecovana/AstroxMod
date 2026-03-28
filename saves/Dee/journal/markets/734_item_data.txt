@@ -14,3 +14,5 @@ NPC;BAL;107;-10;132117.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16
 NPC;BAL;39;-9;199225.6;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+STOCK;77;12;144866;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;36;10;277658.6;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;59;-13;177659.4;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;0;-8;237325;Biomate University;Void Starcross;9h 48m 4s ;35284.71

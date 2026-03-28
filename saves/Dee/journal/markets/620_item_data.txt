@@ -47,3 +47,4 @@ NPC;+PRICE;1;0;4057.153;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;-QTY;0;-1;3547.969;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;7;3;2403.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;9;0;4042.832;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;49;-4;3196.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

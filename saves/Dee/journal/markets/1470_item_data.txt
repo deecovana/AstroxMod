@@ -8,3 +8,4 @@ NPC;+QTY;18;11;68432.5;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;BAL;2;0;43382.25;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;+STOCK;14;11;59457.38;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+STOCK;29;10;59503.29;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-QTY;21;-11;33716.38;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

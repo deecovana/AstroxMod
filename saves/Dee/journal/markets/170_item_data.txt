@@ -14,3 +14,4 @@ NPC;+PRICE;279;0;24.53797;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+QTY;363;130;42.4752;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;-QTY;0;-51;57.37648;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+LOCAL;55;22;32.43731;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;-QTY;47;-79;48.16064;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

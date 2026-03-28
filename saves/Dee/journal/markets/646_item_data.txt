@@ -16,3 +16,4 @@ NPC;+QTY;13;4;219375;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;-PRICE;8;0;414250;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;-PRICE;33;0;228402;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+QTY;16;3;219375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;23;-3;280527;Biomate University;Void Starcross;9h 48m 4s ;35284.71

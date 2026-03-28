@@ -27,3 +27,4 @@ NPC;+QTY;1357;136;4.427125;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;1319;157;8.37275;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;250;12;11.67194;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
 PLAYER;+QTY;346;8;4.534124;Starbase Corporate Center;Void Starcross;6h 55m 5s ;24905.48
+NPC;-QTY;390;-179;10.79951;Biomate University;Void Starcross;9h 48m 4s ;35284.71

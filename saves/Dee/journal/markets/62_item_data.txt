@@ -24,3 +24,4 @@ NPC;+PRICE;47;0;136.8346;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+STOCK;2033;1908;142.3605;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;-QTY;0;-37;68.68881;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;1749;1749;68.68881;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;558;-1783;67.10201;Biomate University;Void Starcross;9h 48m 4s ;35284.71

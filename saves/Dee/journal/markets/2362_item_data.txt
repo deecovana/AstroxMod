@@ -2,3 +2,4 @@ NPC;-PRICE;11;0;83101.92;Nova Labs;Noah Fox;0h 56m 50s ;3410.242
 NPC;+STOCK;12;2;119935;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;17;0;107238.5;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+STOCK;3;2;115304;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;-QTY;0;-1;111936.6;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

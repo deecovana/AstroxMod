@@ -19,3 +19,4 @@ NPC;+QTY;13906;4524;1794.375;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.
 NPC;-LOCAL;20;20;3588.75;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.8
 NPC;+QTY;17059;3153;1794.375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;79;79;3588.75;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;-QTY;1132;-3703;1624.667;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -6,10 +6,10 @@ PLAYER;xp;20240.00
 PLAYER;next_level_xp;27100.00
 PLAYER;last_level_xp;20100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;198430.92
+PLAYER;credits;1197430.88
 PLAYER;residual_credits;0.00
 PLAYER;skill_points;67
-PLAYER;playtime;35282.67
+PLAYER;playtime;35304.16
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;1

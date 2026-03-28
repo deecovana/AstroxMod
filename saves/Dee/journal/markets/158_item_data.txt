@@ -30,3 +30,4 @@ NPC;+QTY;133;133;22.67874;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;472;75;39.89274;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+LOCAL;150;253;14.7225;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+PRICE;146;0;47.53484;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;40;-100;39.58371;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

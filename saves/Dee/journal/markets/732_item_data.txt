@@ -14,3 +14,4 @@ NPC;+PRICE;64;0;6339.964;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;77;8;13256.25;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;18;12;12293.91;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+QTY;174;7;7659.516;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;67;-12;8559.563;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

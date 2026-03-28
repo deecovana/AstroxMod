@@ -22,3 +22,4 @@ NPC;BAL;18;0;253.2998;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;-QTY;0;-1473;145.6903;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;1940;1690;189.1713;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;398;0;203.3407;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;0;-251;248.211;Biomate University;Void Starcross;9h 48m 4s ;35284.71

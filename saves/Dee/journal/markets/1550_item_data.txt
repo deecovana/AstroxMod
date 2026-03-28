@@ -24,3 +24,5 @@ NPC;+QTY;59;11;2379.578;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+LOCAL;12;14;1100.873;Biomate University;Void Starcross;6h 9m 3s ;22143.94
 NPC;+QTY;21;11;2779.735;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+STOCK;60;10;3093.477;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-QTY;56;-8;1966.793;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;5;-7;404.1049;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -39,3 +39,5 @@ NPC;-LOCAL;59;0;25.875;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
 NPC;+PRICE;51;0;22.51622;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;16;0;26.67956;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-LOCAL;68;68;26.96925;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
+NPC;-QTY;0;-29;18.71769;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;0;-5;19.9939;Biomate University;Void Starcross;9h 48m 4s ;35284.71

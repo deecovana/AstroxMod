@@ -20,3 +20,5 @@ NPC;+LOCAL;150;283;28.6975;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;-LOCAL;0;0;125.8053;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;+PRICE;365;0;77.91319;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-LOCAL;0;0;137.0249;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;-QTY;135;-122;78.78706;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;66;-84;10.53419;Biomate University;Void Starcross;9h 48m 4s ;35284.71

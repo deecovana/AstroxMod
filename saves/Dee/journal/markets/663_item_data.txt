@@ -23,3 +23,5 @@ NPC;+QTY;9;2;30187.5;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;28;4;41125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;30;4;29531.72;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;14;0;39489.08;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;-QTY;8;-4;47531.87;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;3;-3;18965;Biomate University;Void Starcross;9h 48m 4s ;35284.71

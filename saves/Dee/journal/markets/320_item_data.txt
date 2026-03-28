@@ -31,3 +31,4 @@ NPC;-LOCAL;0;0;35.67859;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
 NPC;+PRICE;1;0;11.09346;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;+QTY;2424;800;20.0485;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;19;19;22.725;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05
+NPC;-QTY;0;-61;16.54986;Biomate University;Void Starcross;9h 48m 4s ;35284.71

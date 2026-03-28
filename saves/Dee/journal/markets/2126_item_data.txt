@@ -21,3 +21,5 @@ NPC;+PRICE;97;0;71.34647;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;1914;1843;65.60725;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;8616;1791;42.5415;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;1731;1706;63.94755;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;0;-274;36.66378;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;829;-1387;55.23574;Biomate University;Void Starcross;9h 48m 4s ;35284.71

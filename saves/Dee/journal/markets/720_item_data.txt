@@ -15,3 +15,4 @@ NPC;-QTY;85;-13;2422.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1556
 NPC;BAL;78;-7;2646.327;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;BAL;4;0;4015.491;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+PRICE;95;0;6118.171;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;-QTY;123;-9;3535.8;Biomate University;Void Starcross;9h 48m 4s ;35284.71

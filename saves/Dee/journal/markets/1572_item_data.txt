@@ -11,3 +11,4 @@ NPC;BAL;12;0;21156.1;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+QTY;19;6;10977.71;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+PRICE;24;0;23319.17;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;12;0;21470.79;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;67;-10;7455.761;Biomate University;Void Starcross;9h 48m 4s ;35284.71

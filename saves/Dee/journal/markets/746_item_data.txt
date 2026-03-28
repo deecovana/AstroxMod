@@ -20,3 +20,5 @@ NPC;+PRICE;28;0;22533.65;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+QTY;17;14;40481.72;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+QTY;30;10;37828.55;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;22;0;25101.37;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;105;-13;29278.69;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;99;-11;36868.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

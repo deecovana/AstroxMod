@@ -23,3 +23,4 @@ NPC;+PRICE;133;0;66.25291;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;-QTY;0;-111;62.65609;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;1521;1521;62.65609;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;1921;1662;84.80509;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;5;-1748;41.34159;Biomate University;Void Starcross;9h 48m 4s ;35284.71

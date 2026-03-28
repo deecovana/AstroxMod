@@ -5,3 +5,4 @@ NPC;+PRICE;37;0;185672;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960.8
 NPC;+STOCK;63;2;92561.96;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;20;1;122969.2;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;3;0;111590.8;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;62;-1;91949.16;Biomate University;Void Starcross;9h 48m 4s ;35284.71

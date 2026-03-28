@@ -6,3 +6,4 @@ NPC;+PRICE;28;0;35432.74;Imperium Bank;Ciando;4h 11m 12s ;15072.39
 NPC;+STOCK;33;10;5105.871;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+LOCAL;12;19;11543.71;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
 NPC;+LOCAL;12;3;11543.71;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;-QTY;0;-9;28550.7;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

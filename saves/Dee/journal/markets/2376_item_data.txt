@@ -3,3 +3,4 @@ NPC;+STOCK;97;2;111299.1;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+QTY;51;1;103913.5;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;+STOCK;81;2;49627.02;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;99;2;108718.4;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;79;-2;49372.16;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -7,3 +7,4 @@ NPC;+STOCK;27;11;2391.632;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;73;0;3515.312;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;BAL;8;0;3174.707;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+PRICE;8;0;3334.891;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;21;-6;2375.191;Biomate University;Void Starcross;9h 48m 4s ;35284.71

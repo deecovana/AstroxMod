@@ -23,3 +23,5 @@ NPC;+LOCAL;150;177;63.18;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;-LOCAL;0;0;265.3071;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;+STOCK;113;113;273.2105;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-LOCAL;0;0;290.0081;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;-QTY;188;-105;217.1964;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;64;-86;23.19192;Biomate University;Void Starcross;9h 48m 4s ;35284.71

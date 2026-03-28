@@ -25,3 +25,6 @@ NPC;+QTY;1878;1697;846.45;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;5938;1466;533.9;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;0;-67;372.0912;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+PRICE;93;0;703.769;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;0;-100;390.4975;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;0;-209;699.6845;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;438;-1765;751.868;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -19,3 +19,4 @@ NPC;BAL;28;-4;51276.3;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821
 NPC;-PRICE;44;0;54690.45;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;BAL;4;-2;25039.31;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+QTY;7;3;25625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;5;-4;23531.88;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

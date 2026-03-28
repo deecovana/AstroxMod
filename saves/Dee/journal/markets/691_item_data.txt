@@ -20,3 +20,4 @@ NPC;+QTY;189;21;22312.5;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;132;21;20775;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;55;19;19219.03;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+QTY;36;15;14119.03;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;59;-17;18579;Biomate University;Void Starcross;9h 48m 4s ;35284.71

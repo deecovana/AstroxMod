@@ -44,3 +44,4 @@ NPC;+QTY;4214;4012;117.3984;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;-LOCAL;79;79;228.5586;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;-QTY;0;-31;134.8984;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;+QTY;4668;4468;227.6586;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;1810;-3142;167.86;Biomate University;Void Starcross;9h 48m 4s ;35284.71

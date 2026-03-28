@@ -22,3 +22,5 @@ NPC;BAL;142;0;41.83066;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+QTY;8428;1998;18.625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;52;0;18.10976;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;142;0;43.33755;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;0;-445;24.03187;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;0;-1933;54.465;Biomate University;Void Starcross;9h 48m 4s ;35284.71

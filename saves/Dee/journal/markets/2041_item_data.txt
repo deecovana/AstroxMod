@@ -4,3 +4,4 @@ NPC;+STOCK;398;134;613.5679;Biomate University;Void Starcross;2h 26m 24s ;8784.1
 NPC;+STOCK;534;147;607.8694;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;739;0;618.165;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+LOCAL;150;218;215.9625;StarShepards Headquarters;Void Starcross;5h 59m 41s ;21581.04
+NPC;-QTY;552;-134;478.8636;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

@@ -18,3 +18,4 @@ NPC;+STOCK;71;23;3924.283;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;96;18;2868.75;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;131;24;3653.172;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;37;0;3126.557;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;147;-21;2396.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

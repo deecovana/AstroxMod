@@ -7,3 +7,4 @@ NPC;+STOCK;82;2;17046.86;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;58;2;29439.66;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;22;0;38851;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+QTY;15;1;27047.29;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;81;-1;16958.74;Biomate University;Void Starcross;9h 48m 4s ;35284.71

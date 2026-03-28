@@ -23,3 +23,4 @@ NPC;+PRICE;16;0;3083.047;Dustardz;Redsky;5h 41m 50s ;20510.81
 NPC;+LOCAL;12;17;1045.525;Biomate University;Void Starcross;6h 9m 3s ;22143.94
 NPC;+LOCAL;12;22;1045.525;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;+PRICE;3;0;2431.792;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;1;-11;383.7881;Biomate University;Void Starcross;9h 48m 4s ;35284.71

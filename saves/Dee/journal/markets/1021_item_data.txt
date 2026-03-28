@@ -11,3 +11,4 @@ NPC;+QTY;52;9;3529.79;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.82
 NPC;+LOCAL;12;42;2860;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+QTY;29;7;5641.79;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;57;0;8846.755;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;-QTY;6;-8;9537.551;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

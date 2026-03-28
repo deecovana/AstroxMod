@@ -18,3 +18,4 @@ NPC;+STOCK;1937;1924;206.9298;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.5
 NPC;-PRICE;303;0;209.4971;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;28;0;113.7848;Xellon;Ele;5h 41m 50s ;20510.81
 NPC;+QTY;8280;1656;96.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;408;-1604;119.86;Biomate University;Void Starcross;9h 48m 4s ;35284.71

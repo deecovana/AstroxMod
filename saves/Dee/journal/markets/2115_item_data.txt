@@ -14,3 +14,4 @@ NPC;+QTY;1468;1426;53.08113;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+STOCK;2351;2330;72.52814;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+QTY;2173;2107;92.22713;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
 NPC;+QTY;1975;1823;40.31612;Psybermind;Ion Child;6h 44m 29s ;24269.91
+NPC;-QTY;346;-1863;85.89143;Biomate University;Void Starcross;9h 48m 4s ;35284.71

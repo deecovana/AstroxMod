@@ -31,3 +31,4 @@ NPC;+QTY;33;3;17018.75;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;2;-4;15586.1;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;26;3;18911.1;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;18;0;7736.377;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;36;-2;7862.75;Biomate University;Void Starcross;9h 48m 4s ;35284.71

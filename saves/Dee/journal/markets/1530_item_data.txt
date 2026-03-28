@@ -11,3 +11,4 @@ PLAYER;+QTY;0;2;0;Starbase Corporate Center;Void Starcross;5h 56m 37s ;21397.58
 NPC;BAL;4;0;1967.71;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;+STOCK;48;8;1844.072;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;21;9;2105.891;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;2;-7;1377.023;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

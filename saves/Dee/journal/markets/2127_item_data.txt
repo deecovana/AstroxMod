@@ -20,3 +20,4 @@ NPC;-PRICE;359;0;30.75999;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;146;0;61.80256;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;1927;1847;71.60477;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;1492;1268;76.59678;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;993;-1536;45.70176;Biomate University;Void Starcross;9h 48m 4s ;35284.71

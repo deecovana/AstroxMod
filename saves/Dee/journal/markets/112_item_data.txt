@@ -19,3 +19,4 @@ NPC;+QTY;849;246;17.11115;Temple of the Void;Valley of Truths;4h 47m 5s ;17225.8
 NPC;+QTY;690;198;30.03;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;250;17;23.77094;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
 NPC;+PRICE;659;0;12.25497;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;1384;-240;22.3804;Biomate University;Void Starcross;9h 48m 4s ;35284.71

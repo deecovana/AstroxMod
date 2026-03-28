@@ -9,3 +9,5 @@ NPC;-QTY;5;-6;3918.75;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564
 NPC;BAL;5;0;4316.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+QTY;21;11;4702.188;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+PRICE;17;0;4118.688;Inovex;Goru Populan;6h 12m 48s ;22368.54
+NPC;-QTY;0;-2;5469.063;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;94;-11;4646.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

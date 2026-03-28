@@ -32,3 +32,5 @@ NPC;+QTY;24;4;33625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;11;3;43531.72;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+LOCAL;5;1;16250;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05
 NPC;+PRICE;16;0;37889.7;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;-QTY;2;-3;33190.63;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;25;-3;37965;Biomate University;Void Starcross;9h 48m 4s ;35284.71

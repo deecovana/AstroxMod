@@ -1,3 +1,4 @@
 NPC;BAL;60;-7;41757.6;StarGypsy Warehouse;Void Starcross;1h 53m 54s ;6834.967
 NPC;+STOCK;68;8;40644.45;StarGypsy Warehouse;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;77;9;39340.04;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;76;-8;86685.1;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

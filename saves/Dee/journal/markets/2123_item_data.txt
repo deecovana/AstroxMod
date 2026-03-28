@@ -23,3 +23,5 @@ NPC;+PRICE;22;0;537.1069;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+PRICE;49;0;534.6389;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;-QTY;0;-71;676.3877;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;1673;1673;676.3877;Ferce;Allabentoris;7h 55m 5s ;28505.1
+NPC;-QTY;0;-113;439.5666;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;64;-2219;358.7112;Biomate University;Void Starcross;9h 48m 4s ;35284.71

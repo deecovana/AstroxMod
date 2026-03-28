@@ -10,3 +10,6 @@ NPC;+STOCK;15;8;6065.193;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+PRICE;4;0;4894.235;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+QTY;41;10;5189.609;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;89;9;3204.643;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;21;-9;4679.815;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;77;-6;3894.279;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;0;-7;3375.558;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

@@ -7,3 +7,4 @@ NPC;+STOCK;30;20;83002.41;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;31;23;118666.9;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;40;18;132825;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;27;16;168525;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
+NPC;-QTY;10;-20;81753;Biomate University;Void Starcross;9h 48m 4s ;35284.71

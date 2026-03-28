@@ -22,3 +22,6 @@ NPC;+PRICE;278;0;5.749306;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;466;116;5.53125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;355;96;5.88293;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+LOCAL;150;192;4.0625;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;-QTY;66;-106;8.297656;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;608;-133;9.86625;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-QTY;0;-52;9.74125;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

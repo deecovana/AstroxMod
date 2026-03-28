@@ -16,3 +16,5 @@ NPC;+PRICE;38;0;101.9256;Dustardz;Redsky;5h 41m 50s ;20510.81
 NPC;BAL;36;0;126.0079;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;+QTY;3955;1715;88.93426;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+STOCK;1899;1833;66.90195;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-QTY;0;-23;120.6523;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;0;-1981;122.9769;Biomate University;Void Starcross;9h 48m 4s ;35284.71

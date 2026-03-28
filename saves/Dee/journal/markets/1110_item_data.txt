@@ -12,3 +12,4 @@ NPC;-PRICE;2;0;488.8785;Quah Relay Station;Noah Fox;4h 29m 47s ;16187.74
 NPC;+STOCK;11;10;572.0349;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+QTY;18;6;459.5937;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;-QTY;0;-4;819.5938;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-QTY;0;-2;489.3;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

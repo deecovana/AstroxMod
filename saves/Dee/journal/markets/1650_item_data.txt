@@ -13,3 +13,5 @@ NPC;BAL;58;-11;5458.134;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;BAL;30;-7;6462.925;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+PRICE;39;0;6457.139;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;-QTY;0;-7;3504.979;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-QTY;76;-7;3184.236;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-QTY;1;-8;4332.168;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

@@ -19,3 +19,5 @@ NPC;+PRICE;29;0;6.782604;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+PRICE;341;0;6.549739;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+QTY;249;99;1.2825;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;150;343;3.705;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;-QTY;99;-97;4.717462;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;0;-72;12.41802;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

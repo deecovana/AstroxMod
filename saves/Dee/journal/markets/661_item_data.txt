@@ -33,3 +33,5 @@ NPC;+PRICE;4;0;10113.43;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+STOCK;14;3;4229.771;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;13;2;4225;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;12;0;10934.52;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;12;-2;9038.125;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;46;-2;4893;Biomate University;Void Starcross;9h 48m 4s ;35284.71

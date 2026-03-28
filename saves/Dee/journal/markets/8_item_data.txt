@@ -15,3 +15,4 @@ NPC;-LOCAL;6150;0;675;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
 NPC;+QTY;3299;3243;254.25;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;4786;4099;444.3806;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-LOCAL;6067;0;675;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;-QTY;0;-447;419.58;Biomate University;Void Starcross;9h 48m 4s ;35284.71

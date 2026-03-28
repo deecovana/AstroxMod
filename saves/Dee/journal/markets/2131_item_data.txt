@@ -22,3 +22,4 @@ NPC;BAL;19;0;93.0504;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+PRICE;29;0;202.3161;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+PRICE;182;0;149.4706;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;20;0;163.7319;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;2620;-2222;99.20358;Biomate University;Void Starcross;9h 48m 4s ;35284.71

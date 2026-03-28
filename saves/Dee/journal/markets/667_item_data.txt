@@ -13,3 +13,4 @@ NPC;+STOCK;44;4;528024.9;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15
 NPC;+STOCK;41;3;311046.7;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;38;-2;547950;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;+PRICE;14;0;424537.6;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;8;-3;301236;Biomate University;Void Starcross;9h 48m 4s ;35284.71

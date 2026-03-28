@@ -35,3 +35,4 @@ NPC;-LOCAL;704;0;57.2625;Biomate University;Void Starcross;6h 9m 3s ;22143.94
 NPC;+QTY;1467;688;42.94688;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;-LOCAL;0;0;127.25;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;+PRICE;72;0;53.32336;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;0;0;150.7467;Biomate University;Void Starcross;9h 48m 4s ;35284.71

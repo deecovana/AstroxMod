@@ -22,3 +22,6 @@ NPC;-QTY;0;-44;41.21121;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;-QTY;0;-69;23.14857;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+LOCAL;150;347;13.9425;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+PRICE;65;0;40.91721;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;76;-136;47.35356;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;0;-80;24.48035;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;7;-89;20.56197;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

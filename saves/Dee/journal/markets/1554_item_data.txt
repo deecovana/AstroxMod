@@ -15,3 +15,4 @@ NPC;+STOCK;27;11;306518.9;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.9
 NPC;+LOCAL;12;18;159803.2;Biomate University;Void Starcross;6h 9m 3s ;22143.94
 NPC;+QTY;21;10;255997;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+LOCAL;12;24;159803.2;Biomate University;Void Starcross;8h 8m 25s ;29305.03
+NPC;-QTY;1;-11;58660.06;Biomate University;Void Starcross;9h 48m 4s ;35284.71

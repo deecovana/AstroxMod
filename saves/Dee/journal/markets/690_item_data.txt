@@ -13,3 +13,5 @@ NPC;+PRICE;23;0;9867.628;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+PRICE;1;0;9387.316;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;-QTY;3;-12;7043.907;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+PRICE;22;0;7873.543;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;0;-3;15357.19;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;25;-24;9289.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

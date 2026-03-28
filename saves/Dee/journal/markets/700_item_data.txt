@@ -7,3 +7,5 @@ NPC;+PRICE;105;0;2689.628;Medicore University;Cliffs of Drameria;2h 29m 20s ;896
 NPC;+PRICE;17;0;4902.085;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+STOCK;119;24;4133.615;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;68;0;4494.521;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;-QTY;106;-13;4146.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-QTY;0;-15;2596.5;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

@@ -4,3 +4,4 @@ NPC;+STOCK;69;10;10174.27;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;106;9;4616.015;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;80;11;9873.854;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+PRICE;17;0;10100.17;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;95;-11;4593.56;Biomate University;Void Starcross;9h 48m 4s ;35284.71

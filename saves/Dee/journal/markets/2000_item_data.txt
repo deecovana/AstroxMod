@@ -20,3 +20,5 @@ NPC;+QTY;221;136;10.7261;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685
 PLAYER;+QTY;936;15;8.16035;StarGypsy Warehouse;Void Starcross;5h 30m 42s ;19842.94
 NPC;+PRICE;422;0;16.09953;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 PLAYER;+QTY;105;4;16.434;Starbase Corporate Center;Void Starcross;6h 55m 14s ;24914.08
+NPC;-QTY;37;-185;10.21922;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;87;-227;11.95568;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -23,3 +23,4 @@ NPC;+QTY;23;7;3593.644;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+LOCAL;12;8;1885;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;+QTY;24;10;4875.679;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;40;0;4092.467;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;98;-11;5911.94;Biomate University;Void Starcross;9h 48m 4s ;35284.71

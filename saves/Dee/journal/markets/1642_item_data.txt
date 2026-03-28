@@ -12,3 +12,4 @@ NPC;+PRICE;25;0;23380.61;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+QTY;78;11;26881.39;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;25;0;47769.42;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;37;0;39331.99;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;55;-11;47860.62;Biomate University;Void Starcross;9h 48m 4s ;35284.71

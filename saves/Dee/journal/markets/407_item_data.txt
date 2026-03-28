@@ -41,3 +41,4 @@ NPC;-LOCAL;0;0;1077.5;Tella's;Bitcola;7h 35m 32s ;27332.98
 NPC;+QTY;927;904;396.7934;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+STOCK;1789;895;337.804;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;20;0;393.2832;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;16;-893;370.3583;Biomate University;Void Starcross;9h 48m 4s ;35284.71

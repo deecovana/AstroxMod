@@ -27,3 +27,5 @@ NPC;+QTY;828;143;11.4375;Psybermind;Ion Child;6h 44m 29s ;24269.91
 PLAYER;+QTY;607;18;10.5375;Starbase Corporate Center;Void Starcross;6h 55m 22s ;24922.67
 NPC;+LOCAL;68;24;6.793727;Tella's;Bitcola;7h 35m 32s ;27332.98
 NPC;+STOCK;928;188;5.960258;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-QTY;0;-23;11.13813;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;595;-221;3.793;Biomate University;Void Starcross;9h 48m 4s ;35284.71

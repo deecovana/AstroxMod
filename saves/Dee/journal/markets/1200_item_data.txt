@@ -9,3 +9,4 @@ PLAYER;-QTY;2;3;4831.453;Genistar;Blades of Dandrow;5h 14m 47s ;18887.84
 NPC;BAL;9;0;4373.424;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 PLAYER;+QTY;0;3;0;Lammassu Financial;Void Starcross;6h 4m 43s ;21883.04
 PLAYER;+QTY;15;2;3571.453;Lacuna Bandits;Ballast Crow;6h 35m 43s ;23743.46
+NPC;-QTY;0;-2;1661.85;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

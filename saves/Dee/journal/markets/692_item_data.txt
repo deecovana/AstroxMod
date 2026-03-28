@@ -16,3 +16,4 @@ NPC;-PRICE;128;0;10136.59;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;30;0;18506.5;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;BAL;20;0;14893.14;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+QTY;215;20;8520;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;101;-19;11508.8;Biomate University;Void Starcross;9h 48m 4s ;35284.71

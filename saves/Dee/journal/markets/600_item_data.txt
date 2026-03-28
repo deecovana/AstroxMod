@@ -43,3 +43,4 @@ NPC;-QTY;5;-4;5097.969;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;10;2;5653.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;13;3;5653.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+LOCAL;5;1;1625;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05
+NPC;-QTY;1;-4;2346.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

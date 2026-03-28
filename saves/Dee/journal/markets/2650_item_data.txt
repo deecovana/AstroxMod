@@ -20,3 +20,5 @@ NPC;+QTY;2383;2340;492.75;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+QTY;7780;1723;255.15;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;0;-45;377.7806;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+PRICE;180;0;418.3017;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;0;-28;579.8587;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;923;-1347;415.422;Biomate University;Void Starcross;9h 48m 4s ;35284.71

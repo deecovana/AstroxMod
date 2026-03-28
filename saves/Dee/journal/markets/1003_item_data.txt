@@ -8,3 +8,4 @@ NPC;-QTY;22;-8;605.9831;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+LOCAL;12;27;357.5;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+QTY;11;7;1082.125;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+STOCK;19;10;603.7888;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
+NPC;-QTY;0;-1;725.23;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

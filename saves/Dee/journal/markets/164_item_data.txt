@@ -20,3 +20,4 @@ NPC;-QTY;104;-128;9.794737;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;309;102;21.67446;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+LOCAL;150;316;7.41;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+PRICE;575;0;14.9295;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;307;-122;16.17204;Biomate University;Void Starcross;9h 48m 4s ;35284.71

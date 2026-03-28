@@ -14,3 +14,4 @@ NPC;+LOCAL;150;164;318.24;StarGypsy Warehouse;Void Starcross;5h 21m 41s ;19301.1
 NPC;+LOCAL;150;24;318.24;StarGypsy Warehouse;Void Starcross;5h 41m 57s ;20517.09
 NPC;+LOCAL;150;31;318.24;StarGypsy Warehouse;Void Starcross;6h 2m 0s ;21720.92
 NPC;+LOCAL;150;36;318.24;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
+NPC;-QTY;865;-85;400.7866;Biomate University;Void Starcross;9h 48m 4s ;35284.71

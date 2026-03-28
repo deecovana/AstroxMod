@@ -21,3 +21,5 @@ NPC;+QTY;976;196;36.07163;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;217;0;41.46667;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;1725;242;52.83775;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;674;152;49.4445;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;1111;-168;63.19132;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;431;-246;47.60522;Biomate University;Void Starcross;9h 48m 4s ;35284.71

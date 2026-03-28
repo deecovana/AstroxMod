@@ -44,3 +44,5 @@ NPC;+QTY;1351;593;18.51586;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-LOCAL;80;80;28.125;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
 NPC;+STOCK;1486;882;11.32528;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-LOCAL;0;0;62.5;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
+NPC;-QTY;143;-873;24.2325;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-QTY;0;-4;18.4825;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

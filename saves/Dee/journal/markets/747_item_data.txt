@@ -13,3 +13,4 @@ NPC;+QTY;64;14;78111.25;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;98;9;104375;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+STOCK;112;13;97536.53;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;91;0;61624.36;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;105;-13;71063.75;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

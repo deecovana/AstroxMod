@@ -30,3 +30,4 @@ NPC;+PRICE;13;0;4470.154;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;30;3;8825;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;12;2;5306.344;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;6;0;9935.169;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;31;-2;4593;Biomate University;Void Starcross;9h 48m 4s ;35284.71

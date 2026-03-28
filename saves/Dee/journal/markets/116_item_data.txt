@@ -14,3 +14,5 @@ NPC;+STOCK;948;245;75.07375;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-QTY;426;-212;107.1534;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;-PRICE;1068;0;65.83737;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+QTY;413;183;92.02605;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;828;-164;57.14538;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;1127;-150;99.28401;Biomate University;Void Starcross;9h 48m 4s ;35284.71

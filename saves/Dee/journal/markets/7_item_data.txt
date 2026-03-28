@@ -22,3 +22,4 @@ NPC;-PRICE;29;0;369.3786;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;-LOCAL;3097;0;519.5126;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
 NPC;+QTY;16873;2971;141.525;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;3031;0;487.9113;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;-QTY;0;-3691;247.641;Biomate University;Void Starcross;9h 48m 4s ;35284.71

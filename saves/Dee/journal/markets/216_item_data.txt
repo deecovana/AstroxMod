@@ -31,3 +31,4 @@ NPC;+STOCK;509;144;136.3612;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;863;87;180.5892;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-LOCAL;0;0;212.1521;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;-LOCAL;0;0;232.8125;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;-QTY;102;-148;19.39818;Biomate University;Void Starcross;9h 48m 4s ;35284.71

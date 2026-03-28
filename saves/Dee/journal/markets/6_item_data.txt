@@ -21,3 +21,4 @@ NPC;+STOCK;4860;4857;282.0226;Acrondia Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;-LOCAL;7431;0;275.625;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
 NPC;-LOCAL;7387;0;275.625;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;+PRICE;411;0;164.7508;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;0;-422;262.3062;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

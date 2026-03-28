@@ -25,3 +25,5 @@ PLAYER;+QTY;9633;171;156.4138;StarGypsy Warehouse;Void Starcross;7h 38m 4s ;2748
 NPC;+QTY;5695;4963;82.71706;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-LOCAL;8126;0;195.6379;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 PLAYER;+QTY;9778;145;153.3012;StarGypsy Warehouse;Void Starcross;9h 36m 26s ;34586.64
+NPC;-QTY;0;-747;75.06754;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;1520;-3096;157.4829;Biomate University;Void Starcross;9h 48m 4s ;35284.71

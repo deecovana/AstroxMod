@@ -12,3 +12,5 @@ NPC;-QTY;58;-8;215937.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;+QTY;24;14;170937.5;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;+QTY;118;12;102778.1;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;3;0;127425;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;-QTY;36;-13;273453.1;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;128;-11;269825;Biomate University;Void Starcross;9h 48m 4s ;35284.71

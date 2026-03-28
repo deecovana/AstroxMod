@@ -25,3 +25,5 @@ NPC;+QTY;691;133;2.32375;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;347;172;4.727766;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+LOCAL;28;15;5.142674;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
 NPC;+QTY;1114;181;5.283489;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;1078;-172;2.973506;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;928;-179;3.02115;Biomate University;Void Starcross;9h 48m 4s ;35284.71

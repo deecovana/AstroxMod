@@ -13,3 +13,4 @@ NPC;BAL;146;-9;95064.54;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;+QTY;84;9;92043.75;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;-QTY;13;-14;91959.38;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;+QTY;39;12;60063.44;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;0;-7;47063.75;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

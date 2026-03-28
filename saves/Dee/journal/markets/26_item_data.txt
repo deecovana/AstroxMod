@@ -20,3 +20,4 @@ NPC;+QTY;4962;4890;5573.875;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;10214;4612;3187.25;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;0;0;15250;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
 NPC;+PRICE;510;0;3440.489;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;800;-4688;2862.73;Biomate University;Void Starcross;9h 48m 4s ;35284.71

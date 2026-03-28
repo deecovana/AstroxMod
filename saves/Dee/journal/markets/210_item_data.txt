@@ -20,3 +20,4 @@ NPC;-LOCAL;0;0;112.3462;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;+PRICE;745;0;52.21627;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;91;0;49.4803;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;-LOCAL;0;0;122.0919;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;-QTY;11;-139;9.150311;Biomate University;Void Starcross;9h 48m 4s ;35284.71

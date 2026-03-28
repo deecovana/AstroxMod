@@ -11,3 +11,4 @@ NPC;+QTY;887;142;116.82;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;476;132;136.2511;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+STOCK;158;125;186.4667;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+QTY;988;101;116.82;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;806;-143;240.5218;Biomate University;Void Starcross;9h 48m 4s ;35284.71

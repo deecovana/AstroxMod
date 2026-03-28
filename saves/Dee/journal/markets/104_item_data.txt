@@ -32,3 +32,5 @@ NPC;-QTY;140;-151;2.350713;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+LOCAL;250;552;0.8775001;Tella's;Bitcola;7h 28m 52s ;26932.76
 NPC;+LOCAL;250;27;0.8775001;Tella's;Bitcola;7h 35m 32s ;27332.98
 NPC;+PRICE;168;0;2.713145;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;983;-235;2.944721;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;1210;-225;1.53711;Biomate University;Void Starcross;9h 48m 4s ;35284.71

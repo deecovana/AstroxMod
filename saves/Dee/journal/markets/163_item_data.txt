@@ -27,3 +27,4 @@ NPC;+QTY;104;104;110.7422;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;349;145;40.85977;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+QTY;310;82;30.77379;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-LOCAL;52;52;42.95734;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
+NPC;-QTY;37;-134;36.72375;Biomate University;Void Starcross;9h 48m 4s ;35284.71

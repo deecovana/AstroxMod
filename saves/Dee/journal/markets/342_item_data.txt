@@ -25,3 +25,4 @@ NPC;+LOCAL;1000;1261;7.4425;StarGypsy Warehouse;Void Starcross;7h 37m 56s ;27476
 NPC;+LOCAL;1000;366;7.4425;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
 NPC;+PRICE;76;0;18.25351;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+LOCAL;1000;1642;7.4425;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
+NPC;-QTY;364;-515;19.21997;Biomate University;Void Starcross;9h 48m 4s ;35284.71

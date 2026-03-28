@@ -26,3 +26,5 @@ NPC;+QTY;8778;1834;304.7;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;1946;1611;405.0791;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+STOCK;4526;1932;195.3227;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;136;0;208.8569;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;0;-146;393.2775;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;290;-2189;329.692;Biomate University;Void Starcross;9h 48m 4s ;35284.71

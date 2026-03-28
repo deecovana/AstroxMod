@@ -3,3 +3,4 @@ NPC;+STOCK;75;11;44455.15;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+PRICE;16;0;43002.36;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+STOCK;86;11;43637.71;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;39;11;26793.79;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;5;-11;42907.52;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

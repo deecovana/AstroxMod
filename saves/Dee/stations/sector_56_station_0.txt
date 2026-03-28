@@ -39,6 +39,8 @@ MERC;6;0.76;npc_ship_data_(transport_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Buying: (2) Items ;1008x13,330x67;20266;53448.71
+
 SELLORDER;Sell Order for: (1) Items ;1520x8;7938;53439.87
 
 ITEM;1171;23;1.08

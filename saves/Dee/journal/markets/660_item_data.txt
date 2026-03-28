@@ -31,3 +31,4 @@ NPC;+QTY;13;4;4418.75;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;22;4;4562.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;7;-3;4553.172;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+PRICE;12;0;4460.944;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;0;-2;3446.5;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

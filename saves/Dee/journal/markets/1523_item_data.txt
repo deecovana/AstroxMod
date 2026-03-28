@@ -5,3 +5,4 @@ NPC;+STOCK;21;9;23862.94;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;61;11;13154.29;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;38;9;40222.4;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;72;11;13026.92;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
+NPC;-QTY;15;-6;23935.3;Biomate University;Void Starcross;9h 48m 4s ;35284.71

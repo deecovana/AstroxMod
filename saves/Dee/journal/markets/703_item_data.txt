@@ -14,3 +14,4 @@ NPC;BAL;12;0;2773.293;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+QTY;125;23;2268.75;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;58;17;2053.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;3;0;5299.617;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;38;-12;3796.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

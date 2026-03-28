@@ -38,3 +38,5 @@ NPC;-LOCAL;0;0;36.19088;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
 NPC;-QTY;0;-6;13.93741;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;-LOCAL;0;0;77.5;Tella's;Bitcola;7h 28m 52s ;26932.76
 NPC;-LOCAL;0;0;77.5;Tella's;Bitcola;7h 35m 32s ;27332.98
+NPC;-QTY;0;-12;30.18819;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;165;-886;17.6483;Biomate University;Void Starcross;9h 48m 4s ;35284.71

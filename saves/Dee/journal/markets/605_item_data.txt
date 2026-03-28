@@ -24,3 +24,5 @@ NPC;+PRICE;36;0;198827.4;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+LOCAL;5;1;121455.8;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
 NPC;+QTY;28;4;96600.01;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;8;0;141490.7;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;11;-2;177753;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;47;-3;201432;Biomate University;Void Starcross;9h 48m 4s ;35284.71

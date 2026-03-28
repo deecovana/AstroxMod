@@ -24,3 +24,4 @@ NPC;BAL;405;-161;4.731004;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+LOCAL;250;34;5.95462;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
 NPC;+LOCAL;62;19;3.582576;Tella's;Bitcola;7h 35m 32s ;27332.98
 NPC;+STOCK;329;221;4.406747;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-QTY;245;-209;5.170444;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

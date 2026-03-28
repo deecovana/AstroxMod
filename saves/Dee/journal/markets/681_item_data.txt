@@ -15,3 +15,4 @@ NPC;BAL;68;-24;89732.81;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;-PRICE;42;0;114096.4;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;47;0;148365.5;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+QTY;35;18;157143.8;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;-QTY;27;-19;66598.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -25,3 +25,4 @@ NPC;+PRICE;974;0;2.857273;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+STOCK;574;213;3.098076;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;1162;215;3.30925;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;306;0;3.510293;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;1059;-200;5.24173;Biomate University;Void Starcross;9h 48m 4s ;35284.71

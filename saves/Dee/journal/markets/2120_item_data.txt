@@ -15,3 +15,5 @@ NPC;+QTY;2170;1853;235.583;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+QTY;1858;1814;252.3615;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;+QTY;1532;1476;277.1923;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+PRICE;38;0;375.7336;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;0;-117;296.2004;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;0;-33;332.1442;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

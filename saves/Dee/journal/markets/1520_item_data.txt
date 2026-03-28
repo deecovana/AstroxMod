@@ -15,3 +15,4 @@ NPC;+QTY;21;6;913.8891;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+QTY;93;9;927.7186;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;42;0;1168.444;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;6;0;841.6177;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;0;-6;1151.515;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

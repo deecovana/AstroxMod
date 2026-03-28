@@ -28,3 +28,4 @@ NPC;-LOCAL;0;0;38.8445;Genistar;Blades of Dandrow;5h 13m 19s ;18799.05
 NPC;+QTY;2377;792;14.48425;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;0;0;57.25;Genistar;Blades of Dandrow;9h 6m 40s ;32800.05
 NPC;+STOCK;940;915;11.81039;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-QTY;496;-510;17.61697;Biomate University;Void Starcross;9h 48m 4s ;35284.71

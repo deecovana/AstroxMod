@@ -27,3 +27,5 @@ NPC;+LOCAL;150;198;40.0725;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;-LOCAL;0;0;183.0695;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;+STOCK;101;101;190.6514;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;-LOCAL;0;0;198.7363;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;-QTY;427;-149;98.71861;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;4;-146;14.70969;Biomate University;Void Starcross;9h 48m 4s ;35284.71

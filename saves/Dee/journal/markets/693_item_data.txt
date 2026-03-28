@@ -27,3 +27,4 @@ NPC;BAL;26;-13;7601.327;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+PRICE;38;0;8007.484;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;142;14;9030;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;52;0;7055.624;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;109;-21;11511.6;Biomate University;Void Starcross;9h 48m 4s ;35284.71

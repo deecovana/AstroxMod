@@ -21,3 +21,4 @@ NPC;BAL;13;0;25.79682;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;BAL;9;0;38.69762;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+QTY;4283;1734;34.32425;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;2599;2217;35.67385;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;0;-379;19.04086;Biomate University;Void Starcross;9h 48m 4s ;35284.71

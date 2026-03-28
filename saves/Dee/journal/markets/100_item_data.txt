@@ -31,3 +31,5 @@ NPC;+PRICE;319;0;0.5540877;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+QTY;1764;191;0.27125;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 PLAYER;+QTY;1743;772;0.251875;Starbase Corporate Center;Void Starcross;6h 56m 4s ;24964.57
 NPC;+PRICE;54;0;0.4792648;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;52;-206;0.4719062;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;381;-225;0.26465;Biomate University;Void Starcross;9h 48m 4s ;35284.71

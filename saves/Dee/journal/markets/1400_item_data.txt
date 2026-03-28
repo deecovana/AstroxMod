@@ -6,3 +6,4 @@ NPC;BAL;8;0;4232.788;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+QTY;38;8;2495.625;Foodmaid;Daelus;6h 44m 29s ;24269.91
 PLAYER;-QTY;64;1;1977.766;Biomate University;Void Starcross;8h 9m 56s ;29396.25
 NPC;+PRICE;8;0;4311.043;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;-QTY;56;-8;2031.15;Biomate University;Void Starcross;9h 48m 4s ;35284.71

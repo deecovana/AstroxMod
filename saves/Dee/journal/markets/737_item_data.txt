@@ -25,3 +25,4 @@ NPC;+QTY;11;2;446250;CoraVault Hub;Pindoris;4h 50m 45s ;17445.84
 NPC;-PRICE;2;0;520429.4;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;+QTY;16;4;281250;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;1;0;222336.2;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;74;-3;389650;Biomate University;Void Starcross;9h 48m 4s ;35284.71

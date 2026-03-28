@@ -25,3 +25,4 @@ NPC;+QTY;3327;988;44.6745;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;1000;309;24.505;StarGypsy Warehouse;Void Starcross;8h 4m 7s ;29047.16
 NPC;+STOCK;870;856;61.1248;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+LOCAL;1000;1036;24.505;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
+NPC;-QTY;385;-606;35.38522;Biomate University;Void Starcross;9h 48m 4s ;35284.71

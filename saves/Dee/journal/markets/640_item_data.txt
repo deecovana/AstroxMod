@@ -30,3 +30,4 @@ NPC;-QTY;10;-2;4303.172;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;13;3;4303.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;16;3;4303.172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+STOCK;7;4;4978.259;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-QTY;38;-4;2953.188;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

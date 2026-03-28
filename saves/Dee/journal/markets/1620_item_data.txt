@@ -11,3 +11,5 @@ NPC;+PRICE;6;0;1709.774;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.
 NPC;-QTY;5;-6;745.0607;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;BAL;5;0;816.6573;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+PRICE;31;0;1063.396;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
+NPC;-QTY;5;-8;1238.106;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;0;-6;1412.683;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

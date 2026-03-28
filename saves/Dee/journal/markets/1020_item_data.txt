@@ -5,3 +5,4 @@ NPC;+STOCK;74;10;3838.848;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;96;8;6260.344;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;39;8;7432.341;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;81;7;3825;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-3;9038.125;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

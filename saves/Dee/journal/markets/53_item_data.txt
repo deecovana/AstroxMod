@@ -23,3 +23,4 @@ NPC;+QTY;2441;2003;50.35662;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;1466;1348;35.59998;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+STOCK;3767;1849;38.46595;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;3;0;38.43951;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;55;-2268;34.35619;Biomate University;Void Starcross;9h 48m 4s ;35284.71

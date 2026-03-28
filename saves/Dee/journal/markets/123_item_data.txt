@@ -9,3 +9,4 @@ NPC;+STOCK;1862;216;66.52605;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;208;167;98.39898;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;631;177;77.52712;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+LOCAL;55;14;126.185;Lacuna Bandits;Ballast Crow;6h 44m 46s ;24286.64
+NPC;-QTY;638;-128;152.2533;Biomate University;Void Starcross;9h 48m 4s ;35284.71

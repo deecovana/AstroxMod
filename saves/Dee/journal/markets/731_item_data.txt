@@ -19,3 +19,4 @@ NPC;BAL;28;-8;109661.5;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+QTY;143;7;74662.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;40;7;166754.7;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;28;0;117533.5;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;57;-9;75784.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

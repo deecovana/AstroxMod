@@ -16,3 +16,4 @@ NPC;BAL;1;0;14452.86;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;167;13;11137.5;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+PRICE;90;0;15501.95;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+QTY;179;12;11137.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;57;-8;12507.19;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

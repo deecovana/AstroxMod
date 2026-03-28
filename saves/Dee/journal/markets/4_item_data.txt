@@ -26,3 +26,5 @@ NPC;+PRICE;322;0;41.80013;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+STOCK;6510;3809;88.54511;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;-LOCAL;5135;0;105.75;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
 NPC;+PRICE;81;0;122.9867;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;-QTY;0;-35;80.89993;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;0;-4569;80.7742;Biomate University;Void Starcross;9h 48m 4s ;35284.71

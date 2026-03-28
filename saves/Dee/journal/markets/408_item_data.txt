@@ -40,3 +40,4 @@ NPC;-LOCAL;0;0;6313.927;Tella's;Bitcola;7h 35m 32s ;27332.98
 NPC;+QTY;962;951;2671.128;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+PRICE;26;0;4522.272;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;+PRICE;18;0;3014.096;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;0;-21;4047.813;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

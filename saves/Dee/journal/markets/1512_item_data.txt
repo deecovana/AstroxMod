@@ -6,3 +6,4 @@ NPC;+QTY;36;11;15511.67;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;-QTY;8;-11;37678.67;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;17;9;37678.67;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;20;0;38930.8;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;-QTY;29;-8;41508.73;Biomate University;Void Starcross;9h 48m 4s ;35284.71

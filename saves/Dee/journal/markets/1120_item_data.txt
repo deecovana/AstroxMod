@@ -12,3 +12,5 @@ NPC;+QTY;13;9;1419.25;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;11;6;957.2501;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;58;9;1249.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;0;-9;1483.431;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;-QTY;35;-11;1203.02;Biomate University;Void Starcross;9h 48m 4s ;35284.71
+NPC;-QTY;0;-4;951.02;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

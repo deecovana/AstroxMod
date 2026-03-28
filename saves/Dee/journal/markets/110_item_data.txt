@@ -21,3 +21,4 @@ NPC;+QTY;1225;141;12.21025;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.9
 PLAYER;+QTY;993;3;10.54138;Starbase Corporate Center;Void Starcross;6h 55m 47s ;24947.87
 NPC;+STOCK;513;243;13.20486;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;931;0;8.186997;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
+NPC;-QTY;206;-176;18.07117;Biomate University;Void Starcross;9h 48m 4s ;35284.71

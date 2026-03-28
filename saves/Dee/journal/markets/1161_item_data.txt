@@ -18,3 +18,4 @@ NPC;+LOCAL;12;18;1755;Starbase Corporate Center;Void Starcross;5h 56m 1s ;21361.
 NPC;BAL;7;0;3769.131;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 PLAYER;-QTY;74;1;3615.806;Biomate University;Void Starcross;8h 12m 46s ;29566.62
 NPC;+PRICE;30;0;4633.002;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;-QTY;63;-11;3668.22;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -7,3 +7,5 @@ NPC;+STOCK;31;4;432789.9;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;48;4;301423.9;Biomate University;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;49;4;295194.2;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;34;3;392293.6;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
+NPC;-QTY;33;-3;411303.6;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;44;-4;299647;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -14,3 +14,4 @@ NPC;+PRICE;26;0;69092.72;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+STOCK;61;14;118411.5;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;152;10;102712.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+STOCK;46;12;99743.14;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
+NPC;-QTY;158;-14;131884.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

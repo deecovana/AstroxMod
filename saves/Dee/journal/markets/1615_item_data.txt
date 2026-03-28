@@ -13,3 +13,4 @@ NPC;+STOCK;11;10;1115.085;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;22;0;2074.097;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;36;0;2387.897;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;+PRICE;5;0;2348.466;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;0;-6;1822.747;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71

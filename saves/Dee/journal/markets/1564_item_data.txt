@@ -16,3 +16,4 @@ NPC;+QTY;71;10;220913.8;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;-PRICE;19;0;219062;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+LOCAL;12;11;85359.56;Biomate University;Void Starcross;6h 9m 3s ;22143.94
 NPC;+LOCAL;12;23;85359.56;Biomate University;Void Starcross;8h 8m 25s ;29305.03
+NPC;-QTY;6;-6;31333.52;Biomate University;Void Starcross;9h 48m 4s ;35284.71

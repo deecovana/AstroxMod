@@ -9,3 +9,4 @@ NPC;+STOCK;75;13;5830.288;StarShepards Headquarters;Void Starcross;4h 12m 27s ;1
 NPC;-QTY;131;-7;2542.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
 NPC;-PRICE;43;0;2824.009;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;BAL;123;-8;2691.924;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
+NPC;-QTY;95;-8;3655.8;Biomate University;Void Starcross;9h 48m 4s ;35284.71

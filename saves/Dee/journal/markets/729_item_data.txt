@@ -16,3 +16,4 @@ NPC;+QTY;63;12;8691.563;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.
 NPC;+PRICE;36;0;17661.63;Dustardz;Redsky;5h 41m 50s ;20510.81
 NPC;+QTY;69;14;13837.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;56;0;6631.25;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;114;-8;7489.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

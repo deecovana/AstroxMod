@@ -7,3 +7,4 @@ NPC;-LOCAL;0;0;2325;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;-LOCAL;459;0;1046.25;Proctors Center;Void Starcross;6h 10m 18s ;22218.7
 NPC;+QTY;3903;3106;1035.787;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;-LOCAL;139;0;1046.25;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;-QTY;0;-444;501.549;Biomate University;Void Starcross;9h 48m 4s ;35284.71

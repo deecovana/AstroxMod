@@ -35,3 +35,4 @@ NPC;+STOCK;793;778;27.77319;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;38;0;34.76349;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;19;0;16.269;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-LOCAL;2;2;34.875;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
+NPC;-QTY;36;-839;19.1983;Biomate University;Void Starcross;9h 48m 4s ;35284.71

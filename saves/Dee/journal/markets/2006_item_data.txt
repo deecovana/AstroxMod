@@ -15,3 +15,4 @@ NPC;+LOCAL;150;260;106.1775;Starbase Corporate Center;Void Starcross;5h 56m 1s ;
 NPC;+STOCK;156;120;187.995;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;476;115;229.9151;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;490;126;135.1721;Foodmaid;Daelus;6h 44m 29s ;24269.91
+NPC;-QTY;232;-98;218.6603;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -21,3 +21,4 @@ NPC;+QTY;296;149;25.00116;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445
 NPC;+LOCAL;224;19;20.98558;Lacuna Bandits;Ballast Crow;6h 31m 42s ;23502.99
 NPC;+QTY;1548;226;26.36062;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;916;179;10.00875;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;578;-224;17.06715;Biomate University;Void Starcross;9h 48m 4s ;35284.71

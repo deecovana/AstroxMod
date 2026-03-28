@@ -28,3 +28,4 @@ NPC;+STOCK;22;3;4871.146;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;8;4;5837.5;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;16;2;6606.344;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;4;0;8702.717;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;19;-3;4693;Biomate University;Void Starcross;9h 48m 4s ;35284.71

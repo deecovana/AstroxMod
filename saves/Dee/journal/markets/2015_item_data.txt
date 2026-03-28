@@ -9,3 +9,5 @@ NPC;+QTY;322;85;336.1729;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.
 NPC;+STOCK;171;139;221.8855;Star Shepards Hub;Temple Gates;4h 51m 20s ;17480.54
 NPC;+QTY;851;93;345.2811;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;347;113;430.0179;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;30;-85;308.9021;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;747;-105;171.6345;Biomate University;Void Starcross;9h 48m 4s ;35284.71

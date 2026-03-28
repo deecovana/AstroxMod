@@ -27,3 +27,4 @@ NPC;+PRICE;7;0;125.9931;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+QTY;516;120;96.34999;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;0;0;252.8127;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;-LOCAL;0;0;276.7005;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;-QTY;20;-130;22.4284;Biomate University;Void Starcross;9h 48m 4s ;35284.71

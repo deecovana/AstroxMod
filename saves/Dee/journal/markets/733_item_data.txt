@@ -17,3 +17,4 @@ NPC;BAL;1;0;51157.6;Acrondia Corp.;Crown of Imperium;6h 1m 51s ;21711.47
 NPC;BAL;8;-10;60323.8;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;+PRICE;23;0;76345.2;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+PRICE;8;0;64308.14;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;172;-7;72930;Biomate University;Void Starcross;9h 48m 4s ;35284.71

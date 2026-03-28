@@ -14,3 +14,4 @@ NPC;-QTY;48;-102;64.4575;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15
 NPC;-QTY;0;-53;403.9608;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;BAL;48;0;91.71008;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
 NPC;+LOCAL;136;88;145.73;Starbase Corporate Center;Void Starcross;6h 54m 38s ;24878.25
+NPC;-QTY;0;-22;242.4218;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

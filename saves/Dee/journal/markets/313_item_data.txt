@@ -38,3 +38,4 @@ NPC;+PRICE;27;0;123.2064;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;13;0;199.3941;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
 NPC;+PRICE;6;0;108.3405;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;-LOCAL;37;37;224.0616;StarGypsy Warehouse;Void Starcross;9h 36m 17s ;34577.13
+NPC;-QTY;473;-552;201.3311;Biomate University;Void Starcross;9h 48m 4s ;35284.71

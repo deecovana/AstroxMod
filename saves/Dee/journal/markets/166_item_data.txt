@@ -25,3 +25,4 @@ NPC;+QTY;870;101;83.754;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+QTY;98;98;222.075;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-LOCAL;45;45;84.59999;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+PRICE;122;0;42.98072;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;113;-146;46.57136;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -13,3 +13,4 @@ NPC;-PRICE;7;0;26221.93;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
 NPC;+PRICE;74;0;47501.88;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+STOCK;52;13;47164.79;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;33;7;40612.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;185;-11;43618.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

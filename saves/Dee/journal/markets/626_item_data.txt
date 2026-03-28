@@ -13,3 +13,4 @@ NPC;-QTY;19;-3;145762.5;Starbase Corporate Center;Void Starcross;4h 19m 24s ;155
 NPC;+LOCAL;5;1;126750;StarShepards Headquarters;Void Starcross;5h 59m 41s ;21581.04
 NPC;+QTY;33;2;137475;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+QTY;31;3;296647.4;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;-QTY;34;-4;175748.6;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

@@ -28,3 +28,4 @@ NPC;+QTY;708;90;30.87648;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;-LOCAL;0;0;100.0035;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;+PRICE;304;0;30.22909;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-LOCAL;0;0;109.1139;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;-QTY;26;-89;68.8777;Temple of the Void;Vindicati;9h 48m 4s ;35284.71

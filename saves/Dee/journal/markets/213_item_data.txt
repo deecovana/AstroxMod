@@ -24,3 +24,4 @@ NPC;+QTY;593;121;51.93388;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+LOCAL;150;223;31.6225;Biomate University;Void Starcross;8h 8m 25s ;29305.03
 NPC;-LOCAL;0;0;125.979;Horizons;Gate of Alpharis;8h 43m 5s ;31385.79
 NPC;-LOCAL;0;0;138.3422;Horizons;Gate of Alpharis;9h 39m 0s ;34740.27
+NPC;-QTY;10;-140;11.60789;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -16,3 +16,4 @@ NPC;-PRICE;5;0;6438.696;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;44;0;9475.504;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+PRICE;50;0;13507.08;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+QTY;181;14;15637.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;147;-10;14839.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

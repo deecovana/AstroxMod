@@ -13,3 +13,4 @@ NPC;BAL;57;-11;865.4084;Starbase Corporate Center;Void Starcross;4h 40m 21s ;168
 NPC;BAL;4;0;1186.267;Terra Drone;Geminey;4h 40m 21s ;16821.04
 NPC;+QTY;10;8;620.1724;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
 NPC;+PRICE;17;0;1029.305;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
+NPC;-QTY;76;-11;1254.317;Biomate University;Void Starcross;9h 48m 4s ;35284.71

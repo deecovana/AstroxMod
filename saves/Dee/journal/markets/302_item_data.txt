@@ -38,3 +38,4 @@ NPC;-QTY;0;-6;41.93497;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;-LOCAL;779;0;63.7875;CoraVault;Lins;7h 55m 14s ;28514.54
 NPC;+STOCK;1766;732;34.47458;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;18;0;58.99408;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;128;-832;52.69131;Biomate University;Void Starcross;9h 48m 4s ;35284.71

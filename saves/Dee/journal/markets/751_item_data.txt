@@ -14,3 +14,4 @@ NPC;-PRICE;151;0;27308.76;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17
 NPC;-PRICE;164;0;24435.49;Cecil;Junia;4h 51m 22s ;17482.65
 NPC;+PRICE;18;0;50379.7;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;+QTY;116;7;41062.5;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;181;-10;32818.5;Biomate University;Void Starcross;9h 48m 4s ;35284.71

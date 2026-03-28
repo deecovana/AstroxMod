@@ -46,3 +46,4 @@ NPC;-QTY;0;-220;30.81776;Ferce;Allabentoris;7h 28m 42s ;26922.34
 PLAYER;+QTY;550;493;29.74475;Tella's;Bitcola;7h 28m 58s ;26938.86
 PLAYER;+QTY;8473;499;27.77513;StarGypsy Warehouse;Void Starcross;8h 4m 17s ;29057.66
 NPC;-LOCAL;7435;0;31.5;Proctors Center;Void Starcross;8h 56m 46s ;32206.3
+NPC;-QTY;0;-4544;11.7404;Biomate University;Void Starcross;9h 48m 4s ;35284.71

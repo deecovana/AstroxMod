@@ -25,3 +25,4 @@ NPC;+PRICE;16;0;69587.96;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;+PRICE;14;0;99817.7;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+QTY;21;4;83687.5;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;16;4;101725;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;49;-3;110409;Biomate University;Void Starcross;9h 48m 4s ;35284.71

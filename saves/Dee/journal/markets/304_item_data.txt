@@ -41,3 +41,6 @@ NPC;+QTY;1758;771;85.02692;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+STOCK;1728;844;124.1594;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+PRICE;56;0;133.9978;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;+PRICE;8;0;126.8542;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
+NPC;-QTY;0;-15;70.39231;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;0;-33;190.1967;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;0;-17;106.7641;Biomate University;Void Starcross;9h 48m 4s ;35284.71

@@ -13,3 +13,5 @@ NPC;+QTY;1736;1605;84.88125;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+PRICE;297;0;74.17232;Inovex;Goru Populan;6h 12m 48s ;22368.54
 NPC;+STOCK;2192;2039;105.5527;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;+QTY;8650;2466;36.4675;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
+NPC;-QTY;0;-62;77.84554;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
+NPC;-QTY;0;-2164;39.16358;Biomate University;Void Starcross;9h 48m 4s ;35284.71

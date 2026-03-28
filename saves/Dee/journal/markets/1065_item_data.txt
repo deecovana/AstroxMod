@@ -5,3 +5,4 @@ NPC;+PRICE;16;0;8160.519;Imperium Bank;Ciando;4h 11m 12s ;15072.39
 NPC;+QTY;55;11;16471.35;Imperium Republica ;Gate of Alpharis;4h 50m 45s ;17445.84
 NPC;+PRICE;16;0;16205.88;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;3;0;15313.58;Mazu Starship;Enoch Estates;9h 36m 0s ;34560.29
+NPC;-QTY;22;-8;16528.05;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71

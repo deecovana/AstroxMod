@@ -23,3 +23,5 @@ NPC;+QTY;1441;1441;220.7437;Scrapdogs;Gemini Els;4h 54m 45s ;17685.59
 NPC;+PRICE;2223;0;214.0431;Gunstellar;Adrenal;5h 41m 50s ;20510.81
 NPC;+QTY;8349;1991;159.3625;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;-QTY;0;-31;237.7761;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
+NPC;-QTY;0;-74;265.5444;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
+NPC;-QTY;0;-33;259.0365;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
