@@ -4,3 +4,5 @@ NPC;+STOCK;16;2;158.0394;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;17;1;157.0327;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;19;2;149.2955;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;21;2;145.5233;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;21;0;154.1522;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+QTY;4;1;79.43099;Biomart;Veloxi;18h 20m 21s ;66021.78

@@ -4,3 +4,5 @@ NPC;+STOCK;25;2;524.3416;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;26;1;522.8954;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;28;2;488.3079;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;30;2;478.1007;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;30;0;492.3795;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;BAL;60;-1;557.2177;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

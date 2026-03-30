@@ -30,3 +30,8 @@ NPC;+STOCK;131;13;5240.393;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.
 NPC;+STOCK;71;12;14894.96;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;170;11;6059.184;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;89;0;13366.08;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;128;0;17937.31;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
+NPC;+PRICE;131;0;5898.414;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;51;-13;16257.19;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;59;-12;14941.31;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;82;0;13670.93;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

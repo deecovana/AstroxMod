@@ -41,6 +41,7 @@ MERC;3;1.98;npc_ship_data_(excavation_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (1) Items ;312x894;93874;108475.80
 BUYORDER;Market Out of Stock: (3) Items ;310x237,404x493,312x241;53787;57447.68
 BUYORDER;Market Low Inventory: (1) Items ;312x151;19599;74551.86
 BUYORDER;Market Demands: (1) Items ;404x539;17088;107346.20
@@ -389,6 +390,7 @@ SKILL;230;1.87
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;1.333294;ship_data_(kj_frigate_1).txt
 SHIP;1;0.96;ship_data_(excavation_escort_1).txt
 SHIP;2;1.02;ship_data_(recon_utility_1).txt
 SHIP;3;1.09;ship_data_(pirate_cruiser_1).txt

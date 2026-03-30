@@ -8,3 +8,4 @@ NPC;BAL;18;-6;3384.975;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+STOCK;49;8;3528.161;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;4;0;3613.94;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
 NPC;+QTY;60;11;3533.592;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;-QTY;50;-10;3503.352;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

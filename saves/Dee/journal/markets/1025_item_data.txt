@@ -13,3 +13,5 @@ NPC;-PRICE;55;0;9480.364;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288
 NPC;+QTY;109;9;18322.46;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;105;8;20712.47;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;118;9;17558.98;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;109;-9;17598.62;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+LOCAL;12;7;6760;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44

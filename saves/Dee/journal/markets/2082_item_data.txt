@@ -1,3 +1,4 @@
 NPC;+STOCK;234;122;5995.644;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;359;125;5863.561;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;359;0;5720.743;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;BAL;56;0;3903.913;Rendo Labs;Entropy;18h 20m 20s ;66020.74

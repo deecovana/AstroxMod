@@ -40,3 +40,12 @@ NPC;+STOCK;17666;4989;106.1424;StarShepards Headquarters;Void Starcross;14h 1m 1
 NPC;+STOCK;7945;3415;204.6129;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;13316;3955;273.0231;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;-LOCAL;0;0;612.5;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
+NPC;-LOCAL;20;20;275.625;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
+NPC;+PRICE;285;0;220.5884;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;14841;0;215.0214;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-LOCAL;0;0;325.4621;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42
+PLAYER;+QTY;279;279;352.0356;Acrondia Hub;Temple Gates;15h 53m 9s ;57189.85
+NPC;-LOCAL;112;0;275.625;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
+NPC;+PRICE;10308;0;80.93018;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-LOCAL;0;0;507.7888;Acrondia Hub;Temple Gates;18h 6m 36s ;65196.63
+NPC;-LOCAL;0;0;612.5;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44

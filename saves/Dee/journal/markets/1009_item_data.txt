@@ -20,3 +20,10 @@ NPC;-PRICE;57;0;1100.036;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288
 NPC;+STOCK;51;9;934.736;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;58;10;709.487;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 PLAYER;-QTY;40;2;988.8381;Biomate University;Void Starcross;14h 53m 17s ;53597.11
+NPC;+PRICE;4;0;2180.335;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+PRICE;11;0;1067.032;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;-QTY;8;-11;2516.387;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;+LOCAL;8;6;2021.292;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
+NPC;+PRICE;58;0;815.6852;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;12;0;1274.084;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+PLAYER;+QTY;42;2;1004.19;Biomate University;Void Starcross;18h 30m 7s ;66607.8

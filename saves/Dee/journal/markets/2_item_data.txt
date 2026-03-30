@@ -69,3 +69,18 @@ NPC;+STOCK;5654;4481;31.21219;Proctors Center;Void Starcross;14h 1m 15s ;50475.3
 NPC;-LOCAL;0;0;70;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
 PLAYER;+QTY;370;370;70;Acrondia Hub;Temple Gates;14h 6m 21s ;50781.09
 NPC;BAL;289;0;24.53051;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;62;0;19.67008;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+PRICE;106;0;32.33393;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;-LOCAL;115;0;47.86582;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
+PLAYER;+QTY;3295;3180;53.57034;Acrondia Hub;Temple Gates;15h 32m 20s ;55940.72
+NPC;+PRICE;21723;0;26.81423;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;0;-596;24.18675;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;17047;-3556;24.53045;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;3121;0;41.48433;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42
+NPC;-LOCAL;2991;0;31.5;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
+NPC;+STOCK;3595;3533;19.11417;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;-LOCAL;2753;0;31.5;Acrondia Hub;Temple Gates;18h 6m 36s ;65196.63
+NPC;BAL;371;0;12.5446;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;19;0;23.2063;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;-LOCAL;2632;0;31.5;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44
+PLAYER;+QTY;2999;367;33.13548;Acrondia Hub;Temple Gates;18h 55m 46s ;68146.55

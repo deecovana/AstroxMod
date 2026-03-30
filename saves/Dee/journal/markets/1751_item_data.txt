@@ -17,3 +17,6 @@ NPC;+LOCAL;12;17;3189.03;Proctors Center;Void Starcross;12h 24m 21s ;44661.73
 NPC;-PRICE;12;0;1411.146;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;30;9;8514.165;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;22;10;1411.146;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;12;0;8567.946;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;+PRICE;26;0;7954.357;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;BAL;49;-6;4361.806;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

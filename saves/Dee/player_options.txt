@@ -1,7 +1,7 @@
 // PLAYER OPTIONS FILE FOR ASTROX IMPERIUM
 
 //GRAPHICS OPTIONS
-OPTION_ui_scale;0.8085307
+OPTION_ui_scale;0.67
 OPTIONS_mouse_scroll_sensitivity;2
 OPTION_cam_drag;4.432382
 OPTION_vsync;0
@@ -20,19 +20,19 @@ OPTIONS_ui_color_3;0.2238802,0.2147547,0.2,0.99
 OPTIONS_ui_color_4;1,1,1,1
 OPTIONS_ui_color_sensors;0.1,0.61,0.9,0.5
 OPTIONS_open_panels;False
-OPTIONS_open_panels_state;False,False,True,False,False,False,False
+OPTIONS_open_panels_state;True,True,True,True,True,True,True
 OPTIONS_galaxy_box;0,0,0
 OPTIONS_tactical_box;0,0,0
 OPTIONS_invert_mouse;False
 OPTIONS_refinery_export_storage;False
 OPTION_bloom_brightness;0
-OPTIONS_3d_sound;0
+OPTIONS_3d_sound;0.4629591
 OPTIONS_cam_fov;62.41854
 OPTIONS_target_panel_resize;0
 OPTIONS_enable_controller_inputs;False
-OPTIONS_market_popup;True
-OPTIONS_skill_train_popup;True
-OPTIONS_mission_accept_popup;True
+OPTIONS_market_popup;False
+OPTIONS_skill_train_popup;False
+OPTIONS_mission_accept_popup;False
 OPTIONS_repair_complete_popup;True
 OPTIONS_refinery_move_popup;True
 OPTIONS_instant_skill_training;False
@@ -49,10 +49,10 @@ OPTIONS_camera_rotation_drift;5
 OPTIONS_notify_box_size;1
 
 //AUDIO OPTIONS
-OPTION_music_vol;0.4564977
+OPTION_music_vol;0.4841095
 OPTION_soundfx_vol;0.7753381
 OPTION_ui_vol;1
-OPTION_sound_chat_vol;0.7
+OPTION_sound_chat_vol;0.4722036
 OPTION_sound_station_vol;0.7
 
 // WORLD OPTIONS

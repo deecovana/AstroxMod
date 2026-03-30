@@ -8,3 +8,5 @@ NPC;BAL;8;-10;9044.567;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1682
 NPC;+STOCK;17;9;8584.238;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;92;10;8143.232;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;18;10;8850.163;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;18;-9;4649.238;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;BAL;34;-7;4693.766;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

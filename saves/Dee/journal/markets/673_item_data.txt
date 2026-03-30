@@ -19,3 +19,5 @@ NPC;+STOCK;220;22;316736.3;StarShepards Headquarters;Void Starcross;14h 1m 15s ;
 NPC;+STOCK;68;24;347546.2;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;28;0;221725.5;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;BAL;29;-16;246388.9;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;-QTY;205;-15;318435;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;147;0;324737.9;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

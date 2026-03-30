@@ -13,3 +13,10 @@ NPC;+QTY;12;7;430.3172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;23;11;430.3172;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+STOCK;42;11;517.8733;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+QTY;87;10;321.9063;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;+PRICE;14;0;210.0353;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+PRICE;3;0;376.75;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;+PRICE;8;0;547.9296;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;BAL;24;-10;323.9115;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;BAL;8;0;248.8659;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;22;11;440.6563;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;+STOCK;11;9;318.1533;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

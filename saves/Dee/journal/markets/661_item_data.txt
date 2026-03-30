@@ -56,3 +56,13 @@ NPC;+STOCK;40;3;6779.132;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;52;3;9927.203;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;24;4;10103.33;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;9;-3;10941.55;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
+NPC;+PRICE;1;0;8941.212;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;+PRICE;2;0;11006.43;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;40;0;7021.65;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;20;-2;5938.125;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;27;-2;5360.875;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;50;-2;9960.875;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;19;0;3797.397;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;26;-2;4705.333;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;2;0;9369.087;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;5;2;4713.125;Biomart;Veloxi;18h 20m 21s ;66021.78

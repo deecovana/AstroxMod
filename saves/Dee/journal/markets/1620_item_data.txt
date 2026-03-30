@@ -19,3 +19,7 @@ NPC;+STOCK;15;10;759.6184;Starbase Corporate Center;Void Starcross;12h 16m 20s ;
 NPC;+QTY;38;9;1571.737;PharmaLife;Carioullis;12h 33m 5s ;45185.51
 NPC;+QTY;91;10;1142.112;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;BAL;8;8;1286.349;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;-QTY;80;-11;1134.4;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+QTY;22;7;998.2006;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;+QTY;8;7;1448.209;Tella's;Bitcola;18h 20m 21s ;66021.78
+NPC;+QTY;15;6;660.9753;Blissheads;Estura Cove;18h 20m 21s ;66021.78

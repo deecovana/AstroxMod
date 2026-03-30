@@ -57,3 +57,10 @@ NPC;+PRICE;23;0;46.90403;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;+PRICE;29;0;51.72036;PharmaLife;Carioullis;14h 10m 55s ;51055.01
 NPC;BAL;27;0;62.7522;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
 NPC;BAL;3;0;44.26276;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;+PRICE;16;0;35.92032;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;4402;0;53.99455;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;0;-627;56.35864;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;1591;-599;40.18664;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;5218;0;22.91075;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-LOCAL;17;17;69.975;CoraVault;Lins;17h 30m 45s ;63045.81
+NPC;+QTY;1707;950;56.68364;Biomart;Veloxi;18h 20m 21s ;66021.78

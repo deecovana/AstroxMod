@@ -14,3 +14,7 @@ NPC;+STOCK;47;10;3290.743;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
 NPC;+STOCK;84;11;1513.914;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;50;11;2407.927;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
 NPC;+STOCK;93;9;1404.738;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;17;0;5047.925;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;93;0;1526.602;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;BAL;12;0;2725.437;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;16;11;4836.498;Tella's;Bitcola;18h 20m 21s ;66021.78

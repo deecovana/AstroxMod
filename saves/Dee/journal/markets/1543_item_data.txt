@@ -8,3 +8,5 @@ NPC;+LOCAL;12;2;30749.96;Astrox Security Patrol;Felishar;11h 10m 1s ;40201.27
 NPC;+STOCK;61;8;23158.3;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;61;0;20761.97;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+QTY;101;10;19746.11;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;-QTY;93;-8;19503.63;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;40;11;31969.95;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26

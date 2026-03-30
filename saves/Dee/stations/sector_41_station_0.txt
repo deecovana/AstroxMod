@@ -21,7 +21,7 @@ SERVICES;market;True
 SERVICES;refinery;True
 SERVICES;garage;False
 SERVICES;university;True
-SERVICES;hangar;False
+SERVICES;hangar;True
 SERVICES;storage;False
 SERVICES;fabricator;True
 SERVICES;contracts;True
@@ -39,6 +39,7 @@ MERC;4;0.69;npc_ship_data_(pirate_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Shortage: (1) Items ;22x216;168367;125812.70
 BUYORDER;Market Out of Stock: (1) Items ;22x407;173501;59697.43
 SELLORDER;Selling: (2) Items ;1612x13,205x211;238684;103340.90
 ITEM;1121;9;1.22
@@ -264,6 +265,7 @@ SKILL;59;1.57
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;0.9361246;ship_data_(battle_escort_2).txt
 SHIP;1;0.99;ship_data_(pirate_shuttle_1).txt
 SHIP;2;0.97;ship_data_(excavation_shuttle_1).txt
 SHIP;3;1.07;ship_data_(battle_escort_3).txt

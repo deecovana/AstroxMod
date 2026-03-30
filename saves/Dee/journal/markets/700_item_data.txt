@@ -16,3 +16,4 @@ NPC;+STOCK;126;20;4190.844;Biomate University;Void Starcross;12h 16m 20s ;44180.
 NPC;+QTY;83;19;3569.063;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;+STOCK;149;23;3976.654;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;13;0;3092.007;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
+NPC;BAL;54;-15;3443.099;Rendo Labs;Entropy;18h 20m 20s ;66020.74

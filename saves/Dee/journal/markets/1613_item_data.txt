@@ -4,3 +4,5 @@ NPC;+STOCK;28;11;29611.49;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.9
 NPC;+QTY;11;10;37424.7;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+QTY;37;9;29310.94;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;47;10;28116.05;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
+NPC;+PRICE;82;0;32047.32;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;47;0;30389.36;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07

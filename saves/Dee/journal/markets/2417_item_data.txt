@@ -5,3 +5,4 @@ NPC;+QTY;10;1;868.8749;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+PRICE;10;0;1718.52;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+QTY;52;1;1789.686;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;54;2;1742.81;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;54;0;1831.785;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07

@@ -1,0 +1,250 @@
+[s:30][c:yellow]Rendo Labs[/c][/s]
+Beam Research Facility
+Bomene Janfonve
+Alpha
+[c:lime]Dock fee 100[/c]
+Timestamp: 57580.91
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Medium Shield Bomb
+Heavy Shield Bomb
+Medium Armor Bomb
+Heavy Armor Bomb
+Light Shield Bomb
+Light Armor Bomb
+Energy Bomb
+Small LS Bomb
+Small Web Field
+Medium Web Field
+Large Web Field
+Spaceframe
+Thermal Systems Package
+Weapon Systems Package
+[c:orange]DEMAND[/c]
+Polymere
+Circuit Board
+Basic Sensor
+Thermal Sensor
+Mechanical Switch
+Fiber Optic Cables
+Capacitors
+Optical Interface
+Regulator
+Battery Core
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Storage
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Out of Stock: (1) Items 
+ (385) x Mechanical Switch
+Fulfill order for [c:lime]33,025 profit.[/c]
+[c:green]BUY Order[/c] Market Low Inventory: (2) Items 
+ (518) x Polymere
+ (230) x Circuit Board
+Fulfill order for [c:lime]22,211 profit.[/c]
+[c:green]BUY Order[/c] Market Demands: (3) Items 
+ (76) x Optical Interface
+ (369) x Circuit Board
+ (45) x Mechanical Switch
+Fulfill order for [c:lime]8,837 profit.[/c]
+[c:red]SELL Order[/c] For Sale: (1) Items 
+ (1804) x Steelium
+Buy items for [c:lime]72,131 discount.[/c]
+[c:green]BUY Order[/c] Market Items Req: (1) Items 
+ (314) x Mechanical Switch
+Fulfill order for [c:lime]21,400 profit.[/c]
+[c:green]BUY Order[/c] Market Demands: (2) Items 
+ (216) x Polymere
+ (36) x Polymere
+Fulfill order for [c:lime]10,662 profit.[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (2) Items 
+ (41) x Regulator
+ (168) x Capacitors
+Fulfill order for [c:lime]11,346 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (164) x Capacitors
+ (109) x Thermal Sensor
+Fulfill order for [c:lime]27,011 profit.[/c]
+[c:green]BUY Order[/c] Market Items Req: (1) Items 
+ (83) x Regulator
+Fulfill order for [c:lime]9,758 profit.[/c]
+[c:green]BUY Order[/c] Market Demands: (3) Items 
+ (77) x Basic Sensor
+ (42) x Fiber Optic Cables
+ (31) x Basic Sensor
+Fulfill order for [c:lime]14,773 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  157 - z8
+Advanced Regulator  6 - z8,090
+Aluminium Rivets  75 - z40
+Anti-Freeze  5 - z50
+Antimatter 60mm  90 - z88
+Assault x2 Launcher  12 - z2,295
+Assorted Gaskets  45 - z8
+Assorted Springs  49 - z63
+Ball Bearings  130 - z76
+Basic 60mm  95 - z10
+Basic Afterburner  11 - z1,026
+Basic Charged Cell  88 - z6
+Basic Drone Command Bay  18 - z1,126
+Basic Energy Armor  15 - z4,330
+Basic Energy Capacitor (Doc)  11 - z27,425
+Basic Energy Generator  15 - z2,446
+Basic Energy Generator (Doc)  7 - z70,528
+Basic Explosive Armor  17 - z3,884
+Basic Explosive Armor (Doc)  13 - z65,736
+Basic Filter  6 - z5,545
+Basic Impact Armor  19 - z5,350
+Basic Shield Generator  17 - z1,324
+Basic Targeting System  7 - z1,089
+Basic Turn Thrust  13 - z1,289
+Blaster x1 Laser  18 - z459
+Blaster x1 Laser (Doc)  11 - z10,188
+Blaster x2 Laser  10 - z1,195
+Candy Cane  14 - z19
+Candy Corn  13 - z20
+Carbon  14 - z1
+Carbon Fiber  191 - z36
+Chocolate Bars  12 - z11
+Cleaning Chemicals  17 - z31
+Colored Dye  16 - z153
+Concussion Missile  5 - z467
+Containment Unit  2 - z8,690
+Corrosive 20mm  59 - z70
+Disposables  8 - z2,595
+Energy Bomb  63 - z2,722
+Explosive 20mm  4 - z30
+Focused x1 Laser (Doc)  14 - z7,207
+Focused x2 Laser  18 - z1,455
+Fusion 60mm  74 - z77
+Fusion Missile  11 - z80
+Generic Construction Platform  18 - z1,847,422
+Generic Dual 20mm Gun  6 - z558
+Generic Single 20mm Gun  2 - z467
+Gradeon Ore  19 - z22
+Gummy Bears  1 - z17
+Heavy Armor Bomb  30 - z137,601
+Heavy Shield Bomb  25 - z143,007
+Hydrogen  113 - z2
+Improved Afterburner  5 - z1,604
+Improved Armor Exterior (Doc)  10 - z38,098
+Improved Combat Drone  3 - z38,204
+Improved Drone Command Bay  18 - z9,999
+Improved Energy Armor  12 - z12,555
+Improved Energy Generator  5 - z5,942
+Improved Explosive Armor  9 - z9,987
+Improved Explosive Armor (Doc)  18 - z124,714
+Improved Filter  4 - z7,690
+Improved Mass Reduction  6 - z1,641
+Improved Mass Reduction (Doc)  11 - z11,551
+Improved Salvage Drone  27 - z21,104
+Improved Scan Booster  10 - z3,901
+Improved Scan Emitter  6 - z1,849
+Improved Scan Emitter (Doc)  14 - z27,195
+Improved Shield Booster  7 - z5,602
+Improved Shield Generator (Doc)  5 - z27,369
+Improved Targeting System (Doc)  1 - z36,514
+Improved Turn Thrust  2 - z1,359
+Interior Lighting  19 - z159
+Ion Beam Class 1 (Doc)  1 - z20,148
+Junk Part  187 - z61
+Kinetic 20mm  62 - z18
+Kinetic 60mm  78 - z33
+Kinetic Missile  36 - z224
+Kinetics G-series 20mm Gatling  12 - z1,098
+Kinetics G-series 20mm Gun  6 - z2,172
+Kinetics G-series Dual 20mm  9 - z1,973
+Kitchen Appliances  2 - z89
+Large Web Field  66 - z73,772
+Light Armor Bomb  74 - z3,344
+Light Shield Bomb  69 - z3,195
+Light Shield Booster (Doc)  14 - z342,519
+Light Shield Charge  4 - z9,285
+Liquid Coolant  16 - z28
+Lubricant  119 - z20
+Magnetic Quartz  87 - z1
+Mechanical Belts  88 - z53
+Medium Armor Bomb  66 - z13,496
+Medium Mining Drone  29 - z8,835
+Medium Shield Bomb  56 - z16,006
+Medium Web Field  19 - z22,974
+Metal Brackets  175 - z19
+Metal Gears  46 - z12
+Metal Valve  9 - z23
+Micro Leech Drone  25 - z12,585
+Noodles  9 - z8,490
+Nuts And Bolts  155 - z7
+Office Furniture  4 - z56
+Ornament  17 - z288
+Oxygen  10 - z1
+Plastic Caps  84 - z58
+Protein Bar  6 - z3,245
+Pulse Beam Class 2  3 - z3,082
+Pulse x1 Laser  8 - z219
+Pulse x2 Laser  11 - z431
+Reinforced Rubber  179 - z23
+Rubber Tubing  178 - z28
+Rubber Tubing (Doc)  19 - z491
+Salt Crystal  69 - z1
+Salvage Collector 1 (Doc)  7 - z63,952
+Salvage Collector 2  8 - z4,090
+Salvage Collector 2 (Doc)  4 - z121,076
+Scrap Part  119 - z160
+Small Combat Drone  17 - z3,294
+Small Defense Drone  29 - z3,714
+Small LS Bomb  25 - z4,595
+Small Repair Drone  1 - z4,914
+Small Storage Tank  157 - z29
+Small Tractor Drone  9 - z12,585
+Small Web Field  5 - z2,975
+Spaceframe  69 - z546
+Steelium Beam (Doc)  16 - z160
+Steelium Pipes  96 - z14
+Tactical x1 Launcher  4 - z2,241
+Thermal Controller  4 - z2,545
+Thermal Systems Package  73 - z1,136
+Titan Defense Drone  16 - z237,242
+Titan Mining Drone  38 - z149,742
+Titan Salvage Drone  2 - z174,742
+Torpedo Mark II  30 - z110
+Torpedo Mark V  79 - z356
+Torpedo Mark VIII  78 - z350
+Tractor Beam  7 - z9,366
+Uranium Core 60mm  56 - z111
+Water  271 - z0
+Weapon Systems Package  56 - z3,811
+Wrapped Box  18 - z4,389
+
+
+<Station University Skills>
+
+
+<Station Missions>
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Entropy</color> and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color> with minimum of <color='yellow'>32</color>
+
+[c:lime]DIALOG[/c]
+Detain <color='yellow'><i>Private Foqu Vajmelmel</i></color> in <color='cyan'>Grace</color> and escort them to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
+
+[c:lime]HARVEST[/c]
+Extract <color='yellow'>Special Torim Ore</color> in <color='cyan'>Shine of Mortalis</color> and return to Kith in <color='cyan'>Kidd Overture</color> with minimum of <color='yellow'>180</color>
+
+[c:lime]TRANSPORT[/c]
+Move light cargo from Ferce Hub in <color='cyan'>Semja</color> and dock with <color='yellow'>21</color> <color='yellow'>Improved Turn Thrusts</color> at Temple of the Void in <color='cyan'>Valley of Truths</color>
+
+[c:lime]HARVEST[/c]
+Harvest <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>95</color> ore to Genistar in <color='cyan'>Blades of Dandrow</color>
+
+
+
+<Station Ships>

@@ -26,3 +26,4 @@ NPC;+STOCK;45;4;149626;StarShepards Headquarters;Void Starcross;14h 1m 15s ;5047
 NPC;+STOCK;41;3;524855.8;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;49;4;285099.8;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;35;-4;249551.9;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-QTY;41;-4;148765.5;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

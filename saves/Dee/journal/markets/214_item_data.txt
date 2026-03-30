@@ -44,3 +44,10 @@ NPC;+STOCK;1271;126;87.14608;Lammassu Financial;Void Starcross;14h 1m 15s ;50475
 NPC;+STOCK;989;102;86.1512;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;150;633;40.0725;Biomate University;Void Starcross;14h 3m 2s ;50582.58
 NPC;+LOCAL;150;66;40.0725;Biomate University;Void Starcross;14h 30m 11s ;52211.07
+NPC;+PRICE;767;0;85.27502;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
+NPC;+LOCAL;150;137;40.0725;Biomate University;Void Starcross;16h 3m 55s ;57835.64
+NPC;-LOCAL;3;3;138.7125;Horizons;Gate of Alpharis;16h 34m 1s ;59641.66
+NPC;+LOCAL;150;81;40.0725;Biomate University;Void Starcross;16h 40m 10s ;60010.47
+NPC;+LOCAL;150;10;40.0725;Biomate University;Void Starcross;16h 54m 46s ;60886.23
+NPC;-LOCAL;0;0;170.3472;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
+NPC;BAL;66;-146;108.6973;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

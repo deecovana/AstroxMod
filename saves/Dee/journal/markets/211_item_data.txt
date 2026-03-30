@@ -52,3 +52,16 @@ NPC;+LOCAL;150;549;27.1375;Biomate University;Void Starcross;14h 3m 2s ;50582.58
 NPC;+PRICE;77;0;63.98648;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;BAL;75;0;46.25586;Foodmaid;Daelus;14h 12m 27s ;51147.38
 NPC;+LOCAL;150;63;27.1375;Biomate University;Void Starcross;14h 30m 11s ;52211.07
+NPC;+LOCAL;150;2;27.1375;Biomate University;Void Starcross;15h 7m 31s ;54451.33
+NPC;+LOCAL;150;7;27.1375;Biomate University;Void Starcross;15h 13m 35s ;54815.94
+NPC;+PRICE;372;0;41.39338;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;617;-75;48.9383;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+LOCAL;150;135;27.1375;Biomate University;Void Starcross;16h 3m 55s ;57835.64
+NPC;+STOCK;122;122;209.2788;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;-LOCAL;0;0;208.75;Horizons;Gate of Alpharis;16h 34m 1s ;59641.66
+NPC;+LOCAL;150;85;27.1375;Biomate University;Void Starcross;16h 40m 10s ;60010.47
+NPC;+PRICE;1189;0;36.00714;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+LOCAL;150;11;27.1375;Biomate University;Void Starcross;16h 54m 46s ;60886.23
+NPC;-LOCAL;0;0;208.75;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
+NPC;BAL;274;-83;45.25145;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;+LOCAL;150;194;27.1375;Biomate University;Void Starcross;18h 28m 19s ;66499.89

@@ -25,3 +25,6 @@ NPC;+STOCK;223;24;4382.699;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;79;12;2119.062;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;+STOCK;168;21;2294.97;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;244;21;4171.022;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;31;0;4186.783;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;18;0;4982.894;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
+NPC;BAL;48;-15;2789.816;Rendo Labs;Entropy;18h 20m 20s ;66020.74

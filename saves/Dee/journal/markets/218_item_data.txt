@@ -40,3 +40,12 @@ NPC;+STOCK;507;127;72.79816;Lammassu Financial;Void Starcross;12h 16m 20s ;44180
 NPC;+LOCAL;150;1469;63.18;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
 NPC;+STOCK;650;143;62.7316;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;150;52;63.18;Biomate University;Void Starcross;14h 30m 11s ;52211.07
+NPC;+LOCAL;150;2;63.18;Biomate University;Void Starcross;15h 7m 31s ;54451.33
+NPC;+PRICE;20;0;476.0395;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+LOCAL;150;8;63.18;Biomate University;Void Starcross;15h 13m 35s ;54815.94
+NPC;-QTY;165;-121;162.0931;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;+LOCAL;150;91;63.18;Biomate University;Void Starcross;16h 3m 55s ;57835.64
+NPC;-LOCAL;0;0;486;Horizons;Gate of Alpharis;16h 34m 1s ;59641.66
+NPC;+LOCAL;150;56;63.18;Biomate University;Void Starcross;16h 40m 10s ;60010.47
+NPC;-LOCAL;0;0;486;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
+NPC;+LOCAL;150;129;63.18;Biomate University;Void Starcross;18h 28m 19s ;66499.89

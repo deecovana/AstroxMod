@@ -49,3 +49,12 @@ NPC;+STOCK;41;4;7335.065;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;6;4;4353.269;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;46;4;10252.92;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;22;0;9880.926;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;5;0;10211.85;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;3;0;8219.912;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;+PRICE;41;0;7670.283;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;31;-2;6360.875;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;34;-4;9060.875;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;9;3;3561.723;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+PRICE;16;0;3217.943;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;8;-3;8261.536;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;6;-3;9456.722;Rendo Labs;Entropy;18h 20m 20s ;66020.74

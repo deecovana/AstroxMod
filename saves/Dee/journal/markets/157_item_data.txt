@@ -38,3 +38,8 @@ NPC;+QTY;86;75;28.39444;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
 NPC;BAL;84;0;24.80267;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
 NPC;+STOCK;1080;148;35.94146;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;150;391;13.9425;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
+NPC;+LOCAL;150;35;13.9425;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42
+NPC;+LOCAL;150;83;13.9425;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;+PRICE;150;0;5.669705;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+QTY;412;91;27.30371;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;+LOCAL;150;106;13.9425;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44

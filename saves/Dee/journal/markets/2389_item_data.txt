@@ -2,3 +2,4 @@ NPC;+STOCK;56;2;199.2654;StarShepards Headquarters;Void Starcross;2h 26m 24s ;87
 NPC;+STOCK;58;2;189.831;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;34;2;385.315;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;60;2;190.2385;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;-QTY;59;-1;188.2993;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

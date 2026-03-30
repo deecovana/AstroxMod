@@ -22,3 +22,10 @@ NPC;+QTY;546;145;37.14798;Gunstellar;Adrenal;10h 9m 19s ;36559.19
 NPC;+STOCK;191;131;64.56567;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;323;132;62.18473;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;771;142;48.32222;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;109;0;64.9125;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;+PRICE;30;0;47.20025;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;771;0;49.36304;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-LOCAL;65;65;66.45271;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;-LOCAL;51;51;65.82114;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+PRICE;51;0;68.62605;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;71;0;62.47307;Desban;Ellisar;16h 46m 45s ;60405.14

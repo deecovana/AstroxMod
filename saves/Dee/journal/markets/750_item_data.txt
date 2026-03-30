@@ -27,3 +27,7 @@ NPC;-PRICE;67;0;13460.53;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288
 NPC;-PRICE;217;0;11599.54;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;BAL;5;0;5891.298;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
 NPC;+STOCK;151;11;12923.09;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;3;0;9507.617;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;-QTY;87;-7;10407.19;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;183;-9;12691.31;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;87;0;10787.5;Desban;Ellisar;16h 46m 45s ;60405.14

@@ -39,3 +39,8 @@ NPC;+STOCK;948;215;3.059642;StarShepards Headquarters;Void Starcross;14h 1m 15s 
 NPC;+STOCK;791;171;8.948852;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;54;0;4.665088;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;404;0;7.648017;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;483;0;7.817168;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;1135;0;6.914011;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;779;-169;3.020092;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;1809;0;3.758865;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;610;-226;6.204182;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

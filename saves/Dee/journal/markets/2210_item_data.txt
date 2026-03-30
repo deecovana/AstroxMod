@@ -6,3 +6,5 @@ NPC;-QTY;1;-1;37606.07;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;-QTY;14;-2;14601.86;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;+QTY;3;2;37606.07;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;-PRICE;4;0;19062.07;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
+NPC;+PRICE;81;0;17388.96;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+QTY;4;1;28064.46;PharmaLife;Carioullis;18h 20m 21s ;66021.78

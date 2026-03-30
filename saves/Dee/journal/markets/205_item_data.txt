@@ -33,3 +33,10 @@ NPC;+QTY;338;113;110.1249;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;+QTY;544;148;120.5199;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
 NPC;+STOCK;569;136;43.64375;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1097;131;90.10303;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;44;0;81.96856;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+PRICE;1097;0;91.81141;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+PLAYER;-QTY;557;12;44.12822;Lammassu Financial;Void Starcross;16h 2m 16s ;57736.33
+NPC;+LOCAL;84;40;77.89996;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
+PLAYER;+QTY;90;6;53.89039;Horizons;Gate of Alpharis;17h 3m 54s ;61434.18
+NPC;+LOCAL;150;1703;37.5375;CoraVault;Lins;17h 30m 45s ;63045.81
+NPC;+QTY;249;98;123.175;PharmaLife;Carioullis;18h 20m 21s ;66021.78

@@ -40,3 +40,4 @@ NPC;+STOCK;1937;1926;123.197;Starbase Corporate Center;Void Starcross;14h 1m 15s
 NPC;+PRICE;11;0;127.5194;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;82;0;130.6041;PharmaLife;Carioullis;14h 10m 55s ;51055.01
 NPC;BAL;69;0;190.1231;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;+PRICE;17;0;185.2774;Xellon;Ele;15h 8m 41s ;54521.68

@@ -32,3 +32,10 @@ NPC;+STOCK;660;107;7.541232;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;4418
 NPC;+QTY;862;122;11.18865;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;+STOCK;597;130;25.90215;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;243;109;28.60043;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;40;0;24.74868;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;-LOCAL;61;61;30.20591;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;+PRICE;852;0;19.7464;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;514;-142;27.08871;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-LOCAL;48;48;29.7;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;-LOCAL;32;32;29.7;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+PRICE;32;0;31.51479;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

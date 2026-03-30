@@ -17,3 +17,6 @@ NPC;+QTY;54;13;14451.94;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;-PRICE;89;0;8134.183;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;33;14;14731.89;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;+STOCK;102;13;7501.461;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;142;0;10472.83;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+STOCK;20;10;8894.07;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;BAL;76;-13;7793.584;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

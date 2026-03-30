@@ -49,3 +49,12 @@ NPC;+STOCK;3366;822;192.1221;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;-LOCAL;59;59;243.5625;Biomate University;Void Starcross;14h 3m 2s ;50582.58
 NPC;-LOCAL;1;1;243.5625;Star Shepards Hub;Temple Gates;14h 8m 41s ;50921.47
 NPC;-LOCAL;70;70;248.7237;Biomate University;Void Starcross;14h 30m 11s ;52211.07
+NPC;-LOCAL;68;0;247.0216;Biomate University;Void Starcross;15h 7m 31s ;54451.33
+NPC;-LOCAL;31;0;243.5625;Biomate University;Void Starcross;15h 13m 35s ;54815.94
+NPC;-QTY;3471;-802;183.1779;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;40;40;244.8796;Biomate University;Void Starcross;16h 3m 55s ;57835.64
+NPC;-LOCAL;8;8;243.5625;Biomate University;Void Starcross;16h 40m 10s ;60010.47
+NPC;+PRICE;2099;0;169.5628;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-LOCAL;0;0;290.3942;Biomate University;Void Starcross;16h 54m 46s ;60886.23
+NPC;-LOCAL;2;2;243.5625;Biomate University;Void Starcross;18h 28m 19s ;66499.89
+NPC;-LOCAL;0;0;541.25;Star Shepards Hub;Temple Gates;18h 58m 23s ;68303.82

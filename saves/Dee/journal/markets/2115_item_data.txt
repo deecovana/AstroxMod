@@ -32,3 +32,8 @@ NPC;+STOCK;4512;2116;83.83492;Biomate University;Void Starcross;14h 1m 15s ;5047
 NPC;+STOCK;8155;2084;59.21635;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;11957;2251;26.13597;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;67;0;70.68083;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;+PRICE;11957;0;30.42702;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;8155;0;62.28291;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;122;0;78.71239;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;74;0;73.39725;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+STOCK;4669;2318;69.21861;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

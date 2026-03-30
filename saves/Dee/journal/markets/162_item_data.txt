@@ -30,3 +30,10 @@ NPC;+QTY;542;140;23.33299;StarShepards Headquarters;Void Starcross;12h 51m 8s ;4
 NPC;+STOCK;268;106;27.11693;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;656;114;22.28171;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;445;0;23.47223;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;-LOCAL;70;70;29.81562;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;+PRICE;152;0;18.19237;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;571;-85;22.17266;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;21;21;29.1375;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;-LOCAL;0;0;64.75;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+PRICE;0;0;76.47177;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;423;-76;23.00074;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

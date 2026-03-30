@@ -10,3 +10,5 @@ NPC;-PRICE;43;0;54697.57;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;28;2;82637.02;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;37;2;105666.9;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;45;2;50357.01;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;37;0;110776.8;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;28;0;85263.63;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

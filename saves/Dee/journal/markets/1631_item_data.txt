@@ -10,3 +10,7 @@ NPC;+QTY;40;8;11091.12;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+PRICE;7;0;15741.06;Terra Drone;Geminey;11h 29m 25s ;41365.69
 NPC;+STOCK;104;9;9227.909;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;89;10;11802.6;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;12;0;14147.74;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;-QTY;83;-6;11840.58;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;104;0;9880.541;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+QTY;10;6;11911.2;Biomart;Veloxi;18h 20m 21s ;66021.78

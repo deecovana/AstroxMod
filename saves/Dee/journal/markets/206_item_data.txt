@@ -30,3 +30,7 @@ NPC;+STOCK;1246;138;80.0706;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.
 NPC;+STOCK;699;104;44.2478;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1258;106;102.3995;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;127;0;112.9897;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
+NPC;+PRICE;772;0;117.1709;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;1246;0;81.31816;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+LOCAL;114;42;71.04567;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
+NPC;BAL;147;147;178.3611;Rendo Labs;Entropy;18h 20m 20s ;66020.74

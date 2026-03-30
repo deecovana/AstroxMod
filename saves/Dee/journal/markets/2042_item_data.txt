@@ -11,3 +11,4 @@ NPC;+STOCK;277;127;115.5496;StarShepards Headquarters;Void Starcross;12h 16m 20s
 NPC;+STOCK;367;107;340.3272;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;367;0;302.0325;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;411;134;111.8738;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;294;-117;111.8738;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

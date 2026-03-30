@@ -6,3 +6,5 @@ NPC;+STOCK;35;9;38296.43;StarGypsy Warehouse;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;45;10;38040.04;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;54;9;37325.11;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;65;11;35486.54;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;65;0;36179.36;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;16;-6;26846.98;Desban;Ellisar;15h 52m 52s ;57172.89

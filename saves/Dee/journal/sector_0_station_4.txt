@@ -3,7 +3,7 @@ Assembly Station
 Vajeana
 Labor
 [c:lime]Dock fee 25[/c]
-Timestamp: 51961.16
+Timestamp: 68016.16
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -443,21 +443,6 @@ Structure Engineer
 
 
 <Station Missions>
-[c:lime]SALVAGE[/c]
-Dismantle <color='yellow'>Special Scrap Part</color> in <color='cyan'>Bitcola</color> and return to ValueStar in <color='cyan'>Hunu</color> with minimum of <color='yellow'>35</color>
-
-[c:lime]FABRICATE[/c]
-Manufacture <color='yellow'>24</color> <color='yellow'>Pressure Sensors</color> at Daemon Ammunitions station fabricator in <color='cyan'>Starfort Ramos</color>
-
-[c:lime]ESCORT[/c]
-<color='yellow'><i>Major Ninefi Fonamweli</i></color> requests an escort from Gemini Mining in <color='cyan'>Jala</color> to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
-
-[c:lime]KILL RAIDERS[/c]
-Hunt <color='yellow'>2 Raiders</color> level 10 in <color='cyan'>Valley of Truths</color> and return to Genistar in <color='cyan'>Blades of Dandrow</color>
-
-[c:lime]HARVEST[/c]
-Harvest <color='yellow'>Special Quazor Ore</color> in <color='cyan'>Jermicus</color> and return with <color='yellow'>89</color> ore to Legistron in <color='cyan'>Dogstar Prime</color>
-
 [c:lime]FABRICATE[/c]
 Produce a light container of <color='yellow'>7</color> <color='yellow'>Gyroscope Drives</color> at the StarShepards Headquarters fabricator in <color='cyan'>Void Starcross</color>
 
@@ -482,9 +467,25 @@ Salvage <color='yellow'>Special Electronic Fragment</color> in <color='cyan'>Bea
 [c:lime]SALVAGE[/c]
 Salvage <color='yellow'>Special Undamaged Part</color> in <color='cyan'>Jermicus</color> and return with <color='yellow'>3</color> to Ferce Hub in <color='cyan'>Semja</color>
 
+[c:lime]DIALOG[/c]
+Transfer a legal document to <color='yellow'><i>Mr. Amsad Xonuh</i></color> in <color='cyan'>Beacon Spita</color>. Return with confirmation at Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]FABRICATE[/c]
+Manufacture <color='yellow'>18</color> <color='yellow'>Micro Processors</color> at Biomate University station fabricator in <color='cyan'>Void Starcross</color>
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Privateer Poezeta Corves</i></color> in <color='cyan'>Kidd Overture</color> and return to OmniTrust in <color='cyan'>Ponze</color>
+
+[c:lime]TRANSPORT[/c]
+Transport a shipment of <color='yellow'>36</color> <color='yellow'>Medical Instruments</color> from Temple of the Void in the <color='cyan'>Vindicati</color> Sector to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]COLLECT[/c]
+Collect a light shipment of <color='yellow'>3</color> <color='yellow'>Foodservice Equipments</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
 
 
 <Station Ships>
+RF-2 Osmose / Frigate    (Recon)
 ES-1 Shuttle / Shuttle    (Excavation)
 EE-1 Mining Escort / Escort    (Excavation)
 EE-2 Advanced Escort / Escort    (Excavation)

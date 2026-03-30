@@ -11,3 +11,5 @@ NPC;+STOCK;98;10;6386.462;Starbase Corporate Center;Void Starcross;12h 16m 20s ;
 NPC;+STOCK;99;8;3552.754;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;96;8;6504.708;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;12;15;3250;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
+NPC;+LOCAL;12;5;3250;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
+NPC;+PRICE;99;0;4015.984;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

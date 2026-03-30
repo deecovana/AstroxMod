@@ -38,3 +38,7 @@ NPC;+STOCK;41;3;20716.04;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50
 NPC;+STOCK;31;3;49138.92;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;56;4;51670.34;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;4;0;29410.07;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
+NPC;+PRICE;45;0;50351.75;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;39;-2;20804.38;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;14;0;25657.04;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;9;-4;47442.86;Nova Labs;Noah Fox;18h 20m 20s ;66020.74

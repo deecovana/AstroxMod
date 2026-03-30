@@ -3,3 +3,5 @@ NPC;+STOCK;59;2;760.7941;Lammassu Financial;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;60;1;758.7;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;62;2;758.7;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+STOCK;64;2;710.9166;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;7;0;485.7609;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;+PRICE;64;0;738.6808;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

@@ -56,3 +56,7 @@ NPC;+STOCK;2476;804;73.64921;Biomate University;Void Starcross;14h 1m 15s ;50475
 NPC;+STOCK;3759;807;80.90598;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;11;0;61.1822;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;BAL;5;0;72.99641;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;-QTY;0;-17;90.62977;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;0;-64;99.81223;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;4;0;56.30298;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;776;775;40.63121;Tella's;Bitcola;18h 20m 21s ;66021.78

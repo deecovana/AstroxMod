@@ -13,3 +13,4 @@ NPC;+QTY;399;147;100.2647;StarShepards Headquarters;Void Starcross;12h 51m 8s ;4
 NPC;+LOCAL;150;27;528.3771;Temple of the Void;Vindicati;13h 32m 8s ;48728.66
 NPC;+STOCK;512;147;618.028;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;504;105;97.07513;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;403;-101;97.07513;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

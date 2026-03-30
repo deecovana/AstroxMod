@@ -26,3 +26,7 @@ NPC;+QTY;47;19;162902.1;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;+STOCK;68;18;61635.53;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;84;16;86853.98;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;170;20;134784.4;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;39;0;69490.59;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;27;0;63901.3;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;26;-18;121232.7;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;+QTY;69;17;160435.3;PharmaLife;Carioullis;18h 20m 21s ;66021.78

@@ -20,3 +20,6 @@ NPC;+QTY;98;23;3169.063;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;+STOCK;183;18;5388.272;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;+STOCK;60;22;3744.063;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;79;18;4147.127;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;139;0;2748.829;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
+NPC;-QTY;169;-19;3630.438;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;25;0;4531.689;Rendo Labs;Entropy;18h 20m 20s ;66020.74

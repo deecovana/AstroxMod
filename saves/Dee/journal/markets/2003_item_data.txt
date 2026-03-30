@@ -35,3 +35,5 @@ NPC;+STOCK;714;102;176.6529;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.
 NPC;+STOCK;256;106;25.19771;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;94;0;142.082;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;BAL;35;0;167.1949;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-QTY;496;-99;90.88301;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;714;0;179.4491;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

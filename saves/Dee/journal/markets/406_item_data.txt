@@ -57,3 +57,12 @@ NPC;+STOCK;3388;743;31.68585;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;5047
 NPC;+STOCK;4583;729;29.616;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1595;706;28.03134;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1730;996;24.51172;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;18;0;26.03436;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+PRICE;7;0;33.75339;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;35;0;19.48594;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;3388;0;32.65078;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;3718;-865;29.63871;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;4;0;32.42424;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;BAL;40;0;30.0933;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;14;0;20.99193;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;743;740;12.75379;Blissheads;Estura Cove;18h 20m 21s ;66021.78

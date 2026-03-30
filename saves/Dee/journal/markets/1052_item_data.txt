@@ -25,3 +25,7 @@ NPC;+QTY;40;9;1615.132;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+STOCK;85;11;1186.741;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;41;11;1462.121;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;42;0;1700.89;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;-QTY;76;-9;1187.001;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;2;0;1462.002;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;BAL;24;-10;1042.924;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;+QTY;20;10;1245.019;Biomart;Veloxi;18h 20m 21s ;66021.78

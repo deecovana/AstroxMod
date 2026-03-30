@@ -54,3 +54,9 @@ NPC;+STOCK;16;4;6026.699;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;21;0;8053.488;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;BAL;9;-4;9545.631;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
 NPC;BAL;5;-2;9823.112;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;+PRICE;20;0;10269.27;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;14;-3;7838.125;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;23;-4;9860.875;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;6;4;6792.656;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+PRICE;25;0;5334.611;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+QTY;10;2;4513.125;Biomart;Veloxi;18h 20m 21s ;66021.78

@@ -5,3 +5,5 @@ NPC;+PRICE;28;0;20813.5;Gek Mining;Alias Outpost;6h 12m 48s ;22368.54
 NPC;+STOCK;64;10;32242.53;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;37;0;15865.18;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
 NPC;+STOCK;72;8;31605.57;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;65;-7;31729.44;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;18;0;40261.24;Desban;Ellisar;16h 46m 45s ;60405.14

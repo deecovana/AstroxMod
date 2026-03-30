@@ -12,3 +12,5 @@ NPC;+STOCK;13;2;103816.4;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;28;2;40165.08;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;18;2;48539.82;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+STOCK;15;2;101272.3;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;28;0;44235.61;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;15;0;106029.4;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

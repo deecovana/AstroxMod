@@ -16,3 +16,7 @@ NPC;-QTY;0;-2;489.3;Quah Relay Station;Noah Fox;9h 48m 4s ;35284.71
 NPC;+PRICE;2;0;566.976;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
 NPC;+STOCK;71;8;1046.213;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;79;8;995.9435;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;61;0;944.4064;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;9;0;676.2177;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;BAL;38;-6;562.253;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;10;-8;555.4763;Rendo Labs;Entropy;18h 20m 20s ;66020.74

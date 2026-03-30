@@ -52,3 +52,11 @@ NPC;+STOCK;1850;170;0.5198147;Proctors Center;Void Starcross;14h 1m 15s ;50475.3
 NPC;+PRICE;575;0;0.6426753;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;731;0;0.889947;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;BAL;195;0;0.8916164;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;+PRICE;213;0;0.346431;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;1862;0;0.7173327;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;961;-192;0.6045656;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;1184;-211;0.6645656;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;363;227;0.3327981;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+PRICE;1046;0;0.4022074;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;567;0;0.8595899;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;14;0;0.7071731;Rendo Labs;Entropy;18h 20m 20s ;66020.74

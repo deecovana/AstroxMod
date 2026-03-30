@@ -52,3 +52,10 @@ NPC;+STOCK;9169;1733;56.70144;StarShepards Headquarters;Void Starcross;14h 1m 15
 NPC;+STOCK;2350;1782;45.2289;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;6652;1725;31.28776;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;60;0;64.3597;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;+PRICE;138;0;33.59958;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;6103;0;35.50507;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;6984;-2185;56.76104;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;0;99;35.54454;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;18601;0;35.3309;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;145;0;39.56721;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;+QTY;1940;1793;72.47289;PharmaLife;Carioullis;18h 20m 21s ;66021.78

@@ -28,3 +28,5 @@ NPC;+STOCK;99;10;200448.1;StarShepards Headquarters;Void Starcross;14h 1m 15s ;5
 NPC;+STOCK;116;14;113497.2;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;35;0;222958.1;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;BAL;38;-9;117434.1;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;-QTY;85;-14;201521.9;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;29;-9;152421.8;Rendo Labs;Entropy;18h 20m 20s ;66020.74

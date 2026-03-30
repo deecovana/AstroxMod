@@ -35,3 +35,11 @@ NPC;+QTY;1073;149;40.77886;StarShepards Headquarters;Void Starcross;12h 51m 8s ;
 NPC;+STOCK;319;114;95.27588;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;173;137;39.55439;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1418;139;53.80943;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;0;0;216.5;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;+PRICE;567;0;71.54483;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;958;-115;40.36318;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;71;71;101.0895;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;-LOCAL;24;24;97.425;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+PRICE;24;0;102.987;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;49;0;67.05788;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;170;84;39.08366;Biomart;Veloxi;18h 20m 21s ;66021.78

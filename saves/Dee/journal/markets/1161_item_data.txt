@@ -29,3 +29,5 @@ NPC;+QTY;19;11;2232.698;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
 NPC;+STOCK;21;9;772.6725;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;12;14;1755;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
 PLAYER;+QTY;76;3;3453.148;Biomate University;Void Starcross;14h 39m 9s ;52749.01
+NPC;+QTY;24;8;2113.087;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;+QTY;24;6;6055.627;Tella's;Bitcola;18h 20m 21s ;66021.78

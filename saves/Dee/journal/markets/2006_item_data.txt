@@ -30,3 +30,5 @@ NPC;BAL;382;-94;253.8868;Psybermind;Ion Child;13h 31m 19s ;48679.5
 NPC;+STOCK;496;120;211.052;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;280;130;46.74669;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;885;145;294.736;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;103;-110;180.9306;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;BAL;133;0;312.7289;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

@@ -32,3 +32,8 @@ NPC;+PRICE;61;0;14705.86;PharmaLife;Carioullis;14h 10m 55s ;51055.01
 NPC;BAL;43;-11;13584.73;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
 NPC;BAL;6;-11;9307.01;Dustardz;Redsky;14h 12m 27s ;51147.38
 NPC;BAL;11;-10;12994.4;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;20;0;13288.78;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;121;0;15321.69;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;78;-7;13141.31;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;35;-13;15188.87;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;4;0;14674.25;Fellacore Research Center;Grace;18h 20m 20s ;66020.74

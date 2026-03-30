@@ -32,3 +32,6 @@ NPC;+STOCK;63;12;94782.94;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.3
 NPC;+STOCK;138;14;92486.52;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;204;13;59110.59;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;36;-13;70249.91;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;+PRICE;137;0;90091.79;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;20;-13;115685.7;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;+QTY;23;10;165216.6;Biomart;Veloxi;18h 20m 21s ;66021.78

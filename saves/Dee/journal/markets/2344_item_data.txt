@@ -5,3 +5,5 @@ NPC;-QTY;23;-1;50035.62;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;+STOCK;25;2;47443.04;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
 NPC;+QTY;5;1;82916.3;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;+QTY;52;1;73759.61;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;BAL;8;-1;62234.54;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
+NPC;BAL;11;-2;70597.41;Rendo Labs;Entropy;18h 20m 20s ;66020.74

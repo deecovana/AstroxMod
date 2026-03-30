@@ -25,3 +25,7 @@ NPC;+QTY;14;9;1879.688;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
 NPC;BAL;3;0;2176.575;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;+STOCK;91;8;1604.323;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;20;8;357.7188;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;18;0;2357.4;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+PRICE;91;0;1692.51;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+STOCK;27;9;2304.667;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+PRICE;7;0;1317.989;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14

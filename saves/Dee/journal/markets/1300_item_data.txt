@@ -7,3 +7,5 @@ NPC;-PRICE;68;0;13158.65;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;174
 NPC;+PRICE;18;0;15669.69;Void Raiders;Corbis Almuni;11h 3m 47s ;39827.63
 NPC;+STOCK;46;9;6083.092;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;53;7;6032.425;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;-QTY;45;-8;5965.225;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;7;0;9598.594;Rendo Labs;Entropy;18h 20m 20s ;66020.74

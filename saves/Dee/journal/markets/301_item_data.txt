@@ -58,3 +58,12 @@ NPC;+STOCK;3056;735;98.20672;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;5047
 NPC;+STOCK;942;942;127.6462;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;2732;981;71.3923;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;26;0;107.0886;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;7;0;94.45396;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+PRICE;80;0;149.654;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;1502;-784;80.01855;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;1;0;140.2134;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;+PRICE;5008;0;44.45187;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-LOCAL;16;16;156.2625;CoraVault;Lins;17h 30m 45s ;63045.81
+NPC;BAL;41;0;116.2843;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;16;0;144.6172;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+LOCAL;1000;4875;45.1425;Star Shepards Hub;Temple Gates;18h 58m 23s ;68303.82

@@ -20,3 +20,5 @@ NPC;-PRICE;35;0;216747.5;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;99;23;202125.6;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;55;18;189967.4;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;54;19;206069.7;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;170;0;203955.6;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;41;-22;245919.7;Desban;Ellisar;15h 52m 52s ;57172.89

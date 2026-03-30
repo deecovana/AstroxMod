@@ -3,7 +3,7 @@ Court Warehouse
 Leibe Leitoei
 Temple
 [c:lime]Dock fee 100[/c]
-Timestamp: 45299.88
+Timestamp: 64559.08
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -66,25 +66,25 @@ Mission Contracts
 <Station Market Orders>
 [c:green]BUY Order[/c] Market Shortage: (1) Items 
  (83) x Memory Chip
-Fulfill order for [c:lime]10,859 profit.[/c]
+Fulfill order for [c:lime]10,520 profit.[/c]
 [c:green]BUY Order[/c] Market Out of Stock: (3) Items 
  (110) x Small Pump
  (60) x LED Lights
  (589) x Pressure Sensor
-Fulfill order for [c:lime]82,940 profit.[/c]
+Fulfill order for [c:lime]80,340 profit.[/c]
 [c:green]BUY Order[/c] Market Shortage: (2) Items 
  (392) x Small Heatsink
  (510) x Motion Sensor
-Fulfill order for [c:lime]86,177 profit.[/c]
+Fulfill order for [c:lime]83,041 profit.[/c]
 [c:red]SELL Order[/c] Sale Request Order: (2) Items 
  (5) x Cloak Booster
  (4) x Basic Energy Armor
-Buy items for [c:lime]41,064 discount.[/c]
+Buy items for [c:lime]41,603 discount.[/c]
 [c:green]BUY Order[/c] Market Demands: (3) Items 
  (232) x Small Motor
  (151) x Motion Sensor
  (96) x Motion Sensor
-Fulfill order for [c:lime]75,372 profit.[/c]
+Fulfill order for [c:lime]73,107 profit.[/c]
 
 
 <Station Market Items>
@@ -221,9 +221,6 @@ x1 Torpedo Launcher  6 - z68,875
 
 
 <Station Missions>
-[c:lime]ESCORT[/c]
-Escort <color='yellow'><i>Commander Peajalis Bazyi</i></color> from StarShepards Headquarters in <color='cyan'>Void Starcross</color> to Genistar in <color='cyan'>Blades of Dandrow</color>
-
 [c:lime]DELIVERY[/c]
 Take medium shipment of <color='yellow'>157</color> <color='yellow'>Aluminium Shards</color> and deliver to <color='cyan'>Gate of Alpharis</color> and dock at Horizons Station
 
@@ -257,11 +254,29 @@ Arrest <color='yellow'><i>Engineer Xakadd Yames</i></color> over an outstanding 
 [c:lime]SCAN[/c]
 Track down and scan <color='yellow'><i>Professor Zilslei Gotmadrest</i></color> in <color='cyan'>Blades of Dandrow</color> and return to Astrox Security Patrol in <color='cyan'>Felishar</color>
 
-[c:lime]DELIVERY[/c]
-Light delivery of <color='yellow'>11</color> <color='yellow'>Servo Controls</color> to Transporteers Station in <color='cyan'>Hunu</color>
-
 [c:lime]KILL RAIDERS[/c]
 Exterminate <color='yellow'>2 Raiders</color> in <color='cyan'>Ambervellis Drea</color> and dock at Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]DIALOG[/c]
+Transfer a legal document to <color='yellow'><i>Father Zepi Velxi</i></color> in <color='cyan'>Lightless</color>. Return with confirmation at Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]DIALOG[/c]
+Detain <color='yellow'><i>Sir Jaglas Fongorepoe</i></color> in <color='cyan'>Hunu</color> and escort them to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]TRANSPORT[/c]
+Move light cargo from Horizons in <color='cyan'>Gate of Alpharis</color> and dock with <color='yellow'>12</color> <color='yellow'>Focused x1 Lasers</color> at Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]DIALOG[/c]
+Transfer a termination notice to <color='yellow'><i>Liaison Naliayi Rijancoan</i></color> in <color='cyan'>Dragon Sea</color> and return to Foodmaid Hub in <color='cyan'>Forges of Mintar</color>
+
+[c:lime]DIALOG[/c]
+Collect a small debt from <color='yellow'><i>Overseer Sipjo Qome</i></color> in <color='cyan'>Bitcola</color> and return to OmniTrust in <color='cyan'>Ponze</color>
+
+[c:lime]KILL[/c]
+Assassinate in-experienced <color='yellow'><i>Czar Lelsa Fonrastfa</i></color> in <color='cyan'>Bitcola</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]RECOVER[/c]
+Retrieve a light cache of <color='yellow'>2</color> <color='yellow'>Ion Beam Class 2s</color> from a <color='yellow'>crate</color> in <color='cyan'>Dragon Sea</color> sector, drop at Lacuna Bandits in <color='cyan'>Ballast Crow</color>
 
 
 

@@ -34,3 +34,8 @@ NPC;+STOCK;3160;2212;1202.314;Starbase Corporate Center;Void Starcross;14h 1m 15
 NPC;+STOCK;8708;2276;466.5354;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;131;0;705.3804;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;BAL;1966;1966;704.3626;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;+PRICE;86;0;1323.323;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;5726;0;1353.528;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+LOCAL;2500;20672;422.6625;CoraVault;Lins;17h 30m 45s ;63045.81
+NPC;+QTY;1823;1771;795.142;Tella's;Bitcola;18h 20m 21s ;66021.78
+NPC;+QTY;1974;1961;704.1069;Blissheads;Estura Cove;18h 20m 21s ;66021.78

@@ -26,3 +26,5 @@ NPC;-PRICE;44;0;5816.241;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;145;10;3251.728;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;89;11;2412.809;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;56;12;5757.275;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;65;0;5855.926;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;BAL;6;0;6345.931;Nova Labs;Noah Fox;18h 20m 20s ;66020.74

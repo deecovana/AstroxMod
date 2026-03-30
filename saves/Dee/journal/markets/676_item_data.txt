@@ -17,3 +17,4 @@ NPC;+QTY;78;18;74223.13;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;100;22;72372.67;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;126;17;66924.91;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+PRICE;32;0;108249.8;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;+PRICE;100;0;76530.32;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07

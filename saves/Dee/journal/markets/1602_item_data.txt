@@ -10,3 +10,7 @@ NPC;-PRICE;62;0;12561.74;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;105;10;7418.921;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;53;11;9003.77;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;70;8;12153.74;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;65;0;6782.297;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
+NPC;+PRICE;60;0;11300.6;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;105;0;7786.501;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+QTY;23;8;5671.968;PharmaLife;Carioullis;18h 20m 21s ;66021.78

@@ -10,3 +10,4 @@ NPC;+STOCK;42;11;8141.694;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.
 NPC;+STOCK;53;11;7798.907;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;12;16;3380;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
 NPC;+PRICE;49;0;8888.374;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+LOCAL;12;3;3380;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42

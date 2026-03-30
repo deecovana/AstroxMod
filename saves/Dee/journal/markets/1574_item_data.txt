@@ -8,3 +8,4 @@ NPC;+QTY;37;11;336233.7;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;48;11;319571.7;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;59;11;303344.8;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;30;-7;222893;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-QTY;17;-6;431864.1;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89

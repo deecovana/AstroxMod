@@ -18,3 +18,6 @@ NPC;+STOCK;41;11;13893.71;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;50;10;27910.21;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;22;10;5709.191;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;52;11;12779.66;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;46;0;25478.93;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;50;0;28599.56;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;BAL;49;-10;20303.88;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

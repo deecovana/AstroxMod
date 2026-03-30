@@ -11,3 +11,5 @@ NPC;+QTY;23;7;1274.211;Ferce;Allabentoris;10h 9m 19s ;36559.19
 NPC;+PRICE;4;0;2221.995;Gunstellar;Adrenal;11h 29m 25s ;41365.69
 NPC;+STOCK;71;11;1637.231;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;71;0;1616.64;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+PRICE;35;0;997.0182;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+PLAYER;+QTY;0;3;0;Biomate University;Void Starcross;16h 59m 22s ;61162.29

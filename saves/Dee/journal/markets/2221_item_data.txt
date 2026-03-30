@@ -10,3 +10,7 @@ NPC;+STOCK;23;2;50333.25;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.4
 NPC;+STOCK;42;2;46737.67;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;75;2;109568.3;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;42;2;46957.93;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;23;0;53856.72;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;29;0;85455.52;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;14;-1;88988.11;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;33;-1;48058.01;Nova Labs;Noah Fox;18h 20m 20s ;66020.74

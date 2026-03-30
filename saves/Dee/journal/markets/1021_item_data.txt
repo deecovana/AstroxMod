@@ -22,3 +22,6 @@ NPC;-PRICE;49;0;8308.939;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288
 NPC;BAL;27;-10;7558.714;Psybermind;Ion Child;13h 31m 19s ;48679.5
 NPC;+STOCK;97;8;4411.339;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;27;0;7832.104;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+LOCAL;12;15;2860;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
+NPC;+PRICE;97;0;4718.62;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+LOCAL;12;5;2860;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42

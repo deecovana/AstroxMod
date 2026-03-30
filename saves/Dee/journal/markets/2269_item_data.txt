@@ -3,3 +3,5 @@ NPC;-QTY;85;-2;32961.42;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+QTY;9;1;45494.75;Blissheads;Estura Cove;4h 50m 45s ;17445.84
 NPC;BAL;34;-1;33253.4;Mazu Starship;Enoch Estates;6h 1m 51s ;21711.47
 NPC;+QTY;85;2;30201.96;Vo Industries;Brimstone;7h 55m 5s ;28505.1
+NPC;+PRICE;17;0;51929.46;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;+PRICE;85;0;35284.54;Cecil;Junia;15h 48m 23s ;56903.07

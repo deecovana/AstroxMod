@@ -30,3 +30,7 @@ NPC;BAL;1;0;56127.48;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
 NPC;+STOCK;77;14;86762.91;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;149;12;89941.59;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;24;12;67525.54;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;132;0;88851.47;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;4;0;83802.19;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;77;0;90351.17;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;135;-14;89608.75;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

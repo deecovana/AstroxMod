@@ -25,3 +25,4 @@ NPC;+QTY;28;3;333261.5;StarShepards Headquarters;Void Starcross;12h 51m 8s ;4626
 NPC;+STOCK;25;4;372540.8;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;31;3;305914.4;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;24;3;538413.4;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;28;-3;304765.5;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

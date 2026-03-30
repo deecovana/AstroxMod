@@ -7,3 +7,5 @@ NPC;+QTY;53;1;333.5371;Vo Industries;Brimstone;7h 55m 5s ;28505.1
 NPC;+QTY;8;1;304.0371;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+STOCK;32;2;158.4202;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;32;0;150.3025;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+PRICE;7;0;188.8941;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;BAL;24;-2;215.2926;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

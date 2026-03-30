@@ -20,3 +20,8 @@ NPC;+STOCK;137;14;2442.381;Starbase Corporate Center;Void Starcross;12h 16m 20s 
 NPC;-PRICE;9;0;2478.673;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
 NPC;+STOCK;119;10;3517.066;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;137;14;2498.573;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;72;0;5795.996;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;76;-11;5556.525;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;9;0;2736.538;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;BAL;105;-7;5164.89;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;1;0;5017.023;Rendo Labs;Entropy;18h 20m 20s ;66020.74

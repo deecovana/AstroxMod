@@ -32,3 +32,7 @@ NPC;+STOCK;725;141;14.41003;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;150;365;10.7575;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
 NPC;BAL;308;-78;31.15387;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
 NPC;BAL;140;0;21.983;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;+PRICE;132;0;34.88766;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+LOCAL;150;122;10.7575;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;+PRICE;150;0;4.150638;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;44;0;29.54613;Desban;Ellisar;16h 46m 45s ;60405.14

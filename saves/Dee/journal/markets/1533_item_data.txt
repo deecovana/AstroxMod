@@ -8,3 +8,4 @@ NPC;+LOCAL;12;13;33412.35;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
 NPC;+STOCK;30;10;62532.16;Biomate University;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;31;10;35596.58;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 PLAYER;-QTY;28;2;62546.61;Biomate University;Void Starcross;14h 42m 7s ;52927.46
+NPC;+PRICE;32;0;60511.17;Legistron;Dogstar Prime;15h 48m 23s ;56903.07

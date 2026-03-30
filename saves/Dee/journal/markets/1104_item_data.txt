@@ -5,3 +5,5 @@ NPC;+STOCK;17;8;3730.93;Imperium Republica ;Gate of Alpharis;9h 25m 28s ;33928.4
 NPC;+QTY;47;10;3589.503;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;56;9;3382.706;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;64;8;3176.36;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;64;0;3297.301;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+PLAYER;-QTY;62;2;3324.913;StarGypsy Warehouse;Void Starcross;16h 47m 28s ;60448.77

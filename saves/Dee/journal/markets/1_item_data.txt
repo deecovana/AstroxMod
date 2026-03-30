@@ -81,3 +81,14 @@ NPC;-LOCAL;5263;0;18;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
 NPC;BAL;233;0;9.776835;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
 NPC;BAL;3333;3333;11.97282;Dustardz;Redsky;14h 12m 27s ;51147.38
 NPC;BAL;3364;0;11.17085;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-LOCAL;5051;0;18;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
+NPC;+PRICE;101;0;10.72075;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;12755;0;7.692642;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;0;-552;7.581;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;13255;-4122;12.7374;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;5009;0;18;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42
+NPC;-LOCAL;4823;0;18;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
+NPC;+PRICE;16933;0;14.38418;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+PLAYER;+QTY;5193;5182;8.353001;CoraVault;Lins;17h 34m 1s ;63241.57
+NPC;-LOCAL;4538;0;18;Acrondia Hub;Temple Gates;18h 6m 36s ;65196.63
+NPC;-LOCAL;4393;0;18;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44

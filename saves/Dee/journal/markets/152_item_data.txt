@@ -31,3 +31,14 @@ NPC;+QTY;268;87;13.32659;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;-PRICE;86;0;9.838532;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
 NPC;+QTY;348;94;8.652589;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
 NPC;+STOCK;1032;116;5.563074;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+PLAYER;-QTY;0;150;3.075;Lammassu Financial;Void Starcross;15h 9m 0s ;54540.04
+NPC;+PRICE;0;0;8.379786;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;1032;0;5.771262;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;195;-122;5.212893;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;+PRICE;86;0;10.28379;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;+PRICE;0;0;1.706956;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;195;0;5.338819;Desban;Ellisar;16h 46m 45s ;60405.14
+PLAYER;+QTY;704;36;7.238551;Biomate University;Void Starcross;16h 59m 43s ;61183.98
+NPC;+QTY;216;100;10.59537;Tella's;Bitcola;18h 20m 21s ;66021.78
+NPC;+QTY;140;108;7.336336;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;+STOCK;212;113;9.773353;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

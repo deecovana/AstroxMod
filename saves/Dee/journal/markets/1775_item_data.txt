@@ -15,3 +15,5 @@ NPC;+QTY;49;11;6709.842;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;-PRICE;75;0;4344.783;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;21;10;7565.218;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;86;11;4093.771;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;1;5727.632;Transporteers;Hunu;18h 15m 58s ;65758.95
+NPC;BAL;31;-8;8887.531;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

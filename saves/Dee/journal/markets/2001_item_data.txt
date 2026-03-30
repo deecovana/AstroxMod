@@ -31,3 +31,6 @@ NPC;+STOCK;654;141;115.8904;Biomate University;Void Starcross;14h 1m 15s ;50475.
 NPC;+STOCK;977;138;66.97818;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;267;117;17.24204;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;150;206;39.1625;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;+PRICE;261;0;52.83425;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;862;-115;67.00854;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;370;0;63.98923;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

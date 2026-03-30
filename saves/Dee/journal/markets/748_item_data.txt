@@ -24,3 +24,6 @@ NPC;-PRICE;46;0;96057.42;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288
 NPC;-PRICE;104;0;112837;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;179;10;122744.9;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;179;14;97028.73;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;87;-14;99629.06;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;+PRICE;2;0;153141.5;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;+PRICE;179;0;100246.7;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

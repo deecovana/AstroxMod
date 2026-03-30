@@ -27,3 +27,5 @@ NPC;+QTY;103;11;155468.1;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+QTY;53;9;138746.4;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;153;14;87850.01;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;64;11;136050.8;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;18;0;168296.3;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;-QTY;53;-11;136304.4;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

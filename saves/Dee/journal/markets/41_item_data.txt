@@ -30,3 +30,9 @@ NPC;+QTY;8364;1921;15.48455;StarShepards Headquarters;Void Starcross;12h 51m 8s 
 NPC;+STOCK;11535;1880;16.08653;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;10253;1889;14.63153;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;3057;2393;11.21341;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;9;0;16.13791;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;+PRICE;432;0;10.63481;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;8984;-1269;14.54823;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;1;0;17.33318;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;+PRICE;11535;0;16.90028;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;62;0;17.05268;Rendo Labs;Entropy;18h 20m 20s ;66020.74

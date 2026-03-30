@@ -18,3 +18,6 @@ NPC;+QTY;967;104;308.9998;StarShepards Headquarters;Void Starcross;12h 51m 8s ;4
 NPC;+STOCK;1012;132;157.8839;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1101;134;292.7091;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;727;-124;358.0353;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;647;0;327.7579;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;597;-87;342.2874;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;973;-128;291.4964;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

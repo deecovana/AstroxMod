@@ -21,3 +21,6 @@ NPC;-PRICE;134;0;77167.31;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;172;12;74393.7;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;151;11;40033.94;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;147;13;74641.02;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;123;0;44818.52;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;37;0;102912.2;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+STOCK;26;13;59204.99;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

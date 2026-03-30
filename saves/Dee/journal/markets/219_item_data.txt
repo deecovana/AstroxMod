@@ -22,3 +22,5 @@ NPC;+LOCAL;150;2;32.7275;Starbase Corporate Center;Void Starcross;12h 16m 28s ;4
 NPC;+STOCK;460;115;77.63759;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;257;107;14.40891;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;150;194;32.7275;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;-QTY;349;-111;77.14501;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;510;-77;93.26769;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

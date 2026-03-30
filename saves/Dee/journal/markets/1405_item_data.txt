@@ -11,3 +11,4 @@ NPC;+QTY;25;10;103640.5;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+QTY;40;6;56155.31;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;48;8;53310.89;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;53;10;113507.7;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;42;-6;53565.31;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

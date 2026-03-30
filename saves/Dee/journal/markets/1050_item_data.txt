@@ -16,3 +16,9 @@ NPC;+STOCK;66;8;777.1915;StarShepards Headquarters;Void Starcross;12h 16m 20s ;4
 NPC;+QTY;77;11;778.8638;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;87;10;719.8758;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;21;0;1393.519;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;26;0;1818.535;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;80;-7;726.7838;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;61;0;1107.171;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;9;0;1140.695;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
+NPC;+QTY;11;9;2165.756;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;+STOCK;31;11;1684.975;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

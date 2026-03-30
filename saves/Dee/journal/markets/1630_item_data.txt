@@ -11,3 +11,5 @@ NPC;-QTY;17;-11;3320.294;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+QTY;44;9;6465.488;Gunstellar;Adrenal;10h 9m 19s ;36559.19
 NPC;+QTY;13;7;5305.2;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
 NPC;BAL;3;0;5818.222;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+PRICE;81;0;3455.325;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+QTY;15;7;4728.284;Blissheads;Estura Cove;18h 20m 21s ;66021.78

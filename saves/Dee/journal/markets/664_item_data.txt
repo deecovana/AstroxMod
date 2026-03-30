@@ -44,3 +44,7 @@ NPC;+STOCK;22;4;98919.55;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50
 NPC;+STOCK;37;4;68606.23;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;11;4;44947;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;34;-2;93908.53;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;40;0;110711.1;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;-QTY;9;-4;73295.63;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;20;-2;98291.38;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;23;-3;79023.98;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

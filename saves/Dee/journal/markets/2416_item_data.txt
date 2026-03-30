@@ -3,3 +3,5 @@ NPC;+PRICE;30;0;975.8393;Monarch Society;Solitudes of Frey;4h 11m 12s ;15072.39
 NPC;+STOCK;58;2;701.3792;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
 NPC;BAL;6;-2;1410.917;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
 NPC;+STOCK;60;2;613.9695;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;3;0;986.5599;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;-QTY;58;-2;613.5982;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

@@ -19,3 +19,7 @@ NPC;+QTY;83;8;2522.82;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268
 NPC;+STOCK;71;8;3077.05;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;+STOCK;92;9;2379.412;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;69;10;4441.487;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;12;0;2960.97;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;-QTY;86;-6;2397.91;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;16;0;5145.677;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;+QTY;8;6;4741.612;Tella's;Bitcola;18h 20m 21s ;66021.78

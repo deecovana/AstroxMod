@@ -8,3 +8,5 @@ NPC;+QTY;7;2;20349;Biomart;Veloxi;4h 47m 5s ;17225.82
 NPC;+STOCK;44;2;7707.752;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;46;2;7430.736;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;27;0;24301.25;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;46;0;7964.44;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+QTY;8;1;20321.92;Biomart;Veloxi;18h 20m 21s ;66021.78

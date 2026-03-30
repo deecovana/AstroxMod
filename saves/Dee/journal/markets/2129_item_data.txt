@@ -28,3 +28,5 @@ NPC;+STOCK;7700;1971;107.7755;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;504
 NPC;+STOCK;2008;1805;123.849;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;7452;1894;111.6871;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;86;0;76.9148;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;-QTY;0;-245;97.35925;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;BAL;114;0;100.5482;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

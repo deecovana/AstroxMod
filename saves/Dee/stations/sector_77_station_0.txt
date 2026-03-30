@@ -42,6 +42,7 @@ MERC;7;1.94;npc_ship_data_(recon_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Shortage: (1) Items ;406x479;16631;104747.10
 BUYORDER;Market Items Req: (2) Items ;406x430,407x110;99152;75342.03
 
 SELLORDER;Market Surplus: (2) Items ;119x174,2004x143;23264.00;57097.21
@@ -268,13 +269,13 @@ ITEM;2253;4;1.14;769040.30
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
-SKILL;58;0.52
-SKILL;41;1.17
-SKILL;44;1.75
-SKILL;230;0.97
-SKILL;33;1.20
-SKILL;24;1.62
-SKILL;56;0.90
+SKILL;58;0.43
+SKILL;41;1.16
+SKILL;44;1.70
+SKILL;230;0.90
+SKILL;33;1.12
+SKILL;24;1.60
+SKILL;56;0.83
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>

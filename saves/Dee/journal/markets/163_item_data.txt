@@ -40,3 +40,10 @@ NPC;+QTY;233;115;40.95868;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+STOCK;320;139;35.40002;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1081;132;34.47013;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;229;133;20.09525;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;261;0;44.63179;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;-LOCAL;71;71;42.1875;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;-LOCAL;33;33;42.1875;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;-LOCAL;0;0;93.75;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+PRICE;0;0;110.7217;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;75;0;38.9789;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;446;97;40.74187;PharmaLife;Carioullis;18h 20m 21s ;66021.78

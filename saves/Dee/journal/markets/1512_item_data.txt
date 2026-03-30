@@ -15,3 +15,4 @@ NPC;+QTY;55;10;20220.13;StarShepards Headquarters;Void Starcross;12h 51m 8s ;462
 NPC;+STOCK;48;10;40112.37;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;63;8;19365.2;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;50;-11;38350.06;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-QTY;55;-8;19257.42;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

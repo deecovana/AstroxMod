@@ -15,3 +15,5 @@ NPC;+STOCK;30;20;74781.38;Biomate University;Void Starcross;12h 16m 20s ;44180.4
 NPC;-PRICE;31;0;116170.1;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;49;19;72089.27;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;47;16;105850.7;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;48;19;205288.4;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+PRICE;17;0;221587;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14

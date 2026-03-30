@@ -21,3 +21,6 @@ NPC;+STOCK;71;8;49071.2;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;42;10;28366.35;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;31;0;26974.14;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+LOCAL;12;20;15080;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;-QTY;36;-6;28586.46;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;71;0;50420.54;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;37;0;49812.81;Desban;Ellisar;16h 46m 45s ;60405.14

@@ -19,3 +19,7 @@ NPC;+STOCK;70;11;121451.4;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;212;10;225877.9;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;71;0;172841.8;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;BAL;14;0;263336.6;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;+PRICE;47;0;239945;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;30;-12;196521.9;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;+STOCK;22;10;268681.9;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+QTY;12;10;145353.1;Tella's;Bitcola;18h 20m 21s ;66021.78

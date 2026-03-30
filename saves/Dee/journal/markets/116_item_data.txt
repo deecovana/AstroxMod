@@ -25,3 +25,4 @@ NPC;-PRICE;1178;0;70.12748;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+QTY;831;234;105.7938;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;595;169;102.2498;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1348;170;66.00618;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;607;0;49.61052;Janca Refinery;Canndelis;15h 8m 41s ;54521.68

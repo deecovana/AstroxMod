@@ -10,3 +10,4 @@ PLAYER;-QTY;35;1;17391.72;Astrox Security Patrol;Felishar;11h 19m 58s ;40798.49
 NPC;+STOCK;81;11;14706.2;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;8;7;8964.047;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+QTY;91;10;14715.53;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;-QTY;81;-10;14631.53;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

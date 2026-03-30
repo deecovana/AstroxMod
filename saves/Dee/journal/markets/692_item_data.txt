@@ -28,3 +28,5 @@ NPC;BAL;18;0;12933.25;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
 NPC;+STOCK;146;23;11232.9;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;263;24;7659.636;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;91;23;6599.712;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;128;0;10648.63;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;-QTY;74;-17;6657.4;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

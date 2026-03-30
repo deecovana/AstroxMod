@@ -25,3 +25,5 @@ NPC;+QTY;149;146;206.5798;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;+STOCK;1019;112;241.7366;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;632;108;150.2998;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;150;230;83.525;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;+PRICE;632;0;154.1358;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+QTY;158;121;182.833;Tella's;Bitcola;18h 20m 21s ;66021.78

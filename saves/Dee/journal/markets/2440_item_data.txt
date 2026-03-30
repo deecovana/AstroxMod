@@ -5,3 +5,7 @@ NPC;-PRICE;40;0;599.0735;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;+PRICE;5;0;291.2358;Dustardz;Redsky;4h 52m 11s ;17531.62
 NPC;+PRICE;5;0;320.522;Dustardz;Redsky;5h 41m 50s ;20510.81
 NPC;-QTY;9;-1;228.9629;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
+NPC;+PRICE;70;0;303.8869;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;9;0;239.1269;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;BAL;54;-1;282.3267;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;18;-1;463.7485;Rendo Labs;Entropy;18h 20m 20s ;66020.74

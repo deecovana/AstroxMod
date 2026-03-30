@@ -31,3 +31,4 @@ NPC;BAL;38;0;44.72331;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
 NPC;BAL;15;0;41.45851;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;+STOCK;12766;2049;15.67145;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;4531;2166;45.6688;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;12766;0;17.85192;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

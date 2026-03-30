@@ -18,3 +18,5 @@ NPC;+STOCK;100;11;3042.99;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.4
 NPC;BAL;31;-10;5374.276;Psybermind;Ion Child;13h 31m 19s ;48679.5
 NPC;+STOCK;111;11;2887.736;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;31;0;5608.042;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;36;0;5900.122;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;111;0;2974.482;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

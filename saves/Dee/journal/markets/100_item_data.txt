@@ -55,3 +55,11 @@ NPC;+STOCK;720;239;0.4776407;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;779;0;0.2843655;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;BAL;114;-188;0.377394;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
 NPC;BAL;506;-186;0.3277012;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;423;0;0.3366737;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;108;0;0.479747;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;1649;0;0.2388107;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;1630;-226;0.2530438;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;2181;0;0.2434467;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;327;0;0.3981892;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;687;-234;0.4546151;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;120;0;0.4497023;Fellacore Research Center;Grace;18h 20m 20s ;66020.74

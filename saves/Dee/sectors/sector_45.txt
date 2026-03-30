@@ -84,6 +84,7 @@ RESOURCE;5;-1408.5;469.6;3487.8;1266;1266
 WARPGATE;1;sector_42.txt;2;-2244.4;202.5;2665.8;0;law;0.0
 WARPGATE;2;sector_44.txt;3;1581.3;-415.4;1225.5;0;law;0.0
 WARPGATE;3;sector_50.txt;1;1979.8;-83.9;-3026.9;0;law;0.0
+WARPGATE;4;generate;1;1792;1736;-199;1;wormhole;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 //PROP;0;0;0;0;0;0;0;lightning 1

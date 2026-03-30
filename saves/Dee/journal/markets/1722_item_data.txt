@@ -7,3 +7,6 @@ NPC;BAL;59;-7;3603.772;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1682
 NPC;+PRICE;57;0;3451.775;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+STOCK;70;11;3479.687;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;69;10;3512.405;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;18;-10;2586.174;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;72;-6;1583.043;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;25;-6;1593.779;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

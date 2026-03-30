@@ -43,3 +43,5 @@ NPC;+STOCK;1345;193;1.947571;StarShepards Headquarters;Void Starcross;14h 1m 15s
 NPC;+STOCK;611;183;2.77912;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1320;245;5.115131;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;338;0;2.216044;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;1365;0;4.516351;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;99;0;5.742102;Desban;Ellisar;16h 46m 45s ;60405.14

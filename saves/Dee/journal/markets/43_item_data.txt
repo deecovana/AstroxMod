@@ -30,3 +30,7 @@ NPC;BAL;223;0;24.2242;Psybermind;Ion Child;13h 31m 19s ;48679.5
 NPC;+LOCAL;2500;19936;10.9525;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
 NPC;+STOCK;4753;1882;23.8124;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;6037;1975;29.30256;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;6037;0;30.41741;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;6;0;25.50792;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;+PRICE;149;0;34.98249;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;+QTY;1939;1835;19.08937;PharmaLife;Carioullis;18h 20m 21s ;66021.78

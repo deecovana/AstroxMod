@@ -1,3 +1,4 @@
 NPC;-PRICE;4;0;62199.47;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
 NPC;+QTY;6;2;62307;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
 NPC;-PRICE;31;0;95311.47;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
+NPC;BAL;30;-1;155934.8;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

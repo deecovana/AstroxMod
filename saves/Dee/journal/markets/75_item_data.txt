@@ -30,3 +30,9 @@ NPC;-PRICE;4779;0;126.7949;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;3593;2104;115.9832;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;7109;2330;122.1004;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;2543;0;77.06315;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;-QTY;0;-67;108.754;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;+PRICE;10359;0;55.27717;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;0;0;110.0437;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;261;0;69.38029;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;17;0;120.3725;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
+NPC;+STOCK;3728;1781;47.4798;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

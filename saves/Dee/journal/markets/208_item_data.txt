@@ -26,3 +26,7 @@ NPC;+QTY;376;115;91.77509;StarShepards Headquarters;Void Starcross;12h 51m 8s ;4
 NPC;+STOCK;521;145;85.71035;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;247;146;145.5971;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1048;106;78.85369;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;46;-145;135.1539;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;378;-143;85.35973;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+LOCAL;150;1339;46.54;CoraVault;Lins;17h 30m 45s ;63045.81
+NPC;BAL;135;135;196.8675;Rendo Labs;Entropy;18h 20m 20s ;66020.74

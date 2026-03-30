@@ -22,3 +22,8 @@ NPC;-PRICE;12;0;306.1337;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+QTY;18;9;1408.933;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
 NPC;BAL;7;0;1590.814;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
 NPC;+STOCK;21;9;306.1337;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;53;0;902.7795;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+STOCK;23;10;2059.561;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+PRICE;20;0;1797.375;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;+QTY;38;11;1216.153;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;+QTY;11;6;1599.532;Tella's;Bitcola;18h 20m 21s ;66021.78

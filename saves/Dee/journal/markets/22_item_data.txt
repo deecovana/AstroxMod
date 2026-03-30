@@ -52,3 +52,7 @@ NPC;+STOCK;21444;4952;115.7811;StarShepards Headquarters;Void Starcross;14h 1m 1
 NPC;+STOCK;4754;4736;405.6659;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;13963;4856;364.3319;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;-LOCAL;549;0;393.75;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;+PRICE;511;0;172.1308;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;20436;0;122.6589;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;23183;0;278.8962;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-LOCAL;534;0;393.75;Transporteers;Hunu;18h 15m 58s ;65758.95

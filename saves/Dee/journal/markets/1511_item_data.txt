@@ -10,3 +10,5 @@ NPC;+STOCK;78;9;5645.589;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;30;7;6593.124;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
 NPC;+STOCK;52;10;11671.3;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;89;11;5468.56;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;75;0;11459.09;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
+NPC;+PRICE;3;0;11821.83;Xellon;Ele;15h 8m 41s ;54521.68

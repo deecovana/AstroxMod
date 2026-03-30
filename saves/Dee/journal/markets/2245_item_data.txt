@@ -5,3 +5,4 @@ NPC;+QTY;55;2;2041686;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;57;2;2013680;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;59;2;1965683;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;88;-1;2034611;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;3;0;1922782;Cecil;Junia;15h 48m 23s ;56903.07

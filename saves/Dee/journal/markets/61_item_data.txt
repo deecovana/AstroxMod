@@ -34,3 +34,7 @@ NPC;+STOCK;11597;1964;89.03845;Lammassu Financial;Void Starcross;14h 1m 15s ;504
 NPC;+STOCK;6836;2413;46.51896;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;2063;0;96.93098;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;+PRICE;4234;0;90.80244;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;+PRICE;0;0;77.44499;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;-QTY;4665;-2171;46.44788;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;11597;0;92.89626;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;39;0;88.53256;Fellacore Research Center;Grace;18h 20m 20s ;66020.74

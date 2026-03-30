@@ -12,3 +12,4 @@ NPC;+QTY;29;11;8648.214;StarShepards Headquarters;Void Starcross;12h 51m 8s ;462
 NPC;+STOCK;38;9;8356.314;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;106;9;7618.333;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;62;0;6943.786;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;-QTY;32;-6;8359.078;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

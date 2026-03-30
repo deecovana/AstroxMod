@@ -28,3 +28,8 @@ NPC;-PRICE;646;0;23.30792;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;172;132;27.84458;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;753;107;22.89306;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;60;0;16.18492;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;-LOCAL;1;1;28.125;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;-LOCAL;0;0;62.5;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;-LOCAL;63;63;29.21729;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;BAL;188;-105;14.136;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;+QTY;188;130;19.03531;Tella's;Bitcola;18h 20m 21s ;66021.78

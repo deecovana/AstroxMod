@@ -27,3 +27,4 @@ NPC;+QTY;7715;2399;287.3106;StarShepards Headquarters;Void Starcross;12h 51m 8s 
 NPC;BAL;27;0;333.3254;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;+STOCK;9758;2043;271.4733;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;3836;2427;335.0496;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;180;0;331.2909;Desban;Ellisar;16h 46m 45s ;60405.14

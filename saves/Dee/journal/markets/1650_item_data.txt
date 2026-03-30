@@ -23,3 +23,6 @@ NPC;+QTY;44;7;3659.432;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;-PRICE;2;0;6767.806;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
 NPC;+STOCK;94;8;2850.192;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;66;8;5305.553;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;52;0;7280.304;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;7;-10;4363.53;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;10;8;7087.922;Tella's;Bitcola;18h 20m 21s ;66021.78

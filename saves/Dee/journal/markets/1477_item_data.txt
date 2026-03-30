@@ -9,3 +9,8 @@ NPC;-QTY;63;-8;159095.6;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;+STOCK;26;8;16781.25;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;37;11;16809.38;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;26;11;136424.8;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;52;48750;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;+LOCAL;12;7;48750;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;+LOCAL;12;6;48750;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+PRICE;12;0;22389.18;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;48;-7;120918.8;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

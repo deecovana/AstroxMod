@@ -23,3 +23,6 @@ NPC;+STOCK;135;10;65160.46;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;+STOCK;59;13;54737.79;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;214;12;58164.21;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;76;14;102690.6;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;73;-13;78608.75;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;202;-12;58608.75;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;59;0;56840.15;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

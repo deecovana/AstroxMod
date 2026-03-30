@@ -16,3 +16,4 @@ NPC;+QTY;85;10;20632.6;StarShepards Headquarters;Void Starcross;12h 51m 8s ;4626
 NPC;+STOCK;48;8;19576.39;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;+STOCK;96;11;19475.96;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;34;11;5108.091;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;15;-7;15079.31;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

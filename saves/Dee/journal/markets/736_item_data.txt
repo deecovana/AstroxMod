@@ -11,3 +11,5 @@ NPC;+QTY;27;4;78381.25;Gunstellar;Adrenal;10h 9m 19s ;36559.19
 NPC;+PRICE;97;0;84122.55;Vo Industries;Brimstone;11h 29m 25s ;41365.69
 NPC;+QTY;130;2;91088.75;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;134;4;87936.01;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;59;-3;45381.25;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;104;-2;61608.75;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89

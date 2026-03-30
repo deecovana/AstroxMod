@@ -7,3 +7,4 @@ NPC;+STOCK;26;11;460.7314;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
 NPC;+STOCK;32;9;647.6367;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
 NPC;+LOCAL;12;67;422.5;Acrondia Hub;Temple Gates;11h 34m 36s ;41676.86
 NPC;BAL;6;0;1167.953;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+PRICE;13;0;569.8115;Gemini Mining;Jala;15h 8m 41s ;54521.68

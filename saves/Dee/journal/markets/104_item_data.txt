@@ -51,3 +51,9 @@ NPC;+STOCK;937;211;1.383884;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;49;0;1.997524;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
 NPC;BAL;106;0;3.001431;Dustardz;Redsky;14h 12m 27s ;51147.38
 NPC;BAL;62;0;2.945317;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;214;0;2.162837;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;1128;0;2.828713;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;671;-126;1.879436;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;1527;-185;2.797436;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;195;166;1.388125;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;BAL;87;0;1.504915;Rendo Labs;Entropy;18h 20m 20s ;66020.74

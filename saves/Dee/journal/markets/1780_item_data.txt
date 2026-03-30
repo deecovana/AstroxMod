@@ -3,3 +3,5 @@ NPC;+STOCK;107;10;5109.283;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;-PRICE;11;0;9826.349;Kinetics Manufacturing;Void Spooflarnia;4h 51m 22s ;17482.65
 NPC;+STOCK;115;8;4815.856;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;115;0;4695.143;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+PRICE;61;0;10411.12;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;BAL;4;0;5785.866;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

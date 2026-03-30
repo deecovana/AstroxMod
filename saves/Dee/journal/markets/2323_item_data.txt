@@ -4,3 +4,4 @@ NPC;-QTY;13;-2;1615716;Starbase Corporate Center;Void Starcross;4h 19m 24s ;1556
 NPC;-QTY;81;-1;2007942;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+STOCK;15;2;1472478;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;15;2;1516786;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;81;0;2127228;Cecil;Junia;15h 48m 23s ;56903.07

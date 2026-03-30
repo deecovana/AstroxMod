@@ -14,3 +14,6 @@ NPC;+PRICE;34;0;15809.44;Gunstellar;Adrenal;11h 29m 25s ;41365.69
 NPC;+STOCK;36;11;6846.515;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;43;7;6904.798;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;53;10;6417.011;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;35;0;13600.77;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;44;-9;6434.465;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;12;0;11372.44;Rendo Labs;Entropy;18h 20m 20s ;66020.74

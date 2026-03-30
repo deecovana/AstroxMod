@@ -1,4 +1,18 @@
 //;LOG DATA FILE (Astrox Imperium)
+COMPLETED;Harvest;Harvest S...;33,764;1145259.04585695;Starbase Corporate Center;Void Starcross;18h 53m 18s 
+ACCEPTED;Harvest;Harvest Special Dynex Ore...;-8325;1142044.15620852;Transporteers;Hunu;18h 10m 37s 
+COMPLETED;Delivery;Light delivery of ;25,920;1150369.15620852;Transporteers;Hunu;18h 9m 48s 
+ACCEPTED;Delivery;Light delivery of 11 Serv...;-25652.55;873728.820271015;Ferce Hub;Semja;17h 51m 28s 
+COMPLETED;Refine;Refine 7;29,918;899381.371052265;Ferce Hub;Semja;17h 45m 30s 
+ACCEPTED;Refine;Refine 7 Metal Fragments ...;-1225;868348.000739574;CoraVault;Lins;17h 37m 3s 
+COMPLETED;Delivery;Light delivery of ;65,914;834005.020270824;CoraVault;Lins;17h 30m 28s 
+ACCEPTED;Delivery;Light delivery of 2 Torpe...;-160000;608190.801520824;Imperium Republica ;Gate of Alpharis;17h 17m 54s 
+COMPLETED;Delivery;Move medium crate of ;44,495;768156.255355358;Horizons;Gate of Alpharis;17h 3m 33s 
+ACCEPTED;Delivery;Move medium crate of 6 Ad...;-58227.9;665533.243636608;Biomate University;Void Starcross;17h 1m 53s 
+COMPLETED;Harvest;Mine Spec...;25,581;729572.874145031;Horizons;Gate of Alpharis;16h 33m 52s 
+ACCEPTED;Harvest;Mine Special Dynex Ore in...;-9342.5;414893.727660656;Biomate University;Void Starcross;16h 9m 38s 
+COMPLETED;Salvage;Dismantle ;39,668;424790.766234875;Rendo Labs;Entropy;15h 57m 33s 
+ACCEPTED;Salvage;Dismantle Special Hull Ch...;-52640;119542.40625;Biomate University;Void Starcross;15h 15m 42s 
 COMPLETED;Recover;Locate a light ;28,278;231606.957360029;Daemon Ammunitions;Starfort Ramos;13h 55m 17s 
 ACCEPTED;Recover;Locate a light Crate in t...;-37500;210739.615398884;Starbase Corporate Center;Void Starcross;11h 57m 14s 
 COMPLETED;Salvage;Dismantle ;17,838;19428.3388671875;Astrox Security Patrol;Felishar;10h 35m 2s 

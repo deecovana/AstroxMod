@@ -8,3 +8,6 @@ NPC;-QTY;48;-9;3819.967;Biomate University;Void Starcross;9h 48m 4s ;35284.71
 NPC;+PRICE;48;0;4266.066;Biomate University;Void Starcross;11h 3m 47s ;39827.63
 NPC;+STOCK;63;11;6442.902;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;59;11;4150.055;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;72;0;10306.35;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;63;0;6785.592;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+LOCAL;8;1;8282.45;Transporteers;Hunu;18h 15m 58s ;65758.95

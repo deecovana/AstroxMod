@@ -23,3 +23,7 @@ NPC;+STOCK;92;8;2235.757;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;46;9;1381.859;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;60;11;950.8701;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;57;-9;1590.256;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;11;0;2206.552;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;46;0;1429.964;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;32;-6;2159.531;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;63;-9;2665.219;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

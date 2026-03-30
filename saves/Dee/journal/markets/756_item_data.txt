@@ -40,3 +40,5 @@ NPC;+STOCK;91;12;6103.891;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;166;13;3296.769;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;68;13;7192.097;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;43;0;16225.58;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+STOCK;42;12;15938.97;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+PRICE;166;0;3529.455;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

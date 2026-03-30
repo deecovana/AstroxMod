@@ -3,3 +3,5 @@ NPC;-PRICE;14;0;9419.803;Crystalis Broadcasting;Jermicus;4h 29m 47s ;16187.74
 NPC;+QTY;27;1;14258.2;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;BAL;45;-2;9579.457;Psybermind;Ion Child;13h 31m 19s ;48679.5
 NPC;+PRICE;45;0;9964.923;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;+PRICE;6;0;9615.375;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;BAL;26;-1;15046.28;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

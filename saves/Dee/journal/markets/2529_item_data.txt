@@ -7,3 +7,4 @@ NPC;-PRICE;13;0;5497.529;Valuestar Hub;Jelumus;4h 51m 22s ;17482.65
 NPC;-QTY;11;-2;11308.85;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;+STOCK;13;2;10657.76;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
 NPC;+STOCK;49;2;12609.5;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
+NPC;BAL;60;-1;6469.6;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

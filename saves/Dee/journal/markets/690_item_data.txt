@@ -29,3 +29,8 @@ NPC;BAL;17;0;11872.03;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
 NPC;+STOCK;68;21;8844.724;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;97;19;14246.93;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;22;0;10127.13;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;23;0;10186.23;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
+NPC;+PRICE;161;0;15454.3;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;3;0;7683.453;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;97;0;14425.26;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;65;-13;8641.313;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

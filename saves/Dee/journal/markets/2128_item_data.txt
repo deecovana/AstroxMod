@@ -45,3 +45,7 @@ NPC;BAL;1628;1628;87.29594;Dustardz;Redsky;14h 12m 27s ;51147.38
 NPC;BAL;393;0;83.43784;Foodmaid;Daelus;14h 12m 27s ;51147.38
 PLAYER;-QTY;1851;400;40.39515;Biomate University;Void Starcross;15h 1m 53s ;54113.96
 PLAYER;-QTY;251;1600;41.35814;Biomate University;Void Starcross;15h 4m 41s ;54281.3
+NPC;-QTY;9076;-1748;42.95823;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;11532;0;38.32005;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;235;0;42.57718;Desban;Ellisar;16h 46m 45s ;60405.14
+PLAYER;-QTY;0;251;42.03014;Biomate University;Void Starcross;18h 31m 0s ;66660.34

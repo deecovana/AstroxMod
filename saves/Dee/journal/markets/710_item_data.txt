@@ -19,3 +19,7 @@ NPC;+STOCK;226;17;2757.252;Biomate University;Void Starcross;14h 1m 15s ;50475.3
 NPC;+STOCK;94;20;3570.175;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;142;22;2208.262;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;13;0;5351.087;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;+PRICE;56;0;3860.937;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+LOCAL;5;1;4004.66;Rendo Labs;Entropy;15h 58m 1s ;57481.61
+NPC;BAL;19;0;4873.719;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
+NPC;BAL;5;0;3081.079;Rendo Labs;Entropy;18h 20m 20s ;66020.74

@@ -57,3 +57,13 @@ PLAYER;+QTY;1776;1776;130;Acrondia Hub;Temple Gates;14h 6m 33s ;50793.13
 NPC;+PRICE;359;0;36.64425;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;66;0;43.46546;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;BAL;2127;-3680;54.55007;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-LOCAL;1521;0;88.89367;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
+NPC;+PRICE;22796;0;43.95396;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;0;-313;59.47825;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;16849;-3964;41.91655;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;1449;0;78.08233;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42
+NPC;-LOCAL;1411;0;59.0223;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
+NPC;+PRICE;8977;0;45.45848;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-LOCAL;462;0;58.5;Acrondia Hub;Temple Gates;18h 6m 36s ;65196.63
+NPC;BAL;180;0;52.21879;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;-LOCAL;389;0;58.5;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44

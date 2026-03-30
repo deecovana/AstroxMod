@@ -13,3 +13,5 @@ NPC;+STOCK;64;11;9076.214;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.
 NPC;-PRICE;61;0;5715.621;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
 NPC;+STOCK;124;11;8189.007;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;74;10;8677.068;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;74;0;8880.625;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;124;0;8297.696;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

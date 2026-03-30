@@ -13,3 +13,6 @@ NPC;+QTY;240;90;109.8594;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;350;110;109.8594;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;225;115;698.1048;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;+STOCK;480;130;109.3163;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;718;0;713.5945;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;0;-46;475.866;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;+LOCAL;150;884;251.03;StarGypsy Warehouse;Void Starcross;16h 46m 55s ;60415.73

@@ -9,3 +9,4 @@ NPC;+STOCK;19;11;10890.19;Starbase Corporate Center;Void Starcross;12h 16m 20s ;
 PLAYER;-QTY;7;1;11136.21;Starbase Corporate Center;Void Starcross;12h 18m 54s ;44334.8
 NPC;+STOCK;30;9;11209.61;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;14;0;12790.53;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;+PRICE;30;0;11394.25;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

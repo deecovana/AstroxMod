@@ -24,3 +24,7 @@ NPC;+STOCK;36;4;186459.6;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;38;4;345737.5;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;26;3;366702.2;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;22;4;360093.8;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;36;0;206424;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;34;-4;345574.1;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;40;0;345118.3;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;24;-3;403794.9;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

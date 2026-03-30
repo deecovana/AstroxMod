@@ -9,3 +9,4 @@ NPC;+STOCK;33;9;37598.36;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;76;9;28010.63;Biomate University;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;43;10;35759.77;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;43;0;32087.77;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+PRICE;57;0;83519.2;Janca Refinery;Canndelis;15h 8m 41s ;54521.68

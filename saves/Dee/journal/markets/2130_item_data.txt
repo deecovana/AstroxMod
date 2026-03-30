@@ -34,3 +34,6 @@ NPC;+STOCK;5406;1824;163.8807;StarShepards Headquarters;Void Starcross;14h 1m 15
 NPC;+STOCK;4694;2432;105.6393;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;9254;1901;52.028;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;38;0;109.9287;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;-QTY;0;-248;120.9937;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;3261;-2145;164.5228;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;7602;0;83.0332;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

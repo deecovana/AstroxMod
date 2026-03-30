@@ -53,3 +53,15 @@ NPC;+STOCK;4712;3363;49.59403;Starbase Corporate Center;Void Starcross;14h 1m 15
 NPC;+STOCK;4795;3848;104.7069;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;-LOCAL;0;0;235;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
 NPC;BAL;81;0;117.2107;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
+NPC;-LOCAL;11;11;110.2594;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
+NPC;-QTY;0;-155;92.47838;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;18147;-4896;86.11222;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;0;0;129.5712;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42
+NPC;-LOCAL;0;0;164.0258;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
+PLAYER;+QTY;1902;1902;184.0395;Acrondia Hub;Temple Gates;16h 31m 37s ;59497.15
+NPC;+PRICE;18677;0;45.46232;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-LOCAL;1332;0;105.75;Acrondia Hub;Temple Gates;18h 6m 36s ;65196.63
+PLAYER;+QTY;3864;2532;111.2846;Acrondia Hub;Temple Gates;18h 6m 45s ;65205.02
+NPC;BAL;671;0;84.99236;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;296;0;104.695;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;-LOCAL;3791;0;105.75;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44

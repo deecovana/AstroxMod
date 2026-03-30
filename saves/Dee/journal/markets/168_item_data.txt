@@ -45,3 +45,14 @@ NPC;+STOCK;1071;131;47.78202;StarShepards Headquarters;Void Starcross;14h 1m 15s
 NPC;+STOCK;1414;106;33.91682;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;332;0;28.13282;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;185;0;48.03365;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;+PRICE;106;0;47.17409;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;+LOCAL;150;1213;17.9075;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;+LOCAL;150;159;17.9075;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
+NPC;+PRICE;97;0;59.59833;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;190;-92;61.92207;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;992;-79;47.72142;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;274;100;21.50921;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;BAL;86;-105;38.13161;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;225;134;30.93383;Tella's;Bitcola;18h 20m 21s ;66021.78
+NPC;+QTY;269;84;47.74139;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;+STOCK;200;143;59.93435;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

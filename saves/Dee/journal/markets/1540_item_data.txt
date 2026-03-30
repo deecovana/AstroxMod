@@ -16,3 +16,6 @@ NPC;+STOCK;99;9;976.0654;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;9;0;695.3917;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
 NPC;BAL;6;0;709.8516;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
 NPC;+STOCK;109;10;928.1642;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;16;0;491.8034;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;9;0;747.9843;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;BAL;3;0;933.6945;Fellacore Research Center;Grace;18h 20m 20s ;66020.74

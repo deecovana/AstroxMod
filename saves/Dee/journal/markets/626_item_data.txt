@@ -29,3 +29,5 @@ NPC;+STOCK;14;3;376794.8;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;14;4;56974.13;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;22;3;139726.2;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;42;4;247994.8;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;10;-4;56974.13;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;41;0;117896.8;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

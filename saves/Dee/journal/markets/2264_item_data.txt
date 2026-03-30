@@ -8,3 +8,5 @@ NPC;+STOCK;72;2;13535.91;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;25;2;13491.49;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;BAL;3;-1;12326.72;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;+STOCK;74;2;12790.98;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;74;0;13082.38;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+STOCK;7;2;12298.19;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

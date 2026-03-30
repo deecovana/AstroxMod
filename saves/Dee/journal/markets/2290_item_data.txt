@@ -3,3 +3,5 @@ NPC;+QTY;18;2;69113.3;Ferce;Allabentoris;7h 55m 5s ;28505.1
 NPC;+QTY;17;1;88227.96;PharmaLife;Carioullis;10h 9m 19s ;36559.19
 NPC;+QTY;19;2;88140.55;PharmaLife;Carioullis;12h 33m 5s ;45185.51
 NPC;+QTY;10;1;51003.38;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
+NPC;+PRICE;40;0;63139.32;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;+QTY;20;1;87978.83;PharmaLife;Carioullis;18h 20m 21s ;66021.78

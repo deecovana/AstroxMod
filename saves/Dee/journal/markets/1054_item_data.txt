@@ -25,3 +25,6 @@ NPC;BAL;12;-6;2200.266;Psybermind;Ion Child;13h 31m 19s ;48679.5
 NPC;+STOCK;37;8;2246.463;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;12;0;2266.315;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;BAL;12;0;2362.344;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;+PRICE;0;0;2553.028;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;-QTY;31;-6;2234.023;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;4;0;2138.537;Rendo Labs;Entropy;18h 20m 20s ;66020.74

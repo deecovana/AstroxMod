@@ -69,3 +69,8 @@ NPC;+STOCK;30;3;2260.335;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;30;3;4308.18;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;15;3;730.4375;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;59;4;4594.123;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;4;0;3881.137;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;-QTY;17;-2;5730.438;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;12;-3;730.4375;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;30;0;2406.499;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;21;0;3152.569;Desban;Ellisar;16h 46m 45s ;60405.14

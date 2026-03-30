@@ -9,3 +9,5 @@ NPC;+PRICE;38;0;4128.413;Nova Labs;Noah Fox;4h 16m 43s ;15403.89
 NPC;+PRICE;35;0;4211.071;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;+STOCK;62;8;1710.845;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;69;7;1704.471;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
+NPC;-QTY;63;-6;1685.914;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;29;-9;3961.853;Nova Labs;Noah Fox;18h 20m 20s ;66020.74

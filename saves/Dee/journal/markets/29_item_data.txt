@@ -20,3 +20,4 @@ NPC;-PRICE;12480;0;11420.09;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;9820;4518;9827.377;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;3860;3826;17030.18;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;-LOCAL;92;0;16920;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+PLAYER;+QTY;5304;2;10505.44;Biomate University;Void Starcross;16h 56m 18s ;60978.73

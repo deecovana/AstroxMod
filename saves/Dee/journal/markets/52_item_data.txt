@@ -28,3 +28,7 @@ NPC;BAL;21;0;30.09753;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;+LOCAL;2500;28322;15.21;Daemon Ammunitions;Starfort Ramos;13h 55m 34s ;50134
 NPC;+STOCK;5898;1963;40.44947;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;3970;1936;34.93177;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;87;0;38.65821;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;5898;0;41.8525;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+QTY;1768;1674;47.3341;Tella's;Bitcola;18h 20m 21s ;66021.78
+NPC;+STOCK;1711;1701;47.50662;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

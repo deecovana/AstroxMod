@@ -12,3 +12,4 @@ NPC;+STOCK;57;4;599336.2;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+LOCAL;5;1;627268.8;Vo Industries;Brimstone;12h 43m 27s ;45807.53
 NPC;+QTY;34;3;561601.1;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;38;4;533333.3;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;34;-4;534109.1;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

@@ -26,3 +26,7 @@ NPC;+QTY;680;141;70.81834;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+STOCK;1127;117;49.91413;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;31;0;34.37662;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;BAL;602;-134;65.95636;Foodmaid;Daelus;14h 12m 27s ;51147.38
+PLAYER;-QTY;26;12;32.147;Horizons;Gate of Alpharis;16h 34m 29s ;59669.25
+NPC;+PRICE;1127;0;50.51464;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+PLAYER;+QTY;29;3;32.68175;Horizons;Gate of Alpharis;17h 4m 1s ;61441.58
+NPC;BAL;115;115;86.85672;Rendo Labs;Entropy;18h 20m 20s ;66020.74

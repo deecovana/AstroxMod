@@ -42,3 +42,6 @@ NPC;+STOCK;3901;1728;72.57376;Starbase Corporate Center;Void Starcross;14h 1m 15
 NPC;+STOCK;9047;2328;20.42116;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;117;0;39.02996;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
 NPC;BAL;1671;0;92.10873;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;381;0;45.77558;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;10360;0;44.96068;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;151;0;68.07742;Desban;Ellisar;16h 46m 45s ;60405.14

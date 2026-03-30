@@ -21,3 +21,5 @@ NPC;+QTY;1271;126;1147.487;StarShepards Headquarters;Void Starcross;12h 51m 8s ;
 NPC;+STOCK;499;129;200.2765;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1411;140;1124.321;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;585;108;1226.854;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;1306;-105;1126.543;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+LOCAL;150;739;459.9075;StarGypsy Warehouse;Void Starcross;16h 46m 55s ;60415.73

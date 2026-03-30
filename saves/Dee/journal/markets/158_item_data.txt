@@ -49,3 +49,9 @@ NPC;BAL;67;0;31.31005;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
 NPC;+STOCK;554;122;36.57689;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;519;100;48.14309;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1014;107;12.90655;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;716;14.7225;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;-QTY;0;-27;23.37876;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;+LOCAL;150;111;14.7225;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+PRICE;150;0;7.216647;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;321;0;19.33257;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;+STOCK;194;111;38.30305;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

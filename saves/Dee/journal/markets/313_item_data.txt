@@ -62,3 +62,9 @@ NPC;+PRICE;797;0;93.34572;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;12;0;210.12;PharmaLife;Carioullis;14h 10m 55s ;51055.01
 NPC;BAL;22;0;145.8019;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
 NPC;BAL;934;0;196.1921;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;76;0;98.37089;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;24;0;201.6036;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;1940;0;223.3663;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;3131;-882;97.03472;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+PRICE;4794;0;99.69109;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-LOCAL;80;80;220.05;StarGypsy Warehouse;Void Starcross;16h 46m 55s ;60415.73

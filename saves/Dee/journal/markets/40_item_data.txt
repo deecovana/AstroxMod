@@ -40,3 +40,6 @@ NPC;+STOCK;2056;1847;9.587366;Starbase Corporate Center;Void Starcross;14h 1m 15
 NPC;+STOCK;8743;1990;9.686881;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;163;0;10.27712;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
 NPC;BAL;54;0;10.60325;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;+PRICE;9567;0;15.46077;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;74;0;7.240745;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;+QTY;2398;2269;11.41382;PharmaLife;Carioullis;18h 20m 21s ;66021.78

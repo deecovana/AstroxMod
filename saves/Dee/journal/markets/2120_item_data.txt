@@ -23,3 +23,7 @@ NPC;+STOCK;3970;1786;340.8501;Starbase Corporate Center;Void Starcross;12h 16m 2
 NPC;-PRICE;1357;0;141.7109;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
 NPC;+STOCK;6854;1848;279.0631;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;4483;2299;342.6534;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;87;0;305.3905;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+LOCAL;2500;17308;131.755;CoraVault;Lins;17h 30m 45s ;63045.81
+NPC;BAL;1426;1525;359.1202;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;BAL;79;0;328.0186;Rendo Labs;Entropy;18h 20m 20s ;66020.74

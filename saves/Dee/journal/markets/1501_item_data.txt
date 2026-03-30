@@ -13,3 +13,6 @@ NPC;+STOCK;51;9;1830.591;StarShepards Headquarters;Void Starcross;12h 16m 20s ;4
 NPC;+QTY;58;7;1822.029;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;67;9;1736.389;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;23;0;2117.945;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;+PRICE;16;0;1532.931;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;-QTY;57;-10;1735.276;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+QTY;20;7;1324.509;Biomart;Veloxi;18h 20m 21s ;66021.78

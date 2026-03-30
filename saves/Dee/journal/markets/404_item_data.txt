@@ -65,3 +65,13 @@ NPC;+STOCK;1098;886;19.967;Starbase Corporate Center;Void Starcross;14h 1m 15s ;
 NPC;+STOCK;2439;870;14.03702;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;7;0;17.55136;Dustardz;Redsky;14h 12m 27s ;51147.38
 NPC;BAL;32;0;28.93892;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;18;0;24.29004;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;+PRICE;82;0;29.03963;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;0;0;10.4085;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;806;0;63.59118;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;0;-7;22.65219;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;2513;-790;9.402187;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;3;3;29.27469;StarGypsy Warehouse;Void Starcross;16h 46m 55s ;60415.73
+NPC;BAL;12;0;12.93998;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;1496;709;16.66125;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;+QTY;606;605;26.03531;Blissheads;Estura Cove;18h 20m 21s ;66021.78

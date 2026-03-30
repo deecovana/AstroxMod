@@ -35,3 +35,8 @@ NPC;+STOCK;45;10;1014.181;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.3
 NPC;+STOCK;21;9;393.4906;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;109;10;769.0675;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;12;21;893.75;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;+PRICE;23;0;2730.743;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;45;0;1126.38;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+PRICE;3;0;2278.96;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
+NPC;+PRICE;74;0;2111.677;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+QTY;23;11;1818.609;Biomart;Veloxi;18h 20m 21s ;66021.78

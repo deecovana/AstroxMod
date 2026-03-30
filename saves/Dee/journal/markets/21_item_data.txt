@@ -67,3 +67,11 @@ NPC;+STOCK;3812;3779;231.1659;Starbase Corporate Center;Void Starcross;14h 1m 15
 NPC;+STOCK;11943;3376;93.42704;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;2691;2691;220.4362;Dustardz;Redsky;14h 12m 27s ;51147.38
 NPC;-LOCAL;18;18;234.3219;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;+PRICE;509;0;226.5273;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
+NPC;+PRICE;2851;0;140.7116;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+PRICE;21687;0;161.5314;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;16519;-3764;109.2175;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;786;0;225;Transporteers;Hunu;18h 15m 58s ;65758.95
+NPC;BAL;46;0;142.1463;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;119;0;170.6277;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;4252;4121;94.2825;Tella's;Bitcola;18h 20m 21s ;66021.78

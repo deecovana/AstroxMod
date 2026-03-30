@@ -3,3 +3,6 @@ NPC;+PRICE;10;0;9514.909;Medicore University;Cliffs of Drameria;2h 29m 20s ;8960
 NPC;+PRICE;1;0;17230.77;Holosynth Industries;Rats Of Mortalis;4h 16m 43s ;15403.89
 NPC;+LOCAL;12;45;6500;Acrondia Hub;Temple Gates;4h 47m 52s ;17272.47
 NPC;+QTY;12;11;17188.75;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
+NPC;+LOCAL;12;13;6500;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
+NPC;-QTY;29;-10;17276.25;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;+LOCAL;12;4;6500;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42

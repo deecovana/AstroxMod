@@ -48,3 +48,15 @@ NPC;+STOCK;770;135;35.32977;StarShepards Headquarters;Void Starcross;14h 1m 15s 
 NPC;+LOCAL;150;620;23.3025;Biomate University;Void Starcross;14h 3m 2s ;50582.58
 NPC;BAL;99;-144;47.28967;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
 NPC;+LOCAL;150;46;23.3025;Biomate University;Void Starcross;14h 30m 11s ;52211.07
+NPC;+LOCAL;150;2;23.3025;Biomate University;Void Starcross;15h 7m 31s ;54451.33
+NPC;+PRICE;0;0;179.7876;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+LOCAL;150;10;23.3025;Biomate University;Void Starcross;15h 13m 35s ;54815.94
+NPC;+PRICE;1155;0;72.14877;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;576;-87;80.74047;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;663;-107;35.56947;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+LOCAL;150;99;23.3025;Biomate University;Void Starcross;16h 3m 55s ;57835.64
+NPC;-LOCAL;0;0;179.25;Horizons;Gate of Alpharis;16h 34m 1s ;59641.66
+NPC;+LOCAL;150;51;23.3025;Biomate University;Void Starcross;16h 40m 10s ;60010.47
+NPC;+PRICE;853;0;49.17418;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-LOCAL;0;0;179.25;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
+NPC;+LOCAL;150;127;23.3025;Biomate University;Void Starcross;18h 28m 19s ;66499.89

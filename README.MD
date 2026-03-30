@@ -1,5 +1,8 @@
 # "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
 
+## 0331 Ready for Battle! 
+- Try Raiders
+
 ## 0327 Continue Dee 
 - Created folders for 1280x and 1600x
 - Removed Deleted remote branches in local repo manually

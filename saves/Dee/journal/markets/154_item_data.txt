@@ -40,3 +40,8 @@ NPC;+STOCK;431;115;17.67381;Biomate University;Void Starcross;14h 1m 15s ;50475.
 NPC;+STOCK;316;111;48.82796;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;913;143;34.54492;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;47;0;22.54636;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;-LOCAL;3;3;52.425;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;-LOCAL;10;10;52.425;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;-LOCAL;2;2;52.425;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+PRICE;2;0;55.91904;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;56;-122;31.90343;Rendo Labs;Entropy;18h 20m 20s ;66020.74

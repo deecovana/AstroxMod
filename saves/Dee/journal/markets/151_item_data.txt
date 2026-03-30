@@ -37,3 +37,10 @@ NPC;+STOCK;894;141;9.904266;Biomate University;Void Starcross;14h 1m 15s ;50475.
 NPC;+STOCK;282;132;1.400781;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;681;135;7.04311;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1197;115;7.268169;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;150;912;4.0625;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;+PRICE;46;0;13.92869;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+PRICE;681;0;7.44202;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;1092;-105;7.326094;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+LOCAL;150;132;4.0625;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
+NPC;+LOCAL;150;126;4.0625;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+PRICE;150;0;1.95679;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

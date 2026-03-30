@@ -55,3 +55,14 @@ NPC;+STOCK;1536;226;0.5537714;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;504
 NPC;+STOCK;2111;174;0.3543213;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1919;234;0.3150807;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;276;0;0.5031251;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;+PRICE;1536;0;0.5670798;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;736;-245;0.4656005;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;1893;-218;0.3552005;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;224;194;0.463351;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+PRICE;1477;0;0.4377219;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+PRICE;441;0;0.5533427;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;273;-177;0.4941072;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;52;0;0.8070689;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
+NPC;BAL;139;0;0.843788;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;BAL;10;0;0.876644;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;201;127;0.4888995;Blissheads;Estura Cove;18h 20m 21s ;66021.78

@@ -27,3 +27,4 @@ NPC;+STOCK;6282;2179;15.08701;Proctors Center;Void Starcross;14h 1m 15s ;50475.3
 NPC;BAL;301;0;12.76075;Foodmaid;Daelus;14h 12m 27s ;51147.38
 PLAYER;-QTY;817;1000;23.4819;Biomate University;Void Starcross;14h 53m 41s ;53621.35
 PLAYER;+QTY;1817;1000;23.7489;Biomate University;Void Starcross;15h 5m 21s ;54321.32
+NPC;+PRICE;148;0;18.48052;Desban;Ellisar;16h 46m 45s ;60405.14

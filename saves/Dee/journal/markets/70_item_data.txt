@@ -26,3 +26,5 @@ NPC;-PRICE;5381;0;4.420708;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;6423;2449;5.058907;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;8326;1785;4.607487;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;7248;1867;4.075131;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;347;0;7.241235;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;BAL;88;0;6.403539;Rendo Labs;Entropy;18h 20m 20s ;66020.74

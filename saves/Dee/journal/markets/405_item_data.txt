@@ -57,3 +57,13 @@ NPC;+STOCK;3074;830;21.41189;StarShepards Headquarters;Void Starcross;14h 1m 15s
 NPC;+STOCK;1547;745;16.76081;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;2692;992;13.1713;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;28;0;13.15943;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
+NPC;+PRICE;32;0;35.21862;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;775;0;90.38937;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;0;-45;20.88819;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;-QTY;0;-636;24.05871;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;2374;-700;21.26871;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;0;0;77.5;StarGypsy Warehouse;Void Starcross;16h 46m 55s ;60415.73
+NPC;BAL;31;0;21.98444;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;2;0;17.99167;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;BAL;1;0;17.38988;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;566;543;18.79995;PharmaLife;Carioullis;18h 20m 21s ;66021.78

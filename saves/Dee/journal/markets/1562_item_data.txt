@@ -17,3 +17,11 @@ NPC;+LOCAL;12;17;4145.667;Biomate University;Void Starcross;9h 55m 27s ;35727.44
 NPC;+PRICE;20;0;11110.13;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
 NPC;+STOCK;20;8;1509.023;Biomate University;Void Starcross;12h 16m 20s ;44180.46
 NPC;+LOCAL;12;4;4145.667;Biomate University;Void Starcross;14h 30m 11s ;52211.07
+NPC;+LOCAL;12;1;4145.667;Biomate University;Void Starcross;15h 7m 31s ;54451.33
+NPC;+LOCAL;12;2;4145.667;Biomate University;Void Starcross;15h 13m 35s ;54815.94
+NPC;+PRICE;88;0;13283.47;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+LOCAL;12;7;4145.667;Biomate University;Void Starcross;16h 3m 55s ;57835.64
+NPC;+LOCAL;12;4;4145.667;Biomate University;Void Starcross;16h 40m 10s ;60010.47
+NPC;+LOCAL;12;2;4145.667;Biomate University;Void Starcross;16h 54m 46s ;60886.23
+NPC;BAL;28;-11;11043.06;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;+LOCAL;12;12;4145.667;Biomate University;Void Starcross;18h 28m 19s ;66499.89

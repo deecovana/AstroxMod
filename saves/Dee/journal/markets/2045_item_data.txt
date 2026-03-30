@@ -14,3 +14,4 @@ NPC;+QTY;353;87;341.4735;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46
 NPC;+LOCAL;64;28;1831.819;Temple of the Void;Vindicati;13h 32m 8s ;48728.66
 NPC;+STOCK;1148;133;921.5565;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;393;-140;2207.227;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-QTY;231;-122;330.6107;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

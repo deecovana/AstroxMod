@@ -20,3 +20,6 @@ NPC;+STOCK;444;148;53.19448;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;4418
 NPC;+STOCK;591;117;192.5328;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;+STOCK;903;115;249.3655;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;552;108;52.93152;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;585;-77;159.3567;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;+PRICE;903;0;265.4994;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+LOCAL;150;707;121.55;StarGypsy Warehouse;Void Starcross;16h 46m 55s ;60415.73

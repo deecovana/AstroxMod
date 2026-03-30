@@ -29,3 +29,6 @@ NPC;+STOCK;125;9;9993.614;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;21;0;5358.917;PharmaLife;Carioullis;14h 10m 55s ;51055.01
 NPC;+LOCAL;12;17;3770;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
 PLAYER;-QTY;91;2;4749.874;Biomate University;Void Starcross;14h 55m 27s ;53727.54
+PLAYER;+QTY;93;2;4854.6;Biomate University;Void Starcross;16h 58m 54s ;61134.8
+NPC;BAL;1;0;9328.562;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;+QTY;32;11;5294.82;PharmaLife;Carioullis;18h 20m 21s ;66021.78

@@ -31,3 +31,6 @@ NPC;-PRICE;646;0;43.04943;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+QTY;290;131;81.04824;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+STOCK;758;112;42.08412;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;779;-86;80.46938;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;118;0;87.95036;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;105;105;99.54609;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;313;148;57.71714;PharmaLife;Carioullis;18h 20m 21s ;66021.78

@@ -8,3 +8,5 @@ NPC;+QTY;18;6;31500;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+LOCAL;12;20;91000;Lammassu Financial;Void Starcross;8h 2m 38s ;28958.74
 NPC;+PRICE;49;0;318870;Gunstellar;Adrenal;11h 29m 25s ;41365.69
 NPC;+STOCK;21;9;31325;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
+NPC;+LOCAL;12;56;91000;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
+NPC;+LOCAL;12;7;91000;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67

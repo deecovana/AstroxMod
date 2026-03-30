@@ -5,3 +5,4 @@ NPC;+STOCK;271;121;160.3481;StarShepards Headquarters;Void Starcross;12h 16m 20s
 NPC;+QTY;406;135;160.3481;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+LOCAL;54;29;779.9683;Temple of the Void;Vindicati;13h 32m 8s ;48728.66
 NPC;+STOCK;519;113;155.2472;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;112;0;1029.518;Legistron;Dogstar Prime;15h 48m 23s ;56903.07

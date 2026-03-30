@@ -15,3 +15,6 @@ NPC;+PRICE;17;0;4247.911;Inovex;Goru Populan;11h 3m 47s ;39827.63
 NPC;+QTY;64;10;3619.063;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;+STOCK;105;11;4403.15;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;15;10;4189.116;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+LOCAL;12;7;2324.247;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
+NPC;BAL;3;-11;4712.057;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+PLAYER;-QTY;92;2;4632.25;Biomate University;Void Starcross;18h 29m 54s ;66594.07

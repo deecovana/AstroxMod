@@ -5,3 +5,4 @@ NPC;+STOCK;57;10;99153.39;StarShepards Headquarters;Void Starcross;12h 16m 20s ;
 NPC;-PRICE;19;0;77217.63;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
 NPC;+QTY;66;9;99569.05;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;76;10;94214.46;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;70;-6;94828.47;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

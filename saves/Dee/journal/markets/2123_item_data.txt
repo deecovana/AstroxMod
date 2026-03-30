@@ -38,3 +38,6 @@ NPC;+STOCK;12360;2062;618.7234;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50
 NPC;+STOCK;1964;2063;599.4613;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;7815;1676;429.948;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;8583;1667;855.1613;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;1964;0;633.6567;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;5389;-2426;432.9579;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;1;0;738.0953;Nova Labs;Noah Fox;18h 20m 20s ;66020.74

@@ -6,3 +6,5 @@ NPC;+PRICE;1;0;128644.5;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;+STOCK;81;2;80984.7;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;81;2;80869.38;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;13;-1;107381.6;Dustardz;Redsky;14h 12m 27s ;51147.38
+NPC;+PRICE;13;0;109880.2;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
+NPC;+PRICE;35;0;165200.5;Janca Refinery;Canndelis;15h 8m 41s ;54521.68

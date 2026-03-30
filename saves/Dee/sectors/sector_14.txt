@@ -73,7 +73,7 @@ CLUSTER;1;100;10;200;2000;3830;2;-5269
 CLUSTER;1;100;10;100;2000;-3327;0;-3735
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;-3424.0;-166.0;-3575.0;500;500
+RESOURCE;1;-3452.1;-166.7;-3601.2;500;85
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
 WARPGATE;1;sector_0.txt;2;3550;201;2705;0;Alpha;-0.4;prescan

@@ -19,3 +19,7 @@ NPC;+STOCK;138;11;6279.63;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.3
 NPC;+STOCK;111;12;8926.948;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;228;10;8480.629;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;95;-13;14423.78;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;+PRICE;67;0;13627.44;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;138;0;6851.153;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;97;-14;8941.313;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;41;-8;12077.28;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

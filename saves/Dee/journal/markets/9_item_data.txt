@@ -21,3 +21,11 @@ NPC;+STOCK;18731;4091;496.9829;StarShepards Headquarters;Void Starcross;14h 1m 1
 NPC;+STOCK;7948;4013;1093.953;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;-LOCAL;0;0;2325;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
 NPC;BAL;3903;0;944.2542;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-LOCAL;0;0;2325;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
+NPC;+PRICE;335;0;1055.095;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+PRICE;266;0;999.9955;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;16137;-2594;498.5614;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-LOCAL;0;0;2325;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42
+NPC;-LOCAL;1;1;1085.26;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
+NPC;-LOCAL;0;0;1964.725;Acrondia Hub;Temple Gates;18h 6m 36s ;65196.63
+NPC;-LOCAL;7;7;1046.25;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44

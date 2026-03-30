@@ -42,3 +42,7 @@ NPC;+STOCK;3228;715;74.21152;Lammassu Financial;Void Starcross;14h 1m 15s ;50475
 NPC;+STOCK;4232;704;127.9008;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;1216;965;128.5555;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;2678;940;97.86971;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-LOCAL;7;7;161.775;Vo Industries;Brimstone;15h 37m 28s ;56248.27
+NPC;+PRICE;30;0;140.4556;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;+PRICE;4232;0;131.8906;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;2485;-539;54.08138;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

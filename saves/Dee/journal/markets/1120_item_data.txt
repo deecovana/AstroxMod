@@ -23,3 +23,4 @@ NPC;+QTY;20;7;1418.848;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
 NPC;BAL;9;9;980.6398;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
 NPC;+STOCK;53;9;1131.252;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;75;9;1189.686;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;75;0;1216.373;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14

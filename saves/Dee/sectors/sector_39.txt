@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;39
 SECTOR;name;Chaferea
-SECTOR;level;5.8
+SECTOR;level;5.7
 SECTOR;faction;Law
 SECTOR;filename;sector_39.txt
 SECTOR;is_explored;False

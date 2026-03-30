@@ -5,3 +5,5 @@ NPC;-QTY;3;-8;3073.301;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;+STOCK;37;10;2445.886;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
 NPC;+QTY;32;8;1549.458;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;BAL;22;-10;3201.331;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
+NPC;BAL;2;0;1564.972;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+QTY;28;10;2503.276;PharmaLife;Carioullis;18h 20m 21s ;66021.78

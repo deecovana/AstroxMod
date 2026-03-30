@@ -14,3 +14,6 @@ NPC;+STOCK;281;131;81.88253;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;4418
 NPC;+STOCK;736;119;553.3024;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;736;0;542.968;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;844;108;535.5212;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;281;0;104.9266;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;+LOCAL;150;770;187.1025;StarGypsy Warehouse;Void Starcross;16h 46m 55s ;60415.73
+NPC;BAL;230;-99;431.4218;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

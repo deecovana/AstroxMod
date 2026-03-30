@@ -18,3 +18,4 @@ NPC;+STOCK;1133;208;55.21642;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;+STOCK;1075;210;143.9026;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;2288;188;56.55928;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;449;-182;82.1777;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-QTY;1593;-133;151.7589;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

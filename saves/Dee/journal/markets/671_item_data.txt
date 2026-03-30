@@ -18,3 +18,5 @@ NPC;-PRICE;101;0;231499.6;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+QTY;29;15;291725;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
 NPC;+STOCK;186;17;221551.6;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;123;22;226655.6;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;33;-24;199266.6;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;+STOCK;35;22;175365.4;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02

@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;4-2-0-2-3-3-7-0-7-1-0-3-0-2-5-1-2-0-4-9-0-8-0
 STATION;interior_seed;3-4-45-9
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;62281.67
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -310,6 +313,9 @@ SKILL;231;1.73
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;81;120;670456;RECOVER#1#1503#sector_79.txt#sector_0_station_0.txt#null#null#null#null;Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Dragon Sea</color> sector, recover the <color='yellow'>1</color> <color='yellow'>Premium Thruster</color> and return to Biomate University in <color='cyan'>Void Starcross</color>;0;<i>Artaf Mesyan</i> has lost track of a shipment crate from his last haul. It has been reported found in <color='cyan'>Dragon Sea</color>. In an effort to save time, <i>Artaf Mesyan</i> has sub-contracted the task of returning the light shipment to Biomate University in <color='cyan'>Void Starcross</color>. The Alpha faction is aware of the situation and has sent a representative to Biomate University.;12750;3750
+MISSION;133;170;245879;SALVAGE#44#25#sector_80.txt#sector_99_station_0.txt#null#null#null#null;Dismantle <color='yellow'>Special Module Fragment</color> in <color='cyan'>Blades of Dandrow</color> and return to Ferce Hub in <color='cyan'>Semja</color> with minimum of <color='yellow'>44</color>;0;The Alpha faction has reported that a special medium load of <color='yellow'>Special Module Fragment</color> has been scanned in the <color='cyan'>Blades of Dandrow</color> system. <i>Keemi Xulam</i> is credited with the find, but His claim is currently invalid. Hurry up and salvage the <color='yellow'>Special Module Fragment</color> and return to Ferce Hub, in the <color='cyan'>Semja</color>.;14965;5125
+MISSION;111;600;319173;KILL_RAIDERS#sector_3_station_0.txt#sector_56.txt#2#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Kill <color='yellow'>2 Raiders</color> level 10 in <color='cyan'>Hunu</color>. Return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;0;A medium group of thugs decided to set up camp in the <color='cyan'>Hunu</color> system. <i>Bacjanco Yibast</i>, who has recently been elected as Overseer of <color='cyan'>Hunu</color> by the Alphas, has requesting this contract to maintain in good standing with his constituents. Wipe out the level 10 and return to the Daemon Ammunitions station.;55339;10800
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -320,3 +326,4 @@ SHIP;4;0.91;ship_data_(recon_utility_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

@@ -7,3 +7,5 @@ NPC;+STOCK;32;2;28944.54;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
 NPC;+STOCK;57;2;18941.83;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;19;2;15761.9;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;+STOCK;59;2;18220.32;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;67;0;15440.29;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;BAL;10;-1;12214.22;Rendo Labs;Entropy;18h 20m 20s ;66020.74

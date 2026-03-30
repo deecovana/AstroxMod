@@ -14,3 +14,5 @@ NPC;+STOCK;98;10;3089.235;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.
 NPC;+STOCK;91;11;1828.777;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;BAL;47;-10;1687.06;Psybermind;Ion Child;13h 31m 19s ;48679.5
 NPC;+STOCK;89;11;1296.018;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
+NPC;-QTY;12;-6;2995.924;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;+PRICE;12;0;3120.625;Desban;Ellisar;16h 46m 45s ;60405.14
