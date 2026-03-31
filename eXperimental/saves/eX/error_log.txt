@@ -1,0 +1,7 @@
+NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics 
