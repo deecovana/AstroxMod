@@ -5,7 +5,7 @@
 //; ---------------------------- Variable name, value ------------------------------
 <STATS>
 //; ----- General Info -----
-SHIP_name;ATC Starter
+SHIP_name;X
 SHIP_filename;ship_data_(excavation_escort_1_startship)
 SHIP_class;Shuttle
 SHIP_type;Recon
@@ -50,7 +50,7 @@ SHIP_description;Recon Ships usually prefer flexibility over raw power or extra 
 SHIP_material_texture_a;atc_main.png
 SHIP_material_texture_b;4atc_detail.png
 SHIP_material_texture_c;med_glow.png
-SHIP_material_color_a;0.50;0.50;0.50;1.00
+SHIP_material_color_a;0.50;0.50;1.05;1.05
 SHIP_material_color_b;0.00;1.00;1.00;0.50
 SHIP_engine_color;0.00;1.00;1.00;0.50
 //; ----- Misc -----
@@ -102,12 +102,13 @@ MODSLOT;module_slot;1; 99 ;0.00;-0.38;1.36;0.00;0.00;180.00;0.50;0.50;0.50
 //; ----------------------------- SHIP MODULES --------------------------------------
 //; ----- MODULE,slot,module_id
 <MODULE>
+MODULE; 1 ; 1200;5;-30/30/-50/50/0
+PMODULE; 1 ; 1531
+PMODULE; 2 ; 1531
 //; ----------------------------- SHIP CARGO -----------------------------------------
 //; ----- CARGO, qty, cargo_id
 <CARGO>
-CARGO; 1 ; 1100
-CARGO; 1 ; 1200
-CARGO; 1 ; 1451
+CARGO; 1 ; 1400
 //; ----------------------------- SHIP DRONES -----------------------------------------
 //; ----- DRONE, id, hp, energy , is_docked, group_id
 <DRONE>

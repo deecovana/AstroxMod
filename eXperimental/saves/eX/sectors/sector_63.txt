@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;63
 SECTOR;name;Numbu
-SECTOR;level;5.1
+SECTOR;level;5.2
 SECTOR;faction;Trade
 SECTOR;filename;sector_63.txt
 SECTOR;is_explored;False

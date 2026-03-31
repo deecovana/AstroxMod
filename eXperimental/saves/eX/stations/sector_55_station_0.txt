@@ -41,6 +41,10 @@ MERC;3;1.98;npc_ship_data_(excavation_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Demands: (2) Items ;20x295,26x169;191871;96014.62
+BUYORDER;Market Demands: (1) Items ;5x64;3830;66595.62
+BUYORDER;Purchase Order for: (1) Items ;1162x4;135814;74254.48
+
 ITEM;1022;66;0.73
 ITEM;1152;30;0.60
 ITEM;1067;13;0.69

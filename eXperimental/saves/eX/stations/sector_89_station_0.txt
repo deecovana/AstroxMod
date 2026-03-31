@@ -40,6 +40,7 @@ MERC;1;0.56;npc_ship_data_(transport_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Inventory: (1) Items ;60x158;12025;32663.52
 ITEM;1200;4;0.92
 ITEM;1055;4;1.08
 ITEM;1150;1;1.18

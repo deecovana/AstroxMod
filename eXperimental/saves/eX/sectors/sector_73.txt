@@ -51,7 +51,7 @@ STAR;object;0;-20395;0;-9457;1;10000
 // LIFESUPPORT;type;value
 LIFESUPPORT;food;3.2889003
 LIFESUPPORT;water;3.25
-LIFESUPPORT;thermal;3.25
+LIFESUPPORT;thermal;2.25
 LIFESUPPORT;waste;3.25
 
 // STARLIGHT;Variable;Red;Green;Blue;Alpha

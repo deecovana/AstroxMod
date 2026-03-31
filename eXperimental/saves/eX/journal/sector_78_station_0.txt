@@ -1,0 +1,224 @@
+[s:30][c:yellow]Tella's[/c][/s]
+Entertainment Hub
+Jidzangee Akleinortis
+Pirate
+[c:lime]Dock fee 100[/c]
+Timestamp: 13992.81
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Keypad
+Basic Beam Impact Mod
+Basic Beam Energy Mod
+Basic Beam Explosive Mod
+Aluminium Plates
+Copperi Pipes
+Copperi Plates
+Dynex Crystal Resonator
+Electronic Switch
+Glass Panels
+Hand Tools
+Hardened Glass Panels
+Iron Coring Beams
+[c:orange]DEMAND[/c]
+Personal Clothing
+Hygiene Products
+Communication Device
+Transport Units
+Basic Energy Capacitor
+Improved Energy Capacitor
+Advanced Energy Capacitor
+Premium Energy Capacitor
+Prototype Energy Capacitor
+Basic Energy Generator
+Improved Energy Generator
+Advanced Energy Generator
+Premium Energy Generator
+Prototype Energy Generator
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  32 - z8
+Advanced Missile  85 - z226
+Advanced Missile Launcher (Doc)  86 - z501,691
+Advanced Railgun (Doc)  90 - z418,674
+Advanced Regulator  4 - z8,621
+Advanced Rocket Launcher (Doc)  12 - z293,158
+Advanced Targeting System (Doc)  4 - z533,460
+Advanced Thruster (Doc)  5 - z910,980
+Aluminium Plates  150 - z96
+Aluminium Rivets  40 - z24
+Anti-Freeze  17 - z56
+Assorted Gaskets  175 - z17
+Assorted Gaskets (Doc)  10 - z100
+Basic 20mm  76 - z17
+Basic Armor Exterior  1 - z33,113
+Basic Beam Energy Mod  12 - z8,594
+Basic Beam Explosive Mod  12 - z8,594
+Basic Beam Impact Mod  12 - z17,460
+Basic Beam Impact Mod (Doc)  16 - z241,125
+Basic Cargo Expansion  7 - z17,594
+Basic Drone Command Bay  5 - z38,150
+Basic ECM Range Lock (Doc)  4 - z4,813,232
+Basic Energy Armor  8 - z33,094
+Basic Energy Generator  11 - z40,031
+Basic Explosive Armor  2 - z32,844
+Basic Filter  6 - z9,336
+Basic Heavy Cannon  4 - z5,881
+Basic Light Turret  1 - z6,466
+Basic Missile Launcher  5 - z9,654
+Basic Missile Launcher (Doc)  52 - z31,329
+Basic Ore Harvester  9 - z17,413
+Basic Plasma Cannon  18 - z10,193
+Basic Projectile Explosive Mod (Doc)  12 - z298,125
+Basic Pulse Laser  16 - z7,306
+Basic Railgun  12 - z4,988
+Basic Rocket Launcher  14 - z5,066
+Basic Scan Booster  19 - z21,731
+Basic Scan Emitter  14 - z23,648
+Basic Skill Manual  27 - z278,438
+Basic Thruster  8 - z12,889
+Basic Torpedo   9 - z158
+Beam Defense System (Doc)  17 - z1,702,000
+Candy Cane  5 - z1
+Candy Corn  17 - z1
+Carbon  202 - z2
+Carbon Fiber  91 - z20
+Chocolate Bars  10 - z1
+Cleaning Chemicals  18 - z79
+Cloak Range Extender (Doc)  2 - z8,224,573
+Colored Dye  6 - z28
+Containment Unit  4 - z16,338
+Copperi Pipes  30 - z231
+Copperi Plates  150 - z116
+Disposables  6 - z8,496
+Dynex Crystal Resonator  45 - z279
+Electrical Interface (Doc)  7 - z22,977
+Electronic Switch  150 - z140
+Elite Skill Manual  5 - z641,672
+Fasteners  5 - z15
+Generic Missile Launcher  4 - z2,538
+Generic Ore Harvester  15 - z4,895
+Generic Plasma Cannon  5 - z1,834
+Glass Panels  60 - z352
+Gradeon Ore  57 - z15
+Gummy Bears  14 - z1
+Hand Tools  48 - z416
+Hardened Glass Panels  150 - z187
+Hydrogen  141 - z4
+Improved Afterburner  1 - z30,950
+Improved Cargo Expansion  2 - z57,188
+Improved Defense Drone  26 - z40,669
+Improved Energy Armor (Doc)  15 - z386,250
+Improved Filter  3 - z8,498
+Improved Mass Reduction  9 - z52,613
+Improved Missile Launcher (Doc)  93 - z116,390
+Improved Rocket Launcher (Doc)  18 - z103,359
+Improved Scan Booster  15 - z26,363
+Improved Scan Emitter  18 - z40,455
+Improved Shield Generator  19 - z56,903
+Improved Thruster  7 - z45,518
+Improved Turn Thrust  18 - z53,350
+Interior Lighting  4 - z215
+Ionization Plate (Doc)  1 - z43,231
+Iron Coring Beams  36 - z557
+Junk Part  165 - z22
+Keypad  150 - z87
+Kitchen Appliances  16 - z674
+Light Shield Recharger  11 - z17,594
+Liquid Coolant  38 - z27
+Magnetic Quartz  61 - z2
+Medium Armor Bomb  20 - z26,561
+Medium Armor Repair  16 - z21,930
+Medium Energy Charge  14 - z11,228
+Medium Web Field  17 - z23,130
+Metal Brackets  191 - z17
+Metal Gears  58 - z29
+Metal Valve  98 - z42
+Micro Leech Drone  12 - z11,306
+Noodles  4 - z11,683
+Nuts And Bolts  37 - z9
+Office Furniture  1 - z625
+Ornament  19 - z5
+Oxygen  290 - z2
+Premium Rocket Launcher (Doc)  60 - z1,146,102
+Protein Bar  9 - z5,766
+Prototype 20mm  62 - z143
+Prototype 60mm  94 - z230
+Prototype Missile   50 - z446
+Recon Scanner Drone  4 - z12,356
+Reinforced Rubber  37 - z18
+Rubber Tubing  36 - z40
+Salt Crystal  275 - z2
+Scrap Part  131 - z24
+Small Combat Drone  29 - z3,923
+Small Defense Drone  8 - z8,003
+Small Storage Tank  61 - z34
+Small Web Field  33 - z7,790
+Steelium Beam  116 - z14
+Steelium Pipes  83 - z20
+Thermal Controller  4 - z7,096
+Thermal Insulation  5 - z25
+Titan Defense Drone  32 - z333,438
+Titan Repair Drone  2 - z195,938
+Water  281 - z1
+Wrapped Box  15 - z10
+
+
+<Station University Skills>
+Refinery Mechanic
+Beam Damage Calibration
+Ship Energy Regeneration
+Beam Focal Range
+Miner Advanced Systems
+
+
+<Station Missions>
+[c:lime]KILL RAIDERS[/c]
+Kill <color='yellow'>1 Raider</color> level 20 Raider Ship(s) in <color='cyan'>Temple Gates</color>. Return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]DIALOG[/c]
+Collect a small debt from <color='yellow'><i>Leader Resttim Caeno</i></color> in <color='cyan'>Equalias Val</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]KILL RECOVER[/c]
+Hijack and kill <color='yellow'><i>Colonel Pitaf Wofoe</i></color> in <color='cyan'>Entropy</color> and steal <color='yellow'>1</color> <color='yellow'>Basic Shield Generator</color>. Return to Proctors Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]KILL[/c]
+Execute <color='yellow'><i>Fabricator Galeino Seddue</i></color> in <color='cyan'>Hunu</color> and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]REFINE[/c]
+Refine a light container of <color='yellow'>12</color> <color='yellow'>Undamaged Parts</color> at the Quantex station in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]RECOVER[/c]
+Recover a light quantity of <color='yellow'>1000</color> <color='yellow'>Ornaments</color> in <color='cyan'>Jermicus</color>, and return to Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]COLLECT[/c]
+Gather a collection of <color='yellow'>8</color> <color='yellow'>Undamaged Parts</color> and dock the light shipment at OmniTrust in <color='cyan'>Ponze</color>
+
+[c:lime]KILL RAIDERS[/c]
+Kill <color='yellow'>1 Raider</color> level 20 Raider Ship(s) in <color='cyan'>Hunu</color>. Return to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+
+
+<Station Ships>
+EU-3 Ore Collector / Escort    (Excavation)
+BF-1 Missile Enforcer / Escort    (Assault)
+BC-1 Alpharis Predator / Escort    (Battle)
+BDN-1 Imperious Titanous / Battlecruiser    (Battle)

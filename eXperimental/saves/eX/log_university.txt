@@ -1,2 +1,13 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;1;Ship Afterburner Systems;2 min;9;2505.0;107001.358307362;Valuestar Hub;Jelumus;3h 24m 35s 
+SKILL;1;Salvager Basic Operation;2 min;5;1212.0;4053.39411973953;Starbase Corporate Center;Void Starcross;1h 39m 5s 
+SKILL;1;Drone Operation;3 min;5;7125.0;6587.89411973953;Biomate University;Void Starcross;1h 32m 1s 
+SKILL;1;Escort Ship Operation;1 min;8;5250.0;13712.8941197395;Biomate University;Void Starcross;1h 31m 50s 
+SKILL;1;Projectile Basic Operation;2 min;5;1510.0;18962.8941197395;Biomate University;Void Starcross;1h 31m 22s 
+SKILL;1;Beam Basic Operation;2 min;5;1098.0;26757.6230750084;Biomate University;Void Starcross;0h 58m 49s 
+SKILL;1;Launcher Basic Operation;2 min;4;1940.0;27855.6230750084;Biomate University;Void Starcross;0h 58m 19s 
+SKILL;1;Max Mission Contracts;3 min;4;810.0;15717.5559186935;Biomate University;Void Starcross;0h 49m 30s 
+SKILL;2;Ship Energy Regeneration;4 min;22;1680.0;16527.5559186935;Biomate University;Void Starcross;0h 48m 55s 
+SKILL;2;Ship Thruster Systems;3 min;14;2070.0;18207.5559186935;Biomate University;Void Starcross;0h 46m 57s 
+SKILL;1;Laser Basic Operation;2 min;6;2035.0;20277.5559186935;Biomate University;Void Starcross;0h 46m 9s 
 SKILL;1;Miner Basic Operation;2 min;5;380.0;8092.75366210938;Biomate University;Void Starcross;0h 3m 25s 

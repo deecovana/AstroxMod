@@ -1,5 +1,47 @@
 //;LOG DATA FILE (Astrox Imperium)
-mission_1.png;New Mission Acquired.;( Tutorial 1 ) Harvest your first Special Adamyte rock in <color='cyan'>Void Starcross</color>, then dock at Biomate University
+dock_fee.png;Daemon Ammunitions Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Daemon Ammunitions station.
 //;LOG DATA FILE (Astrox Imperium)
-new_sector.png;New Sector has been Explored;A new sector has been explored. You can now access this sector from your galaxy map.
-//; LOG DATA (Astrox Imperium) 
+sp_adjusted.png;+2 Skill Points Acquired.;Your time spent undocked has helped you to improve your skills. +2 skill points have been awarded to your pilot for use at the university.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Starfort Ramos;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Error;Your GPS computer does not have the required warpgate information to travel to this location. You cannot use your GPS to travel through unexplored sectors.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Error;Your GPS computer does not have the required warpgate information to travel to this location. You cannot use your GPS to travel through unexplored sectors.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Error;Your GPS computer does not have the required warpgate information to travel to this location. You cannot use your GPS to travel through unexplored sectors.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Error;Your GPS computer does not have the required warpgate information to travel to this location. You cannot use your GPS to travel through unexplored sectors.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;StarGypsy Warehouse Station - 25 Dock Fee.;You have been charged a docking fee for entry into the StarGypsy Warehouse station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Lacuna Bandits Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Lacuna Bandits station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Ballast Crow;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Ballast Crow;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Tella's Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Tella's station.
+//;LOG DATA FILE (Astrox Imperium)

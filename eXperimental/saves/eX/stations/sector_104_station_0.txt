@@ -37,6 +37,7 @@ MERC;9;1.00;npc_ship_data_(battle_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Needs Goods: (1) Items ;405x274;397;71783.72
 ITEM;1174;86;0.92
 ITEM;1115;57;1.18
 ITEM;1013;19;1.06

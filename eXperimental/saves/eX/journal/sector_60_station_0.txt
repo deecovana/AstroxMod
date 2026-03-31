@@ -1,0 +1,189 @@
+[s:30][c:yellow]Biomart[/c][/s]
+Auction Facility
+Leira Kolyitpi
+Trade
+[c:lime]Dock fee 100[/c]
+Timestamp: 11776
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+LED Lights
+Micro Processor
+Large Processor
+Motion Sensor
+Pressure Sensor
+Memory Chip
+Small Pump
+Small Heatsink
+Small Motor
+Copperi Cables
+Active Scanner
+[c:orange]DEMAND[/c]
+Personal Clothing
+Hygiene Products
+Communication Device
+Transport Units
+Tractor Beam
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (142) x Personal Clothing
+Fulfill order for [c:lime]198,877 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Active Scanner  34 - z22,862
+Adamyte Ore  147 - z5
+Advanced Regulator  5 - z7,993
+Advanced Targeting System (Doc)  16 - z630,360
+Aluminium Rivets  163 - z37
+Anti-Freeze  18 - z43
+Assorted Gaskets  195 - z17
+Assorted Springs  86 - z42
+Ball Bearings  175 - z53
+Basic 20mm  26 - z26
+Basic 60mm  29 - z48
+Basic Afterburner  16 - z15,450
+Basic Armor Exterior  15 - z24,675
+Basic Cargo Expansion  3 - z29,063
+Basic Drone Command Bay  13 - z30,900
+Basic Energy Generator  13 - z33,110
+Basic Filter  6 - z9,118
+Basic Heavy Cannon  18 - z5,332
+Basic Heavy Laser  5 - z6,872
+Basic Ion Beam  16 - z9,933
+Basic Light Turret (Doc)  1 - z24,938
+Basic Mass Reduction  5 - z29,038
+Basic Plasma Cannon  16 - z4,562
+Basic Railgun  18 - z10,437
+Basic Rocket Launcher  7 - z6,248
+Basic Rocket Launcher (Doc)  78 - z28,088
+Basic Scan Booster  6 - z19,048
+Basic Shield Generator  8 - z21,938
+Basic Torpedo   88 - z192
+Basic Torpedo Launcher  16 - z8,169
+Basic Torpedo Launcher (Doc)  3 - z40,005
+Bomber Drone  38 - z18,938
+Candy Cane  2 - z1
+Candy Corn  8 - z1
+Carbon  271 - z2
+Carbon Fiber  123 - z30
+Chocolate Bars  19 - z1
+Cleaning Chemicals  1 - z111
+Colored Dye  6 - z18
+Containment Unit  3 - z8,238
+Copperi Cables  30 - z232
+Disposables  6 - z7,508
+Dynex Crystal Resonator (Doc)  3 - z2,418
+ECM Sensors Jammer (Doc)  15 - z1,230,469
+Elite Skill Manual  17 - z1,328,906
+Fasteners  7 - z14
+Generic Missile Launcher  10 - z1,634
+Generic Plasma Cannon  12 - z1,898
+Generic Pulse Laser  11 - z2,165
+Generic Railgun (Doc)  69 - z11,910
+Generic Rocket Launcher  2 - z2,465
+Generic Rocket Launcher (Doc)  52 - z9,025
+Generic Torpedo Launcher  16 - z1,494
+Gradeon Ore  44 - z10
+Gummy Bears  3 - z1
+Heavy Combat Drone  13 - z198,413
+Hydraulic Assembly (Doc)  6 - z28,452
+Hydrogen  161 - z3
+Improved Drone Command Bay  12 - z93,800
+Improved Engine Core  15 - z41,030
+Improved Explosive Armor  2 - z47,125
+Improved Filter  4 - z12,771
+Improved Impact Armor  4 - z54,125
+Improved Mass Reduction  18 - z56,235
+Improved Repair Drone  38 - z43,763
+Improved Salvage Drone  2 - z33,863
+Improved Shield Booster  12 - z51,625
+Improved Shield Generator  15 - z32,535
+Improved Targeting System  16 - z25,585
+Improved Thruster  13 - z30,765
+Improved Turn Thrust  4 - z45,700
+Interior Lighting  8 - z141
+Ionization Plate (Doc)  19 - z46,156
+Junk Part  193 - z26
+Kitchen Appliances  1 - z862
+Large Defense Drone  34 - z68,250
+Large Processor  30 - z123
+Large Salvage Drone  5 - z57,250
+LED Lights  28 - z100
+Light Shield Recharger  9 - z27,813
+Liquid Coolant  126 - z27
+Lubricant  87 - z14
+Magnetic Quartz  243 - z3
+Mechanical Belts  16 - z56
+Medium Armor Repair  22 - z19,980
+Medium Shield Bomb  5 - z24,638
+Memory Chip  37 - z163
+Metal Gears  7 - z39
+Micro Processor  30 - z119
+Misc Hardware (Doc)  6 - z9,264
+Missile Defense System (Doc)  5 - z1,284,000
+Motion Sensor  30 - z138
+Noodles  1 - z7,503
+Nuts And Bolts  64 - z13
+Office Furniture  17 - z971
+Ornament  19 - z7
+Oxygen  251 - z3
+Plasite Extractor (Doc)  5 - z10,987,040
+Plastic Caps  82 - z66
+Premium Heavy Cannon (Doc)  18 - z2,166,528
+Premium Railgun (Doc)  25 - z2,255,440
+Pressure Sensor  28 - z147
+Protein Bar  2 - z7,578
+Prototype ECM Power Boost Field (Doc)  3 - z7,621,790
+Prototype Heavy Cannon (Doc)  71 - z6,369,590
+Prototype Railgun (Doc)  72 - z7,704,959
+Prototype Torpedo   25 - z1,037
+Rubber Tubing  67 - z28
+Salt Crystal  217 - z3
+Scrap Part  187 - z24
+Small Heatsink  25 - z226
+Small LS Bomb  14 - z4,428
+Small Motor  42 - z247
+Small Pump  25 - z211
+Small Storage Tank  1 - z35
+Small Web Field  17 - z6,100
+Spotlight  10 - z10,106
+Steelium Pipes  37 - z17
+Thermal Controller  6 - z4,358
+Thermal Insulation  128 - z26
+Titan Combat Drone  21 - z275,625
+Tractor Beam  17 - z19,994
+Water  38 - z1
+Wrapped Box  4 - z10
+
+
+<Station University Skills>
+Launcher Basic Operation
+Miner Maintenance
+Laser Basic Operation
+Projectile Damage Calibration
+
+
+<Station Missions>
+
+
+<Station Ships>
+TE-1 Phoebus / Shuttle    (Transport)
+TU-1 Jonas / Escort    (Transport)
+BCA-1 Drone Piranha / Destroyer    (Support)
+RE-1 Integrator / Escort    (Recon)
+RF-1 Assimilator / Escort    (Recon)
+BCA-1 Drone Piranha / Destroyer    (Support)
+SF-1 Redeemer / Frigate    (Support)

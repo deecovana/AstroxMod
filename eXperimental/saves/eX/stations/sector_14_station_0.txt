@@ -312,6 +312,7 @@ SKILL;231;1.57
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;1.165628;ship_data_(StinVec_SOLV_B_EBC2_Faculae).txt
 SHIP;1;0.93;ship_data_(support_cruiser_1).txt
 SHIP;2;0.97;ship_data_(support_shuttle_1).txt
 SHIP;3;0.98;ship_data_(transport_utility_1).txt

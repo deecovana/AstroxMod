@@ -1,0 +1,8 @@
+PLAYER;-QTY;171;1;8.916249;Acrondia Hub;Temple Gates;0h 20m 19s ;1219.564
+PLAYER;+QTY;448;277;8.98625;Acrondia Hub;Temple Gates;0h 20m 31s ;1231.164
+PLAYER;+QTY;731;283;8.84625;Acrondia Hub;Temple Gates;0h 27m 25s ;1645.959
+PLAYER;+QTY;1014;283;8.70625;Acrondia Hub;Temple Gates;0h 31m 11s ;1871.012
+PLAYER;+QTY;1149;265;4.993187;Biomate University;Void Starcross;0h 41m 43s ;2503.628
+NPC;-LOCAL;97;0;7.875;Starbase Corporate Center;Void Starcross;1h 37m 31s ;5851.223
+NPC;-LOCAL;37;37;7.875;Starbase Corporate Center;Void Starcross;2h 47m 38s ;10058.33
+NPC;-LOCAL;58;0;7.875;Transporteers Hub;Ambervellis Drea;3h 33m 0s ;12780.12

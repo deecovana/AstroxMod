@@ -1,1 +1,11 @@
-//; LOG DATA (Astrox Imperium) 
+//;LOG DATA FILE (Astrox Imperium)
+ACCEPTED;Collect;Collect a light shipment ...;-0;102271.358307362;Tella's;Bitcola;3h 46m 11s 
+ACCEPTED;Collect;Return to Lacuna Bandits ...;-0;229351.158307552;Biomate University;Void Starcross;2h 41m 25s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;-6,527;84524.1164822578;Biomate University;Void Starcross;2h 1m 45s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;53,896;82741.1941189766;Biomate University;Void Starcross;1h 57m 11s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;13,087;28853.5941195488;Biomate University;Void Starcross;1h 52m 22s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;11,718;15771.3941197395;Biomate University;Void Starcross;1h 44m 53s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;6,820;14066.2939245701;Biomate University;Void Starcross;1h 27m 18s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;6,820;31160.8232214451;Biomate University;Void Starcross;1h 7m 42s 
+COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;6,820;25638.2243757248;Biomate University;Void Starcross;0h 53m 4s 
+COMPLETED;Harvest;( Tutorial 1 ) Harvest yo...;6,300;20070.9914655685;Biomate University;Void Starcross;0h 41m 24s 

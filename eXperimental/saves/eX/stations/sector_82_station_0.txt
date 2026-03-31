@@ -295,10 +295,10 @@ ITEM;2273;58;1.01
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
-SKILL;31;1.43
-SKILL;227;1.42
-SKILL;6;1.64
-SKILL;3;0.61
+SKILL;31;1.25
+SKILL;227;1.27
+SKILL;6;1.61
+SKILL;3;0.51
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>

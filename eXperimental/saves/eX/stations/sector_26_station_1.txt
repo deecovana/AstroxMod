@@ -40,6 +40,7 @@ MERC;2;1.05;npc_ship_data_(battle_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Out of Stock: (2) Items ;6x214,2x232;43860;64114.47
 ITEM;1153;2;0.95
 ITEM;1026;10;1.19
 ITEM;1007;42;0.97

@@ -1,8 +1,9 @@
 # "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
 
 ## 0331 Try eXperimental
-
-
+- start eX
+- eX to Temple from -24 to 0
+- add 1m
 
 ## 0331 Ready for Battle! 
 - Try Raiders

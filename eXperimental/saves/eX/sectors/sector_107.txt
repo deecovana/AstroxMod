@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;107
 SECTOR;name;Daefore
-SECTOR;level;0.1
+SECTOR;level;0.0
 SECTOR;faction;Temple
 SECTOR;filename;sector_107.txt
 SECTOR;is_explored;False

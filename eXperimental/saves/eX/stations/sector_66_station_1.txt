@@ -40,6 +40,7 @@ MERC;6;1.82;npc_ship_data_(recon_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Looking to Buy (1) Items ;1161x4;38652;67425.48
 ITEM;1170;13;0.51
 ITEM;1009;11;0.54
 ITEM;1151;5;0.56

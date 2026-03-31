@@ -39,6 +39,15 @@ MERC;2;1.54;npc_ship_data_(recon_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Demands: (2) Items ;407x115,408x199;4236;52966.61
+BUYORDER;Market Out of Stock: (3) Items ;407x124,408x187,407x178;4848;78791.62
+SELLORDER;Market Production: (3) Items ;50x33,61x204,50x286;50060;39900.51
+SELLORDER;Market Inventory: (2) Items ;51x245,42x268;17481;88533.51
+SELLORDER;Market Production: (1) Items ;61x115;21447;20339.86
+
+SELLORDER;Market Production: (2) Items ;50x197,41x108;5595;43522.23
+SELLORDER;Market Supply: (2) Items ;42x18,75x40;7876;33203.96
+
 ITEM;1020;3;1.05
 ITEM;1150;14;0.91
 ITEM;1205;37;1.09

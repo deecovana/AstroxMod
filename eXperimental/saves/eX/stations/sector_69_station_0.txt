@@ -40,6 +40,8 @@ MERC;2;0.88;npc_ship_data_(support_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Needs Goods: (2) Items ;42x164,42x172;76593;42664.61
+
 ITEM;1166;42;1.23
 ITEM;1470;16;1.19
 ITEM;1060;18;0.52

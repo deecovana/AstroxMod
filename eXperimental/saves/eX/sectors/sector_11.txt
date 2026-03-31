@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;11
 SECTOR;name;Chamo
-SECTOR;level;2.8
+SECTOR;level;2.7
 SECTOR;faction;Labor
 SECTOR;filename;sector_11.txt
 SECTOR;is_explored;False

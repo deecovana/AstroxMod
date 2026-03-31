@@ -4,7 +4,7 @@ SECTOR;name;Gemini Shoal
 SECTOR;level;1.9
 SECTOR;faction;Trade
 SECTOR;filename;sector_64.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;30
@@ -72,12 +72,12 @@ CLUSTER;2;20;100;200;3000;-5809;2805;-4347
 CLUSTER;2;20;100;200;1500;4541;-1420;-6100
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;4;-5526.0;-213.0;-5639.0;1200;1200
+RESOURCE;4;-5548.2;-226.3;-5625.5;1200;1200
 RESOURCE;4;-2761.0;-106.0;-6391.0;600;600
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_61.txt;2;2327;-156;3090;0;Trade;0
-WARPGATE;2;sector_65.txt;1;-4836;-278;-1840;0;Trade;0
+WARPGATE;1;sector_61.txt;2;2327;-156;3090;0;Trade;0;prescan
+WARPGATE;2;sector_65.txt;1;-4836;-278;-1840;0;Trade;0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;17;0;0;0;0;0;0;0.15,0.32,0.10,0.4;//fog;;;
