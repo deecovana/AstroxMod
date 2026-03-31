@@ -44,3 +44,8 @@ NPC;+LOCAL;12;8;414.05;Biomate University;Void Starcross;16h 3m 55s ;57835.64
 NPC;+LOCAL;12;5;414.05;Biomate University;Void Starcross;16h 40m 10s ;60010.47
 NPC;+PRICE;48;0;1358.956;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+LOCAL;12;14;414.05;Biomate University;Void Starcross;18h 28m 19s ;66499.89
+NPC;+LOCAL;12;5;414.05;Biomate University;Void Starcross;20h 56m 39s ;75399.39
+NPC;+STOCK;57;9;1289.781;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;85;8;865.5002;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;12;3;414.05;Biomate University;Void Starcross;23h 23m 26s ;84206.98
+NPC;+STOCK;37;8;1259.28;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

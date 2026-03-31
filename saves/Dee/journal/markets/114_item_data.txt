@@ -62,3 +62,13 @@ NPC;+PRICE;1226;0;1.266602;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.
 NPC;+PRICE;8;0;1.429204;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;BAL;829;-145;1.194102;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;+QTY;553;161;1.924545;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;BAL;303;-159;1.161237;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;BAL;74;-193;0.9196338;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+QTY;739;186;1.928043;PharmaLife;Carioullis;20h 24m 54s ;73494.4
+NPC;+STOCK;304;230;0.8664365;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1529;193;0.6457195;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1700;171;1.482606;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;1114;0;2.218361;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;-PRICE;79;0;2.050977;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21
+NPC;BAL;224;0;1.646028;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75
+NPC;+STOCK;963;179;0.7188161;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

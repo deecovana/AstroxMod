@@ -24,3 +24,6 @@ NPC;+LOCAL;12;1;2367.495;Biomate University;Void Starcross;15h 13m 35s ;54815.94
 NPC;+LOCAL;12;5;2367.495;Biomate University;Void Starcross;16h 40m 10s ;60010.47
 NPC;+LOCAL;12;2;2367.495;Biomate University;Void Starcross;16h 54m 46s ;60886.23
 NPC;BAL;7;0;5906.923;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;BAL;12;0;1465.23;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;21;9;1321.345;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;12;15;2367.495;Biomate University;Void Starcross;23h 6m 4s ;83164.88

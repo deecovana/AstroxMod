@@ -1,6 +1,8 @@
 //;LOG DATA FILE (Astrox Imperium)
 dock_fee.png;Star Shepards Hub Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Star Shepards Hub station.
 //;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Star Shepards Hub Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Star Shepards Hub station.
+//;LOG DATA FILE (Astrox Imperium)
 dock_fee.png;Acrondia Hub Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Acrondia Hub station.
 //;LOG DATA FILE (Astrox Imperium)
 notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
@@ -9,39 +11,37 @@ notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been hand
 //;LOG DATA FILE (Astrox Imperium)
 warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Starbase Corporate Center Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Starbase Corporate Center station.
-//;LOG DATA FILE (Astrox Imperium)
 notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
 //;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
 //;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
+dock_fee.png;Temple of the Void Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Temple of the Void station.
 //;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Ballast Crow;Your ship has activated the warp gate and will soon arrive at your destination.
+warpgate.png;Warp to Valley of Truths;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-event_raider_alert.png;Raiders have been detected.;Raiders have been detected in this area. It is recommended that you dock and seek protection until this raider is removed from the sector.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Dragon Sea;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Blades of Dandrow;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Ferrelis Cove;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-need_space.png;Ship Cargo Bay is Full.;You do not have enough room in your cargo bay to continue mining this resource. To save on repair costs, all mining beams have been deactivated.
+warpgate.png;Warp to Shine of Mortalis;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
 modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
-//;LOG DATA FILE (Astrox Imperium)
-mission_obj_complete.png;Mission Harvest objectives complete.;You have successfully mined the required resources. Deliver these resources to the mission destination to complete the mission. 
-//;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
-//;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
-//;LOG DATA FILE (Astrox Imperium)
-new_sector.png;New Sector has been Explored;A new sector has been explored. You can now access this sector from your galaxy map.
+max_targets.png;Maximum Targets Acquired;Your ship's targeting computer has reached the maximum number of targets it can retain at once. Remove an item from your targeting panel before attempting to target another object.
 //;LOG DATA FILE (Astrox Imperium)
 notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Star Shepard's Temple Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Star Shepard's Temple station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+mission_obj_complete.png;Mission Objectives Complete;Frag <color='yellow'><i>Laborer Oufu Faport</i></color>, in <color='cyan'>Lightless</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
 //;LOG DATA FILE (Astrox Imperium)

@@ -5,3 +5,6 @@ NPC;+QTY;67;2;231336;Lammassu Financial;Void Starcross;4h 47m 5s ;17225.82
 NPC;+QTY;68;1;231336;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+STOCK;70;2;208611.3;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+PRICE;70;0;217515.1;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+STOCK;72;2;192629;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;59;2;330627.9;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16
+NPC;+STOCK;59;2;312656.6;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

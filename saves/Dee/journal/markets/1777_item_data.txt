@@ -15,3 +15,6 @@ NPC;+STOCK;124;11;8189.007;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.3
 NPC;+STOCK;74;10;8677.068;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;74;0;8880.625;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;+PRICE;124;0;8297.696;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+STOCK;133;9;8067.206;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;84;10;8279.463;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;67;0;9812.928;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

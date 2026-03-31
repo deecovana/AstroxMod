@@ -2,3 +2,4 @@ NPC;+STOCK;30;2;548.5172;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;32;2;511.7426;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+STOCK;34;2;486.012;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;34;0;473.2733;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+QTY;14;1;518.786;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4

@@ -14,3 +14,10 @@ NPC;+LOCAL;150;27;528.3771;Temple of the Void;Vindicati;13h 32m 8s ;48728.66
 NPC;+STOCK;512;147;618.028;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;504;105;97.07513;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;403;-101;97.07513;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;259;-106;626.9821;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;385;126;613.5377;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;516;113;92.8431;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;200;0;486.3476;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+LOCAL;150;235;215.9625;StarShepards Headquarters;Void Starcross;23h 28m 54s ;84534.91
+NPC;+LOCAL;60;7;564.517;Star Shepard's Temple;Lightless;24h 22m 53s ;87773.7
+NPC;+LOCAL;81;21;483.4451;Star Shepard's Temple;Lightless;24h 32m 19s ;88339.93

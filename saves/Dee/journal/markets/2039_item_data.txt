@@ -13,3 +13,6 @@ NPC;-PRICE;128;0;592.2757;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
 NPC;-PRICE;139;0;3550.238;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;814;147;2962.146;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;288;149;3484.002;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;944;130;2836.166;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;420;132;3323.046;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;538;0;1558.866;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

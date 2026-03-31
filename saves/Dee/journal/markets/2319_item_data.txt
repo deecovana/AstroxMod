@@ -3,3 +3,6 @@ NPC;+PRICE;22;0;9178.164;PharmaLife;Carioullis;4h 52m 11s ;17531.62
 NPC;+QTY;23;1;9212.12;PharmaLife;Carioullis;6h 44m 29s ;24269.91
 NPC;+QTY;24;1;9192.885;PharmaLife;Carioullis;12h 33m 5s ;45185.51
 NPC;+PRICE;74;0;16935.6;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
+NPC;-QTY;2;-2;16227.12;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;-PRICE;72;0;13138.44;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;+QTY;25;1;9190.143;PharmaLife;Carioullis;20h 24m 54s ;73494.4

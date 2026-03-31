@@ -45,3 +45,11 @@ NPC;-LOCAL;10;10;52.425;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
 NPC;-LOCAL;2;2;52.425;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
 NPC;+PRICE;2;0;55.91904;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;56;-122;31.90343;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;BAL;209;-107;23.63526;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+QTY;743;99;22.74619;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4
+NPC;+STOCK;347;138;22.33852;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;150;148;53.31491;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1062;149;32.89082;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;509;0;57.65497;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;-PRICE;264;0;39.94926;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21
+NPC;+STOCK;263;111;23.97091;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

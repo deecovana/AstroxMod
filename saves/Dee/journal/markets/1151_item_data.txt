@@ -29,3 +29,8 @@ NPC;+PRICE;5;0;2337.507;Xellon;Ele;15h 8m 41s ;54521.68
 NPC;+PRICE;70;0;4041.54;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;3;0;3506.393;Rendo Labs;Entropy;18h 20m 20s ;66020.74
 NPC;+QTY;40;6;4245.605;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;+STOCK;23;10;4888.238;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+STOCK;80;10;3892.45;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;20;8;702.3384;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;76;10;1808.227;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16
+NPC;+STOCK;77;11;1890.435;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

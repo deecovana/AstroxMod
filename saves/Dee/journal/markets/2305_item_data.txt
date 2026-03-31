@@ -3,3 +3,4 @@ NPC;+STOCK;43;2;59009.3;StarShepards Headquarters;Void Starcross;4h 12m 27s ;151
 NPC;+PRICE;17;0;148672.9;Gemini Mining;Jala;4h 16m 43s ;15403.89
 NPC;+STOCK;45;2;52107.82;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;44;-1;52043.05;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;46;2;46671.96;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

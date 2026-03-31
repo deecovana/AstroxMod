@@ -5,3 +5,6 @@ NPC;+QTY;77;9;59312;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+STOCK;86;9;57813.54;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;95;9;55475.55;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;95;0;57599.79;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+STOCK;105;10;55299.33;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;8;-11;62481.99;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75
+NPC;+STOCK;45;10;45654.44;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

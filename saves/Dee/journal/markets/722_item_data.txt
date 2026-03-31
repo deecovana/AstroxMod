@@ -22,3 +22,6 @@ NPC;+STOCK;185;11;2048.848;StarShepards Headquarters;Void Starcross;14h 1m 15s ;
 NPC;+PRICE;71;0;5034.003;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;-QTY;173;-12;2076.525;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;BAL;15;-14;4238.495;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;BAL;78;-11;5427.616;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;90;12;5147.28;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;106;0;4458.551;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

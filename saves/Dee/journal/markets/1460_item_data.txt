@@ -15,3 +15,4 @@ NPC;+PRICE;23;0;39354;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;+PRICE;15;0;54711.68;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
 NPC;-QTY;0;-2;35534.81;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
 NPC;BAL;13;-10;25178.57;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;-PRICE;9;0;45497.64;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21

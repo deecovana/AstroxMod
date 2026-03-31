@@ -8,3 +8,4 @@ NPC;+QTY;112;8;60482.64;StarShepards Headquarters;Void Starcross;12h 51m 8s ;462
 NPC;+STOCK;121;9;56504.47;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;75;0;160367.2;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;113;-8;56832.08;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;124;11;52021.65;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

@@ -14,3 +14,5 @@ NPC;+STOCK;102;10;6981.968;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;88;0;8339.766;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;22;-7;11049.62;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
 NPC;-QTY;110;-9;8498.397;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;120;10;8181.19;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;3;0;9440.026;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

@@ -23,3 +23,5 @@ NPC;+LOCAL;150;1603;51.545;Star Shepards Hub;Temple Gates;14h 8m 41s ;50921.47
 NPC;-QTY;111;-97;94.17867;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;1017;-131;85.02348;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+STOCK;288;138;23.27108;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02
+NPC;BAL;325;-98;149.6342;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;1124;107;82.42227;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

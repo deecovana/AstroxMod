@@ -4,3 +4,4 @@ NPC;+PRICE;17;0;429719.5;Vo Industries;Brimstone;11h 29m 25s ;41365.69
 NPC;+STOCK;80;8;295641;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;86;6;294339.4;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;-QTY;80;-6;291205.9;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;89;9;270439.4;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

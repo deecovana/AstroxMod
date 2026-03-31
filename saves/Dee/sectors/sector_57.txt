@@ -83,6 +83,7 @@ RESOURCE;3;5204.0;2112.0;1085.0;600;600
 WARPGATE;1;sector_59.txt;1;-4141;-343;4286;0;Trade;1
 WARPGATE;2;sector_60.txt;3;5274;-219;1710;0;Trade;-0.8
 WARPGATE;3;sector_56.txt;1;-2355;-1783;-4859;0;Trade;-2354.577
+WARPGATE;4;generate;1;794;763;-1029;1;wormhole;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;17;0;0;0;0;0;0;0.2,0.5,0.3,0.4;//fog;;;

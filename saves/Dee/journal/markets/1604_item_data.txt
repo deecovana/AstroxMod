@@ -6,3 +6,4 @@ NPC;+PRICE;66;0;111451;Valuestar Hub;Jelumus;9h 36m 0s ;34560.29
 NPC;-PRICE;12;0;203044.4;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
 NPC;-PRICE;98;0;229468.2;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;107;9;219457;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;118;11;211449.2;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

@@ -11,3 +11,7 @@ NPC;+STOCK;15;2;121596.3;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.4
 NPC;+STOCK;71;2;150597.3;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;17;2;119215.2;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;17;0;121765.6;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;16;-1;121867.1;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;67;-2;141989.5;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;69;2;139643.4;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;38;-1;154154.9;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75

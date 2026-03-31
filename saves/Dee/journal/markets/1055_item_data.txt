@@ -31,3 +31,7 @@ NPC;BAL;4;0;3915.739;Dustardz;Redsky;14h 12m 27s ;51147.38
 NPC;+PRICE;18;0;4274.582;Gemini Mining;Jala;15h 8m 41s ;54521.68
 NPC;+PRICE;13;0;1912.308;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
 NPC;-QTY;98;-8;4183.567;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;29;-8;2708.891;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;+STOCK;108;10;3947.505;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;38;10;2539.186;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+PLAYER;-QTY;103;5;3946.819;StarShepards Headquarters;Void Starcross;23h 29m 22s ;84562.8

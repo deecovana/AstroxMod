@@ -19,3 +19,6 @@ NPC;BAL;12;-10;36369.46;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
 NPC;+PRICE;19;0;48515.33;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
 NPC;-QTY;4;-9;47976.38;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;+STOCK;27;8;59788.94;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
+NPC;+STOCK;30;9;33036.45;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+PRICE;16;0;67493.4;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+PRICE;21;0;36115.69;Astrox Security Patrol;Felishar;23h 4m 30s ;83070.77

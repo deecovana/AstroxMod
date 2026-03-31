@@ -1,0 +1,28 @@
+scan_title;Industrial Machine 361407
+scan_image;structure_machine_1.png
+scan_sector;Ballast Crow
+<color='cyan'>OVERVIEW</color>
+Machine
+
+Timestamp: 81140.23
+<color='cyan'>DETAILS</color>
+Level: 1
+Type: Machine
+Class: Mech
+Current HP: 14930.43
+Max HP: 15000
+AOE Effect: none
+AOE Range: 1
+AOE Value: 0
+<color='cyan'>OWNER</color>
+Gabri Mazu
+Faction: Contractor
+Mission Obj: True
+
+<color='cyan'>LOCATION</color>
+x:-466.1616
+y:-959.4373
+z:2294.691
+<color='cyan'>OPERATION: </color> False
+Charge: 0 Drain: 2.5
+Power: 0 of 1,000

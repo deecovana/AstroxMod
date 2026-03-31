@@ -47,10 +47,10 @@ SHIP_manufacturer_icon;icon_gem.png
 SHIP_shield;1267.875
 SHIP_armor;1047
 SHIP_energy;1100.8
-SHIP_ls_food;602;181.7863
-SHIP_ls_water;622;181.7863
-SHIP_ls_thermal;642;181.7863
-SHIP_ls_waste;662;181.7863
+SHIP_ls_food;602;166.8433
+SHIP_ls_water;622;166.8433
+SHIP_ls_thermal;642;166.8433
+SHIP_ls_waste;662;166.8433
 SHIP_ls_points;1075.2
 SHIP_base_drones;0
 SHIP_specials_raw;Cargo#0.70,Drone Strength#0.50,Drone Energy#0.60
@@ -85,20 +85,18 @@ MODSLOT;module_slot;4; 99 ;0.71;-0.19;3.15;0.00;0.00;270.00;1.00;1.00;1.00
 //; ----------------------------- SHIP MODULES --------------------------------------
 //; ----- MODULE,slot,module_id
 <MODULE>
-MODULE; 1 ; 1114;0;-30/45/-135/135/0
-MODULE; 2 ; 1014;0;-10/45/-80/80/0;2128
-MODULE; 3 ; 1114;0;-30/45/-135/135/0
-MODULE; 4 ; 1014;0;-10/45/-80/80/0;2128
-PMODULE; 1 ; 1602
-PMODULE; 2 ; 1592
-PMODULE; 3 ; 1563
-PMODULE; 4 ; 1563
+MODULE; 1 ; 1205;0;-30/45/-80/80/0
+MODULE; 2 ; 1205;0;-30/45/-80/80/0
+MODULE; 3 ; 1205;0;-30/45/-80/80/0
+MODULE; 4 ; 1205;0;-30/45/-80/80/0
+PMODULE; 1 ; 1533
+PMODULE; 2 ; 1533
+PMODULE; 3 ; 1533
+PMODULE; 4 ; 1533
 //; ----------------------------- SHIP CARGO -----------------------------------------
 //; ----- CARGO, qty, cargo_id
 <CARGO>
-CARGO; 2251 ; 2128
-CARGO; 4 ; 1533
-CARGO; 4 ; 1205
+CARGO; 2 ; 1402
 //; ----------------------------- SHIP DRONES -----------------------------------------
 //; ----- DRONE, id, hp, energy , is_docked, group_id
 <DRONE>

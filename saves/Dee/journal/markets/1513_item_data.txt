@@ -16,3 +16,4 @@ NPC;-PRICE;64;0;150798.4;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;31;10;84526.86;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;72;0;152073.7;Cecil;Junia;15h 48m 23s ;56903.07
 NPC;BAL;31;-11;87439.78;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;+STOCK;42;11;77814.49;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

@@ -34,3 +34,8 @@ NPC;+PRICE;772;0;117.1709;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;+PRICE;1246;0;81.31816;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+LOCAL;114;42;71.04567;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
 NPC;BAL;147;147;178.3611;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;BAL;34;0;143.6516;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;BAL;390;-122;82.68904;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;496;106;77.16456;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1394;136;97.38203;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;123;-130;106.0612;Nova Labs;Noah Fox;23h 46m 31s ;85591.75

@@ -14,3 +14,7 @@ NPC;+STOCK;96;10;16675.52;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.4
 NPC;+STOCK;37;8;5540.794;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;106;10;15873.49;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;25;-6;18010.9;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
+NPC;BAL;20;-9;6528.75;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+QTY;16;6;16893.33;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4
+NPC;+STOCK;116;10;15223.98;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;8;8;12258.84;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75

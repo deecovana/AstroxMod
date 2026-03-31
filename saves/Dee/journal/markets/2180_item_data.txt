@@ -4,3 +4,4 @@ NPC;+QTY;56;2;10098.69;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
 NPC;+PRICE;76;0;7917.236;Vo Industries;Brimstone;11h 29m 25s ;41365.69
 NPC;BAL;6;-1;10371.46;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;-QTY;54;-2;10014.27;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;+PRICE;24;0;17735.09;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

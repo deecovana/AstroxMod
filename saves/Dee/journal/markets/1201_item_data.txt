@@ -6,3 +6,5 @@ PLAYER;+QTY;7;1;8021.078;Lacuna Bandits;Ballast Crow;6h 35m 35s ;23735.16
 NPC;+QTY;69;6;7851.875;Foodmaid;Daelus;6h 44m 29s ;24269.91
 NPC;+PRICE;4;0;5724.579;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+PRICE;8;0;7119.158;PharmaLife;Carioullis;14h 10m 55s ;51055.01
+NPC;-PRICE;37;0;8109.947;Spacebook;Phistatisia;23h 28m 40s ;84520.21
+NPC;BAL;11;-7;8385.754;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

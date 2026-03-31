@@ -25,3 +25,7 @@ NPC;+STOCK;98;9;23608.63;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;17;9;46970.39;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;16;-9;30779.49;Mazu Starship;Enoch Estates;14h 12m 27s ;51147.38
 NPC;+PRICE;98;0;24063.76;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;54;-9;41292.29;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;109;11;22018.99;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;27;10;45544.81;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;70;0;21313.13;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

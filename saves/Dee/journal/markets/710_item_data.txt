@@ -23,3 +23,10 @@ NPC;+PRICE;56;0;3860.937;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;+LOCAL;5;1;4004.66;Rendo Labs;Entropy;15h 58m 1s ;57481.61
 NPC;BAL;19;0;4873.719;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
 NPC;BAL;5;0;3081.079;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;-QTY;76;-18;3557.063;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-QTY;0;-1;4533.656;Ferce Hub;Semja;19h 7m 15s ;68835.37
+NPC;-PRICE;143;0;2922.008;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;+STOCK;228;19;2613.587;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;100;24;3407.505;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;163;21;2159.926;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;87;0;3418.609;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

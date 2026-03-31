@@ -44,3 +44,14 @@ NPC;+PRICE;30;0;201047.3;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.0
 NPC;-QTY;47;-2;92661;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;34;0;93748.48;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;25;-4;153595.7;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;2;0;179616.2;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;BAL;48;-3;217735.3;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;51;3;207076.9;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;37;3;90110.39;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;34;4;188143.9;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;51;4;88697.58;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;32;4;107892.2;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;59;3;43789.25;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;8;0;147814.3;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;BAL;20;-2;198919.2;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75
+NPC;+STOCK;16;4;114664.8;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

@@ -17,3 +17,5 @@ NPC;+STOCK;53;10;6417.011;StarShepards Headquarters;Void Starcross;14h 1m 15s ;5
 NPC;+PRICE;35;0;13600.77;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;44;-9;6434.465;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;BAL;12;0;11372.44;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+STOCK;101;9;12544.52;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;55;11;6031.27;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

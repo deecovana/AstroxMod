@@ -11,3 +11,5 @@ NPC;+STOCK;62;8;1710.845;StarShepards Headquarters;Void Starcross;12h 16m 20s ;4
 NPC;+QTY;69;7;1704.471;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;-QTY;63;-6;1685.914;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;BAL;29;-9;3961.853;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;+STOCK;29;11;1783.441;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+STOCK;72;9;1562.802;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

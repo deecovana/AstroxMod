@@ -18,3 +18,6 @@ NPC;+STOCK;21;9;25105.94;Starbase Corporate Center;Void Starcross;12h 16m 20s ;4
 NPC;+LOCAL;12;1;56875;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
 NPC;+LOCAL;12;14;56875;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
 NPC;+PRICE;82;0;98504.66;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+STOCK;91;9;93166.41;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;23;11;25083.52;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;50;0;194283;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

@@ -22,3 +22,6 @@ NPC;+PRICE;61;0;1107.171;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;9;0;1140.695;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
 NPC;+QTY;11;9;2165.756;Biomart;Veloxi;18h 20m 21s ;66021.78
 NPC;+STOCK;31;11;1684.975;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02
+NPC;+QTY;10;7;2327.043;Quah Relay Station;Noah Fox;20h 24m 54s ;73494.4
+NPC;+STOCK;70;9;1004.424;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;91;11;629.9229;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

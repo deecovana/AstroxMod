@@ -32,3 +32,9 @@ NPC;BAL;15;0;41.45851;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;+STOCK;12766;2049;15.67145;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;4531;2166;45.6688;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;12766;0;17.85192;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+STOCK;2449;2449;55.29037;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;14572;1806;16.35127;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;6943;2412;44.17035;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;6354;2100;36.80363;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;178;0;36.36644;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
+NPC;BAL;210;0;42.24685;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

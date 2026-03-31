@@ -27,3 +27,8 @@ NPC;+PRICE;11;0;2206.552;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
 NPC;+PRICE;46;0;1429.964;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;-QTY;32;-6;2159.531;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;63;-9;2665.219;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-QTY;38;-8;1428.531;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+QTY;31;7;1501.094;CoraVault;Lins;20h 24m 54s ;73494.4
+PLAYER;+QTY;0;1;0;Lacuna Bandits;Ballast Crow;22h 44m 35s ;81875.95
+NPC;+STOCK;46;8;1283.655;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;74;11;2611.317;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

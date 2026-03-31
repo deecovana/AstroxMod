@@ -4,3 +4,4 @@ NPC;+PRICE;34;0;56510.71;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
 NPC;+QTY;32;2;55991.2;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;34;2;53940.57;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;2;0;31865.5;Gemini Mining;Jala;15h 8m 41s ;54521.68
+NPC;-QTY;32;-2;54179.05;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37

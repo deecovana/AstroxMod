@@ -7,3 +7,5 @@ NPC;-QTY;5;-11;42907.52;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
 NPC;+STOCK;16;11;41673.13;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
 NPC;+STOCK;97;11;43173.49;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;31;-6;50420.22;Desban;Ellisar;15h 52m 52s ;57172.89
+NPC;+STOCK;16;11;40762.11;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+STOCK;106;9;42226.91;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

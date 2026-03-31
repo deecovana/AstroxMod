@@ -29,3 +29,9 @@ NPC;+PRICE;18;0;8472.33;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;37;0;11063.16;Gemini Mining;Jala;15h 8m 41s ;54521.68
 NPC;+PRICE;135;0;7285.126;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;+PRICE;200;0;10592.82;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;81;-12;10276.57;Holosynth Industries;Rats Of Mortalis;20h 19m 44s ;73184.99
+NPC;+STOCK;70;13;11956.8;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+QTY;17;11;9906.563;CoraVault;Lins;20h 24m 54s ;73494.4
+NPC;+STOCK;211;11;10161.07;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;145;10;6563.957;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;47;-10;12783.96;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75

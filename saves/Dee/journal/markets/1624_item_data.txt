@@ -10,3 +10,5 @@ NPC;+STOCK;50;10;323979.5;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;52;8;169625.6;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;59;9;312174;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;75;-7;177677;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;-QTY;43;-9;171232;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+STOCK;54;11;152918.2;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7

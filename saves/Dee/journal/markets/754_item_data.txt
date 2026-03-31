@@ -23,3 +23,7 @@ NPC;+PRICE;47;0;239945;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;30;-12;196521.9;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
 NPC;+STOCK;22;10;268681.9;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
 NPC;+QTY;12;10;145353.1;Tella's;Bitcola;18h 20m 21s ;66021.78
+NPC;-QTY;2;-10;145353.1;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;+STOCK;83;13;111227.6;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;222;10;221323.3;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;20;0;208046.2;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

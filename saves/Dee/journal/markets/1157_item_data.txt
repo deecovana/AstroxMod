@@ -15,3 +15,5 @@ NPC;+LOCAL;12;1;99872.5;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44
 NPC;+STOCK;72;11;151073.1;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;21;9;43970.79;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;12;19;99872.5;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;BAL;55;-6;168517.1;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;21;9;44046.65;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

@@ -13,3 +13,8 @@ NPC;+STOCK;96;8;6504.708;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50
 NPC;+LOCAL;12;15;3250;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
 NPC;+LOCAL;12;5;3250;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
 NPC;+PRICE;99;0;4015.984;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-PRICE;36;0;8297.645;RestJag Outlet;Daefore;19h 7m 15s ;68835.37
+NPC;+STOCK;107;8;3634.945;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;107;11;6254.141;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;10;10;8841.289;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
+NPC;BAL;72;-7;7926.96;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

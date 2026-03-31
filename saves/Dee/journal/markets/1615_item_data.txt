@@ -23,3 +23,6 @@ NPC;+STOCK;42;10;1628.252;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;83;0;2009.731;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;+PRICE;1;0;2266.788;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
 NPC;+STOCK;20;11;1592.779;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02
+NPC;-QTY;73;-10;1998.168;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+STOCK;81;8;1886.168;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;52;10;1585.086;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

@@ -3,3 +3,5 @@ NPC;BAL;16;-2;383458.5;Blargg's;Beacon Spita;6h 1m 51s ;21711.47
 NPC;-QTY;57;-1;175025.6;Temple of the Void;Vindicati;9h 48m 4s ;35284.71
 NPC;+STOCK;59;2;166330.4;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;BAL;15;-2;251778.4;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;+QTY;12;1;226087.8;CoraVault;Lins;20h 24m 54s ;73494.4
+NPC;BAL;14;-1;257745.8;Nova Labs;Noah Fox;23h 46m 31s ;85591.75

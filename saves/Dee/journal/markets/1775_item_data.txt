@@ -17,3 +17,6 @@ NPC;+STOCK;21;10;7565.218;Starbase Corporate Center;Void Starcross;14h 1m 15s ;5
 NPC;+STOCK;86;11;4093.771;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;12;1;5727.632;Transporteers;Hunu;18h 15m 58s ;65758.95
 NPC;BAL;31;-8;8887.531;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;+STOCK;30;9;7429.655;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;94;8;3942.458;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;18;0;9706.458;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

@@ -1,4 +1,11 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;2;Ship Energy Systems;2 min;14;1494.0;683656.853028297;Biomate University;Void Starcross;23h 33m 44s 
+SKILL;2;Launcher Basic Operation;4 min;8;3880.0;704934.946778297;Biomate University;Void Starcross;23h 21m 11s 
+SKILL;1;Launcher Basic Operation;2 min;4;1940.0;718248.69775486;Biomate University;Void Starcross;23h 5m 42s 
+SKILL;3;Ship Cargo Stacker;2 min;15;1290.0;828116.12353611;Lacuna Bandits;Ballast Crow;22h 49m 35s 
+SKILL;4;Projectile Basic Operation;8 min;20;6040.0;717307.425247192;Biomate University;Void Starcross;21h 6m 23s 
+SKILL;3;Ship Shield Regeneration;3 min;24;3465.0;1489531.32568288;Astrox Security Patrol;Felishar;20h 28m 24s 
+SKILL;2;Max Mission Contracts;3 min;8;1620.0;1227788.61083913;Biomate University;Void Starcross;20h 15m 9s 
 SKILL;3;Projectile Basic Operation;24 min;15;4530.0;1121322.15620852;Biomate University;Void Starcross;18h 28m 0s 
 SKILL;1;Max Mission Contracts;2 min;4;810.0;1125852.15620852;Biomate University;Void Starcross;18h 27m 20s 
 SKILL;5;Laser Basic Operation;10 min;30;10175.0;1126662.15620852;Biomate University;Void Starcross;18h 20m 55s 

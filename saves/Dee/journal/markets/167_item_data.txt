@@ -43,3 +43,9 @@ NPC;-LOCAL;24;24;97.425;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
 NPC;+PRICE;24;0;102.987;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;49;0;67.05788;Rendo Labs;Entropy;18h 20m 20s ;66020.74
 NPC;+QTY;170;84;39.08366;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;+STOCK;159;135;101.2319;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1061;103;35.93612;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;302;129;37.31169;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1542;124;52.72703;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;364;0;85.52481;Astrox Security Patrol;Felishar;23h 4m 30s ;83070.77
+NPC;+STOCK;733;140;42.34088;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

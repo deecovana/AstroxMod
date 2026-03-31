@@ -19,3 +19,6 @@ NPC;+STOCK;109;10;928.1642;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;16;0;491.8034;Xellon;Ele;15h 8m 41s ;54521.68
 NPC;+PRICE;9;0;747.9843;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
 NPC;BAL;3;0;933.6945;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
+NPC;+PRICE;43;0;548.7584;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+PRICE;50;0;625.7381;Astrox Security Patrol;Felishar;23h 4m 30s ;83070.77
+NPC;+LOCAL;12;31;365.235;Astrox Security Patrol;Felishar;23h 11m 54s ;83514.81

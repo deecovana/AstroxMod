@@ -2,3 +2,5 @@ NPC;+STOCK;33;2;373.0514;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
 NPC;+STOCK;35;2;332.7775;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
 NPC;+QTY;30;2;981.3964;Holosynth Industries;Rats Of Mortalis;4h 54m 45s ;17685.59
 NPC;-PRICE;35;0;305.7338;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
+NPC;+STOCK;37;2;274.4996;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;64;2;998.5728;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

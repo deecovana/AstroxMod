@@ -4,7 +4,7 @@ SECTOR;name;Lightless
 SECTOR;level;2.8
 SECTOR;faction;Temple
 SECTOR;filename;sector_102.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;resources#40542#11#29
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;-458.9622;201.1499;-2574.792
@@ -61,27 +61,27 @@ STARLIGHT;color_4;0.50;0.15;0.00;0.50
 STARLIGHT;color_5;0.00;0.23;0.00;1.00
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_102_station_0.txt;-2499.048;765.5282;1663.66
+STATION;sector_102_station_0.txt;-2499.048;765.5282;1663.66;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;-950.1;352.8;1730.7
-STRUCTURE;structure_gun_platform_1.txt;143.5;386.1;1245.9
-STRUCTURE;structure_energy_gen_1.txt;-416.4;245.0;1758.3
-STRUCTURE;structure_office_1.txt;-949.0;359.0;1180.2
-STRUCTURE;structure_storage_1.txt;-411.4;359.9;1200.4
+STRUCTURE;structure_storage_1.txt;-411.52;359.93;1200.39
+STRUCTURE;structure_office_1.txt;-948.97;359.07;1180.15
+STRUCTURE;structure_energy_gen_1.txt;-416.40;245.00;1758.30
+STRUCTURE;structure_gun_platform_1.txt;140.76;386.20;1246.80
+STRUCTURE;structure_habitat_1.txt;-950.20;352.14;1730.25
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;5;100;50;150;10000;574.2;386.8;-931.0;
 
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;5;1138.6;503.0;-1007.5;1000.0;1000.0
-RESOURCE;5;219.4;465.2;-1202.7;900.0;900.0
-RESOURCE;5;69.1;557.6;-299.6;700.0;700.0
-RESOURCE;5;-560.1;527.6;-777.8;500.0;500.0
+RESOURCE;5;1138.6;503.0;-1007.5;1000;0
+RESOURCE;5;216.6;490.9;-1206.1;900;0
+RESOURCE;5;53.9;587.6;-302.8;700;0
+RESOURCE;5;-644.1;577.6;-730.1;500;0
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_98.txt;4;2671.9;647.1;-1407.4;0;Temple;0.0
+WARPGATE;1;sector_98.txt;4;2671.9;647.1;-1407.4;0;Temple;0.0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;19;0;0;0;0;0;0;0.15,0.12,0.10,0.12;//fog
@@ -98,3 +98,5 @@ NPC_SHIP;npc_ship_data_(excavation_carrier_1);319.87;-1207.12;571.79;12;10
 NPC_SHIP;npc_ship_data_(pirate_cruiser_1);-886.53;1066.05;-249.98;10;8
 NPC_SHIP;npc_ship_data_(recon_escort_raider);18.77;-520.58;1250.59;12;7
 
+
+// CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty

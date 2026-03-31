@@ -3,3 +3,6 @@ NPC;+STOCK;78;2;1249.158;StarShepards Headquarters;Void Starcross;12h 16m 20s ;4
 NPC;+QTY;35;1;620.1717;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;+QTY;79;1;1244.281;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;81;2;1184.082;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;34;-1;726.3609;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;+STOCK;83;2;1121.368;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;52;0;913.2687;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

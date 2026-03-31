@@ -15,3 +15,5 @@ NPC;+STOCK;59;2;1204.71;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;45;2;614.3628;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;43;-2;619.1172;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;59;0;1218.615;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+STOCK;61;2;1178.866;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;24;-1;531.4194;Nova Labs;Noah Fox;23h 46m 31s ;85591.75

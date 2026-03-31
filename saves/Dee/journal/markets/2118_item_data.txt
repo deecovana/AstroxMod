@@ -28,3 +28,11 @@ NPC;BAL;27;0;333.3254;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;+STOCK;9758;2043;271.4733;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;3836;2427;335.0496;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;180;0;331.2909;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;-QTY;0;-100;211.2228;Mazu Starship;Enoch Estates;19h 7m 15s ;68835.37
+NPC;-QTY;0;-17;254.3559;Ferce Hub;Semja;19h 7m 15s ;68835.37
+NPC;-PRICE;403;0;221.8457;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;+STOCK;11846;2088;256.8191;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;6111;2275;327.5509;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;143;0;297.9264;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+PLAYER;-QTY;1694;402;356.0156;Star Shepard's Temple;Lightless;24h 18m 32s ;87512.73
+PLAYER;-QTY;1648;46;359.5156;Star Shepard's Temple;Lightless;24h 23m 16s ;87796.75

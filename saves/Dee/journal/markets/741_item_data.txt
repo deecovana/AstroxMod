@@ -27,3 +27,9 @@ NPC;+PRICE;90;0;41919.69;Cecil;Junia;15h 48m 23s ;56903.07
 NPC;+PRICE;55;0;43698.4;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;+PRICE;47;0;41040.21;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;3;0;39429.83;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;BAL;183;-14;42705.61;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+QTY;64;7;48169.69;CoraVault;Lins;20h 24m 54s ;73494.4
+NPC;+STOCK;60;13;39133.69;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;68;13;42407.79;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;133;13;24955.58;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;148;-7;37312.29;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

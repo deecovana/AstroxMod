@@ -52,3 +52,15 @@ NPC;-QTY;12;-3;1460.875;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57
 NPC;BAL;5;0;9189.697;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;BAL;4;0;7860.082;Rendo Labs;Entropy;18h 20m 20s ;66020.74
 NPC;+QTY;13;4;8413.125;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;-QTY;22;-2;4814.125;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-PRICE;7;0;9257.675;PharmaLife;Carioullis;19h 7m 15s ;68835.37
+NPC;-PRICE;21;0;10116.22;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;BAL;20;-2;10598.89;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;BAL;32;-3;5558.176;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+PLAYER;+QTY;33;1;5582.688;Biomate University;Void Starcross;20h 59m 27s ;75567.1
+NPC;+STOCK;36;3;5214.543;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;37;3;8528.49;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;20;3;9807.873;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;12;3;8239.558;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;5;1;3250;StarShepards Headquarters;Void Starcross;23h 28m 54s ;84534.91
+NPC;BAL;5;0;8473.297;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

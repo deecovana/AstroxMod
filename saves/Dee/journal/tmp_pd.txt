@@ -1,25 +1,25 @@
 // PLAYER;Variable;Value
 <PLAYER>
 PLAYER;name;Dee
-PLAYER;level;10
-PLAYER;xp;51044.00
-PLAYER;next_level_xp;54100.00
-PLAYER;last_level_xp;44100.00
+PLAYER;level;12
+PLAYER;xp;67448.00
+PLAYER;next_level_xp;77100.00
+PLAYER;last_level_xp;65100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;1362561.89
+PLAYER;credits;610868.09
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;10
-PLAYER;playtime;68490.07
+PLAYER;skill_points;59
+PLAYER;playtime;90686.13
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
-PLAYER;max_missions;2
+PLAYER;max_missions;3
 PLAYER;face_1;male_13.png
 PLAYER;face_2;accessory_1.png
 PLAYER;face_bg;bgimg_14.png
 PLAYER;profession_id;20
-PLAYER;passive_scanner_settings;False,False,False,False,False,False,True,True,True
+PLAYER;passive_scanner_settings;False,False,False,False,False,False,False,True,True
 PLAYER;autopilot_settings;True,False,True,True,False
-PLAYER;orbit_data;False,500,45,6,False
+PLAYER;orbit_data;True,750,30,9,False
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
 PLAYER;cargo_settings;ALL,Name,Ascend,1
 PLAYER;targeting_settings;Name,Descend
@@ -34,10 +34,8 @@ PLAYER;isdocked;False
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(transport_frigate_1)46712.txt;True;False;sector_14_station_1.txt;sector_14.txt;1412.13;-910.77;-2136.03
-SHIP;ship_data_(excavation_escort_1)43359.txt;False;False;sector_0_station_0.txt;sector_0.txt;3529.03;200.47;2319.99
-SHIP;ship_data_(recon_escort_2)97593.txt;False;False;sector_0_station_0.txt;sector_0.txt;2500.67;-597.29;-678.61
-SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_0.txt;sector_0.txt;-921.05;-51.61;-4501.53
+SHIP;ship_data_(recon_frigate_1)52479.txt;True;False;sector_0_station_0.txt;sector_0.txt;1384.92;-909.88;-2296.06
+SHIP;ship_data_(transport_frigate_1)46712.txt;False;False;sector_0_station_0.txt;sector_14.txt;-633.68;-34.60;-5014.60
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
@@ -48,22 +46,23 @@ SKILL;215;2;0;60
 SKILL;41;3;0;360
 SKILL;11;5;0;600
 SKILL;60;3;0;360
-SKILL;61;2;0;120
-SKILL;58;2;0;0
+SKILL;61;3;0;180
+SKILL;58;3;0;90
 SKILL;52;3;0;210
 SKILL;101;1;0;0
 SKILL;21;3;0;360
-SKILL;1;3;0;720
+SKILL;1;4;0;480
 SKILL;216;1;0;60
 SKILL;217;1;0;90
 SKILL;71;3;0;270
 SKILL;51;1;0;60
 SKILL;53;3;0;270
-SKILL;64;1;0;55
+SKILL;64;2;0;110
 SKILL;54;1;0;60
 SKILL;44;1;0;120
 SKILL;14;1;0;120
-SKILL;100;1;0;85
+SKILL;100;2;0;170
+SKILL;31;2;0;240
 
 
 
@@ -73,25 +72,27 @@ MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful 
 MEDAL;8;True;medal_17.png;First Mission Completed;Awarded for the successful completion of your very first Mission. 
 MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your first raider in combat. 
 MEDAL;15;True;medal_2a.png;Excavation Operations Officer;Awarded for the successful operation of a Mining beam module for 2,000 cycles.
+MEDAL;11;True;medal_1b.png;Laser Operations Officer;Awarded for the successful operation of a Laser Active Weapon module for 2,000 cycles.
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
+MISSION;100;222;304100;KILL_RECOVER#sector_101_station_0.txt#sector_100.txt#Chairman Feiwen Binoyelwo#npc_ship_data_(excavation_shuttle_1)#13#1#1155#null;Kill and Rob <color='yellow'><i>Chairman Feiwen Binoyelwo</i></color> in <color='cyan'>Grace</color> and return to Vo Industries in <color='cyan'>Brimstone</color> with <color='yellow'>1</color> of <color='yellow'>Pulse Beam Class 6</color>;5;0;False;106118;76900;<i>Bunsiv Tiile</i> was hijacked for <color='yellow'>1</color> <color='yellow'>Pulse Beam Class 6</color> by a pilot named <color='yellow'><i>Chairman Feiwen Binoyelwo</i></color>. The Commerce has approved a 'Kill and Recover' contract for the criminal <color='yellow'><i>Chairman Feiwen Binoyelwo</i></color>. Last seen in the <color='cyan'>Grace</color> system, <color='yellow'><i>Chairman Feiwen Binoyelwo</i></color> is considered to be un-prepared for combat. Take him out and return the <color='yellow'>Pulse Beam Class 6</color> to Vo Industries in <color='cyan'>Brimstone</color>.<color='orange'>The Extractors faction will not favor this action, and penalize your faction standing.</color>
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
 STAT;0;;0;
-STAT;1;Projectile Weapons Fired;36;Weapons
-STAT;2;Laser Weapons Fired;767;Weapons
+STAT;1;Projectile Weapons Fired;253;Weapons
+STAT;2;Laser Weapons Fired;2134;Weapons
 STAT;3;Beam Weapons Fired;35;Weapons
-STAT;4;Launcher Weapons Fired;0;Weapons
+STAT;4;Launcher Weapons Fired;533;Weapons
 STAT;5;Torpedo Weapons Fired;0;Weapons
 STAT;6;Salvage Beams Fired;90;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;4077;Excavation
+STAT;10;Mining lasers Fired;4272;Excavation
 STAT;11;Adamyte Ore Mined;18927;Excavation
-STAT;12;Gradeon Ore Mined;5089;Excavation
+STAT;12;Gradeon Ore Mined;7049;Excavation
 STAT;13;Quazor Ore Mined;1776;Excavation
 STAT;14;Lokken Ore Mined;4434;Excavation
 STAT;15;Torim Ore Mined;1717;Excavation
@@ -105,33 +106,33 @@ STAT;22;Junk Collected;152;Excavation
 STAT;23;Scraps Collected;0;Excavation
 STAT;24;Salvage Collected;0;Excavation
 STAT;25;Derelicts Collected;0;Excavation
-STAT;26;Missions Complete;31;Missions
+STAT;26;Missions Complete;38;Missions
 STAT;27;Missions Expired;0;Missions
 STAT;28;Missions Aborted;0;Missions
 STAT;29;Transport Missions Complete;0;Missions
 STAT;30;Collection Missions Complete;0;Missions
-STAT;31;Delivery Missions Complete;7;Missions
-STAT;32;Recon Missions Complete;0;Missions
+STAT;31;Delivery Missions Complete;8;Missions
+STAT;32;Recon Missions Complete;1;Missions
 STAT;33;Harvest Missions Complete;5;Missions
 STAT;34;Escort Missions Complete;1;Missions
-STAT;35;Recover Missions Complete;1;Missions
-STAT;36;Kill Missions Complete;26;Missions
+STAT;35;Recover Missions Complete;2;Missions
+STAT;36;Kill Missions Complete;29;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
-STAT;38;Sectors Explored;15;Navigation
-STAT;39;Warp gate Jumps;167;Navigation
+STAT;38;Sectors Explored;17;Navigation
+STAT;39;Warp gate Jumps;215;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
-STAT;42;Dialog Missions Complete;0;Missions
+STAT;42;Dialog Missions Complete;1;Missions
 STAT;43;Salvage Missions Complete;3;Missions
 STAT;44;Refinery Missions Complete;1;Missions
-STAT;45;Fabricator Missions Complete;0;Missions
+STAT;45;Fabricator Missions Complete;2;Missions
 STAT;46;;0;
 STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
-STAT;50;Skill Levels Trained;33;Skills
-STAT;51;Skill Points Earned;269;Skills
-STAT;52;Skill Points Spent;397;Skills
+STAT;50;Skill Levels Trained;40;Skills
+STAT;51;Skill Points Earned;371;Skills
+STAT;52;Skill Points Spent;490;Skills
 STAT;53;;0;
 STAT;54;;0;
 STAT;55;;0;
@@ -139,12 +140,12 @@ STAT;56;;0;
 STAT;57;;0;
 STAT;58;Structures Destroyed;0;Combat
 STAT;59;Npcs Destroyed;0;Combat
-STAT;60;Raiders Destroyed;14;Combat
-STAT;61;Projectile Damage Taken;689;Combat
-STAT;62;Laser Damage Taken;390;Combat
-STAT;63;Beam Damage Taken;0;Combat
-STAT;64;Missile Damage Taken;125;Combat
-STAT;65;Torpedo Damage Taken;460;Combat
+STAT;60;Raiders Destroyed;24;Combat
+STAT;61;Projectile Damage Taken;2222;Combat
+STAT;62;Laser Damage Taken;3717;Combat
+STAT;63;Beam Damage Taken;393;Combat
+STAT;64;Missile Damage Taken;425;Combat
+STAT;65;Torpedo Damage Taken;2320;Combat
 
 // KEY; Sector ; gate_id
 <KEY>
@@ -157,3 +158,4 @@ STAT;65;Torpedo Damage Taken;460;Combat
 PLOT;welcome_center;2
 PLOT;tutorial_intro;4
 PLOT;tutorial_combat;2
+PLOT;752777.debt_wait;1

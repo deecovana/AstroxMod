@@ -35,3 +35,10 @@ NPC;+STOCK;298;148;18.88755;Starbase Corporate Center;Void Starcross;14h 1m 15s 
 NPC;+PRICE;142;0;85.79407;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;485;0;128.2361;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;+PRICE;1084;0;122.2731;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;461;-91;137.1498;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;+STOCK;1229;145;117.2871;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;613;128;123.7179;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;564;143;53.35062;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;447;149;18.92014;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;262;-135;93.94941;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;+STOCK;892;147;76.15681;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

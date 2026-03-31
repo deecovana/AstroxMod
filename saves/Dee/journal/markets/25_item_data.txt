@@ -44,3 +44,10 @@ NPC;-QTY;0;-258;2048.827;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;0;-327;3305.119;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
 NPC;+PRICE;0;0;2174.968;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;-LOCAL;110;0;3588.75;Transporteers;Hunu;18h 15m 58s ;65758.95
+NPC;-QTY;15397;-4042;2365.106;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+STOCK;9242;4311;1624.401;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;25001;3572;1561.891;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;19010;3613;2191.464;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;7621;3594;3623.489;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;16733;3549;1567.407;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;-LOCAL;0;0;7975;ValueStar;Hunu;23h 47m 10s ;85630.92

@@ -25,3 +25,7 @@ NPC;+STOCK;614;103;458.9051;StarShepards Headquarters;Void Starcross;14h 1m 15s 
 NPC;+STOCK;293;143;79.47079;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;150;256;180.505;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
 NPC;+PRICE;146;0;274.9995;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;+STOCK;382;124;418.8933;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;753;139;431.1736;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;268;118;79.60791;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;138;-87;272.5519;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

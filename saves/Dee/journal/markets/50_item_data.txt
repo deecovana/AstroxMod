@@ -33,3 +33,5 @@ NPC;+STOCK;3710;2201;20.95138;Starbase Corporate Center;Void Starcross;14h 1m 15
 NPC;+PRICE;15;0;28.84307;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;-QTY;0;-22;25.18579;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;+PRICE;0;0;26.32403;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;BAL;2203;0;20.78068;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;13055;1754;6.950554;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

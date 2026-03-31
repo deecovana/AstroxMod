@@ -24,3 +24,4 @@ NPC;+LOCAL;12;20;15080;Starbase Corporate Center;Void Starcross;14h 13m 23s ;512
 NPC;-QTY;36;-6;28586.46;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;71;0;50420.54;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+PRICE;37;0;49812.81;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;+STOCK;45;9;26249.98;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

@@ -37,3 +37,13 @@ NPC;BAL;38;0;109.9287;Dustardz;Redsky;14h 12m 27s ;51147.38
 NPC;-QTY;0;-248;120.9937;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
 NPC;-QTY;3261;-2145;164.5228;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;7602;0;83.0332;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-PRICE;14;0;64.96138;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;BAL;2132;0;129.174;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;BAL;102;0;65.53664;Holosynth Industries;Rats Of Mortalis;20h 19m 44s ;73184.99
+NPC;+STOCK;1825;1825;115.1736;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+STOCK;4564;2432;122.0347;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;9666;2064;75.84225;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;5084;1823;156.8606;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;6597;1903;101.4607;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;11437;2183;46.22415;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1691;1691;112.3245;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

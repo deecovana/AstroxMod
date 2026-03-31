@@ -29,3 +29,10 @@ NPC;-LOCAL;65;65;66.45271;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
 NPC;-LOCAL;51;51;65.82114;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
 NPC;+PRICE;51;0;68.62605;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+PRICE;71;0;62.47307;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;-QTY;651;-120;49.1265;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;468;-116;54.07534;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;+QTY;88;80;55.41725;CoraVault;Lins;20h 24m 54s ;73494.4
+NPC;+STOCK;193;142;65.64832;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;759;108;47.68142;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;693;0;64.30592;Valuestar Hub;Jelumus;23h 4m 30s ;83070.77
+NPC;+STOCK;794;100;49.17817;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

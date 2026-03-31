@@ -6,3 +6,6 @@ NPC;+LOCAL;150;674;280.4425;StarShepards Headquarters;Void Starcross;10h 9m 47s 
 NPC;+PRICE;668;0;619.5993;Vo Industries;Brimstone;11h 29m 25s ;41365.69
 NPC;+STOCK;299;149;126.0589;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;207;-92;126.0589;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+STOCK;345;138;120.5633;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;150;205;280.4425;StarShepards Headquarters;Void Starcross;23h 28m 54s ;84534.91
+NPC;+LOCAL;75;26;550.6587;Star Shepard's Temple;Lightless;24h 32m 19s ;88339.93

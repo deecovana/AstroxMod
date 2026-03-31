@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;10
 SECTOR;name;Lux
-SECTOR;level;0.6
+SECTOR;level;0.5
 SECTOR;faction;Labor
 SECTOR;filename;sector_10.txt
 SECTOR;is_explored;False

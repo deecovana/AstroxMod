@@ -41,3 +41,13 @@ NPC;+PRICE;217;0;44.12832;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
 NPC;+PRICE;1190;0;22.77615;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;+PRICE;859;0;49.11503;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;481;-245;34.85886;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;-QTY;0;-43;37.75026;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;-QTY;1065;-125;22.79225;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+STOCK;822;196;45.14415;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1092;233;46.01463;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1273;208;21.50003;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;2153;239;43.03346;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1086;214;29.17543;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;1261;0;42.48344;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;BAL;297;-184;37.53725;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;+STOCK;1161;185;34.32073;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

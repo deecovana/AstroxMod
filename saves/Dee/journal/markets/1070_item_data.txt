@@ -9,3 +9,7 @@ NPC;+PRICE;1;0;21170.9;Biomate University;Void Starcross;11h 3m 47s ;39827.63
 NPC;+STOCK;10;9;19815.25;Biomate University;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;85;10;26222.14;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+PRICE;54;0;26147.33;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;-QTY;74;-11;26255.46;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-PRICE;10;0;34072.02;RestJag Outlet;Daefore;19h 7m 15s ;68835.37
+NPC;+STOCK;20;10;18921.26;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;82;8;24271.44;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7

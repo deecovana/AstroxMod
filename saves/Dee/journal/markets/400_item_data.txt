@@ -14,3 +14,9 @@ NPC;+STOCK;223;145;532.7662;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;+STOCK;999;105;663.6974;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;492;0;653.8541;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;65;0;855.5828;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
+NPC;BAL;812;-82;742.6539;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;469;141;1189.504;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+QTY;144;97;664.5896;CoraVault;Lins;20h 24m 54s ;73494.4
+NPC;+STOCK;932;120;713.1058;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;12;0;1257.498;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;BAL;123;-78;637.7375;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

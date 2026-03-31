@@ -43,3 +43,10 @@ NPC;+LOCAL;150;83;13.9425;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
 NPC;+PRICE;150;0;5.669705;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+QTY;412;91;27.30371;PharmaLife;Carioullis;18h 20m 21s ;66021.78
 NPC;+LOCAL;150;106;13.9425;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44
+NPC;-PRICE;412;0;25.59322;PharmaLife;Carioullis;19h 7m 15s ;68835.37
+NPC;+STOCK;223;147;45.8831;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+STOCK;255;105;4.742395;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1205;125;34.12349;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;242;0;39.31817;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;BAL;76;0;44.90331;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
+NPC;BAL;536;-75;33.39601;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

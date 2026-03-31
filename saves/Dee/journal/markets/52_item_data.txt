@@ -32,3 +32,14 @@ NPC;+PRICE;87;0;38.65821;Xellon;Ele;15h 8m 41s ;54521.68
 NPC;+PRICE;5898;0;41.8525;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;+QTY;1768;1674;47.3341;Tella's;Bitcola;18h 20m 21s ;66021.78
 NPC;+STOCK;1711;1701;47.50662;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02
+NPC;-QTY;0;-1768;47.3341;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;-QTY;3978;-1920;41.71811;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+QTY;1750;1734;50.92381;Quah Relay Station;Noah Fox;20h 24m 54s ;73494.4
+NPC;+STOCK;5828;1850;40.11185;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;5934;1964;33.73339;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;108;0;31.16225;Nova Labs;Noah Fox;23h 4m 30s ;83070.77
+NPC;+PRICE;347;0;30.43968;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+PRICE;0;0;28.54269;Astrox Security Patrol;Felishar;23h 4m 30s ;83070.77
+NPC;-PRICE;166;0;22.68748;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21
+NPC;BAL;63;0;35.78946;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;+STOCK;2216;2088;50.85228;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

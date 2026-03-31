@@ -17,7 +17,7 @@ STATION;seed;3-4-0-1-3-0-8-1-5-4-1-5-0-2-7-3-7-90
 STATION;interior_seed;3-7-0-9
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;64556.98
+STATION;last_dock_time;74016.27
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -42,147 +42,151 @@ MERC;7;1.92;npc_ship_data_(excavation_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (3) Items ;213x689,211x862,209x273;240226;135270.80
+BUYORDER;Market Demands: (3) Items ;215x872,211x311,211x831;295598;118969.70
+BUYORDER;Market Shortage: (3) Items ;211x143,212x572,215x261;190644;106046.90
+BUYORDER;Market Low Inventory: (1) Items ;214x164;33172;146745.90
 BUYORDER;Market Shortage: (1) Items ;214x83;19491.00;105658.30
 BUYORDER;Market Out of Stock: (3) Items ;215x110,209x60,213x589;149367.00;104486.50
 BUYORDER;Market Shortage: (2) Items ;216x392,212x510;180140.00;115857.50
 SELLORDER;Sale Request Order: (2) Items ;1779x5,1640x4;71214.00;89750.73
 BUYORDER;Market Demands: (3) Items ;217x232,212x151,212x96;130103.00;90913.28
-ITEM;1;48;0.58;7.69
-ITEM;52;45;0.73;29.53
-ITEM;302;5;0.77;38.04
-ITEM;1052;1;1.10;2302.04
-ITEM;153;74;1.12;12.76
-ITEM;1520;9;1.09;1241.19
-ITEM;1620;7;0.99;1431.30
-ITEM;2329;6;1.23;21802.38
-ITEM;1530;7;1.16;2566.08
-ITEM;2385;4;1.08;87.30
-ITEM;1750;9;0.66;1193.96
-ITEM;1640;2;1.25;7339.67
-ITEM;1570;7;0.83;1900.38
-ITEM;1580;4;0.52;2292.66
-ITEM;1510;7;1.22;6402.29
-ITEM;1650;5;0.85;4788.71
-ITEM;620;2;0.99;4454.44
-ITEM;1630;2;0.76;4214.74
-ITEM;1540;4;1.08;1102.32
-ITEM;2284;5;1.15;14172.27
-ITEM;2406;5;0.82;432.53
-ITEM;1615;1;1.23;2751.00
-ITEM;1600;1;0.87;912.81
-ITEM;1560;9;1.11;1287.87
-ITEM;2294;1;1.07;14842.93
-ITEM;1610;6;0.72;769.28
-ITEM;1500;9;0.60;590.65
-ITEM;1590;2;0.64;906.47
-ITEM;2309;8;1.05;19123.30
-ITEM;1110;7;0.92;820.89
-ITEM;727;5;1.05;14263.31
-ITEM;729;15;0.80;10513.31
-ITEM;406;6;1.08;30.41
-ITEM;403;9;0.78;15.66
-ITEM;101;88;0.87;0.58
-ITEM;168;5;0.69;32.56
-ITEM;404;5;1.07;24.27
-ITEM;300;9;1.23;70.34
-ITEM;301;8;0.91;112.63
-ITEM;218;0;1.20;268.14
-ITEM;660;2;1.12;5104.44
-ITEM;2118;17;0.83;255.81
-ITEM;151;6;0.60;6.26
-ITEM;1120;6;0.87;1079.24
-ITEM;62;41;1.05;133.12
-ITEM;1001;2;0.85;976.15
-ITEM;1003;1;0.57;517.98
-ITEM;1002;4;0.95;1021.07
-ITEM;405;2;0.54;13.67
-ITEM;743;38;0.69;97654.95
-ITEM;748;40;0.68;95982.85
-ITEM;731;39;0.79;114168.30
-ITEM;753;43;0.71;101549.80
-ITEM;759;37;0.81;117029.50
-ITEM;679;3;1.23;163978.70
-ITEM;741;31;0.69;26509.76
-ITEM;746;27;0.70;27252.29
-ITEM;730;8;0.52;18939.94
-ITEM;751;41;0.71;27482.26
-ITEM;757;32;0.77;30389.24
-ITEM;1170;1;0.78;1974.57
-ITEM;20;43;0.93;81.43
-ITEM;51;37;1.11;36.19
-ITEM;2119;30;0.76;290.79
-ITEM;742;39;0.71;60591.40
-ITEM;747;14;1.07;97088.76
-ITEM;733;33;0.68;58009.57
-ITEM;211;0;1.34;129.54
-ITEM;752;41;0.77;67276.17
-ITEM;758;30;0.78;68337.33
-ITEM;712;13;0.92;123133.10
-ITEM;209;0;1.31;108.83
-ITEM;692;18;0.51;6574.20
-ITEM;700;9;1.22;5604.44
-ITEM;2250;2;1.19;719985.80
-ITEM;690;5;1.16;15913.31
-ITEM;1460;3;1.07;53398.82
-ITEM;158;72;1.02;41.72
-ITEM;2434;2;0.71;332.32
-ITEM;155;50;0.75;14.51
-ITEM;680;1;1.21;27772.19
-ITEM;672;3;0.86;159786.40
-ITEM;740;44;0.70;9006.17
-ITEM;745;15;0.25;2263.31
-ITEM;676;8;1.08;98088.76
-ITEM;732;31;0.83;11021.72
-ITEM;750;4;1.15;15763.31
-ITEM;756;40;0.81;10648.51
-ITEM;214;0;1.17;165.25
-ITEM;157;36;0.92;35.22
-ITEM;728;15;0.25;2263.31
-ITEM;210;0;1.32;116.81
-ITEM;212;0;1.17;118.01
-ITEM;150;50;0.74;7.31
-ITEM;2220;3;0.90;43247.93
-ITEM;407;9;0.93;358.11
-ITEM;103;71;0.51;0.38
-ITEM;1160;1;0.83;2009.94
-ITEM;213;0;1.23;137.34
-ITEM;600;3;1.10;5004.44
-ITEM;2117;41;0.85;202.74
-ITEM;1150;3;1.21;2777.22
-ITEM;1100;7;1.00;450.44
-ITEM;1050;7;1.12;2143.86
-ITEM;726;37;0.65;8282.01
-ITEM;164;54;0.96;19.63
-ITEM;1400;5;0.76;3634.88
-ITEM;721;30;0.69;3527.70
-ITEM;722;27;0.82;4344.51
-ITEM;216;0;1.22;227.84
-ITEM;720;41;0.74;3816.00
-ITEM;217;0;1.34;290.61
-ITEM;215;0;1.24;221.07
-ITEM;723;25;0.66;3357.44
-ITEM;2550;7;0.54;31743.90
-ITEM;755;13;0.74;3845.33
-ITEM;2556;8;0.91;58383.90
-ITEM;725;8;0.89;11863.31
-ITEM;710;1;1.01;4554.44
-ITEM;152;71;0.59;6.04
-ITEM;156;85;1.13;34.12
-ITEM;640;2;0.57;2354.44
-ITEM;744;31;0.73;156662.20
-ITEM;749;15;0.25;37721.88
-ITEM;734;28;0.85;187342.10
-ITEM;754;34;0.77;168101.60
-ITEM;760;43;0.75;161925.60
-ITEM;75;4;0.98;110.90
-ITEM;2416;6;0.93;1255.47
-ITEM;77;2;0.84;174.70
-ITEM;78;45;0.85;229.02
-ITEM;2120;8;0.79;280.09
-ITEM;2122;17;1.04;640.27
-ITEM;100;35;1.10;0.50
-ITEM;408;4;1.03;4869.47
-ITEM;1470;6;1.21;68875.02
+ITEM;1;0;0.58;7.6277
+ITEM;52;45;0.73;7.6277
+ITEM;302;5;0.77;7.6277
+ITEM;1052;1;1.10;7.6277
+ITEM;153;74;1.12;7.6277
+ITEM;1520;9;1.09;7.6277
+ITEM;1620;0;0.99;1424.622
+ITEM;2329;4;1.23;21722.25
+ITEM;1530;7;1.16;21722.25
+ITEM;2385;4;1.08;21722.25
+ITEM;1750;9;0.66;21722.25
+ITEM;1640;2;1.25;21722.25
+ITEM;1570;7;0.83;21722.25
+ITEM;1580;4;0.52;21722.25
+ITEM;1510;0;1.22;6378.545
+ITEM;1650;0;0.85;4762.204
+ITEM;620;2;0.99;4762.204
+ITEM;1630;2;0.76;4762.204
+ITEM;1540;4;1.08;4762.204
+ITEM;2284;5;1.15;4762.204
+ITEM;2406;5;0.82;4762.204
+ITEM;1615;1;1.23;4762.204
+ITEM;1600;1;0.87;4762.204
+ITEM;1560;9;1.11;4762.204
+ITEM;2294;1;1.07;4762.204
+ITEM;1610;6;0.72;4762.204
+ITEM;1500;9;0.60;4762.204
+ITEM;1590;0;0.64;899.5079
+ITEM;2309;8;1.05;899.5079
+ITEM;1110;7;0.92;899.5079
+ITEM;727;5;1.05;899.5079
+ITEM;729;15;0.80;899.5079
+ITEM;406;6;1.08;899.5079
+ITEM;403;9;0.78;899.5079
+ITEM;101;88;0.87;899.5079
+ITEM;168;5;0.69;899.5079
+ITEM;404;5;1.07;899.5079
+ITEM;300;9;1.23;899.5079
+ITEM;301;8;0.91;899.5079
+ITEM;218;0;1.20;266.5057
+ITEM;660;2;1.12;266.5057
+ITEM;2118;0;0.83;254.3559
+ITEM;151;6;0.60;254.3559
+ITEM;1120;6;0.87;254.3559
+ITEM;62;41;1.05;254.3559
+ITEM;1001;2;0.85;254.3559
+ITEM;1003;1;0.57;254.3559
+ITEM;1002;4;0.95;254.3559
+ITEM;405;2;0.54;254.3559
+ITEM;743;38;0.69;254.3559
+ITEM;748;40;0.68;254.3559
+ITEM;731;39;0.79;254.3559
+ITEM;753;43;0.71;254.3559
+ITEM;759;27;0.81;116610.7
+ITEM;679;0;1.23;163376
+ITEM;741;31;0.69;163376
+ITEM;746;15;0.70;26852.91
+ITEM;730;8;0.52;26852.91
+ITEM;751;30;0.71;27302.91
+ITEM;757;23;0.77;30002.91
+ITEM;1170;1;0.78;30002.91
+ITEM;20;0;0.93;81.01966
+ITEM;51;37;1.11;81.01966
+ITEM;2119;30;0.76;81.01966
+ITEM;742;39;0.71;81.01966
+ITEM;747;14;1.07;81.01966
+ITEM;733;33;0.68;81.01966
+ITEM;211;0;1.34;81.01966
+ITEM;752;41;0.77;81.01966
+ITEM;758;30;0.78;81.01966
+ITEM;712;13;0.92;81.01966
+ITEM;209;0;1.31;108.1533
+ITEM;692;6;0.51;6507.7
+ITEM;700;9;1.22;6507.7
+ITEM;2250;2;1.19;6507.7
+ITEM;690;0;1.16;15850.97
+ITEM;1460;3;1.07;15850.97
+ITEM;158;0;1.02;41.52792
+ITEM;2434;2;0.71;41.52792
+ITEM;155;0;0.75;14.42211
+ITEM;680;1;1.21;14.42211
+ITEM;672;0;0.86;158913.6
+ITEM;740;44;0.70;158913.6
+ITEM;745;15;0.25;158913.6
+ITEM;676;8;1.08;158913.6
+ITEM;732;20;0.83;10900.97
+ITEM;750;0;1.15;15700.97
+ITEM;756;40;0.81;15700.97
+ITEM;214;0;1.17;164.4099
+ITEM;157;36;0.92;164.4099
+ITEM;728;15;0.25;164.4099
+ITEM;210;0;1.32;164.4099
+ITEM;212;0;1.17;164.4099
+ITEM;150;0;0.74;7.258736
+ITEM;2220;3;0.90;7.258736
+ITEM;407;9;0.93;7.258736
+ITEM;103;71;0.51;7.258736
+ITEM;1160;1;0.83;7.258736
+ITEM;213;0;1.23;7.258736
+ITEM;600;3;1.10;7.258736
+ITEM;2117;41;0.85;7.258736
+ITEM;1150;3;1.21;7.258736
+ITEM;1100;7;1.00;7.258736
+ITEM;1050;7;1.12;7.258736
+ITEM;726;27;0.65;8200.969
+ITEM;164;54;0.96;8200.969
+ITEM;1400;5;0.76;8200.969
+ITEM;721;30;0.69;8200.969
+ITEM;722;27;0.82;8200.969
+ITEM;216;0;1.22;8200.969
+ITEM;720;41;0.74;8200.969
+ITEM;217;0;1.34;8200.969
+ITEM;215;0;1.24;8200.969
+ITEM;723;25;0.66;8200.969
+ITEM;2550;7;0.54;8200.969
+ITEM;755;13;0.74;8200.969
+ITEM;2556;8;0.91;8200.969
+ITEM;725;8;0.89;8200.969
+ITEM;710;0;1.01;4533.656
+ITEM;152;71;0.59;4533.656
+ITEM;156;85;1.13;4533.656
+ITEM;640;0;0.57;2333.656
+ITEM;744;31;0.73;2333.656
+ITEM;749;15;0.25;2333.656
+ITEM;734;28;0.85;2333.656
+ITEM;754;34;0.77;2333.656
+ITEM;760;43;0.75;2333.656
+ITEM;75;4;0.98;2333.656
+ITEM;2416;6;0.93;2333.656
+ITEM;77;2;0.84;2333.656
+ITEM;78;45;0.85;2333.656
+ITEM;2120;0;0.79;278.4008
+ITEM;2122;17;1.04;278.4008
+ITEM;100;35;1.10;278.4008
+ITEM;408;0;1.03;4847.731
+ITEM;1470;6;1.21;4847.731
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
@@ -196,7 +200,6 @@ SKILL;74;2.00
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;13;150;521589;DELIVERY#157#111#sector_14_station_1.txt#sector_1_station_0.txt#null#null#null#null;Take medium shipment of <color='yellow'>157</color> <color='yellow'>Aluminium Shards</color> and deliver to <color='cyan'>Gate of Alpharis</color> and dock at Horizons Station;9;Quantex Station has contacted our client informing them of some medium cargo that remains unclaimed by a former employee, <i>Sivsip Nortisjohvel</i> of the Temple Faction. <color='yellow'>157</color> <color='yellow'>Aluminium Shards</color> need to be delivered to <color='cyan'>Gate of Alpharis</color>, Horizons Station.;14872;4600
 MISSION;151;120;669376;FABRICATE#6#2458#sector_57_station_0.txt#sector_14_station_1.txt#null#null#null#null;Produce a light container of <color='yellow'>6</color> <color='yellow'>Large Processors</color> at the OmniTrust fabricator in <color='cyan'>Ponze</color>;9;The Temple Faction has commissioned a production liaison, <i>Kolze Fonuhzils</i> at Horizons. After an audit, <color='yellow'>6</color> items of <color='yellow'>Large Processors</color> were deemed required. Head on over to <color='cyan'>Ponze</color> and manufacture these <color='yellow'>Large Processors</color> at OmniTrust.;16165;5000
 MISSION;132;140;483561;SALVAGE#17#25#sector_80.txt#sector_95_station_1.txt#null#null#null#null;Dismantle <color='yellow'>Special Module Fragment</color> in <color='cyan'>Blades of Dandrow</color> and return with <color='yellow'>17</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>;9;<i>Ilsso Whayi</i> has discovered a light cache of <color='yellow'>Special Module Fragment</color> in <color='cyan'>Blades of Dandrow</color>. He is currently unable to dismantle the <color='yellow'>Special Module Fragment</color>, and has requested a pilot to head over and salvage the <color='yellow'>17</color> <color='yellow'>Special Module Fragment</color>. Once complete, head over and meet <i>Ilsso Whayi</i> at the Acrondia Hub station located in the <color='cyan'>Temple Gates</color>.;14518;6125
 MISSION;10;120;826010;DELIVERY#3#1007#sector_0_station_1.txt#sector_77_station_0.txt#null#null#null#null;Dock at Lammassu Financial in <color='cyan'>Void Starcross</color> to deliver a light shipment of <color='yellow'>3</color> <color='yellow'>Kinetics G-series Dual 20mms</color>;10;<i>Febira Diebast</i> runs a Missionary shipping company at Lacuna Bandits. After having some issues with a transport ship, <color='yellow'>3</color> items of <color='yellow'>Kinetics G-series Dual 20mms</color> were left behind. Head on over to <color='cyan'>Void Starcross</color> and deliver these <color='yellow'>Kinetics G-series Dual 20mms</color> to Lammassu Financial.;8170;1900
@@ -215,6 +218,8 @@ MISSION;128;120;344021;CHAT_PILOT#sector_9_station_0.txt#sector_79.txt#Liaison N
 MISSION;120;120;685493;CHAT_PILOT#sector_57_station_0.txt#sector_78.txt#Overseer Sipjo Qome#npc_ship_data_(constellation_destroyer_1)#10#missions_debt_collection.txt#0#null;Collect a small debt from <color='yellow'><i>Overseer Sipjo Qome</i></color> in <color='cyan'>Bitcola</color> and return to OmniTrust in <color='cyan'>Ponze</color>;9;<i>Ciecee Befast</i> has requested that debt be collected from <color='yellow'><i>Overseer Sipjo Qome</i></color>. After 3 payments to the Temple faction for transport fines, <color='yellow'><i>Overseer Sipjo Qome</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Overseer Sipjo Qome</i></color> was in the vicinity of the <color='cyan'>Bitcola</color> system. Have a chat with them, collect the debt, and return to the OmniTrust in the <color='cyan'>Ponze</color> system to deliver the payment.;37374;9300
 MISSION;91;300;679073;KILL_PILOT#sector_3_station_0.txt#sector_78.txt#Czar Lelsa Fonrastfa#npc_ship_data_(titan)#7#null#null#null;Assassinate in-experienced <color='yellow'><i>Czar Lelsa Fonrastfa</i></color> in <color='cyan'>Bitcola</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;9;The Temple faction has released a kill contract for the criminal <color='yellow'><i>Czar Lelsa Fonrastfa</i></color>. Wanted for capital crimes including theft and hijacking, the ASP has approved the contract and have released <color='yellow'><i>Czar Lelsa Fonrastfa</i></color>'s last known location. Head to <color='cyan'>Bitcola</color>, and eliminate <color='yellow'><i>Czar Lelsa Fonrastfa</i></color>'s ship. Once complete, head to <color='cyan'>Starfort Ramos</color> and dock at Daemon Ammunitions for payment.;69668;21150
 MISSION;82;120;975454;RECOVER#2#1171#sector_79.txt#sector_77_station_0.txt#null#null#null#null;Retrieve a light cache of <color='yellow'>2</color> <color='yellow'>Ion Beam Class 2s</color> from a <color='yellow'>crate</color> in <color='cyan'>Dragon Sea</color> sector, drop at Lacuna Bandits in <color='cyan'>Ballast Crow</color>;10;After a skirmish in <color='cyan'>Dragon Sea</color>, the Missionary's <i>Astpa Dornamxe</i> cannot account for a light shipment of <color='yellow'>Ion Beam Class 2s</color> he was transporting before the attack. Head out to the <color='cyan'>Dragon Sea</color> sector and look for the crate. When found, take the contents of the crate back to the Lacuna Bandits station in the <color='cyan'>Ballast Crow</color> sector.;16200;6000
+MISSION;33;300;271896;TRANSPORT#10#1102#sector_97_station_0.txt#sector_16_station_0.txt#null#null#null#null;Transport <color='yellow'>10</color> units of <color='yellow'>Pulse x3 Lasers</color> from Temple of the Void in <color='cyan'>Valley of Truths</color> to Rendo Labs in <color='cyan'>Entropy</color>;10;A Transport request has been posted by <i>Farhom Weinoxo</i>. <color='yellow'>10</color> <color='yellow'>Pulse x3 Lasers</color> needs to be picked up at the storage facility at Temple of the Void in <color='cyan'>Valley of Truths</color>. Once the medium shipment has been loaded, transport it to Rendo Labs in <color='cyan'>Entropy</color> where <i>Farhom Weinoxo</i> will be waiting to receive it.;17775;5625
+MISSION;113;600;288891;KILL_RAIDERS#sector_56_station_1.txt#sector_3.txt#2#25#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_frigate_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Exterminate <color='yellow'>2 Raiders</color> in <color='cyan'>Starfort Ramos</color> and dock at ValueStar in <color='cyan'>Hunu</color>;11;Reports of a small skilled gang in the <color='cyan'>Starfort Ramos</color> system have locals concerned, and Orthodox faction members are worried about the increase in criminal activity around their local production facilities. Eliminate <color='yellow'>2 Raiders</color> in total, and return to ValueStar station in <color='cyan'>Hunu</color> when complete.;92525;24000
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -228,6 +233,7 @@ SHIP;7;1.08;ship_data_(transport_escort_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
 
 
 

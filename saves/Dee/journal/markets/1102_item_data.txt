@@ -14,3 +14,4 @@ NPC;-PRICE;31;0;1344.661;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;42;11;1267.137;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 PLAYER;-QTY;14;4;685.2487;Starbase Corporate Center;Void Starcross;14h 24m 47s ;51887.05
 PLAYER;+QTY;0;4;0;Biomate University;Void Starcross;16h 59m 9s ;61149.7
+NPC;+STOCK;50;8;1196.109;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

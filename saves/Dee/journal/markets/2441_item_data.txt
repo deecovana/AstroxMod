@@ -5,3 +5,4 @@ NPC;+PRICE;2;0;389.1519;Vita Assembly;Capital Void;11h 3m 47s ;39827.63
 NPC;+STOCK;69;2;639.5607;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;69;0;619.7722;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;71;2;606.9781;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;73;2;589.1361;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

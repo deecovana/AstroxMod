@@ -37,3 +37,13 @@ NPC;+PRICE;127;0;7846.314;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.
 NPC;-QTY;20;-8;9507.188;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;+PRICE;20;0;9882.299;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;BAL;21;-8;9718.353;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;-QTY;118;-9;7821.188;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-QTY;20;-11;10900.97;Ferce Hub;Semja;19h 7m 15s ;68835.37
+NPC;BAL;1;0;8425.401;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;BAL;208;-12;10993.96;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;222;14;10603.01;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;128;10;7119.871;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;85;11;8321.284;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;69;0;5933.703;Nova Labs;Noah Fox;23h 4m 30s ;83070.77
+NPC;+PRICE;169;0;9724.989;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;BAL;119;-13;12207.37;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

@@ -11,3 +11,5 @@ NPC;-PRICE;36;0;47529.68;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;72;9;73263.28;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;45;9;44798.77;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;39;0;57038.18;Gunstellar;Adrenal;14h 10m 55s ;51055.01
+NPC;BAL;75;-10;67571.3;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;+STOCK;81;9;68606.42;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7

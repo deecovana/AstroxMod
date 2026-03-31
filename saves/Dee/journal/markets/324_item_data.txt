@@ -45,3 +45,18 @@ NPC;+PRICE;4010;0;39.12917;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903
 NPC;-QTY;1801;-729;18.12486;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;4118;0;23.40331;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;23;0;41.61612;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;-QTY;3294;-716;39.2649;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;724;0;30.19057;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;823;817;45.93033;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+STOCK;1487;763;28.22583;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;4812;694;22.24614;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;4235;941;38.1488;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;2473;672;15.41781;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;855;685;36.52315;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;4445;828;44.46631;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;6;0;49.35001;Astrox Security Patrol;Felishar;23h 4m 30s ;83070.77
+NPC;+PRICE;11;0;29.85023;Valuestar Hub;Jelumus;23h 4m 30s ;83070.77
+NPC;-PRICE;2;0;46.68998;Spacebook;Phistatisia;23h 28m 40s ;84520.21
+NPC;BAL;23;0;44.42977;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;BAL;34;0;43.00766;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75
+NPC;+STOCK;1711;897;28.20646;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

@@ -3,7 +3,7 @@ Engineering Facility
 Bemdee Tudoe
 Temple
 [c:lime]Dock fee 100[/c]
-Timestamp: 68480.56
+Timestamp: 90670.21
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -37,143 +37,130 @@ Mission Contracts
 
 
 <Station Market Orders>
-[c:red]SELL Order[/c] Market Stock: (3) Items 
- (737) x Large Microchip
- (271) x Colored Dye
- (90) x Large Pump
-Buy items for [c:lime]111,825 discount.[/c]
 [c:red]SELL Order[/c] Market Inventory: (2) Items 
  (296) x Colored Dye
  (639) x Cleaning Chemicals
-Buy items for [c:lime]57,254 discount.[/c]
+Buy items for [c:lime]58,176 discount.[/c]
 [c:red]SELL Order[/c] Market Inventory: (1) Items 
  (246) x Large Heatsink
-Buy items for [c:lime]24,446 discount.[/c]
-[c:green]BUY Order[/c] Market Demands: (1) Items 
- (182) x Calibration Tools
-Fulfill order for [c:lime]8,139 profit.[/c]
+Buy items for [c:lime]25,015 discount.[/c]
 [c:red]SELL Order[/c] Looking to Sell (2) Items 
  (456) x Silicon
  (293) x Basic 60mm
-Buy items for [c:lime]5,765 discount.[/c]
-[c:green]BUY Order[/c] Market Needs Goods: (2) Items 
- (54) x Calibration Tools
- (75) x Medical Instruments
-Fulfill order for [c:lime]10,113 profit.[/c]
+Buy items for [c:lime]5,930 discount.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
 Adamyte Ore  44 - z13
 Advanced 20mm  45 - z29
-Advanced 60mm  10 - z49
-Advanced Missile  1768 - z92
-Anti-Freeze  6 - z46
-Antimatter 20mm  3 - z38
-Antimatter Missile  26 - z446
-Assault x1 Launcher  1 - z1,947
-Assembly Tools  20 - z90
+Advanced 60mm  10 - z48
+Advanced Missile  1768 - z91
+Anti-Freeze  1000 - z8
+Antimatter 20mm  3 - z37
+Antimatter Missile  26 - z439
+Assault x1 Launcher  1 - z1,927
 Assorted Gaskets  97 - z12
-Basic Afterburner  1 - z923
-Basic Armor Exterior  8 - z1,168
-Basic Armor Exterior (Doc)  6 - z13,239
-Basic Cargo Expansion  9 - z2,096
-Basic Drone Command Bay  14 - z2,122
-Basic Energy Armor (Doc)  5 - z46,432
-Basic Energy Capacitor  4 - z1,708
-Basic Energy Generator  8 - z3,196
-Basic Engine Core  6 - z4,836
-Basic Explosive Armor  8 - z7,186
-Basic Explosive Armor (Doc)  8 - z72,452
-Basic Filter  2 - z2,684
-Basic Mass Reduction  5 - z536
-Basic Missile  34 - z21
-Basic Scan Booster  9 - z1,622
-Basic Scan Emitter  8 - z1,074
-Basic Shield Booster  1 - z1,547
-Basic Shield Booster (Doc)  6 - z30,759
-Basic Shield Generator  6 - z1,423
-Basic Targeting System  5 - z1,000
-Basic Thruster  2 - z774
-Basic Thruster (Doc)  5 - z12,689
-Basic Turn Thrust  4 - z1,553
-Blaster x1 Laser  1 - z977
-Bomber Drone  1 - z9,551
-Candy Cane  5 - z36
+Basic Afterburner  1 - z912
+Basic Armor Exterior  8 - z1,153
+Basic Armor Exterior (Doc)  6 - z13,065
+Basic Cargo Expansion  9 - z2,075
+Basic Drone Command Bay  14 - z2,103
+Basic Energy Armor (Doc)  5 - z45,742
+Basic Energy Capacitor  4 - z1,684
+Basic Energy Generator  8 - z3,147
+Basic Engine Core  6 - z4,785
+Basic Explosive Armor  8 - z7,128
+Basic Explosive Armor (Doc)  8 - z71,761
+Basic Filter  2 - z2,639
+Basic Mass Reduction  5 - z526
+Basic Missile  34 - z20
+Basic Scan Booster  9 - z1,600
+Basic Scan Emitter  8 - z1,063
+Basic Shield Booster  1 - z1,517
+Basic Shield Booster (Doc)  6 - z30,393
+Basic Shield Generator  6 - z1,411
+Basic Targeting System  5 - z988
+Basic Thruster  2 - z764
+Basic Thruster (Doc)  5 - z12,561
+Basic Turn Thrust  4 - z1,538
+Blaster x1 Laser  1 - z968
+Bomber Drone  1 - z9,416
+Candy Cane  5 - z35
 Candy Corn  8 - z19
 Carbon  120 - z1
-Carbon Fiber  57 - z62
-Carbon Fiber (Doc)  5 - z401
-Chocolate Bars  4 - z21
+Carbon Fiber  57 - z61
+Carbon Fiber (Doc)  5 - z395
+Chocolate Bars  4 - z20
 Cleaning Chemicals  1000 - z9
-Colored Dye  1000 - z20
-Corrosive 60mm  18 - z76
-Corrosive Missile  1937 - z205
-Disposables  3 - z4,734
+Colored Dye  1000 - z19
+Corrosive 60mm  18 - z75
+Corrosive Missile  1937 - z204
+Disposables  3 - z4,689
 Explosive 20mm  38 - z43
 Fasteners  40 - z8
-Focused x1 Laser  1 - z1,129
-Focused x1 Laser (Doc)  7 - z13,889
-Fusion 60mm  2351 - z72
-Fusion Missile  36 - z64
-Generic Dual 20mm Gun  3 - z1,088
-Generic Gatling 20mm Gun  19 - z601
-Generic Single 20mm Gun  5 - z1,316
+Focused x1 Laser  1 - z1,117
+Focused x1 Laser (Doc)  7 - z13,737
+Fusion 60mm  2351 - z71
+Fusion Missile  36 - z63
+Generic Dual 20mm Gun  3 - z1,076
+Generic Gatling 20mm Gun  19 - z591
+Generic Single 20mm Gun  5 - z1,305
 Gummy Bears  9 - z28
-Heavy Combat Drone  15 - z147,960
-Heavy Energy Charge  4 - z271,651
-Heavy Salvage Drone  14 - z144,660
-Heavy Shield Charge  13 - z183,884
-Ion Beam Class 1  14 - z2,311
-Iron Coring Pipes  43 - z95
-Iron Coring Plates  150 - z20
-Junk Part  45 - z101
+Heavy Combat Drone  15 - z146,471
+Heavy Energy Charge  4 - z269,034
+Heavy Salvage Drone  14 - z143,171
+Heavy Shield Charge  13 - z181,357
+Ion Beam Class 1  14 - z2,284
+Iron Coring Pipes  43 - z94
+Iron Coring Plates  150 - z19
+Junk Part  45 - z100
 Kinetic 20mm  41 - z20
-Kinetic Missile  37 - z474
-Large Defense Drone  8 - z59,673
-Large Heatsink  150 - z23
-Large Microchip  39 - z127
-Large Mining Drone  8 - z113,673
-Large Pump  150 - z42
-Large Salvage Drone  13 - z61,673
-Large Web Field  1 - z92,509
-Light Shield Recharger  2 - z30,620
-Liquid Coolant  83 - z39
+Kinetic Missile  37 - z470
+Large Defense Drone  8 - z58,770
+Large Heatsink  150 - z22
+Large Microchip  39 - z125
+Large Mining Drone  8 - z112,770
+Large Pump  150 - z39
+Large Salvage Drone  13 - z60,770
+Large Web Field  1 - z91,155
+Light Shield Recharger  2 - z30,124
+Liquid Coolant  83 - z38
 Lubricant  203 - z8
 Metal Brackets  75 - z33
-Misc Hardware  171 - z221
+Misc Hardware  171 - z218
 Nuts And Bolts  20 - z12
-Nuts And Bolts (Doc)  6 - z87
-Ornament  923 - z326
+Nuts And Bolts (Doc)  6 - z86
+Ornament  923 - z322
 Oxygen  68 - z1
-Plasma Beam Class 1  8 - z1,614
-Protein Bar  4 - z2,284
-Proton Missile  43 - z172
-Pulse x1 Laser  2 - z338
-Pulse x1 Laser (Doc)  4 - z2,500
-Rapid x1 Launcher  20 - z1,757
-Reinforced Rubber  33 - z20
-Salvage Collector 1  9 - z4,987
-Salvage Collector 1 (Doc)  6 - z46,644
-Small Combat Drone (Doc)  9 - z31,444
-Small Electronics  150 - z285
-Small Life Support Pack  18 - z9,801
-Small Microchip  26 - z334
+Plasma Beam Class 1  8 - z1,589
+Protein Bar  4 - z2,239
+Proton Missile  43 - z169
+Pulse x1 Laser  2 - z334
+Pulse x1 Laser (Doc)  4 - z2,446
+Rapid x1 Launcher  20 - z1,738
+Reinforced Rubber  33 - z19
+Salvage Collector 1  9 - z4,937
+Salvage Collector 1 (Doc)  6 - z46,048
+Small Combat Drone (Doc)  9 - z30,795
+Small Electronics  150 - z281
+Small Life Support Pack  18 - z9,692
+Small Microchip  26 - z329
 Steelium Beam  99 - z10
 Steelium Pipes  52 - z19
-Steelium Plates  150 - z116
-Tactical x1 Launcher  5 - z1,853
-Thermal Controller  2 - z3,684
-Titan Defense Drone  15 - z281,682
-Titanyte Beams  177 - z679
-Torpedo Mark I  1947 - z50
-Torpedo Mark III  17 - z181
-Torpedo Mark V  8 - z315
-Torpedo Mark X  3 - z711
+Steelium Plates  150 - z109
+Tactical x1 Launcher  5 - z1,830
+Thermal Controller  2 - z3,639
+Titan Defense Drone  15 - z279,426
+Titanyte Beams  177 - z669
+Torpedo Mark I  1947 - z49
+Torpedo Mark III  17 - z179
+Torpedo Mark V  8 - z311
+Torpedo Mark X  3 - z699
 Toxic 20mm  19 - z81
 Water  32 - z0
-Wrapped Box  9 - z5,266
-x1 Torpedo Launcher (Doc)  5 - z362,126
+Wrapped Box  9 - z5,219
+x1 Torpedo Launcher (Doc)  5 - z355,411
 
 
 <Station University Skills>
@@ -232,6 +219,21 @@ Arrest <color='yellow'><i>Major Renotaj Renofaebem</i></color> over an outstandi
 
 [c:lime]SCAN[/c]
 In <color='cyan'>Kolkax Prime</color>, Scan the <color='yellow'>Public Energy Generator</color> stucture and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> to deliver a light shipment of <color='yellow'>2</color> <color='yellow'>Basic Energy Armors</color>
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Liaison Lindohin Nostrawen</i></color> in <color='cyan'>Hunu</color> and return to CoraVault in <color='cyan'>Lins</color>
+
+[c:lime]DIALOG[/c]
+Transfer payment to <color='yellow'><i>Miner Fastvis Molefaebeck</i></color> in <color='cyan'>Ferrelis Cove</color> and return with signature to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]DIALOG[/c]
+Transfer a termination notice to <color='yellow'><i>Miner Renosed Sawbarca</i></color> in <color='cyan'>Crellara</color> and return to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
+
+[c:lime]RECOVER[/c]
+Retrieve a light cache of <color='yellow'>4</color> <color='yellow'>Advanced Shield Generators</color> from a <color='yellow'>crate</color> in <color='cyan'>Hunu</color> sector, drop at StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
 
 
 

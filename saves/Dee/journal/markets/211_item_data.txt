@@ -65,3 +65,14 @@ NPC;+LOCAL;150;11;27.1375;Biomate University;Void Starcross;16h 54m 46s ;60886.2
 NPC;-LOCAL;0;0;208.75;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
 NPC;BAL;274;-83;45.25145;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
 NPC;+LOCAL;150;194;27.1375;Biomate University;Void Starcross;18h 28m 19s ;66499.89
+NPC;BAL;278;-101;69.752;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;+LOCAL;150;72;27.1375;Biomate University;Void Starcross;20h 56m 39s ;75399.39
+NPC;+STOCK;252;102;9.837082;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1336;147;34.72902;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;735;118;45.19147;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;702;135;31.1624;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1237;144;54.35792;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;150;164;27.1375;Biomate University;Void Starcross;23h 6m 4s ;83164.88
+NPC;-LOCAL;24;24;93.9375;Astrox Security Patrol;Felishar;23h 11m 54s ;83514.81
+NPC;+LOCAL;150;30;27.1375;Biomate University;Void Starcross;23h 23m 26s ;84206.98
+NPC;BAL;307;-135;66.6102;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

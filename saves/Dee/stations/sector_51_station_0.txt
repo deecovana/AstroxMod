@@ -39,6 +39,8 @@ MERC;1;1.51;npc_ship_data_(recon_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Looking to Sell (1) Items ;123x677;84666;150042.00
+
 BUYORDER;Purchase Request (3) Items ;100x41,2024x43,404x38;40030;64083.86
 BUYORDER;Market Demands: (1) Items ;23x178;252013;52248.86
 

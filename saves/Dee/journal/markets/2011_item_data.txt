@@ -25,3 +25,11 @@ NPC;-QTY;0;-106;147.5553;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;456;-140;69.6202;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;1428;0;101.2564;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+LOCAL;150;579;43.8425;Star Shepards Hub;Temple Gates;18h 58m 23s ;68303.82
+NPC;-QTY;472;-119;71.68754;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-PRICE;414;0;140.4587;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;-PRICE;115;0;141.5661;RestJag Outlet;Daefore;19h 7m 15s ;68835.37
+NPC;+QTY;325;110;82.0348;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4
+NPC;+STOCK;1530;102;94.99352;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;587;115;66.54814;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;603;147;64.53915;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;722;103;109.0371;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

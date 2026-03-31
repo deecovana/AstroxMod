@@ -36,3 +36,12 @@ NPC;-LOCAL;0;0;1500;Acrondia Hub;Temple Gates;15h 53m 0s ;57180.42
 NPC;-LOCAL;0;0;1500;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
 NPC;-LOCAL;0;0;1500;Acrondia Hub;Temple Gates;18h 6m 36s ;65196.63
 NPC;-LOCAL;0;0;1500;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44
+NPC;-LOCAL;0;0;1500;Acrondia Hub;Temple Gates;20h 0m 57s ;72057.54
+NPC;BAL;3760;0;435.3405;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;8051;4291;423.3612;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;14702;3528;602.2398;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;9384;4472;205.6494;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;16583;4806;623.0996;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;404;0;367.6606;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+PRICE;457;0;580.7441;Valuestar Hub;Jelumus;23h 4m 30s ;83070.77
+NPC;-LOCAL;0;0;1500;Acrondia Hub;Temple Gates;25h 6m 18s ;90378.59

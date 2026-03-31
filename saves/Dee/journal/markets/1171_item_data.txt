@@ -41,3 +41,10 @@ NPC;+PRICE;57;0;5159.574;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.0
 NPC;-QTY;28;-10;4559.308;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
 NPC;+PRICE;92;0;3486.179;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+QTY;25;9;5691.613;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;-QTY;47;-10;5170.192;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-PRICE;23;0;3433.902;PharmaLife;Carioullis;19h 7m 15s ;68835.37
+NPC;+STOCK;40;9;3532.396;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+STOCK;102;10;3218.763;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;55;8;4998.918;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;23;11;831.3394;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;109;10;5445.803;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

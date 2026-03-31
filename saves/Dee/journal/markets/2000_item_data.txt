@@ -41,3 +41,15 @@ NPC;+PRICE;970;0;9.978644;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
 NPC;+PRICE;1363;0;7.614994;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;-QTY;520;-239;8.55514;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
 NPC;-QTY;1322;-158;17.53114;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-QTY;1190;-173;7.59286;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;160;-162;16.43684;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;BAL;92;-165;12.87291;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+LOCAL;250;2464;5.72;Lacuna Bandits;Ballast Crow;22h 44m 2s ;81842.67
+NPC;+STOCK;300;208;12.03315;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1570;217;11.18048;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1367;177;7.031164;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1546;224;16.95163;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;317;212;15.31172;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1325;226;18.34818;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;-PRICE;221;0;10.51244;Holosynth Industries;Rats Of Mortalis;23h 28m 40s ;84520.21
+NPC;+STOCK;769;249;8.001711;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

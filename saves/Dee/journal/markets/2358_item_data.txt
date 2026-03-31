@@ -6,3 +6,6 @@ NPC;+PRICE;12;0;23308.27;Janca Refinery;Canndelis;4h 52m 11s ;17531.62
 NPC;+PRICE;28;0;28720.36;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;+STOCK;69;2;18142.07;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+STOCK;69;2;18417.07;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;71;2;17351.05;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;38;2;32296.97;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16
+NPC;+STOCK;38;2;31358.21;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

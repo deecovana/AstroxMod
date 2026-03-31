@@ -53,3 +53,15 @@ NPC;-QTY;206;-13;78913.13;StarShepards Headquarters;Void Starcross;15h 52m 52s ;
 NPC;+PRICE;98;0;145020.5;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+PRICE;109;0;115305.8;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;+QTY;63;18;92467.5;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;-QTY;131;-12;97711.88;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;31;-23;147896;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;53;22;141748.5;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;119;21;140444.5;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;150;19;94714.56;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;224;18;71500.54;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;67;24;53198.77;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;199;24;66471.74;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;58;0;137742.2;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;-PRICE;82;0;63178.36;Holosynth Industries;Rats Of Mortalis;23h 28m 40s ;84520.21
+NPC;BAL;48;-12;157703.3;Nova Labs;Noah Fox;23h 46m 31s ;85591.75
+NPC;+STOCK;72;23;100717.7;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

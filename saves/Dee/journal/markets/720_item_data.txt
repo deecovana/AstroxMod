@@ -28,3 +28,10 @@ NPC;+STOCK;89;11;2412.809;Starbase Corporate Center;Void Starcross;14h 1m 15s ;5
 NPC;+STOCK;56;12;5757.275;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;65;0;5855.926;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;BAL;6;0;6345.931;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;+STOCK;146;11;3203.762;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;75;10;5549.958;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;101;12;2349.648;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;69;13;5628.618;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;7;0;6681.143;Astrox Security Patrol;Felishar;23h 4m 30s ;83070.77
+NPC;BAL;7;0;6211.913;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
+NPC;BAL;6;0;5799.968;Nova Labs;Noah Fox;23h 46m 31s ;85591.75

@@ -4,3 +4,4 @@ NPC;+QTY;34;7;3134.784;Lacuna Bandits;Ballast Crow;2h 36m 11s ;9371.667
 NPC;+PRICE;29;0;2971.037;Blargg's;Beacon Spita;9h 36m 0s ;34560.29
 NPC;+PRICE;28;0;3156.392;Terra Drone;Geminey;11h 29m 25s ;41365.69
 NPC;+QTY;19;9;3393.787;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;-PRICE;55;0;3455.558;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37

@@ -29,3 +29,9 @@ NPC;+PRICE;246;0;383.307;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+LOCAL;150;219;145.73;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
 NPC;+PRICE;877;0;414.0688;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;-QTY;1413;-78;173.1216;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-QTY;0;-41;301.0613;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;-QTY;784;-93;413.1613;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+LOCAL;150;2633;145.73;Lacuna Bandits;Ballast Crow;22h 44m 2s ;81842.67
+NPC;+STOCK;909;125;393.5024;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1519;106;152.2796;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;284;134;64.27113;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

@@ -13,3 +13,7 @@ NPC;+QTY;130;2;91088.75;StarShepards Headquarters;Void Starcross;12h 51m 8s ;462
 NPC;+STOCK;134;4;87936.01;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;59;-3;45381.25;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;104;-2;61608.75;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
+NPC;-QTY;22;-4;93141.25;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;+STOCK;137;3;84805.86;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;107;3;57893.82;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16
+NPC;+STOCK;107;3;57993.86;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

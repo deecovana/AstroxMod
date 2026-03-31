@@ -3,7 +3,7 @@ Auction Facility
 Ribres Borxaxon
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 65950.81
+Timestamp: 85816.82
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -56,7 +56,7 @@ Mission Contracts
 <Station Market Orders>
 [c:red]SELL Order[/c] Market Goods: (1) Items 
  (485) x Metal Brackets
-Buy items for [c:lime]15,096 discount.[/c]
+Buy items for [c:lime]15,198 discount.[/c]
 
 
 <Station Market Items>
@@ -364,11 +364,26 @@ Miner Energy Optimization
 [c:lime]KILL RAIDERS[/c]
 Kill <color='yellow'>3 Raiders</color> level 10 in <color='cyan'>Starfort Ramos</color>. Return to Fellacore Research Center in <color='cyan'>Grace</color>
 
-[c:lime]SCAN[/c]
-Track and scan the target <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Ballast Crow</color> and return to Astrox Security Patrol in <color='cyan'>Felishar</color>
-
 [c:lime]SALVAGE[/c]
 Dismantle <color='yellow'>Special Engine Component</color> in <color='cyan'>Ferrelis Cove</color> and return to Horizons in <color='cyan'>Gate of Alpharis</color> with minimum of <color='yellow'>48</color>
+
+[c:lime]SALVAGE[/c]
+Return to StarShepards Headquarters in <color='cyan'>Void Starcross</color> after salvaging <color='yellow'>Special Junk Part</color> from <color='cyan'>Ballast Crow</color>. <color='yellow'>91</color> required.
+
+[c:lime]RECOVER[/c]
+Find and recover a medium <color='yellow'>crate</color> in <color='cyan'>Entropy</color> for <i>Dagilla Ahbarwa</i>, gether <color='yellow'>48</color> <color='yellow'>Basic Scan Emitters</color> and bring back to Legistron in <color='cyan'>Dogstar Prime</color>
+
+[c:lime]REFINE[/c]
+Refine medium shipment of <color='yellow'>62</color> <color='yellow'>Torim Ores</color> in <color='cyan'>Semja</color> at the Ferce Hub station refinery
+
+[c:lime]DELIVERY[/c]
+Dock at Lammassu Financial in <color='cyan'>Void Starcross</color> to deliver a light shipment of <color='yellow'>1</color> <color='yellow'>Focused x6 Laser</color>
+
+[c:lime]TRANSPORT[/c]
+Transport a shipment of <color='yellow'>11</color> <color='yellow'>Improved Drone Command Bays</color> from Biomart in the <color='cyan'>Veloxi</color> Sector to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]HARVEST[/c]
+Mine <color='yellow'>Special Torim Ore</color> in <color='cyan'>Shine of Mortalis</color> and return with <color='yellow'>94</color> to Tella's in <color='cyan'>Bitcola</color>
 
 
 

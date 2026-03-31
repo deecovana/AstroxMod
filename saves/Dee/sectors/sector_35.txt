@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;resources#54509#7#9
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;-110.8669;137.1814;84.28587
@@ -48,7 +48,7 @@ LIGHT;light_s;0.38;0.68;0.73;0.65
 STAR;object;1;0;0;50000;1.0;50000
 
 // LIFESUPPORT;type;value
-LIFESUPPORT;food;0.5051575
+LIFESUPPORT;food;0.6215675
 LIFESUPPORT;water;0.25
 LIFESUPPORT;thermal;0.7886282
 LIFESUPPORT;waste;0.4483396
@@ -75,7 +75,7 @@ STRUCTURE;structure_medical_1.txt;3197.90;-203.60;-1036.80
 STRUCTURE;structure_recon_1.txt;-2585.70;252.00;-3033.30
 STRUCTURE;structure_energy_gen_1.txt;-3076.30;239.08;-3057.50
 STRUCTURE;structure_habitat_1.txt;-3427.50;506.80;-2641.50
-STRUCTURE;structure_energy_gen_1.txt;3300.45;-611.74;-326.76
+STRUCTURE;structure_energy_gen_1.txt;3300.78;-611.73;-326.85
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;150;100;500;10000;0;0;0;

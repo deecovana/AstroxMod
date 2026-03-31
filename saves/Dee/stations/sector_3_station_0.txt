@@ -279,6 +279,7 @@ MISSION;31;240;659719;TRANSPORT#8#10#sector_0_station_0.txt#sector_99_station_0.
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;1.017839;ship_data_(battle_utility_1).txt
 SHIP;1;1.01;ship_data_(transport_frigate_1).txt
 SHIP;2;0.99;ship_data_(battle_shuttle_1).txt
 SHIP;3;1.00;ship_data_(transport_shuttle_1).txt

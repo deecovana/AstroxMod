@@ -53,3 +53,16 @@ NPC;-LOCAL;0;0;243.25;Horizons;Gate of Alpharis;16h 34m 1s ;59641.66
 NPC;+LOCAL;150;54;31.6225;Biomate University;Void Starcross;16h 40m 10s ;60010.47
 NPC;-LOCAL;15;15;109.4625;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
 NPC;+LOCAL;150;135;31.6225;Biomate University;Void Starcross;18h 28m 19s ;66499.89
+NPC;-QTY;439;-129;52.67944;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;150;0;12.59623;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+LOCAL;150;67;31.6225;Biomate University;Void Starcross;20h 56m 39s ;75399.39
+NPC;+STOCK;258;108;11.46285;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;540;101;50.42756;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;636;110;49.63132;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;824;128;46.96109;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;189;0;45.03493;Valuestar Hub;Jelumus;23h 4m 30s ;83070.77
+NPC;+LOCAL;150;231;31.6225;Biomate University;Void Starcross;23h 6m 4s ;83164.88
+NPC;-LOCAL;29;29;109.4625;Astrox Security Patrol;Felishar;23h 11m 54s ;83514.81
+NPC;+LOCAL;150;25;31.6225;Biomate University;Void Starcross;23h 23m 26s ;84206.98
+NPC;BAL;29;0;104.0856;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
+NPC;+STOCK;701;142;95.51024;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

@@ -1,0 +1,37 @@
+scan_title;PU-1 Pirate Utility 500979
+scan_image;npc_ship_data_(pirate_utility_1).png
+scan_sector;Lightless
+<color='cyan'>OVERVIEW</color>
+The assault ship is designed to be a fast moving, combat strike craft. Improved thrust systems, and augmented resistance. Suffers from a heavy engine burn on the energy core.
+
+Timestamp: 86142.8
+<color='cyan'>DETAILS</color>
+Type: 1
+Class: Utility
+
+<color='cyan'>SPECS</color>
+HP total: 
+1304
+Shield: 
+649 / 649
+Armor: 
+655 / 655
+Energy: 
+350.4288 / 643
+Class: 
+55.89 / 661
+<color='cyan'>DETAILS</color>
+Owner: Laborer Oufu Faport
+Faction: Orthodox
+Combat Capable: 
+True
+Mining Capable: 
+False
+Tactics: Neutral
+Task: PATROL
+
+<color='cyan'>RESISTANCE</color>
+Impact : 10%
+Energy : 25%
+Explosive : 30%
+

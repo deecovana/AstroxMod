@@ -9,3 +9,6 @@ NPC;-PRICE;57;0;2614.757;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288
 NPC;+QTY;65;10;3389.213;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+STOCK;35;9;3025.792;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;9;9;3247.571;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;18;-8;3358.223;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;27;9;3258.053;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;17;8;3106.564;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

@@ -23,3 +23,10 @@ NPC;+STOCK;1411;140;1124.321;StarShepards Headquarters;Void Starcross;14h 1m 15s
 NPC;+STOCK;585;108;1226.854;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;1306;-105;1126.543;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+LOCAL;150;739;459.9075;StarGypsy Warehouse;Void Starcross;16h 46m 55s ;60415.73
+NPC;-QTY;12;-138;200.1128;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;633;-111;1520.214;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;+STOCK;153;141;186.0016;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1418;112;1077.552;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;712;127;1206.697;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;150;856;459.9075;StarGypsy Warehouse;Void Starcross;23h 26m 3s ;84363.69
+NPC;BAL;17;0;1142.606;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

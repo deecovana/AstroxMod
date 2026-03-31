@@ -65,3 +65,15 @@ NPC;-LOCAL;0;0;406.5;Horizons;Gate of Alpharis;16h 34m 1s ;59641.66
 NPC;+LOCAL;150;64;52.845;Biomate University;Void Starcross;16h 40m 10s ;60010.47
 NPC;+PRICE;850;0;164.8135;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;-LOCAL;0;0;406.5;Horizons;Gate of Alpharis;17h 3m 43s ;61423.68
+NPC;-QTY;546;-99;62.01768;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+STOCK;272;122;19.15581;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;973;123;160.0232;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;681;135;56.46147;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;624;118;123.8444;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;441;113;75.74423;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;948;135;34.77342;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;111;0;139.9711;Nova Labs;Noah Fox;23h 4m 30s ;83070.77
+NPC;+PRICE;101;0;200.169;Astrox Security Patrol;Felishar;23h 4m 30s ;83070.77
+NPC;-LOCAL;11;11;188.7525;Astrox Security Patrol;Felishar;23h 11m 54s ;83514.81
+NPC;+LOCAL;150;31;52.845;Biomate University;Void Starcross;23h 23m 26s ;84206.98
+NPC;BAL;111;0;152.6694;Nova Labs;Noah Fox;23h 46m 31s ;85591.75

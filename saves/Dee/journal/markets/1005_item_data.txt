@@ -6,3 +6,4 @@ NPC;-QTY;89;-9;43301.18;Cecil;Junia;4h 19m 24s ;15564.41
 NPC;+QTY;10;9;36766.6;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
 NPC;+QTY;83;8;32900.92;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+PRICE;89;0;44240.08;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;BAL;15;-7;35501.31;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

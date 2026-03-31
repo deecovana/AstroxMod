@@ -20,3 +20,5 @@ NPC;BAL;10;-6;17057.65;Psybermind;Ion Child;13h 31m 19s ;48679.5
 NPC;+STOCK;22;10;3133.616;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;32;0;20211.69;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+LOCAL;12;14;7117.5;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;-PRICE;58;0;18969.82;RestJag Outlet;Daefore;19h 7m 15s ;68835.37
+NPC;+STOCK;23;11;3139.023;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

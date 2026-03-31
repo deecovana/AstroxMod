@@ -29,3 +29,8 @@ NPC;+STOCK;97;8;1492.535;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;82;10;1070.895;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;BAL;10;0;2430.831;Oro Omniplex Center;Merces Academy;14h 12m 27s ;51147.38
 NPC;BAL;6;0;2010.422;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;BAL;42;-8;2029.315;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+PLAYER;+QTY;43;1;2029.725;Biomate University;Void Starcross;20h 56m 57s ;75417.34
+NPC;+STOCK;53;10;1913.753;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;106;9;1405.138;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;92;10;1000.77;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

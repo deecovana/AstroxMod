@@ -55,3 +55,9 @@ NPC;+LOCAL;150;111;14.7225;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.
 NPC;+PRICE;150;0;7.216647;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+PRICE;321;0;19.33257;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;+STOCK;194;111;38.30305;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02
+NPC;-QTY;0;-72;41.52792;Ferce Hub;Semja;19h 7m 15s ;68835.37
+NPC;+QTY;215;135;18.94064;Quah Relay Station;Noah Fox;20h 24m 54s ;73494.4
+NPC;+STOCK;269;119;5.457843;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;690;136;34.38171;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;634;115;46.5745;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;106;106;21.30362;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

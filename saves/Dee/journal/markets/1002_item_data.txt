@@ -24,3 +24,5 @@ NPC;+PRICE;30;0;1206.073;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;+LOCAL;12;11;390;Acrondia Hub;Temple Gates;15h 31m 59s ;55919.41
 NPC;-QTY;31;-9;835.305;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;BAL;2;0;562.0794;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+STOCK;42;11;775.1784;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;29;9;446.0856;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

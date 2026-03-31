@@ -38,3 +38,10 @@ NPC;+PRICE;0;0;77.44499;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
 NPC;-QTY;4665;-2171;46.44788;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;11597;0;92.89626;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;39;0;88.53256;Fellacore Research Center;Grace;18h 20m 20s ;66020.74
+NPC;BAL;2418;2418;90.10678;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+PLAYER;-QTY;491;993;86.52966;Lacuna Bandits;Ballast Crow;22h 57m 50s ;82670.45
+NPC;+STOCK;4177;1759;85.41945;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;13579;1982;91.40582;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;6871;2206;44.77641;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;6660;1899;50.78729;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;101;0;51.40944;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

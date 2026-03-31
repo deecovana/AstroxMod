@@ -9,3 +9,7 @@ NPC;+STOCK;49;8;3528.161;StarShepards Headquarters;Void Starcross;12h 16m 20s ;4
 NPC;-PRICE;4;0;3613.94;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
 NPC;+QTY;60;11;3533.592;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;-QTY;50;-10;3503.352;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;36;-10;6382.115;Holosynth Industries;Rats Of Mortalis;20h 19m 44s ;73184.99
+NPC;+QTY;11;7;3642.128;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4
+NPC;+STOCK;60;10;3360.065;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;-PRICE;72;0;4263.775;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21

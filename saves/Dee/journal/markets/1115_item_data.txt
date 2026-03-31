@@ -9,3 +9,5 @@ NPC;+STOCK;28;10;22958.58;Starbase Corporate Center;Void Starcross;12h 16m 20s ;
 NPC;-PRICE;69;0;23264.44;Imperium Republica ;Gate of Alpharis;12h 34m 48s ;45288.88
 NPC;+QTY;43;10;16851.11;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+STOCK;29;11;22716.3;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;40;11;22536.31;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;23;0;17086.51;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

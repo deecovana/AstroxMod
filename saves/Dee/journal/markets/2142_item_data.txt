@@ -2,3 +2,5 @@ NPC;+PRICE;53;0;62211.07;Stinkfinger;Jonisae;2h 29m 20s ;8960.865
 NPC;-PRICE;27;0;117359.3;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
 NPC;+QTY;23;2;118542;The Dunes;The Dunes of Caliph;4h 54m 45s ;17685.59
 NPC;+QTY;24;2;85428.9;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
+NPC;BAL;22;-2;86845.78;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;+PRICE;16;0;98861.43;Nova Labs;Noah Fox;23h 4m 30s ;83070.77

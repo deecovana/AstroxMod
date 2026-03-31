@@ -5,3 +5,5 @@ NPC;+PRICE;36;0;68903.41;Vo Industries;Brimstone;11h 29m 25s ;41365.69
 NPC;+QTY;14;1;52519.13;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
 NPC;BAL;4;-2;34388.83;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;BAL;6;-2;48651.41;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;+PRICE;3;0;50156.96;Valuestar Hub;Jelumus;23h 4m 30s ;83070.77
+NPC;-PRICE;1;0;64009.18;Spacebook;Phistatisia;23h 28m 40s ;84520.21

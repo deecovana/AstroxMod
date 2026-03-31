@@ -12,3 +12,6 @@ NPC;-PRICE;29;0;3126.761;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+STOCK;50;8;2506.406;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;38;9;3094.082;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;56;0;2204.749;Psybermind;Ion Child;14h 10m 55s ;51055.01
+NPC;BAL;33;-9;2814.004;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;48;10;2987.449;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;83;0;1897.605;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

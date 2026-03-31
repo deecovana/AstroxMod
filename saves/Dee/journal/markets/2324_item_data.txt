@@ -7,3 +7,4 @@ NPC;+PRICE;23;0;27756.58;Gek Mining;Alias Outpost;9h 36m 0s ;34560.29
 NPC;-PRICE;6;0;15614.93;Genistar;Blades of Dandrow;12h 34m 48s ;45288.88
 NPC;BAL;4;-2;24501.07;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;+STOCK;83;2;12886.69;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;+STOCK;85;2;11994.3;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

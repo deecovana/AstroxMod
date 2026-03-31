@@ -12,3 +12,6 @@ NPC;+STOCK;20;8;5523.306;Starbase Corporate Center;Void Starcross;12h 16m 20s ;4
 NPC;+LOCAL;12;1;12512.5;Starbase Corporate Center;Void Starcross;12h 16m 28s ;44188.51
 NPC;+STOCK;21;9;5508.869;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;12;21;12512.5;Starbase Corporate Center;Void Starcross;14h 13m 23s ;51203.44
+NPC;+STOCK;21;9;5518.374;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;80;0;19739.44;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;BAL;47;-7;20977.41;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

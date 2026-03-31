@@ -42,3 +42,17 @@ NPC;+PRICE;45;0;50351.75;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.0
 NPC;-QTY;39;-2;20804.38;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;14;0;25657.04;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;9;-4;47442.86;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;-QTY;42;-3;50570.63;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;18;-4;47003.85;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;BAL;23;-4;42426.04;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;27;4;40728.87;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;18;4;23837.6;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;46;4;48996.26;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;42;3;19784.1;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;34;3;47295.53;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;40;0;49295.84;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;-PRICE;31;0;42905.72;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21
+NPC;-PRICE;6;0;29071.33;Spacebook;Phistatisia;23h 28m 40s ;84520.21
+NPC;BAL;28;-2;51143.56;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;+STOCK;22;4;18530.03;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16
+NPC;+STOCK;21;3;19835.7;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

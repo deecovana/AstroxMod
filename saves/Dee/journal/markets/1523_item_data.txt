@@ -17,3 +17,8 @@ NPC;+STOCK;90;10;10531.36;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;59;10;36863.06;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;41;0;34479.73;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;90;0;11540.35;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;11;0;33835.56;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;BAL;14;-9;26526.99;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;24;10;25805.49;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;69;10;35373.17;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;19;-11;37547.69;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75

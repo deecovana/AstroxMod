@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;87
 SECTOR;name;Yellon
-SECTOR;level;2.9
+SECTOR;level;2.8
 SECTOR;faction;Pirate
 SECTOR;filename;sector_87.txt
 SECTOR;is_explored;False
@@ -52,7 +52,7 @@ STAR;object;0;5000;-15000;90000;5;190000
 LIFESUPPORT;food;1.65
 LIFESUPPORT;water;0.8985142
 LIFESUPPORT;thermal;1.7677618
-LIFESUPPORT;waste;1.75
+LIFESUPPORT;waste;1.682435
 
 // STARLIGHT;Variable;Red;Green;Blue;Alpha
 STARLIGHT;color_1;0.33;0.07;0.18;0.48

@@ -20,3 +20,5 @@ NPC;+PRICE;61;0;944.4064;Cecil;Junia;15h 48m 23s ;56903.07
 NPC;+PRICE;9;0;676.2177;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
 NPC;BAL;38;-6;562.253;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;BAL;10;-8;555.4763;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+STOCK;90;11;944.3182;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;31;-7;606.039;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

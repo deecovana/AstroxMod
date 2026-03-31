@@ -42,3 +42,10 @@ PLAYER;+QTY;704;36;7.238551;Biomate University;Void Starcross;16h 59m 43s ;61183
 NPC;+QTY;216;100;10.59537;Tella's;Bitcola;18h 20m 21s ;66021.78
 NPC;+QTY;140;108;7.336336;PharmaLife;Carioullis;18h 20m 21s ;66021.78
 NPC;+STOCK;212;113;9.773353;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02
+NPC;-QTY;78;-138;10.59537;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;-QTY;897;-135;5.798374;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-PRICE;766;0;12.21742;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;BAL;563;-141;7.871103;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;142;142;1.331859;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;372;0;5.418681;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;BAL;50;-117;10.85198;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75

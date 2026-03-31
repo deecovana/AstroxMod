@@ -9,3 +9,4 @@ NPC;-QTY;0;-1;10006.34;Ferce;Allabentoris;7h 28m 42s ;26922.34
 NPC;+STOCK;65;10;10393.05;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;65;0;9966.599;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+PRICE;6;0;5177.063;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;+STOCK;74;9;9461.18;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

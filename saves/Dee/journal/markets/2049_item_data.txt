@@ -12,3 +12,5 @@ NPC;+LOCAL;150;32;5452.404;Temple of the Void;Vindicati;13h 32m 8s ;48728.66
 NPC;+STOCK;485;119;769.6182;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;603;149;2726.849;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;401;-84;769.6182;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;+LOCAL;150;207;1712.165;StarShepards Headquarters;Void Starcross;23h 28m 54s ;84534.91
+NPC;+LOCAL;52;6;4619.987;Star Shepard's Temple;Lightless;24h 22m 53s ;87773.7

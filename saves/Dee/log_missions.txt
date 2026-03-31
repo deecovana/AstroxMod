@@ -1,4 +1,19 @@
 //;LOG DATA FILE (Astrox Imperium)
+COMPLETED;Kill;Frag L...;113,270;611068.0859375;Acrondia Hub;Temple Gates;25h 6m 0s 
+ACCEPTED;Kill Recover;Kill and Rob Chairman Fei...;-19225;754197.524903297;Transporteers;Hunu;23h 49m 35s 
+COMPLETED;Kill Raiders;Destroy 9...;89,966;773522.524903297;ValueStar;Hunu;23h 46m 33s 
+ACCEPTED;Kill;Frag Laborer Oufu Faport,...;-0;683656.853028297;Biomate University;Void Starcross;23h 44m 11s 
+COMPLETED;Scan;Track and scan the target...;18,174;725923.353028297;Astrox Security Patrol;Felishar;23h 11m 42s 
+ACCEPTED;Kill Raiders;Destroy 9 Raiders in Ball...;-0;796425.80305481;StarShepards Headquarters;Void Starcross;21h 55m 21s 
+COMPLETED;Delivery;Light delivery of ;25,068;796425.80305481;StarShepards Headquarters;Void Starcross;21h 53m 18s 
+ACCEPTED;Delivery;Light delivery of 40 Smal...;-5604;765778.92414856;Transporteers;Hunu;21h 50m 1s 
+ACCEPTED;Scan;Track and scan the target...;-0;771382.92414856;Transporteers;Hunu;21h 49m 36s 
+COMPLETED;Dialog;Chat with ;39,697;771382.92414856;Transporteers;Hunu;21h 47m 2s 
+ACCEPTED;Dialog;Chat with Overseer Bastfe...;-0;1492996.32568288;Astrox Security Patrol;Felishar;20h 27m 5s 
+COMPLETED;Fabricate;Dock at the Astrox Securi...;21,113;1492996.32568288;Astrox Security Patrol;Felishar;20h 25m 58s 
+COMPLETED;Recover;Recover a medium shipment...;61,511;1439010.03662038;Fellacore Research Center;Grace;20h 19m 46s 
+ACCEPTED;Fabricate;Dock at the Astrox Securi...;-33003;1229519.41083932;Acrondia Hub;Temple Gates;20h 3m 34s 
+ACCEPTED;Recover;Recover a medium shipment...;-149810.5;1212551.375;Star Shepard's Temple;Lightless;19h 15m 19s 
 COMPLETED;Harvest;Harvest S...;33,764;1145259.04585695;Starbase Corporate Center;Void Starcross;18h 53m 18s 
 ACCEPTED;Harvest;Harvest Special Dynex Ore...;-8325;1142044.15620852;Transporteers;Hunu;18h 10m 37s 
 COMPLETED;Delivery;Light delivery of ;25,920;1150369.15620852;Transporteers;Hunu;18h 9m 48s 

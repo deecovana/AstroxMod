@@ -51,3 +51,19 @@ NPC;+PRICE;25481;0;524.7123;Lammassu Financial;Void Starcross;16h 46m 45s ;60405
 NPC;+PRICE;69;0;447.3218;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;-LOCAL;80;0;787.5;Transporteers;Hunu;18h 15m 58s ;65758.95
 NPC;BAL;332;0;591.0684;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;-QTY;8715;-3716;476.9888;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;579;0;708.4528;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;BAL;4719;0;339.0058;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;BAL;233;0;723.3388;Holosynth Industries;Rats Of Mortalis;20h 19m 44s ;73184.99
+NPC;+STOCK;30263;4782;503.5709;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;12055;3340;456.4728;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;6216;4247;405.0449;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;4330;4290;805.8328;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;17568;3671;573.9018;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;389;0;339.3263;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;-PRICE;233;0;704.4682;Holosynth Industries;Rats Of Mortalis;23h 28m 40s ;84520.21
+NPC;BAL;2550;2550;579.6961;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
+NPC;BAL;332;0;597.832;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;BAL;6;0;561.4745;Nova Labs;Noah Fox;23h 46m 31s ;85591.75
+NPC;-LOCAL;0;0;1750;ValueStar;Hunu;23h 47m 10s ;85630.92
+NPC;+STOCK;3748;3737;663.7853;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

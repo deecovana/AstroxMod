@@ -28,3 +28,9 @@ NPC;+STOCK;143;14;2679.855;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;33;0;3659.756;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;165;0;4169.112;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;150;-11;6036.525;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;BAL;54;-12;3959.905;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;67;13;3804.518;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;164;14;5732.94;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;81;14;5295.575;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;153;10;2500.12;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;128;0;3205.022;Valuestar Hub;Jelumus;23h 4m 30s ;83070.77

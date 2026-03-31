@@ -13,3 +13,5 @@ NPC;+LOCAL;12;12;3807.147;Horizons;Gate of Alpharis;11h 29m 37s ;41377.72
 NPC;+STOCK;113;9;9464.891;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;-PRICE;113;0;8866.384;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
 NPC;+LOCAL;12;41;3807.147;Horizons;Gate of Alpharis;16h 34m 1s ;59641.66
+NPC;+STOCK;124;11;8590.72;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;95;0;6586.377;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

@@ -1,0 +1,189 @@
+[s:30][c:yellow]Fellacore Research Center[/c][/s]
+Mass Research Lab
+Jacelor King
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 73209.15
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Disposables
+Containment Unit
+Waste Processor
+Waste Burner
+Bio Converter
+Bio Disposables
+Containment Processor
+Advanced Waste Unit
+Biowaste Processor 
+Fusion Biomax
+[c:orange]DEMAND[/c]
+Nuts And Bolts
+Fasteners
+Steelium Beam
+Assorted Gaskets
+Lubricant
+Steelium Pipes
+Metal Brackets
+Liquid Coolant
+Reinforced Rubber
+Carbon Fiber
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+University
+Ship Hangar
+Storage
+Fabricator
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Needs Goods: (2) Items 
+ (227) x Steelium Beam
+ (92) x Metal Brackets
+Fulfill order for [c:lime]1,742 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (381) x Fasteners
+ (368) x Steelium Beam
+ (726) x Metal Brackets
+Fulfill order for [c:lime]26,520 profit.[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (1) Items 
+ (83) x Carbon Fiber
+Fulfill order for [c:lime]5,027 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (401) x Metal Brackets
+Fulfill order for [c:lime]12,288 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (774) x Metal Brackets
+ (356) x Fasteners
+ (484) x Nuts And Bolts
+Fulfill order for [c:lime]22,026 profit.[/c]
+[c:green]BUY Order[/c] Market Needs Goods: (2) Items 
+ (347) x Steelium Beam
+ (116) x Fasteners
+Fulfill order for [c:lime]5,564 profit.[/c]
+[c:green]BUY Order[/c] Market Items Req: (2) Items 
+ (121) x Fasteners
+ (392) x Steelium Beam
+Fulfill order for [c:lime]1,966 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Blaster x1 Laser  5 - z0
+Plasma Beam Class 1  8 - z0
+Pulse Beam Class 1  9 - z0
+Rapid x1 Launcher  9 - z1,141
+Tactical x1 Launcher  7 - z1,141
+Pulse x1 Laser  8 - z1,141
+Generic Dual 20mm Gun  8 - z1,141
+Generic Gatling 20mm Gun  2 - z1,141
+Light Shield Recharger  1 - z1,141
+Assault x1 Launcher  4 - z1,141
+Ion Beam Class 1  2 - z1,141
+Salvage Collector 1  5 - z4,484
+Ore Harvester 1  7 - z4,484
+Focused x1 Laser  9 - z4,484
+Generic Single 20mm Gun  2 - z4,484
+x1 Torpedo Launcher  2 - z4,484
+Basic Mass Reduction  3 - z934
+Basic Shield Booster  4 - z934
+Basic Shield Generator  2 - z934
+Basic Energy Capacitor  1 - z1,922
+Basic Targeting System  6 - z1,922
+Basic Drone Command Bay  7 - z1,922
+Basic Energy Armor  9 - z1,922
+Basic Engine Core  8 - z1,922
+Basic Explosive Armor  9 - z1,922
+Basic Impact Armor  6 - z1,922
+Basic Afterburner  8 - z1,922
+Basic Scan Emitter  2 - z1,922
+Advanced Missile  39 - z89
+Corrosive 20mm  46 - z64
+Radiated 60mm  9 - z64
+Uranium Core 60mm  48 - z64
+Torpedo Mark VI  9 - z64
+Antimatter Missile  7 - z64
+Radiated 20mm  44 - z64
+Basic 60mm  13 - z64
+Toxic 60mm  18 - z64
+Corrosive 60mm  39 - z64
+Basic Charged Cell  5 - z64
+Torpedo Mark I  17 - z120
+Kinetic 20mm  25 - z120
+Heavy Energy Charge  17 - z120
+Bomber Drone  4 - z14,674
+Generic Construction Platform  16 - z14,674
+Medium Armor Bomb  1 - z14,674
+Heavy Shield Charge  2 - z14,674
+Energy Bomb  18 - z4,983
+Light Armor Bomb  5 - z4,983
+Medium Defense Drone  19 - z4,983
+Small Web Field  19 - z4,874
+Small Salvage Drone  18 - z4,874
+Large Salvage Drone  19 - z4,874
+Improved Defense Drone  3 - z4,874
+Basic Filter  1 - z4,874
+Disposables  1 - z4,874
+Protein Bar  3 - z5,038
+Thermal Controller  1 - z5,038
+Candy Cane  1 - z5,038
+Anti-Freeze  5 - z5,038
+Gummy Bears  3 - z5,038
+Candy Corn  1 - z5,038
+Colored Dye  7 - z5,038
+Wrapped Box  3 - z5,038
+Chocolate Bars  6 - z5,038
+Ornament  4 - z5,038
+Cleaning Chemicals  6 - z5,038
+Adamyte Ore  77 - z5,038
+Junk Part  96 - z5,038
+Carbon  144 - z5,038
+Water  120 - z0
+Oxygen  52 - z1
+Carbon Fiber  77 - z1
+Lubricant  53 - z15
+Reinforced Rubber  10 - z15
+Assorted Gaskets  38 - z15
+Fasteners  41 - z15
+Steelium Pipes  91 - z15
+Nuts And Bolts  2 - z12
+Metal Brackets  93 - z12
+Steelium Beam  96 - z12
+Liquid Coolant  44 - z12
+Basic Turn Thrust (Doc)  2 - z12
+Carbon Fiber (Doc)  7 - z12
+Basic Scan Booster (Doc)  5 - z12
+Basic Cargo Expansion (Doc)  6 - z31,127
+Basic Explosive Armor (Doc)  8 - z62,235
+Basic Thruster (Doc)  7 - z62,235
+Tactical x1 Launcher (Doc)  3 - z62,235
+Basic 20mm (Doc)  8 - z62,235
+Pulse Beam Class 1 (Doc)  7 - z29,378
+Basic Armor Exterior (Doc)  4 - z29,378
+Ore Harvester 1 (Doc)  9 - z29,378
+Generic Single 20mm Gun (Doc)  1 - z29,378
+Fasteners (Doc)  2 - z86
+Basic Drone Command Bay (Doc)  6 - z86
+
+
+<Station University Skills>
+Storage Manager
+Fleet Defensive Flight
+Projectile Damage Calibration
+Launcher Energy Optimization
+Miner Maintenance
+Salvager Maintenance
+
+
+<Station Missions>
+
+
+<Station Ships>
+RU-1 Curator / Utility    (Recon)
+TU-3 Jacelor / Utility    (Transport)
+EE-1 Mining Escort / Escort    (Excavation)
+BE-1 Gabriel / Escort    (Battle)

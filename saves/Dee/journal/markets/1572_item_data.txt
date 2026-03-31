@@ -22,3 +22,8 @@ NPC;+STOCK;122;11;12839.63;StarShepards Headquarters;Void Starcross;14h 1m 15s ;
 NPC;+PRICE;35;0;15401.61;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;113;-9;12841.91;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+QTY;23;9;14868.12;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;BAL;68;-7;9154.257;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+QTY;24;6;13131.62;CoraVault;Lins;20h 24m 54s ;73494.4
+NPC;+STOCK;77;9;8584.654;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;124;11;12301.81;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;30;0;19993.09;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

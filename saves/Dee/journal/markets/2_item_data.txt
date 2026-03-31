@@ -84,3 +84,20 @@ NPC;BAL;371;0;12.5446;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;BAL;19;0;23.2063;Rendo Labs;Entropy;18h 20m 20s ;66020.74
 NPC;-LOCAL;2632;0;31.5;Acrondia Hub;Temple Gates;18h 55m 25s ;68125.44
 PLAYER;+QTY;2999;367;33.13548;Acrondia Hub;Temple Gates;18h 55m 46s ;68146.55
+NPC;-QTY;18549;-3174;26.91955;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-PRICE;225;0;15.40717;RestJag Outlet;Daefore;19h 7m 15s ;68835.37
+NPC;-LOCAL;2869;0;31.5;Acrondia Hub;Temple Gates;20h 0m 57s ;72057.54
+PLAYER;+QTY;4829;1960;32.9175;Acrondia Hub;Temple Gates;20h 1m 29s ;72089.41
+NPC;BAL;520;0;25.27443;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;BAL;333;0;24.30047;Holosynth Industries;Rats Of Mortalis;20h 19m 44s ;73184.99
+NPC;+STOCK;4460;4276;26.1367;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+QTY;3821;3705;25.70724;PharmaLife;Carioullis;20h 24m 54s ;73494.4
+NPC;+STOCK;3715;3715;12.37287;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;25315;3446;8.931372;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;23452;4903;25.84604;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;21157;4110;23.02466;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;5399;4711;14.66558;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;9105;3451;29.86102;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;355;0;36.62584;Nova Labs;Noah Fox;23h 4m 30s ;83070.77
+NPC;BAL;371;0;13.18022;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;-LOCAL;3321;0;31.5;Acrondia Hub;Temple Gates;25h 6m 18s ;90378.59

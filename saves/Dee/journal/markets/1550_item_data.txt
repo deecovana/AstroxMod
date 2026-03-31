@@ -43,3 +43,11 @@ NPC;+LOCAL;12;8;1100.873;Biomate University;Void Starcross;16h 3m 55s ;57835.64
 NPC;+LOCAL;12;5;1100.873;Biomate University;Void Starcross;16h 40m 10s ;60010.47
 NPC;+PRICE;67;0;2372.255;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+LOCAL;12;13;1100.873;Biomate University;Void Starcross;18h 28m 19s ;66499.89
+NPC;BAL;12;0;507.6116;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+QTY;70;10;3076.06;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4
+NPC;+LOCAL;12;5;1100.873;Biomate University;Void Starcross;20h 56m 39s ;75399.39
+NPC;+STOCK;23;11;399.0557;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;75;8;2277.616;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;56;9;3131.508;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;12;15;1100.873;Biomate University;Void Starcross;23h 6m 4s ;83164.88
+NPC;+LOCAL;12;3;1100.873;Biomate University;Void Starcross;23h 23m 26s ;84206.98

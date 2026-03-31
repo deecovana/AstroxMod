@@ -15,3 +15,5 @@ NPC;+STOCK;127;11;185178;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;36;0;205586.4;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+PRICE;7;0;212731.5;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;BAL;61;-9;221144.9;Foodmaid;Daelus;14h 12m 27s ;51147.38
+NPC;BAL;106;-10;212872.3;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;115;9;206950.8;Biomate University;Void Starcross;23h 4m 29s ;83069.7

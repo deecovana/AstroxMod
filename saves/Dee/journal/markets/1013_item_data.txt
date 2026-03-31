@@ -15,3 +15,5 @@ NPC;+STOCK;48;10;1468.725;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+LOCAL;12;20;1690;Acrondia Hub;Temple Gates;14h 6m 7s ;50767.03
 NPC;-QTY;23;-6;3347.825;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;BAL;7;0;2786.593;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;+STOCK;56;8;1287.504;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;12;41;1690;Acrondia Hub;Temple Gates;25h 6m 18s ;90378.59

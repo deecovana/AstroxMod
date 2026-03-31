@@ -59,3 +59,13 @@ NPC;+PRICE;0;99;35.54454;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+PRICE;18601;0;35.3309;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+PRICE;145;0;39.56721;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;+QTY;1940;1793;72.47289;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;-PRICE;57;0;45.82001;RestJag Outlet;Daefore;19h 7m 15s ;68835.37
+NPC;BAL;57;0;51.0147;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;BAL;1925;0;53.77626;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;3636;1711;52.25084;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;2209;2209;32.26832;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;21048;2447;32.72732;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;8576;2473;34.10735;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;9360;2376;53.56055;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;4424;2074;43.40659;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;8548;1896;29.06806;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

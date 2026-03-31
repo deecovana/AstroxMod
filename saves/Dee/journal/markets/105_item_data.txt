@@ -49,3 +49,15 @@ NPC;+PRICE;1372;0;9.915758;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903
 NPC;-QTY;1772;-176;6.460875;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;1257;0;4.294299;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;144;-219;7.908336;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;-QTY;0;-101;4.234937;Mazu Starship;Enoch Estates;19h 7m 15s ;68835.37
+NPC;-QTY;1151;-221;9.914125;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;1060;-179;6.560363;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;BAL;621;-144;4.475119;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;865;244;4.214794;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1359;208;9.68994;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1990;218;6.236333;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1000;175;9.594642;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;2260;205;4.861846;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;866;0;6.508469;Valuestar Hub;Jelumus;23h 4m 30s ;83070.77
+NPC;-PRICE;771;0;7.100488;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21
+NPC;BAL;411;-232;10.46387;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

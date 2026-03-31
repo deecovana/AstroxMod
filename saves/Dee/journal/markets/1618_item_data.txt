@@ -19,3 +19,7 @@ NPC;+STOCK;69;10;61391.64;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;61;8;39249.02;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;71;0;66106.34;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
 NPC;+PRICE;61;0;66273.13;Cecil;Junia;15h 48m 23s ;56903.07
+NPC;BAL;48;-11;67878.75;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;59;11;64453.11;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;72;11;35866.78;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;26;-11;50836.15;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

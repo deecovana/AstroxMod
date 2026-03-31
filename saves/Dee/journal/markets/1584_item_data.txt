@@ -24,3 +24,8 @@ NPC;+STOCK;25;8;665292.9;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50
 NPC;+STOCK;97;10;348958.9;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;34;0;656861.9;Cecil;Junia;15h 48m 23s ;56903.07
 NPC;+PRICE;93;0;368625.8;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;83;-10;366391.7;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+STOCK;63;11;694203.9;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;35;10;654954.8;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;108;11;323341;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;27;-9;684971.4;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

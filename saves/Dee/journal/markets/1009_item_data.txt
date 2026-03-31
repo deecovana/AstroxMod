@@ -27,3 +27,7 @@ NPC;+LOCAL;8;6;2021.292;Acrondia Hub;Temple Gates;16h 31m 23s ;59483.45
 NPC;+PRICE;58;0;815.6852;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;12;0;1274.084;Rendo Labs;Entropy;18h 20m 20s ;66020.74
 PLAYER;+QTY;42;2;1004.19;Biomate University;Void Starcross;18h 30m 7s ;66607.8
+NPC;+LOCAL;12;13;800.7934;Acrondia Hub;Temple Gates;20h 0m 57s ;72057.54
+NPC;+STOCK;52;10;891.0305;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;69;11;762.8792;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;78;0;1917.527;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

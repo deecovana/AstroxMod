@@ -8,3 +8,6 @@ NPC;+QTY;31;2;379204.9;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;22;2;551328.1;Astrox Security Patrol;Felishar;11h 3m 47s ;39827.63
 NPC;+STOCK;33;2;357391.2;StarGypsy Warehouse;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;5;0;254506.5;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;-QTY;31;-2;357162.8;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+STOCK;33;2;335361.7;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;20;0;587298.5;Astrox Security Patrol;Felishar;23h 4m 30s ;83070.77

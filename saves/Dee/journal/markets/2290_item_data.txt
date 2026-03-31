@@ -5,3 +5,6 @@ NPC;+QTY;19;2;88140.55;PharmaLife;Carioullis;12h 33m 5s ;45185.51
 NPC;+QTY;10;1;51003.38;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;+PRICE;40;0;63139.32;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;+QTY;20;1;87978.83;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;-PRICE;20;0;85847.02;PharmaLife;Carioullis;19h 7m 15s ;68835.37
+NPC;+QTY;21;1;86376.13;PharmaLife;Carioullis;20h 24m 54s ;73494.4
+NPC;-PRICE;13;0;39997.2;Spacebook;Phistatisia;23h 28m 40s ;84520.21

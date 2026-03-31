@@ -28,3 +28,12 @@ NPC;+PRICE;598;0;83.20547;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;783;-104;135.1396;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;593;0;91.17746;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;616;-78;108.9969;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;-QTY;416;-124;111.9079;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+QTY;333;143;95.50938;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4
+NPC;+STOCK;357;130;117.4145;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;724;131;86.93317;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;532;116;108.0603;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1210;105;37.85885;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;329;0;147.1012;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;BAL;473;-143;112.6646;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;+STOCK;206;134;50.22836;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

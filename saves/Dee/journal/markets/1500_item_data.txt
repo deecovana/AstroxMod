@@ -11,3 +11,5 @@ NPC;+QTY;16;7;1336.579;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;+QTY;18;11;1051.699;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
 NPC;+STOCK;53;9;535.6417;Temple of the Void;Vindicati;12h 57m 36s ;46656.88
 NPC;BAL;7;0;945.3759;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;BAL;22;-8;1073.344;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;+QTY;39;11;1297.636;CoraVault;Lins;20h 24m 54s ;73494.4

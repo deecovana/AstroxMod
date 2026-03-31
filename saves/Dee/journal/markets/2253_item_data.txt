@@ -5,3 +5,4 @@ NPC;+STOCK;6;2;750463.8;Lacuna Bandits;Ballast Crow;6h 31m 26s ;23486.09
 NPC;-QTY;0;-1;527937.8;Crystalis Broadcasting;Jermicus;7h 28m 42s ;26922.34
 NPC;-QTY;11;-1;632097.8;Cosmic Jay's;Canndelis;7h 28m 42s ;26922.34
 NPC;BAL;3;-2;452136;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
+NPC;+QTY;4;1;452438;Quah Relay Station;Noah Fox;20h 24m 54s ;73494.4

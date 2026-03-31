@@ -33,3 +33,8 @@ NPC;-LOCAL;0;0;62.5;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
 NPC;-LOCAL;63;63;29.21729;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
 NPC;BAL;188;-105;14.136;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
 NPC;+QTY;188;130;19.03531;Tella's;Bitcola;18h 20m 21s ;66021.78
+NPC;BAL;459;-102;20.16064;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;+QTY;281;75;12.26094;CoraVault;Lins;20h 24m 54s ;73494.4
+NPC;+STOCK;210;147;29.06619;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;878;125;21.69579;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;-PRICE;499;0;12.03569;Holosynth Industries;Rats Of Mortalis;23h 28m 40s ;84520.21

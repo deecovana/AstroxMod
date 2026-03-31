@@ -48,3 +48,10 @@ NPC;+PRICE;40;0;110711.1;Cecil;Junia;15h 48m 23s ;56903.07
 NPC;-QTY;9;-4;73295.63;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;20;-2;98291.38;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;BAL;23;-3;79023.98;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;16;-4;124347.8;Holosynth Industries;Rats Of Mortalis;20h 19m 44s ;73184.99
+NPC;+STOCK;55;3;105202.3;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;39;3;104443.1;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;41;4;64228.7;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;15;4;38907.8;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;9;0;145015.9;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;BAL;19;-4;86264.32;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

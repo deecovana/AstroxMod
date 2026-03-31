@@ -25,3 +25,7 @@ NPC;+LOCAL;12;4;4145.667;Biomate University;Void Starcross;16h 40m 10s ;60010.47
 NPC;+LOCAL;12;2;4145.667;Biomate University;Void Starcross;16h 54m 46s ;60886.23
 NPC;BAL;28;-11;11043.06;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;+LOCAL;12;12;4145.667;Biomate University;Void Starcross;18h 28m 19s ;66499.89
+NPC;+LOCAL;12;6;4145.667;Biomate University;Void Starcross;20h 56m 39s ;75399.39
+NPC;+STOCK;22;10;1502.765;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;21;0;9155.902;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+LOCAL;12;3;4145.667;Biomate University;Void Starcross;23h 23m 26s ;84206.98

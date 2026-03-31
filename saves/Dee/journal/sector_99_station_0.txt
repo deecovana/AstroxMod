@@ -3,7 +3,7 @@ Court Warehouse
 Leibe Leitoei
 Temple
 [c:lime]Dock fee 100[/c]
-Timestamp: 64559.08
+Timestamp: 74018.48
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -64,166 +64,153 @@ Mission Contracts
 
 
 <Station Market Orders>
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (143) x Large Processor
+ (572) x Motion Sensor
+ (261) x Small Pump
+Fulfill order for [c:lime]93,514 profit.[/c]
+[c:green]BUY Order[/c] Market Low Inventory: (1) Items 
+ (164) x Memory Chip
+Fulfill order for [c:lime]13,974 profit.[/c]
 [c:green]BUY Order[/c] Market Shortage: (1) Items 
  (83) x Memory Chip
-Fulfill order for [c:lime]10,520 profit.[/c]
+Fulfill order for [c:lime]9,858 profit.[/c]
 [c:green]BUY Order[/c] Market Out of Stock: (3) Items 
  (110) x Small Pump
  (60) x LED Lights
  (589) x Pressure Sensor
-Fulfill order for [c:lime]80,340 profit.[/c]
+Fulfill order for [c:lime]75,266 profit.[/c]
 [c:green]BUY Order[/c] Market Shortage: (2) Items 
  (392) x Small Heatsink
  (510) x Motion Sensor
-Fulfill order for [c:lime]83,041 profit.[/c]
+Fulfill order for [c:lime]76,922 profit.[/c]
 [c:red]SELL Order[/c] Sale Request Order: (2) Items 
  (5) x Cloak Booster
  (4) x Basic Energy Armor
-Buy items for [c:lime]41,603 discount.[/c]
+Buy items for [c:lime]42,654 discount.[/c]
 [c:green]BUY Order[/c] Market Demands: (3) Items 
  (232) x Small Motor
  (151) x Motion Sensor
  (96) x Motion Sensor
-Fulfill order for [c:lime]73,107 profit.[/c]
+Fulfill order for [c:lime]68,688 profit.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
-Adamyte Ore  48 - z8
-Advanced 60mm  45 - z30
-Anti-Freeze  5 - z38
-Assault x1 Launcher  1 - z2,302
-Assorted Gaskets  74 - z13
-Basic Afterburner  9 - z1,241
-Basic Armor Exterior  7 - z1,431
-Basic Armor Exterior (Doc)  6 - z21,802
-Basic Cargo Expansion  7 - z2,566
-Basic Charged Cell (Doc)  4 - z87
-Basic Drone Command Bay  9 - z1,194
-Basic Energy Armor  2 - z7,340
-Basic Energy Capacitor  7 - z1,900
-Basic Energy Generator  4 - z2,293
-Basic Engine Core  7 - z6,402
-Basic Explosive Armor  5 - z4,789
-Basic Filter  2 - z4,454
-Basic Impact Armor  2 - z4,215
-Basic Mass Reduction  4 - z1,102
-Basic Mass Reduction (Doc)  5 - z14,172
-Basic Missile (Doc)  5 - z433
-Basic Scan Booster  1 - z2,751
-Basic Scan Emitter  1 - z913
-Basic Shield Generator  9 - z1,288
-Basic Shield Generator (Doc)  1 - z14,843
-Basic Targeting System  6 - z769
-Basic Thruster  9 - z591
-Basic Turn Thrust  2 - z906
-Basic Turn Thrust (Doc)  8 - z19,123
-Blaster x1 Laser  7 - z821
-Bomber Drone  5 - z14,263
-Burglar Drone  15 - z10,513
-Candy Cane  6 - z30
-Candy Corn  9 - z16
-Carbon  88 - z1
-Carbon Fiber  5 - z33
-Chocolate Bars  5 - z24
-Cleaning Chemicals  9 - z70
-Colored Dye  8 - z113
-Disposables  2 - z5,104
-Energized Missile  17 - z256
-Fasteners  6 - z6
-Focused x1 Laser  6 - z1,079
-Fusion Missile  41 - z133
-Generic Dual 20mm Gun  2 - z976
-Generic Gatling 20mm Gun  1 - z518
-Generic Single 20mm Gun  4 - z1,021
-Gummy Bears  2 - z14
-Heavy Combat Drone  38 - z97,655
-Heavy Defense Drone  40 - z95,983
-Heavy Mining Drone  39 - z114,168
-Heavy Repair Drone  43 - z101,550
-Heavy Salvage Drone  37 - z117,030
-Heavy Shield Bomb  3 - z163,979
-Improved Combat Drone  31 - z26,510
-Improved Defense Drone  27 - z27,252
-Improved Mining Drone  8 - z18,940
-Improved Repair Drone  41 - z27,482
-Improved Salvage Drone  32 - z30,389
-Ion Beam Class 1  1 - z1,975
-Junk Part  43 - z81
-Kinetic 60mm  37 - z36
-Kinetic Missile  30 - z291
-Large Combat Drone  39 - z60,591
-Large Defense Drone  14 - z97,089
-Large Mining Drone  33 - z58,010
-Large Repair Drone  41 - z67,276
-Large Salvage Drone  30 - z68,337
-Large Web Field  13 - z123,133
-Light Energy Charge  18 - z6,574
-Light Shield Bomb  9 - z5,604
-Light Shield Booster (Doc)  2 - z719,986
-Light Shield Charge  5 - z15,913
-Light Shield Recharger  3 - z53,399
-Liquid Coolant  72 - z42
-Liquid Coolant (Doc)  2 - z332
-Lubricant  50 - z15
-Medium Armor Bomb  1 - z27,772
-Medium Armor Repair  3 - z159,786
-Medium Combat Drone  44 - z9,006
-Medium Defense Drone  15 - z2,263
-Medium Life Support Pack  8 - z98,089
-Medium Mining Drone  31 - z11,022
-Medium Repair Drone  4 - z15,763
-Medium Salvage Drone  40 - z10,649
-Metal Brackets  36 - z35
-Micro Leech Drone  15 - z2,263
-Nuts And Bolts  50 - z7
-Ore Harvester 1 (Doc)  3 - z43,248
-Ornament  9 - z358
-Oxygen  71 - z0
-Plasma Beam Class 1  1 - z2,010
-Protein Bar  3 - z5,004
-Proton Missile  41 - z203
-Pulse Beam Class 1  3 - z2,777
-Pulse x1 Laser  7 - z450
-Rapid x1 Launcher  7 - z2,144
-Recon Scanner Drone  37 - z8,282
-Reinforced Rubber  54 - z20
-Salvage Collector 1  5 - z3,635
-Small Combat Drone  30 - z3,528
-Small Defense Drone  27 - z4,345
-Small Mining Drone  41 - z3,816
-Small Repair Drone  25 - z3,357
-Small Repair Drone (Doc)  7 - z31,744
-Small Salvage Drone  13 - z3,845
-Small Salvage Drone (Doc)  8 - z58,384
-Small Tractor Drone  8 - z11,863
-Small Web Field  1 - z4,554
-Steelium Beam  71 - z6
-Steelium Pipes  85 - z34
-Thermal Controller  2 - z2,354
-Titan Combat Drone  31 - z156,662
-Titan Defense Drone  15 - z37,722
-Titan Mining Drone  28 - z187,342
-Titan Repair Drone  34 - z168,102
-Titan Salvage Drone  43 - z161,926
-Torpedo Mark I  4 - z111
-Torpedo Mark I (Doc)  6 - z1,255
-Torpedo Mark III  2 - z175
-Torpedo Mark IV  45 - z229
-Torpedo Mark V  8 - z280
-Torpedo Mark VII  17 - z640
-Water  35 - z1
-Wrapped Box  4 - z4,869
-x1 Torpedo Launcher  6 - z68,875
+Advanced 60mm  45 - z8
+Anti-Freeze  5 - z8
+Assault x1 Launcher  1 - z8
+Assorted Gaskets  74 - z8
+Basic Afterburner  9 - z8
+Basic Armor Exterior (Doc)  4 - z21,722
+Basic Cargo Expansion  7 - z21,722
+Basic Charged Cell (Doc)  4 - z21,722
+Basic Drone Command Bay  9 - z21,722
+Basic Energy Armor  2 - z21,722
+Basic Energy Capacitor  7 - z21,722
+Basic Energy Generator  4 - z21,722
+Basic Filter  2 - z4,762
+Basic Impact Armor  2 - z4,762
+Basic Mass Reduction  4 - z4,762
+Basic Mass Reduction (Doc)  5 - z4,762
+Basic Missile (Doc)  5 - z4,762
+Basic Scan Booster  1 - z4,762
+Basic Scan Emitter  1 - z4,762
+Basic Shield Generator  9 - z4,762
+Basic Shield Generator (Doc)  1 - z4,762
+Basic Targeting System  6 - z4,762
+Basic Thruster  9 - z4,762
+Basic Turn Thrust (Doc)  8 - z900
+Blaster x1 Laser  7 - z900
+Bomber Drone  5 - z900
+Burglar Drone  15 - z900
+Candy Cane  6 - z900
+Candy Corn  9 - z900
+Carbon  88 - z900
+Carbon Fiber  5 - z900
+Chocolate Bars  5 - z900
+Cleaning Chemicals  9 - z900
+Colored Dye  8 - z900
+Disposables  2 - z267
+Fasteners  6 - z254
+Focused x1 Laser  6 - z254
+Fusion Missile  41 - z254
+Generic Dual 20mm Gun  2 - z254
+Generic Gatling 20mm Gun  1 - z254
+Generic Single 20mm Gun  4 - z254
+Gummy Bears  2 - z254
+Heavy Combat Drone  38 - z254
+Heavy Defense Drone  40 - z254
+Heavy Mining Drone  39 - z254
+Heavy Repair Drone  43 - z254
+Heavy Salvage Drone  27 - z116,611
+Improved Combat Drone  31 - z163,376
+Improved Defense Drone  15 - z26,853
+Improved Mining Drone  8 - z26,853
+Improved Repair Drone  30 - z27,303
+Improved Salvage Drone  23 - z30,003
+Ion Beam Class 1  1 - z30,003
+Kinetic 60mm  37 - z81
+Kinetic Missile  30 - z81
+Large Combat Drone  39 - z81
+Large Defense Drone  14 - z81
+Large Mining Drone  33 - z81
+Large Repair Drone  41 - z81
+Large Salvage Drone  30 - z81
+Large Web Field  13 - z81
+Light Energy Charge  6 - z6,508
+Light Shield Bomb  9 - z6,508
+Light Shield Booster (Doc)  2 - z6,508
+Light Shield Recharger  3 - z15,851
+Liquid Coolant (Doc)  2 - z42
+Medium Armor Bomb  1 - z14
+Medium Combat Drone  44 - z158,914
+Medium Defense Drone  15 - z158,914
+Medium Life Support Pack  8 - z158,914
+Medium Mining Drone  20 - z10,901
+Medium Salvage Drone  40 - z15,701
+Metal Brackets  36 - z164
+Micro Leech Drone  15 - z164
+Ore Harvester 1 (Doc)  3 - z7
+Ornament  9 - z7
+Oxygen  71 - z7
+Plasma Beam Class 1  1 - z7
+Protein Bar  3 - z7
+Proton Missile  41 - z7
+Pulse Beam Class 1  3 - z7
+Pulse x1 Laser  7 - z7
+Rapid x1 Launcher  7 - z7
+Recon Scanner Drone  27 - z8,201
+Reinforced Rubber  54 - z8,201
+Salvage Collector 1  5 - z8,201
+Small Combat Drone  30 - z8,201
+Small Defense Drone  27 - z8,201
+Small Mining Drone  41 - z8,201
+Small Repair Drone  25 - z8,201
+Small Repair Drone (Doc)  7 - z8,201
+Small Salvage Drone  13 - z8,201
+Small Salvage Drone (Doc)  8 - z8,201
+Small Tractor Drone  8 - z8,201
+Steelium Beam  71 - z4,534
+Steelium Pipes  85 - z4,534
+Titan Combat Drone  31 - z2,334
+Titan Defense Drone  15 - z2,334
+Titan Mining Drone  28 - z2,334
+Titan Repair Drone  34 - z2,334
+Titan Salvage Drone  43 - z2,334
+Torpedo Mark I  4 - z2,334
+Torpedo Mark I (Doc)  6 - z2,334
+Torpedo Mark III  2 - z2,334
+Torpedo Mark IV  45 - z2,334
+Torpedo Mark VII  17 - z278
+Water  35 - z278
+x1 Torpedo Launcher  6 - z4,848
 
 
 <Station University Skills>
 
 
 <Station Missions>
-[c:lime]DELIVERY[/c]
-Take medium shipment of <color='yellow'>157</color> <color='yellow'>Aluminium Shards</color> and deliver to <color='cyan'>Gate of Alpharis</color> and dock at Horizons Station
-
 [c:lime]FABRICATE[/c]
 Produce a light container of <color='yellow'>6</color> <color='yellow'>Large Processors</color> at the OmniTrust fabricator in <color='cyan'>Ponze</color>
 
@@ -277,6 +264,12 @@ Assassinate in-experienced <color='yellow'><i>Czar Lelsa Fonrastfa</i></color> i
 
 [c:lime]RECOVER[/c]
 Retrieve a light cache of <color='yellow'>2</color> <color='yellow'>Ion Beam Class 2s</color> from a <color='yellow'>crate</color> in <color='cyan'>Dragon Sea</color> sector, drop at Lacuna Bandits in <color='cyan'>Ballast Crow</color>
+
+[c:lime]TRANSPORT[/c]
+Transport <color='yellow'>10</color> units of <color='yellow'>Pulse x3 Lasers</color> from Temple of the Void in <color='cyan'>Valley of Truths</color> to Rendo Labs in <color='cyan'>Entropy</color>
+
+[c:lime]KILL RAIDERS[/c]
+Exterminate <color='yellow'>2 Raiders</color> in <color='cyan'>Starfort Ramos</color> and dock at ValueStar in <color='cyan'>Hunu</color>
 
 
 

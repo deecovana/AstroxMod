@@ -1,6 +1,6 @@
 // CONFIG DATA FILE FOR ASTROX IMPERIUM
 OPTION_ui_scale;0.75
-OPTION_music_vol;0.75
+OPTION_music_vol;0.5006306
 OPTION_sfx_vol;0.75
 OPTION_ui_vol;1.25
 OPTION_vsync;False

@@ -24,3 +24,6 @@ NPC;BAL;9;9;980.6398;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
 NPC;+STOCK;53;9;1131.252;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;75;9;1189.686;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;75;0;1216.373;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;38;-6;1267.842;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;84;9;1146.623;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;103;11;430.7448;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

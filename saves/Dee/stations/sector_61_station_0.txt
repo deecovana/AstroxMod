@@ -41,6 +41,8 @@ MERC;1;1.63;npc_ship_data_(transport_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Inventory: (2) Items ;154x180,169x639;28062;131049.10
+
 BUYORDER;Market Needs Goods: (2) Items ;109x174,100x210;1661;86423.06
 BUYORDER;Market Out of Stock: (2) Items ;2000x486,112x447;32528;116584.50
 BUYORDER;Market Shortage: (3) Items ;104x65,110x326,101x347;11131;40183.81

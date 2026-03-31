@@ -34,3 +34,6 @@ NPC;+LOCAL;150;206;39.1625;Starbase Corporate Center;Void Starcross;14h 13m 23s 
 NPC;+PRICE;261;0;52.83425;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;862;-115;67.00854;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;370;0;63.98923;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;397;-116;115.414;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+PRICE;854;0;133.8559;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;-PRICE;395;0;124.6958;Holosynth Industries;Rats Of Mortalis;23h 28m 40s ;84520.21

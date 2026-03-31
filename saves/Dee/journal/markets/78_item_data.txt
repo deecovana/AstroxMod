@@ -41,3 +41,6 @@ NPC;+PRICE;37;0;250.6567;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;243;-1578;190.9567;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
 NPC;+PRICE;12547;0;144.8161;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+QTY;4224;2193;168.1503;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;+STOCK;14636;2089;129.2061;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;11977;2282;209.5936;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;133;0;252.7323;Nova Labs;Noah Fox;23h 46m 31s ;85591.75

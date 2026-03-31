@@ -3,3 +3,5 @@ NPC;+QTY;20;2;104.0625;Psybermind;Ion Child;6h 44m 29s ;24269.91
 NPC;+QTY;25;1;161.0194;Quantex;Dellis Primeria;12h 33m 5s ;45185.51
 NPC;BAL;3;-2;73.03957;Quah Relay Station;Noah Fox;13h 31m 19s ;48679.5
 NPC;BAL;5;-1;159.2975;Acrondia Corp.;Crown of Imperium;13h 31m 19s ;48679.5
+NPC;BAL;12;-1;86.92981;Holosynth Industries;Rats Of Mortalis;20h 19m 44s ;73184.99
+NPC;-PRICE;53;0;158.4255;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21

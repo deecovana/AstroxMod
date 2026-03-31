@@ -8,3 +8,7 @@ NPC;+STOCK;822;143;228.4225;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;390;108;85.31179;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;497;107;82.59787;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;955;133;219.7797;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
+NPC;-PRICE;163;0;256.1806;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;+STOCK;621;124;78.99698;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;150;227;183.755;StarShepards Headquarters;Void Starcross;23h 28m 54s ;84534.91
+NPC;+LOCAL;49;7;438.7414;Star Shepard's Temple;Lightless;24h 22m 53s ;87773.7

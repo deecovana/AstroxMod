@@ -16,3 +16,6 @@ NPC;BAL;47;-10;1687.06;Psybermind;Ion Child;13h 31m 19s ;48679.5
 NPC;+STOCK;89;11;1296.018;Lammassu Financial;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;12;-6;2995.924;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;+PRICE;12;0;3120.625;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;-PRICE;77;0;1423.541;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;+QTY;30;6;1395.909;CoraVault;Lins;20h 24m 54s ;73494.4
+NPC;+STOCK;106;8;2934.655;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7

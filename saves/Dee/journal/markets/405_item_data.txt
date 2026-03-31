@@ -67,3 +67,18 @@ NPC;BAL;31;0;21.98444;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;BAL;2;0;17.99167;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
 NPC;BAL;1;0;17.38988;Rendo Labs;Entropy;18h 20m 20s ;66020.74
 NPC;+QTY;566;543;18.79995;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;-QTY;0;0;92.66724;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;781;0;21.84205;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;912;884;16.56071;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+QTY;765;722;13.89158;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4
+NPC;+QTY;993;989;25.67158;Quah Relay Station;Noah Fox;20h 24m 54s ;73494.4
+NPC;+STOCK;1702;921;21.4978;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;729;729;90.63905;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;3049;675;20.04527;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;2325;778;15.71936;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;-LOCAL;21;21;34.875;StarGypsy Warehouse;Void Starcross;23h 26m 3s ;84363.69
+NPC;-PRICE;68;0;29.18286;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21
+NPC;-PRICE;46;0;28.94608;Holosynth Industries;Rats Of Mortalis;23h 28m 40s ;84520.21
+NPC;BAL;28;0;19.54713;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
+NPC;BAL;53;0;16.79062;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75
+NPC;+STOCK;745;745;23.45567;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

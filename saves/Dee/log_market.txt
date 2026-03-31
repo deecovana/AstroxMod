@@ -1,4 +1,30 @@
 //;LOG DATA FILE (Astrox Imperium)
+BUY;197;Kinetic Missile;487;95,971;498134.484375;Star Shepard's Temple;Lightless;24h 33m 35s 
+BUY;46;Energized Missile;360;16,538;594205.5;Star Shepard's Temple;Lightless;24h 23m 16s 
+BUY;402;Energized Missile;356;143,118;610848.21875;Star Shepard's Temple;Lightless;24h 18m 32s 
+BUY;5;Rapid x2 Launcher;3,947;19,734;685150.853028297;StarShepards Headquarters;Void Starcross;23h 29m 22s 
+BUY;5;Assault x2 Launcher;3,422;17,108;708814.946778297;Astrox Security Patrol;Felishar;23h 14m 5s 
+BUY;5;Tactical x2 Launcher;2,080;10,399;707849.558106422;Biomate University;Void Starcross;23h 9m 21s 
+BUY;993;Advanced Missile;86.53;85,924;720188.69775486;Lacuna Bandits;Ballast Crow;22h 57m 50s 
+BUY;5;Tactical x3 Launcher;4,401;22,003;806112.65087986;Lacuna Bandits;Ballast Crow;22h 54m 3s 
+SELL;1;Kinetics G-series 20mm Gun;163;162.5000;829406.12353611;Lacuna Bandits;Ballast Crow;22h 44m 35s 
+SELL;1;Ore Harvester 1;2,574;2574.0000;829243.62353611;Lacuna Bandits;Ballast Crow;22h 44m 27s 
+SELL;2;Pulse x2 Laser;58.50;117.0000;826669.623780251;Lacuna Bandits;Ballast Crow;22h 44m 19s 
+SELL;148;Junk Part;77.71;11501.5400;826552.62378788;Lacuna Bandits;Ballast Crow;22h 44m 10s 
+SELL;1;Salvage Collector 1;2,038;2037.7500;731786.07258606;Biomate University;Void Starcross;21h 10m 8s 
+SELL;3;Ion Beam Class 3;4,147;12440.9000;729748.32270813;Biomate University;Void Starcross;21h 10m 0s 
+SELL;1;Containment Unit;3,965;3965.0000;723347.425247192;Biomate University;Void Starcross;21h 0m 27s 
+SELL;1;Disposables;325;325.0000;719382.425491333;Biomate University;Void Starcross;21h 0m 21s 
+SELL;1;Thermal Controller;2,665;2665.0000;719057.425491333;Biomate University;Void Starcross;21h 0m 11s 
+SELL;1;Basic Filter;2,503;2502.5000;716392.425491333;Biomate University;Void Starcross;21h 0m 0s 
+SELL;1;Advanced Regulator;6,500;6500.0000;713889.925491333;Biomate University;Void Starcross;20h 59m 35s 
+SELL;1;Improved Filter;4,485;4485.0000;707389.925491333;Biomate University;Void Starcross;20h 59m 27s 
+SELL;2;Noodles;3,835;7669.9700;702904.925491333;Biomate University;Void Starcross;20h 59m 19s 
+SELL;1;Basic Cargo Expansion;157;157.2220;695234.955764771;Biomate University;Void Starcross;20h 57m 36s 
+SELL;1;Basic Beam Impact Mod;1,932;1931.9560;695077.733764648;Biomate University;Void Starcross;20h 57m 24s 
+SELL;2;Improved Cargo Expansion;327;654.7708;693145.777709961;Biomate University;Void Starcross;20h 57m 12s 
+SELL;1;Improved Scan Emitter;1,543;1542.6320;692491.006958008;Biomate University;Void Starcross;20h 56m 57s 
+SELL;1960;Gradeon Ore;26.33;51611.9800;1262522.41083932;Acrondia Hub;Temple Gates;20h 1m 29s 
 SELL;367;Gradeon Ore;26.51;9728.4830;1362816.68697023;Acrondia Hub;Temple Gates;18h 55m 46s 
 SELL;917;Torim Ore;218;199948.1000;1353088.2035718;Acrondia Hub;Temple Gates;18h 55m 39s 
 SELL;9;Dynex Ore;887;7981.0480;1153140.0941968;Acrondia Hub;Temple Gates;18h 55m 31s 
@@ -74,29 +100,3 @@ BUY;1;Premium Shield Generator;13,044;13,044;15276.2880859375;Biomate University
 BUY;1;Premium Scan Booster;62,966;62,966;28320.48828125;Biomate University;Void Starcross;10h 0m 2s 
 BUY;2;Premium Cargo Expansion;63,356;126,712;91286.109375;Biomate University;Void Starcross;9h 59m 23s 
 BUY;20;Pressure Sensor;24.33;486.5;217998.125;Biomate University;Void Starcross;9h 56m 24s 
-BUY;20;Copperi Cables;48.60;972.0;218484.625;Biomate University;Void Starcross;9h 56m 7s 
-SELL;1;Electronic Fragment;108;107.9000;198430.923568606;Horizons;Gate of Alpharis;9h 39m 11s 
-SELL;145;Torim Ore;110;16006.2200;162546.92201221;StarGypsy Warehouse;Void Starcross;9h 36m 26s 
-SELL;488;Adamyte Ore;15.11;7373.3810;162220.69935596;Proctors Center;Void Starcross;8h 56m 59s 
-SELL;549;Adamyte Ore;12.79;7022.7590;143182.255020022;Horizons;Gate of Alpharis;8h 43m 18s 
-SELL;84;Adamyte Ore;13.00;1091.9990;136259.49623096;Horizons;Gate of Alpharis;8h 36m 38s 
-BUY;1;Blaster x3 Laser;2,726;2,726;135267.497451663;Biomate University;Void Starcross;8h 14m 22s 
-BUY;1;Plasma Beam Class 2;3,616;3,616;137993.400527835;Biomate University;Void Starcross;8h 12m 46s 
-SELL;1;Plasma Beam Class 1;1,841;1841.1250;141609.206924319;Biomate University;Void Starcross;8h 12m 30s 
-BUY;1;Salvage Collector 1;1,978;1,978;139789.682047009;Biomate University;Void Starcross;8h 9m 56s 
-SELL;499;Gradeon Ore;20.02;9989.8790;141767.44779408;StarGypsy Warehouse;Void Starcross;8h 4m 17s 
-SELL;171;Torim Ore;112;19216.3600;114050.76810658;StarGypsy Warehouse;Void Starcross;7h 38m 4s 
-SELL;493;Gradeon Ore;21.29;10497.8300;94959.4126378298;Tella's;Bitcola;7h 28m 58s 
-SELL;160;Salt Crystal;1.06;170.3519;51961.8179112673;Starbase Corporate Center;Void Starcross;6h 56m 28s 
-SELL;195;Hydrogen;1.51;294.6937;51791.4659672976;Starbase Corporate Center;Void Starcross;6h 56m 20s 
-SELL;672;Oxygen;0.29;196.9094;51496.7723027468;Starbase Corporate Center;Void Starcross;6h 56m 11s 
-SELL;772;Water;0.20;153.0490;51299.8629094362;Starbase Corporate Center;Void Starcross;6h 56m 4s 
-SELL;194;Magnetic Quartz;2.02;391.5403;51146.8139287233;Starbase Corporate Center;Void Starcross;6h 55m 55s 
-SELL;3;Ceramic;8.02;24.0572;50755.2735844851;Starbase Corporate Center;Void Starcross;6h 55m 47s 
-SELL;10;Nitrogen;7.36;73.5930;50731.2164365053;Starbase Corporate Center;Void Starcross;6h 55m 41s 
-SELL;11;Copperi Cubex;7.90;86.9440;50657.6234418154;Starbase Corporate Center;Void Starcross;6h 55m 32s 
-SELL;18;Iron Coring;7.54;135.7200;50570.6794492006;Starbase Corporate Center;Void Starcross;6h 55m 22s 
-SELL;4;Acidic Residue;11.90;47.5904;50434.9594784975;Starbase Corporate Center;Void Starcross;6h 55m 14s 
-SELL;8;Oil;3.69;29.4892;50387.3690778017;Starbase Corporate Center;Void Starcross;6h 55m 5s 
-SELL;752;Carbon;0.31;230.9579;50357.8798810244;Starbase Corporate Center;Void Starcross;6h 54m 58s 
-SELL;2;Ore Harvester 1;2,632;5264.9860;28230.001630187;Lacuna Bandits;Ballast Crow;6h 35m 43s 

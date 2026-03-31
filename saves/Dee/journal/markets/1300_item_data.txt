@@ -9,3 +9,7 @@ NPC;+STOCK;46;9;6083.092;StarShepards Headquarters;Void Starcross;12h 16m 20s ;4
 NPC;+QTY;53;7;6032.425;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;-QTY;45;-8;5965.225;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;BAL;7;0;9598.594;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;+STOCK;53;8;5328.295;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;59;0;5876.555;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;-PRICE;18;0;12811.83;Holosynth Industries;Rats Of Mortalis;23h 28m 40s ;84520.21
+NPC;BAL;62;-6;12303.32;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

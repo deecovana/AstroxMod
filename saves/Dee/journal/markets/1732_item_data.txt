@@ -9,3 +9,5 @@ NPC;+QTY;52;6;1613.795;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+PRICE;6;0;1939.576;Gunstellar;Adrenal;11h 29m 25s ;41365.69
 NPC;+STOCK;60;8;1469.105;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+PRICE;60;0;1554.925;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+STOCK;71;11;1485.387;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;33;-11;2791.106;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

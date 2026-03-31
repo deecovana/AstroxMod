@@ -40,3 +40,9 @@ NPC;BAL;402;-149;9.872862;Foodmaid;Daelus;14h 12m 27s ;51147.38
 NPC;+PRICE;1076;0;16.76544;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;+PRICE;1081;0;15.72625;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
 NPC;+PRICE;1461;0;12.83564;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-QTY;904;-177;15.74087;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;190;-192;16.17289;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;1684;223;12.62454;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1135;231;15.12109;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;465;-203;16.27171;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75
+NPC;+STOCK;633;228;13.41274;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

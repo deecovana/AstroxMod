@@ -9,3 +9,6 @@ NPC;+STOCK;80;2;973141;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;77;2;804709.5;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;57;-1;1240575;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;76;-1;799305;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
+NPC;-PRICE;67;0;1086342;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;+STOCK;80;2;957971.6;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;78;2;759191.9;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

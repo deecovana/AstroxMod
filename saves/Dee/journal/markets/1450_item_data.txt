@@ -27,3 +27,9 @@ NPC;+PRICE;69;0;4243.1;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;-QTY;83;-10;1680.438;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;BAL;50;-6;5003.63;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;BAL;1;0;4593.87;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;BAL;89;-7;2332.346;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;100;11;2261.592;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;91;8;1468.378;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;91;0;5022.284;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;BAL;42;-8;4716.507;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;BAL;1;0;4457.832;Nova Labs;Noah Fox;23h 46m 31s ;85591.75

@@ -64,3 +64,14 @@ NPC;BAL;15;0;35.38657;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;-LOCAL;59;59;42.8625;Biomate University;Void Starcross;18h 28m 19s ;66499.89
 NPC;+STOCK;788;788;113.372;Star Shepards Hub;Temple Gates;18h 57m 14s ;68234.02
 NPC;-LOCAL;0;0;95.25;Star Shepards Hub;Temple Gates;18h 58m 23s ;68303.82
+NPC;BAL;63;0;38.72126;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;BAL;59;0;39.39022;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;-LOCAL;0;0;76.57266;Biomate University;Void Starcross;20h 56m 39s ;75399.39
+NPC;+STOCK;4682;840;18.59408;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;4609;778;35.97257;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1570;729;31.0334;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;3667;976;36.21038;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;1061;0;36.85284;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;-LOCAL;0;0;95.25;Biomate University;Void Starcross;23h 6m 4s ;83164.88
+NPC;-LOCAL;71;71;43.95794;Biomate University;Void Starcross;23h 23m 26s ;84206.98
+NPC;-LOCAL;0;0;95.25;Star Shepards Hub;Temple Gates;25h 8m 31s ;90511.05

@@ -15,3 +15,7 @@ NPC;+STOCK;83;2;17458.47;Biomate University;Void Starcross;14h 1m 15s ;50475.31
 NPC;+STOCK;64;2;27208.39;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
 NPC;-QTY;62;-2;27257.8;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;BAL;4;-1;29182.51;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;BAL;79;-2;20077.19;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;81;2;19115.71;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;64;2;25160.84;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;-PRICE;72;0;22339.13;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21

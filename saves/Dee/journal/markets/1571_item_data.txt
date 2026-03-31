@@ -15,3 +15,5 @@ NPC;BAL;11;0;3363.631;Dustardz;Redsky;14h 12m 27s ;51147.38
 NPC;+PRICE;2;0;6102.733;Gemini Mining;Jala;15h 8m 41s ;54521.68
 NPC;+PRICE;15;0;3781.241;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
 NPC;+PRICE;68;0;5831.58;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+QTY;22;7;2995.278;PharmaLife;Carioullis;20h 24m 54s ;73494.4
+NPC;+STOCK;77;9;5748.792;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7

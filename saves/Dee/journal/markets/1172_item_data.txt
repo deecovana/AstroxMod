@@ -32,3 +32,10 @@ PLAYER;-QTY;91;2;4749.874;Biomate University;Void Starcross;14h 55m 27s ;53727.5
 PLAYER;+QTY;93;2;4854.6;Biomate University;Void Starcross;16h 58m 54s ;61134.8
 NPC;BAL;1;0;9328.562;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;+QTY;32;11;5294.82;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;BAL;82;-11;4816.752;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+QTY;22;11;6037.075;CoraVault;Lins;20h 24m 54s ;73494.4
+PLAYER;+QTY;85;3;4851.918;Biomate University;Void Starcross;21h 10m 0s ;76200.08
+NPC;+STOCK;93;8;4282.887;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;22;10;1662.679;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;133;8;9734.137;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;66;-11;11031.73;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

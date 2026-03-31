@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;52
 SECTOR;name;Greatorna
-SECTOR;level;1.5
+SECTOR;level;1.4
 SECTOR;faction;Law
 SECTOR;filename;sector_52.txt
 SECTOR;is_explored;False

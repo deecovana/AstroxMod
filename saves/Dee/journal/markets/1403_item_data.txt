@@ -13,3 +13,5 @@ NPC;+STOCK;36;9;47248.18;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50
 NPC;+PRICE;22;0;45301.8;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;+PRICE;41;0;22802.62;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;+PRICE;85;0;47471.46;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;+STOCK;95;10;45136.99;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;44;8;46399.84;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

@@ -60,3 +60,17 @@ NPC;+STOCK;481;213;2.243548;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
 NPC;+PRICE;2008;0;1.415542;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;1;0;2.225756;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;+QTY;410;249;1.978281;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;-QTY;0;-141;2.628531;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;-QTY;749;-186;0.8285313;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;130;0;1.898669;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;BAL;58;0;2.272325;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;+QTY;980;133;2.720289;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4
+NPC;+LOCAL;250;3896;0.8125;Lacuna Bandits;Ballast Crow;22h 44m 2s ;81842.67
+NPC;+STOCK;633;207;1.901199;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1527;246;1.170986;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;733;181;1.832536;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1710;171;1.456104;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;298;0;2.551401;Nova Labs;Noah Fox;23h 4m 30s ;83070.77
+NPC;+PRICE;45;0;1.88712;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+PRICE;1082;0;2.706108;Valuestar Hub;Jelumus;23h 4m 30s ;83070.77
+NPC;BAL;1;0;2.116968;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

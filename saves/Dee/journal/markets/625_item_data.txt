@@ -43,3 +43,14 @@ NPC;-QTY;12;-4;99314.99;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;27;-2;210261;Star Shepard's Temple;Lightless;15h 52m 52s ;57172.89
 NPC;-QTY;11;-4;35061;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;50;0;81738.94;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-QTY;30;-2;86739;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-PRICE;9;0;197669.1;RestJag Outlet;Daefore;19h 7m 15s ;68835.37
+NPC;BAL;30;-3;121871.8;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;33;3;116576;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;53;3;74044.66;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;14;3;33532.5;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;32;4;104862.7;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;53;3;84126.8;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;5;1;78000;StarShepards Headquarters;Void Starcross;23h 28m 54s ;84534.91
+NPC;BAL;14;-2;96393.72;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75
+NPC;+LOCAL;5;1;219282.7;Star Shepard's Temple;Lightless;24h 53m 13s ;89593.66

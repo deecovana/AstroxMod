@@ -7,3 +7,5 @@ NPC;+QTY;96;11;214014.9;Lammassu Financial;Void Starcross;6h 44m 29s ;24269.91
 NPC;+STOCK;68;8;79052.59;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;78;10;79921.38;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
 NPC;+STOCK;86;8;68356.63;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
+NPC;+PRICE;27;0;266923.3;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+STOCK;77;8;280345.5;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

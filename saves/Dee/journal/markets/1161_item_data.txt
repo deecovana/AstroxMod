@@ -31,3 +31,8 @@ NPC;+LOCAL;12;14;1755;Starbase Corporate Center;Void Starcross;14h 13m 23s ;5120
 PLAYER;+QTY;76;3;3453.148;Biomate University;Void Starcross;14h 39m 9s ;52749.01
 NPC;+QTY;24;8;2113.087;Biomart;Veloxi;18h 20m 21s ;66021.78
 NPC;+QTY;24;6;6055.627;Tella's;Bitcola;18h 20m 21s ;66021.78
+NPC;-QTY;15;-9;6055.627;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;BAL;65;-11;3715.475;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;76;11;3569.992;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;-PRICE;37;0;3317.621;Holosynth Industries;Rats Of Mortalis;23h 28m 40s ;84520.21
+NPC;-PRICE;15;0;5268.684;Spacebook;Phistatisia;23h 28m 40s ;84520.21

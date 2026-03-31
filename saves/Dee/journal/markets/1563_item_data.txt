@@ -41,3 +41,12 @@ NPC;-QTY;91;-6;42059.07;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57
 NPC;+LOCAL;12;9;16957.46;Biomate University;Void Starcross;16h 3m 55s ;57835.64
 NPC;+LOCAL;12;6;16957.46;Biomate University;Void Starcross;16h 40m 10s ;60010.47
 NPC;+LOCAL;12;2;16957.46;Biomate University;Void Starcross;16h 54m 46s ;60886.23
+NPC;BAL;12;0;10138.95;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+LOCAL;12;4;16957.46;Biomate University;Void Starcross;20h 56m 39s ;75399.39
+NPC;+STOCK;22;10;6146.916;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;100;9;40040.84;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;30;11;40150.32;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;121;11;27324.12;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+LOCAL;12;13;16957.46;Biomate University;Void Starcross;23h 6m 4s ;83164.88
+NPC;+LOCAL;12;2;16957.46;Biomate University;Void Starcross;23h 23m 26s ;84206.98
+NPC;BAL;13;-6;51917.37;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75

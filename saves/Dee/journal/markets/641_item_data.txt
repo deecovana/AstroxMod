@@ -60,3 +60,15 @@ NPC;-QTY;23;-4;9860.875;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57
 NPC;+STOCK;6;4;6792.656;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
 NPC;+PRICE;25;0;5334.611;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+QTY;10;2;4513.125;Biomart;Veloxi;18h 20m 21s ;66021.78
+NPC;-PRICE;10;0;6486.56;PharmaLife;Carioullis;19h 7m 15s ;68835.37
+NPC;-PRICE;9;0;11055.28;RestJag Outlet;Daefore;19h 7m 15s ;68835.37
+NPC;BAL;19;-4;8637.549;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+PLAYER;+QTY;20;1;8682.688;Biomate University;Void Starcross;20h 59m 35s ;75575.51
+NPC;+STOCK;29;4;5053.311;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;26;3;9332.744;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;12;3;3918.528;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;20;4;5846.085;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;27;0;5392.727;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+PRICE;28;0;10732.6;Valuestar Hub;Jelumus;23h 4m 30s ;83070.77
+NPC;-PRICE;14;0;10701.98;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21
+NPC;+STOCK;10;3;10060.14;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34

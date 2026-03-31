@@ -33,3 +33,8 @@ NPC;-LOCAL;16;16;107.325;Lammassu Financial;Void Starcross;16h 1m 52s ;57712.91
 NPC;-LOCAL;37;37;107.325;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
 NPC;+PRICE;37;0;113.6789;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;130;0;79.94846;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;-PRICE;203;0;78.83361;PharmaLife;Carioullis;19h 7m 15s ;68835.37
+NPC;+QTY;275;102;50.60374;CoraVault;Lins;20h 24m 54s ;73494.4
+NPC;+STOCK;909;142;59.02176;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;144;107;108.9093;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;976;136;73.74461;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

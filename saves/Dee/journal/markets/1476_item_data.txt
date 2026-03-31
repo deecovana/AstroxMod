@@ -17,3 +17,7 @@ NPC;+LOCAL;12;8;136500;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
 NPC;+PRICE;12;0;57873.51;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;+PRICE;47;0;309150.6;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;BAL;28;-6;303809.4;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;BAL;16;-6;389632.6;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;24;8;375975.9;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;20;8;45478.13;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;21;-7;325294.9;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

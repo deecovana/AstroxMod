@@ -41,3 +41,14 @@ NPC;+STOCK;236;14;7407.045;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;206;0;15132.3;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;24;-8;15174.5;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
 NPC;BAL;16;-9;13454.06;Rendo Labs;Entropy;18h 20m 20s ;66020.74
+NPC;-QTY;131;-10;7071.187;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;147;-11;13900.33;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;20;13;7821.024;Astrox Security Patrol;Felishar;20h 24m 53s ;73493.37
+NPC;+STOCK;160;13;13380.46;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;219;13;14729.17;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;142;11;6481.86;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;119;11;9850.935;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;250;14;6660.057;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;-PRICE;1;0;13656.21;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21
+NPC;BAL;7;0;8783.576;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
+NPC;BAL;13;-11;13655.41;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

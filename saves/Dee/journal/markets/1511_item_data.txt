@@ -12,3 +12,5 @@ NPC;+STOCK;52;10;11671.3;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50
 NPC;+STOCK;89;11;5468.56;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
 NPC;+PRICE;75;0;11459.09;Janca Refinery;Canndelis;15h 8m 41s ;54521.68
 NPC;+PRICE;3;0;11821.83;Xellon;Ele;15h 8m 41s ;54521.68
+NPC;+STOCK;60;8;11511.89;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;98;9;5307.652;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

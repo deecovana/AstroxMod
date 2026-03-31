@@ -9,3 +9,5 @@ NPC;+QTY;89;6;14910.1;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268
 NPC;-QTY;47;-8;14765.77;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;78;-11;14812.18;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;BAL;22;-6;20407.32;Nova Labs;Noah Fox;18h 20m 20s ;66020.74
+NPC;+STOCK;87;9;14184.33;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;22;0;20823.29;Nova Labs;Noah Fox;23h 4m 30s ;83070.77

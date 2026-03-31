@@ -6,3 +6,5 @@ NPC;+QTY;37;9;29310.94;StarGypsy Warehouse;Void Starcross;10h 9m 19s ;36559.19
 NPC;+STOCK;47;10;28116.05;StarGypsy Warehouse;Void Starcross;12h 16m 20s ;44180.46
 NPC;+PRICE;82;0;32047.32;Legistron;Dogstar Prime;15h 48m 23s ;56903.07
 NPC;+PRICE;47;0;30389.36;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.07
+NPC;-QTY;38;-9;30293.45;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;+QTY;15;7;52662.34;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4

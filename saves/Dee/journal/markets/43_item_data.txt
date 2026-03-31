@@ -34,3 +34,10 @@ NPC;+PRICE;6037;0;30.41741;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903
 NPC;+PRICE;6;0;25.50792;Genistar;Blades of Dandrow;16h 46m 45s ;60405.14
 NPC;+PRICE;149;0;34.98249;Desban;Ellisar;16h 46m 45s ;60405.14
 NPC;+QTY;1939;1835;19.08937;PharmaLife;Carioullis;18h 20m 21s ;66021.78
+NPC;-PRICE;1939;0;18.08979;PharmaLife;Carioullis;19h 7m 15s ;68835.37
+NPC;-PRICE;58;0;19.915;KIN AI;Xenilo Valley;19h 7m 15s ;68835.37
+NPC;+STOCK;4847;1976;22.5106;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;8177;2140;28.83278;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;8120;2446;27.57986;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;-PRICE;87;0;29.43306;Spacebook;Phistatisia;23h 28m 40s ;84520.21
+NPC;+STOCK;1883;1727;33.75958;Star Shepard's Temple;Lightless;24h 17m 12s ;87432.16

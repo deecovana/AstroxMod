@@ -44,3 +44,18 @@ NPC;+PRICE;1135;0;6.914011;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903
 NPC;-QTY;779;-169;3.020092;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;1809;0;3.758865;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
 NPC;BAL;610;-226;6.204182;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74
+NPC;-QTY;933;-202;6.950408;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;-PRICE;271;0;10.80186;RestJag Outlet;Daefore;19h 7m 15s ;68835.37
+NPC;BAL;115;-156;9.832203;RestJag Outlet;Daefore;20h 19m 44s ;73184.99
+NPC;BAL;227;-153;9.547606;Astrox Security Patrol;Kilotorish;20h 19m 44s ;73184.99
+NPC;BAL;1090;-176;9.170427;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+LOCAL;250;4718;3.315;Lacuna Bandits;Ballast Crow;22h 44m 2s ;81842.67
+NPC;+STOCK;1264;174;8.925091;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;2043;234;3.632222;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1159;226;6.580518;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;965;186;2.721733;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;1007;216;8.715572;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;799;0;5.931691;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;+PRICE;17;0;5.980892;Astrox Security Patrol;Felishar;23h 4m 30s ;83070.77
+NPC;BAL;17;0;6.727424;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
+NPC;BAL;414;-196;6.761339;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

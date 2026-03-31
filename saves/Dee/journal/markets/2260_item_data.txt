@@ -5,3 +5,6 @@ NPC;-QTY;75;-1;4986072;Biomate University;Void Starcross;9h 48m 4s ;35284.71
 NPC;+STOCK;77;2;4879967;Biomate University;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;38;2;5656046;Stinkfinger;Jonisae;12h 51m 8s ;46268.94
 NPC;+STOCK;79;2;4792249;Biomate University;Void Starcross;14h 1m 15s ;50475.31
+NPC;BAL;76;-1;4416858;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;78;2;4321275;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;3;0;2873462;Kinetics Manufacturing;Void Spooflarnia;23h 46m 31s ;85591.75

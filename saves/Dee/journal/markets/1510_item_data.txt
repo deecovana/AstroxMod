@@ -7,3 +7,6 @@ NPC;+QTY;9;9;4123.206;Transporteers Hub;Ambervellis Drea;12h 51m 8s ;46268.94
 NPC;BAL;8;0;2397.113;Communications Hub;Ele;13h 31m 19s ;48679.5
 NPC;+PRICE;15;0;4641.367;Psybermind;Ion Child;14h 10m 55s ;51055.01
 NPC;+PRICE;14;0;4252.969;Cosmic Jay's;Canndelis;15h 48m 23s ;56903.07
+NPC;-QTY;0;-7;6378.545;Ferce Hub;Semja;19h 7m 15s ;68835.37
+NPC;+QTY;51;9;6100.863;Imperium Republica ;Gate of Alpharis;20h 24m 54s ;73494.4
+NPC;+QTY;12;11;6329.334;Quah Relay Station;Noah Fox;20h 24m 54s ;73494.4

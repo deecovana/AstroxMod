@@ -28,3 +28,9 @@ NPC;BAL;301;0;12.76075;Foodmaid;Daelus;14h 12m 27s ;51147.38
 PLAYER;-QTY;817;1000;23.4819;Biomate University;Void Starcross;14h 53m 41s ;53621.35
 PLAYER;+QTY;1817;1000;23.7489;Biomate University;Void Starcross;15h 5m 21s ;54321.32
 NPC;+PRICE;148;0;18.48052;Desban;Ellisar;16h 46m 45s ;60405.14
+NPC;-QTY;0;-62;28.07271;Tella's;Bitcola;19h 7m 15s ;68835.37
+NPC;-QTY;5620;-2158;24.06771;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;1817;0;24.481;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;4187;2370;23.19496;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;8168;1886;14.08155;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;BAL;182;0;14.32452;Oak Industries;Dorando Corridor;23h 46m 31s ;85591.75

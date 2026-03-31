@@ -42,3 +42,8 @@ NPC;+STOCK;68;13;7192.097;Starbase Corporate Center;Void Starcross;14h 1m 15s ;5
 NPC;+PRICE;43;0;16225.58;Gunstellar;Adrenal;14h 10m 55s ;51055.01
 NPC;+STOCK;42;12;15938.97;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
 NPC;+PRICE;166;0;3529.455;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;BAL;72;-7;7901.202;Biomate University;Void Starcross;20h 19m 44s ;73184.99
+NPC;+STOCK;82;10;7385.796;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;177;11;2985.104;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;81;13;6820.548;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;10;0;17191.67;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77

@@ -35,3 +35,12 @@ NPC;+PRICE;131;0;5898.414;StarGypsy Warehouse;Void Starcross;15h 48m 23s ;56903.
 NPC;-QTY;51;-13;16257.19;Desban;Ellisar;15h 52m 52s ;57172.89
 NPC;-QTY;59;-12;14941.31;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
 NPC;+PRICE;82;0;13670.93;Lammassu Financial;Void Starcross;16h 46m 45s ;60405.14
+NPC;-QTY;124;-7;5871.188;StarGypsy Warehouse;Void Starcross;19h 7m 15s ;68835.37
+NPC;BAL;56;-7;9454.845;Holosynth Industries;Rats Of Mortalis;20h 19m 44s ;73184.99
+NPC;+STOCK;139;11;6182.557;Biomate University;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;94;12;13170.23;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;134;10;5153.184;StarGypsy Warehouse;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;72;13;14528.59;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;183;13;5735.339;Proctors Center;Void Starcross;23h 4m 29s ;83069.7
+NPC;+PRICE;46;0;13961.68;Mass Market;Dorando Corridor;23h 4m 30s ;83070.77
+NPC;-PRICE;130;0;15030.69;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21

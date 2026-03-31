@@ -6,3 +6,4 @@ NPC;BAL;23;-2;350852.7;Starbase Corporate Center;Void Starcross;4h 40m 21s ;1682
 NPC;+PRICE;9;0;323578.4;Quantex;Dellis Primeria;6h 12m 48s ;22368.54
 NPC;+STOCK;25;2;328668.4;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
 NPC;+QTY;13;1;305729;The Dunes;The Dunes of Caliph;12h 51m 8s ;46268.94
+NPC;+STOCK;25;2;333451.2;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

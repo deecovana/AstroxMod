@@ -10,3 +10,5 @@ NPC;+PRICE;49;0;318870;Gunstellar;Adrenal;11h 29m 25s ;41365.69
 NPC;+STOCK;21;9;31325;Lammassu Financial;Void Starcross;12h 16m 20s ;44180.46
 NPC;+LOCAL;12;56;91000;Lammassu Financial;Void Starcross;15h 8m 45s ;54525.73
 NPC;+LOCAL;12;7;91000;Lammassu Financial;Void Starcross;16h 45m 26s ;60326.67
+NPC;+STOCK;20;8;30318.75;Lammassu Financial;Void Starcross;23h 4m 29s ;83069.7
+NPC;+STOCK;66;8;235008.5;Star Shepard's Temple;Lightless;24h 52m 52s ;89572.34
