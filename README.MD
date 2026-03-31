@@ -1,7 +1,14 @@
 # "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
 
+## 0331 Try eXperimental
+
+
+
 ## 0331 Ready for Battle! 
 - Try Raiders
+  - Lasers out of energy
+- Try Eliminate $100 mission
+  - Milliles OK
 
 ## 0327 Continue Dee 
 - Created folders for 1280x and 1600x
