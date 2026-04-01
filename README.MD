@@ -4,6 +4,8 @@
 - Looks great but so hard
 - Set Temple standing 0 to open market
 - Target 2.5m to buy Frig1 SE1 or PF1
+- Add 1m due to mission expires
+- Update files
 
 ## 0331 Try eXperimental
 - start eX

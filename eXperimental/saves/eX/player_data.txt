@@ -2,11 +2,11 @@
 <PLAYER>
 PLAYER;name;eX
 PLAYER;level;9
-PLAYER;xp;42339.00
+PLAYER;xp;43339.00
 PLAYER;next_level_xp;44100.00
 PLAYER;last_level_xp;35100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;-58554.35
+PLAYER;credits;958554.35
 PLAYER;residual_credits;0.00
 PLAYER;skill_points;6
 PLAYER;playtime;47370.10
