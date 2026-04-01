@@ -1,10 +1,10 @@
 // SECTOR;Variable;Value
 SECTOR;id;13
 SECTOR;name;Jala
-SECTOR;level;5.7
+SECTOR;level;5.8
 SECTOR;faction;Labor
 SECTOR;filename;sector_13.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;12
 SECTOR;habitation;20
@@ -62,39 +62,39 @@ STARLIGHT;color_4;0.90;0.30;0.00;0.30
 STARLIGHT;color_5;0.00;0.00;0.00;0.30
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_13_station_0.txt;-1226.7;-611.3;7.4
+STATION;sector_13_station_0.txt;-1226.7;-611.3;7.4;prescan
 
-// STRUCTURE;STRUCTURE filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;-602.1;476.1;555.1
-STRUCTURE;structure_medical_1.txt;-740.5;290.3;1083.7
-STRUCTURE;structure_energy_gen_1.txt;-1061.3;549.8;736.0
-STRUCTURE;structure_recon_1.txt;-1602.5;318.2;950.4
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;-602.10;476.10;555.10
+STRUCTURE;structure_medical_1.txt;-740.50;290.30;1083.70
+STRUCTURE;structure_energy_gen_1.txt;-1061.30;549.80;736.00
+STRUCTURE;structure_recon_1.txt;-1602.50;318.20;950.40
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;15;50;100;1000;2555.2;-829.6;-2778.9;
 CLUSTER;1;15;50;100;1000;-2838.2;-1190.8;1526.5;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;-1538.5;-758.0;1620.3;200.0;200.0
-RESOURCE;1;2294.1;-478.2;-2100.7;100.0;100.0
-RESOURCE;1;1530.5;-1571.6;-2606.3;1500.0;1500.0
-RESOURCE;1;-2499.9;-767.2;282.0;900.0;900.0
-RESOURCE;1;-1961.5;-1024.4;1762.3;120.0;120.0
-RESOURCE;1;2355.8;-344.5;-1881.5;100.0;100.0
-RESOURCE;1;2592.7;-293.4;-1817.0;220.0;220.0
-RESOURCE;1;2383.5;-152.7;-1097.0;40.0;40.0
-RESOURCE;1;2442.5;-629.9;-2795.9;600.0;600.0
-RESOURCE;1;-2065.8;-1040.8;2189.8;800.0;800.0
-RESOURCE;1;1771.0;355.4;-1697.2;180.0;180.0
-RESOURCE;1;-2790.2;-1887.0;1575.5;1500.0;1073.0
-RESOURCE;1;-1567.2;-312.3;1888.7;200.0;200.0
-RESOURCE;1;-1063.9;-1929.2;2099.0;600.0;600.0
-RESOURCE;1;1726.5;-305.0;-2039.7;100.0;100.0
-RESOURCE;1;2596.4;104.5;-1815.2;100.0;100.0
+RESOURCE;1;-1538.5;-758.0;1620.3;200;200
+RESOURCE;1;2294.1;-478.2;-2100.7;100;0
+RESOURCE;1;1530.5;-1571.6;-2606.3;1500;0
+RESOURCE;1;-2499.9;-767.2;282.0;900;900
+RESOURCE;1;-1961.5;-1024.4;1762.3;120;120
+RESOURCE;1;2355.8;-344.5;-1881.5;100;0
+RESOURCE;1;2592.7;-293.4;-1817.0;220;0
+RESOURCE;1;2383.5;-152.7;-1097.0;40;0
+RESOURCE;1;2442.5;-629.9;-2795.9;600;600
+RESOURCE;1;-2065.8;-1040.8;2189.8;800;800
+RESOURCE;1;1771.0;355.4;-1697.2;180;180
+RESOURCE;1;-2790.2;-1887.0;1575.5;1500;1073
+RESOURCE;1;-1567.2;-312.3;1888.7;200;200
+RESOURCE;1;-1063.9;-1929.2;2099.0;600;600
+RESOURCE;1;1726.5;-305.0;-2039.7;100;0
+RESOURCE;1;2596.4;104.5;-1815.2;100;100
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Level;
-WARPGATE;1;sector_3.txt;2;-598.8;-396.1;1959.2;0;alpha;0.0
-WARPGATE;2;sector_11.txt;1;3209.1;-325.3;-1437.5;0;alpha;0.0
+WARPGATE;1;sector_3.txt;2;-598.8;-396.1;1959.2;0;alpha;0.0;prescan
+WARPGATE;2;sector_11.txt;1;3209.1;-325.3;-1437.5;0;alpha;0.0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;17;0;0;0;-40;70;-20;0.45,0.22,0.20,0.14;//fog
@@ -112,3 +112,5 @@ NPC_SHIP;npc_ship_data_(support_carrier_1);-827.58;-509.89;1119.43;4;9
 NPC_SHIP;npc_ship_data_(battle_cruiser_1);1173.01;620.92;425.88;8;3
 NPC_SHIP;npc_ship_data_(support_frigate_1);559.41;358.17;-520.64;4;4
 
+
+// CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty

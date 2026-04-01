@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;20
 SECTOR;name;Cliffs of Drameria
-SECTOR;level;5.3
+SECTOR;level;5.4
 SECTOR;faction;Alpha
 SECTOR;filename;sector_20.txt
 SECTOR;is_explored;False
@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;null
+SECTOR;event_type;resources#49639#20#27
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;1223;35;782

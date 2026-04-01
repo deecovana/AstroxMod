@@ -1,3 +1,9 @@
 NPC;+LOCAL;15;2;33209.02;Acrondia Hub;Temple Gates;0h 27m 13s ;1633.259
 NPC;+LOCAL;15;1;31846.19;Acrondia Hub;Temple Gates;0h 31m 3s ;1863.712
 NPC;+LOCAL;15;8;14625;Starbase Corporate Center;Void Starcross;2h 47m 38s ;10058.33
+NPC;+STOCK;25;10;30561.49;Acrondia Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;+LOCAL;15;2;14625;Starbase Corporate Center;Void Starcross;5h 39m 51s ;20391.94
+NPC;+LOCAL;15;6;14625;Starbase Corporate Center;Void Starcross;6h 24m 3s ;23043.55
+NPC;+STOCK;190;12;38747.47;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;107;11;50056.4;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;27;12;15422.91;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67

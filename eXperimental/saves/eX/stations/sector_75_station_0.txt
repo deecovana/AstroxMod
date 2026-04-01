@@ -37,6 +37,7 @@ MERC;4;1.97;npc_ship_data_(excavation_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Sale Request Order: (1) Items ;204x38;4112;82418.13
 BUYORDER;Buying: (1) Items ;1055x4;39486;73504.48
 
 ITEM;1120;6;1.25

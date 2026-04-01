@@ -1,2 +1,5 @@
 NPC;+LOCAL;150;183;82.26725;Tella's;Bitcola;3h 44m 37s ;13477.42
 NPC;+LOCAL;150;126;118.6194;Lacuna Bandits;Ballast Crow;3h 56m 23s ;14183.14
+NPC;-QTY;12;-79;271.7509;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+QTY;214;95;196.0571;Stinkfinger;Jonisae;5h 52m 31s ;21151.35
+NPC;+STOCK;561;103;297.3192;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67

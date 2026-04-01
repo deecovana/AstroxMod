@@ -1,2 +1,8 @@
 PLAYER;-QTY;15;1;4855;Tella's;Bitcola;2h 23m 35s ;8615.48
 PLAYER;+QTY;0;1;0;Starbase Corporate Center;Void Starcross;2h 48m 37s ;10117.72
+PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;4h 17m 43s ;15463.02
+PLAYER;-QTY;6;1;3575;Fellacore Research Center;Grace;4h 39m 2s ;16742.91
+NPC;+QTY;13;7;3415;Acrondia Corp.;Crown of Imperium;4h 48m 1s ;17281.02
+PLAYER;+QTY;0;1;0;Starbase Corporate Center;Void Starcross;5h 29m 13s ;19753.13
+NPC;+PRICE;47;0;4857.721;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;+STOCK;58;11;4763.309;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46

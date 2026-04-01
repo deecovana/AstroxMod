@@ -1,3 +1,5 @@
 PLAYER;-QTY;9;1;17272.5;Tella's;Bitcola;2h 25m 20s ;8720.613
 NPC;BAL;10;0;16509.22;CoraVault;Lins;3h 0m 30s ;10830.27
 NPC;BAL;12;-6;16147.3;Oak Industries;Dorando Corridor;3h 56m 14s ;14174.64
+PLAYER;-QTY;6;3;15251.25;OmniTrust;Ponze;6h 1m 18s ;21678.9
+NPC;-QTY;0;-6;17219.78;Terra Drone;Geminey;6h 57m 24s ;25044.14

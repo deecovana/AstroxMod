@@ -2,3 +2,17 @@ NPC;-LOCAL;26;0;3.49875;Acrondia Hub;Temple Gates;0h 19m 13s ;1153.065
 NPC;-LOCAL;5;0;3.49875;Acrondia Hub;Temple Gates;0h 27m 13s ;1633.259
 NPC;-LOCAL;0;0;3.600111;Acrondia Hub;Temple Gates;0h 31m 3s ;1863.712
 NPC;+STOCK;311;170;3.777246;Tella's;Bitcola;3h 44m 31s ;13471.02
+NPC;+LOCAL;250;2;3.926449;Daemon Ammunitions;Starfort Ramos;4h 11m 41s ;15101.43
+NPC;-LOCAL;0;0;7.775;Acrondia Hub;Temple Gates;4h 30m 33s ;16233.62
+NPC;+STOCK;195;195;9.991549;Acrondia Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;-LOCAL;0;0;7.775;Acrondia Hub;Temple Gates;4h 48m 9s ;17289.48
+NPC;-QTY;228;-215;2.467979;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+QTY;165;141;2.191092;Stinkfinger;Jonisae;5h 52m 31s ;21151.35
+NPC;-LOCAL;0;0;7.775;Acrondia Hub;Temple Gates;7h 11m 49s ;25909.71
+NPC;+STOCK;405;228;2.314206;Oro Omniplex Center;Merces Academy;7h 18m 7s ;26287.49
+NPC;+STOCK;396;192;2.81312;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;1193;172;2.584306;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;296;183;1.826807;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;443;215;2.338607;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;392;230;2.92012;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;996;233;2.712504;Proctors Center;Void Starcross;7h 47m 19s ;28039.67

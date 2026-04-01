@@ -1,2 +1,11 @@
 NPC;+LOCAL;12;11;104000;StarGypsy Warehouse;Void Starcross;2h 46m 5s ;9965.965
 NPC;+LOCAL;12;2;104000;StarGypsy Warehouse;Void Starcross;2h 55m 46s ;10546.06
+NPC;+LOCAL;12;14;104000;StarGypsy Warehouse;Void Starcross;5h 44m 9s ;20649.97
+NPC;-QTY;12;-11;318000;Mazu Starship;Volox;5h 48m 34s ;20914.43
+NPC;-QTY;5;-10;361165;Transporteers;Hunu;6h 57m 24s ;25044.14
+NPC;+LOCAL;12;5;104000;StarGypsy Warehouse;Void Starcross;7h 28m 1s ;26881.37
+NPC;+STOCK;20;8;110610;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;91;9;234439.1;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;0;0;800000;CoraVault Hub;Pindoris;11h 27m 56s ;41276.43
+NPC;-LOCAL;6;6;360000;CoraVault Hub;Pindoris;11h 34m 18s ;41658.76
+NPC;-LOCAL;2;0;360000;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71

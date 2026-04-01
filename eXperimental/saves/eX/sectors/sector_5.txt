@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;5
 SECTOR;name;Enoch Estates
-SECTOR;level;3.0
+SECTOR;level;2.9
 SECTOR;faction;Labor
 SECTOR;filename;sector_5.txt
 SECTOR;is_explored;False

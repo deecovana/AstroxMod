@@ -3,7 +3,7 @@ Organization Center
 Bidbruei Lowtibem
 Temple
 [c:lime]Dock fee 100[/c]
-Timestamp: 2064.909
+Timestamp: 25991.79
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -89,17 +89,29 @@ Mission Contracts
 
 
 <Station Market Orders>
+[c:green]BUY Order[/c] Want to acquire (1) Items 
+ (4) x Generic Heavy Laser
+Fulfill order for [c:lime]5,788 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (289) x Oil
+ (90) x Silveryte
+Fulfill order for [c:lime]10,221 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (152) x Plastix Strands
+ (260) x Bio Carbon
+Fulfill order for [c:lime]13,393 profit.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
+Acidic Residue  6 - z28
 Adamyte Ore  1014 - z9
-Advanced Energy Armor (Doc)  10 - z760,500
-Advanced Missile Launcher (Doc)  19 - z350,771
-Advanced Regulator  8 - z8,498
-Advanced Rocket Launcher (Doc)  88 - z348,895
-Advanced Shield Generator (Doc)  1 - z1,184,220
-Advanced Spring Loader (Doc)  14 - z12,885
+Advanced Energy Armor (Doc)  10 - z760,298
+Advanced Missile Launcher (Doc)  19 - z350,692
+Advanced Regulator  8 - z8,496
+Advanced Rocket Launcher (Doc)  88 - z348,823
+Advanced Shield Generator (Doc)  1 - z1,184,001
+Advanced Spring Loader (Doc)  14 - z12,883
 Advanced Torpedo   10 - z272
 Anti-Freeze  18 - z53
 Assorted Gaskets  42 - z11
@@ -107,142 +119,143 @@ Assorted Gaskets (Doc)  5 - z142
 Assorted Springs  148 - z65
 Ball Bearings  105 - z74
 Basic 20mm  20 - z13
-Basic 20mm (Doc)  13 - z7,550
-Basic Armor Exterior  9 - z21,113
-Basic Drone Command Bay  11 - z47,350
-Basic Energy Armor  7 - z29,094
-Basic Energy Generator  4 - z28,665
-Basic Engine Core  13 - z24,503
-Basic Filter  8 - z8,146
-Basic Heavy Cannon  4 - z5,727
-Basic Heavy Laser  9 - z7,113
-Basic Impact Armor  8 - z29,844
-Basic Light Turret (Doc)  12 - z45,281
-Basic Missile Launcher  1 - z8,653
-Basic Ore Harvester  11 - z14,893
-Basic Plasma Cannon  11 - z4,803
-Basic Railgun  2 - z9,692
-Basic Railgun (Doc)  47 - z26,618
-Basic Scan Emitter  18 - z22,208
-Basic Shield Generator  12 - z16,571
-Basic Thruster  7 - z19,819
-Basic Torpedo Launcher  17 - z9,944
-Basic Torpedo Launcher (Doc)  72 - z35,858
-Basic Warp Drive Fuel (Doc)  17 - z11,420
-Battery Array (Doc)  5 - z84,706
-Bomber Drone  33 - z12,056
-Burglar Drone  15 - z12,263
+Basic 20mm (Doc)  13 - z7,549
+Basic Armor Exterior  9 - z21,107
+Basic Drone Command Bay  11 - z47,343
+Basic Energy Armor  7 - z29,090
+Basic Energy Generator  4 - z28,660
+Basic Engine Core  13 - z24,499
+Basic Filter  8 - z8,145
+Basic Heavy Cannon  4 - z5,726
+Basic Heavy Laser  9 - z7,112
+Basic Impact Armor  8 - z29,840
+Basic Light Turret (Doc)  12 - z45,275
+Basic Missile Launcher  1 - z8,652
+Basic Ore Harvester  11 - z14,890
+Basic Plasma Cannon  11 - z4,802
+Basic Railgun  2 - z9,690
+Basic Railgun (Doc)  47 - z26,610
+Basic Scan Emitter  18 - z22,204
+Basic Shield Generator  12 - z16,567
+Basic Thruster  7 - z19,815
+Basic Torpedo Launcher  17 - z9,942
+Basic Torpedo Launcher (Doc)  72 - z35,850
+Basic Warp Drive Fuel (Doc)  17 - z11,417
+Battery Array (Doc)  5 - z84,694
+Bomber Drone  33 - z12,054
+Burglar Drone  15 - z12,204
+Calcium  3 - z6
 Candy Cane  2 - z1
 Candy Corn  15 - z1
-Carbon  174 - z3
 Carbon Fiber  28 - z17
 Chocolate Bars  17 - z1
 Cleaning Chemicals  18 - z84
 Colored Dye  4 - z26
 Communication Device  37 - z2,238
-Containment Field Emitter (Doc)  5 - z81,922
-Containment Unit  9 - z12,051
-Disposables  3 - z6,886
-ECM Sensors Jammer (Doc)  7 - z837,891
-Electrical Interface (Doc)  16 - z28,040
-Electronic Switch (Doc)  3 - z4,011
+Containment Field Emitter (Doc)  5 - z81,907
+Containment Unit  9 - z12,049
+Disposables  3 - z6,885
+ECM Sensors Jammer (Doc)  7 - z837,732
+Electrical Interface (Doc)  16 - z28,037
+Electronic Switch (Doc)  3 - z4,010
 Fasteners  93 - z8
 Generic Heavy Cannon  1 - z1,702
 Generic Heavy Laser  1 - z1,790
 Generic Ion Beam  16 - z2,529
-Generic Light Turret  15 - z1,988
-Generic Pulse Laser  11 - z1,288
+Generic Light Turret  15 - z1,987
+Generic Pulse Laser  11 - z1,287
 Generic Railgun  4 - z2,985
 Gradeon Ore  10 - z7
 Gummy Bears  8 - z1
-Heavy Combat Drone  25 - z139,219
-Heavy Defense Drone  31 - z144,169
-Heavy Mining Drone  36 - z145,819
-Heavy Repair Drone  15 - z156,313
-Heavy Salvage Drone  44 - z127,669
-Hygiene Products  35 - z199
-Improved Armor Exterior  10 - z39,225
-Improved Cargo Expansion  19 - z54,688
-Improved Combat Drone  18 - z33,919
-Improved Defense Drone  15 - z25,393
-Improved Drone Command Bay  10 - z69,900
-Improved Energy Armor (Doc)  11 - z560,250
-Improved Engine Core  16 - z30,085
-Improved Explosive Armor (Doc)  8 - z530,250
-Improved Filter  9 - z15,971
-Improved Impact Armor  9 - z31,188
-Improved Mining Drone  41 - z42,019
-Improved Repair Drone  15 - z32,690
-Improved Salvage Drone  26 - z42,019
-Improved Scan Booster  17 - z49,923
-Improved Scan Booster (Doc)  17 - z288,990
-Improved Shield Generator  9 - z52,583
-Improved Thruster  15 - z29,978
-Improved Turn Thrust  18 - z43,350
+Heavy Combat Drone  15 - z56,691
+Heavy Defense Drone  31 - z144,141
+Heavy Mining Drone  36 - z145,791
+Heavy Repair Drone  15 - z155,691
+Heavy Salvage Drone  44 - z127,641
+Hygiene Products  1000 - z74
+Improved Armor Exterior  10 - z39,215
+Improved Cargo Expansion  19 - z54,679
+Improved Combat Drone  18 - z33,911
+Improved Defense Drone  15 - z25,361
+Improved Drone Command Bay  10 - z69,887
+Improved Energy Armor (Doc)  11 - z560,149
+Improved Engine Core  16 - z30,078
+Improved Explosive Armor (Doc)  8 - z530,149
+Improved Filter  9 - z15,969
+Improved Impact Armor  9 - z31,179
+Improved Mining Drone  15 - z37,511
+Improved Repair Drone  15 - z32,561
+Improved Salvage Drone  15 - z15,461
+Improved Scan Booster  17 - z49,916
+Improved Scan Booster (Doc)  17 - z288,913
+Improved Shield Generator  9 - z52,573
+Improved Thruster  15 - z29,970
+Improved Turn Thrust  18 - z43,343
+Iron Coring  18 - z11
 Junk Part  81 - z15
 Kitchen Appliances  18 - z674
-Large Combat Drone  15 - z81,375
-Large Defense Drone  28 - z74,375
-Large Life Support Pack  2 - z42,469
-Large Mining Drone  15 - z72,610
-Large Repair Drone  33 - z92,375
-Large Salvage Drone  15 - z76,375
-Light Armor Repair  23 - z9,390
-Light Shield Recharger  7 - z27,094
+Large Combat Drone  15 - z34,358
+Large Defense Drone  28 - z74,358
+Large Life Support Pack  2 - z42,461
+Large Mining Drone  15 - z34,358
+Large Repair Drone  33 - z92,358
+Large Salvage Drone  15 - z34,358
+Light Armor Repair  23 - z9,389
+Light Shield Recharger  7 - z27,090
 Lubricant  44 - z16
-Magnetic Quartz  60 - z5
 Mechanical Belts  70 - z70
-Medium Armor Repair  22 - z30,090
-Medium Combat Drone  29 - z14,006
-Medium Defense Drone  26 - z12,206
-Medium Energy Charge  21 - z24,188
-Medium Mining Drone  32 - z12,056
-Medium Repair Drone  25 - z13,856
-Medium Salvage Drone  15 - z12,356
-Medium Web Field  28 - z17,610
+Medium Armor Repair  22 - z30,086
+Medium Combat Drone  29 - z14,004
+Medium Defense Drone  15 - z10,104
+Medium Energy Charge  21 - z24,184
+Medium Mining Drone  15 - z5,154
+Medium Repair Drone  15 - z12,504
+Medium Salvage Drone  15 - z5,154
+Medium Web Field  28 - z17,606
 Metal Brackets  10 - z28
 Metal Gears  28 - z35
-Micro Computer (Doc)  4 - z60,962
-Micro Leech Drone  15 - z13,119
-Noodles  9 - z10,948
+Micro Computer (Doc)  4 - z60,949
+Micro Leech Drone  15 - z5,154
+Neutron Pods  1 - z57
+Noodles  9 - z10,946
 Nuts And Bolts  111 - z13
 Office Furniture  18 - z561
 Ornament  7 - z6
-Oxygen  151 - z3
+Oxygen  18 - z3
 Personal Clothing  42 - z1,270
 Polymere (Doc)  1 - z819
-Premium Railgun (Doc)  68 - z1,159,233
-Protein Bar  2 - z5,976
+Premium Railgun (Doc)  68 - z1,158,929
+Protein Bar  2 - z5,975
 Prototype 60mm  89 - z137
 Prototype Missile   78 - z668
-Prototype Railgun (Doc)  6 - z5,569,945
-Recon Scanner Drone  15 - z11,906
+Prototype Railgun (Doc)  6 - z5,568,882
+Recon Scanner Drone  15 - z5,154
 Reinforced Rubber  109 - z15
-Salt Crystal  153 - z4
 Scrap Part  129 - z45
-Sensor Array (Doc)  3 - z28,976
-Small Combat Drone  24 - z6,443
-Small Defense Drone  15 - z5,239
-Small Mining Drone  2 - z7,043
-Small Repair Drone  15 - z6,083
-Small Salvage Drone  29 - z5,543
+Sensor Array (Doc)  3 - z28,970
+Silicon  12 - z9
+Small Combat Drone  15 - z5,541
+Small Defense Drone  15 - z5,241
+Small Mining Drone  2 - z7,041
+Small Repair Drone  15 - z5,181
+Small Salvage Drone  15 - z4,761
 Small Storage Tank  158 - z30
-Small Tractor Drone  33 - z11,306
-Spotlight  8 - z10,014
+Small Tractor Drone  33 - z11,304
+Spotlight  8 - z10,013
 Steelium Beam  51 - z9
 Steelium Pipes  144 - z15
-Thermal Controller  3 - z5,766
+Thermal Controller  3 - z5,765
 Thermal Insulation  186 - z42
-Titan Combat Drone  37 - z250,938
-Titan Defense Drone  18 - z168,438
-Titan Mining Drone  34 - z238,438
-Titan Repair Drone  34 - z168,438
-Titan Salvage Drone  39 - z205,938
-Torim Extractor (Doc)  5 - z11,488,780
-Tractor Beam  2 - z12,653
-Transport Units  34 - z6,067
-Voltage Regulator (Doc)  4 - z59,251
-Water  159 - z2
+Titan Combat Drone  37 - z250,895
+Titan Defense Drone  18 - z168,395
+Titan Mining Drone  34 - z238,395
+Titan Repair Drone  15 - z85,895
+Titan Salvage Drone  39 - z205,895
+Torim Extractor (Doc)  5 - z11,487,310
+Tractor Beam  2 - z12,650
+Transport Units  34 - z6,066
+Uranium  10 - z205
+Voltage Regulator (Doc)  4 - z59,243
 Wrapped Box  7 - z8
 
 
@@ -256,17 +269,44 @@ Fabrication Accountant
 
 
 <Station Missions>
-[c:lime]SALVAGE[/c]
-Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>59</color> to Blargg's in <color='cyan'>Beacon Spita</color>
-
-[c:lime]KILL[/c]
-Hunt down a low level <color='yellow'><i>Mr. Qano Vaklom</i></color> in <color='cyan'>Starfort Ramos</color> and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
-
 [c:lime]DELIVERY[/c]
 Dock at CoraVault in <color='cyan'>Lins</color> to deliver a light shipment of <color='yellow'>3</color> <color='yellow'>Basic Pulse Lasers</color>
 
 [c:lime]RECOVER[/c]
 Recover a light quantity of <color='yellow'>1</color> <color='yellow'>Advanced Rocket Launcher</color> in <color='cyan'>Ponze</color>, and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]ESCORT[/c]
+A ship in Starbase Corporate Center in <color='cyan'>Void Starcross</color> needs an escort to CoraVault in <color='cyan'>Lins</color>
+
+[c:lime]ESCORT[/c]
+Escort <color='yellow'><i>Doctor Doegilla Silelnuh</i></color> from Tella's in <color='cyan'>Bitcola</color> to Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Module Fragment</color> in <color='cyan'>Jelumus</color> and return with <color='yellow'>90</color> to CoraVault Hub in <color='cyan'>Pindoris</color>
+
+[c:lime]KILL RAIDERS[/c]
+Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Lins</color> and return to Biomate University in <color='cyan'>Void Starcross</color>
+
+[c:lime]SCAN[/c]
+Track down and scan <color='yellow'><i>Lieutenant Ateved Binwhe</i></color> in <color='cyan'>Starfort Ramos</color> and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]COLLECT[/c]
+Return to Astrox Security Patrol in <color='cyan'>Felishar</color> with a light collection of <color='yellow'>84</color> <color='yellow'>Nitrogens</color>
+
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Ballast Crow</color> and return with <color='yellow'>94</color> to Fellacore Research Center in <color='cyan'>Grace</color>
+
+[c:lime]TRANSPORT[/c]
+Move light cargo from Lammassu Financial in <color='cyan'>Void Starcross</color> and dock with <color='yellow'>161</color> <color='yellow'>Silverytes</color> at Temple of the Void in <color='cyan'>Valley of Truths</color>
+
+[c:lime]SCAN[/c]
+Track and scan the target <color='yellow'>Public Energy Generator</color> structure in <color='cyan'>Equalias Val</color> and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]KILL[/c]
+Frag <color='yellow'><i>Chairman Nostrasaw Zanxadxa</i></color>, in <color='cyan'>Archteli</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]FABRICATE[/c]
+Produce a light container of <color='yellow'>7</color> <color='yellow'>Capacitors</color> at the Proctors Center fabricator in <color='cyan'>Void Starcross</color>
 
 
 

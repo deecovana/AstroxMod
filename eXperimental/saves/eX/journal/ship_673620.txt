@@ -1,0 +1,37 @@
+scan_title;PU-3 Battle Frigate T3 200327
+scan_image;npc_ship_data_(pirate_utility_3).png
+scan_sector;Jala
+<color='cyan'>OVERVIEW</color>
+Often seen as a backbone of any military operation, Battle ships fill the gap between Recon and Assault ships by adopting more balanced Battle doctrine. Battle ships typically rely on a balanced mix of Active and Passive Modules and even Drones to enhance their survivability.
+
+Timestamp: 39579.38
+<color='cyan'>DETAILS</color>
+Type: 1
+Class: Frigate
+
+<color='cyan'>SPECS</color>
+HP total: 
+5625
+Shield: 
+2500 / 2500
+Armor: 
+3125 / 3125
+Energy: 
+2832.035 / 3125
+Class: 
+386.52 / 2750
+<color='cyan'>DETAILS</color>
+Owner: Czar Hinqa Qoqaya
+Faction: Temple
+Combat Capable: 
+True
+Mining Capable: 
+False
+Tactics: Neutral
+Task: PATROL
+
+<color='cyan'>RESISTANCE</color>
+Impact : 10%
+Energy : 9%
+Explosive : 10%
+

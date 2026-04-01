@@ -1,1 +1,11 @@
 NPC;-QTY;39;-2;385840.8;Acrondia Corp.;Crown of Imperium;1h 27m 18s ;5238.454
+NPC;+STOCK;21;2;540399.4;Star Shepards Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;+STOCK;21;2;332887.2;Acrondia Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;+STOCK;84;2;344812.2;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;23;2;343748.7;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;451;2;595189.4;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;12;2;521156.7;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;274;2;282772.6;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+PRICE;359;0;282595.5;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;+STOCK;361;2;271533.1;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;+STOCK;18;2;261618.2;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88

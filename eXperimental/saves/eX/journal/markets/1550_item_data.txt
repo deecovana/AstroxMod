@@ -1,1 +1,6 @@
 NPC;-QTY;0;-2;22952.73;Acrondia Corp.;Crown of Imperium;1h 27m 18s ;5238.454
+NPC;+QTY;13;11;21843.75;Acrondia Corp.;Crown of Imperium;4h 48m 1s ;17281.02
+NPC;+QTY;26;6;17113.28;Stinkfinger;Jonisae;5h 52m 31s ;21151.35
+NPC;+STOCK;69;11;29869.81;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;39;10;23363.58;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;33;10;31393.57;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67

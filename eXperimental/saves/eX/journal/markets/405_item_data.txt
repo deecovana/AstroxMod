@@ -4,3 +4,22 @@ NPC;-LOCAL;0;0;2.75;StarGypsy Warehouse;Void Starcross;2h 55m 46s ;10546.06
 NPC;-LOCAL;40;0;1.2375;ValueStar;Hunu;3h 3m 20s ;11000.67
 NPC;+STOCK;992;978;0.8503581;Tella's;Bitcola;3h 44m 31s ;13471.02
 NPC;-LOCAL;0;0;2.75;StarGypsy Warehouse;Void Starcross;3h 59m 58s ;14398.3
+NPC;-LOCAL;4;0;1.2375;StarShepards Headquarters;Void Starcross;4h 21m 30s ;15690.51
+NPC;+STOCK;868;859;1.183655;Star Shepards Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;-LOCAL;54;54;1.253073;StarShepards Headquarters;Void Starcross;5h 16m 5s ;18965.93
+NPC;-LOCAL;0;0;2.012513;StarShepards Headquarters;Void Starcross;5h 36m 4s ;20164.21
+NPC;-LOCAL;0;0;2.223548;StarShepards Headquarters;Void Starcross;5h 41m 58s ;20518.24
+NPC;-LOCAL;57;57;1.268002;StarGypsy Warehouse;Void Starcross;5h 44m 9s ;20649.97
+NPC;-LOCAL;0;0;2.371943;StarShepards Headquarters;Void Starcross;5h 46m 4s ;20764.71
+NPC;-LOCAL;0;0;2.75;ValueStar;Hunu;5h 52m 39s ;21159.84
+NPC;-LOCAL;42;42;1.2375;StarGypsy Warehouse;Void Starcross;6h 49m 32s ;24572.41
+NPC;-QTY;0;-53;1.230505;Transporteers;Hunu;6h 57m 24s ;25044.14
+NPC;-LOCAL;63;63;1.273671;StarGypsy Warehouse;Void Starcross;7h 28m 1s ;26881.37
+NPC;+STOCK;799;681;0.8391868;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;816;753;1.599155;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;928;916;0.7096941;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;887;886;0.7880129;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;15;15;1.2375;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
+NPC;+STOCK;1069;997;0.9912556;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;-LOCAL;0;0;2.75;ValueStar;Hunu;10h 24m 2s ;37442.54
+NPC;+PRICE;1;0;1.214331;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23

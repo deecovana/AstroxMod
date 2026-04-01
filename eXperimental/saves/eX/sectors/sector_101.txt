@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;101
 SECTOR;name;Brimstone
-SECTOR;level;0.1
+SECTOR;level;0.2
 SECTOR;faction;Temple
 SECTOR;filename;sector_101.txt
 SECTOR;is_explored;False
@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;15
 SECTOR;environment;20
-SECTOR;event_type;null
+SECTOR;event_type;resources#49639#20#3
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;-1077.836;87.5783;-2470.811

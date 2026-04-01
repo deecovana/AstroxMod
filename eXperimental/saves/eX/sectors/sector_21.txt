@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;21
 SECTOR;name;Stellar Keep
-SECTOR;level;6.0
+SECTOR;level;6.1
 SECTOR;faction;Alpha
 SECTOR;filename;sector_21.txt
 SECTOR;is_explored;False

@@ -1,3 +1,14 @@
 NPC;+LOCAL;12;9;208000;StarGypsy Warehouse;Void Starcross;2h 46m 5s ;9965.965
 NPC;+LOCAL;12;2;208000;StarGypsy Warehouse;Void Starcross;2h 55m 46s ;10546.06
 NPC;+LOCAL;12;11;208000;StarGypsy Warehouse;Void Starcross;3h 59m 58s ;14398.3
+NPC;+LOCAL;12;13;208000;StarGypsy Warehouse;Void Starcross;5h 44m 9s ;20649.97
+NPC;-QTY;74;-8;616680;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+LOCAL;12;8;208000;StarGypsy Warehouse;Void Starcross;6h 49m 32s ;24572.41
+NPC;+LOCAL;12;7;208000;StarGypsy Warehouse;Void Starcross;7h 28m 1s ;26881.37
+NPC;+STOCK;73;9;699531.3;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;20;8;221220;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;85;11;596292.3;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;66;11;352945.8;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;16;16;748033.5;CoraVault Hub;Pindoris;11h 27m 56s ;41276.43
+NPC;-LOCAL;10;0;738169.6;CoraVault Hub;Pindoris;11h 34m 18s ;41658.76
+NPC;-LOCAL;8;0;730705.8;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71

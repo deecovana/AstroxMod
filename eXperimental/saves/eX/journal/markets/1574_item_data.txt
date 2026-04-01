@@ -3,3 +3,5 @@ NPC;-LOCAL;0;0;583176;Tella's;Bitcola;2h 28m 18s ;8898.642
 NPC;-LOCAL;0;0;897768.6;Tella's;Bitcola;3h 44m 37s ;13477.42
 NPC;-LOCAL;0;0;911830.1;Tella's;Bitcola;3h 51m 57s ;13917.61
 NPC;-LOCAL;0;0;880022.5;Lacuna Bandits;Ballast Crow;3h 56m 23s ;14183.14
+NPC;+STOCK;27;9;469920.8;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;0;0;1040000;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75

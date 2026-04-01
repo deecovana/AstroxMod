@@ -1,1 +1,13 @@
 PLAYER;+QTY;49;1;6396.25;Biomate University;Void Starcross;0h 2m 5s ;125.4145
+NPC;-QTY;39;-2;4784.938;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;-QTY;24;-4;8880.484;Transporteers;Hunu;6h 57m 24s ;25044.14
+NPC;+STOCK;11;4;4717.586;Oro Omniplex Center;Merces Academy;7h 18m 7s ;26287.49
+NPC;+STOCK;52;3;5744.938;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;17;3;5045.486;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;24;4;8367.229;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;42;3;4452.682;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;14;3;5780.626;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;53;4;8697.001;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+LOCAL;3;1;5975.488;Transporteers Hub;Ambervellis Drea;11h 25m 46s ;41146.25
+NPC;+PRICE;4;0;9128.832;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
+NPC;+STOCK;7;4;4019.861;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88

@@ -91,6 +91,7 @@ RESOURCE;10;2509.1;273.9;-733.3;100.0;100.0
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Level;
 WARPGATE;1;sector_5.txt;3;1047.0;-389.9;1005.2;0;alpha;0.0
+WARPGATE;2;generate;1;-1275;-402;828;2;wormhole;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;0;0;0;0;0;0;0;lightning 1

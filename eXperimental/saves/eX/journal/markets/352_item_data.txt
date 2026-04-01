@@ -1,1 +1,12 @@
 NPC;+LOCAL;1000;1034;2921.168;Starbase Corporate Center;Void Starcross;2h 47m 38s ;10058.33
+NPC;+LOCAL;1000;1567;2921.168;Starbase Corporate Center;Void Starcross;5h 19m 46s ;19186.66
+NPC;+LOCAL;1000;90;2921.168;Starbase Corporate Center;Void Starcross;5h 47m 39s ;20859.19
+NPC;-QTY;0;-85;10458.34;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+LOCAL;1000;541;2921.168;Starbase Corporate Center;Void Starcross;6h 24m 3s ;23043.55
+NPC;+STOCK;752;747;9099.195;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;672;672;10242.8;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;1989;989;3080.541;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;883;829;6312.026;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;-LOCAL;6;6;10111.74;CoraVault Hub;Pindoris;11h 27m 56s ;41276.43
+NPC;-LOCAL;3;0;10111.74;CoraVault Hub;Pindoris;11h 34m 18s ;41658.76
+NPC;-LOCAL;0;0;10231.03;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71

@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-4-0-3-0-0-0-1-4-7-1-8-90
 STATION;interior_seed;3-4-15-0
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;30360.02
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -26,7 +29,6 @@ SERVICES;storage;True
 SERVICES;fabricator;False
 SERVICES;contracts;False
 SERVICES;admin;True
-
 // ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
 ENTERTAINMENT;Bottle of Whiskey;0.025,0.0;850;Whiskey;entertain_bar.png;Purchase a bottle of whiskey for each of your fleet members. 2.5% Morale bonus.
 ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
@@ -40,127 +42,131 @@ MERC;8;1.28;npc_ship_data_(recon_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-BUYORDER;Market Shortage: (1) Items ;406x209;425;37224.47
-SELLORDER;Market Goods: (2) Items ;52x279,51x236;20433;68954.73
-SELLORDER;Market Supply: (1) Items ;77x159;57609;46431.51
-SELLORDER;Market Items: (2) Items ;61x272,42x108;68111;32476.51
-ITEM;1470;19;1.11
-ITEM;1401;4;0.79
-ITEM;1151;19;0.85
-ITEM;1100;14;0.54
-ITEM;1200;11;1.18
-ITEM;1055;1;1.01
-ITEM;1170;15;0.89
-ITEM;1150;18;1.04
-ITEM;1001;15;0.52
-ITEM;1009;4;1.16
-ITEM;1059;11;1.19
-ITEM;1521;5;0.99
-ITEM;1581;15;1.12
-ITEM;1520;5;1.06
-ITEM;1590;18;0.92
-ITEM;1615;1;0.62
-ITEM;1620;13;0.94
-ITEM;1500;9;0.90
-ITEM;1750;13;1.13
-ITEM;1601;16;1.01
-ITEM;1570;13;0.55
-ITEM;1560;9;0.58
-ITEM;2124;1;1.13
-ITEM;50;69;0.77
-ITEM;51;85;1.17
-ITEM;2116;7;0.60
-ITEM;76;2;0.76
-ITEM;43;72;1.22
-ITEM;2128;43;1.00
-ITEM;2117;76;0.98
-ITEM;2113;97;0.69
-ITEM;2651;68;0.78
-ITEM;2120;26;0.94
-ITEM;2131;25;0.94
-ITEM;63;79;0.83
-ITEM;2130;66;0.60
-ITEM;759;18;1.13
-ITEM;677;2;0.61
-ITEM;749;28;0.65
-ITEM;753;7;0.79
-ITEM;676;30;1.00
-ITEM;731;14;0.52
-ITEM;756;30;1.24
-ITEM;672;29;1.15
-ITEM;728;32;1.24
-ITEM;711;23;0.51
-ITEM;675;18;1.16
-ITEM;726;10;0.77
-ITEM;754;12;1.23
-ITEM;732;4;0.67
-ITEM;712;30;1.01
-ITEM;735;1;0.67
-ITEM;601;6;0.53
-ITEM;621;8;0.52
-ITEM;620;2;0.94
-ITEM;660;2;1.04
-ITEM;600;2;0.73
-ITEM;640;3;1.14
-ITEM;661;3;1.09
-ITEM;641;2;0.90
-ITEM;405;15;1.04
-ITEM;403;12;0.91
-ITEM;407;19;1.10
-ITEM;300;5;1.22
-ITEM;303;15;0.80
-ITEM;408;19;0.71
-ITEM;301;7;0.79
-ITEM;404;11;0.71
-ITEM;406;18;0.95
-ITEM;305;16;0.82
-ITEM;302;12;0.81
-ITEM;304;11;1.18
-ITEM;21;117;0.94
-ITEM;2;62;0.81
-ITEM;20;195;0.64
-ITEM;1;53;1.25
-ITEM;101;136;0.60
-ITEM;103;30;0.65
-ITEM;114;129;0.94
-ITEM;104;29;0.66
-ITEM;102;268;1.04
-ITEM;100;262;0.78
-ITEM;165;140;1.18
-ITEM;154;65;0.85
-ITEM;160;41;0.75
-ITEM;162;152;0.70
-ITEM;153;50;1.06
-ITEM;164;167;0.76
-ITEM;157;94;0.84
-ITEM;166;14;0.97
-ITEM;168;174;0.57
-ITEM;169;158;1.09
-ITEM;163;79;0.97
-ITEM;156;132;1.16
-ITEM;161;40;1.03
-ITEM;158;193;1.18
-ITEM;155;42;0.50
-ITEM;151;131;0.51
-ITEM;150;76;0.56
-ITEM;2444;5;0.82
-ITEM;2532;8;1.24
-ITEM;2270;13;0.85
-ITEM;2334;9;1.01
-ITEM;2433;18;0.99
-ITEM;2361;3;0.92
-ITEM;2432;19;0.63
-ITEM;2151;19;1.20
-ITEM;2445;11;0.94
-ITEM;2442;4;0.98
-ITEM;2100;17;0.58
-ITEM;2397;4;1.16
-ITEM;2438;15;0.90
-ITEM;2131;10;1.18
-ITEM;2426;17;0.77
-ITEM;2544;12;0.89
-ITEM;2416;3;0.75
-ITEM;2539;8;1.19
+SELLORDER;Market Items: (1) Items ;50x345;10198;95120.72
+BUYORDER;Market Shortage: (3) Items ;407x225,406x144,406x411;2491.00;43264.62
+SELLORDER;Market Supply: (2) Items ;60x36,40x228;2375.00;48879.13
+BUYORDER;Market Shortage: (1) Items ;406x209;425.00;37224.47
+SELLORDER;Market Goods: (2) Items ;52x279,51x236;20433.00;68954.73
+SELLORDER;Market Supply: (1) Items ;77x159;57609.00;46431.51
+SELLORDER;Market Items: (2) Items ;61x272,42x108;68111.00;32476.51
+ITEM;1451;0;1.21;39972.20
+ITEM;1;53;1.25;8.97
+ITEM;41;29;0.79;41.60
+ITEM;51;92;1.17;101.26
+ITEM;2334;9;1.01;52048.44
+ITEM;61;31;0.79;206.94
+ITEM;2151;19;1.20;1393334.00
+ITEM;641;2;0.90;11404.37
+ITEM;2270;13;0.85;803443.50
+ITEM;76;2;0.76;333.69
+ITEM;163;79;0.97;39.97
+ITEM;302;12;0.81;38.30
+ITEM;153;50;1.06;15.97
+ITEM;169;158;1.09;79.30
+ITEM;2361;3;0.92;672.33
+ITEM;40;36;0.82;19.11
+ITEM;50;77;0.77;29.98
+ITEM;1520;5;1.06;21819.37
+ITEM;1620;13;0.94;29129.06
+ITEM;1750;13;1.13;46438.75
+ITEM;1570;13;0.55;15105.19
+ITEM;620;2;0.94;6796.78
+ITEM;60;29;0.83;96.36
+ITEM;1009;4;1.16;10004.14
+ITEM;2113;97;0.69;30280.69
+ITEM;1055;1;1.01;7286.78
+ITEM;1401;4;0.79;11493.56
+ITEM;1615;1;0.62;12368.41
+ITEM;1560;9;0.58;16496.16
+ITEM;1500;9;0.90;19550.34
+ITEM;75;25;0.80;155.71
+ITEM;1059;11;1.19;10256.14
+ITEM;2131;35;1.06;45820.68
+ITEM;2131;-99;1.18;50860.68
+ITEM;1590;18;0.92;19019.38
+ITEM;2445;11;0.94;15535.50
+ITEM;2438;15;0.90;63403.63
+ITEM;406;8;1.05;1.49
+ITEM;403;12;0.91;1.04
+ITEM;101;136;0.60;1.14
+ITEM;168;174;0.57;15.59
+ITEM;404;11;0.71;0.82
+ITEM;300;5;1.22;124.53
+ITEM;301;7;0.79;20.77
+ITEM;661;3;1.09;13731.87
+ITEM;660;2;1.04;7496.78
+ITEM;2416;3;0.75;15628.75
+ITEM;151;131;0.51;6.55
+ITEM;735;1;0.67;5257266.00
+ITEM;1001;15;0.52;1212.13
+ITEM;1170;15;0.89;2210.33
+ITEM;2100;17;0.58;6109.69
+ITEM;2124;1;1.13;12770.66
+ITEM;1200;11;1.18;4843.88
+ITEM;1100;14;0.54;1141.94
+ITEM;2130;66;0.60;7571.63
+ITEM;2;62;0.81;9.71
+ITEM;405;15;1.04;1.18
+ITEM;675;18;1.16;64312.31
+ITEM;731;14;0.52;90909.84
+ITEM;753;7;0.79;135459.80
+ITEM;759;18;1.13;191559.80
+ITEM;2426;17;0.77;27049.52
+ITEM;102;268;1.04;3.33
+ITEM;1521;5;0.99;40838.75
+ITEM;1581;15;1.12;64454.25
+ITEM;621;8;0.52;6749.37
+ITEM;2120;26;0.94;118943.70
+ITEM;1601;16;1.01;37474.88
+ITEM;305;16;0.82;198.45
+ITEM;20;195;0.64;14.09
+ITEM;304;11;1.18;913.80
+ITEM;677;2;0.61;28843.59
+ITEM;712;30;1.01;74949.75
+ITEM;158;193;1.18;28.55
+ITEM;155;42;0.50;9.41
+ITEM;104;29;0.66;2.58
+ITEM;166;14;0.97;58.52
+ITEM;672;29;1.15;28343.25
+ITEM;676;30;1.00;15464.53
+ITEM;732;4;0.67;10514.53
+ITEM;756;30;1.24;19064.53
+ITEM;711;23;0.51;12983.25
+ITEM;157;94;0.84;18.67
+ITEM;160;41;0.75;23.43
+ITEM;161;40;1.03;35.01
+ITEM;728;32;1.24;19064.53
+ITEM;2397;4;1.16;8739.33
+ITEM;601;6;0.53;6871.87
+ITEM;150;76;0.56;6.50
+ITEM;303;15;0.80;759.41
+ITEM;407;15;1.09;7.71
+ITEM;103;30;0.65;1.47
+ITEM;165;140;1.18;64.36
+ITEM;2128;43;1.00;1701808.00
+ITEM;2116;7;0.60;1136217.00
+ITEM;600;2;0.73;5326.78
+ITEM;42;42;0.74;88.26
+ITEM;52;34;0.75;147.76
+ITEM;62;30;0.72;425.39
+ITEM;2117;76;0.98;6371757.00
+ITEM;77;39;0.71;704.87
+ITEM;726;10;0.77;12014.53
+ITEM;164;167;0.76;12.74
+ITEM;154;65;0.85;38.69
+ITEM;114;129;0.94;2.51
+ITEM;21;117;0.94;34.66
+ITEM;2432;19;0.63;25409.62
+ITEM;2442;4;0.98;64127.77
+ITEM;156;132;1.16;23.21
+ITEM;640;3;1.14;8196.78
+ITEM;162;152;0.70;26.53
+ITEM;2433;18;0.99;43174.73
+ITEM;749;28;0.65;170242.20
+ITEM;754;12;1.23;315242.20
+ITEM;100;262;0.78;1.22
+ITEM;2444;5;0.82;65313.55
+ITEM;408;17;1.05;16.35
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
@@ -172,6 +178,11 @@ SKILL;37;0.74
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;82;60;954535;RECOVER#1#1172#sector_74.txt#sector_77_station_0.txt#null#null#null#null;Retrieve a light cache of <color='yellow'>Improved Ion Beam</color> from a <color='yellow'>crate</color> in <color='cyan'>Archteli</color> sector, drop at Lacuna Bandits in <color='cyan'>Ballast Crow</color>;2;After a skirmish in <color='cyan'>Archteli</color>, the Civil's <i>Sadkee Qegolocki</i> cannot account for a light shipment of <color='yellow'>Improved Ion Beam</color> he was transporting before the attack. Head out to the <color='cyan'>Archteli</color> sector and look for the crate. When found, take the contents of the crate back to the Lacuna Bandits station in the <color='cyan'>Ballast Crow</color> sector.;35309;13782
+MISSION;121;45;291874;CHAT_PILOT#sector_0_station_1.txt#sector_60.txt#Captain Telweli Restbarkol#npc_ship_data_(freighter_1)#1#missions_debt_collection.txt#0#null;Chat with <color='yellow'><i>Captain Telweli Restbarkol</i></color> about his debt in <color='cyan'>Veloxi</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>;2;<i>Velea Jeldornsev</i> has requested that debt be collected from <color='yellow'><i>Captain Telweli Restbarkol</i></color>. After 3 payments to the Civil faction for transport fines, <color='yellow'><i>Captain Telweli Restbarkol</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Captain Telweli Restbarkol</i></color> was in the vicinity of the <color='cyan'>Veloxi</color> system. Have a chat with them, collect the debt, and return to the Lammassu Financial in the <color='cyan'>Void Starcross</color> system to deliver the payment.;12075;4375
+MISSION;22;120;584812;COLLECT#68#155#sector_56_station_0.txt#sector_56_station_1.txt#null#null#null#null;Return to Transporteers in <color='cyan'>Hunu</color> with a light collection of <color='yellow'>68</color> <color='yellow'>Lubricants</color>;0;A request has been made by the Overseer of Transporteers in <color='cyan'>Hunu</color> for the acquisition of <color='yellow'>68</color> <color='yellow'>Lubricants</color>. <i>Tizan Akwaar</i> will reimburse you for the cost of the items, as well as payment for your troubles.;20634;2106
+MISSION;53;30;494851;SCAN_STRUCTURE#sector_3_station_0.txt#sector_0.txt#Public Energy Generator#structure_energy_gen_1.txt#1#null#null#null;Scan the <color='yellow'>Public Energy Generator</color> structure in <color='cyan'>Void Starcross</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;2;Space rats have infested the <color='yellow'>Public Energy Generator</color> structure over in <color='cyan'>Void Starcross</color>. <i>Tares Bastbunpei</i> has been trying to get help with the infestation, but until the structure is scanned, Civil union members are not going to come. Head back to the Daemon Ammunitions station located in the <color='cyan'>Starfort Ramos</color> with a scan report.;28941;5360
+MISSION;42;45;528017;SCAN_PILOT#sector_100_station_0.txt#sector_56.txt#Senator Enoba Witwhixad#npc_ship_data_(ATC_Raven)#7#null#null#null;Track down and scan <color='yellow'><i>Senator Enoba Witwhixad</i></color> in <color='cyan'>Hunu</color> and return to Fellacore Research Center in <color='cyan'>Grace</color>;0;Alpha faction has requested that we verify the whereabouts of a <color='yellow'><i>Senator Enoba Witwhixad</i></color>. After a recent ban order from the high court minister <i>Zaate Qaqadale</i>, <color='cyan'>Hunu</color> officials are worried that <color='yellow'><i>Senator Enoba Witwhixad</i></color> might cause problems for the local merchants. Scan <color='yellow'><i>Senator Enoba Witwhixad</i></color>'s ship and return to Fellacore Research Center in <color='cyan'>Grace</color> with the scan record.;22044;4594
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -184,3 +195,4 @@ SHIP;6;1.02;ship_data_(battle_cruiser_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

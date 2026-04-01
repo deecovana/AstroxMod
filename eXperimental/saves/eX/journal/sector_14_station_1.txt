@@ -1,0 +1,202 @@
+[s:30][c:yellow]Horizons[/c][/s]
+Headquarters
+Serzokom Qireno
+Alpha
+[c:lime]Dock fee 100[/c]
+Timestamp: 30361.02
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic 20mm
+Advanced 20mm
+Prototype 20mm
+Basic 60mm
+Advanced 60mm
+Prototype 60mm
+Basic Missile 
+Advanced Missile
+Prototype Missile 
+Basic Torpedo 
+Advanced Torpedo 
+Prototype Torpedo 
+[c:orange]DEMAND[/c]
+Candy Cane
+Ornament
+Wrapped Box
+Active Scanner
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (225) x Ornament
+ (144) x Candy Cane
+ (411) x Candy Cane
+Fulfill order for [c:lime]620 profit.[/c]
+[c:red]SELL Order[/c] Market Supply: (2) Items 
+ (36) x Basic Missile 
+ (228) x Basic 20mm
+Buy items for [c:lime]8,157 discount.[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (209) x Candy Cane
+Fulfill order for [c:lime]191 profit.[/c]
+[c:red]SELL Order[/c] Market Goods: (2) Items 
+ (279) x Prototype 60mm
+ (236) x Advanced 60mm
+Buy items for [c:lime]64,079 discount.[/c]
+[c:red]SELL Order[/c] Market Supply: (1) Items 
+ (159) x Prototype Torpedo 
+Buy items for [c:lime]126,115 discount.[/c]
+[c:red]SELL Order[/c] Market Items: (2) Items 
+ (272) x Advanced Missile
+ (108) x Prototype 20mm
+Buy items for [c:lime]51,819 discount.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  53 - z9
+Advanced 20mm  29 - z42
+Advanced 60mm  92 - z101
+Advanced 60mm (Doc)  9 - z52,048
+Advanced Missile  31 - z207
+Advanced Plasma Cannon (Doc)  19 - z1,393,334
+Advanced Regulator  2 - z11,404
+Advanced Scan Booster (Doc)  13 - z803,444
+Advanced Torpedo   2 - z334
+Aluminium Rivets  79 - z40
+Anti-Freeze  12 - z38
+Assorted Gaskets  50 - z16
+Ball Bearings  158 - z79
+Ball Bearings (Doc)  3 - z672
+Basic 20mm  36 - z19
+Basic 60mm  77 - z30
+Basic Afterburner  5 - z21,819
+Basic Armor Exterior  13 - z29,129
+Basic Drone Command Bay  13 - z46,439
+Basic Energy Capacitor  13 - z15,105
+Basic Filter  2 - z6,797
+Basic Missile   29 - z96
+Basic Railgun  4 - z10,004
+Basic Railgun (Doc)  97 - z30,281
+Basic Rocket Launcher  1 - z7,287
+Basic Salvage Collector  4 - z11,494
+Basic Scan Booster  1 - z12,368
+Basic Shield Generator  9 - z16,496
+Basic Thruster  9 - z19,550
+Basic Torpedo   25 - z156
+Basic Torpedo Launcher  11 - z10,256
+Basic Torpedo Launcher (Doc)  35 - z45,821
+Basic Turn Thrust  18 - z19,019
+Basic Warp Drive Fuel (Doc)  11 - z15,536
+Battery Array (Doc)  15 - z63,404
+Candy Cane  8 - z1
+Candy Corn  12 - z1
+Carbon  136 - z1
+Carbon Fiber  174 - z16
+Chocolate Bars  11 - z1
+Cleaning Chemicals  5 - z125
+Colored Dye  7 - z21
+Containment Unit  3 - z13,732
+Disposables  2 - z7,497
+Duct Work (Doc)  3 - z15,629
+Fasteners  131 - z7
+Generic Construction Platform  1 - z5,257,266
+Generic Heavy Cannon  15 - z1,212
+Generic Ion Beam  15 - z2,210
+Generic Light Turret (Doc)  17 - z6,110
+Generic Missile Launcher (Doc)  1 - z12,771
+Generic Ore Harvester  11 - z4,844
+Generic Pulse Laser  14 - z1,142
+Generic Torpedo Launcher (Doc)  66 - z7,572
+Gradeon Ore  62 - z10
+Gummy Bears  15 - z1
+Heavy Energy Charge  18 - z64,312
+Heavy Mining Drone  14 - z90,910
+Heavy Repair Drone  7 - z135,460
+Heavy Salvage Drone  18 - z191,560
+Hydraulic Assembly (Doc)  17 - z27,050
+Hydrogen  268 - z3
+Improved Afterburner  5 - z40,839
+Improved Energy Generator  15 - z64,454
+Improved Filter  8 - z6,749
+Improved Rocket Launcher (Doc)  26 - z118,944
+Improved Scan Emitter  16 - z37,475
+Interior Lighting  16 - z198
+Junk Part  195 - z14
+Kitchen Appliances  11 - z914
+Large Life Support Pack  2 - z28,844
+Large Web Field  30 - z74,950
+Liquid Coolant  193 - z29
+Lubricant  42 - z9
+Magnetic Quartz  29 - z3
+Mechanical Belts  14 - z59
+Medium Armor Repair  29 - z28,343
+Medium Life Support Pack  30 - z15,465
+Medium Mining Drone  4 - z10,515
+Medium Salvage Drone  30 - z19,065
+Medium Web Field  23 - z12,983
+Metal Brackets  94 - z19
+Metal Gears  41 - z23
+Metal Valve  40 - z35
+Micro Leech Drone  32 - z19,065
+Misc Hardware (Doc)  4 - z8,739
+Noodles  6 - z6,872
+Nuts And Bolts  76 - z7
+Office Furniture  15 - z759
+Ornament  15 - z8
+Oxygen  30 - z1
+Plastic Caps  140 - z64
+Premium Missile Launcher (Doc)  43 - z1,701,808
+Premium Railgun (Doc)  7 - z1,136,217
+Protein Bar  2 - z5,327
+Prototype 20mm  42 - z88
+Prototype 60mm  34 - z148
+Prototype Missile   30 - z425
+Prototype Railgun (Doc)  76 - z6,371,757
+Prototype Torpedo   39 - z705
+Recon Scanner Drone  10 - z12,015
+Reinforced Rubber  167 - z13
+Rubber Tubing  65 - z39
+Salt Crystal  129 - z3
+Scrap Part  117 - z35
+Sensor Array (Doc)  19 - z25,410
+Spaceframe (Doc)  4 - z64,128
+Steelium Pipes  132 - z23
+Thermal Controller  3 - z8,197
+Thermal Insulation  152 - z27
+Thruster Casing (Doc)  18 - z43,175
+Titan Defense Drone  28 - z170,242
+Titan Repair Drone  12 - z315,242
+Water  262 - z1
+Weapon Systems Package (Doc)  5 - z65,314
+Wrapped Box  17 - z16
+
+
+<Station University Skills>
+Ship Shield Systems
+Storage Manager
+Beam Advanced Systems
+Fabrication Accountant
+Launcher Maintenance
+
+
+<Station Missions>
+
+
+<Station Ships>
+RE-1 Integrator / Escort    (Recon)
+EC-1 Support Frigate / Frigate    (Support)
+EE-1 Mining Shuttle / Shuttle    (Excavation)
+PCA-1 Pirate Destroyer / Destroyer    (Battle)
+TF-1 Hexalon / Escort    (Transport)
+BC-1 Alpharis Predator / Escort    (Battle)

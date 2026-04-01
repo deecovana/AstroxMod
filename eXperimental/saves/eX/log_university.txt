@@ -1,4 +1,21 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;1;Ship Engine Burner;1 min;7;516.0;251220.140625;Lammassu Financial;Void Starcross;12h 10m 38s 
+SKILL;3;Ship Thruster Systems;4 min;21;3105.0;96521.953125;Biomate University;Void Starcross;11h 56m 51s 
+SKILL;4;Projectile Basic Operation;8 min;20;6040.0;99626.953125;Biomate University;Void Starcross;11h 55m 19s 
+SKILL;1;Ship Shield Systems;2 min;5;990.0;52602.9296456575;Daemon Ammunitions;Starfort Ramos;10h 54m 27s 
+SKILL;3;Projectile Basic Operation;6 min;15;4530.0;104090.981891751;Biomate University;Void Starcross;10h 39m 58s 
+SKILL;3;Laser Basic Operation;6 min;18;6105.0;124240.394439697;Biomate University;Void Starcross;8h 11m 0s 
+SKILL;3;Escort Ship Operation;2 min;24;15750.0;130345.394439697;Biomate University;Void Starcross;8h 10m 18s 
+SKILL;2;Escort Ship Operation;1 min;16;10500.0;45332.0277099609;Biomate University;Void Starcross;7h 37m 18s 
+SKILL;2;Ship Gyroscopic Control;8 min;10;2980.0;1319264.33280945;StarGypsy Warehouse;Void Starcross;7h 31m 18s 
+SKILL;1;Ship LS System Maintenance;1 min;5;2280.0;1322244.33280945;StarGypsy Warehouse;Void Starcross;7h 30m 53s 
+SKILL;1;ECM Module Operation;1 min;15;1955.0;1324524.33280945;StarGypsy Warehouse;Void Starcross;7h 30m 44s 
+SKILL;2;Projectile Basic Operation;16 min;10;1780.0;1315326.9797821;Oro Omniplex Center;Merces Academy;7h 20m 20s 
+SKILL;2;Laser Basic Operation;4 min;12;2552.0;1317106.9797821;Oro Omniplex Center;Merces Academy;7h 20m 15s 
+SKILL;3;Miner Basic Operation;6 min;15;1068.0;1319658.9797821;Oro Omniplex Center;Merces Academy;7h 19m 35s 
+SKILL;3;Ship Energy Systems;3 min;21;3591.0;219332.023535132;Starbase Corporate Center;Void Starcross;5h 40m 36s 
+SKILL;1;Tractor Basic Operation;1 min;5;2314.0;1172287.43730485;Starbase Corporate Center;Void Starcross;5h 21m 3s 
+SKILL;2;Miner Basic Operation;4 min;10;1448.0;1174601.43730485;Starbase Corporate Center;Void Starcross;5h 20m 48s 
 SKILL;1;Ship Afterburner Systems;2 min;9;2505.0;107001.358307362;Valuestar Hub;Jelumus;3h 24m 35s 
 SKILL;1;Salvager Basic Operation;2 min;5;1212.0;4053.39411973953;Starbase Corporate Center;Void Starcross;1h 39m 5s 
 SKILL;1;Drone Operation;3 min;5;7125.0;6587.89411973953;Biomate University;Void Starcross;1h 32m 1s 

@@ -1,1 +1,4 @@
 NPC;+LOCAL;150;217;90.493;Tella's;Bitcola;3h 44m 37s ;13477.42
+NPC;-QTY;205;-134;234.8815;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+STOCK;628;139;309.6033;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;308;103;225.6056;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67

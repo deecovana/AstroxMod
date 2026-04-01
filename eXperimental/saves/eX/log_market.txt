@@ -1,4 +1,70 @@
 //;LOG DATA FILE (Astrox Imperium)
+SELL;1;Advanced Afterburner;5,200;5200.0000;5859.64562988281;Biomate University;Void Starcross;12h 58m 47s 
+SELL;1;Generic Pulse Laser;130;130.0000;659.645629882813;Biomate University;Void Starcross;12h 58m 13s 
+BUY;133;Prototype 20mm;123;16,355;529.645629882813;Biomate University;Void Starcross;12h 52m 58s 
+BUY;1;Premium Afterburner;98,071;98,071;16884.5762939453;Lammassu Financial;Void Starcross;12h 45m 46s 
+BUY;1;Premium Thruster;155,768;155,768;114980.576293945;Astrox Security Patrol;Felishar;12h 36m 13s 
+BUY;122;Advanced 20mm;62.64;7,642;270848.076293945;Blargg's;Beacon Spita;12h 25m 8s 
+SELL;1;Ham Sandwich;12,959;12959.2700;278590.009887695;Lammassu Financial;Void Starcross;12h 13m 10s 
+SELL;1;Eco Regulator;16,826;16825.9200;265630.739379883;Lammassu Financial;Void Starcross;12h 13m 1s 
+SELL;63;Basic 20mm;24.82;1563.4200;248804.815551758;Lammassu Financial;Void Starcross;12h 11m 54s 
+BUY;57;Advanced 20mm;69.81;3,979;247241.395263672;Lammassu Financial;Void Starcross;12h 11m 42s 
+BUY;1;Advanced Afterburner;85,184;85,184;53592.9296456575;Daemon Ammunitions;Starfort Ramos;10h 53m 11s 
+SELL;2;Temperature Genie;15,607;31213.2400;138776.929645658;Daemon Ammunitions;Starfort Ramos;10h 50m 31s 
+BUY;1;Temperature Genie;25,829;25,829;107563.687458158;Daemon Ammunitions;Starfort Ramos;10h 50m 18s 
+BUY;103;Advanced 20mm;63.53;6,544;133392.189411283;Daemon Ammunitions;Starfort Ramos;10h 47m 11s 
+BUY;47;Advanced 20mm;31.72;1,491;108620.981891751;Lacuna Bandits;Ballast Crow;10h 29m 25s 
+SELL;1;Waste Processor;7,943;7942.7780;110211.510089993;ValueStar;Hunu;10h 24m 10s 
+SELL;53;Prototype 20mm;7.40;392.4198;71326.1512451172;Lammassu Hub;Numbu;9h 54m 49s 
+BUY;130;Advanced 20mm;57.55;7,482;70933.7314453125;Lammassu Hub;Numbu;9h 54m 20s 
+SELL;26;Basic 20mm;15.94;414.4723;78515.7877197266;Biomart;Veloxi;9h 50m 8s 
+BUY;26;Basic 20mm;25.58;665.0;78101.3154296875;Biomart;Veloxi;9h 50m 3s 
+SELL;1;Waste Processor;1,393;1393.4700;78766.3215332031;Biomart;Veloxi;9h 48m 4s 
+BUY;53;Prototype 20mm;86.87;4,604;9667.46210861206;Astrox Security Patrol;Felishar;9h 6m 14s 
+BUY;46;Basic 20mm;17.97;826.7;14271.2692375183;Astrox Security Patrol;Felishar;9h 6m 1s 
+BUY;45;Advanced 20mm;37.67;1,695;15097.9379997253;Astrox Security Patrol;Felishar;9h 5m 50s 
+BUY;3;Basic Light Turret;7,140;21,421;16793.0583610535;Astrox Security Patrol;Felishar;9h 4m 51s 
+BUY;3;Basic Pulse Laser;5,670;17,011;38214.3708610535;Astrox Security Patrol;Felishar;9h 4m 0s 
+SELL;2;Improved Cargo Expansion;3,250;6499.9790;55325.6833610535;Biomate University;Void Starcross;8h 54m 3s 
+BUY;2;Premium Cargo Expansion;188,194;376,388;48825.7043571472;Biomate University;Void Starcross;8h 53m 55s 
+BUY;1;Premium Cargo Expansion;186,194;186,194;425213.204357147;Biomate University;Void Starcross;8h 53m 10s 
+SELL;1;Noodles;7,166;7166.2500;611406.954357147;StarGypsy Warehouse;Void Starcross;8h 36m 8s 
+SELL;1;Improved Filter;4,857;4857.1250;604240.704845428;StarGypsy Warehouse;Void Starcross;8h 36m 2s 
+BUY;1;Advanced Filter;13,413;13,413;599383.579845428;StarGypsy Warehouse;Void Starcross;8h 33m 58s 
+BUY;1;Ham Sandwich;13,198;13,198;612796.398204803;StarGypsy Warehouse;Void Starcross;8h 33m 11s 
+SELL;203;Torim Ore;39.12;7940.7940;120394.836681366;Biomate University;Void Starcross;8h 27m 26s 
+BUY;1;Tractor Beam;11,634;11,634;112554.042736053;Rendo Labs;Entropy;8h 21m 34s 
+SELL;14;Torim Ore;3.37;47.2108;124187.605236053;Rendo Labs;Entropy;8h 19m 58s 
+SELL;2;Eco Regulator;25,116;50232.6600;146095.394439697;Biomate University;Void Starcross;8h 8m 35s 
+BUY;1;Eco Regulator;27,640;27,640;95862.7381896973;Lammassu Financial;Void Starcross;8h 6m 22s 
+SELL;661;Gradeon Ore;0.75;496.2455;29645.6014709473;Fellacore Research Center;Grace;7h 57m 3s 
+SELL;900;Adamyte Ore;4.73;4258.7820;49540.8129882813;Lammassu Financial;Void Starcross;7h 47m 41s 
+SELL;240;Adamyte Ore;2.73;655.1996;55832.0277099609;Biomate University;Void Starcross;7h 35m 49s 
+SELL;1086;Adamyte Ore;2.59;2816.5330;1326479.33280945;StarGypsy Warehouse;Void Starcross;7h 28m 33s 
+SELL;1;Waste Processor;8,361;8360.8200;1323662.8000946;StarGypsy Warehouse;Void Starcross;7h 28m 7s 
+SELL;681;Gradeon Ore;29.95;20394.7800;1295739.82939148;Gemini Mining;Jala;7h 15m 43s 
+SELL;1;Ham Sandwich;17,279;17279.0300;1278114.17118835;Biomate University;Void Starcross;7h 2m 38s 
+SELL;1;Fuel Injector (Doc);2,095;2094.9500;1242824.99345398;Proctors Center;Void Starcross;6h 57m 59s 
+SELL;4;Fuel Injector;2,493;9971.9500;1240730.04350281;Proctors Center;Void Starcross;6h 57m 47s 
+SELL;1;Protein Bar;5,233;5232.5000;1230783.0933075;StarGypsy Warehouse;Void Starcross;6h 51m 5s 
+SELL;476;Quazor Ore;12.88;6133.0120;1225550.5933075;StarGypsy Warehouse;Void Starcross;6h 50m 58s 
+SELL;1;Thermal Controller;5,506;5505.5000;1219417.58110046;StarGypsy Warehouse;Void Starcross;6h 50m 42s 
+SELL;1;Generic Plasma Cannon;1,516;1515.8000;1205734.07914734;Biomate University;Void Starcross;6h 30m 25s 
+SELL;48;Torim Ore;135;6456.8100;1204218.27934265;Starbase Corporate Center;Void Starcross;6h 24m 52s 
+SELL;352;Quazor Ore;21.78;7667.5420;1197761.46977234;Starbase Corporate Center;Void Starcross;6h 24m 42s 
+SELL;4;Adamyte Ore;18.15;72.6001;1190093.92729187;Starbase Corporate Center;Void Starcross;6h 24m 34s 
+SELL;1;Advanced Regulator;4,618;4618.2500;1190021.32714844;Starbase Corporate Center;Void Starcross;6h 24m 26s 
+SELL;217;Torim Ore;37.77;8195.7280;1181148.97753906;Valuestar Hub;Jelumus;6h 12m 46s 
+BUY;3;Basic Ore Harvester;15,251;45,754;1173153.25;OmniTrust;Ponze;6h 1m 18s 
+SELL;1;Improved Cargo Expansion;21,450;21450.0000;222973.023535132;StarShepards Headquarters;Void Starcross;5h 36m 36s 
+BUY;1;Improved Cargo Expansion;60,215;60,215;202202.793554664;Starbase Corporate Center;Void Starcross;5h 31m 23s 
+SELL;1;Generic Ore Harvester;260;260.0000;262417.637304664;Starbase Corporate Center;Void Starcross;5h 29m 13s 
+SELL;1;Waste Processor;17,140;17139.6800;1176049.43730485;Starbase Corporate Center;Void Starcross;5h 19m 53s 
+SELL;1;Advanced Regulator;9,077;9077.2500;1135554.61002207;StarShepards Headquarters;Void Starcross;5h 17m 10s 
+SELL;1;Advanced Regulator;8,600;8599.5000;1109762.13137817;Transporteers;Hunu;5h 12m 47s 
+SELL;264;Gradeon Ore;15.06;3975.3790;1074286.25390625;Gemini Mining;Jala;4h 53m 2s 
+BUY;1;Generic Ore Harvester;3,575;3,575;1098476.875;Fellacore Research Center;Grace;4h 39m 2s 
+SELL;1;Generic Ore Harvester;260;260.0000;1102476.875;Biomate University;Void Starcross;4h 17m 43s 
 SELL;82;Torim Ore;3.37;276.5203;102347.878632069;Lacuna Bandits;Ballast Crow;3h 56m 45s 
 BUY;1;Generic Salvage Collector;4,330;4,330;102471.358307362;Transporteers Hub;Ambervellis Drea;3h 33m 44s 
 SELL;1;Generic Ore Harvester;260;260.0000;110156.358307362;Starbase Corporate Center;Void Starcross;2h 48m 37s 
@@ -34,5 +100,3 @@ SELL;1;Protein Bar;3,003;3003.0000;8472.75366210938;Biomate University;Void Star
 SELL;1;Basic Filter;3,731;3731.0000;5469.75366210938;Biomate University;Void Starcross;0h 2m 5s 
 BUY;1;Improved Filter;8,131;8,131;1738.75390625;Biomate University;Void Starcross;0h 1m 44s 
 BUY;1;Waste Processor;23,233;23,233;9869.69140625;Biomate University;Void Starcross;0h 1m 35s 
-BUY;1;Advanced Regulator;13,643;13,643;33103.125;Biomate University;Void Starcross;0h 1m 22s 
-BUY;1;Noodles;8,253;8,253;46746.5625;Biomate University;Void Starcross;0h 1m 11s 

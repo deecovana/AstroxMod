@@ -1,0 +1,5 @@
+NPC;+LOCAL;150;332;1047.482;ValueStar;Hunu;5h 52m 39s ;21159.84
+NPC;-QTY;157;-141;3283.099;Transporteers;Hunu;6h 57m 24s ;25044.14
+PLAYER;+QTY;34;4;4137.552;Proctors Center;Void Starcross;6h 57m 47s ;25067.47
+NPC;+STOCK;896;108;3220.412;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;143;109;3930.784;Proctors Center;Void Starcross;7h 47m 19s ;28039.67

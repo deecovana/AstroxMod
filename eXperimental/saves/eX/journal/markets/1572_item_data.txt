@@ -5,3 +5,7 @@ NPC;BAL;9;-9;90352.99;CoraVault;Lins;3h 0m 30s ;10830.27
 NPC;-LOCAL;0;0;210922.2;Tella's;Bitcola;3h 44m 37s ;13477.42
 NPC;-LOCAL;0;0;214437.5;Tella's;Bitcola;3h 51m 57s ;13917.61
 NPC;-LOCAL;0;0;203365.6;Lacuna Bandits;Ballast Crow;3h 56m 23s ;14183.14
+NPC;-QTY;70;-6;102290.5;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+STOCK;78;10;53799.53;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;80;10;99478.25;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;0;0;260000;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75

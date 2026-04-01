@@ -3,3 +3,25 @@ NPC;-LOCAL;0;0;2.75;StarGypsy Warehouse;Void Starcross;2h 46m 5s ;9965.965
 NPC;-LOCAL;4;4;1.2375;StarGypsy Warehouse;Void Starcross;2h 55m 46s ;10546.06
 NPC;-LOCAL;12;0;1.2375;ValueStar;Hunu;3h 3m 20s ;11000.67
 NPC;-LOCAL;68;68;1.2375;StarGypsy Warehouse;Void Starcross;3h 59m 58s ;14398.3
+NPC;-LOCAL;52;0;1.2375;StarShepards Headquarters;Void Starcross;4h 21m 30s ;15690.51
+NPC;+STOCK;753;745;1.09113;Star Shepards Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;-LOCAL;25;25;1.2375;StarShepards Headquarters;Void Starcross;5h 16m 5s ;18965.93
+NPC;-LOCAL;0;0;2.001513;StarShepards Headquarters;Void Starcross;5h 36m 4s ;20164.21
+NPC;-LOCAL;0;0;2.212548;StarShepards Headquarters;Void Starcross;5h 41m 58s ;20518.24
+NPC;-LOCAL;49;49;1.250708;StarGypsy Warehouse;Void Starcross;5h 44m 9s ;20649.97
+NPC;-LOCAL;77;77;1.2375;StarShepards Headquarters;Void Starcross;5h 46m 4s ;20764.71
+NPC;-QTY;0;-77;1.572398;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;-LOCAL;0;0;2.75;ValueStar;Hunu;5h 52m 39s ;21159.84
+NPC;-LOCAL;73;73;1.286115;StarGypsy Warehouse;Void Starcross;6h 49m 32s ;24572.41
+NPC;-QTY;0;-2;0.6145047;Transporteers;Hunu;6h 57m 24s ;25044.14
+NPC;+STOCK;841;825;0.749649;Oro Omniplex Center;Merces Academy;7h 18m 7s ;26287.49
+NPC;-LOCAL;47;47;1.2375;StarGypsy Warehouse;Void Starcross;7h 28m 1s ;26881.37
+NPC;+STOCK;755;750;1.087701;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;800;731;1.089563;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;844;797;1.545234;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;961;961;1.538766;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;794;790;0.6597782;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;5;5;1.252031;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
+NPC;+PRICE;15;0;1.234553;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
+NPC;-LOCAL;0;0;2.75;ValueStar;Hunu;10h 24m 2s ;37442.54
+NPC;+PRICE;7;0;0.8584898;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23

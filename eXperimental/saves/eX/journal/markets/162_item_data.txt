@@ -1,1 +1,5 @@
 NPC;+STOCK;147;142;24.47353;Tella's;Bitcola;3h 44m 31s ;13471.02
+NPC;+STOCK;329;143;40.15883;Acrondia Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;-QTY;64;-118;42.23732;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+STOCK;968;141;45.28597;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;526;122;24.63317;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67

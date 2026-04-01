@@ -1,3 +1,9 @@
 NPC;-LOCAL;64;64;112500;StarGypsy Warehouse;Void Starcross;2h 46m 5s ;9965.965
 NPC;-LOCAL;0;0;149916.5;StarGypsy Warehouse;Void Starcross;2h 55m 46s ;10546.06
 NPC;-LOCAL;63;63;112500;StarGypsy Warehouse;Void Starcross;3h 59m 58s ;14398.3
+NPC;-LOCAL;66;66;112500;StarGypsy Warehouse;Void Starcross;5h 44m 9s ;20649.97
+NPC;-LOCAL;6;6;112555.7;StarGypsy Warehouse;Void Starcross;6h 49m 32s ;24572.41
+NPC;-LOCAL;0;0;239212;StarGypsy Warehouse;Void Starcross;7h 28m 1s ;26881.37
+NPC;+STOCK;9;9;296707.6;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;72;8;112039.5;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;37;37;112500;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06

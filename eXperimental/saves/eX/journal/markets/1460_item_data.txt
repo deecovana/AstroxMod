@@ -1,1 +1,4 @@
 NPC;+PRICE;9;0;27029.96;Medicore University;Cliffs of Drameria;0h 13m 58s ;838.7362
+NPC;-PRICE;12;0;32066.56;KIN AI;Xenilo Valley;4h 42m 34s ;16954.71
+NPC;+STOCK;23;10;30857.33;Gemini Mining;Jala;4h 52m 43s ;17563.45
+NPC;+STOCK;10;8;31034.46;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88

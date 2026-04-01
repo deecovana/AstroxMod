@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;88
 SECTOR;name;Estura Cove
-SECTOR;level;0.7
+SECTOR;level;0.6
 SECTOR;faction;Pirate
 SECTOR;filename;sector_88.txt
 SECTOR;is_explored;False
@@ -51,7 +51,7 @@ STAR;object;1;0;0;50000;1.0;50000
 LIFESUPPORT;food;2.3546428
 LIFESUPPORT;water;3.25
 LIFESUPPORT;thermal;2.3427524
-LIFESUPPORT;waste;3.25
+LIFESUPPORT;waste;2.25
 
 // STARLIGHT;Variable;Red;Green;Blue;Alpha
 STARLIGHT;color_1;0.23;0.00;0.00;1.00

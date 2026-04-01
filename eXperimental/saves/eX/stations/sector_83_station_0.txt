@@ -38,6 +38,9 @@ MERC;9;1.36;npc_ship_data_(recon_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Purchasing (1) Items ;1019x5;263125;107651.80
+SELLORDER;Market Stock: (2) Items ;2042x157,2049x94;318909;32336.13
+
 BUYORDER;Market Shortage: (1) Items ;313x150;63121;65844.20
 
 ITEM;1060;15;1.09

@@ -2,3 +2,21 @@ PLAYER;+QTY;59;1;6704;Biomate University;Void Starcross;0h 56m 39s ;3399.79
 NPC;+LOCAL;25;1;7428.914;Lammassu Financial;Void Starcross;1h 16m 2s ;4562.57
 NPC;+LOCAL;25;7;4648.511;Lammassu Financial;Void Starcross;1h 33m 21s ;5601.885
 NPC;+LOCAL;25;4;2600;Lammassu Financial;Void Starcross;2h 54m 49s ;10489.03
+NPC;-LOCAL;0;0;10366.24;Daemon Ammunitions;Starfort Ramos;4h 11m 41s ;15101.43
+NPC;+LOCAL;25;16;2600;StarShepards Headquarters;Void Starcross;5h 16m 5s ;18965.93
+NPC;+LOCAL;25;7;2600;StarShepards Headquarters;Void Starcross;5h 36m 4s ;20164.21
+NPC;+LOCAL;25;2;2600;StarShepards Headquarters;Void Starcross;5h 41m 58s ;20518.24
+NPC;+LOCAL;25;2;2600;StarShepards Headquarters;Void Starcross;5h 46m 4s ;20764.71
+NPC;-QTY;7;-18;2748.5;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+LOCAL;25;4;3430.024;Proctors Center;Void Starcross;5h 48m 41s ;20921.74
+NPC;+LOCAL;25;19;2600;Proctors Center;Void Starcross;6h 57m 33s ;25053.58
+NPC;+STOCK;81;22;6122.955;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;47;22;2469.1;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;84;20;7951.056;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;27;20;2748.65;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;46;20;6564.785;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;47;22;2720.5;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+LOCAL;25;5;2600;Lammassu Financial;Void Starcross;8h 4m 11s ;29051.38
+NPC;+PRICE;14;0;5167.896;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;-LOCAL;16;16;9000;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
+NPC;+LOCAL;25;8;2600;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15

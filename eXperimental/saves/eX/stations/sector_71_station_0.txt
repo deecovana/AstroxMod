@@ -21,7 +21,7 @@ SERVICES;market;True
 SERVICES;refinery;False
 SERVICES;garage;True
 SERVICES;university;True
-SERVICES;hangar;False
+SERVICES;hangar;True
 SERVICES;storage;False
 SERVICES;fabricator;True
 SERVICES;contracts;True
@@ -40,6 +40,9 @@ MERC;5;1.75;npc_ship_data_(transport_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Selling: (2) Items ;2354x546,21x1907;197068;30806.13
+BUYORDER;Market Needs Goods: (1) Items ;23x134;23158;23945.24
+SELLORDER;Looking to Sell (1) Items ;160x75;1157;25985.87
 SELLORDER;Market Goods: (1) Items ;50x292;5265;54931.27
 SELLORDER;Market Goods: (1) Items ;41x232;9795;56299.27
 BUYORDER;Purchasing (1) Items ;1483x4;173584;48869.76
@@ -308,6 +311,7 @@ SKILL;43;1.53
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;1.173365;ship_data_(StinVec_SOLV_B_EE3_Aphelion).txt
 SHIP;1;1.07;ship_data_(excavation_escort_1).txt
 SHIP;2;0.91;ship_data_(transport_shuttle_1).txt
 SHIP;3;1.02;ship_data_(battle_shuttle_1).txt

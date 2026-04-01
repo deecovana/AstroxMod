@@ -1,0 +1,11 @@
+NPC;-LOCAL;12;12;416291.6;StarShepards Headquarters;Void Starcross;5h 16m 5s ;18965.93
+NPC;-LOCAL;10;10;416291.6;StarShepards Headquarters;Void Starcross;5h 36m 4s ;20164.21
+NPC;-LOCAL;0;0;488969.7;StarShepards Headquarters;Void Starcross;5h 41m 58s ;20518.24
+NPC;-LOCAL;0;0;538889;StarShepards Headquarters;Void Starcross;5h 46m 4s ;20764.71
+NPC;-QTY;0;0;681590.8;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+QTY;37;8;331009.7;Stinkfinger;Jonisae;5h 52m 31s ;21151.35
+NPC;+STOCK;42;11;481180.3;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;8;8;675131.3;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;108;10;370323.1;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+PRICE;28;0;487549.9;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;+STOCK;38;10;470933.9;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46

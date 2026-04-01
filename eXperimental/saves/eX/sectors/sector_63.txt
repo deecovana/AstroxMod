@@ -4,7 +4,7 @@ SECTOR;name;Numbu
 SECTOR;level;5.2
 SECTOR;faction;Trade
 SECTOR;filename;sector_63.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -61,7 +61,7 @@ STARLIGHT;color_4;0.89;0.69;0.10;0.78
 STARLIGHT;color_5;0.22;0.17;0.15;0.90
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_63_station_0.txt;4065.809;369.9548;3436.343
+STATION;sector_63_station_0.txt;4065.809;369.9548;3436.343;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
 STRUCTURE;structure_habitat_1.txt;637.10;98.57;-3583.20
@@ -73,7 +73,7 @@ CLUSTER;2;35;100;300;3000;0;0;0;
 RESOURCE;1;3229.8;-166.0;-439.5;200;200
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_60.txt;2;-327.7;507.2;3933.0;0;trade;0.0
+WARPGATE;1;sector_60.txt;2;-327.7;507.2;3933.0;0;trade;0.0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;6;0;0;0;0;-90;0;rock_2

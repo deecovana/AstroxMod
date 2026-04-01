@@ -1,0 +1,12 @@
+NPC;-PRICE;1;0;5073.288;KIN AI;Xenilo Valley;4h 42m 34s ;16954.71
+NPC;+STOCK;6;4;6316.459;Star Shepards Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;-QTY;31;-2;8914.938;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+PLAYER;+QTY;16;1;9131.719;StarGypsy Warehouse;Void Starcross;6h 50m 42s ;24642.9
+NPC;+STOCK;16;3;4951.005;Oro Omniplex Center;Merces Academy;7h 18m 7s ;26287.49
+NPC;+STOCK;47;4;5804.828;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;28;3;3681.861;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;19;3;8803.664;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;38;3;7266.188;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+PRICE;3;0;5890.44;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
+NPC;+PRICE;7;0;7627.403;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;+STOCK;11;4;7315.529;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46

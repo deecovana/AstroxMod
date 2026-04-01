@@ -1,0 +1,271 @@
+[s:30][c:yellow]Blargg's[/c][/s]
+Patrol Annex Station
+Eligentis Faruk
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 45080.02
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Medium Shield Charge
+Heavy Shield Charge
+Medium Armor Repair
+Heavy Armor Repair
+Medium Energy Charge
+Heavy Energy Charge
+Medium Life Support Pack
+Large Life Support Pack
+Light Shield Charge
+Light Armor Repair
+Light Energy Charge
+Small Life Support Pack
+Generic Torpedo Launcher
+Basic Torpedo Launcher
+Improved Torpedo Launcher
+Advanced Torpedo Launcher
+Premium Torpedo Launcher
+Prototype Torpedo Launcher
+[c:orange]DEMAND[/c]
+Personal Clothing
+Hygiene Products
+Communication Device
+Transport Units
+Basic Cargo Expansion
+Improved Cargo Expansion
+Advanced Cargo Expansion
+Premium Cargo Expansion
+Prototype Cargo Expansion
+Basic Mass Reduction
+Improved Mass Reduction
+Advanced Mass Reduction
+Premium Mass Reduction
+Prototype Mass Reduction
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Active Scanner  12 - z20,528
+Adamyte Ore  39 - z9
+Advanced 60mm (Doc)  14 - z29,359
+Advanced Energy Capacitor  12 - z136,988
+Advanced Filter  14 - z26,952
+Advanced Mass Reduction  13 - z130,777
+Advanced Regulator  11 - z11,358
+Advanced Rocket Launcher (Doc)  118 - z551,882
+Advanced Scan Booster (Doc)  1 - z964,155
+Advanced Thruster (Doc)  27 - z874,125
+Advanced Torpedo Launcher  49 - z85,033
+Aged Wine  9 - z155
+Aluminium Rivets  241 - z43
+Anti-Freeze  18 - z58
+Assorted Gaskets  279 - z14
+Assorted Springs  67 - z84
+Basic 20mm  92 - z24
+Basic 60mm  6 - z49
+Basic Afterburner  6 - z16,144
+Basic Beam Explosive Mod (Doc)  9 - z350,156
+Basic Beam Impact Mod  8 - z25,930
+Basic Drone Command Bay  8 - z43,888
+Basic Energy Capacitor  4 - z16,827
+Basic Filter  1 - z5,930
+Basic Food Rations  14 - z76
+Basic Heavy Laser  20 - z9,757
+Basic Laser Impact Mod  29 - z24,180
+Basic Missile   142 - z141
+Basic Missile Launcher  24 - z7,601
+Basic Missile Launcher (Doc)  35 - z36,467
+Basic Plasma Cannon  7 - z6,061
+Basic Pulse Laser  1 - z8,030
+Basic Railgun (Doc)  83 - z35,582
+Basic Salvage Collector  22 - z14,101
+Basic Scan Booster  21 - z18,567
+Basic Sensor  81 - z88
+Basic Thruster  5 - z25,561
+Basic Torpedo Launcher  9 - z7,180
+Basic Torpedo Launcher (Doc)  19 - z25,082
+Basic Turn Thrust  26 - z26,144
+Basic Warp Drive (Doc)  3 - z3,703,125
+Basic Warp Drive Fuel  265 - z1,596
+Battery Core  39 - z128
+Bottled Whiskey  24 - z102
+Calcium  110 - z4
+Candy Cane  28 - z1
+Candy Corn  16 - z1
+Capacitors  103 - z80
+Carbon  14 - z1
+Carbon Fiber  85 - z28
+Chocolate Bars  17 - z1
+Circuit Board  202 - z96
+Circuit Board (Doc)  19 - z771
+Cleaning Chemicals  24 - z60
+Cloak Field Generator (Doc)  10 - z4,107,422
+Colored Dye  7 - z18
+Containment Unit  11 - z15,768
+Copperi Plates (Doc)  8 - z2,012
+Disposables  12 - z7,260
+ECM Sensors Jammer (Doc)  10 - z681,738
+Energy Bomb  37 - z8,072
+Fasteners  104 - z16
+Fiber Optic Cables  132 - z71
+Generic Ore Harvester  9 - z4,869
+Generic Ore Harvester (Doc)  27 - z14,544
+Generic Railgun (Doc)  129 - z11,126
+Generic Torpedo Launcher  62 - z2,084
+Glass Panels (Doc)  11 - z5,503
+Gourmet Food Rations  6 - z181
+Gradeon Ore  103 - z10
+Gummy Bears  19 - z1
+Ham Sandwich  8 - z23,736
+Heavy Armor Repair  48 - z56,971
+Heavy Energy Charge  59 - z44,562
+Heavy Mining Drone  36 - z129,886
+Heavy Salvage Drone  32 - z215,686
+Heavy Shield Charge  56 - z47,381
+Hydrogen  36 - z2
+Improved Afterburner  28 - z27,488
+Improved Defense Drone  12 - z32,273
+Improved Energy Armor  26 - z34,359
+Improved Engine Core  27 - z48,716
+Improved Explosive Armor  18 - z61,359
+Improved Filter  10 - z13,318
+Improved Heavy Cannon  7 - z33,073
+Improved Heavy Laser  29 - z18,789
+Improved Ion Beam  2 - z18,145
+Improved Light Turret  9 - z28,106
+Improved Missile Launcher  17 - z34,420
+Improved Railgun  25 - z29,317
+Improved Railgun (Doc)  12 - z139,237
+Improved Rocket Launcher (Doc)  38 - z155,231
+Improved Salvage Collector  26 - z41,512
+Improved Scan Emitter  11 - z45,259
+Improved Shield Generator  3 - z48,448
+Improved Torpedo Launcher  8 - z36,613
+Interior Lighting  10 - z193
+Junk Part  210 - z18
+Kitchen Appliances  8 - z722
+Large Life Support Pack  64 - z38,211
+Large Mining Drone  30 - z67,719
+Large Repair Drone  11 - z115,719
+Large Web Field  11 - z91,958
+Light Armor Bomb  45 - z11,495
+Light Armor Repair  41 - z6,538
+Light Energy Charge  20 - z7,003
+Light Shield Charge  48 - z5,584
+Light Shield Recharger  13 - z28,680
+Liquid Coolant  146 - z30
+Lubricant  296 - z11
+Magnetic Quartz  168 - z4
+Mechanical Belts  224 - z42
+Mechanical Switch  109 - z128
+Medium Armor Repair  25 - z21,003
+Medium Energy Charge  21 - z11,649
+Medium Life Support Pack  25 - z10,878
+Medium Shield Charge  4 - z12,751
+Medium Web Field  12 - z29,453
+Metal Brackets  169 - z24
+Metal Gears  267 - z24
+Metal Valve  160 - z24
+Missile Defense System (Doc)  21 - z1,179,500
+Noodles  7 - z9,766
+Nuts And Bolts  176 - z11
+Office Furniture  3 - z957
+Optical Interface  25 - z94
+Ornament  20 - z5
+Oxygen  311 - z2
+Plastic Caps  69 - z49
+Plastix Strands  350 - z7
+Polymere  98 - z81
+Premium Impact Armor (Doc)  23 - z2,105,250
+Premium Plasma Cannon (Doc)  14 - z2,801,634
+Premium Torpedo Launcher  52 - z291,713
+Protein Bar  5 - z5,300
+Prototype 60mm  65 - z140
+Prototype Drone Command Bay (Doc)  9 - z8,580,000
+Prototype ECM Power Boost Field (Doc)  27 - z10,254,840
+Prototype ECM Range Lock (Doc)  27 - z11,931,280
+Prototype Heavy Cannon (Doc)  126 - z6,367,785
+Prototype Missile   147 - z408
+Prototype Torpedo Launcher  46 - z1,110,729
+Quazor Ore  149 - z22
+Recon Scanner Drone  43 - z19,158
+Regulator  252 - z166
+Reinforced Rubber  20 - z12
+Reinforced Rubber (Doc)  28 - z144
+Rubber Tubing  138 - z35
+Salt Crystal  44 - z2
+Scrap Part  59 - z44
+Silicon  445 - z4
+Small Defense Drone  30 - z4,963
+Small Life Support Pack  53 - z4,082
+Small LS Bomb  12 - z4,600
+Small Salvage Drone  24 - z6,823
+Small Storage Tank  81 - z39
+Steelium Beam  164 - z11
+Steelium Pipes  60 - z19
+Temperature Genie  3 - z26,094
+Thermal Controller  13 - z4,880
+Thermal Insulation  270 - z47
+Thermal Sensor  114 - z73
+Titan Combat Drone  44 - z229,297
+Undamaged Part  38 - z40
+Waste Processor  6 - z16,876
+Water  54 - z2
+Weapon Systems Package (Doc)  29 - z91,887
+Wrapped Box  18 - z9
+
+
+<Station University Skills>
+Fleet Defensive Flight
+Module Mechanic
+Market Distributor
+Refinery Warehouse Management
+Ship Advanced Targeting Systems
+Fabrication Accountant
+Miner Basic Operation
+Miner Focal Range
+Salvager Energy Optimization
+Fabrication Engineer
+
+
+<Station Missions>
+[c:lime]KILL[/c]
+Hunt down a low level <color='yellow'><i>Engineer Fallfer Soga</i></color> in <color='cyan'>Jala</color> and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]KILL RAIDERS[/c]
+Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Chamo</color> and return to Lammassu Hub in <color='cyan'>Numbu</color>
+
+[c:lime]REFINE[/c]
+Refine medium shipment of <color='yellow'>4</color> <color='yellow'>Engine Components</color> in <color='cyan'>Cliffs of Drameria</color> at the Medicore University station refinery
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Lieutenant Vesip Ilesev</i></color> in <color='cyan'>Coralor</color> and return to CoraVault Hub in <color='cyan'>Pindoris</color>
+
+[c:lime]KILL RECOVER[/c]
+Hijack <color='yellow'><i>Ensign Ilevo Tifast</i></color> in <color='cyan'>Pindoris</color> for <color='yellow'>65</color> <color='yellow'>Electronic Switchs</color> and deliver them to Mazu Starship in <color='cyan'>Enoch Estates</color>
+
+
+
+<Station Ships>
+EF-1 Mining Escort / Escort    (Excavation)
+RU-1 Curator / Escort    (Recon)
+TS-1 Dexta / Shuttle    (Recon)
+SE-1 Prophet / Frigate    (Assault)
+RCA-1 Correlator / Destroyer    (Support)
+TS-1 Dexta / Shuttle    (Recon)
+SCA-1 Demi / Battlecruiser    (Support)
+SC-1 Bishop / Utility    (Support)

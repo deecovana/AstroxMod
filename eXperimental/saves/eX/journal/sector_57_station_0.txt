@@ -3,7 +3,7 @@ Banking Facility
 Qevedles Zanlocki
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 12578.26
+Timestamp: 21702.2
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -47,32 +47,33 @@ Offices
 <Station Market Items>
 Visit station market to update prices.
 Adamyte Ore  109 - z5
-Advanced Regulator  2 - z11,301
-Advanced Rocket Launcher (Doc)  45 - z446,972
+Advanced Plasma Cannon  14 - z130,802
+Advanced Regulator  2 - z11,262
+Advanced Rocket Launcher (Doc)  45 - z445,632
 Aluminium Rivets  81 - z50
 Anti-Freeze  6 - z33
 Assorted Gaskets  190 - z17
 Assorted Springs  40 - z82
 Ball Bearings  15 - z85
 Basic 60mm  56 - z32
-Basic Armor Exterior  17 - z21,375
+Basic Armor Exterior  17 - z21,281
 Basic Charged Cell  48 - z105
-Basic ECM Range Lock (Doc)  10 - z3,766,877
-Basic Energy Generator  15 - z17,150
-Basic Engine Core  2 - z22,055
-Basic Explosive Armor  15 - z18,313
-Basic Filter  2 - z8,068
-Basic Heavy Cannon  11 - z5,332
-Basic Missile Explosive Mod (Doc)  15 - z258,750
-Basic Missile Launcher (Doc)  72 - z30,511
-Basic Ore Harvester  9 - z15,295
-Basic Pulse Laser  1 - z4,778
-Basic Scan Emitter  19 - z21,825
-Basic Shield Booster  6 - z18,563
-Basic Shield Generator  1 - z19,508
-Basic Skill Manual  18 - z218,125
-Basic Thruster  11 - z23,153
-Basic Warp Drive Fuel (Doc)  1 - z12,520
+Basic ECM Range Lock (Doc)  10 - z3,755,251
+Basic Energy Generator  15 - z17,063
+Basic Engine Core  2 - z21,986
+Basic Explosive Armor  15 - z18,234
+Basic Filter  2 - z8,046
+Basic Heavy Cannon  11 - z5,308
+Basic Missile Explosive Mod (Doc)  15 - z257,813
+Basic Missile Launcher (Doc)  72 - z30,391
+Basic Ore Harvester  6 - z15,391
+Basic Pulse Laser  1 - z4,756
+Basic Scan Emitter  19 - z21,769
+Basic Shield Booster  6 - z18,484
+Basic Shield Generator  1 - z19,423
+Basic Skill Manual  18 - z217,344
+Basic Thruster  11 - z23,087
+Basic Warp Drive Fuel (Doc)  1 - z12,470
 Candy Cane  4 - z1
 Candy Corn  8 - z1
 Carbon  97 - z1
@@ -80,89 +81,88 @@ Carbon Fiber  36 - z32
 Chocolate Bars  18 - z1
 Cleaning Chemicals  7 - z65
 Colored Dye  6 - z29
-Containment Unit  3 - z15,833
-Disposables  1 - z4,218
-Duct Work (Doc)  9 - z11,257
-ECM Sensors Jammer (Doc)  2 - z902,344
+Containment Unit  3 - z15,795
+Disposables  1 - z4,196
+Duct Work (Doc)  9 - z11,194
+ECM Sensors Jammer (Doc)  2 - z899,414
 Fasteners  6 - z10
-Generic Construction Platform  42 - z5,864,433
-Generic Heavy Laser  2 - z1,546
-Generic Ion Beam  11 - z3,338
-Generic Light Turret  14 - z1,205
-Generic Missile Launcher (Doc)  52 - z11,688
-Generic Ore Harvester  19 - z3,330
-Generic Plasma Cannon  8 - z3,059
-Generic Pulse Laser  9 - z2,545
-Generic Railgun (Doc)  3 - z15,510
-Generic Torpedo Launcher  14 - z2,118
-Gradeon Ore  126 - z13
+Generic Construction Platform  42 - z5,845,313
+Generic Heavy Laser  2 - z1,539
+Generic Light Turret  14 - z1,199
+Generic Missile Launcher (Doc)  52 - z11,653
+Generic Ore Harvester  19 - z3,318
+Generic Plasma Cannon  17 - z3,051
+Generic Pulse Laser  9 - z2,539
+Generic Railgun (Doc)  3 - z15,473
+Generic Torpedo Launcher  14 - z2,111
+Gradeon Ore  126 - z12
 Gummy Bears  3 - z1
-Heavy Armor Bomb  12 - z46,373
-Heavy Repair Drone  12 - z201,713
-Hydraulic Assembly (Doc)  1 - z43,311
+Heavy Armor Bomb  12 - z46,119
+Heavy Repair Drone  12 - z201,197
+Hydraulic Assembly (Doc)  1 - z43,206
 Hydrogen  281 - z3
-Improved Energy Capacitor  19 - z46,930
-Improved Explosive Armor  7 - z32,625
-Improved Filter  9 - z11,301
-Improved Impact Armor  7 - z48,125
-Improved Railgun (Doc)  81 - z92,978
-Improved Salvage Drone  21 - z56,813
-Improved Shield Generator  10 - z31,455
+Improved Energy Capacitor  19 - z46,768
+Improved Explosive Armor  7 - z32,469
+Improved Filter  9 - z11,262
+Improved Impact Armor  7 - z47,969
+Improved Railgun (Doc)  81 - z92,518
+Improved Salvage Drone  21 - z56,672
+Improved Shield Generator  10 - z31,286
 Interior Lighting  3 - z266
 Junk Part  51 - z24
-Kitchen Appliances  11 - z613
-Large Life Support Pack  30 - z48,263
-Large Web Field  36 - z93,780
-Light Armor Bomb  31 - z5,513
-Light Shield Bomb  22 - z10,373
-Light Shield Recharger  18 - z27,813
+Kitchen Appliances  11 - z611
+Large Life Support Pack  30 - z48,122
+Large Web Field  36 - z93,555
+Light Armor Bomb  31 - z5,484
+Light Shield Bomb  22 - z10,344
+Light Shield Recharger  18 - z27,734
 Liquid Coolant  195 - z14
 Lubricant  159 - z11
 Magnetic Quartz  68 - z4
-Mechanical Belts  194 - z38
-Medium Armor Bomb  19 - z23,018
+Mechanical Belts  194 - z37
+Medium Armor Bomb  19 - z22,933
 Metal Brackets  149 - z24
 Metal Gears  4 - z21
-Metal Valve  41 - z19
-Noodles  7 - z12,403
+Metal Valve  41 - z18
+Noodles  7 - z12,365
 Nuts And Bolts  152 - z12
-Office Furniture  13 - z788
+Office Furniture  13 - z785
 Ornament  8 - z3
 Oxygen  118 - z2
 Plastic Caps  20 - z37
-Premium Afterburner (Doc)  1 - z2,270,400
-Premium Railgun (Doc)  9 - z2,219,424
-Premium Shield Generator (Doc)  7 - z3,090,960
-Premium Turn Thrust (Doc)  10 - z1,828,800
-Protein Bar  2 - z8,348
+Premium Afterburner (Doc)  1 - z2,264,400
+Premium Railgun (Doc)  9 - z2,213,797
+Premium Shield Generator (Doc)  7 - z3,082,860
+Premium Turn Thrust (Doc)  10 - z1,822,800
+Protein Bar  2 - z8,326
 Prototype 20mm  79 - z81
-Prototype 60mm  90 - z179
-Prototype 60mm (Doc)  10 - z265,625
-Prototype Drone Command Bay (Doc)  12 - z7,468,800
-Prototype Missile Launcher (Doc)  90 - z4,000,854
-Prototype Pulse Laser (Doc)  3 - z4,057,315
-Prototype Railgun (Doc)  10 - z3,986,410
-Prototype Turn Thrust (Doc)  15 - z2,467,200
+Prototype 60mm  90 - z178
+Prototype 60mm (Doc)  10 - z264,844
+Prototype Drone Command Bay (Doc)  12 - z7,444,800
+Prototype Missile Launcher (Doc)  90 - z3,982,799
+Prototype Pulse Laser (Doc)  3 - z4,040,902
+Prototype Railgun (Doc)  10 - z3,966,715
+Prototype Turn Thrust (Doc)  15 - z2,455,200
 Reinforced Rubber  125 - z14
 Rubber Tubing  46 - z42
 Salt Crystal  147 - z2
-Scrap Part  92 - z23
-Sensor Array (Doc)  15 - z48,919
-Small Combat Drone  6 - z4,875
-Small Mining Drone  8 - z5,055
-Small Tractor Drone  26 - z16,988
-Spaceframe  43 - z4,730
-Spotlight  1 - z13,676
+Scrap Part  92 - z22
+Sensor Array (Doc)  15 - z48,799
+Small Combat Drone  6 - z4,856
+Small Mining Drone  8 - z5,036
+Small Tractor Drone  26 - z16,941
+Spaceframe  43 - z4,690
+Spotlight  1 - z13,643
 Steelium Beam  25 - z8
 Steelium Pipes  182 - z17
-Thermal Controller  5 - z6,878
-Thermal Systems Package  32 - z6,036
-Thruster Casing (Doc)  7 - z48,737
-Titan Combat Drone  30 - z270,625
-Tractor Beam  15 - z10,675
+Thermal Controller  5 - z6,856
+Thermal Systems Package  32 - z5,996
+Thruster Casing (Doc)  7 - z48,605
+Titan Combat Drone  30 - z269,844
+Tractor Beam  15 - z10,631
 Water  218 - z2
-Weapon Systems Package  27 - z6,253
-Weapon Systems Package (Doc)  12 - z60,826
+Weapon Systems Package  27 - z6,212
+Weapon Systems Package (Doc)  12 - z60,586
 Wrapped Box  5 - z15
 
 
@@ -170,14 +170,23 @@ Wrapped Box  5 - z15
 
 
 <Station Missions>
-[c:lime]SALVAGE[/c]
-Salvage <color='yellow'>Special Undamaged Part</color> in <color='cyan'>Ponze</color> and return with <color='yellow'>65</color> to Lammassu Hub in <color='cyan'>Numbu</color>
-
 [c:lime]ESCORT[/c]
 Escort <color='yellow'><i>Miner Zilsdue Biracor</i></color> from ValueStar in <color='cyan'>Hunu</color> to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
 
 [c:lime]SCAN[/c]
 Track and scan the target <color='yellow'>Recon Center</color> structure in <color='cyan'>Kriox</color> and return to Proctors Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]DIALOG[/c]
+Collect a small debt from <color='yellow'><i>Chairman Xomo Zanmi</i></color> in <color='cyan'>Chamo</color> and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]ESCORT[/c]
+<color='yellow'><i>Bishop Bormad Viswo</i></color> requests an escort from Proctors Center in <color='cyan'>Void Starcross</color> to Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]ESCORT[/c]
+<color='yellow'><i>Private Padvo Rinortis</i></color> requests an escort from ValueStar in <color='cyan'>Hunu</color> to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]KILL RECOVER[/c]
+Hijack <color='yellow'><i>Father Yannostra Yitpadfall</i></color> in <color='cyan'>Hunu</color> for <color='yellow'>40</color> <color='yellow'>Connection Harness</color> and deliver them to Fellacore Research Center in <color='cyan'>Grace</color>
 
 
 

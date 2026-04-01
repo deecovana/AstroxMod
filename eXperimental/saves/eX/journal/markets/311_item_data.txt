@@ -3,3 +3,20 @@ NPC;-LOCAL;0;0;319.275;StarGypsy Warehouse;Void Starcross;2h 46m 5s ;9965.965
 NPC;-LOCAL;24;24;143.6737;StarGypsy Warehouse;Void Starcross;2h 55m 46s ;10546.06
 NPC;-LOCAL;57;0;143.6737;ValueStar;Hunu;3h 3m 20s ;11000.67
 NPC;-LOCAL;12;12;143.6737;StarGypsy Warehouse;Void Starcross;3h 59m 58s ;14398.3
+NPC;-LOCAL;2;0;143.6737;StarShepards Headquarters;Void Starcross;4h 21m 30s ;15690.51
+NPC;-LOCAL;55;55;143.6737;StarShepards Headquarters;Void Starcross;5h 16m 5s ;18965.93
+NPC;-LOCAL;0;0;232.3757;StarShepards Headquarters;Void Starcross;5h 36m 4s ;20164.21
+NPC;-LOCAL;0;0;256.8769;StarShepards Headquarters;Void Starcross;5h 41m 58s ;20518.24
+NPC;-LOCAL;69;69;143.6737;StarGypsy Warehouse;Void Starcross;5h 44m 9s ;20649.97
+NPC;-LOCAL;0;0;274.1054;StarShepards Headquarters;Void Starcross;5h 46m 4s ;20764.71
+NPC;-LOCAL;0;0;319.275;ValueStar;Hunu;5h 52m 39s ;21159.84
+NPC;-LOCAL;75;75;143.6737;StarGypsy Warehouse;Void Starcross;6h 49m 32s ;24572.41
+NPC;-LOCAL;18;18;143.6737;StarGypsy Warehouse;Void Starcross;7h 28m 1s ;26881.37
+NPC;+STOCK;1066;967;126.6636;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;993;970;87.85915;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;725;707;178.3453;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;923;923;342.219;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;1059;997;98.42937;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;0;0;319.275;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
+NPC;+STOCK;903;834;113.3456;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;-LOCAL;0;0;319.275;ValueStar;Hunu;10h 24m 2s ;37442.54

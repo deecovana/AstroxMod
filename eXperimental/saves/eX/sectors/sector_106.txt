@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;106
 SECTOR;name;Crown of Imperium
-SECTOR;level;0.0
+SECTOR;level;0.1
 SECTOR;faction;Temple
 SECTOR;filename;sector_106.txt
 SECTOR;is_explored;False
@@ -49,9 +49,9 @@ STAR;object;1;0;0;60000;1.0;10000
 
 // LIFESUPPORT;type;value
 LIFESUPPORT;food;2.25
-LIFESUPPORT;water;2.191844
+LIFESUPPORT;water;2.015985
 LIFESUPPORT;thermal;2.45
-LIFESUPPORT;waste;2.15
+LIFESUPPORT;waste;2.102005
 
 // STARLIGHT;Variable;Red;Green;Blue;Alpha
 STARLIGHT;color_1;0.50;0.11;0.02;0.10

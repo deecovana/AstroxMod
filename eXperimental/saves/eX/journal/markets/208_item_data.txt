@@ -1,0 +1,6 @@
+NPC;-QTY;0;-11;142.2194;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+STOCK;115;115;137.1041;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;181;136;203.039;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+PRICE;666;0;187.5008;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;+LOCAL;29;4;129.7646;CoraVault Hub;Pindoris;11h 34m 18s ;41658.76
+NPC;+LOCAL;32;3;128.4317;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71

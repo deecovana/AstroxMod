@@ -4,3 +4,20 @@ NPC;-LOCAL;31;0;1713.937;Transporteers;Hunu;3h 0m 37s ;10837.68
 NPC;-LOCAL;0;0;3089.807;Tella's;Bitcola;3h 44m 37s ;13477.42
 NPC;-LOCAL;0;0;3141.303;Tella's;Bitcola;3h 51m 57s ;13917.61
 NPC;-LOCAL;0;0;3405.691;Lacuna Bandits;Ballast Crow;3h 56m 23s ;14183.14
+NPC;-PRICE;53;0;921.8474;KIN AI;Xenilo Valley;4h 42m 34s ;16954.71
+NPC;-LOCAL;0;0;3618.765;Transporteers;Hunu;5h 11m 42s ;18702.62
+NPC;-LOCAL;33;0;1851.052;Proctors Center;Void Starcross;5h 38m 9s ;20289.62
+NPC;-QTY;0;-72;1102.348;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;-LOCAL;22;0;1713.937;Proctors Center;Void Starcross;5h 48m 41s ;20921.74
+NPC;-LOCAL;0;0;3808.75;Transporteers;Hunu;5h 50m 50s ;21050.66
+NPC;-LOCAL;21;21;1713.937;Proctors Center;Void Starcross;6h 57m 33s ;25053.58
+NPC;+STOCK;767;705;787.5016;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;818;767;1383.414;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;996;996;1064.589;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;1019;949;1045.769;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;969;948;2124.504;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+PRICE;73;0;1976.392;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;-LOCAL;0;0;3808.75;Biomart;Veloxi;9h 47m 47s ;35267.4
+NPC;-LOCAL;0;0;3808.75;Biomart;Veloxi;9h 47m 56s ;35276.94
+NPC;-LOCAL;0;0;3808.75;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75
+NPC;-LOCAL;0;0;3808.75;Biomart;Veloxi;11h 7m 4s ;40024.25

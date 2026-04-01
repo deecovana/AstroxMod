@@ -1,0 +1,37 @@
+scan_title;TF-1 Hexalon 347104
+scan_image;npc_ship_data_(transport_frigate_1).png
+scan_sector;Jelumus
+<color='cyan'>OVERVIEW</color>
+Without doubt, Transport Ships are one of the most recognizable of all ship types. Few ships can be so specialized and at the same time so effective in the purpose for which they are designed. The almost complete lack of Active Modules and Drones limits their versatility to efectively perform other tasks, but they truly ecxel in their main activity - transportation.
+
+Timestamp: 33330.79
+<color='cyan'>DETAILS</color>
+Type: 1
+Class: Escort
+
+<color='cyan'>SPECS</color>
+HP total: 
+2500
+Shield: 
+1500 / 1500
+Armor: 
+1000 / 1000
+Energy: 
+226.6898 / 500
+Class: 
+10 / 1250
+<color='cyan'>DETAILS</color>
+Owner: Bishop Wheafon Vakyaate
+Faction: Pirate
+Combat Capable: 
+False
+Mining Capable: 
+True
+Tactics: Neutral
+Task: PATROL
+
+<color='cyan'>RESISTANCE</color>
+Impact : 5%
+Energy : 13%
+Explosive : 5%
+

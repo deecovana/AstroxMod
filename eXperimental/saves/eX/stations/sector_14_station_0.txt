@@ -38,6 +38,8 @@ MERC;9;1.96;npc_ship_data_(support_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Items: (1) Items ;2022x371;242980;77774.19
+
 ITEM;1007;41;0.90
 ITEM;1059;59;0.67
 ITEM;1115;58;1.12

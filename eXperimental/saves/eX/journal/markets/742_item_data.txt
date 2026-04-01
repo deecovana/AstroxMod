@@ -1,3 +1,15 @@
 NPC;+LOCAL;15;1;79886.7;Acrondia Hub;Temple Gates;0h 27m 13s ;1633.259
 NPC;+LOCAL;15;1;105937.2;Starbase Corporate Center;Void Starcross;1h 37m 31s ;5851.223
 NPC;+LOCAL;15;8;32500;Starbase Corporate Center;Void Starcross;2h 47m 38s ;10058.33
+NPC;+STOCK;29;14;78417.22;Acrondia Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;+LOCAL;15;19;32500;Starbase Corporate Center;Void Starcross;5h 19m 46s ;19186.66
+NPC;+LOCAL;15;2;32500;Starbase Corporate Center;Void Starcross;5h 39m 51s ;20391.94
+NPC;+LOCAL;15;2;32500;Starbase Corporate Center;Void Starcross;5h 47m 39s ;20859.19
+NPC;-QTY;91;-13;87356.25;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+LOCAL;15;6;32500;Starbase Corporate Center;Void Starcross;6h 24m 3s ;23043.55
+NPC;+LOCAL;15;26;32500;Acrondia Hub;Temple Gates;7h 11m 49s ;25909.71
+NPC;+STOCK;74;12;93600.23;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;101;10;82802.58;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;26;11;34273.13;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;70;10;65118.32;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;17;14;55409.52;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88

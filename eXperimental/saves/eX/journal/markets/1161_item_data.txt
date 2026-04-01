@@ -1,2 +1,6 @@
 NPC;-LOCAL;0;0;8739.5;CoraVault;Lins;3h 9m 5s ;11345.9
 NPC;-LOCAL;0;0;8662.5;OmniTrust;Ponze;3h 29m 10s ;12550.06
+NPC;-LOCAL;0;0;19250;OmniTrust;Ponze;5h 57m 28s ;21448.94
+NPC;-QTY;58;-9;4532.533;Transporteers;Hunu;6h 57m 24s ;25044.14
+NPC;+STOCK;88;11;6022.36;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;10;10;8662.5;CoraVault;Lins;11h 10m 39s ;40239.91

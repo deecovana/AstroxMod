@@ -39,6 +39,9 @@ MERC;7;1.56;npc_ship_data_(recon_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Stock: (1) Items ;120x257;26105;69225.47
+SELLORDER;Market Production: (3) Items ;120x206,102x359,121x344;33847;51958.64
+
 ITEM;1110;15;0.94
 ITEM;1401;17;1.15
 ITEM;1200;8;0.74

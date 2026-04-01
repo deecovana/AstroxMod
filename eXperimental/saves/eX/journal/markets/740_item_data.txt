@@ -1,1 +1,9 @@
 NPC;+LOCAL;15;13;4875;Starbase Corporate Center;Void Starcross;2h 47m 38s ;10058.33
+NPC;+LOCAL;15;31;4875;Starbase Corporate Center;Void Starcross;5h 19m 46s ;19186.66
+NPC;+LOCAL;15;2;4875;Starbase Corporate Center;Void Starcross;5h 39m 51s ;20391.94
+NPC;+LOCAL;15;2;4875;Starbase Corporate Center;Void Starcross;5h 47m 39s ;20859.19
+NPC;+QTY;34;12;10117.97;Stinkfinger;Jonisae;5h 52m 31s ;21151.35
+NPC;+LOCAL;15;7;4875;Starbase Corporate Center;Void Starcross;6h 24m 3s ;23043.55
+NPC;+STOCK;141;13;14629.01;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;125;12;9346.146;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;26;11;5140.969;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67

@@ -3,3 +3,17 @@ NPC;-LOCAL;0;0;983.6458;Lammassu Financial;Void Starcross;1h 33m 21s ;5601.885
 NPC;-LOCAL;62;62;640.7213;Lammassu Financial;Void Starcross;2h 45m 12s ;9912.331
 NPC;-LOCAL;0;0;852.6869;Lammassu Financial;Void Starcross;2h 54m 49s ;10489.03
 NPC;-LOCAL;64;0;640.7213;Valuestar Hub;Jelumus;3h 22m 36s ;12156.77
+NPC;+STOCK;1832;1796;347.1101;Star Shepards Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;+QTY;1460;1257;532.2436;Stinkfinger;Jonisae;5h 52m 31s ;21151.35
+NPC;-LOCAL;52;0;640.7213;Valuestar Hub;Jelumus;6h 12m 38s ;22358.5
+NPC;+STOCK;2367;2265;367.7542;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;2190;2190;1018.214;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;1936;1927;742.3363;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;47;47;640.7213;Lammassu Financial;Void Starcross;7h 47m 30s ;28050.12
+NPC;-LOCAL;39;0;640.7213;Lammassu Financial;Void Starcross;8h 4m 11s ;29051.38
+NPC;+PRICE;52;0;813.8525;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;+LOCAL;83;9;468.7182;Astrox Security Patrol;Felishar;8h 59m 56s ;32396.5
+NPC;-LOCAL;0;0;1423.825;Valuestar Hub;Jelumus;9h 17m 2s ;33422.23
+NPC;+STOCK;2287;2287;1809.152;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;-LOCAL;3;3;640.7213;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.63
+NPC;-LOCAL;58;58;650.6138;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15

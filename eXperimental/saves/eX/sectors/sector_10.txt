@@ -51,7 +51,7 @@ LIGHT;light_s;0.15;0.21;0.17;0.68
 // LIFESUPPORT;type;value
 LIFESUPPORT;food;2.70489
 LIFESUPPORT;water;3.353953
-LIFESUPPORT;thermal;2.25
+LIFESUPPORT;thermal;2.178595
 LIFESUPPORT;waste;2.25
 
 // STARLIGHT;Variable;Red;Green;Blue;Alpha

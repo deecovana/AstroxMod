@@ -1,3 +1,6 @@
 NPC;+LOCAL;150;164;1606.933;StarGypsy Warehouse;Void Starcross;2h 46m 5s ;9965.965
 NPC;+LOCAL;150;28;1606.933;StarGypsy Warehouse;Void Starcross;2h 55m 46s ;10546.06
 NPC;+LOCAL;150;145;1606.933;StarGypsy Warehouse;Void Starcross;3h 59m 58s ;14398.3
+NPC;-PRICE;722;0;4704.907;KIN AI;Xenilo Valley;4h 42m 34s ;16954.71
+NPC;+LOCAL;150;54;1606.933;StarGypsy Warehouse;Void Starcross;7h 28m 1s ;26881.37
+NPC;+LOCAL;150;111;1606.933;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06

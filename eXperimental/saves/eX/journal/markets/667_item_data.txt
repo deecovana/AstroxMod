@@ -1,0 +1,6 @@
+NPC;-PRICE;42;0;311033.1;KIN AI;Xenilo Valley;4h 42m 34s ;16954.71
+NPC;-QTY;26;-2;215885.6;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+STOCK;11;3;267651.9;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;30;4;209442.9;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;40;3;438067.1;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;39;4;290725.3;Proctors Center;Void Starcross;7h 47m 19s ;28039.67

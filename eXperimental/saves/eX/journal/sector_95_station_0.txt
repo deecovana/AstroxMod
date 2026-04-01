@@ -1,0 +1,258 @@
+[s:30][c:yellow]Star Shepards Hub[/c][/s]
+Engineering Facility
+Bemdee Tudoe
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 47261.56
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Medium Shield Bomb
+Heavy Shield Bomb
+Medium Armor Bomb
+Heavy Armor Bomb
+Light Shield Bomb
+Light Armor Bomb
+Energy Bomb
+Small LS Bomb
+Small Web Field
+Medium Web Field
+Large Web Field
+Basic Laser Impact Mod
+Basic Laser Energy Mod
+Basic Laser Explosive Mod
+[c:orange]DEMAND[/c]
+Water
+Carbon
+Hydrogen
+Oxygen
+Magnetic Quartz
+Iron Coring
+Nitrogen
+Oil
+Copperi Cubex
+Calcium
+Ceramic
+Aluminium Shard
+Dynex Crystal
+Silicon
+Salt Crystal
+Bio Carbon
+Calciate Residue
+Steelium
+Plastix Strands
+Silveryte
+Prometheum
+Neutron Pods
+Uranium
+Goldyte
+Titanyte
+Cleaning Chemicals
+Colored Dye
+Anti-Freeze
+Acidic Residue
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Ship Garage
+University
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Out of Stock: (3) Items 
+ (103) x Neutron Pods
+ (236) x Nitrogen
+ (128) x Prometheum
+Fulfill order for [c:lime]33,768 profit.[/c]
+[c:green]BUY Order[/c] Market Needs Goods: (1) Items 
+ (713) x Carbon
+Fulfill order for [c:lime]1,462 profit.[/c]
+[c:green]BUY Order[/c] Looking to Buy (1) Items 
+ (7) x Basic Ion Beam
+Fulfill order for [c:lime]19,266 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (317) x Calcium
+ (169) x Colored Dye
+Fulfill order for [c:lime]2,086 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (266) x Colored Dye
+ (94) x Calcium
+Fulfill order for [c:lime]11,101 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (167) x Ceramic
+ (59) x Prometheum
+ (91) x Neutron Pods
+Fulfill order for [c:lime]16,981 profit.[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (3) Items 
+ (196) x Prometheum
+ (179) x Copperi Cubex
+ (115) x Plastix Strands
+Fulfill order for [c:lime]19,781 profit.[/c]
+[c:red]SELL Order[/c] Sell Order Request for (1) Items 
+ (5) x Basic Mass Reduction
+Buy items for [c:lime]44,027 discount.[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (3) Items 
+ (286) x Prometheum
+ (95) x Acidic Residue
+ (228) x Copperi Cubex
+Fulfill order for [c:lime]34,904 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (154) x Iron Coring
+ (210) x Neutron Pods
+ (134) x Nitrogen
+Fulfill order for [c:lime]14,660 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  44 - z0
+Advanced 20mm  41 - z0
+Advanced Missile  2270 - z306
+Advanced Missile Launcher (Doc)  21 - z540,399
+Advanced Railgun (Doc)  21 - z540,399
+Advanced Shield Generator (Doc)  6 - z540,399
+Afterburner Assembly (Doc)  3 - z540,399
+Anti-Freeze  851 - z62
+Assorted Gaskets  97 - z62
+Basic Afterburner  10 - z18,365
+Basic Armor Exterior  8 - z18,365
+Basic Cargo Expansion  19 - z25,814
+Basic Charged Cell (Doc)  6 - z25,814
+Basic Drone Command Bay  14 - z47,614
+Basic Energy Capacitor  13 - z21,840
+Basic Energy Generator  8 - z21,840
+Basic Engine Core  6 - z21,840
+Basic Explosive Armor  8 - z21,840
+Basic Filter  2 - z21,840
+Basic Laser Energy Mod  38 - z21,840
+Basic Laser Explosive Mod  41 - z21,840
+Basic Laser Impact Mod  43 - z21,840
+Basic Mass Reduction  5 - z21,840
+Basic Missile   34 - z21,840
+Basic Missile Launcher (Doc)  5 - z28,019
+Basic Rocket Launcher (Doc)  39 - z43,807
+Basic Scan Booster  9 - z43,807
+Basic Scan Emitter  19 - z19,124
+Basic Shield Booster  1 - z19,124
+Basic Shield Generator  15 - z34,698
+Basic Targeting System  5 - z34,698
+Basic Thruster  2 - z34,698
+Basic Torpedo   27 - z34,698
+Basic Torpedo (Doc)  5 - z34,698
+Basic Turn Thrust  4 - z34,698
+Basic Turn Thrust (Doc)  5 - z34,698
+Bomber Drone  12 - z12,205
+Candy Cane  5 - z12,205
+Candy Corn  753 - z1
+Carbon  117 - z1
+Carbon Fiber  57 - z1
+Ceramic  217 - z28
+Chocolate Bars  4 - z28
+Colored Dye  2 - z28
+Disposables  3 - z28
+Energy Bomb  38 - z28
+Fasteners  40 - z28
+Generic Heavy Cannon  3 - z28
+Generic Heavy Laser  1 - z28
+Generic Ion Beam  6 - z28
+Generic Light Turret  5 - z28
+Generic Missile Launcher  1 - z28
+Generic Ore Harvester (Doc)  6 - z11,847
+Generic Plasma Cannon  8 - z11,847
+Generic Pulse Laser  10 - z1,685
+Generic Railgun  9 - z1,685
+Generic Rocket Launcher  9 - z1,685
+Generic Salvage Collector  9 - z1,685
+Generic Torpedo Launcher  5 - z1,685
+Goldyte  202 - z165
+Gummy Bears  868 - z1
+Heavy Armor Bomb  26 - z1
+Heavy Combat Drone  28 - z178,553
+Heavy Energy Charge  24 - z59,181
+Heavy Salvage Drone  14 - z59,181
+Heavy Shield Bomb  39 - z59,181
+Heavy Shield Charge  30 - z52,881
+Hydraulic Assembly (Doc)  6 - z52,881
+Improved Explosive Armor (Doc)  6 - z52,881
+Improved Rocket Launcher (Doc)  10 - z113,400
+Improved Targeting System (Doc)  5 - z113,400
+Junk Part  45 - z113,400
+Large Defense Drone  8 - z113,400
+Large Mining Drone  20 - z131,075
+Large Salvage Drone  13 - z131,075
+Large Web Field  1 - z131,075
+Light Armor Bomb  36 - z131,075
+Light Shield Bomb  61 - z6,481
+Light Shield Recharger  2 - z6,481
+Liquid Coolant  197 - z24
+Lubricant  99 - z24
+Medium Armor Bomb  30 - z24
+Medium Shield Bomb  39 - z24
+Medium Web Field  38 - z24
+Metal Brackets  75 - z24
+Nuts And Bolts  20 - z24
+Oil  229 - z19
+Ornament  6 - z19
+Oxygen  63 - z19
+Premium Missile Launcher (Doc)  5 - z945,849
+Premium Salvage Collector (Doc)  7 - z945,849
+Protein Bar  4 - z945,849
+Prototype 20mm  45 - z945,849
+Prototype 60mm  10 - z945,849
+Prototype Heavy Cannon (Doc)  38 - z945,849
+Prototype Missile   1832 - z347
+Prototype Missile Launcher (Doc)  18 - z347
+Prototype Railgun (Doc)  43 - z347
+Prototype Torpedo   17 - z347
+Reinforced Rubber  33 - z347
+Small Life Support Pack  18 - z347
+Small LS Bomb  37 - z347
+Small Web Field  33 - z347
+Steelium  187 - z80
+Steelium Beam  99 - z80
+Steelium Beam (Doc)  8 - z80
+Steelium Pipes  52 - z80
+Thermal Controller  6 - z6,316
+Titan Defense Drone  15 - z6,316
+Titanyte  246 - z118
+Water  202 - z2
+Wrapped Box  9 - z2
+
+
+<Station University Skills>
+Passive Scanner Systems
+Projectile Maintenance
+Passive Scanner Focal Range
+Projectile Maintenance
+Ship Cargo Stacker
+University Discount
+Module Mechanic
+Miner Cycle Mechanics
+
+
+<Station Missions>
+[c:lime]COLLECT[/c]
+Collect a light shipment of <color='yellow'>Prometheums</color> and return to CoraVault in <color='cyan'>Lins</color>
+
+[c:lime]KILL RECOVER[/c]
+Kill and Rob <color='yellow'><i>Officer Pastres Veshas</i></color> in <color='cyan'>Jelumus</color> and return to Biomate University in <color='cyan'>Void Starcross</color> with <color='yellow'>344</color> of <color='yellow'>Carbon Fibers</color>
+
+[c:lime]COLLECT[/c]
+Gather a collection of <color='yellow'>37</color> <color='yellow'>Plastic Caps</color> and dock the light shipment at Quantex in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]TRANSPORT[/c]
+Transport <color='yellow'>82</color> units of <color='yellow'>Scrap Parts</color> from Biomart in <color='cyan'>Veloxi</color> to CoraVault in <color='cyan'>Lins</color>
+
+[c:lime]DIALOG[/c]
+Collect a small debt from <color='yellow'><i>Entertainer Ilewo Zaya</i></color> in <color='cyan'>Starfort Ramos</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]DIALOG[/c]
+Transfer payment to <color='yellow'><i>Engineer Buezo Ninesimo</i></color> in <color='cyan'>Arch of Mori</color> and return with signature to Biomate University in <color='cyan'>Void Starcross</color>
+
+
+
+<Station Ships>

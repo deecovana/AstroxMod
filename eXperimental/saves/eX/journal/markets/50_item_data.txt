@@ -3,3 +3,16 @@ NPC;-LOCAL;55;55;42.1875;Lammassu Financial;Void Starcross;2h 45m 12s ;9912.331
 NPC;-LOCAL;0;0;56.14411;Lammassu Financial;Void Starcross;2h 54m 49s ;10489.03
 NPC;+PRICE;179;0;33.34233;Nova Labs;Noah Fox;3h 8m 59s ;11339.6
 NPC;-LOCAL;385;0;42.1875;Valuestar Hub;Jelumus;3h 22m 36s ;12156.77
+NPC;-QTY;0;-225;23.00859;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;-LOCAL;362;0;42.1875;Valuestar Hub;Jelumus;6h 12m 38s ;22358.5
+NPC;+STOCK;1958;1958;68.51226;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;2641;2245;37.10251;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;1841;1740;28.95845;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;76;76;42.1875;Lammassu Financial;Void Starcross;7h 47m 30s ;28050.12
+NPC;-LOCAL;0;0;62.31553;Lammassu Financial;Void Starcross;8h 4m 11s ;29051.38
+NPC;+LOCAL;77;8;31.63321;Horizons;Gate of Alpharis;8h 24m 56s ;30296.74
+NPC;-LOCAL;0;0;93.75;Valuestar Hub;Jelumus;9h 17m 2s ;33422.23
+NPC;+STOCK;2011;2011;118.4425;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;-LOCAL;0;0;93.75;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.63
+NPC;+LOCAL;2500;6637;12.1875;Astrox Security Patrol;Felishar;12h 33m 41s ;45221.6
+NPC;-LOCAL;51;51;42.1875;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15

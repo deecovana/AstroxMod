@@ -2,3 +2,22 @@ NPC;-LOCAL;44;0;58.365;Starbase Corporate Center;Void Starcross;1h 37m 31s ;5851
 PLAYER;+QTY;995;45;52.1394;Biomate University;Void Starcross;2h 37m 38s ;9458.82
 NPC;-LOCAL;37;37;58.81314;Starbase Corporate Center;Void Starcross;2h 47m 38s ;10058.33
 PLAYER;+QTY;0;82;0;Lacuna Bandits;Ballast Crow;3h 56m 45s ;14205.44
+NPC;-PRICE;754;0;46.01988;KIN AI;Xenilo Valley;4h 42m 34s ;16954.71
+NPC;-LOCAL;24;24;58.365;Starbase Corporate Center;Void Starcross;5h 19m 46s ;19186.66
+NPC;-LOCAL;0;0;70.50208;Starbase Corporate Center;Void Starcross;5h 39m 51s ;20391.94
+NPC;-LOCAL;0;0;84.43172;Starbase Corporate Center;Void Starcross;5h 47m 39s ;20859.19
+NPC;-QTY;0;-859;42.72643;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+PLAYER;+QTY;1013;217;61.18598;Valuestar Hub;Jelumus;6h 12m 46s ;22366.74
+NPC;-LOCAL;0;0;129.7;Starbase Corporate Center;Void Starcross;6h 24m 3s ;23043.55
+PLAYER;+QTY;48;48;129.7;Starbase Corporate Center;Void Starcross;6h 24m 52s ;23092.24
+NPC;-QTY;0;-386;38.32067;Transporteers;Hunu;6h 57m 24s ;25044.14
+NPC;-LOCAL;0;0;129.7;Gemini Mining;Jala;7h 15m 35s ;26135.61
+NPC;+STOCK;5083;4583;58.5288;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;4802;4802;41.31821;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;4824;4776;164.0749;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;4726;4373;58.59738;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+PLAYER;+QTY;0;14;0;Rendo Labs;Entropy;8h 19m 58s ;29998.83
+PLAYER;+QTY;1198;203;61.78746;Biomate University;Void Starcross;8h 27m 26s ;30446.37
+NPC;+PRICE;1013;0;60.8832;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;-LOCAL;9;9;59.8338;Transporteers Hub;Ambervellis Drea;11h 21m 7s ;40867.41
+NPC;-LOCAL;7;0;59.80129;Transporteers Hub;Ambervellis Drea;11h 25m 46s ;41146.25

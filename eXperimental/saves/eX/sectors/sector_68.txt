@@ -4,7 +4,7 @@ SECTOR;name;Kriox
 SECTOR;level;5.1
 SECTOR;faction;Trade
 SECTOR;filename;sector_68.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;40
@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;null
+SECTOR;event_type;resources#32886#22#24
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;1668;0;907
@@ -63,8 +63,8 @@ STARLIGHT;color_5;0.00;0.48;0.00;1.00
 
 // STATION;Sector filename;X position;Y position;Z position
 
-// STRUCTURE;Structure filename;X position;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;637;99;3936
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;637.00;99.00;3936.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;5;50;100;750;3000;3615;0;5215
@@ -72,8 +72,8 @@ CLUSTER;5;50;100;750;3000;3615;0;5215
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_62.txt;2;-4590;753;-3342;0;Trade;0.9
-WARPGATE;2;sector_69.txt;1;5425;-89;-3643;0;Trade;-0.4
+WARPGATE;1;sector_62.txt;2;-4590;753;-3342;0;Trade;0.9;prescan
+WARPGATE;2;sector_69.txt;1;5425;-89;-3643;0;Trade;-0.4;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;24;0;0;0;0;0;90;prop_rocks;;;;

@@ -1,2 +1,11 @@
 PLAYER;-QTY;23;1;8253.438;Biomate University;Void Starcross;0h 1m 11s ;71.44813
 NPC;+STOCK;7;3;11285.89;Tella's;Bitcola;3h 44m 31s ;13471.02
+NPC;+STOCK;13;4;10620.79;Acrondia Hub;Temple Gates;4h 47m 59s ;17279.98
+NPC;-QTY;29;-3;14131.14;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
+NPC;+STOCK;7;4;7091.758;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;28;3;12235.61;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;33;4;13721.63;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;8;3;7287.805;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;35;4;15821.28;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+PLAYER;+QTY;29;1;12196.79;StarGypsy Warehouse;Void Starcross;8h 36m 8s ;30968.81
+NPC;+PRICE;9;0;11500.24;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46

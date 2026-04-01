@@ -1,2 +1,4 @@
 PLAYER;-QTY;6;1;4330;Transporteers Hub;Ambervellis Drea;3h 33m 44s ;12824.52
 NPC;+STOCK;18;9;5014.564;CoraVault Hub;Pindoris;3h 37m 38s ;13058.81
+NPC;+STOCK;32;9;3049.803;Temple of the Void;Valley of Truths;4h 34m 31s ;16471.27
+NPC;+STOCK;69;11;2151.482;Biomate University;Void Starcross;7h 47m 19s ;28039.67

@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;null
+SECTOR;event_type;resources#45604#16#23
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;-1259.731;183.5822;631.5853

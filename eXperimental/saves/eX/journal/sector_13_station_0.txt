@@ -1,0 +1,229 @@
+[s:30][c:yellow]Gemini Mining[/c][/s]
+Mining Facility
+Biraemi Xoqi
+Labor
+[c:lime]Dock fee 100[/c]
+Timestamp: 26157.01
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Disposables
+Containment Unit
+Waste Processor
+Waste Burner
+Bio Converter
+Bio Disposables
+Containment Processor
+Advanced Waste Unit
+Biowaste Processor
+Fusion Biomax
+Generic Ore Harvester
+Basic Ore Harvester
+Advanced Ore Harvester
+Gradeon Extractor
+Improved Ore Harvester
+Premium Ore Harvester
+Dynex Extractor
+Prototype Ore Harvester
+Torim Extractor
+Belasite Extractor
+Zai Extractor
+Quazor Extractor
+Xenox Extractor
+Lokken Extractor
+Adamyte Extractor
+Plasite Extractor
+[c:orange]DEMAND[/c]
+Adamyte Ore
+Gradeon Ore
+Quazor Ore
+Lokken Ore
+Torim Ore
+Plasite Ore
+Dynex Ore
+Belasite Ore
+Xenox Ore
+Zai Ore
+Media Recordings
+Musical Instruments
+Entertainment Electronics
+Sporting Equipment
+Gaming Devices
+Childrens Toys
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Ship Garage
+University
+Ship Hangar
+Fabricator
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Extractor  27 - z966,223
+Advanced 20mm  9 - z45
+Advanced Impact Armor (Doc)  19 - z951,574
+Advanced Ore Harvester  21 - z161,721
+Advanced Regulator  8 - z14,614
+Advanced Waste Unit  25 - z289,570
+AI Interface Drive (Doc)  7 - z7,871
+Anti-Freeze  7 - z29
+Assorted Gaskets  52 - z12
+Assorted Springs  155 - z42
+Ball Bearings  24 - z48
+Basic 20mm  15 - z19
+Basic Armor Exterior  15 - z34,589
+Basic Drone Command Bay (Doc)  17 - z611,030
+Basic Energy Armor  19 - z18,324
+Basic Energy Capacitor  4 - z30,757
+Basic Energy Generator  5 - z32,563
+Basic Engine Core  6 - z15,246
+Basic Explosive Armor  5 - z16,324
+Basic Filter  2 - z6,391
+Basic Heavy Cannon  8 - z7,492
+Basic Heavy Laser  17 - z5,952
+Basic Impact Armor  15 - z29,324
+Basic Ion Beam  9 - z8,845
+Basic Light Turret  15 - z8,631
+Basic Missile Launcher  6 - z9,725
+Basic Ore Harvester  11 - z10,682
+Basic Railgun (Doc)  32 - z29,525
+Basic Rocket Launcher  18 - z7,861
+Basic Salvage Collector  6 - z13,342
+Basic Shield Booster  1 - z25,574
+Basic Shield Generator  9 - z27,620
+Basic Targeting System  3 - z17,391
+Basic Thruster  1 - z24,423
+Basic Torpedo   75 - z216
+Belasite Extractor  34 - z2,902,674
+Belasite Ore  4 - z333
+Bio Converter  36 - z56,000
+Bio Disposables  18 - z101,447
+Biowaste Processor  5 - z211,188
+Candy Cane  10 - z1
+Candy Corn  2 - z1
+Carbon  203 - z2
+Carbon Fiber  106 - z27
+Childrens Toys  10 - z461
+Chocolate Bars  18 - z1
+Cleaning Chemicals  4 - z107
+Colored Dye  1 - z25
+Containment Processor  5 - z68,959
+Containment Unit  1 - z13,266
+Disposables  3 - z7,441
+Dynex Extractor  36 - z2,206,019
+ECM Module Disruptor (Doc)  2 - z1,694,480
+Fasteners  160 - z11
+Fusion Biomax  26 - z832,929
+Generic Heavy Cannon  13 - z1,327
+Generic Heavy Laser  8 - z1,899
+Generic Missile Launcher  8 - z2,053
+Generic Ore Harvester  12 - z4,892
+Generic Pulse Laser  3 - z1,826
+Generic Rocket Launcher (Doc)  6 - z11,030
+Generic Salvage Collector  6 - z2,572
+Generic Torpedo Launcher  1 - z2,191
+Gradeon Extractor  22 - z1,326,781
+Gradeon Ore  681 - z37
+Gummy Bears  14 - z1
+Heavy Armor Repair  14 - z54,934
+Heavy Combat Drone  28 - z158,891
+Heavy Shield Charge  18 - z75,788
+Hydraulic Assembly (Doc)  15 - z37,924
+Hydrogen  215 - z3
+Improved Cargo Expansion  2 - z35,149
+Improved Defense Drone  31 - z47,384
+Improved Drone Command Bay  12 - z84,238
+Improved Energy Armor (Doc)  16 - z613,787
+Improved Energy Capacitor  2 - z63,075
+Improved Explosive Armor (Doc)  11 - z571,787
+Improved Filter  9 - z9,346
+Improved Mass Reduction  16 - z45,677
+Improved Ore Harvester  35 - z39,836
+Improved Rocket Launcher (Doc)  19 - z124,090
+Improved Scan Booster (Doc)  17 - z416,318
+Improved Shield Booster  19 - z40,649
+Improved Shield Generator  11 - z71,441
+Improved Targeting System  12 - z34,781
+Improved Thruster  7 - z36,245
+Improved Turn Thrust  19 - z39,319
+Interior Lighting  4 - z208
+Junk Part  54 - z22
+Kitchen Appliances  1 - z976
+Large Salvage Drone  39 - z90,298
+Light Energy Charge  15 - z5,178
+Light Shield Recharger  13 - z31,574
+Liquid Coolant  12 - z28
+Lokken Extractor  12 - z652,034
+Magnetic Quartz  75 - z3
+Medium Armor Repair  39 - z18,311
+Medium Combat Drone  37 - z13,695
+Medium Shield Charge  39 - z26,313
+Metal Brackets  128 - z17
+Metal Valve  41 - z25
+Misc Hardware (Doc)  15 - z7,727
+Noodles  3 - z12,164
+Office Furniture  17 - z935
+Ornament  5 - z5
+Oxygen  190 - z3
+Plasite Extractor  21 - z2,270,264
+Premium Ore Harvester  23 - z560,020
+Premium Turn Thrust (Doc)  10 - z1,848,918
+Protein Bar  7 - z8,351
+Prototype 60mm  35 - z171
+Prototype Missile Launcher (Doc)  62 - z7,296,737
+Prototype Ore Harvester  27 - z1,918,053
+Prototype Rocket Launcher (Doc)  78 - z6,318,268
+Prototype Torpedo   60 - z677
+Quazor Extractor  35 - z1,459,673
+Radar System (Doc)  18 - z50,200
+Rubber Tubing  108 - z42
+Salt Crystal  27 - z3
+Scrap Part  162 - z38
+Sensor Array (Doc)  7 - z26,640
+Small Combat Drone  11 - z5,538
+Small Defense Drone  21 - z4,218
+Small Life Support Pack  6 - z3,515
+Small Mining Drone  24 - z5,838
+Small Tractor Drone  3 - z15,795
+Spotlight  3 - z9,166
+Steelium Beam  102 - z9
+Steelium Pipes  51 - z22
+Thermal Controller  1 - z6,461
+Thermal Insulation  114 - z37
+Titan Combat Drone  35 - z188,245
+Titan Mining Drone  16 - z175,745
+Torim Extractor  31 - z1,974,143
+Waste Burner  35 - z29,749
+Waste Processor  31 - z17,000
+Water  276 - z2
+Wrapped Box  10 - z14
+Xenox Extractor  22 - z3,299,838
+Zai Extractor  34 - z3,618,919
+
+
+<Station University Skills>
+Beam Cycle Mechanics
+Passive Scanner Focal Range
+Launcher Focal Range
+Fabrication Accountant
+Armor Mechanic
+Launcher Damage Calibration
+Storage Accountant
+Merc Negotiations
+University Academic
+
+
+<Station Missions>
+
+
+<Station Ships>
+PCA-1 Pirate Destroyer / Destroyer    (Battle)
+TCA-1 Mule / Utility    (Support)
+SE-1 Prophet / Frigate    (Assault)

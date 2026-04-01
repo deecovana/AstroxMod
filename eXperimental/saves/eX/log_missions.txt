@@ -1,4 +1,46 @@
 //;LOG DATA FILE (Astrox Imperium)
+EXPIRED;Scan;Recon ...;-32,157;-58554.3543701172;Star Shepards Hub;Temple Gates;13h 8m 43s 
+EXPIRED;Dialog;Detain ;-32,157;-26297.3543701172;Undocked;Ballast Crow;13h 5m 24s 
+ACCEPTED;Scan;Recon Czar Nobue Jidqufae...;-0;278590.009887695;Lammassu Financial;Void Starcross;12h 20m 21s 
+ACCEPTED;Dialog;Detain Commander Veldee K...;-0;278590.009887695;Lammassu Financial;Void Starcross;12h 18m 47s 
+COMPLETED;Fabricate;Manufacture ;91,017;251736.140625;Lammassu Financial;Void Starcross;12h 9m 9s 
+COMPLETED;Recover;Reclaim a medium shipment...;63,869;158303.6015625;Lammassu Financial;Void Starcross;12h 8m 22s 
+ACCEPTED;Fabricate;Manufacture 6 Large Proce...;-2451;94070.953125;Biomate University;Void Starcross;12h 0m 10s 
+ABORTED;Kill;Execute ;-27,564;105666.953125;Undocked;Gemini Shoal;11h 50m 27s 
+ACCEPTED;Recover;Reclaim a medium shipment...;-388.4375;134918.960895658;CoraVault;Lins;11h 19m 38s 
+COMPLETED;Scan;Recon ...;85,426;135407.398395658;Biomart;Veloxi;11h 4m 15s 
+ACCEPTED;Kill;Execute Lieutenant Bueno ...;-0;52602.9296456575;Daemon Ammunitions;Starfort Ramos;10h 55m 32s 
+COMPLETED;Kill;Execute ;35,945;139935.833454251;Daemon Ammunitions;Starfort Ramos;10h 46m 38s 
+ACCEPTED;Scan;Recon Czar Hinqa Qoqaya i...;-0;104090.981891751;Biomate University;Void Starcross;10h 43m 9s 
+COMPLETED;Refine;Refine 36...;31,251;102268.731769681;ValueStar;Hunu;10h 23m 38s 
+ACCEPTED;Refine;Refine 36 Junk Parts at V...;-189;71137.1512451172;Lammassu Hub;Numbu;10h 5m 20s 
+ACCEPTED;Kill;Execute Professor Bewe Ba...;-0;71326.1512451172;Lammassu Hub;Numbu;10h 4m 56s 
+COMPLETED;Kill Recover;Hijack and kill ;68,947;77372.8502922058;Biomart;Veloxi;9h 47m 18s 
+ACCEPTED;Kill Recover;Hijack and kill Bishop Wh...;-8054.237;1613.22480392456;Astrox Security Patrol;Felishar;9h 8m 37s 
+COMPLETED;Recover;Reclaim a medium shipment...;73,591;123503.121002197;Lammassu Financial;Void Starcross;8h 3m 35s 
+ACCEPTED;Recover;Reclaim a medium shipment...;-20291.46;29249.3559570313;Lammassu Financial;Void Starcross;7h 49m 59s 
+COMPLETED;Harvest;Excavate special ;24,966;1320726.9797821;Oro Omniplex Center;Merces Academy;7h 18m 8s 
+COMPLETED;Fabricate;Manufacture ;28,681;1260835.1438446;Biomate University;Void Starcross;7h 2m 0s 
+ACCEPTED;Fabricate;Manufacture 9 Motion Sens...;-4043.25;1228160.99345398;Proctors Center;Void Starcross;6h 59m 36s 
+ABORTED;Fabricate;Dock at the StarGypsy War...;-10,500;1232204.24345398;Proctors Center;Void Starcross;6h 59m 16s 
+ACCEPTED;Harvest;Excavate special Special ...;-120.75;1242704.24345398;Proctors Center;Void Starcross;6h 58m 17s 
+COMPLETED;Fabricate;Dock at the StarShepards ...;14,018;1213937.08110046;StarShepards Headquarters;Void Starcross;6h 47m 0s 
+ACCEPTED;Fabricate;Dock at the StarShepards ...;-15538;1184456.23149109;Valuestar Hub;Jelumus;6h 38m 33s 
+COMPLETED;Delivery;Dock at Valuestar Hub in ...;26,590;1199994.23149109;Valuestar Hub;Jelumus;6h 37m 45s 
+ACCEPTED;Fabricate;Dock at the StarGypsy War...;-32230;1148175.83500671;Biomate University;Void Starcross;6h 32m 45s 
+ACCEPTED;Delivery;Dock at Valuestar Hub in ...;-25328.24;1180405.83500671;Biomate University;Void Starcross;6h 32m 21s 
+COMPLETED;Harvest;Mine special ;10,931;1185403.07714844;Starbase Corporate Center;Void Starcross;6h 23m 48s 
+EXPIRED;Harvest;Harvest special ;-6,750;1174398.97753906;Undocked;Void Starcross;6h 21m 58s 
+ACCEPTED;Harvest;Mine special Special Adam...;-98;201573.023535132;Starbase Corporate Center;Void Starcross;5h 32m 50s 
+ACCEPTED;Harvest;Harvest special Special T...;-531.77;201671.023535132;Starbase Corporate Center;Void Starcross;5h 32m 20s 
+COMPLETED;Refine;Refine 2;22,651;1158909.75761735;Starbase Corporate Center;Void Starcross;5h 19m 5s 
+COMPLETED;Refine;Refine a light container ...;16,365;1126477.36002207;StarShepards Headquarters;Void Starcross;5h 15m 46s 
+ACCEPTED;Refine;Refine a light container ...;-380.1675;1101162.63137817;Transporteers;Hunu;5h 9m 32s 
+ACCEPTED;Refine;Refine 2 Computer Compone...;-732.455;1101542.79888916;Transporteers;Hunu;5h 9m 18s 
+COMPLETED;Delivery;Light delivery of ;36,439;1102275.25390625;Transporteers;Hunu;5h 7m 1s 
+ABORTED;Collect;Collect a light shipment ...;-8,250;1018773.75390625;Oro Omniplex Center;Merces Academy;5h 1m 26s 
+ACCEPTED;Delivery;Light delivery of Advance...;-47162.5;1027023.75390625;Oro Omniplex Center;Merces Academy;4h 59m 36s 
+EXPIRED;Collect;Return to Lacuna Bandits ...;-25,266;1072910.875;Undocked;Temple Gates;4h 51m 28s 
 ACCEPTED;Collect;Collect a light shipment ...;-0;102271.358307362;Tella's;Bitcola;3h 46m 11s 
 ACCEPTED;Collect;Return to Lacuna Bandits ...;-0;229351.158307552;Biomate University;Void Starcross;2h 41m 25s 
 COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;-6,527;84524.1164822578;Biomate University;Void Starcross;2h 1m 45s 

@@ -1,5 +1,10 @@
 # "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
 
+## 0402 Continue Ex
+- Looks great but so hard
+- Set Temple standing 0 to open market
+- Target 2.5m to buy Frig1 SE1 or PF1
+
 ## 0331 Try eXperimental
 - start eX
 - eX to Temple from -24 to 0
