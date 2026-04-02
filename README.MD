@@ -1,6 +1,10 @@
 # "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
 
-## 0402 Continue Ex
+## 0402 Continue ExPansion
+- Add 1m
+- Try Commmand
+
+## 0401 Continue Ex
 - Looks great but so hard
 - Set Temple standing 0 to open market
 - Target 2.5m to buy Frig1 SE1 or PF1
