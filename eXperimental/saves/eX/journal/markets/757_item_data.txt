@@ -7,3 +7,7 @@ NPC;+LOCAL;15;5;14625;Starbase Corporate Center;Void Starcross;6h 24m 3s ;23043.
 NPC;+STOCK;69;10;33891.96;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;94;12;49483.96;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;115;11;48884.71;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+LOCAL;15;69;14625;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;+LOCAL;15;3;14625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;+LOCAL;10;1;29868.97;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
+NPC;BAL;56;-13;37147.27;Biomate University;Void Starcross;16h 10m 6s ;58206.41

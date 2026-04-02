@@ -3,3 +3,5 @@ NPC;+STOCK;197;114;24.05197;Star Shepards Hub;Temple Gates;4h 47m 59s ;17279.98
 NPC;+STOCK;196;129;25.16679;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;793;122;30.62137;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;794;130;14.84121;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-QTY;116;-80;25.10356;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-QTY;0;-95;26.05899;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98

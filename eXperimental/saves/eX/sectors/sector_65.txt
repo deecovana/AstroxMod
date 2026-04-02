@@ -77,6 +77,7 @@ RESOURCE;1;-4495.0;-166.0;1580.0;200;0
 WARPGATE;1;sector_64.txt;2;4159;187;3738;0;Trade;0;prescan
 WARPGATE;2;sector_66.txt;1;-3278;-897;-2869;0;Trade;0;prescan
 WARPGATE;3;sector_74.txt;1;3699;-30;-4115;0;Trade;0;prescan
+WARPGATE;4;generate;1;771;1044;-1338;3;wormhole;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;45;0;0;0;0;0;0;0,0,0.4,0.8;;;;

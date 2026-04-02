@@ -20,3 +20,10 @@ NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;8h 48m 21s ;31701.67
 NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;10h 37m 25s ;38245.78
 NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;11h 57m 6s ;43026.04
 NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;12h 47m 45s ;46065.6
+NPC;+STOCK;8;3;70519.53;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;13h 56m 37s ;50197.77
+NPC;+STOCK;31;4;273788.3;Tella's;Bitcola;15h 8m 58s ;54538.96
+NPC;+QTY;122;2;282193.8;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;15h 31m 48s ;55908.38
+NPC;BAL;5;0;81274.88;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;16h 11m 11s ;58271.77

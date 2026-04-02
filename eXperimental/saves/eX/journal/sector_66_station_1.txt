@@ -1,0 +1,228 @@
+[s:30][c:yellow]Xellon[/c][/s]
+Market Center
+Dornoa Xaqi
+Trade
+[c:lime]Dock fee 100[/c]
+Timestamp: 57196.88
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Candy Cane
+Ornament
+Wrapped Box
+Medium Shield Charge
+Heavy Shield Charge
+Medium Armor Repair
+Heavy Armor Repair
+Medium Energy Charge
+Heavy Energy Charge
+Medium Life Support Pack
+Large Life Support Pack
+Light Shield Charge
+Light Armor Repair
+Light Energy Charge
+Small Life Support Pack
+[c:orange]DEMAND[/c]
+Basic 20mm
+Advanced 20mm
+Prototype 20mm
+Basic 60mm
+Advanced 60mm
+Prototype 60mm
+Basic Missile 
+Advanced Missile
+Prototype Missile 
+Basic Torpedo 
+Advanced Torpedo 
+Prototype Torpedo 
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Need (1) Items 
+ (15) x Basic Ore Harvester
+Fulfill order for [c:lime]17,535 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (223) x Advanced 60mm
+ (199) x Basic 20mm
+Fulfill order for [c:lime]15,667 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (392) x Advanced 60mm
+ (366) x Advanced Torpedo 
+Fulfill order for [c:lime]56,102 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  192 - z7
+Advanced 60mm (Doc)  6 - z39,743
+Advanced Missile  62 - z350
+Advanced Regulator  2 - z15,004
+Advanced Rocket Launcher (Doc)  58 - z246,467
+Advanced Torpedo (Doc)  19 - z41,614
+Afterburner Assembly (Doc)  6 - z34,531
+Aluminium Rivets  169 - z45
+Anti-Freeze  10 - z48
+Artificial Gravity Generator (Doc)  12 - z54,307
+Assorted Gaskets  107 - z19
+Assorted Springs  192 - z45
+Ball Bearings  124 - z47
+Basic Afterburner  7 - z20,897
+Basic Charged Cell (Doc)  9 - z9,523
+Basic ECM Resistance Field (Doc)  18 - z3,307,465
+Basic Energy Capacitor  13 - z17,286
+Basic Energy Generator  11 - z23,376
+Basic Filter  4 - z6,474
+Basic Impact Armor  6 - z25,371
+Basic Ion Beam  1 - z7,517
+Basic Light Turret  12 - z8,154
+Basic Mass Reduction  16 - z13,452
+Basic Missile Launcher  17 - z9,739
+Basic Missile Launcher (Doc)  86 - z44,847
+Basic Pulse Laser  13 - z6,684
+Basic Railgun  11 - z4,997
+Basic Rocket Launcher  18 - z8,854
+Basic Salvage Collector  16 - z13,088
+Basic Scan Emitter  7 - z18,267
+Basic Targeting System  17 - z10,452
+Basic Torpedo Launcher  8 - z9,701
+Basic Torpedo Launcher (Doc)  17 - z50,604
+Basic Turn Thrust  11 - z12,297
+Basic Warp Drive Fuel (Doc)  14 - z14,318
+Beam Defense System (Doc)  16 - z1,879,760
+Bomber Drone  29 - z14,323
+Candy Cane  7 - z1
+Candy Corn  19 - z1
+Carbon  40 - z1
+Carbon Fiber  162 - z29
+Chocolate Bars  4 - z1
+Cleaning Chemicals  18 - z82
+Colored Dye  16 - z29
+Containment Unit  2 - z14,514
+Disposables  3 - z4,234
+Generic Construction Platform  23 - z4,311,375
+Generic Ion Beam  13 - z1,356
+Generic Missile Launcher  11 - z1,507
+Generic Ore Harvester  5 - z3,419
+Generic Railgun  18 - z2,508
+Generic Railgun (Doc)  97 - z6,778
+Generic Salvage Collector  4 - z3,179
+Generic Torpedo Launcher  2 - z2,532
+Generic Torpedo Launcher (Doc)  83 - z6,898
+Gradeon Ore  107 - z14
+Gummy Bears  11 - z1
+Heavy Armor Bomb  19 - z51,423
+Heavy Armor Repair  46 - z56,891
+Heavy Energy Charge  52 - z38,477
+Heavy Salvage Drone  19 - z121,250
+Heavy Shield Charge  47 - z45,447
+Hydraulic Assembly (Doc)  2 - z33,259
+Hydrogen  123 - z2
+Improved Defense Drone  9 - z48,368
+Improved Drone Command Bay  7 - z103,588
+Improved Engine Core  3 - z50,813
+Improved Filter  9 - z14,269
+Improved Impact Armor  8 - z51,743
+Improved Impact Armor (Doc)  14 - z488,910
+Improved Mass Reduction  3 - z58,643
+Improved Missile Launcher (Doc)  47 - z107,106
+Improved Plasma Cannon (Doc)  12 - z418,755
+Improved Scan Booster  5 - z23,744
+Improved Targeting System  4 - z41,305
+Improved Thruster  16 - z30,444
+Interior Lighting  18 - z162
+Ionization Plate (Doc)  19 - z24,698
+Junk Part  45 - z16
+Kitchen Appliances  13 - z532
+Large Life Support Pack  44 - z34,941
+Large Pump (Doc)  6 - z5,369
+Large Web Field  23 - z58,669
+Light Armor Repair  44 - z6,611
+Light Energy Charge  46 - z4,601
+Light Shield Bomb  18 - z7,334
+Light Shield Charge  54 - z5,087
+Liquid Coolant  7 - z20
+Lubricant  3 - z15
+Magnetic Quartz  237 - z2
+Mechanical Belts  46 - z52
+Medium Armor Bomb  13 - z22,541
+Medium Armor Repair  39 - z17,578
+Medium Energy Charge  25 - z12,650
+Medium Life Support Pack  41 - z12,490
+Medium Repair Drone  3 - z11,773
+Medium Salvage Drone  38 - z14,773
+Medium Shield Charge  5 - z15,852
+Noodles  5 - z14,269
+Office Furniture  18 - z708
+Ornament  6 - z7
+Oxygen  244 - z1
+Plasite Extractor (Doc)  1 - z7,993,636
+Plastic Caps  16 - z50
+Premium Missile Launcher (Doc)  21 - z2,038,352
+Premium Railgun (Doc)  60 - z1,971,551
+Premium Thruster (Doc)  18 - z2,489,458
+Protein Bar  9 - z6,194
+Prototype 20mm  43 - z167
+Prototype 60mm  79 - z262
+Prototype Heavy Cannon (Doc)  62 - z3,898,883
+Prototype Missile   91 - z787
+Prototype Railgun (Doc)  15 - z4,757,537
+Reinforced Rubber  173 - z10
+Salt Crystal  26 - z3
+Scrap Part  39 - z31
+Small Life Support Pack  10 - z3,024
+Small Storage Tank  86 - z54
+Spotlight  17 - z10,551
+Steelium Beam  194 - z13
+Thermal Controller  9 - z7,174
+Thermal Insulation  28 - z34
+Thermal Systems Package (Doc)  3 - z52,670
+Titan Defense Drone  36 - z148,713
+Water  214 - z1
+Wrapped Box  18 - z8
+
+
+<Station University Skills>
+Salvager Focal Range
+Laser Maintenance
+Salvager Harvest Calibration
+Storage Accountant
+Ship Energy Regeneration
+Beam Damage Calibration
+Salvager Focal Range
+Launcher Maintenance
+Ship Armor Management
+
+
+<Station Missions>
+[c:lime]COLLECT[/c]
+Return to Transporteers in <color='cyan'>Hunu</color> with a light collection of <color='yellow'>49</color> <color='yellow'>Thermal Sensors</color>
+
+[c:lime]COLLECT[/c]
+Gather a collection of <color='yellow'>3</color> <color='yellow'>Advanced Targeting Systems</color> and dock the light shipment at Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]REFINE[/c]
+Refine a light container of <color='yellow'>82</color> <color='yellow'>Adamyte Ores</color> at the Communications Hub station in <color='cyan'>Ele</color>
+
+[c:lime]KILL[/c]
+Execute <color='yellow'><i>Miner Ronsad Lockipoe</i></color> in <color='cyan'>Enoch Estates</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+
+
+<Station Ships>
+ECA-1 Support Cruiser / Cruiser    (Support)
+PF-1 Assault Frigate / Frigate    (Assault)
+SF-1 Redeemer / Frigate    (Support)
+RDE-1 Destroyer / Destroyer    (Assault)
+TC-1 Kraken / Cruiser    (Excavation)

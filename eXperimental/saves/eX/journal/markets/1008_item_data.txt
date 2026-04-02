@@ -4,3 +4,8 @@ NPC;+STOCK;52;8;8204.366;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;45;11;9256.414;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;36;8;4406.418;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 PLAYER;-QTY;29;3;7140.438;Astrox Security Patrol;Felishar;9h 4m 51s ;32691.85
+PLAYER;+QTY;0;3;0;Biomate University;Void Starcross;13h 58m 56s ;50336.13
+PLAYER;+QTY;47;3;8295.044;Lammassu Financial;Void Starcross;14h 14m 16s ;51256.58
+NPC;+STOCK;10;9;6377.084;Tella's;Bitcola;15h 8m 58s ;54538.96
+NPC;-QTY;9;-8;5282.288;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;54;9;9231.425;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

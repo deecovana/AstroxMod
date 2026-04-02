@@ -23,3 +23,14 @@ NPC;-LOCAL;15;15;1.2375;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
 NPC;+STOCK;1069;997;0.9912556;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;-LOCAL;0;0;2.75;ValueStar;Hunu;10h 24m 2s ;37442.54
 NPC;+PRICE;1;0;1.214331;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
+NPC;+STOCK;1738;939;0.8174799;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;48;48;1.2375;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
+NPC;-LOCAL;10;10;1.2375;StarShepards Headquarters;Void Starcross;14h 31m 59s ;52319.39
+NPC;-PRICE;25;0;0.7383411;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;-QTY;0;-48;1.573842;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;17;0;1.2375;PharmaLife;Carioullis;15h 22m 21s ;55341.64
+NPC;-LOCAL;35;0;1.2375;Imperium Republica ;Gate of Alpharis;15h 25m 53s ;55553.39
+NPC;+QTY;577;562;1.179681;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;775;765;1.565816;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;799;0;0.9216612;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;885;869;0.8816791;CoraVault;Lins;16h 37m 57s ;59877.96

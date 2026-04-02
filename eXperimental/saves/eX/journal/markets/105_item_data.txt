@@ -15,3 +15,10 @@ NPC;+STOCK;1434;217;6.611808;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;866;0;6.615896;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;+STOCK;1100;234;6.493351;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;+LOCAL;250;1744;2.5155;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
+NPC;-LOCAL;0;0;10.4916;Star Shepards Hub;Temple Gates;13h 9m 45s ;47385.3
+NPC;-LOCAL;0;0;11.69794;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;-LOCAL;0;0;19.35;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
+NPC;-LOCAL;0;0;12.42739;Star Shepards Hub;Temple Gates;13h 44m 53s ;49493.48
+NPC;+STOCK;1064;246;3.885575;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;408;0;8.7075;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
+NPC;BAL;679;-139;4.195277;Biomate University;Void Starcross;16h 10m 6s ;58206.41

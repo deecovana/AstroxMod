@@ -15,3 +15,16 @@ NPC;-LOCAL;79;79;128.7329;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.6
 NPC;+LOCAL;2500;10028;37.02075;Astrox Security Patrol;Felishar;12h 33m 41s ;45221.6
 NPC;-LOCAL;70;70;128.1487;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
 PLAYER;-QTY;31;133;122.9694;Biomate University;Void Starcross;12h 52m 58s ;46378.79
+PLAYER;-QTY;0;79;80.23607;OmniTrust;Ponze;13h 20m 15s ;48015.82
+PLAYER;-QTY;0;45;145.9849;Star Shepards Hub;Temple Gates;13h 30m 24s ;48624.18
+NPC;+STOCK;2476;2445;122.8273;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+PLAYER;-QTY;0;31;124.4609;Biomate University;Void Starcross;13h 58m 25s ;50305.57
+NPC;-LOCAL;53;53;128.1487;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;-LOCAL;0;0;239.3584;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;-LOCAL;34;34;128.1487;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+PLAYER;-QTY;126;222;95.19209;Transporteers;Hunu;14h 57m 47s ;53867.13
+PLAYER;-QTY;0;62;143.0197;Tella's;Bitcola;15h 10m 17s ;54617.35
+NPC;-QTY;1338;-1344;132.661;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;43;0;136.1225;Xellon;Ele;15h 52m 50s ;57170.69
+NPC;+QTY;1325;1325;146.8756;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;BAL;1963;1963;122.4999;Biomate University;Void Starcross;16h 10m 6s ;58206.41

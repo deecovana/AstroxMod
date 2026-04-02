@@ -1,3 +1,9 @@
 NPC;+STOCK;18;9;27951.45;Temple of the Void;Valley of Truths;4h 34m 31s ;16471.27
 NPC;-QTY;3;-11;18956.88;Mazu Starship;Volox;5h 48m 34s ;20914.43
 NPC;+PRICE;54;0;23638.58;Astrox Security Patrol;Kilotorish;11h 25m 38s ;41138.85
+NPC;+STOCK;104;10;27007.4;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+PLAYER;-QTY;90;4;27749.31;Biomate University;Void Starcross;13h 57m 50s ;50270.83
+PLAYER;-QTY;86;4;27994.31;Biomate University;Void Starcross;13h 58m 5s ;50285.64
+NPC;-PRICE;11;0;20060.55;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;+QTY;18;7;20140.99;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;BAL;78;-8;26685.59;Biomate University;Void Starcross;16h 10m 6s ;58206.41

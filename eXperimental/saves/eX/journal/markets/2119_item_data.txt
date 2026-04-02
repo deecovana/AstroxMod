@@ -6,3 +6,8 @@ NPC;+STOCK;439;2;29251.36;StarShepards Headquarters;Void Starcross;7h 47m 19s ;2
 NPC;+STOCK;158;2;43318.27;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;325;2;45343.4;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;1;0;29532.97;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
+NPC;+STOCK;265;2;31214.79;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-QTY;124;-1;28161.44;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;440;1;29007.13;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;41;2;43729;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;-PRICE;35;0;23891.52;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96

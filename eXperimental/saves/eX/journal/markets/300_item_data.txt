@@ -10,3 +10,10 @@ NPC;+STOCK;981;932;120.4077;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;14;0;111.9938;Rendo Labs;Entropy;8h 17m 20s ;29840.16
 NPC;+PRICE;3;0;65.59914;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
 NPC;+STOCK;828;826;74.39693;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
+NPC;-LOCAL;0;0;116.026;Star Shepards Hub;Temple Gates;13h 9m 45s ;47385.3
+NPC;-LOCAL;0;0;131.5416;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;-LOCAL;0;0;140.9236;Star Shepards Hub;Temple Gates;13h 44m 53s ;49493.48
+NPC;+STOCK;1631;875;70.1888;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-QTY;26;-973;111.9552;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;924;924;88.47755;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;756;0;80.56362;Biomate University;Void Starcross;16h 10m 6s ;58206.41

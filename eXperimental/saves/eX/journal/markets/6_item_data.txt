@@ -12,3 +12,12 @@ NPC;+STOCK;3855;3855;59.20613;StarShepards Headquarters;Void Starcross;7h 47m 19
 NPC;+STOCK;4346;3911;100.0268;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;0;0;214.025;Transporteers Hub;Ambervellis Drea;11h 21m 7s ;40867.41
 NPC;-LOCAL;0;0;214.025;Transporteers Hub;Ambervellis Drea;11h 25m 46s ;41146.25
+NPC;+STOCK;4730;4126;55.50494;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;38;38;96.31125;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;-LOCAL;0;0;177.2254;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;-QTY;1525;-3205;98.84637;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;8040;4185;58.96603;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;4205;4205;273.4009;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
+NPC;-LOCAL;0;0;214.025;Gemini Mining;Jala;16h 2m 31s ;57751.33
+NPC;BAL;604;0;57.56532;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;0;0;214.025;Gemini Mining;Jala;16h 15m 11s ;58511.58

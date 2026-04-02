@@ -2,3 +2,4 @@ NPC;+LOCAL;150;272;103.454;Transporteers;Hunu;5h 11m 42s ;18702.62
 NPC;-QTY;48;-102;98.24648;Transporteers;Hunu;6h 57m 24s ;25044.14
 NPC;+STOCK;304;142;183.5418;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
 NPC;+LOCAL;150;163;103.454;Biomart;Veloxi;11h 7m 4s ;40024.25
+NPC;-PRICE;129;0;193.1179;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26

@@ -9,3 +9,8 @@ NPC;+LOCAL;15;7;1950;Starbase Corporate Center;Void Starcross;6h 24m 3s ;23043.5
 NPC;+STOCK;28;13;2056.387;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;46;11;6943.94;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;113;12;7423.458;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;+LOCAL;15;55;1950;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;+LOCAL;15;4;1950;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;-QTY;117;-10;7407.675;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;53;8;6449.1;CoraVault;Lins;15h 31m 43s ;55903.28
+NPC;+STOCK;65;12;6166.982;CoraVault;Lins;16h 37m 57s ;59877.96

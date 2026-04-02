@@ -20,3 +20,11 @@ PLAYER;+QTY;0;661;0;Fellacore Research Center;Grace;7h 57m 3s ;28624
 NPC;+PRICE;379;0;13.65362;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;-LOCAL;6;6;12.99375;Transporteers Hub;Ambervellis Drea;11h 21m 7s ;40867.41
 NPC;-LOCAL;4;0;12.99375;Transporteers Hub;Ambervellis Drea;11h 25m 46s ;41146.25
+NPC;-LOCAL;52;52;12.99375;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;-LOCAL;0;0;23.91022;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;-QTY;1136;-3108;14.60627;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;7651;2987;13.15285;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-LOCAL;0;0;28.875;Gemini Mining;Jala;16h 2m 31s ;57751.33
+PLAYER;+QTY;500;500;28.875;Gemini Mining;Jala;16h 2m 42s ;57762.04
+NPC;BAL;4933;0;7.369969;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;477;0;28.50521;Gemini Mining;Jala;16h 15m 11s ;58511.58

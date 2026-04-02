@@ -10,3 +10,10 @@ NPC;+STOCK;38;3;7266.188;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28
 NPC;+PRICE;3;0;5890.44;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
 NPC;+PRICE;7;0;7627.403;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;+STOCK;11;4;7315.529;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;+STOCK;50;3;5558.528;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+QTY;6;3;8207.063;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;8;2;6295.8;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;+QTY;10;2;6295.8;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;BAL;44;-3;6220.483;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-PRICE;4;0;7055.054;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+NPC;-PRICE;6;0;4103.539;Biomart;Veloxi;16h 31m 13s ;59473.96

@@ -8,3 +8,9 @@ NPC;+STOCK;51;4;13892.7;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;7;4;15048.28;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 PLAYER;-QTY;0;1;25828.5;Daemon Ammunitions;Starfort Ramos;10h 50m 18s ;39018.84
 PLAYER;+QTY;2;2;26042.88;Daemon Ammunitions;Starfort Ramos;10h 50m 31s ;39031.34
+NPC;+STOCK;44;3;18668.75;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-PRICE;1;0;14036.75;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;+PRICE;10;0;19801.69;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
+NPC;-QTY;33;-3;22394.4;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;27;4;25270.58;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+STOCK;5;4;13640.63;CoraVault;Lins;16h 37m 57s ;59877.96

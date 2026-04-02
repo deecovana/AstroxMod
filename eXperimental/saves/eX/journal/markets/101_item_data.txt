@@ -13,3 +13,13 @@ NPC;+PRICE;0;0;5.835557;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
 NPC;+STOCK;421;193;1.630201;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;+PRICE;145;0;1.819835;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
 NPC;+STOCK;248;167;1.573265;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
+NPC;-LOCAL;116;0;2.025;Star Shepards Hub;Temple Gates;13h 9m 45s ;47385.3
+NPC;-LOCAL;13;0;2.025;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;-LOCAL;20;20;2.025;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
+NPC;-LOCAL;0;0;2.188091;Star Shepards Hub;Temple Gates;13h 44m 53s ;49493.48
+NPC;+STOCK;1651;237;2.178055;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-PRICE;247;0;1.404441;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;-QTY;390;-151;2.258302;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;469;0;2.025;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
+NPC;+QTY;377;241;1.138388;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;1014;140;2.067795;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

@@ -10,3 +10,10 @@ NPC;-LOCAL;0;0;35000;Biomart;Veloxi;9h 47m 47s ;35267.4
 NPC;-LOCAL;0;0;35000;Biomart;Veloxi;9h 47m 56s ;35276.94
 NPC;-QTY;0;-3;14753.42;RestJag Outlet;Daefore;10h 46m 36s ;38796.8
 NPC;-LOCAL;0;0;35000;Biomart;Veloxi;11h 7m 4s ;40024.25
+NPC;-PRICE;16;0;11835.38;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;-LOCAL;0;0;35000;Transporteers;Hunu;14h 56m 54s ;53814.21
+NPC;-LOCAL;0;0;35000;Transporteers;Hunu;15h 3m 56s ;54236.75
+NPC;+QTY;27;11;11827.9;CoraVault;Lins;15h 31m 43s ;55903.28
+NPC;+QTY;32;11;9502.85;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;18;6;12918.33;Scrapdogs;Gemini Els;15h 54m 31s ;57271.5
+NPC;+STOCK;35;8;11619.44;CoraVault;Lins;16h 37m 57s ;59877.96

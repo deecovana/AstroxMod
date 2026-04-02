@@ -10,3 +10,13 @@ NPC;+STOCK;993;178;5.2191;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.6
 NPC;+STOCK;329;192;3.103086;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;758;228;3.151308;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;661;171;5.721691;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;0;0;5.938261;Star Shepards Hub;Temple Gates;13h 9m 45s ;47385.3
+NPC;-LOCAL;0;0;6.636502;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;-LOCAL;17;17;5.04;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
+NPC;-LOCAL;0;0;7.058715;Star Shepards Hub;Temple Gates;13h 44m 53s ;49493.48
+NPC;+STOCK;772;207;2.802231;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-PRICE;34;0;5.440444;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;+PRICE;481;0;6.012643;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
+NPC;-QTY;849;-144;5.217464;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;255;0;5.04;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
+NPC;+QTY;531;202;3.085712;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

@@ -6,3 +6,6 @@ NPC;+QTY;13;7;3415;Acrondia Corp.;Crown of Imperium;4h 48m 1s ;17281.02
 PLAYER;+QTY;0;1;0;Starbase Corporate Center;Void Starcross;5h 29m 13s ;19753.13
 NPC;+PRICE;47;0;4857.721;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;+STOCK;58;11;4763.309;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;-PRICE;14;0;3878.16;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
+NPC;+STOCK;24;9;4769.218;Tella's;Bitcola;15h 8m 58s ;54538.96
+NPC;BAL;5;-8;3580.274;Cosmic Jay's;Canndelis;16h 10m 6s ;58206.41

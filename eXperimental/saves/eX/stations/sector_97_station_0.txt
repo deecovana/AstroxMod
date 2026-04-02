@@ -17,7 +17,7 @@ STATION;seed;4-6-0-3-1-1-2-0-2-3-1-2-1-3-0-1-3-0-7-7-3-0-90
 STATION;interior_seed;4-1-30-9
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;25804.17
+STATION;last_dock_time;53722.25
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;False
@@ -335,6 +335,9 @@ MISSION;100;120;896329;KILL_RECOVER#sector_65_station_0.txt#sector_79.txt#Privat
 MISSION;121;45;449927;CHAT_PILOT#sector_58_station_0.txt#sector_61.txt#Privateer Jelsad Wojalis#npc_ship_data_(excavation_escort_3)#12#missions_debt_collection.txt#0#null;Chat with <color='yellow'><i>Privateer Jelsad Wojalis</i></color> about his debt in <color='cyan'>Ambervellis Drea</color> and return to CoraVault in <color='cyan'>Lins</color>;11;<i>Vakris Inodornyi</i> has requested that debt be collected from <color='yellow'><i>Privateer Jelsad Wojalis</i></color>. After 3 payments to the Orthodox faction for transport fines, <color='yellow'><i>Privateer Jelsad Wojalis</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Privateer Jelsad Wojalis</i></color> was in the vicinity of the <color='cyan'>Ambervellis Drea</color> system. Have a chat with them, collect the debt, and return to the CoraVault in the <color='cyan'>Lins</color> system to deliver the payment.;13878;5250
 MISSION;13;30;737605;DELIVERY#3#1622#sector_0_station_0.txt#sector_69_station_0.txt#null#null#null#null;Take medium shipment of <color='yellow'>3</color> <color='yellow'>Advanced Armor Exteriors</color> and deliver to <color='cyan'>Void Starcross</color> and dock at Biomate University Station;10;Mass Market Station has contacted our client informing them of some medium cargo that remains unclaimed by a former employee, <i>Bastlel Wheyovi</i> of the Missionary Faction. <color='yellow'>3</color> <color='yellow'>Advanced Armor Exteriors</color> need to be delivered to <color='cyan'>Void Starcross</color>, Biomate University Station.;45770;18758
 MISSION;93;90;556227;KILL_PILOT#sector_65_station_0.txt#sector_1.txt#Leader Zanwho Dapalindo#npc_ship_data_(ATC_Boa)#10#null#null#null;Frag <color='yellow'><i>Leader Zanwho Dapalindo</i></color>, in <color='cyan'>Dellis Primeria</color> and return to CoraVault Hub in <color='cyan'>Pindoris</color>;10;An intermediate level pilot has been sentenced by ASP for extermination. <color='yellow'><i>Leader Zanwho Dapalindo</i></color>, found guilty of raiding, and murder, has been hanging out in the <color='cyan'>Dellis Primeria</color> system. When complete, return to the CoraVault Hub station in the <color='cyan'>Pindoris</color> system. The Missionary's will be very happy to hear of <color='yellow'><i>Leader Zanwho Dapalindo</i></color>'s demise.;48234;20098
+MISSION;91;90;451954;KILL_PILOT#sector_0_station_0.txt#sector_61.txt#Major Bueco Ciewho#npc_ship_data_(Addvanced_heavy_battlecuriser_10)#5#null#null#null;Assassinate in-experienced <color='yellow'><i>Major Bueco Ciewho</i></color> in <color='cyan'>Ambervellis Drea</color> and return to Biomate University in <color='cyan'>Void Starcross</color>;9;The Temple faction has released a kill contract for the criminal <color='yellow'><i>Major Bueco Ciewho</i></color>. Wanted for capital crimes including theft and hijacking, the ASP has approved the contract and have released <color='yellow'><i>Major Bueco Ciewho</i></color>'s last known location. Head to <color='cyan'>Ambervellis Drea</color>, and eliminate <color='yellow'><i>Major Bueco Ciewho</i></color>'s ship. Once complete, head to <color='cyan'>Void Starcross</color> and dock at Biomate University for payment.;25620;7875
+MISSION;43;45;685088;SCAN_PILOT#sector_0_station_4.txt#sector_95.txt#Officer Molow Beckzanlas#npc_ship_data_(transport_carrier_1)#12#null#null#null;Recon <color='yellow'><i>Officer Molow Beckzanlas</i></color> in <color='cyan'>Temple Gates</color> and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;11;<i>Restba Yananyan</i> is currently under contract to provide scan data records for a <color='yellow'><i>Officer Molow Beckzanlas</i></color> located in the <color='cyan'>Temple Gates</color>. After a recent injury, He has decided to sub-contract this task while in recovery. Head over to Starbase Corporate Center in <color='cyan'>Void Starcross</color> with the scan data for <color='yellow'><i>Officer Molow Beckzanlas</i></color> in <color='cyan'>Temple Gates</color>.;39232;5360
+MISSION;81;60;878166;RECOVER#200#209#sector_100.txt#sector_1_station_0.txt#null#null#null#null;Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Grace</color> sector, and return to Quantex in <color='cyan'>Dellis Primeria</color>;9;<i>Sivbue Mibinopea</i> has lost track of a shipment crate from his last haul. It has been reported found in <color='cyan'>Grace</color>. In an effort to save time, <i>Sivbue Mibinopea</i> has sub-contracted the task of returning the light shipment to Quantex in <color='cyan'>Dellis Primeria</color>. The Temple faction is aware of the situation and has sent a representative to Quantex.;11814;1969
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -345,6 +348,7 @@ SHIP;4;0.99;ship_data_(pirate_utility_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
 
 
 

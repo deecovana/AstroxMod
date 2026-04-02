@@ -21,3 +21,15 @@ NPC;-LOCAL;57;57;56.95875;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.6
 PLAYER;-QTY;0;57;69.80255;Lammassu Financial;Void Starcross;12h 11m 42s ;43902.67
 PLAYER;-QTY;0;122;62.6388;Blargg's;Beacon Spita;12h 25m 8s ;44708.64
 NPC;-LOCAL;0;0;106.6377;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
+PLAYER;-QTY;0;41;58.81086;Star Shepards Hub;Temple Gates;13h 30m 13s ;48613.48
+NPC;-LOCAL;77;77;56.95875;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+PLAYER;-QTY;0;77;69.93308;Lammassu Financial;Void Starcross;14h 12m 33s ;51153.53
+PLAYER;-QTY;1861;200;36.21406;Starbase Corporate Center;Void Starcross;14h 39m 20s ;52760.93
+NPC;-LOCAL;0;0;106.8948;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;+PRICE;44;0;58.30318;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
+NPC;-LOCAL;0;0;120.7239;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+PLAYER;-QTY;1761;100;36.54315;Starbase Corporate Center;Void Starcross;15h 5m 50s ;54350.11
+NPC;+QTY;3987;2145;51.58058;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;1956;1956;59.20673;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;+LOCAL;8;7;58.38043;Communications Hub;Ele;15h 55m 44s ;57344.79
+NPC;+LOCAL;2500;23789;16.45475;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07

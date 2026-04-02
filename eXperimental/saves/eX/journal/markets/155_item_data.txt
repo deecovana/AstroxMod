@@ -1,2 +1,7 @@
 NPC;-QTY;227;-143;12.37991;Transporteers;Hunu;6h 57m 24s ;25044.14
 NPC;+STOCK;684;142;14.10839;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;-PRICE;132;0;21.46265;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;-QTY;563;-121;14.08053;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-QTY;0;-38;15.50733;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
+NPC;+QTY;212;80;21.47808;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;-PRICE;87;0;13.86625;Biomart;Veloxi;16h 31m 13s ;59473.96

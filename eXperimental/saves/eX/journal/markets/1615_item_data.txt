@@ -3,3 +3,6 @@ NPC;+STOCK;52;8;21736.91;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;32;11;17757.32;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;22;0;20118.55;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;+STOCK;9;8;12201.53;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
+NPC;-QTY;41;-11;21747.64;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;10;9;12396.31;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;18;9;16328.6;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5

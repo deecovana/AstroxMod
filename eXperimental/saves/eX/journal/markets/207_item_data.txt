@@ -1,2 +1,4 @@
 NPC;+STOCK;855;124;147.0713;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+LOCAL;150;1160;47.02425;CoraVault Hub;Pindoris;11h 27m 56s ;41276.43
+NPC;-PRICE;236;0;109.5462;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;-QTY;418;-106;130.8884;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98

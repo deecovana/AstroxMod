@@ -1,3 +1,6 @@
 NPC;-LOCAL;20;0;25190;Oro Omniplex Center;Merces Academy;5h 0m 18s ;18018.03
 NPC;+LOCAL;12;24;7150;Fellacore Research Center;Grace;7h 56m 45s ;28605
 NPC;+PRICE;5;0;15698.74;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
+NPC;-QTY;0;-3;20132.89;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
+NPC;+PRICE;8;0;20837.03;Acrondia Corp.;Crown of Imperium;16h 11m 8s ;58268.67
+NPC;-LOCAL;0;0;55000;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07

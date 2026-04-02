@@ -14,7 +14,7 @@ SECTOR;production;22
 SECTOR;defense;25
 SECTOR;environment;25
 SECTOR;wormhole_type;
-SECTOR;event_type;resources#45889#9#20
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;-497;125;339
@@ -65,26 +65,26 @@ STARLIGHT;color_5;0.00;0.48;0.00;1.00
 STATION;sector_36_station_0.txt;1363;-517;2168;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_medical_1.txt;2078.00;388.00;1398.00
-STRUCTURE;structure_recon_1.txt;709.00;414.00;705.00
-STRUCTURE;structure_farm_1.txt;1449.00;640.00;1257.00
-STRUCTURE;structure_storage_1.txt;1578.00;49.00;495.00
-STRUCTURE;structure_office_1.txt;1606.00;229.00;160.00
-STRUCTURE;structure_energy_gen_1.txt;1361.00;455.00;727.00
 STRUCTURE;structure_habitat_1.txt;1025.00;487.00;365.00
+STRUCTURE;structure_energy_gen_1.txt;1361.00;455.00;727.00
+STRUCTURE;structure_office_1.txt;1606.00;229.00;160.00
+STRUCTURE;structure_storage_1.txt;1578.00;49.00;495.00
+STRUCTURE;structure_farm_1.txt;1449.00;640.00;1257.00
+STRUCTURE;structure_recon_1.txt;709.00;414.00;705.00
+STRUCTURE;structure_medical_1.txt;2078.00;388.00;1398.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;50;25;50;3000;0;0;0
 CLUSTER;2;50;25;50;5000;0;0;0
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;3;-2567.0;3065.0;-98.0;2000;2000
+RESOURCE;3;-2600.6;3076.3;-147.2;2000;2000
 RESOURCE;3;-246.0;340.0;-519.0;1200;786
 RESOURCE;3;-438.0;920.0;485.0;500;500
 RESOURCE;3;464.9;2044.9;-2741.7;1400;1400
 RESOURCE;3;212.4;2636.3;560.9;600;600
 RESOURCE;3;-404.0;1384.0;1426.0;300;300
-RESOURCE;3;-2079.3;-1675.1;31.9;2000;1895
+RESOURCE;3;-2203.5;-2325.7;497.9;2000;1895
 RESOURCE;3;1053.0;1685.0;-2421.0;200;200
 RESOURCE;3;-196.0;1560.0;730.0;200;200
 RESOURCE;3;117.0;1323.0;-1547.0;200;200

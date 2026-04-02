@@ -9,3 +9,5 @@ NPC;+STOCK;91;9;234439.1;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;0;0;800000;CoraVault Hub;Pindoris;11h 27m 56s ;41276.43
 NPC;-LOCAL;6;6;360000;CoraVault Hub;Pindoris;11h 34m 18s ;41658.76
 NPC;-LOCAL;2;0;360000;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71
+NPC;+LOCAL;12;42;104000;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
+NPC;-QTY;2;-10;110276;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98

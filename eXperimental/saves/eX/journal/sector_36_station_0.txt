@@ -3,7 +3,7 @@ Patrol Annex Station
 Eligentis Faruk
 Law
 [c:lime]Dock fee 100[/c]
-Timestamp: 45080.02
+Timestamp: 53288.8
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -64,12 +64,11 @@ Adamyte Ore  39 - z9
 Advanced 60mm (Doc)  14 - z29,359
 Advanced Energy Capacitor  12 - z136,988
 Advanced Filter  14 - z26,952
-Advanced Mass Reduction  13 - z130,777
 Advanced Regulator  11 - z11,358
 Advanced Rocket Launcher (Doc)  118 - z551,882
 Advanced Scan Booster (Doc)  1 - z964,155
 Advanced Thruster (Doc)  27 - z874,125
-Advanced Torpedo Launcher  49 - z85,033
+Advanced Torpedo Launcher  12 - z34,697
 Aged Wine  9 - z155
 Aluminium Rivets  241 - z43
 Anti-Freeze  18 - z58
@@ -80,6 +79,7 @@ Basic 60mm  6 - z49
 Basic Afterburner  6 - z16,144
 Basic Beam Explosive Mod (Doc)  9 - z350,156
 Basic Beam Impact Mod  8 - z25,930
+Basic Cargo Expansion  40 - z35,537
 Basic Drone Command Bay  8 - z43,888
 Basic Energy Capacitor  4 - z16,827
 Basic Filter  1 - z5,930
@@ -96,7 +96,7 @@ Basic Salvage Collector  22 - z14,101
 Basic Scan Booster  21 - z18,567
 Basic Sensor  81 - z88
 Basic Thruster  5 - z25,561
-Basic Torpedo Launcher  9 - z7,180
+Basic Torpedo Launcher  9 - z7,200
 Basic Torpedo Launcher (Doc)  19 - z25,082
 Basic Turn Thrust  26 - z26,144
 Basic Warp Drive (Doc)  3 - z3,703,125
@@ -115,6 +115,7 @@ Circuit Board (Doc)  19 - z771
 Cleaning Chemicals  24 - z60
 Cloak Field Generator (Doc)  10 - z4,107,422
 Colored Dye  7 - z18
+Communication Device  31 - z3,958
 Containment Unit  11 - z15,768
 Copperi Plates (Doc)  8 - z2,012
 Disposables  12 - z7,260
@@ -125,17 +126,17 @@ Fiber Optic Cables  132 - z71
 Generic Ore Harvester  9 - z4,869
 Generic Ore Harvester (Doc)  27 - z14,544
 Generic Railgun (Doc)  129 - z11,126
-Generic Torpedo Launcher  62 - z2,084
+Generic Torpedo Launcher  12 - z809
 Glass Panels (Doc)  11 - z5,503
 Gourmet Food Rations  6 - z181
 Gradeon Ore  103 - z10
 Gummy Bears  19 - z1
 Ham Sandwich  8 - z23,736
-Heavy Armor Repair  48 - z56,971
-Heavy Energy Charge  59 - z44,562
+Heavy Armor Repair  48 - z56,678
+Heavy Energy Charge  59 - z44,668
 Heavy Mining Drone  36 - z129,886
 Heavy Salvage Drone  32 - z215,686
-Heavy Shield Charge  56 - z47,381
+Heavy Shield Charge  56 - z47,073
 Hydrogen  36 - z2
 Improved Afterburner  28 - z27,488
 Improved Defense Drone  12 - z32,273
@@ -147,6 +148,7 @@ Improved Heavy Cannon  7 - z33,073
 Improved Heavy Laser  29 - z18,789
 Improved Ion Beam  2 - z18,145
 Improved Light Turret  9 - z28,106
+Improved Mass Reduction  17 - z65,388
 Improved Missile Launcher  17 - z34,420
 Improved Railgun  25 - z29,317
 Improved Railgun (Doc)  12 - z139,237
@@ -154,28 +156,28 @@ Improved Rocket Launcher (Doc)  38 - z155,231
 Improved Salvage Collector  26 - z41,512
 Improved Scan Emitter  11 - z45,259
 Improved Shield Generator  3 - z48,448
-Improved Torpedo Launcher  8 - z36,613
+Improved Torpedo Launcher  12 - z9,913
 Interior Lighting  10 - z193
 Junk Part  210 - z18
 Kitchen Appliances  8 - z722
-Large Life Support Pack  64 - z38,211
+Large Life Support Pack  25 - z15,173
 Large Mining Drone  30 - z67,719
 Large Repair Drone  11 - z115,719
 Large Web Field  11 - z91,958
 Light Armor Bomb  45 - z11,495
-Light Armor Repair  41 - z6,538
+Light Armor Repair  25 - z2,698
 Light Energy Charge  20 - z7,003
-Light Shield Charge  48 - z5,584
+Light Shield Charge  48 - z5,580
 Light Shield Recharger  13 - z28,680
 Liquid Coolant  146 - z30
 Lubricant  296 - z11
 Magnetic Quartz  168 - z4
 Mechanical Belts  224 - z42
 Mechanical Switch  109 - z128
-Medium Armor Repair  25 - z21,003
+Medium Armor Repair  25 - z21,053
 Medium Energy Charge  21 - z11,649
-Medium Life Support Pack  25 - z10,878
-Medium Shield Charge  4 - z12,751
+Medium Life Support Pack  25 - z10,908
+Medium Shield Charge  25 - z7,081
 Medium Web Field  12 - z29,453
 Metal Brackets  169 - z24
 Metal Gears  267 - z24
@@ -187,20 +189,22 @@ Office Furniture  3 - z957
 Optical Interface  25 - z94
 Ornament  20 - z5
 Oxygen  311 - z2
+Personal Clothing  37 - z2,166
 Plastic Caps  69 - z49
 Plastix Strands  350 - z7
 Polymere  98 - z81
+Premium Cargo Expansion  3 - z284,297
 Premium Impact Armor (Doc)  23 - z2,105,250
 Premium Plasma Cannon (Doc)  14 - z2,801,634
-Premium Torpedo Launcher  52 - z291,713
+Premium Torpedo Launcher  12 - z121,438
 Protein Bar  5 - z5,300
 Prototype 60mm  65 - z140
 Prototype Drone Command Bay (Doc)  9 - z8,580,000
 Prototype ECM Power Boost Field (Doc)  27 - z10,254,840
 Prototype ECM Range Lock (Doc)  27 - z11,931,280
-Prototype Heavy Cannon (Doc)  126 - z6,367,785
+Prototype Heavy Cannon (Doc)  126 - z6,396,672
 Prototype Missile   147 - z408
-Prototype Torpedo Launcher  46 - z1,110,729
+Prototype Torpedo Launcher  12 - z425,033
 Quazor Ore  149 - z22
 Recon Scanner Drone  43 - z19,158
 Regulator  252 - z166
@@ -211,7 +215,7 @@ Salt Crystal  44 - z2
 Scrap Part  59 - z44
 Silicon  445 - z4
 Small Defense Drone  30 - z4,963
-Small Life Support Pack  53 - z4,082
+Small Life Support Pack  53 - z4,086
 Small LS Bomb  12 - z4,600
 Small Salvage Drone  24 - z6,823
 Small Storage Tank  81 - z39
@@ -243,9 +247,6 @@ Fabrication Engineer
 
 
 <Station Missions>
-[c:lime]KILL[/c]
-Hunt down a low level <color='yellow'><i>Engineer Fallfer Soga</i></color> in <color='cyan'>Jala</color> and return to ValueStar in <color='cyan'>Hunu</color>
-
 [c:lime]KILL RAIDERS[/c]
 Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Chamo</color> and return to Lammassu Hub in <color='cyan'>Numbu</color>
 
@@ -257,6 +258,15 @@ Locate and scan <color='yellow'><i>Lieutenant Vesip Ilesev</i></color> in <color
 
 [c:lime]KILL RECOVER[/c]
 Hijack <color='yellow'><i>Ensign Ilevo Tifast</i></color> in <color='cyan'>Pindoris</color> for <color='yellow'>65</color> <color='yellow'>Electronic Switchs</color> and deliver them to Mazu Starship in <color='cyan'>Enoch Estates</color>
+
+[c:lime]REFINE[/c]
+Refine a light container of <color='yellow'>2</color> <color='yellow'>Engine Components</color> at the Biomart station in <color='cyan'>Veloxi</color>
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Govenor Bunhea Layoubor</i></color> in <color='cyan'>Gate of Alpharis</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]ESCORT[/c]
+<color='yellow'><i>Chairman Fezils Vizae</i></color> is waiting at Starbase Corporate Center in <color='cyan'>Void Starcross</color> and needs an escort to Legistron in <color='cyan'>Dogstar Prime</color>
 
 
 

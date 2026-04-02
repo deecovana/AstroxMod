@@ -3,3 +3,8 @@ NPC;+STOCK;601;137;28.75714;StarShepards Headquarters;Void Starcross;7h 47m 19s 
 NPC;+STOCK;242;142;25.27095;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;1043;105;22.78162;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;659;117;21.7369;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;+QTY;322;148;15.62723;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;368;96;30.92259;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;747;146;28.76162;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;133;76;33.96584;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;-PRICE;23;0;30.43697;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96

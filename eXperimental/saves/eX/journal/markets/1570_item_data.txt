@@ -8,3 +8,9 @@ NPC;-LOCAL;0;0;56301.4;Lacuna Bandits;Ballast Crow;3h 56m 23s ;14183.14
 NPC;-PRICE;20;0;30433.59;KIN AI;Xenilo Valley;4h 42m 34s ;16954.71
 NPC;+STOCK;13;9;21840.49;Star Shepards Hub;Temple Gates;4h 47m 59s ;17279.98
 NPC;-LOCAL;17;17;29250;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75
+NPC;-LOCAL;0;0;65000;Tella's;Bitcola;15h 9m 48s ;54588.81
+NPC;-PRICE;22;0;33125.86;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;+QTY;23;10;15143.38;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;-LOCAL;0;0;65000;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
+NPC;-PRICE;9;0;21935;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+NPC;-LOCAL;0;0;65000;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5

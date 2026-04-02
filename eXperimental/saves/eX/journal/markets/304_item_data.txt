@@ -6,3 +6,10 @@ NPC;+STOCK;764;710;628.4683;Starbase Corporate Center;Void Starcross;7h 47m 19s 
 NPC;+PRICE;56;0;874.4908;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;-LOCAL;0;0;1886.5;Transporteers Hub;Ambervellis Drea;11h 21m 7s ;40867.41
 NPC;-LOCAL;0;0;1886.5;Transporteers Hub;Ambervellis Drea;11h 25m 46s ;41146.25
+NPC;-PRICE;34;0;894.8309;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
+NPC;-PRICE;10;0;718.6304;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;-QTY;0;-13;652.4366;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;692;682;718.4405;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;920;920;655.5776;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;799;0;709.36;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-PRICE;1;0;845.087;Biomart;Veloxi;16h 31m 13s ;59473.96

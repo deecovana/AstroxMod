@@ -9,3 +9,5 @@ NPC;-LOCAL;65;65;70133.62;StarGypsy Warehouse;Void Starcross;7h 28m 1s ;26881.37
 NPC;+STOCK;75;10;87878.75;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;22;22;67500;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
 NPC;+PRICE;10;0;40157.57;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
+NPC;-LOCAL;32;32;67500;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
+NPC;-QTY;26;-6;85845.94;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98

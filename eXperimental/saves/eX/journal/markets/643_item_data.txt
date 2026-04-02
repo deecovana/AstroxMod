@@ -7,3 +7,7 @@ NPC;+STOCK;36;3;49436.63;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28
 PLAYER;-QTY;0;1;27640.38;Lammassu Financial;Void Starcross;8h 6m 22s ;29182.05
 PLAYER;+QTY;26;2;39803.3;Biomate University;Void Starcross;8h 8m 35s ;29315.25
 PLAYER;+QTY;1;1;27872.28;Lammassu Financial;Void Starcross;12h 13m 1s ;43981.6
+NPC;+STOCK;29;3;37914.84;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-QTY;30;-3;47068.04;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;BAL;23;-3;37505.07;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+PLAYER;+QTY;17;1;31991.3;Lacuna Bandits;Ballast Crow;16h 31m 43s ;59503.56

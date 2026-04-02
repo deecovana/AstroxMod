@@ -4,3 +4,4 @@ NPC;+STOCK;181;136;203.039;Starbase Corporate Center;Void Starcross;7h 47m 19s ;
 NPC;+PRICE;666;0;187.5008;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;+LOCAL;29;4;129.7646;CoraVault Hub;Pindoris;11h 34m 18s ;41658.76
 NPC;+LOCAL;32;3;128.4317;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71
+NPC;+QTY;219;123;91.49313;CoraVault;Lins;15h 31m 43s ;55903.28

@@ -17,3 +17,8 @@ NPC;-LOCAL;0;0;210.95;Valuestar Hub;Jelumus;9h 17m 2s ;33422.23
 NPC;+PRICE;35;0;106.4107;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
 NPC;-LOCAL;9;9;97.81022;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.63
 NPC;-LOCAL;19;19;94.92749;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
+NPC;-LOCAL;7;7;98.97107;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;-LOCAL;0;0;181.5262;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;-LOCAL;16;16;94.92749;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;+QTY;3984;2314;59.80643;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+LOCAL;2500;23931;27.4235;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07

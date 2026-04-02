@@ -21,3 +21,10 @@ PLAYER;+QTY;1198;203;61.78746;Biomate University;Void Starcross;8h 27m 26s ;3044
 NPC;+PRICE;1013;0;60.8832;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;-LOCAL;9;9;59.8338;Transporteers Hub;Ambervellis Drea;11h 21m 7s ;40867.41
 NPC;-LOCAL;7;0;59.80129;Transporteers Hub;Ambervellis Drea;11h 25m 46s ;41146.25
+NPC;+STOCK;4731;3533;58.4618;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;64;64;58.365;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;-LOCAL;0;0;107.3993;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;-QTY;0;-150;68.7209;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;7808;3006;40.92165;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-LOCAL;0;0;129.7;Gemini Mining;Jala;16h 2m 31s ;57751.33
+NPC;-LOCAL;10;10;58.365;Gemini Mining;Jala;16h 15m 11s ;58511.58

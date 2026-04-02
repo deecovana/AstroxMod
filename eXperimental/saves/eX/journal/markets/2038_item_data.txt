@@ -1,2 +1,4 @@
 NPC;+STOCK;505;109;1528.412;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;261;106;1602.057;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
+NPC;+QTY;818;110;2428.327;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;396;-109;1750.622;Biomate University;Void Starcross;16h 10m 6s ;58206.41

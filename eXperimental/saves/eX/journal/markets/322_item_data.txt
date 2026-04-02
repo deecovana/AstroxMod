@@ -13,3 +13,11 @@ NPC;-LOCAL;0;0;1653.3;Fellacore Research Center;Grace;7h 56m 45s ;28605
 NPC;+STOCK;863;790;714.1012;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;+LOCAL;49;3;842.5202;Lammassu Hub;Numbu;9h 53m 43s ;35623.66
 NPC;-LOCAL;0;0;1653.3;CoraVault;Lins;11h 10m 39s ;40239.91
+NPC;-LOCAL;0;0;1653.3;OmniTrust;Ponze;13h 18m 0s ;47880.8
+NPC;+STOCK;1728;676;713.9722;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-PRICE;6;0;631.996;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
+NPC;-PRICE;0;0;2089.772;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;-QTY;365;-596;809.8607;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;0;0;1653.3;Gemini Mining;Jala;16h 2m 31s ;57751.33
+NPC;BAL;412;-640;685.5161;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;0;0;1653.3;Gemini Mining;Jala;16h 15m 11s ;58511.58

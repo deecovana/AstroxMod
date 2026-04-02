@@ -11,3 +11,14 @@ NPC;+STOCK;53;4;8697.001;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+LOCAL;3;1;5975.488;Transporteers Hub;Ambervellis Drea;11h 25m 46s ;41146.25
 NPC;+PRICE;4;0;9128.832;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
 NPC;+STOCK;7;4;4019.861;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
+NPC;+STOCK;55;3;5574.093;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-PRICE;13;0;4337.358;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;-QTY;22;-2;8362.288;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-QTY;0;-3;5845.918;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
+NPC;+QTY;6;4;8643.949;CoraVault;Lins;15h 31m 43s ;55903.28
+NPC;+QTY;4;2;6807.063;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;45;3;4401.425;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;5;3;5105.8;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;BAL;50;-2;5887.733;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-PRICE;3;0;3975.024;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+NPC;-PRICE;6;0;8807.807;Biomart;Veloxi;16h 31m 13s ;59473.96

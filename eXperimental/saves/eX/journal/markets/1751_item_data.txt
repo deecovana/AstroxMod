@@ -11,3 +11,5 @@ NPC;+LOCAL;12;9;26000;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
 NPC;-LOCAL;0;0;200000;CoraVault Hub;Pindoris;11h 27m 56s ;41276.43
 NPC;-LOCAL;0;0;200000;CoraVault Hub;Pindoris;11h 34m 18s ;41658.76
 NPC;-LOCAL;0;0;200000;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71
+NPC;+LOCAL;12;57;26000;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
+NPC;-QTY;1;-11;27569;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98

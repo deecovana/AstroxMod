@@ -5,3 +5,7 @@ NPC;+STOCK;7;3;38720.32;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;46;4;70737.7;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;28;4;50180.39;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;27;4;39682.74;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;45;4;66029.32;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-QTY;3;-4;38380.98;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;48;2;70167.22;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;39;-2;63552.14;Biomate University;Void Starcross;16h 10m 6s ;58206.41

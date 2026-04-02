@@ -10,3 +10,11 @@ NPC;+STOCK;1025;974;37.23927;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;0;0;51.2325;Rendo Labs;Entropy;8h 17m 20s ;29840.16
 NPC;+PRICE;11;0;60.32545;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;+STOCK;802;794;25.61995;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
+NPC;-LOCAL;850;0;51.2325;Star Shepards Hub;Temple Gates;13h 9m 45s ;47385.3
+NPC;-LOCAL;708;0;51.2325;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;-LOCAL;644;0;51.2325;Star Shepards Hub;Temple Gates;13h 44m 53s ;49493.48
+NPC;+STOCK;1619;860;50.22647;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+PRICE;15;0;45.405;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
+NPC;-QTY;169;-753;43.92846;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-QTY;0;-4;32.56708;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
+NPC;BAL;759;0;47.94195;Biomate University;Void Starcross;16h 10m 6s ;58206.41

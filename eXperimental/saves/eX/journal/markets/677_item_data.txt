@@ -19,3 +19,14 @@ NPC;+LOCAL;25;5;14625;Lammassu Financial;Void Starcross;8h 4m 11s ;29051.38
 NPC;+PRICE;2;0;42913.04;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
 NPC;-LOCAL;0;0;112500;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
 NPC;+LOCAL;25;63;14625;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.63
+NPC;+STOCK;84;16;49916.66;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+LOCAL;25;21;14625;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;+LOCAL;25;178;14625;StarShepards Headquarters;Void Starcross;14h 31m 59s ;52319.39
+NPC;+LOCAL;25;9;14625;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;+LOCAL;25;170;14625;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
+NPC;+LOCAL;25;48;14625;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
+NPC;+LOCAL;25;2;14625;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;+QTY;20;18;28909.69;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;22;22;145804.6;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;46;21;15244.88;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;56;-12;50002.25;Biomate University;Void Starcross;16h 10m 6s ;58206.41

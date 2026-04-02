@@ -11,3 +11,14 @@ NPC;+STOCK;321;231;6.566959;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039
 NPC;+STOCK;757;199;6.346309;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;1076;193;3.399482;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;0;0;17.39386;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
+NPC;-LOCAL;0;0;6.79576;Star Shepards Hub;Temple Gates;13h 9m 45s ;47385.3
+NPC;-LOCAL;0;0;7.632714;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;-LOCAL;0;0;13.425;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
+NPC;-LOCAL;0;0;8.138804;Star Shepards Hub;Temple Gates;13h 44m 53s ;49493.48
+NPC;+STOCK;1308;198;3.912694;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-PRICE;13;0;5.177588;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
+NPC;-PRICE;246;0;3.728822;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;-QTY;159;-162;6.576169;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;534;0;6.04125;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
+NPC;+QTY;325;140;6.186676;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;1002;245;6.330022;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

@@ -4,3 +4,6 @@ NPC;+STOCK;3605;3596;1318.614;Biomate University;Void Starcross;7h 47m 19s ;2803
 NPC;+STOCK;4735;4735;1075.268;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;4524;4201;1338.178;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;0;0;3662.275;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
+NPC;+STOCK;7500;3895;1302.494;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+QTY;8476;3741;1067.59;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;3605;0;1359.503;Biomate University;Void Starcross;16h 10m 6s ;58206.41

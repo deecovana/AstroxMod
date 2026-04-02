@@ -4,3 +4,7 @@ NPC;+LOCAL;15;2;4875;Starbase Corporate Center;Void Starcross;5h 39m 51s ;20391.
 NPC;+QTY;67;13;10717.97;Stinkfinger;Jonisae;5h 52m 31s ;21151.35
 NPC;+STOCK;25;10;5140.969;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;156;13;10425.73;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;102;14;12648.54;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+LOCAL;15;99;4875;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;+LOCAL;15;4;4875;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;BAL;74;-14;13928.98;Biomate University;Void Starcross;16h 10m 6s ;58206.41

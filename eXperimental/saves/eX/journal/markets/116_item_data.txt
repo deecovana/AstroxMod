@@ -8,3 +8,11 @@ NPC;+STOCK;1307;209;63.33523;Biomate University;Void Starcross;7h 47m 19s ;28039
 NPC;+STOCK;710;234;53.59258;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;0;0;186.4461;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
 NPC;+LOCAL;250;1901;18.69075;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
+NPC;-LOCAL;0;0;76.80487;Star Shepards Hub;Temple Gates;13h 9m 45s ;47385.3
+NPC;-LOCAL;0;0;85.76823;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;-LOCAL;0;0;143.775;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
+NPC;-LOCAL;0;0;91.1882;Star Shepards Hub;Temple Gates;13h 44m 53s ;49493.48
+NPC;+STOCK;1522;215;62.66864;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-PRICE;250;0;19.67309;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;+QTY;266;196;73.54235;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+PLAYER;+QTY;1385;78;63.40118;Biomate University;Void Starcross;15h 31m 50s ;55910.45

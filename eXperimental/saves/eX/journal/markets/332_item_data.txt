@@ -20,3 +20,14 @@ NPC;-LOCAL;0;0;6961.625;Biomart;Veloxi;9h 47m 47s ;35267.4
 NPC;-LOCAL;0;0;6961.625;Biomart;Veloxi;9h 47m 56s ;35276.94
 NPC;-LOCAL;0;0;6961.625;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75
 NPC;-LOCAL;0;0;6961.625;Biomart;Veloxi;11h 7m 4s ;40024.25
+NPC;+STOCK;959;892;2597.779;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;7;7;3133.479;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
+NPC;-LOCAL;31;31;3132.731;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
+NPC;-LOCAL;0;0;6961.625;Transporteers;Hunu;14h 56m 54s ;53814.21
+NPC;-LOCAL;14;14;3132.731;Transporteers;Hunu;15h 3m 56s ;54236.75
+NPC;-LOCAL;0;0;6961.625;Tella's;Bitcola;15h 9m 48s ;54588.81
+NPC;+QTY;1819;930;1750.918;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-LOCAL;18;18;3191.812;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
+NPC;BAL;67;0;2891.147;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-PRICE;0;0;8717.943;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;-LOCAL;0;0;4426.363;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5

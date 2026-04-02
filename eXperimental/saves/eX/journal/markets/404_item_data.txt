@@ -20,3 +20,13 @@ NPC;-LOCAL;500;0;1.2375;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
 NPC;+STOCK;986;971;0.8161705;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;-LOCAL;0;0;2.75;ValueStar;Hunu;10h 24m 2s ;37442.54
 NPC;+STOCK;843;840;1.185862;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
+NPC;+STOCK;1019;952;1.243082;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;71;71;1.262251;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
+NPC;-LOCAL;0;0;2.75;StarShepards Headquarters;Void Starcross;14h 31m 59s ;52319.39
+NPC;-QTY;0;-71;1.601342;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;0;0;1.2375;PharmaLife;Carioullis;15h 22m 21s ;55341.64
+NPC;-LOCAL;32;0;1.2375;Imperium Republica ;Gate of Alpharis;15h 25m 53s ;55553.39
+NPC;+QTY;729;709;0.753335;CoraVault;Lins;15h 31m 43s ;55903.28
+NPC;+QTY;705;693;1.102289;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;969;969;3.559566;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;789;785;1.12134;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5

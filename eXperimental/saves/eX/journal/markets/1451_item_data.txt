@@ -2,3 +2,8 @@ NPC;-LOCAL;3;0;28968.75;Oro Omniplex Center;Merces Academy;5h 0m 18s ;18018.03
 NPC;+LOCAL;12;22;8368.75;Transporteers;Hunu;5h 11m 42s ;18702.62
 NPC;+LOCAL;12;67;8368.75;Biomart;Veloxi;9h 47m 56s ;35276.94
 NPC;-LOCAL;0;0;64375;Astrox Security Patrol;Felishar;12h 33m 41s ;45221.6
+NPC;+LOCAL;12;1;8368.75;Transporteers;Hunu;15h 3m 56s ;54236.75
+NPC;+QTY;12;10;20724.89;CoraVault;Lins;15h 31m 43s ;55903.28
+NPC;-LOCAL;0;0;64375;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
+NPC;-PRICE;13;0;21017.45;Star Shepard's Temple;Lightless;16h 31m 13s ;59473.96
+NPC;+STOCK;21;9;20201.91;CoraVault;Lins;16h 37m 57s ;59877.96

@@ -13,3 +13,7 @@ NPC;+STOCK;101;10;82802.58;StarShepards Headquarters;Void Starcross;7h 47m 19s ;
 NPC;+STOCK;26;11;34273.13;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;70;10;65118.32;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;17;14;55409.52;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
+NPC;+LOCAL;15;97;32500;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;-QTY;60;-14;93461.25;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;115;14;81877.5;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-PRICE;10;0;100645.2;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96

@@ -4,7 +4,7 @@ SECTOR;name;Gendaria
 SECTOR;level;5.8
 SECTOR;faction;Alpha
 SECTOR;filename;sector_18.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;50
@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;resources#25038#20#28
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;461;145;1259
@@ -62,26 +62,26 @@ STARLIGHT;color_4;0.89;0.80;0.10;0.95
 STARLIGHT;color_5;0.30;0.78;0.20;0.27
 
 // STATION;Sector filename;X position;Y position;Z position
-STATION;sector_18_station_0.txt;4618;-950;1008
+STATION;sector_18_station_0.txt;4618;-950;1008;prescan
 
-// STRUCTURE;Structure filename;X position;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;637;99;-3583
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;637.00;99.00;-3583.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;2;50;10;250;3000;-2553;2;-2954
 CLUSTER;20;50;10;100;3000;-3163;2;4145
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;136;483;-1276;500;479
-RESOURCE;21;-91;-732;6500;1000;1000
-RESOURCE;20;-66;-23;6491;1000;1000
-RESOURCE;1;-9;-576;38;1000;42
-RESOURCE;20;363;-292;4659;600;600
+RESOURCE;1;136.0;483.0;-1276.0;500;479
+RESOURCE;21;-91.0;-732.0;6500.0;1000;1000
+RESOURCE;20;-66.0;-23.0;6491.0;1000;1000
+RESOURCE;1;-9;-576;38;1000;0
+RESOURCE;20;363.0;-292.0;4659.0;600;600
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_15.txt;2;5417;-1346;-2155;0;Alpha;0
-WARPGATE;2;sector_21.txt;1;4539;-550;3986;0;Alpha;4539.305
-WARPGATE;3;sector_22.txt;1;-4268;-825;4066;0;Alpha;0
+WARPGATE;1;sector_15.txt;2;5417;-1346;-2155;0;Alpha;0;prescan
+WARPGATE;2;sector_21.txt;1;4539;-550;3986;0;Alpha;4539.305;prescan
+WARPGATE;3;sector_22.txt;1;-4268;-825;4066;0;Alpha;0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;41;0;0;0;0;0;0;0,0,90,90;//rings;;;

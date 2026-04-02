@@ -5,3 +5,7 @@ NPC;+STOCK;105;102;10.74042;Oro Omniplex Center;Merces Academy;7h 18m 7s ;26287.
 NPC;+STOCK;726;124;11.20995;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;615;105;10.57789;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;76;0;13.45649;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
+NPC;+QTY;727;112;10.51218;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;221;147;13.73169;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
+NPC;BAL;603;-123;11.60983;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-PRICE;7;0;13.82955;Biomart;Veloxi;16h 31m 13s ;59473.96

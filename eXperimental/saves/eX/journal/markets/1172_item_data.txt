@@ -3,3 +3,6 @@ NPC;-LOCAL;0;0;73500;OmniTrust;Ponze;5h 57m 28s ;21448.94
 NPC;+STOCK;84;10;16342.03;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;108;9;20585.01;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;-LOCAL;0;0;73500;CoraVault;Lins;11h 10m 39s ;40239.91
+NPC;-LOCAL;10;10;33075;OmniTrust;Ponze;13h 18m 0s ;47880.8
+NPC;+STOCK;93;9;15345.57;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;BAL;77;-7;18289.64;Biomate University;Void Starcross;16h 10m 6s ;58206.41

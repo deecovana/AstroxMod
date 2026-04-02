@@ -1,4 +1,14 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;2;Ship Cargo Stacker;1 min;10;500.0;1308213.95175898;Starbase Corporate Center;Void Starcross;16h 8m 46s 
+SKILL;4;Ship Thruster Systems;19 min;28;4140.0;881471.827247262;Biomate University;Void Starcross;15h 33m 44s 
+SKILL;1;Frigate Ship Operation;1 min;16;15750.0;885611.827247262;Biomate University;Void Starcross;15h 33m 32s 
+SKILL;1;Fleet Commander;1 min;25;4725.0;901361.827247262;Biomate University;Void Starcross;15h 33m 23s 
+SKILL;1;Ship Cargo Stacker;1 min;5;250.0;611399.545532227;Starbase Corporate Center;Void Starcross;15h 6m 14s 
+SKILL;1;Ship Mass Engineering;1 min;3;568.0;527792.171875;Transporteers;Hunu;15h 0m 31s 
+SKILL;1;Fabrication Engineer;2 min;5;1560.0;470355.375;Blargg's;Beacon Spita;14h 47m 34s 
+SKILL;2;Ship Engine Burner;2 min;14;1032.0;904607.510253906;Lammassu Financial;Void Starcross;14h 16m 20s 
+SKILL;2;Max Mission Contracts;3 min;8;1660.0;905639.510253906;Lammassu Financial;Void Starcross;14h 15m 49s 
+SKILL;4;Laser Basic Operation;8 min;24;8140.0;1019851.7421875;Biomate University;Void Starcross;13h 58m 42s 
 SKILL;1;Ship Engine Burner;1 min;7;516.0;251220.140625;Lammassu Financial;Void Starcross;12h 10m 38s 
 SKILL;3;Ship Thruster Systems;4 min;21;3105.0;96521.953125;Biomate University;Void Starcross;11h 56m 51s 
 SKILL;4;Projectile Basic Operation;8 min;20;6040.0;99626.953125;Biomate University;Void Starcross;11h 55m 19s 

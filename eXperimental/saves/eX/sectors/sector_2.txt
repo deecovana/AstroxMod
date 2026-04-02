@@ -65,11 +65,11 @@ STARLIGHT;color_5;1.00;0.00;0.00;0.00
 STATION;sector_2_station_0.txt;1962.3;569.4;-2268.7;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_machine_1.txt;117.80;245.20;-821.20
-STRUCTURE;structure_machine_1.txt;124.40;310.80;-1022.20
-STRUCTURE;structure_machine_1.txt;137.90;383.10;-1239.80
-STRUCTURE;structure_energy_gen_1.txt;417.80;245.20;-821.20
 STRUCTURE;structure_office_1.txt;917.80;245.20;-821.20
+STRUCTURE;structure_energy_gen_1.txt;417.80;245.20;-821.20
+STRUCTURE;structure_machine_1.txt;137.90;383.10;-1239.80
+STRUCTURE;structure_machine_1.txt;124.40;310.80;-1022.20
+STRUCTURE;structure_machine_1.txt;117.80;245.20;-821.20
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;2;100;50;100;10000;0;0;0;

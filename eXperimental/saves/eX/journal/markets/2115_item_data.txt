@@ -2,3 +2,6 @@ NPC;+STOCK;112;2;509136.9;Temple of the Void;Valley of Truths;4h 34m 31s ;16471.
 NPC;+STOCK;141;2;503010.5;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;217;2;331293.9;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;12;0;632509.1;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
+NPC;+STOCK;196;2;614998.3;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-QTY;216;-1;331653.1;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;BAL;192;-2;607746.6;Biomate University;Void Starcross;16h 10m 6s ;58206.41

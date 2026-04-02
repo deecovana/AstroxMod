@@ -3,3 +3,5 @@ NPC;+LOCAL;150;126;118.6194;Lacuna Bandits;Ballast Crow;3h 56m 23s ;14183.14
 NPC;-QTY;12;-79;271.7509;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
 NPC;+QTY;214;95;196.0571;Stinkfinger;Jonisae;5h 52m 31s ;21151.35
 NPC;+STOCK;561;103;297.3192;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-PRICE;150;0;119.5072;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
+NPC;+QTY;145;133;270.539;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

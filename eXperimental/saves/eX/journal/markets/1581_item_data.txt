@@ -7,3 +7,9 @@ NPC;-QTY;14;-9;48370;Mazu Starship;Enoch Estates;4h 19m 23s ;15563.92
 NPC;+STOCK;61;8;60360.17;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;70;10;62718.28;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;0;0;140000;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75
+NPC;+PRICE;38;0;48994.2;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
+NPC;-LOCAL;0;0;140000;Tella's;Bitcola;15h 9m 48s ;54588.81
+NPC;-QTY;61;-9;62418.3;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;0;0;140000;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
+NPC;BAL;54;-7;57592.28;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;0;0;140000;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5

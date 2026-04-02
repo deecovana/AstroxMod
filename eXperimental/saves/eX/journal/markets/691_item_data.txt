@@ -20,3 +20,13 @@ NPC;+LOCAL;25;5;2600;Lammassu Financial;Void Starcross;8h 4m 11s ;29051.38
 NPC;+PRICE;14;0;5167.896;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;-LOCAL;16;16;9000;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
 NPC;+LOCAL;25;8;2600;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
+NPC;+LOCAL;25;22;2600;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;+LOCAL;25;6;2600;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;+LOCAL;25;119;2600;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
+NPC;-PRICE;72;0;10434.94;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
+NPC;+LOCAL;25;54;2600;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
+NPC;+LOCAL;25;3;2600;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;-QTY;2;-16;5401.05;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
+NPC;+QTY;39;23;11420.81;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;41;14;2710.2;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;62;-19;6224.225;Biomate University;Void Starcross;16h 10m 6s ;58206.41

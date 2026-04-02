@@ -6,3 +6,5 @@ NPC;-LOCAL;0;0;48728.81;Starbase Corporate Center;Void Starcross;5h 47m 39s ;208
 NPC;-LOCAL;8;8;33075;Starbase Corporate Center;Void Starcross;6h 24m 3s ;23043.55
 NPC;+STOCK;16;8;40580.2;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;3;0;29469.85;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;-LOCAL;60;60;33075;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;-LOCAL;0;0;60862.36;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49

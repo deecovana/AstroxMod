@@ -1,2 +1,6 @@
 NPC;+STOCK;61;18;6480.919;Star Shepards Hub;Temple Gates;4h 47m 59s ;17279.98
 NPC;+STOCK;115;20;8884.284;Biomate University;Void Starcross;7h 47m 19s ;28039.67
+NPC;+LOCAL;25;5;5286.745;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;+STOCK;131;16;8640.3;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+QTY;45;20;5394.6;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;BAL;102;-13;9097.49;Biomate University;Void Starcross;16h 10m 6s ;58206.41

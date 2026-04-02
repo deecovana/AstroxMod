@@ -1,0 +1,295 @@
+[s:30][c:yellow]PharmaLife[/c][/s]
+Distribution Warehouse
+Fura Geegacie
+Alpha
+[c:lime]Dock fee 100[/c]
+Timestamp: 55403.04
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Charged Cell
+Water
+Carbon
+Hydrogen
+Oxygen
+Magnetic Quartz
+Iron Coring
+Nitrogen
+Oil
+Copperi Cubex
+Calcium
+Ceramic
+Aluminium Shard
+Dynex Crystal
+Silicon
+Salt Crystal
+Bio Carbon
+Calciate Residue
+Steelium
+Plastix Strands
+Silveryte
+Prometheum
+Neutron Pods
+Uranium
+Goldyte
+Titanyte
+Acidic Residue
+[c:orange]DEMAND[/c]
+Aged Wine
+Bottled Whiskey
+Basic Food Rations
+Gourmet Food Rations
+Candy Corn
+Chocolate Bars
+Gummy Bears
+Basic Drone Command Bay
+Improved Drone Command Bay
+Advanced Drone Command Bay
+Premium Drone Command Bay
+Prototype Drone Command Bay
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+[c:red]SELL Order[/c] Market Items: (2) Items 
+ (874) x Carbon
+ (642) x Silicon
+Buy items for [c:lime]4,026 discount.[/c]
+[c:red]SELL Order[/c] Market Inventory: (3) Items 
+ (425) x Hydrogen
+ (296) x Dynex Crystal
+ (344) x Plastix Strands
+Buy items for [c:lime]8,011 discount.[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (526) x Basic Food Rations
+Fulfill order for [c:lime]21,383 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Acidic Residue  27 - z14
+Adamyte Ore  35 - z6
+Advanced 20mm (Doc)  19 - z27,298
+Advanced 60mm (Doc)  17 - z47,622
+Advanced ECM Range Lock (Doc)  7 - z7,438,009
+Advanced Energy Capacitor  14 - z93,854
+Advanced Engine Core  25 - z49,495
+Advanced Explosive Armor  9 - z76,244
+Advanced Explosive Armor (Doc)  16 - z1,406,925
+Advanced Filter  6 - z15,273
+Advanced Mass Reduction  10 - z86,704
+Advanced Missile  73 - z287
+Advanced Railgun (Doc)  90 - z649,524
+Advanced Regulator  10 - z10,320
+Advanced Rocket Launcher (Doc)  17 - z232,570
+Advanced Scan Booster  12 - z80,745
+Advanced Scan Emitter  15 - z44,096
+Advanced Shield Booster  6 - z106,244
+Advanced Thruster  3 - z56,485
+Advanced Thruster (Doc)  3 - z980,217
+Aged Wine  17 - z185
+Aluminium Rivets  204 - z50
+Aluminium Shard  32 - z18
+Ammunition Loader (Doc)  2 - z11,052
+Anti-Freeze  10 - z47
+Assorted Gaskets  37 - z17
+Assorted Springs  99 - z43
+Auxiliary System Mount (Doc)  17 - z42,871
+Ball Bearings  203 - z74
+Ball Bearings (Doc)  9 - z695
+Basic 20mm  129 - z21
+Basic 60mm  141 - z45
+Basic Afterburner  15 - z17,249
+Basic Armor Exterior  29 - z34,273
+Basic Beam Impact Mod  10 - z30,311
+Basic Charged Cell  28 - z125
+Basic ECM Range Lock (Doc)  22 - z2,836,551
+Basic Energy Capacitor  29 - z18,263
+Basic Engine Core  19 - z21,614
+Basic Filter  7 - z8,067
+Basic Food Rations  4 - z96
+Basic Heavy Laser  25 - z6,718
+Basic Ion Beam  16 - z6,572
+Basic Light Turret (Doc)  29 - z23,185
+Basic Missile Launcher (Doc)  107 - z28,199
+Basic Ore Harvester  8 - z13,754
+Basic Pulse Laser  10 - z4,637
+Basic Railgun  4 - z9,176
+Basic Railgun (Doc)  9 - z31,602
+Basic Rocket Launcher  7 - z5,827
+Basic Sensor  165 - z74
+Basic Thruster  27 - z12,231
+Basic Torpedo   28 - z239
+Basic Torpedo Launcher (Doc)  82 - z33,702
+Basic Turn Thrust  17 - z18,649
+Basic Warp Drive (Doc)  7 - z5,474,625
+Bio Carbon  39 - z22
+Bomber Drone  40 - z16,687
+Bottled Whiskey  5 - z189
+Calciate Residue  43 - z40
+Calcium  46 - z4
+Candy Cane  25 - z1
+Candy Corn  26 - z1
+Capacitors  151 - z143
+Carbon  125 - z1
+Carbon Fiber  185 - z26
+Ceramic  32 - z13
+Circuit Board  30 - z45
+Cleaning Chemicals  29 - z95
+Colored Dye  6 - z28
+Containment Unit  7 - z7,870
+Copperi Cubex  37 - z11
+Disposables  13 - z4,007
+Dynex Crystal  42 - z27
+Elite Skill Manual  51 - z1,116,218
+Fasteners  224 - z12
+Fiber Optic Cables  211 - z61
+Generic Construction Platform  32 - z4,293,282
+Generic Heavy Laser  12 - z1,369
+Generic Missile Launcher  27 - z2,447
+Generic Missile Launcher (Doc)  116 - z5,967
+Generic Pulse Laser  29 - z1,905
+Generic Torpedo Launcher  26 - z2,190
+Goldyte  32 - z87
+Gourmet Food Rations  4 - z442
+Gradeon Ore  116 - z13
+Gummy Bears  17 - z1
+Ham Sandwich  9 - z27,064
+Heavy Armor Bomb  52 - z103,067
+Heavy Repair Drone  30 - z117,552
+Heavy Salvage Drone  9 - z117,552
+Heavy Shield Bomb  34 - z73,907
+Heavy Shield Charge  50 - z41,734
+Hydrogen  188 - z3
+Improved Cargo Expansion  20 - z44,622
+Improved Defense Drone  3 - z47,810
+Improved Energy Armor  11 - z61,622
+Improved Energy Capacitor  15 - z35,487
+Improved Filter  7 - z13,505
+Improved Heavy Laser  28 - z29,711
+Improved Ion Beam  21 - z17,712
+Improved Missile Launcher (Doc)  75 - z104,086
+Improved Railgun  29 - z20,652
+Improved Railgun (Doc)  147 - z173,818
+Improved Rocket Launcher (Doc)  147 - z86,049
+Improved Salvage Collector  16 - z54,999
+Improved Salvage Drone  51 - z33,410
+Improved Thruster  23 - z40,842
+Improved Turn Thrust  18 - z33,298
+Interior Lighting  11 - z173
+Ionization Plate (Doc)  6 - z36,124
+Iron Coring  27 - z5
+Junk Part  76 - z16
+Kitchen Appliances  23 - z885
+Large Defense Drone  1 - z56,244
+Large Web Field  45 - z56,336
+Light Armor Repair  2 - z5,460
+Light Energy Charge  44 - z3,915
+Light Shield Recharger  25 - z28,311
+Lubricant  166 - z11
+Magnetic Quartz  182 - z4
+Magnetic Regulator (Doc)  29 - z61,431
+Mechanical Belts  62 - z56
+Mechanical Switch  3 - z120
+Medium Defense Drone  56 - z11,137
+Medium Energy Charge  23 - z17,684
+Medium Life Support Pack  32 - z18,037
+Medium Mining Drone  6 - z14,737
+Medium Salvage Drone  44 - z16,687
+Medium Shield Bomb  37 - z25,176
+Medium Shield Charge  27 - z25,881
+Medium Web Field  6 - z20,459
+Metal Brackets  191 - z17
+Metal Brackets (Doc)  16 - z259
+Metal Gears  145 - z17
+Metal Valve  116 - z22
+Micro Leech Drone  44 - z11,287
+Neutron Pods  32 - z28
+Nitrogen  32 - z7
+Noodles  4 - z10,565
+Nuts And Bolts  298 - z13
+Office Furniture  8 - z1,008
+Oil  27 - z9
+Ornament  28 - z3
+Oxygen  276 - z1
+Plastix Strands  175 - z5
+Polymere  233 - z66
+Premium Railgun (Doc)  15 - z1,048,824
+Premium Rocket Launcher (Doc)  43 - z1,549,302
+Prometheum  27 - z99
+Protein Bar  11 - z8,627
+Prototype Missile   54 - z691
+Prototype Rocket Launcher (Doc)  22 - z4,056,987
+Quazor Ore  150 - z15
+Regulator  264 - z155
+Reinforced Rubber  193 - z10
+Rubber Tubing  72 - z37
+Salt Crystal  392 - z3
+Scrap Part  202 - z23
+Servo Controls (Doc)  8 - z82,608
+Silicon  371 - z8
+Silveryte  32 - z60
+Small Combat Drone  34 - z4,155
+Small Storage Tank  282 - z41
+Spotlight  11 - z13,046
+Steelium  32 - z40
+Steelium Beam  32 - z10
+Temperature Genie  14 - z21,490
+Thermal Controller  13 - z7,367
+Thermal Insulation  120 - z31
+Thermal Sensor  193 - z72
+Thruster Casing (Doc)  24 - z35,625
+Titan Combat Drone  54 - z238,109
+Titanyte  29 - z59
+Tractor Beam  16 - z17,534
+Undamaged Part  195 - z64
+Uranium  41 - z114
+Waste Processor  2 - z11,843
+Water  136 - z1
+Wrapped Box  3 - z14
+
+
+<Station University Skills>
+Salvager Harvest Calibration
+Fleet Commander
+Market Auditor
+Beam Energy Optimization
+Ship Mass Engineering
+Launcher Basic Operation
+Ship Shield Systems
+
+
+<Station Missions>
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Overseer Vajop Zaefardie</i></color> in <color='cyan'>Hunu</color> and return to Fellacore Research Center in <color='cyan'>Grace</color>
+
+[c:lime]DELIVERY[/c]
+Light delivery of <color='yellow'>Electronic Switchs</color> to Starbase Corporate Center Station in <color='cyan'>Void Starcross</color>
+
+[c:lime]HARVEST[/c]
+In <color='cyan'>Merces Academy</color>, Extract special <color='yellow'>Special Belasite Ore</color> and return to Fellacore Research Center in <color='cyan'>Grace</color> with at least <color='yellow'>194</color>
+
+[c:lime]KILL RECOVER[/c]
+Kill and Rob <color='yellow'><i>Miner Taddes Whoqa</i></color> in <color='cyan'>Merces Academy</color> and return to Crystalis Broadcasting in <color='cyan'>Jermicus</color> with <color='yellow'>1</color> of <color='yellow'>Advanced Energy Generator</color>
+
+[c:lime]COLLECT[/c]
+Procure a medium collection of <color='yellow'>115</color> <color='yellow'>Nitrogens</color>, and return to Lammassu Hub in <color='cyan'>Numbu</color>
+
+
+
+<Station Ships>
+SCA-1 Demi / Battlecruiser    (Support)
+BC-1 Alpharis Predator / Escort    (Battle)
+TE-1 Phoebus / Shuttle    (Transport)
+EE-1 Mining Shuttle / Shuttle    (Excavation)
+TS-1 Dexta / Shuttle    (Recon)
+TU-1 Jonas / Escort    (Transport)
+EC-1 Support Frigate / Frigate    (Support)

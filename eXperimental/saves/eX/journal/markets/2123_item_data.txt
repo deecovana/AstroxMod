@@ -5,3 +5,9 @@ NPC;+STOCK;110;2;4944633;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;0;99;5115175;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;457;2;6801471;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;27;2;3188775;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
+NPC;+STOCK;490;2;2950443;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-PRICE;37;0;5565716;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;-QTY;108;-2;5066326;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-QTY;0;99;5118848;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;38;1;5578251;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;207;1;4247839;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

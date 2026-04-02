@@ -5,3 +5,5 @@ NPC;+STOCK;816;121;632.5438;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039
 NPC;+STOCK;867;128;348.6408;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;897;134;302.8913;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;289;0;508.4652;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
+NPC;-QTY;710;-106;631.9188;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;950;83;346.5993;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

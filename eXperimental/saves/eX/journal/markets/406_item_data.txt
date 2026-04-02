@@ -39,3 +39,15 @@ NPC;+LOCAL;1000;2439;0.3575;Lammassu Financial;Void Starcross;12h 11m 24s ;43884
 NPC;-LOCAL;22;22;1.2375;Astrox Security Patrol;Felishar;12h 33m 41s ;45221.6
 NPC;+LOCAL;1000;340;0.3575;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
 NPC;-LOCAL;19;19;1.2375;Biomate University;Void Starcross;12h 47m 45s ;46065.6
+NPC;+STOCK;771;752;1.440802;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;33;33;1.2375;Biomate University;Void Starcross;13h 56m 48s ;50208.59
+NPC;-LOCAL;0;0;2.75;Biomate University;Void Starcross;13h 56m 37s ;50197.77
+NPC;+LOCAL;1000;958;0.3575;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;+LOCAL;1000;268;0.3575;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;+LOCAL;1000;99;0.3575;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;-QTY;138;-703;1.391074;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;896;889;0.6952894;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;-LOCAL;72;72;1.2375;Biomate University;Void Starcross;15h 31m 48s ;55908.38
+NPC;+QTY;586;581;1.47334;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;-LOCAL;0;0;2.708919;Biomate University;Void Starcross;16h 11m 11s ;58271.77
+NPC;+STOCK;928;923;1.163251;CoraVault;Lins;16h 37m 57s ;59877.96

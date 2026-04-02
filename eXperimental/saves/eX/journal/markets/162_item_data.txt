@@ -3,3 +3,6 @@ NPC;+STOCK;329;143;40.15883;Acrondia Hub;Temple Gates;4h 47m 59s ;17279.98
 NPC;-QTY;64;-118;42.23732;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
 NPC;+STOCK;968;141;45.28597;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;526;122;24.63317;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;1105;137;44.27518;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;BAL;856;-112;44.03692;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-PRICE;62;0;45.38621;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96

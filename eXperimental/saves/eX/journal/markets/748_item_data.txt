@@ -7,3 +7,8 @@ NPC;+STOCK;123;14;141182.4;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.6
 NPC;+STOCK;28;13;56550.66;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;91;14;150041.8;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;31;0;146589.7;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
+NPC;+STOCK;185;14;151815.8;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+LOCAL;15;77;53625;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;+PRICE;57;0;100750.2;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
+NPC;+LOCAL;15;4;53625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;BAL;157;-14;163883.6;Biomate University;Void Starcross;16h 10m 6s ;58206.41

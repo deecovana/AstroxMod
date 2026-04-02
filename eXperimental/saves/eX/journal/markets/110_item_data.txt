@@ -10,3 +10,10 @@ NPC;+STOCK;664;183;15.3663;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.6
 NPC;+STOCK;683;219;20.02263;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;1158;245;13.36413;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;1538;248;12.20147;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-LOCAL;216;0;22.06065;Star Shepards Hub;Temple Gates;13h 9m 45s ;47385.3
+NPC;-LOCAL;106;0;19.55914;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;-LOCAL;5;5;18.598;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
+NPC;-LOCAL;19;0;18.05625;Star Shepards Hub;Temple Gates;13h 44m 53s ;49493.48
+NPC;-QTY;528;-155;19.97603;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;656;222;14.42534;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;229;-218;18.33699;Biomate University;Void Starcross;16h 10m 6s ;58206.41

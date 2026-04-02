@@ -37,3 +37,16 @@ NPC;+LOCAL;1000;2509;1.7875;Lammassu Financial;Void Starcross;12h 11m 24s ;43884
 NPC;-LOCAL;0;0;13.75;Astrox Security Patrol;Felishar;12h 33m 41s ;45221.6
 NPC;+LOCAL;1000;452;1.7875;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
 NPC;-LOCAL;31;31;6.1875;Biomate University;Void Starcross;12h 47m 45s ;46065.6
+NPC;+STOCK;1018;987;7.296802;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;74;74;6.228421;Biomate University;Void Starcross;13h 56m 48s ;50208.59
+NPC;-LOCAL;6;6;6.1875;Biomate University;Void Starcross;13h 56m 37s ;50197.77
+NPC;+LOCAL;1000;1599;1.7875;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;-PRICE;17;0;4.155344;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;+LOCAL;1000;114;1.7875;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;-QTY;0;-788;6.460369;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;752;729;4.301447;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;-LOCAL;61;61;6.1875;Biomate University;Void Starcross;15h 31m 48s ;55908.38
+NPC;+QTY;779;777;4.371675;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
+NPC;BAL;61;0;7.207961;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;73;73;6.1875;Biomate University;Void Starcross;16h 11m 11s ;58271.77
+NPC;-PRICE;13;0;4.798989;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96

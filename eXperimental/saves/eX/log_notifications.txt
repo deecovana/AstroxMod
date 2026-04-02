@@ -1,47 +1,47 @@
 //;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Star Shepards Hub Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Star Shepards Hub station.
+dock_fee.png;CoraVault Station - 100 Dock Fee.;You have been charged a docking fee for entry into the CoraVault station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+mission_obj_complete.png;Mission Objectives Complete;Collect a small debt from <color='yellow'><i>Private Naliavi Paemole</i></color> in <color='cyan'>Lins</color> and return to Holosynth Industries in <color='cyan'>Rats Of Mortalis</color>
+//;LOG DATA FILE (Astrox Imperium)
+notify_npc_kill.png;TS-1 Dexta has been destroyed.;Private Naliavi Paemole has given up the ghost. With the destruction of the TS-1 Dexta, the pilot vowed to stay behind with his robot crew.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_1.png;Game speed Normal;The gamespeed has been set to normal speed. (x1) 
 //;LOG DATA FILE (Astrox Imperium)
 notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
 //;LOG DATA FILE (Astrox Imperium)
 notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
 //;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
+warpgate.png;Warp to Lins;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Hunu;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
+//;LOG DATA FILE (Astrox Imperium)
+escort_ship.png;Mission Escort objectives complete.;You have successfully escorted Liaison Zaeast Molenidie to their destination.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Starbase Corporate Center Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Starbase Corporate Center station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_1.png;Game speed Normal;The gamespeed has been set to normal speed. (x1) 
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
 //;LOG DATA FILE (Astrox Imperium)
 warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
 //;LOG DATA FILE (Astrox Imperium)
 sp_adjusted.png;+3 Skill Points Acquired.;Your time spent undocked has helped you to improve your skills. +3 skill points have been awarded to your pilot for use at the university.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+mission_obj_complete.png;Mission Objective Complete;A pilot at Lacuna Bandits in <color='cyan'>Ballast Crow</color> named <color='yellow'><i>Liaison Zaeast Molenidie</i></color> needs an escort to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+escort_ship.png;Escort Target has joined Fleet.;Liaison Zaeast Molenidie has temporarily joined your fleet. Escort this ship to the specified location to complete the mission objective.
 //;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Ballast Crow;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Lammassu Financial Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Lammassu Financial station.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_autotarget.png;GPS Autotargeting Station;Your current GPS Autotarget has been located. You ship will autopilot to the location of this target.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Astrox Security Patrol Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Astrox Security Patrol station.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Felishar;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Blargg's Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Blargg's station.
-//;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
-//;LOG DATA FILE (Astrox Imperium)
-new_sector.png;New Sector has been Explored;A new sector has been explored. You can now access this sector from your galaxy map.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Beacon Spita;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+dock_fee.png;Lacuna Bandits Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Lacuna Bandits station.
 //;LOG DATA FILE (Astrox Imperium)

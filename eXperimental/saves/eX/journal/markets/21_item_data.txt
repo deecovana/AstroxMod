@@ -11,3 +11,8 @@ NPC;+STOCK;4235;3676;25.0306;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;109;0;40.1625;Rendo Labs;Entropy;8h 17m 20s ;29840.16
 NPC;+PRICE;568;0;31.99181;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;-LOCAL;5;5;41.744;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
+NPC;+STOCK;7787;3562;35.16652;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+QTY;4375;4258;34.71602;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;3433;3433;31.01527;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;4225;0;38.86721;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-PRICE;188;0;21.51344;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96

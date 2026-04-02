@@ -3,3 +3,4 @@ NPC;+STOCK;85;10;515141.1;StarShepards Headquarters;Void Starcross;7h 47m 19s ;2
 NPC;-LOCAL;0;0;1171875;Fellacore Research Center;Grace;7h 56m 45s ;28605
 NPC;+LOCAL;12;1;382482.3;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71
 NPC;+STOCK;22;10;360187.3;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
+NPC;+QTY;91;6;515050.8;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

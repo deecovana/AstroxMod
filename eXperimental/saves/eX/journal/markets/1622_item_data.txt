@@ -9,3 +9,5 @@ NPC;+STOCK;51;11;117816.1;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;48;11;165569.1;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;77;11;85244.95;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;4;4;135000;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
+NPC;-LOCAL;16;16;136509.3;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
+NPC;-QTY;6;-10;173191.9;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98

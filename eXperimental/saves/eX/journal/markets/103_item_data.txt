@@ -13,3 +13,14 @@ NPC;+STOCK;988;167;1.414149;StarShepards Headquarters;Void Starcross;7h 47m 19s 
 NPC;+STOCK;1143;214;1.238257;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;461;191;2.673634;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;79;0;1.984455;Genistar;Blades of Dandrow;11h 27m 50s ;41270.23
+NPC;-LOCAL;62;0;2.43;Star Shepards Hub;Temple Gates;13h 9m 45s ;47385.3
+NPC;-LOCAL;0;0;2.767742;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
+NPC;-LOCAL;0;0;5.4;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
+NPC;-LOCAL;0;0;2.971309;Star Shepards Hub;Temple Gates;13h 44m 53s ;49493.48
+NPC;+STOCK;545;243;2.480345;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-PRICE;85;0;1.613459;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
+NPC;-QTY;174;-153;1.824363;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;550;0;2.43;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
+NPC;+QTY;288;138;2.358896;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;1154;166;1.401354;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-PRICE;226;0;2.644831;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96

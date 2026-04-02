@@ -8,3 +8,8 @@ NPC;-QTY;25;-8;130319;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914
 NPC;-QTY;14;-7;149380;Mazu Starship;Volox;5h 48m 34s ;20914.43
 NPC;+STOCK;33;8;126527.1;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;4;4;126000;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75
+NPC;+STOCK;8;8;159060.8;Tella's;Bitcola;15h 8m 58s ;54538.96
+NPC;-LOCAL;0;0;280000;Tella's;Bitcola;15h 9m 48s ;54588.81
+NPC;+QTY;41;8;126422.8;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-LOCAL;11;11;129893.6;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
+NPC;-LOCAL;0;0;179150.5;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5

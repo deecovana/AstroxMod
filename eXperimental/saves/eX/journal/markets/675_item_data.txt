@@ -20,3 +20,11 @@ NPC;+PRICE;14;0;54777.81;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;-LOCAL;0;0;135000;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
 NPC;+LOCAL;25;78;17550;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.63
 NPC;+LOCAL;25;11;17550;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
+NPC;+LOCAL;25;19;17550;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;+LOCAL;25;109;17550;StarShepards Headquarters;Void Starcross;14h 31m 59s ;52319.39
+NPC;+LOCAL;25;8;17550;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;+LOCAL;25;3;17550;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;-QTY;29;-19;55869.07;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;41;16;18293.85;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;37;13;58827.6;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;+QTY;50;13;58827.6;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5

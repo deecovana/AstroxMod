@@ -4,7 +4,7 @@ SECTOR;name;Stellar Keep
 SECTOR;level;6.1
 SECTOR;faction;Alpha
 SECTOR;filename;sector_21.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -76,7 +76,7 @@ RESOURCE;1;3229.8;-166.0;-439.5;200;200
 
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_18.txt;2;-995.1;-31.6;-3073.3;0;alpha;0.0
+WARPGATE;1;sector_18.txt;2;-995.1;-31.6;-3073.3;0;alpha;0.0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 //PROP;0;0;0;0;0;0;0;lightning 1

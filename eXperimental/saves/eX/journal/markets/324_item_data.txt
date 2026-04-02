@@ -9,3 +9,11 @@ NPC;+STOCK;707;707;1469.448;StarShepards Headquarters;Void Starcross;7h 47m 19s 
 NPC;+STOCK;792;718;2094.475;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;0;0;6242.5;Fellacore Research Center;Grace;7h 56m 45s ;28605
 NPC;-LOCAL;3;3;2836.09;CoraVault;Lins;11h 10m 39s ;40239.91
+NPC;-LOCAL;0;0;6242.5;OmniTrust;Ponze;13h 18m 0s ;47880.8
+NPC;+STOCK;1847;875;1582.583;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+PRICE;14;0;3112.108;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
+NPC;-QTY;15;-772;2533.488;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;1649;942;1445.201;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-LOCAL;0;0;6242.5;Gemini Mining;Jala;16h 2m 31s ;57751.33
+NPC;BAL;972;0;1945.584;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;0;0;6242.5;Gemini Mining;Jala;16h 15m 11s ;58511.58

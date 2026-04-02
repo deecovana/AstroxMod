@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;77
 SECTOR;name;Ballast Crow
-SECTOR;level;9.7
+SECTOR;level;9.6
 SECTOR;faction;Pirate
 SECTOR;filename;sector_77.txt
 SECTOR;is_explored;True
@@ -48,7 +48,7 @@ LIGHT;light_s;0.49;0.36;0.26;0.28
 STAR;object;1;-85000.9;1821.6;5083.9;3;25000;
 
 // LIFESUPPORT;type;value
-LIFESUPPORT;food;0.3223209
+LIFESUPPORT;food;0.2786404
 LIFESUPPORT;water;0.25
 LIFESUPPORT;thermal;0.3359318
 LIFESUPPORT;waste;0.3278636
@@ -72,9 +72,9 @@ CLUSTER;1;100;50;300;5000;4727;-890;-3146;
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
 RESOURCE;1;4942.3;-1700.6;-3452.4;1200;1200
 RESOURCE;1;1430.3;1585.8;-3931.3;200;200
-RESOURCE;1;3856.3;1525.5;-5542.8;2000;2000
+RESOURCE;1;3857.2;1531.9;-5537.5;2000;2000
 RESOURCE;1;3067.7;2356.8;-4807.0;500;500
-RESOURCE;1;4815.5;-440.9;-5402.9;3300;3300
+RESOURCE;1;4754.8;-518.9;-5145.2;3300;3300
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
 WARPGATE;1;sector_0.txt;5;5415.3;-375.1;183.7;0;alpha;-0.5;prescan

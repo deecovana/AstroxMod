@@ -18,3 +18,10 @@ NPC;+LOCAL;25;4;23400;Lammassu Financial;Void Starcross;8h 4m 11s ;29051.38
 NPC;+STOCK;43;17;56042.37;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;-LOCAL;0;0;180000;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
 NPC;+LOCAL;25;10;23400;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
+NPC;+LOCAL;25;35;23400;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;+LOCAL;25;109;23400;StarShepards Headquarters;Void Starcross;14h 31m 59s ;52319.39
+NPC;+LOCAL;25;114;23400;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
+NPC;+LOCAL;25;3;23400;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;-PRICE;0;0;231221.2;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;+QTY;19;19;231487.3;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;39;14;24391.8;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

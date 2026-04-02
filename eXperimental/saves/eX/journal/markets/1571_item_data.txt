@@ -7,3 +7,7 @@ NPC;-LOCAL;0;0;110522.8;Lacuna Bandits;Ballast Crow;3h 56m 23s ;14183.14
 NPC;-QTY;20;-8;39449.31;Transporteers;Hunu;6h 57m 24s ;25044.14
 NPC;+STOCK;35;10;63794.2;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;0;0;130000;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75
+NPC;-PRICE;24;0;57384.2;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;-LOCAL;0;0;130000;Tella's;Bitcola;15h 9m 48s ;54588.81
+NPC;-LOCAL;0;0;130000;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
+NPC;-LOCAL;0;0;130000;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5

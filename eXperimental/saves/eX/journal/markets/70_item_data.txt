@@ -3,3 +3,5 @@ NPC;-QTY;0;-328;139.8301;Transporteers;Hunu;6h 57m 24s ;25044.14
 NPC;+STOCK;2177;2090;107.4904;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;2012;2012;112.4432;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;2036;1798;108.7003;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;4117;1940;103.8886;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;BAL;2177;0;109.8769;Biomate University;Void Starcross;16h 10m 6s ;58206.41

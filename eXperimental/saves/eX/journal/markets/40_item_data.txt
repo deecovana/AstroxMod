@@ -19,3 +19,13 @@ PLAYER;+QTY;26;26;25.80216;Biomart;Veloxi;9h 50m 8s ;35408.18
 NPC;-LOCAL;13;13;25.3125;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.63
 PLAYER;+QTY;76;63;31.02029;Lammassu Financial;Void Starcross;12h 11m 54s ;43914.19
 NPC;-LOCAL;0;0;46.71486;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
+NPC;+STOCK;2146;2126;27.59731;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;54;54;25.3125;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;-LOCAL;0;0;47.27912;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;-LOCAL;19;19;25.3125;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+PLAYER;-QTY;2107;100;19.6148;Starbase Corporate Center;Void Starcross;15h 5m 37s ;54337.84
+PLAYER;+QTY;2207;100;19.8398;Starbase Corporate Center;Void Starcross;15h 5m 40s ;54340.91
+NPC;-QTY;677;-1839;16.07878;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;1607;1575;25.69683;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;BAL;20;0;27.12897;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-PRICE;23;0;14.22532;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96

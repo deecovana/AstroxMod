@@ -17,7 +17,7 @@ STATION;seed;4-2-0-2-3-0-0-1-2-7-3-6-0-6-8-0-4-1-6-4-0-7-0
 STATION;interior_seed;5-6-15-7
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;45077.82
+STATION;last_dock_time;53288.8
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -43,15 +43,15 @@ ITEM;1451;12;0.71;20527.58
 ITEM;1;39;1.21;9.08
 ITEM;41;0;1.16;63.15
 ITEM;2334;14;0.50;29359.38
-ITEM;1532;0;1.31;174501.20
+ITEM;1532;0;2.50;323398.40
 ITEM;1572;12;1.23;136987.50
 ITEM;622;14;1.17;26951.58
-ITEM;1542;13;1.05;130776.60
+ITEM;1542;0;2.50;297526.60
 ITEM;641;11;0.84;11358.05
 ITEM;2121;118;1.20;551881.70
 ITEM;2270;1;0.97;964155.00
 ITEM;2210;27;0.78;874125.00
-ITEM;1069;49;0.74;85033.38
+ITEM;1069;12;0.25;34696.59
 ITEM;310;9;1.05;155.36
 ITEM;163;241;1.00;43.41
 ITEM;302;18;1.18;57.71
@@ -62,14 +62,14 @@ ITEM;50;6;1.23;49.39
 ITEM;1520;6;0.72;16143.75
 ITEM;2301;9;1.08;350156.30
 ITEM;1720;8;0.95;25929.69
-ITEM;1530;0;1.28;42652.59
+ITEM;1530;40;1.05;35537.11
 ITEM;1750;8;1.01;43887.50
 ITEM;1570;4;0.56;16826.88
 ITEM;620;1;0.76;5930.31
 ITEM;312;14;0.99;76.07
 ITEM;1111;20;1.18;9757.34
 ITEM;1710;29;0.88;24179.69
-ITEM;1540;0;1.25;38412.07
+ITEM;1540;0;2.50;74381.64
 ITEM;60;142;1.17;141.43
 ITEM;1057;24;0.90;7601.34
 ITEM;2125;35;0.86;36466.72
@@ -80,7 +80,7 @@ ITEM;1401;22;0.92;14100.63
 ITEM;1615;21;0.89;18566.56
 ITEM;201;81;0.99;87.98
 ITEM;1500;5;1.13;25560.94
-ITEM;1059;9;0.77;7180.23
+ITEM;1059;9;0.77;7200.38
 ITEM;2131;19;0.51;25081.88
 ITEM;1590;26;1.22;26143.75
 ITEM;2326;3;0.53;3703125.00
@@ -99,7 +99,7 @@ ITEM;2363;19;0.95;770.63
 ITEM;300;24;0.52;60.45
 ITEM;2192;10;0.57;4107422.00
 ITEM;301;7;0.61;17.64
-ITEM;332;0;1.25;4645.47
+ITEM;332;31;1.05;3958.34
 ITEM;661;11;1.20;15768.05
 ITEM;2385;8;0.51;2011.93
 ITEM;660;12;0.95;7260.31
@@ -110,21 +110,21 @@ ITEM;204;132;0.57;71.44
 ITEM;1200;9;1.13;4868.75
 ITEM;2160;27;0.64;14543.75
 ITEM;2112;129;0.84;11126.25
-ITEM;1054;62;0.78;2084.30
+ITEM;1054;12;0.25;809.25
 ITEM;2388;11;1.14;5502.71
 ITEM;313;6;0.53;181.47
 ITEM;2;103;0.74;9.55
 ITEM;405;19;0.61;0.77
 ITEM;602;8;1.02;23735.88
-ITEM;673;48;0.70;56970.56
-ITEM;675;59;0.74;44562.07
+ITEM;673;48;0.70;56677.50
+ITEM;675;59;0.74;44668.13
 ITEM;731;36;0.70;129885.90
 ITEM;759;32;1.22;215685.90
-ITEM;671;56;0.66;47380.59
+ITEM;671;56;0.66;47072.81
 ITEM;102;36;0.60;2.14
-ITEM;331;0;1.35;386.46
+ITEM;331;0;2.50;697.25
 ITEM;1521;28;0.60;27487.50
-ITEM;1531;0;1.32;88225.92
+ITEM;1531;0;2.50;161699.20
 ITEM;746;12;0.63;32273.44
 ITEM;1641;26;0.60;34359.38
 ITEM;1511;27;1.02;48716.25
@@ -134,7 +134,7 @@ ITEM;1013;7;1.14;33072.70
 ITEM;1112;29;0.61;18789.20
 ITEM;1172;2;0.53;18145.31
 ITEM;1014;9;1.06;28106.09
-ITEM;1541;0;1.05;65388.28
+ITEM;1541;17;1.05;65388.28
 ITEM;1062;17;1.19;34420.20
 ITEM;1015;25;0.91;29317.31
 ITEM;2114;12;0.86;139236.60
@@ -142,28 +142,28 @@ ITEM;2120;38;1.18;155230.50
 ITEM;1402;26;0.76;41512.19
 ITEM;1601;11;1.17;45258.75
 ITEM;1561;3;0.81;48448.13
-ITEM;1064;8;1.16;36613.41
+ITEM;1064;12;0.25;9913.31
 ITEM;305;10;0.74;192.90
 ITEM;20;210;0.79;18.42
 ITEM;304;8;0.87;722.29
-ITEM;677;64;0.76;38211.30
+ITEM;677;25;0.25;15173.44
 ITEM;733;30;0.59;67718.75
 ITEM;752;11;1.07;115718.80
 ITEM;712;11;1.19;91957.51
 ITEM;701;45;1.19;11494.69
-ITEM;691;41;0.73;6537.50
+ITEM;691;25;0.25;2697.50
 ITEM;692;20;1.08;7003.13
-ITEM;690;48;0.71;5583.86
+ITEM;690;48;0.71;5580.31
 ITEM;1460;13;1.06;28679.69
 ITEM;158;146;1.20;30.35
 ITEM;155;296;0.52;10.76
 ITEM;104;168;1.11;4.47
 ITEM;166;224;0.63;41.93
 ITEM;203;109;1.21;128.20
-ITEM;672;25;0.79;21003.43
+ITEM;672;25;0.79;21052.50
 ITEM;674;21;0.56;11649.38
-ITEM;676;25;0.64;10878.42
-ITEM;670;4;0.52;12750.94
+ITEM;676;25;0.64;10907.81
+ITEM;670;25;0.25;7080.94
 ITEM;711;12;1.14;29452.50
 ITEM;157;169;1.05;24.38
 ITEM;160;267;0.70;23.62
@@ -175,26 +175,26 @@ ITEM;303;3;0.96;957.00
 ITEM;206;25;0.63;94.34
 ITEM;407;20;0.90;5.43
 ITEM;103;311;0.65;1.59
-ITEM;330;0;1.29;2619.60
+ITEM;330;37;1.05;2165.63
 ITEM;165;69;0.83;48.75
 ITEM;118;350;1.20;6.91
 ITEM;170;98;1.11;80.81
-ITEM;1533;0;1.18;315812.30
+ITEM;1533;3;1.05;284296.90
 ITEM;2281;23;0.79;2105250.00
-ITEM;1543;0;1.36;333040.90
+ITEM;1543;0;2.50;595053.10
 ITEM;2152;14;0.62;2801634.00
-ITEM;1074;52;0.72;291712.70
+ITEM;1074;12;0.25;121438.10
 ITEM;600;5;0.67;5300.31
 ITEM;52;65;0.65;139.95
-ITEM;1534;0;1.20;644589.80
+ITEM;1534;0;2.50;1293594.00
 ITEM;2309;9;1.03;8580000.00
 ITEM;2315;27;0.71;10254840.00
 ITEM;2321;27;0.96;11931280.00
 ITEM;2111;-99;0.91;5761157.00
-ITEM;2111;126;1.02;6367785.00
-ITEM;1544;0;1.17;578834.40
+ITEM;2111;126;1.02;6396672.00
+ITEM;1544;0;2.50;1190106.00
 ITEM;62;147;0.63;408.46
-ITEM;1075;46;0.79;1110729.00
+ITEM;1075;12;0.25;425033.30
 ITEM;3;149;1.09;22.44
 ITEM;726;43;1.19;19157.81
 ITEM;207;252;1.06;165.99
@@ -205,7 +205,7 @@ ITEM;114;44;0.83;2.38
 ITEM;21;59;1.15;44.17
 ITEM;113;445;0.60;4.43
 ITEM;722;30;0.74;4963.13
-ITEM;693;53;0.73;4082.04
+ITEM;693;53;0.73;4085.94
 ITEM;703;12;0.57;4600.31
 ITEM;755;24;1.05;6823.13
 ITEM;159;81;0.73;39.49
@@ -216,7 +216,7 @@ ITEM;640;13;0.61;4880.31
 ITEM;162;270;1.20;46.72
 ITEM;202;114;0.72;72.52
 ITEM;744;44;0.83;229296.90
-ITEM;333;0;1.27;12772.63
+ITEM;333;0;2.50;24412.54
 ITEM;22;38;0.58;40.49
 ITEM;662;6;0.70;16875.72
 ITEM;100;54;0.98;1.60
@@ -238,14 +238,17 @@ SKILL;227;0.78
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;90;90;486481;KILL_PILOT#sector_56_station_1.txt#sector_13.txt#Engineer Fallfer Soga#npc_ship_data_(excavation_frigate_3)#3#null#null#null;Hunt down a low level <color='yellow'><i>Engineer Fallfer Soga</i></color> in <color='cyan'>Jala</color> and return to ValueStar in <color='cyan'>Hunu</color>;15;<i>Witse Moscodue</i> has put out a kill contract for <color='yellow'><i>Engineer Fallfer Soga</i></color>. Wanted for capital crimes against the Law faction for raiding multiple transports. Last known sighting of <color='yellow'><i>Engineer Fallfer Soga</i></color> was in the vicinity of the <color='cyan'>Jala</color> system. After <color='yellow'><i>Engineer Fallfer Soga</i></color> is dispatched, return to the ValueStar in the <color='cyan'>Hunu</color> system to collect the bounty payment.;13176;3750
 MISSION;110;60;108340;KILL_RAIDERS#sector_63_station_0.txt#sector_11.txt#1#10#npc_ship_data_(ATC_Conqueror)#random#random#random;Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Chamo</color> and return to Lammassu Hub in <color='cyan'>Numbu</color>;15;There has been a small Raider gang hanging around the warp gates in <color='cyan'>Chamo</color>. The Law faction has requested a sector clearance contract. Head on over to the <color='cyan'>Chamo</color> and clear out the <color='yellow'>1 Raider</color>, level 10 Raiders that have set up camp there. Dock at the Lammassu Hub station in <color='cyan'>Numbu</color> when complete.;9900;3438
 MISSION;143;90;468444;REFINE#4#27#sector_20_station_0.txt#sector_63_station_0.txt#null#null#null#null;Refine medium shipment of <color='yellow'>4</color> <color='yellow'>Engine Components</color> in <color='cyan'>Cliffs of Drameria</color> at the Medicore University station refinery;15;Lammassu Hub Station has contacted our client informing them of some medium cargo that remains unclaimed by former employees, <i>Kolfo Ribgalewe</i> of the Law Faction. <color='yellow'>4</color> <color='yellow'>Engine Components</color> need to be refined in <color='cyan'>Cliffs of Drameria</color>, at the Medicore University Station refinery.;85326;32156
 MISSION;40;45;921344;SCAN_PILOT#sector_65_station_0.txt#sector_59.txt#Lieutenant Vesip Ilesev#npc_ship_data_(missile_escort_3)#20#null#null#null;Locate and scan <color='yellow'><i>Lieutenant Vesip Ilesev</i></color> in <color='cyan'>Coralor</color> and return to CoraVault Hub in <color='cyan'>Pindoris</color>;16;<i>Nimole Opved</i> has requested a location verification on a recent employee. <color='yellow'><i>Lieutenant Vesip Ilesev</i></color> is supposed to be running a survey in <color='cyan'>Coralor</color>. Please verify the location of this pilot by scanning their ship and return to CoraVault Hub in <color='cyan'>Pindoris</color>.;9394;3000
 MISSION;101;120;284263;KILL_RECOVER#sector_5_station_0.txt#sector_65.txt#Ensign Ilevo Tifast#npc_ship_data_(Light_destroyer_2)#5#65#2005#null;Hijack <color='yellow'><i>Ensign Ilevo Tifast</i></color> in <color='cyan'>Pindoris</color> for <color='yellow'>65</color> <color='yellow'>Electronic Switchs</color> and deliver them to Mazu Starship in <color='cyan'>Enoch Estates</color>;15;Authorities in <color='cyan'>Pindoris</color> have reported the location of a known criminal, <color='yellow'><i>Ensign Ilevo Tifast</i></color>. He is carrying some stolen property belonging to members of the Law faction. Destroy <color='yellow'><i>Ensign Ilevo Tifast</i></color>'s ship and recover the <color='yellow'>65</color> <color='yellow'>Electronic Switchs</color>. When finished, meet up with <i>Sawbel Nuhdorn</i>, you can find him at Mazu Starship in <color='cyan'>Enoch Estates</color>.;39657;12250
+MISSION;141;90;955890;REFINE#2#27#sector_60_station_0.txt#sector_16_station_0.txt#null#null#null#null;Refine a light container of <color='yellow'>2</color> <color='yellow'>Engine Components</color> at the Biomart station in <color='cyan'>Veloxi</color>;15;The Law Faction has commissioned a refinery liaison, <i>Assih Xadsiv</i> at Rendo Labs. After an audit, <color='yellow'>2</color> items of <color='yellow'>Engine Components</color> were left unused. Head on over to <color='cyan'>Veloxi</color> and refine these <color='yellow'>Engine Components</color> at the Biomart refinery.;21000;7875
+MISSION;40;45;225856;SCAN_PILOT#sector_56_station_0.txt#sector_14.txt#Govenor Bunhea Layoubor#npc_ship_data_(law_enforcer_0)#5#null#null#null;Locate and scan <color='yellow'><i>Govenor Bunhea Layoubor</i></color> in <color='cyan'>Gate of Alpharis</color> and return to Transporteers in <color='cyan'>Hunu</color>;16;<i>Buepae Wenbast</i> has requested a location verification on a recent employee. <color='yellow'><i>Govenor Bunhea Layoubor</i></color> is supposed to be running a survey in <color='cyan'>Gate of Alpharis</color>. Please verify the location of this pilot by scanning their ship and return to Transporteers in <color='cyan'>Hunu</color>.;8540;2000
+MISSION;73;45;351907;ESCORT#sector_0_station_4.txt#sector_40_station_0.txt#Chairman Fezils Vizae#npc_ship_data_(VVS_Wyvern)#16#null#null#null;<color='yellow'><i>Chairman Fezils Vizae</i></color> is waiting at Starbase Corporate Center in <color='cyan'>Void Starcross</color> and needs an escort to Legistron in <color='cyan'>Dogstar Prime</color>;15;The Law political party has drafted an escort request for an incoming diplomat named <color='yellow'><i>Chairman Fezils Vizae</i></color>. He is currently awaiting in <color='cyan'>Void Starcross</color>, and is docked at the Starbase Corporate Center station. Lead <color='yellow'><i>Chairman Fezils Vizae</i></color> to the Legistron station in the <color='cyan'>Dogstar Prime</color> system safely.;42501;8039
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;1.17294;ship_data_(StinVec_SOLV_B_EBC4_Nucleus).txt
 SHIP;1;0.97;ship_data_(excavation_frigate_1).txt
 SHIP;2;1.04;ship_data_(recon_utility_1).txt
 SHIP;3;1.01;ship_data_(transport_shuttle_1).txt

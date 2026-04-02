@@ -12,3 +12,11 @@ NPC;+LOCAL;20;7;137.2486;Astrox Security Patrol;Felishar;8h 59m 56s ;32396.5
 NPC;-LOCAL;0;0;474.6;Valuestar Hub;Jelumus;9h 17m 2s ;33422.23
 NPC;-LOCAL;0;0;474.6;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.63
 NPC;-LOCAL;17;17;213.57;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
+NPC;-LOCAL;32;32;213.57;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;-LOCAL;2;2;213.57;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;-LOCAL;0;0;264.7195;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;-QTY;384;-2375;198.3092;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;1578;1544;148.5379;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;2030;1965;241.4919;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;-LOCAL;79;0;213.57;Xellon;Ele;15h 52m 50s ;57170.69
+NPC;-PRICE;45;0;137.9371;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96

@@ -7,3 +7,7 @@ NPC;+LOCAL;15;2;53625;Starbase Corporate Center;Void Starcross;5h 39m 51s ;20391
 NPC;+STOCK;75;14;130970.6;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;32;14;136870;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;168;12;113697.5;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+LOCAL;15;52;53625;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
+NPC;+LOCAL;15;5;53625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;+QTY;64;7;162043.4;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;39;11;178101;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5

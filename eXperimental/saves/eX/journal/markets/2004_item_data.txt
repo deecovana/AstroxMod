@@ -5,3 +5,7 @@ NPC;+STOCK;315;149;445.0877;StarShepards Headquarters;Void Starcross;7h 47m 19s 
 NPC;+PRICE;779;0;463.9749;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;+STOCK;925;146;451.3373;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;+LOCAL;150;1170;120.445;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75
+NPC;-PRICE;150;0;128.0608;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
+NPC;+LOCAL;150;1448;120.445;Tella's;Bitcola;15h 9m 48s ;54588.81
+NPC;+QTY;408;93;444.266;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+LOCAL;150;707;120.445;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17

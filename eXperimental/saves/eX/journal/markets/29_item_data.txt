@@ -2,3 +2,5 @@ NPC;-LOCAL;0;0;3550.692;Daemon Ammunitions;Starfort Ramos;4h 11m 41s ;15101.43
 NPC;+STOCK;4565;3915;2146.044;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;4501;4192;2578.917;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;19;19;2801.644;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
+NPC;+STOCK;8110;3545;2026.029;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;BAL;4565;0;2266.814;Biomate University;Void Starcross;16h 10m 6s ;58206.41

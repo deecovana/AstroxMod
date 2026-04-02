@@ -22,3 +22,10 @@ NPC;-LOCAL;0;0;37500;Daemon Ammunitions;Starfort Ramos;10h 46m 51s ;38811.39
 NPC;+LOCAL;25;55;4875;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.63
 NPC;+LOCAL;25;1;10695.61;Blargg's;Beacon Spita;12h 24m 57s ;44697.23
 NPC;+LOCAL;25;10;4875;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
+NPC;+LOCAL;25;29;4875;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;+LOCAL;25;179;4875;StarShepards Headquarters;Void Starcross;14h 31m 59s ;52319.39
+NPC;+LOCAL;25;9;4875;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;+LOCAL;25;157;4875;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
+NPC;+LOCAL;25;2;4875;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;-PRICE;0;0;48193.75;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;+QTY;38;13;5081.625;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28

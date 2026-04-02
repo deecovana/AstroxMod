@@ -16,3 +16,7 @@ NPC;+STOCK;2011;2011;118.4425;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;-LOCAL;0;0;93.75;Lammassu Financial;Void Starcross;12h 11m 24s ;43884.63
 NPC;+LOCAL;2500;6637;12.1875;Astrox Security Patrol;Felishar;12h 33m 41s ;45221.6
 NPC;-LOCAL;51;51;42.1875;Lammassu Financial;Void Starcross;12h 45m 35s ;45935.15
+NPC;-LOCAL;0;0;93.75;Lammassu Financial;Void Starcross;14h 11m 38s ;51098.01
+NPC;-LOCAL;0;0;93.75;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
+NPC;-LOCAL;0;0;93.75;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
+NPC;+LOCAL;2500;25306;12.1875;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07

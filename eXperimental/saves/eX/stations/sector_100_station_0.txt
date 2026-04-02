@@ -38,6 +38,8 @@ MERC;4;1.42;npc_ship_data_(transport_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Buy Order Request for (1) Items ;302x4297;242792;105952.50
+
 ITEM;1;77;0.60;4.86
 ITEM;41;25;0.74;42.20
 ITEM;1522;30;0.74;66686.50

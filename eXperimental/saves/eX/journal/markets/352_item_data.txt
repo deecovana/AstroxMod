@@ -10,3 +10,9 @@ NPC;+STOCK;883;829;6312.026;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;-LOCAL;6;6;10111.74;CoraVault Hub;Pindoris;11h 27m 56s ;41276.43
 NPC;-LOCAL;3;0;10111.74;CoraVault Hub;Pindoris;11h 34m 18s ;41658.76
 NPC;-LOCAL;0;0;10231.03;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71
+NPC;+STOCK;938;841;6607.973;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;+LOCAL;1000;6860;2921.168;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;+LOCAL;1000;389;2921.168;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;-QTY;184;-568;9119.551;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;1466;794;10235.55;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;97;0;7116.679;Biomate University;Void Starcross;16h 10m 6s ;58206.41

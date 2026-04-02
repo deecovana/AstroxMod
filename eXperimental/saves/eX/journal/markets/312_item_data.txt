@@ -22,3 +22,13 @@ NPC;+STOCK;759;704;53.71563;Starbase Corporate Center;Void Starcross;7h 47m 19s 
 NPC;+STOCK;933;883;66.72202;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-LOCAL;8;8;81.46995;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
 NPC;-LOCAL;20;20;79.4475;ValueStar;Hunu;10h 24m 2s ;37442.54
+NPC;-LOCAL;40;40;79.4475;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
+NPC;-LOCAL;22;22;79.4475;StarShepards Headquarters;Void Starcross;14h 31m 59s ;52319.39
+NPC;-PRICE;7;0;90.52828;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;-QTY;0;-40;101.0407;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;4;0;79.4475;PharmaLife;Carioullis;15h 22m 21s ;55341.64
+NPC;-LOCAL;20;0;79.4475;Imperium Republica ;Gate of Alpharis;15h 25m 53s ;55553.39
+NPC;+QTY;973;966;90.54059;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+QTY;574;552;100.5254;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;750;0;61.46962;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;687;666;88.32241;CoraVault;Lins;16h 37m 57s ;59877.96

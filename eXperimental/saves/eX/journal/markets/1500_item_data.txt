@@ -1,1 +1,7 @@
 NPC;-LOCAL;11;0;23625;Oro Omniplex Center;Merces Academy;5h 0m 18s ;18018.03
+NPC;-PRICE;28;0;26394.5;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;+QTY;15;6;19581.19;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
+NPC;+QTY;13;11;17837.4;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;+PRICE;8;0;23861.67;Acrondia Corp.;Crown of Imperium;16h 11m 8s ;58268.67
+NPC;-LOCAL;0;0;52500;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
+NPC;+STOCK;38;10;25321.59;CoraVault;Lins;16h 37m 57s ;59877.96

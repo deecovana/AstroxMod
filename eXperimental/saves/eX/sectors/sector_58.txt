@@ -98,4 +98,4 @@ NPC_SHIP;npc_ship_data_(support_shuttle_1);-107;-328;-396;15;1
 NPC_SHIP;npc_ship_data_(transport_frigate_1);-298;-423;-2922;16;1
 
 // CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty
-CRATE;RS-1 Translator Crate (326);Professor Bewe Barboso;Shuttle;1000;140.5788;300;0;-1267.29;-1144.81;-3114.45;True;;0;0;
+CRATE;TS-1 Dexta Crate (941);Private Naliavi Paemole;Shuttle;1000;254.1383;300;0;553.68;-2104.78;2714.28;True;;0;0;

@@ -5,3 +5,8 @@ NPC;+STOCK;127;2;1093763;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;28;2;1291095;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;353;2;1093819;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;342;2;1681053;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;-PRICE;153;0;2248317;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
+NPC;-PRICE;121;0;1171983;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;-QTY;27;-1;1286839;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+QTY;122;1;1174235;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;BAL;80;-2;1220587;Biomate University;Void Starcross;16h 10m 6s ;58206.41

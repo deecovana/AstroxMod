@@ -5,3 +5,9 @@ NPC;+LOCAL;15;2;4875;Starbase Corporate Center;Void Starcross;5h 39m 51s ;20391.
 NPC;-QTY;141;-14;17153.44;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
 NPC;+STOCK;152;11;16935.83;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;195;10;16051.47;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
+NPC;+LOCAL;15;63;4875;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
+NPC;-PRICE;1;0;19037.56;CoraVault;Lins;14h 47m 2s ;53222.26
+NPC;+LOCAL;15;4;4875;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;+LOCAL;15;1;13704.9;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
+NPC;+QTY;163;11;16931.63;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;BAL;117;-12;15398.8;Biomate University;Void Starcross;16h 10m 6s ;58206.41

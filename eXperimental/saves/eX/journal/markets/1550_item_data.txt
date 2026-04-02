@@ -4,3 +4,6 @@ NPC;+QTY;26;6;17113.28;Stinkfinger;Jonisae;5h 52m 31s ;21151.35
 NPC;+STOCK;69;11;29869.81;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;39;10;23363.58;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;33;10;31393.57;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;79;10;28787.36;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-LOCAL;46;0;28625;Imperium Republica ;Gate of Alpharis;15h 25m 53s ;55553.39
+NPC;BAL;61;-8;28290.46;Biomate University;Void Starcross;16h 10m 6s ;58206.41

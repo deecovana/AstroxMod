@@ -33,7 +33,7 @@ OPTIONS_enable_controller_inputs;False
 OPTIONS_market_popup;False
 OPTIONS_skill_train_popup;False
 OPTIONS_mission_accept_popup;False
-OPTIONS_repair_complete_popup;True
+OPTIONS_repair_complete_popup;False
 OPTIONS_refinery_move_popup;True
 OPTIONS_instant_skill_training;False
 OPTIONS_autopilot_select;False

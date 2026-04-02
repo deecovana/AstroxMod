@@ -1,0 +1,85 @@
+NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics FormatException: Input string was not in a correct format.
+System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) (at <5a8bfa4804234695888f9129fe33846c>:0)
+System.Number.ParseInt32 (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) (at <5a8bfa4804234695888f9129fe33846c>:0)
+System.Int32.Parse (System.String s) (at <5a8bfa4804234695888f9129fe33846c>:0)
+NPC_SHIP.LoadShipData () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+NPC_SHIP.Start () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics FormatException: Input string was not in a correct format.
+System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) (at <5a8bfa4804234695888f9129fe33846c>:0)
+System.Number.ParseInt32 (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) (at <5a8bfa4804234695888f9129fe33846c>:0)
+System.Int32.Parse (System.String s) (at <5a8bfa4804234695888f9129fe33846c>:0)
+NPC_SHIP.LoadShipData () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+NPC_SHIP.Start () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics FormatException: Input string was not in a correct format.
+System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) (at <5a8bfa4804234695888f9129fe33846c>:0)
+System.Number.ParseInt32 (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) (at <5a8bfa4804234695888f9129fe33846c>:0)
+System.Int32.Parse (System.String s) (at <5a8bfa4804234695888f9129fe33846c>:0)
+NPC_SHIP.LoadShipData () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+NPC_SHIP.Start () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics NullReferenceException: Object reference not set to an instance of an object
+MAIN_event.newBackgroundEvent (System.Int32 event_id) (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+MAIN_event+<generateDockEvents>d__14.MoveNext () (at <7fe041632d6c456a9653c0e721cf76ce>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <acbc7a8432b24944a0e1db033a70c02a>:0)
+
+PLT:2 BLD:0.0157
+DeviceID: SLIM GfxMem:7010  SysMem:14020 OS:Windows 11  (10.0.26200) 64bit Proc:AMD Ryzen 7 7735HS with Radeon Graphics 
