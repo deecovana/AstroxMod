@@ -1,0 +1,191 @@
+Build 0.0157
+
+This update focuses on the rebalancing of skills, skill book costs, skill point requirements, and skill effect values per level. Some of the skill effect values have also changes. These changes will correspond with the upcoming changes to the skill book system.
+Test out these changes in the momoslab MOD. Once all the balancing changes are complete, they will be moved to the default MOD folder.
+
+- All Weapon Projectile Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Weapon Laser Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Weapon Beam Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Weapon Launcher Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Weapon Torpedo Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Excavation Miner Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Excavation Salvsger Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Electronics ECM Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Electronics ECM Cloak have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Ship Navigation Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Ship Targeting Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Ship Cargo, Shield, Armor, Energy and LifeSupport Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Ship Resistance Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Missions Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Fleet Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Pilot Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Station Service Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+- All Support Skills have been adjusted. Skill cost, Effect values, Skill point requirements.
+
+The next update will focus on a few UI tweaks and QoL additions, modifications to the cloak system, and a number of object folder data file balances. I know I said I would be doing 12 updates before releasing v1.0. It's close, but not there yet. I will continue with the updates until I nail down some loose mechanics, and redo the tutorial. I will try to get out these updates weekly like I have been, However, I do forsee a few of them requiring a couple weeks or more as to avoid (in progress) tutorial quests. Anyway, the development continues.
+
+
+0.0156
+
+ This update focuses mainly on the Missions database. You can test this out in the momoslab MOD. Once all the balancing changes are applied and tested, They will be moved to the main default MOD folder, making these changes live for everyone.
+ All bug fixes and code tweaks are applied immediately and are live for everyone. You do not need to switch to the momoslab MOD to enjoy.
+
+- Fixed issue with Sandbox Warpgate Links. Link are now created properly with WarpGate Link option controlling the number of cross links that connect the linear clusters.
+- Fixed Mining harvester turrets shooting at salvage. Mining harvestors will no longer fire when their target is resource salvage.
+- Fixed bug allowing mission generator to create a mission for the DELIVERY,COLLECT,TRANSPORT,REFINE, and FABRICATE missions in the station you are currently docked at. This would allow for instant completion without undocking.
+- Fixed reported NullReferenceException in list_module_script.Update function.
+- Fixed Sector panel error causing null reference when frame is unable to detect the systems nav panel for toggle GPS call.
+- Fixed small memory leak in module UI icon image reloading itself during update function.
+
+- Adjusted Player Level bonus for mission credit reward when generating missions. (Slight reduction).
+- Adjusted Jump bonus for mission credit reward when generating missions. (Slight increase to the payment bonus based on number of jumps in the mission).
+
+* Mission Database first balancing pass.
+- Adjusted all time requirements for all generated missions. The Tutorial and Quest missions have not been touched and will keep their old time requirements.
+- Adjusted all base credit rewards for each mission. Most of these have been drastically reduced, based off time to completion.
+- Adjusted all skill point rewards for all missions. This does not include special missions and quest missions.
+- Adjusted all Collection mission generation data for required item quantity values.
+- Adjusted all Harvest mission generation data for required item quantity values.
+- Adjusted all Salvage mission generation data for required item quantity values.
+- Adjusted a number of the Raider missions generation data. (Number of Raiders and Level of raiders generated).
+
+
+
+
+0.0155
+
+Yay!, first pass thru on the ships rebalancing has been completed. 
+A second soft pass thru the ships, and mission database rebalance will be coming next Saturday along with a number of small bug fixes.
+
+All changes to ships in this update are applied and only available from momoslab MOD. This will prevent these adjustments from effecting your current saves. Once all the balancing changes are applied and tested, They will be moved to the main default MOD folder, making these changes live for everyone.
+
+- All Frigate Class ships have been adjusted.
+	Model and Modslot positions and scaling has been adjusted.
+	Image icons updated to reflect base coloration.
+	Base prices, Scan Ranges, Active and Passive module slots. Additional adjustments to various ship stats.
+	Specials types and Special values.
+	Added revised shuttle class description.
+	New ship names -
+		Missile Enforcer, Tyrant, Executioner, Mining Frigate, Mining Frigate T2, Mining Frigate T3, Tsetse, Recluse, Sovacraft, Bandit star, Striker, Assimilator, Osmorph, Envisioner, Redeemer, Restorer, Deliverer, Hexalon, Heptalon, Octolon.
+	
+- All Cruiser Class ships have been adjusted.
+	Model and Modslot positions and scaling has been adjusted.
+	Image icons updated to reflect base coloration.
+	Base prices, Scan Ranges, Active and Passive module slots. Additional adjustments to various ship stats.
+	Specials types and Special values.
+	Added revised escort class description.
+		New ship names -
+			Predator, Mining Cruiser, Megastar, Sail Stormer, Priest, Bishop, Excavo
+			
+- All Carrier Class ships have been adjusted.
+	Model and Modslot positions and scaling has been adjusted.
+	Image icons updated to reflect base coloration.
+	Base prices, Scan Ranges, Active and Passive module slots. Additional adjustments to various ship stats.
+	Specials types and Special values.
+	Added revised escort class description.
+		New ship names -
+			Drone Piranha, Mining Carrier, Abductor, Correlator, Demolisher, Starjacker.
+
+- All Destroyer , Battlecruiser, and Dreadnaught Class ships have been adjusted.
+	Model and Modslot positions and scaling has been adjusted.
+	Image icons updated to reflect base coloration.
+	Base prices, Scan Ranges, Active and Passive module slots. Additional adjustments to various ship stats.
+	Specials types and Special values.
+	Added revised escort class description.
+		New ship names -
+			Gemini, Blacknova, Devastar, Nova Reaper, Titanous.
+
+
+
+
+0.0154
+
+- Added Scale Lock to the ship part editor of the ModTools Ship Editor panel. This allows you to toggle the scale lock, allowing the aspect of the model scaling to adjust the Y and Z scale by entering text in X field.
+- Fixed missing file item_special_red in momos_lab objects folder causing white panel behind fabricator materials in the station fabricator panel.
+
+All changes to ships in this update are applied and only available from momoslab MOD. This will prevent these adjustments from effecting your current saves. Once all the balancing changes are applied and tested, They will be moved to the main default MOD folder, making these changes live for everyone.
+- All Shuttle Class ships have been adjusted.
+	Model and Modslot positions and scaling has been adjusted.
+	Image icons updated to reflect base coloration.
+	Base prices, Scan Ranges, Active and Passive module slots. Additional adjustments to various ship stats.
+	Specials types and Special values.
+	Added revised shuttle class description.
+	New ship names -
+		Starclass Shuttle,	Shuttle Cabi, Shuttle Mosquito, Silverfish Shuttle, Combat Shuttle, Scan Shuttle, Arcane Shuttle and Dexta Shuttle.
+	
+- All Escort Class ships have been adjusted.
+	Model and Modslot positions and scaling has been adjusted.
+	Image icons updated to reflect base coloration.
+	Base prices, Scan Ranges, Active and Passive module slots. Additional adjustments to various ship stats.
+	Specials types and Special values.
+	Added revised escort class description.
+		New ship names -
+			Invector, Squire, Metatronis, Mining Escort, Basic Escort, Excavo, Salvage Escort, Dragonfly, Mantis, Eleventor, Bandit, Coravel, Intergrator, Harmonizer, Unifier, Commander, Drone Seer, Bot Druid, Phoebus, Helios, Apollo
+			
+- All Utility Class ships have been adjusted.
+	Model and Modslot positions and scaling has been adjusted.
+	Image icons updated to reflect base coloration.
+	Base prices, Scan Ranges, Active and Passive module slots. Additional adjustments to various ship stats.
+	Specials types and Special values.
+	Added revised escort class description.
+		New ship names -
+			Gunner, Sniper, Spire, Extractor, Scavenger, Collectrox, Peritax, Scorpiox, Corsair, Dagger, Gemini, Curator, Consercator, Seeker, Archaris, Stacius, Racinus, Hauler, Sirius, Packard.
+
+
+
+
+
+0.0153
+
+I spent a good amount of time preparing for these next 4 updates. Spreadsheets and flashcards, I will be spending the next 4 weeks working on balancing. I will start with the ships and go from there. This update focused on polishing up a few things before switching gears for the big balancing pass.
+
+- Fixed Refine mission bug that was preventing proper mission completion check.
+- Fixed Fabricator mission bug that was preventing proper mission completion check.
+- Fixed GPS bug when using Warp Drive module while in auto GPS mode.
+
+- Adjusted mission qualification level calculations for the station mission generator.
+- Adjusted Refine mission code to check for proper refinery station before mission check is initiated.
+- Adjusted Fabricate mission code to check for proper fabricator station location before mission check.
+- Adjusted Passive Scan panel resize code to stretch the filter options panel instead of the scanner ring display when resizing the panel.
+- Adjusted Passive Scan filter list buttons to shift vertically if panel is resized, thus showing maximum number of filter items in available space.
+
+** Warp and Warp Drive stuff.
+- Adjusted Warp drive panel layout, text sizes and background to be consistent with the other UI panels. ( Custom player coloration included ).
+- Adjusted Warp fx displacement wiggle value. +0.15
+- Adjusted Warp pitch scale for length on the ship warp drive.
+- Adjusted Warp variable movement with and increase of 25 percent.
+- Adjusted Warp timer calculation to reduce the warp distance calculation and thus overall warp total time. Distance means alittle less than before.
+- Adjusted warp drive fuel consumption max from 2000 to 3000;
+- Adjusted Warp drive fuel consumption calculations to reduce overall fuel required based on warp distance. 20 percent reduction.
+- Adjusted Warp drive calculations for fuel requirements based on the number of mercs in your fleet, has increased by 20 percent.
+- Adjusted Warp drive calculations for total time of warp. Has been reduced by 50 percent.
+- Adjusted code for warp drive activation to clear all GPS pathing and disable current GPS if enabled before warp drive activation.
+
+
+
+0.0152
+No luck with the cloud saves yet. I think I will take a break from it for a bit as I am burning a lot of time testing and researching. I will come back around to it in a few more updates.
+
+- Fixed rockcloud generation in sandbox to reduce camera clipping on background rocks when rotating camera.
+- Fixed sandbox generator bug causing warpgates to generate a to and from gate on itself. No longer will start sector have gates to itself.
+- Fixed material flicker bug when opening passive scanner from targeting panel.
+- Fixed button highlight on options panel when opening for the first time after changing screen size.
+
+- Adjusted mission overview panel layout to better feature Payment, Deposit, Space Required, and Faction at the top of the overview panel.
+- Adjusted mission qualification level scale. Reduced additive bonus to 35% of player pilot level.
+- Adjusted targeting panel code to remove all passive scanner functions and moved them their own file.
+- Adjusted code for passive scan range and speed calculations on the ship passive scanner.
+- Added skillpoint bonus and Faction rating bonus to the mission overview panel in station.
+
+** New passive scanner panel.
+  I finally got into the passive scanner filter, and I have rebuilt the entire system to function in it's own panel. This panel has a much better look and feel, as well as additional functionality. I may be polishing it up a bit more in the next couple of updates.
+- Added new breakaway panel for ship Passive Scanner to replace the old small passive scan panel attached to the targeting panel.
+- Added drag, drop and resize functionailty to the new passive scanner panel.
+- Added active scan ring to the passive scanner, now showing the current distance of the active ping and current progress of the scan.
+- Added scan object indicator to the passive scanner. Scanned items will now appear in the ping box and show relative position to the scanning ship.
+- Added color coding to the object indicators for the passive scanner. Base categories all have a unique color.
+- Added object indicator counter to the passive scanner panel to show the total number of detected objects per scan.
+- Added scrollable filter list to the passive scanner panel.
+- Added rotation to scanner panel ship indicator icon. Rotation will show relation of scanned item to position and rotation of ship.
+- Added ability to filter for all 11 types of resources.
+- Added ability to filter for all 10 types of salvage.
