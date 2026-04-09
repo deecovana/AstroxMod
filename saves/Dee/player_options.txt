@@ -133,7 +133,7 @@ KEY_OPTIONS_left;A
 KEY_OPTIONS_right;D
 KEY_OPTIONS_reverse;S
 KEY_OPTIONS_lshift;Space
-KEY_OPTIONS_action;LeftBracket
+KEY_OPTIONS_action;RightBracket
 KEY_OPTIONS_clear_all_targets;H
 KEY_OPTIONS_autopilot_toggle;E
 KEY_OPTIONS_autotarget_toggle;Y
@@ -166,13 +166,13 @@ KEY_OPTIONS_camera_ui;Backspace
 KEY_OPTIONS_allmodules_on;KeypadMinus
 KEY_OPTIONS_allmodules_off;KeypadMinus
 KEY_OPTIONS_friendly_fire;F
-KEY_OPTIONS_allmodules_target;BackQuote
+KEY_OPTIONS_allmodules_target;F4
 KEY_OPTIONS_drones_launch;B
 KEY_OPTIONS_drones_dock;V
 KEY_OPTIONS_lcontrol;LeftControl
 KEY_OPTIONS_lalt;LeftAlt
-KEY_OPTIONS_lbracket;KeypadDivide
-KEY_OPTIONS_rbracket;KeypadMultiply
+KEY_OPTIONS_lbracket;F1
+KEY_OPTIONS_rbracket;F2
 KEY_OPTIONS_toggle_panels;KeypadPlus
 KEY_OPTIONS_sort_targets;Period
 KEY_OPTIONS_drone_group_1;F5

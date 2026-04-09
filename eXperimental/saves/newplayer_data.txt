@@ -1,77 +1,51 @@
 // PLAYER;Variable;Value
 <PLAYER>
-PLAYER;name;eX
-PLAYER;level;9
-PLAYER;xp;43339.00
-PLAYER;next_level_xp;44100.00
-PLAYER;last_level_xp;35100.00
+PLAYER;name;<PILOTNAME>
+PLAYER;level;<LEVEL>
+PLAYER;xp;<XP>
+PLAYER;next_level_xp;100.00
+PLAYER;last_level_xp;0.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;958554.35
+PLAYER;credits;<CREDITS>
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;6
-PLAYER;playtime;47370.10
+PLAYER;skill_points;<SKILLPOINTS>
+PLAYER;playtime;0
 PLAYER;fleet_formation;Broad
-PLAYER;fleet_formation_distance;1
-PLAYER;max_missions;2
-PLAYER;face_1;male_66.png
-PLAYER;face_2;accessory_1.png
-PLAYER;face_bg;bgimg_13.png
-PLAYER;profession_id;52
+PLAYER;fleet_formation_distance;1.0
+PLAYER;max_missions;1
+PLAYER;face_1;<FACE1>
+PLAYER;face_2;<FACE2>
+PLAYER;face_bg;<BGIMG>
+PLAYER;profession_id;<PROFESSION_ID>
 PLAYER;passive_scanner_settings;True,True,True,True,True,True,True,True,True
-PLAYER;autopilot_settings;True,False,True,True,False
-PLAYER;orbit_data;True,500,15,0,True
+PLAYER;autopilot_settings;False,False,False,False,False
+PLAYER;orbit_data;False,300,0,0,False
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
 PLAYER;cargo_settings;ALL,Name,Ascend,1
-PLAYER;targeting_settings;Distance,Ascend
-PLAYER;station_market_settings;Passive Module#Shield Mod,Price,Ascend,100
-PLAYER;station_university_settings;Ship,Name,Ascend,100
+PLAYER;targeting_settings;Name,Ascend
+PLAYER;station_market_settings;ALL,Name,Ascend,100
+PLAYER;station_university_settings;ALL,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
-PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
-PLAYER;sector;sector_95.txt
-PLAYER;sector_id;95
-PLAYER;station;sector_95_station_0.txt
+PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+NEWGAME
+PLAYER;sector;sector_0.txt
+PLAYER;sector_id;0
+PLAYER;station;structure_welcome_center.txt
 PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(pirate_escort_2)18371.txt;True;False;sector_0_station_2.txt;sector_0.txt;1801.33;-844.69;-1794.92
+SHIP;<STARTSHIP>.txt;True;False;sector_0_station_0.txt;sector_0.txt;-128.4;121.9;-5148.9
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
 
 // SKILL; skill id, skill lvl, train time remaining, total time
 <SKILLS>
-SKILL;214;3;0;0
-SKILL;55;5;0;0
-SKILL;56;5;0;0
-SKILL;57;5;0;0
-SKILL;52;3;0;210
-SKILL;51;2;0;240
-SKILL;64;3;0;165
-SKILL;65;2;0;240
-SKILL;41;3;0;360
-SKILL;11;3;0;360
-SKILL;100;1;0;170
-SKILL;31;1;0;120
-SKILL;21;1;0;120
-SKILL;1;4;0;480
-SKILL;215;3;0;90
-SKILL;240;1;0;130
-SKILL;71;1;0;90
-SKILL;53;1;0;90
-SKILL;111;1;0;45
-SKILL;130;1;0;50
-SKILL;81;1;0;60
-SKILL;60;1;0;120
-SKILL;59;1;0;60
-
-
+<STARTSKILLS>
 
 // MEDAL , id , bool, img, desc
 <MEDALS>
-MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful excavation of 100 units of Adamyte. 
-MEDAL;8;True;medal_17.png;First Mission Completed;Awarded for the successful completion of your very first Mission. 
-MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your first raider in combat. 
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
@@ -79,21 +53,21 @@ MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your fir
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
 STAT;0;;0;
-STAT;1;Projectile Weapons Fired;396;Weapons
-STAT;2;Laser Weapons Fired;395;Weapons
-STAT;3;Beam Weapons Fired;39;Weapons
-STAT;4;Launcher Weapons Fired;18;Weapons
+STAT;1;Projectile Weapons Fired;0;Weapons
+STAT;2;Laser Weapons Fired;0;Weapons
+STAT;3;Beam Weapons Fired;0;Weapons
+STAT;4;Launcher Weapons Fired;0;Weapons
 STAT;5;Torpedo Weapons Fired;0;Weapons
 STAT;6;Salvage Beams Fired;0;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;491;Excavation
-STAT;11;Adamyte Ore Mined;3473;Excavation
-STAT;12;Gradeon Ore Mined;1606;Excavation
-STAT;13;Quazor Ore Mined;828;Excavation
+STAT;10;Mining lasers Fired;0;Excavation
+STAT;11;Adamyte Ore Mined;0;Excavation
+STAT;12;Gradeon Ore Mined;0;Excavation
+STAT;13;Quazor Ore Mined;0;Excavation
 STAT;14;Lokken Ore Mined;0;Excavation
-STAT;15;Torim Ore Mined;609;Excavation
+STAT;15;Torim Ore Mined;0;Excavation
 STAT;16;Plasite Ore Mined;0;Excavation
 STAT;17;Dynex Ore Mined;0;Excavation
 STAT;18;Belasite Ore Mined;0;Excavation
@@ -104,46 +78,46 @@ STAT;22;Junk Collected;0;Excavation
 STAT;23;Scraps Collected;0;Excavation
 STAT;24;Salvage Collected;0;Excavation
 STAT;25;Derelicts Collected;0;Excavation
-STAT;26;Missions Complete;23;Missions
-STAT;27;Missions Expired;4;Missions
-STAT;28;Missions Aborted;3;Missions
+STAT;26;Missions Complete;0;Missions
+STAT;27;Missions Expired;0;Missions
+STAT;28;Missions Aborted;0;Missions
 STAT;29;Transport Missions Complete;0;Missions
 STAT;30;Collection Missions Complete;0;Missions
-STAT;31;Delivery Missions Complete;2;Missions
-STAT;32;Recon Missions Complete;1;Missions
-STAT;33;Harvest Missions Complete;3;Missions
+STAT;31;Delivery Missions Complete;0;Missions
+STAT;32;Recon Missions Complete;0;Missions
+STAT;33;Harvest Missions Complete;0;Missions
 STAT;34;Escort Missions Complete;0;Missions
-STAT;35;Recover Missions Complete;2;Missions
-STAT;36;Kill Missions Complete;16;Missions
-STAT;37;Kill Recover Missions Complete;2;Missions
-STAT;38;Sectors Explored;21;Navigation
-STAT;39;Warp gate Jumps;131;Navigation
+STAT;35;Recover Missions Complete;0;Missions
+STAT;36;Kill Missions Complete;0;Missions
+STAT;37;Kill Recover Missions Complete;0;Missions
+STAT;38;Sectors Explored;1;Navigation
+STAT;39;Warp gate Jumps;0;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;0;Missions
 STAT;43;Salvage Missions Complete;0;Missions
-STAT;44;Refinery Missions Complete;3;Missions
-STAT;45;Fabricator Missions Complete;3;Missions
+STAT;44;Refinery Missions Complete;0;Missions
+STAT;45;Fabricator Missions Complete;0;Missions
 STAT;46;;0;
 STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
-STAT;50;Skill Levels Trained;31;Skills
-STAT;51;Skill Points Earned;237;Skills
-STAT;52;Skill Points Spent;321;Skills
+STAT;50;Skill Levels Trained;2;Skills
+STAT;51;Skill Points Earned;0;Skills
+STAT;52;Skill Points Spent;0;Skills
 STAT;53;;0;
 STAT;54;;0;
 STAT;55;;0;
 STAT;56;;0;
 STAT;57;;0;
 STAT;58;Structures Destroyed;0;Combat
-STAT;59;Npcs Destroyed;1;Combat
-STAT;60;Raiders Destroyed;4;Combat
-STAT;61;Projectile Damage Taken;1048;Combat
-STAT;62;Laser Damage Taken;9124;Combat
-STAT;63;Beam Damage Taken;4976;Combat
-STAT;64;Missile Damage Taken;2900;Combat
-STAT;65;Torpedo Damage Taken;1440;Combat
+STAT;59;Npcs Destroyed;0;Combat
+STAT;60;Raiders Destroyed;0;Combat
+STAT;61;Projectile Damage Taken;0;Combat
+STAT;62;Laser Damage Taken;0;Combat
+STAT;63;Beam Damage Taken;0;Combat
+STAT;64;Missile Damage Taken;0;Combat
+STAT;65;Torpedo Damage Taken;0;Combat
 
 // KEY; Sector ; gate_id
 <KEY>
@@ -153,6 +127,3 @@ STAT;65;Torpedo Damage Taken;1440;Combat
 
 // PLOT; PLOT name ; PLOT value
 <PLOT>
-PLOT;welcome_center;2
-PLOT;tutorial_intro;3
-PLOT;tutorial_combat;3
