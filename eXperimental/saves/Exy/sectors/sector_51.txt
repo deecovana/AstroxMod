@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;51
 SECTOR;name;Ion Child
-SECTOR;level;2.75
+SECTOR;level;2.7
 SECTOR;faction;Law
 SECTOR;filename;sector_51.txt
 SECTOR;is_explored;False

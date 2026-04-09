@@ -38,6 +38,8 @@ MERC;9;1.36;npc_ship_data_(recon_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Out of Stock: (1) Items ;405x91;166;12860.78
+
 ITEM;1060;15;1.09
 ITEM;1013;7;1.07
 ITEM;1161;32;0.53

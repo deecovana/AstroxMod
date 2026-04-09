@@ -1,0 +1,98 @@
+[s:30][c:yellow]Star Shepards Hub[/c][/s]
+Engineering Facility
+Bemdee Tudoe
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 866.121
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Medium Shield Bomb
+Heavy Shield Bomb
+Medium Armor Bomb
+Heavy Armor Bomb
+Light Shield Bomb
+Light Armor Bomb
+Energy Bomb
+Small LS Bomb
+Small Web Field
+Medium Web Field
+Large Web Field
+Basic Laser Impact Mod
+Basic Laser Energy Mod
+Basic Laser Explosive Mod
+[c:orange]DEMAND[/c]
+Water
+Carbon
+Hydrogen
+Oxygen
+Magnetic Quartz
+Iron Coring
+Nitrogen
+Oil
+Copperi Cubex
+Calcium
+Ceramic
+Aluminium Shard
+Dynex Crystal
+Silicon
+Salt Crystal
+Bio Carbon
+Calciate Residue
+Steelium
+Plastix Strands
+Silveryte
+Prometheum
+Neutron Pods
+Uranium
+Goldyte
+Titanyte
+Cleaning Chemicals
+Colored Dye
+Anti-Freeze
+Acidic Residue
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Ship Garage
+University
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Passive Scanner Systems
+Projectile Maintenance
+Passive Scanner Focal Range
+Projectile Maintenance
+Ship Cargo Stacker
+University Discount
+Module Mechanic
+Miner Cycle Mechanics
+
+
+<Station Missions>
+[c:lime]FABRICATE[/c]
+Dock at the StarGypsy Warehouse station fabricator in <color='cyan'>Void Starcross</color> and manufacture a light shipment of <color='yellow'>3</color> <color='yellow'>Magnetic Regulators</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Metal Fragment</color> in <color='cyan'>Jala</color> and return with <color='yellow'>37</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]SCAN[/c]
+Find <color='yellow'><i>Bishop Zanfe Wheatojid</i></color> in <color='cyan'>Felishar</color>, scan their ship, and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]TRANSPORT[/c]
+Transport a light shipment of <color='yellow'>21</color> <color='yellow'>Torim Ores</color> from ValueStar in <color='cyan'>Hunu</color> to Tella's in <color='cyan'>Bitcola</color>
+
+
+
+<Station Ships>

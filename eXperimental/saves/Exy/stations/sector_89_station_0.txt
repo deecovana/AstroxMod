@@ -40,6 +40,8 @@ MERC;1;0.56;npc_ship_data_(transport_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Items Req: (3) Items ;407x53,408x68,407x81;3254;36512.81
+BUYORDER;Market Low Inventory: (2) Items ;408x68,408x25;1612;20333.81
 ITEM;1200;4;0.92
 ITEM;1055;4;1.08
 ITEM;1150;1;1.18

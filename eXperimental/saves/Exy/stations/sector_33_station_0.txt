@@ -37,6 +37,11 @@ MERC;9;1.33;npc_ship_data_(battle_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Shortage: (4) Items ;8x69,1x11,1x90,4x81;24621;75860.22
+BUYORDER;Market Low Inventory: (2) Items ;304x32,304x60;77250;46119.21
+SELLORDER;Selling: (1) Items ;353x16;95405;65915.81
+BUYORDER;Market Demands: (2) Items ;8x92,9x28;48620;5258.34
+BUYORDER;Market Out of Stock: (2) Items ;10x83,1x96;109011;38709.34
 ITEM;1160;25;0.58
 ITEM;1052;34;1.07
 ITEM;1400;44;1.03

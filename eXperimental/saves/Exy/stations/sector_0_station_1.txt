@@ -15,6 +15,9 @@ STATION;dockfee;25
 STATION;lease;1
 STATION;seed;3-4-0-1-7-0-6-1-3-0-0-4-1-3-8-1-9-1-1-3-1-3-180
 STATION;interior_seed;4-5-15-3
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;673.5435
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -41,6 +44,8 @@ MERC;15;1.47;npc_ship_data_(transport_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (1) Items ;40x16;902;14960.65
+
 ITEM;1009;18;0.62
 ITEM;1171;53;0.79
 ITEM;1151;31;1.06
@@ -319,6 +324,10 @@ SKILL;117;1.13
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;110;60;745908;KILL_RAIDERS#sector_58_station_0.txt#sector_3.txt#1#10#npc_ship_data_(ATC_Storm)#random#random#random;Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Starfort Ramos</color> and return to CoraVault in <color='cyan'>Lins</color>;3;There has been a small Raider gang hanging around the warp gates in <color='cyan'>Starfort Ramos</color>. The Trade faction has requested a sector clearance contract. Head on over to the <color='cyan'>Starfort Ramos</color> and clear out the <color='yellow'>1 Raider</color>, level 10 Raiders that have set up camp there. Dock at the CoraVault station in <color='cyan'>Lins</color> when complete.;6754;1375
+MISSION;90;90;491645;KILL_PILOT#sector_3_station_0.txt#sector_77.txt#Accountant Doas Wotajpae#npc_ship_data_(ATC_Pilgrim)#3#null#null#null;Hunt down a low level <color='yellow'><i>Accountant Doas Wotajpae</i></color> in <color='cyan'>Ballast Crow</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;3;<i>Fobac Mosjancove</i> has put out a kill contract for <color='yellow'><i>Accountant Doas Wotajpae</i></color>. Wanted for capital crimes against the Trade faction for raiding multiple transports. Last known sighting of <color='yellow'><i>Accountant Doas Wotajpae</i></color> was in the vicinity of the <color='cyan'>Ballast Crow</color> system. After <color='yellow'><i>Accountant Doas Wotajpae</i></color> is dispatched, return to the Daemon Ammunitions in the <color='cyan'>Starfort Ramos</color> system to collect the bounty payment.;6039;1500
+MISSION;120;45;602195;CHAT_PILOT#sector_35_station_0.txt#sector_77.txt#Chairman Vajxe Xisadpae#npc_ship_data_(Heavy_Assault_Frigate_10)#8#missions_debt_collection.txt#0#null;Collect a small debt from <color='yellow'><i>Chairman Vajxe Xisadpae</i></color> in <color='cyan'>Ballast Crow</color> and return to Astrox Security Patrol in <color='cyan'>Felishar</color>;3;<i>Horexe Johajkadd</i> has requested that debt be collected from <color='yellow'><i>Chairman Vajxe Xisadpae</i></color>. After 3 payments to the Trade faction for transport fines, <color='yellow'><i>Chairman Vajxe Xisadpae</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Chairman Vajxe Xisadpae</i></color> was in the vicinity of the <color='cyan'>Ballast Crow</color> system. Have a chat with them, collect the debt, and return to the Astrox Security Patrol in the <color='cyan'>Felishar</color> system to deliver the payment.;4026;1000
+MISSION;41;45;885780;SCAN_PILOT#sector_56_station_1.txt#sector_14.txt#Privateer Bidkom Sawcobel#npc_ship_data_(pirate_frigate_2)#21#null#null#null;Find <color='yellow'><i>Privateer Bidkom Sawcobel</i></color> in <color='cyan'>Gate of Alpharis</color>, scan their ship, and return to ValueStar in <color='cyan'>Hunu</color>;5;<color='yellow'><i>Privateer Bidkom Sawcobel</i></color> has recently been paroled for a capital crime, and their parole officer has received information about a possible raid in <color='cyan'>Gate of Alpharis</color>. Head to <color='cyan'>Gate of Alpharis</color> and perform a scan of <color='yellow'><i>Privateer Bidkom Sawcobel</i></color>'s ship and return to ValueStar in <color='cyan'>Hunu</color> with the scan data for review.;7046;1750
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -340,3 +349,4 @@ OFFICE;(Tutorial Office) Basic Drones;Daniel Traek;1;0.0;43;station.png;male_4.p
 </OFFICE>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

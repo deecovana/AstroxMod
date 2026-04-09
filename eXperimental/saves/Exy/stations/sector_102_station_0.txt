@@ -40,6 +40,7 @@ MERC;1;0.89;npc_ship_data_(transport_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Looking to Buy (2) Items ;1103x1,1008x1;97787;63446.66
 ITEM;1102;11;0.53
 ITEM;1012;35;0.78
 ITEM;1008;13;0.95

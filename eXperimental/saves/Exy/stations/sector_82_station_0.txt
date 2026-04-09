@@ -37,6 +37,7 @@ MERC;7;1.73;npc_ship_data_(battle_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Out of Stock: (2) Items ;20x66,24x51;18844;41396.81
 ITEM;1065;1;1.01
 ITEM;1004;40;0.93
 ITEM;1001;38;1.24

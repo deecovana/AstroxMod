@@ -1,0 +1,146 @@
+[s:30][c:yellow]Starbase Corporate Center[/c][/s]
+Assembly Station
+Vajeana
+Labor
+[c:lime]Dock fee 25[/c]
+Timestamp: 731.7263
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Mechanical Tools
+Assembly Tools
+Medical Instruments
+Calibration Tools
+Small Mining Drone
+Small Combat Drone
+Small Defense Drone
+Small Repair Drone
+Small Tractor Drone
+Recon Scanner Drone
+Bomber Drone
+Micro Leech Drone
+Burglar Drone
+Improved Mining Drone
+Heavy Mining Drone
+Medium Mining Drone
+Large Mining Drone
+Titan Mining Drone
+Medium Combat Drone
+Improved Combat Drone
+Large Combat Drone
+Heavy Combat Drone
+Titan Combat Drone
+Medium Defense Drone
+Improved Defense Drone
+Large Defense Drone
+Heavy Defense Drone
+Titan Defense Drone
+Medium Repair Drone
+Improved Repair Drone
+Large Repair Drone
+Heavy Repair Drone
+Titan Repair Drone
+Small Salvage Drone
+Medium Salvage Drone
+Improved Salvage Drone
+Large Salvage Drone
+Heavy Salvage Drone
+Titan Salvage Drone
+[c:orange]DEMAND[/c]
+Adamyte Ore
+Gradeon Ore
+Quazor Ore
+Lokken Ore
+Torim Ore
+Plasite Ore
+Dynex Ore
+Belasite Ore
+Xenox Ore
+Zai Ore
+Generic Railgun
+Prototype Railgun
+Basic Railgun
+Improved Railgun
+Advanced Railgun
+Premium Railgun
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Salvager Basic Operation
+Miner Basic Operation
+Miner Advanced Systems
+Refinery Mechanic
+Miner Focal Range
+Miner Energy Optimization
+Miner Cycle Mechanics
+Miner Harvest Calibration
+Miner Maintenance
+Ship Cargo Stacker
+Ship Energy Systems
+Tractor Basic Operation
+Tractor Advanced Systems
+Tractor Focal Range
+Structure Build operation
+Structure Warehouse Management
+Structure Accountant
+Structure Prospector
+Structure Engineer
+
+
+<Station Missions>
+[c:lime]FABRICATE[/c]
+Dock at the ValueStar station fabricator in <color='cyan'>Hunu</color> and manufacture a light shipment of <color='yellow'>4</color> <color='yellow'>Titanyte Beams</color>
+
+[c:lime]FABRICATE[/c]
+Dock at the Lammassu Financial station fabricator in <color='cyan'>Void Starcross</color> and manufacture a light shipment of <color='yellow'>3</color> <color='yellow'>Small Electronics</color>
+
+[c:lime]ESCORT[/c]
+<color='yellow'><i>Officer Poeza Uebino</i></color> requests an escort from Horizons in <color='cyan'>Gate of Alpharis</color> to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+[c:lime]KILL[/c]
+Assassinate in-experienced <color='yellow'><i>Overseer Restfae Jelhorekin</i></color> in <color='cyan'>Ballast Crow</color> and return to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+
+
+<Station Ships>
+ES-1 Shuttle / Shuttle    (Transport)
+EE-1 Mining Shuttle / Shuttle    (Excavation)
+EE-2 Advanced Escort / Escort    (Excavation)
+EU-1 Mining Escort / Escort    (Excavation)
+EU-2 Mining Escort / Escort    (Excavation)
+EF-1 Mining Escort / Escort    (Excavation)
+
+
+<Station Offices>
+(Tutorial Office) Camera Basics 
+[c:grey](Ratamaq Guru)[/c]
+
+(Tutorial Office) Navigation Basics 
+[c:grey](Arji Darn)[/c]
+
+(Tutorial Office) Life Support Basics 
+[c:grey](Carter Burke)[/c]
+
+(Tutorial Office) Basic Drones 
+[c:grey](Daniel Traek)[/c]
+

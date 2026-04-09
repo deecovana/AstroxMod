@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;76
 SECTOR;name;Chimerandi
-SECTOR;level;0.9
+SECTOR;level;1.0
 SECTOR;faction;Trade
 SECTOR;filename;sector_76.txt
 SECTOR;is_explored;False

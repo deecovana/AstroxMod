@@ -16,6 +16,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;3-7-1-4-2-0-2-0-6-5-2-2-1-2-9-3-6-90
 STATION;interior_seed;3-1-30-8
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;1601.246
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -237,6 +240,11 @@ SKILL;47;0.70
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;60;45;554615;HARVEST#42#1#sector_14.txt#sector_15_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Gate of Alpharis</color> and return with <color='yellow'>42</color> ore to Crystalis Broadcasting in <color='cyan'>Jermicus</color>;12;A local prospector, <i>Tajbino Bastjannostra</i> of the Labor faction has located a light quantity of special <color='yellow'>Special Adamyte Ore</color> in the <color='cyan'>Gate of Alpharis</color> sector. Head over there and harvest all of the special <color='yellow'>Special Adamyte Ore</color>, and meet <i>Tajbino Bastjannostra</i> back at Crystalis Broadcasting station located in the <color='cyan'>Jermicus</color>.;6363;1688
+MISSION;120;45;773637;CHAT_PILOT#sector_13_station_0.txt#sector_96.txt#Liaison Ribto Ribemgale#npc_ship_data_(Heavy_dreadnought_1)#21#missions_debt_collection.txt#0#null;Collect a small debt from <color='yellow'><i>Liaison Ribto Ribemgale</i></color> in <color='cyan'>Arch of Mori</color> and return to Gemini Mining in <color='cyan'>Jala</color>;12;<i>Boze Kombue</i> has requested that debt be collected from <color='yellow'><i>Liaison Ribto Ribemgale</i></color>. After 3 payments to the Labor faction for transport fines, <color='yellow'><i>Liaison Ribto Ribemgale</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Liaison Ribto Ribemgale</i></color> was in the vicinity of the <color='cyan'>Arch of Mori</color> system. Have a chat with them, collect the debt, and return to the Gemini Mining in the <color='cyan'>Jala</color> system to deliver the payment.;6400;2000
+MISSION;123;45;418090;CHAT_PILOT#sector_0_station_4.txt#sector_96.txt#Fabricator Yitaj Lelcouan#npc_ship_data_(ATC_Arrow_MK2)#7#missions_arrest_escort.txt#0#null;Detain <color='yellow'><i>Fabricator Yitaj Lelcouan</i></color> in <color='cyan'>Arch of Mori</color> and escort them to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;14;<i>Xenfa Jidlomah</i> has requested that <color='yellow'><i>Fabricator Yitaj Lelcouan</i></color> be escorted back into custody. Authorities of the Extractors faction has determined guilt opon the accused. <color='yellow'><i>Fabricator Yitaj Lelcouan</i></color> has refused to cooperate with the courts. Last known sighting of <color='yellow'><i>Fabricator Yitaj Lelcouan</i></color> was in the vicinity of the <color='cyan'>Arch of Mori</color> system. Have a chat with them ann bring them back for further questioning.;28116;10719
+MISSION;20;120;488690;COLLECT#11#2054#sector_0_station_5.txt#sector_0_station_3.txt#null#null#null#null;Collect a light shipment of <color='yellow'>Artificial Gravity Generators</color> and return to Proctors Center in <color='cyan'>Void Starcross</color>;12;The Labor Faction's fabrication representative <i>Metel Qolowyo</i> is running a bit short on some items needed for an upcoming production run at Proctors Center Station in <color='cyan'>Void Starcross</color>. Perhaps you can collect <color='yellow'>11</color> <color='yellow'>Artificial Gravity Generators</color> and bring them by the fabricator at Proctors Center.;3850;688
+MISSION;21;120;636477;COLLECT#43#325#sector_16_station_0.txt#sector_14_station_0.txt#null#null#null#null;Gather a collection of <color='yellow'>43</color> <color='yellow'>Childrens Toys</color> and dock the light shipment at Rendo Labs in <color='cyan'>Entropy</color>;13;<i>Minostra Yitam</i> has requested an small collection of <color='yellow'>43</color> <color='yellow'>Childrens Toys</color> in preparation for an upcoming exploration run. Backed by the Contractors after these items have been collected, return to the Rendo Labs Station located in the <color='cyan'>Entropy</color> Sector.;9689;2407
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -246,3 +254,5 @@ SHIP;3;1.00;ship_data_(transport_shuttle_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
+

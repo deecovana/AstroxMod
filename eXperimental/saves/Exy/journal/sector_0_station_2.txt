@@ -1,0 +1,133 @@
+[s:30][c:yellow]StarGypsy Warehouse[/c][/s]
+Tavern Station
+Pinratus Flake
+Pirate
+[c:lime]Dock fee 25[/c]
+Timestamp: 703.6732
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Drone Command Bay
+Improved Drone Command Bay
+Advanced Drone Command Bay
+Premium Drone Command Bay
+Prototype Drone Command Bay
+Fusion Chamber
+Gravitational Emitter
+Gyroscope Drive
+Heating Unit
+Hydraulic Assembly
+Ionization Plate
+Large Motor
+Lidar System
+Magnetic Regulator
+Radar System
+[c:orange]DEMAND[/c]
+Aged Wine
+Bottled Whiskey
+Basic Food Rations
+Gourmet Food Rations
+Candy Corn
+Chocolate Bars
+Gummy Bears
+Basic Armor Exterior
+Improved Armor Exterior
+Advanced Armor Exterior
+Premium Armor Exterior
+Prototype Armor Exterior
+Basic Impact Armor
+Improved Impact Armor
+Advanced Impact Armor
+Premium Impact Armor
+Prototype Impact Armor
+Basic Energy Armor
+Improved Energy Armor
+Advanced Energy Armor
+Premium Energy Armor
+Prototype Energy Armor
+Basic Explosive Armor
+Improved Explosive Armor
+Advanced Explosive Armor
+Premium Explosive Armor
+Prototype Explosive Armor
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Passive Scanner Systems
+Passive Scanner Focal Range
+Ship Gyroscopic Control
+Ship Shield Regeneration
+Ship Energy Regeneration
+Ship LS System Maintenance
+Advanced Food Systems
+Advanced Water Systems
+Advanced Thermal Systems
+Advanced Waste Systems
+Fleet Combat Training
+Ship Advanced Targeting Systems
+ECM Module Operation
+ECM Power System
+ECM Energy Management
+ECM Focus Range
+ECM Resistance
+Cloak Field Operation
+Cloak Power System
+Cloak Energy Management
+Cloak Field Range
+Cloak Sensors
+
+
+<Station Missions>
+[c:lime]SCAN[/c]
+Locate and scan the <color='yellow'>Storage Facility</color> structure in <color='cyan'>Ballast Crow</color> and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]HARVEST[/c]
+Mine special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>75</color> to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Private Feimi Zaebarlas</i></color> in <color='cyan'>Felishar</color> and return to Gemini Mining in <color='cyan'>Jala</color>
+
+
+
+<Station Ships>
+PS-1 Shuttle / Shuttle    (Excavation)
+PE-1 Pirate Escort / Escort    (Assault)
+PE-2 Pirate Escort T2 / Escort    (Assault)
+PU-1 Pirate Escort / Escort    (Assault)
+PU-2 Battle Frigate T2 / Frigate    (Battle)
+PF-1 Assault Frigate / Frigate    (Assault)
+
+
+<Station Offices>
+(Tutorial Office) Camera Basics 
+[c:grey](Ratamaq Guru)[/c]
+
+(Tutorial Office) Navigation Basics 
+[c:grey](Arji Darn)[/c]
+
+(Tutorial Office) Life Support Basics 
+[c:grey](Carter Burke)[/c]
+
+(Tutorial Office) Basic Drones 
+[c:grey](Daniel Traek)[/c]
+

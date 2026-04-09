@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-1-1-4-8-0-3-1-5-3-3-8-0
 STATION;interior_seed;4-3-45-9
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;865.121
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -151,6 +154,10 @@ SKILL;45;0.76
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;150;120;911990;FABRICATE#3#2430#sector_0_station_2.txt#sector_0_station_3.txt#null#null#null#null;Dock at the StarGypsy Warehouse station fabricator in <color='cyan'>Void Starcross</color> and manufacture a light shipment of <color='yellow'>3</color> <color='yellow'>Magnetic Regulators</color>;9;<i>Fodie Geedee</i> runs a Temple production company at StarShepards Headquarters. After having some issues with a manufacturing plant, <color='yellow'>3</color> items of <color='yellow'>Magnetic Regulators</color> were marked as low supply. Head on over to <color='cyan'>Void Starcross</color> and fabricate these <color='yellow'>Magnetic Regulators</color> at StarGypsy Warehouse.;4900;875
+MISSION;130;45;169719;SALVAGE#37#23#sector_13.txt#sector_95_station_1.txt#null#null#null#null;Salvage <color='yellow'>Special Metal Fragment</color> in <color='cyan'>Jala</color> and return with <color='yellow'>37</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>;9;A local prospector, <i>Duexe Yopadto</i> of the Temple faction has located a light quantity of special <color='yellow'>Special Metal Fragment</color> in the <color='cyan'>Jala</color> sector. Head over there and salvage all of the special <color='yellow'>Special Metal Fragment</color>, and meet <i>Duexe Yopadto</i> back at Acrondia Hub station located in the <color='cyan'>Temple Gates</color>.;5902;2250
+MISSION;41;45;281897;SCAN_PILOT#sector_0_station_4.txt#sector_35.txt#Bishop Zanfe Wheatojid#npc_ship_data_(pirate_utility_1)#21#null#null#null;Find <color='yellow'><i>Bishop Zanfe Wheatojid</i></color> in <color='cyan'>Felishar</color>, scan their ship, and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;9;<color='yellow'><i>Bishop Zanfe Wheatojid</i></color> has recently been paroled for a capital crime, and their parole officer has received information about a possible raid in <color='cyan'>Felishar</color>. Head to <color='cyan'>Felishar</color> and perform a scan of <color='yellow'><i>Bishop Zanfe Wheatojid</i></color>'s ship and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color> with the scan data for review.;6650;2625
+MISSION;30;45;992916;TRANSPORT#21#5#sector_56_station_1.txt#sector_78_station_0.txt#null#null#null#null;Transport a light shipment of <color='yellow'>21</color> <color='yellow'>Torim Ores</color> from ValueStar in <color='cyan'>Hunu</color> to Tella's in <color='cyan'>Bitcola</color>;9;Transport manager <i>Dalegot Vijag</i> has requested a transport of a light shipment of <color='yellow'>21</color> <color='yellow'>Torim Ores</color>. They need to be picked up at the storage facility at ValueStar in <color='cyan'>Hunu</color>, and transported to Tella's in <color='cyan'>Bitcola</color>. <i>Dalegot Vijag</i> will be waiting at Tella's to receive the shipment.;5902;2250
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -162,3 +169,4 @@ SHIP;5;0.98;ship_data_(support_carrier_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

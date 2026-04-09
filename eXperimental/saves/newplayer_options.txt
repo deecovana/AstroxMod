@@ -136,13 +136,9 @@ KEY_OPTIONS_left;A
 KEY_OPTIONS_right;D
 KEY_OPTIONS_reverse;S
 KEY_OPTIONS_lshift;Space
-KEY_OPTIONS_action;RightBracket
+KEY_OPTIONS_action;F1
 KEY_OPTIONS_clear_all_targets;H
 KEY_OPTIONS_autopilot_toggle;E
-KEY_OPTIONS_autotarget_toggle;Y
-KEY_OPTIONS_autodock_toggle;KeypadPlus
-KEY_OPTIONS_autowarp_toggle;I
-KEY_OPTIONS_autoscan_toggle;O
 KEY_OPTIONS_options_toggle;Escape
 KEY_OPTIONS_pilot_toggle;L
 KEY_OPTIONS_journal_toggle;N
@@ -150,7 +146,6 @@ KEY_OPTIONS_map_toggle;Tab
 KEY_OPTIONS_gps_toggle;G
 KEY_OPTIONS_auto_afterburner;Space
 KEY_OPTIONS_system_toggle;V
-KEY_OPTIONS_cargo_toggle;KeypadMinus
 KEY_OPTIONS_targeting_toggle;T
 KEY_OPTIONS_stats_toggle;Z
 KEY_OPTIONS_autopilot_panel_toggle;R
@@ -174,8 +169,6 @@ KEY_OPTIONS_drones_launch;B
 KEY_OPTIONS_drones_dock;V
 KEY_OPTIONS_lcontrol;LeftControl
 KEY_OPTIONS_lalt;LeftAlt
-KEY_OPTIONS_lbracket;F1
-KEY_OPTIONS_rbracket;F2
 KEY_OPTIONS_toggle_panels;KeypadPlus
 KEY_OPTIONS_sort_targets;Period
 KEY_OPTIONS_drone_group_1;F5

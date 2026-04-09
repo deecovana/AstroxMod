@@ -1,7 +1,47 @@
 //;LOG DATA FILE (Astrox Imperium)
+gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
 notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
 //;LOG DATA FILE (Astrox Imperium)
-mission_1.png;New Mission Acquired.;( Tutorial 1 ) Harvest your first Special Adamyte rock in <color='cyan'>Void Starcross</color>, then dock at Biomate University
+orbit_use_on.png;Orbit usables ON;Your ship will now orbit stations, structures and warpgates. This may prevent your ship from getting close enough to use them.
 //;LOG DATA FILE (Astrox Imperium)
-new_sector.png;New Sector has been Explored;A new sector has been explored. You can now access this sector from your galaxy map.
-//; LOG DATA (Astrox Imperium) 
+mission_obj_complete.png;Mission Harvest objectives complete.;You have successfully mined the required resources. Deliver these resources to the mission destination to complete the mission. 
+//;LOG DATA FILE (Astrox Imperium)
+orbit_on.png;Orbit Systems Active;You have enabled your ship's ORBIT system. This will cause the ship to automatically orbit your target at the specified distance, angle and speed.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_skill_training_complete.png;Level 1 Laser Basic Operation training has been completed.; To train this skill to the next level, you will need to dock at a station with an active university.
+//;LOG DATA FILE (Astrox Imperium)
+notify_skill_training_complete.png;Level 1 Miner Basic Operation training has been completed.; To train this skill to the next level, you will need to dock at a station with an active university.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Daemon Ammunitions Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Daemon Ammunitions station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Starfort Ramos;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Astrox Security Patrol Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Astrox Security Patrol station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
+//;LOG DATA FILE (Astrox Imperium)
