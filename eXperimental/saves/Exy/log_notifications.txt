@@ -1,4 +1,20 @@
 //;LOG DATA FILE (Astrox Imperium)
+orbit_off.png;Orbit Systems Disabled;You have disabled your ship's ORBIT system. This will cause the ship to cease orbiting your target, and ignore all orbit settings.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+need_space.png;Ship Cargo Bay is Full.;You do not have enough room in your cargo bay to continue mining this resource. To save on repair costs, all mining beams have been deactivated.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_1.png;Game speed Normal;The gamespeed has been set to normal speed. (x1) 
+//;LOG DATA FILE (Astrox Imperium)
 gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
 //;LOG DATA FILE (Astrox Imperium)
 modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
@@ -28,20 +44,4 @@ warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and wi
 notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
 //;LOG DATA FILE (Astrox Imperium)
 dock_fee.png;Daemon Ammunitions Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Daemon Ammunitions station.
-//;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Starfort Ramos;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Astrox Security Patrol Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Astrox Security Patrol station.
-//;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
-//;LOG DATA FILE (Astrox Imperium)
-gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
 //;LOG DATA FILE (Astrox Imperium)

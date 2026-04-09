@@ -1,15 +1,15 @@
 // PLAYER;Variable;Value
 <PLAYER>
 PLAYER;name;Exy
-PLAYER;level;1
-PLAYER;xp;36.00
-PLAYER;next_level_xp;100.00
-PLAYER;last_level_xp;0.00
+PLAYER;level;2
+PLAYER;xp;572.00
+PLAYER;next_level_xp;2100.00
+PLAYER;last_level_xp;100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;53460.00
+PLAYER;credits;57340.00
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;17
-PLAYER;playtime;2300.40
+PLAYER;skill_points;21
+PLAYER;playtime;3012.79
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;1
@@ -19,22 +19,22 @@ PLAYER;face_bg;bgimg_8.png
 PLAYER;profession_id;22
 PLAYER;passive_scanner_settings;False,True,True,True,True,True,False,True,True
 PLAYER;autopilot_settings;True,False,True,True,False
-PLAYER;orbit_data;True,750,0,6,True
+PLAYER;orbit_data;False,750,0,6,True
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
 PLAYER;cargo_settings;ALL,Name,Ascend,1
-PLAYER;targeting_settings;Distance,Ascend
+PLAYER;targeting_settings;Distance,Descend
 PLAYER;station_market_settings;SEARCH,Name,Ascend,100
 PLAYER;station_university_settings;SEARCH,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
 PLAYER;sector;sector_0.txt
 PLAYER;sector_id;0
-PLAYER;station;null
-PLAYER;isdocked;False
+PLAYER;station;sector_0_station_0.txt
+PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;-193.84;-163.29;-4485.93
+SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;-722.46;-57.29;-4397.46
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
@@ -42,7 +42,7 @@ SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0
 // SKILL; skill id, skill lvl, train time remaining, total time
 <SKILLS>
 SKILL;214;5;0;0
-SKILL;58;3;0;0
+SKILL;58;3;110;120
 SKILL;54;2;0;0
 SKILL;223;2;0;0
 SKILL;224;2;0;0
@@ -58,10 +58,10 @@ SKILL;11;1;0;120
 // MEDAL , id , bool, img, desc
 <MEDALS>
 MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful excavation of 100 units of Adamyte. 
+MEDAL;8;True;medal_17.png;First Mission Completed;Awarded for the successful completion of your very first Mission. 
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
-MISSION;201;1406;308993;HARVEST#13#1#sector_0.txt#sector_0_station_0.txt#null#null#null#null;( Tutorial 1 ) Harvest your first Special Adamyte rock in <color='cyan'>Void Starcross</color>, then dock at Biomate University;1;24;True;6300;0;This tutorial mission will require that you locate the target Adamyte rock, and harvest the asteroid using tactical sensors to find it (SPACEBAR). When finished, you will need to return to the Biomate University in <color='cyan'>Void Starcross</color>.
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
@@ -75,8 +75,8 @@ STAT;6;Salvage Beams Fired;0;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;18;Excavation
-STAT;11;Adamyte Ore Mined;216;Excavation
+STAT;10;Mining lasers Fired;37;Excavation
+STAT;11;Adamyte Ore Mined;429;Excavation
 STAT;12;Gradeon Ore Mined;0;Excavation
 STAT;13;Quazor Ore Mined;0;Excavation
 STAT;14;Lokken Ore Mined;0;Excavation
@@ -91,14 +91,14 @@ STAT;22;Junk Collected;0;Excavation
 STAT;23;Scraps Collected;0;Excavation
 STAT;24;Salvage Collected;0;Excavation
 STAT;25;Derelicts Collected;0;Excavation
-STAT;26;Missions Complete;0;Missions
+STAT;26;Missions Complete;1;Missions
 STAT;27;Missions Expired;0;Missions
 STAT;28;Missions Aborted;0;Missions
 STAT;29;Transport Missions Complete;0;Missions
 STAT;30;Collection Missions Complete;0;Missions
 STAT;31;Delivery Missions Complete;0;Missions
 STAT;32;Recon Missions Complete;0;Missions
-STAT;33;Harvest Missions Complete;0;Missions
+STAT;33;Harvest Missions Complete;1;Missions
 STAT;34;Escort Missions Complete;0;Missions
 STAT;35;Recover Missions Complete;0;Missions
 STAT;36;Kill Missions Complete;0;Missions
@@ -116,8 +116,8 @@ STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
 STAT;50;Skill Levels Trained;4;Skills
-STAT;51;Skill Points Earned;0;Skills
-STAT;52;Skill Points Spent;11;Skills
+STAT;51;Skill Points Earned;12;Skills
+STAT;52;Skill Points Spent;31;Skills
 STAT;53;;0;
 STAT;54;;0;
 STAT;55;;0;

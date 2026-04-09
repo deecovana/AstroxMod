@@ -5,6 +5,9 @@
 - Test eXperimental 1600@60 modified values ~1.5x
   - Start Exy Alpha Distributor
 - First Tutorial Mission saved
+- Update Keys
+- Update Factions Database 
+  - Temple -5 Law -1
 
 ## @NEXT Continue Farming Target 14m Apastron DestroyerIII
 - Need Destroyer III Need 15m (Have 10m)

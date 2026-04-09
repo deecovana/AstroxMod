@@ -3,7 +3,7 @@ Academic University
 Telyoupea Akpi
 Alpha
 [c:lime]Dock fee 0[/c]
-Timestamp: 2090.908
+Timestamp: 2879.417
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -397,15 +397,6 @@ Ship Shield Regeneration
 
 
 <Station Missions>
-[c:lime]DIALOG[/c]
-Detain <color='yellow'><i>General Deszan Rastassi</i></color> in <color='cyan'>Equalias Val</color> and escort them to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
-
-[c:lime]FABRICATE[/c]
-Dock at the Rendo Labs station fabricator in <color='cyan'>Entropy</color> and manufacture a light shipment of <color='yellow'>5</color> <color='yellow'>Fuel Injectors</color>
-
-[c:lime]HARVEST[/c]
-Harvest special <color='yellow'>Special Gradeon Ore</color> in <color='cyan'>Bitcola</color> and return with <color='yellow'>49</color> ore to Lammassu Financial in <color='cyan'>Void Starcross</color>
-
 [c:lime]SALVAGE[/c]
 Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Hunu</color> and return with <color='yellow'>55</color> to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
 
@@ -417,6 +408,21 @@ Find <color='yellow'><i>Doctor Tisev Caeoigilla</i></color> in <color='cyan'>Fel
 
 [c:lime]SCAN[/c]
 Find <color='yellow'><i>Enforcer Asba Qano</i></color> in <color='cyan'>Lins</color>, scan their ship, and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]RECOVER[/c]
+Recover a light quantity of <color='yellow'>417</color> <color='yellow'>Assorted Gaskets</color> in <color='cyan'>Ponze</color>, and return to Biomate University in <color='cyan'>Void Starcross</color>
+
+[c:lime]KILL RAIDERS[/c]
+Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Temple Gates</color> and return to Legistron in <color='cyan'>Dogstar Prime</color>
+
+[c:lime]HARVEST[/c]
+Mine special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Temple Gates</color> and return with <color='yellow'>60</color> to Rendo Labs in <color='cyan'>Entropy</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Acrondia Hub in <color='cyan'>Temple Gates</color> to deliver a light shipment of <color='yellow'>69</color> <color='yellow'>Ornaments</color>
+
+[c:lime]FABRICATE[/c]
+Produce a light container of <color='yellow'>5</color> <color='yellow'>Small Pumps</color> at the Proctors Center fabricator in <color='cyan'>Void Starcross</color>
 
 
 

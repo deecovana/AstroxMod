@@ -90,9 +90,9 @@ CLUSTER;1;20;10;200;2000;2885;0;-3781
 CLUSTER;20;10;50;100;1000;-566;2974;372
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;4666.6;-658.2;4364.2;1000;810
+RESOURCE;1;4647.9;-658.1;4372.7;1000;599
 RESOURCE;1;-3548.3;471.3;134.6;750;524
-RESOURCE;1;2660.0;322.0;-2935.5;500;292
+RESOURCE;1;2660.0;322.0;-2935.5;500;0
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction id ;Faction req
 WARPGATE;1;sector_3.txt;3;3857;-1124;3046;0;13;0;prescan
