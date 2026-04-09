@@ -8,6 +8,7 @@
 - Update Keys
 - Update Factions Database 
   - Temple -5 Law -1
+  - REStart Exy Alpha Distributor
 
 ## @NEXT Continue Farming Target 14m Apastron DestroyerIII
 - Need Destroyer III Need 15m (Have 10m)
