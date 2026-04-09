@@ -1,8 +1,9 @@
 # "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
 
-## Continue Farming Target 14m Apastron DestroyerIII
+## 04.09 Continue Farming Target 14m Apastron DestroyerIII
 - Need Destroyer III Need 15m (Have 10m)
 - Need 15m (Have 10m)
+
 * Test New player 1600@60hz with new settings
 
 ## 0402 Continue ExPansion
