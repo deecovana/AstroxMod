@@ -27,20 +27,20 @@ SHIP_base_lifesupport;1000
 //; ----- Propulsion -----
 SHIP_base_mass;38
 SHIP_base_thrust;125
-SHIP_base_turn;0.70
-SHIP_base_engine_burn;0.20
+SHIP_base_turn;0.7
+SHIP_base_engine_burn;0.2
 SHIP_base_speed;0
 //; ----- Sensors -----
 SHIP_base_scan_max_targets;3
-SHIP_base_scan_speed;2.00
+SHIP_base_scan_speed;2
 SHIP_base_scan_pulserange;2000
-SHIP_base_scan_pulsespeed;2.00
+SHIP_base_scan_pulsespeed;2
 //; ----- Resistance -----
 SHIP_impact_resistance;0.05
 SHIP_energy_resistance;0.00
 SHIP_explosive_resistance;0.00
 //; ----- Regeneration -----
-SHIP_base_recharge;0.20
+SHIP_base_recharge;0.2
 SHIP_base_shield_recharge;0.50
 //; ----- Bonuses -----
 SHIP_specials_raw;Scan Range#0.20
@@ -51,17 +51,17 @@ SHIP_material_texture_a;atc_main.png
 SHIP_material_texture_b;4atc_detail.png
 SHIP_material_texture_c;med_glow.png
 SHIP_material_color_a;0.50;0.50;0.50;1.00
-SHIP_material_color_b;0;1.00;1.00;0.5
-SHIP_engine_color;0;1.00;1.00;0.5
+SHIP_material_color_b;0.00;1.00;1.00;0.50
+SHIP_engine_color;0.00;1.00;1.00;0.50
 //; ----- Misc -----
-SHIP_shield;0
-SHIP_armor;0
-SHIP_energy;0
-SHIP_ls_food;0
-SHIP_ls_water;0
-SHIP_ls_thermal;0
-SHIP_ls_waste;0
-SHIP_ls_points;0
+SHIP_shield;225
+SHIP_armor;300
+SHIP_energy;300
+SHIP_ls_food;0;0
+SHIP_ls_water;0;0
+SHIP_ls_thermal;0;0
+SHIP_ls_waste;0;0
+SHIP_ls_points;1000
 SHIP_collider_x;1
 SHIP_collider_y;1
 SHIP_collider_z;1
@@ -98,7 +98,7 @@ PILOTCAM;pilot_cam; 5 ; 98 ;0.00000;0.15503;2.23070;0.00000;0.00000;0.00000
 //; ----------------------------- SHIP MODULE SLOTS --------------------------------
 //; -------------- MODSLOT,name,SLOTid,model_id, ammo_id,xp,yp,zp,xr,yr,zr----------
 <MODSLOT>
-MODSLOT;module_slot;1; 99 ;0.000;-0.377;1.362;0.000;0.000;180.000;0.50;0.50;0.50
+MODSLOT;module_slot;1; 99 ;0.00;-0.38;1.36;0.00;0.00;180.00;0.50;0.50;0.50
 //; ----------------------------- SHIP MODULES --------------------------------------
 //; ----- MODULE,slot,module_id
 <MODULE>
@@ -113,4 +113,3 @@ CARGO; 1 ; 620
 //; ----------------------------- SHIP DRONES -----------------------------------------
 //; ----- DRONE, id, hp, energy , is_docked, group_id
 <DRONE>
-

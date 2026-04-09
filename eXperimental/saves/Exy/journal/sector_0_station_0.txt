@@ -1,0 +1,127 @@
+[s:30][c:yellow]Biomate University[/c][/s]
+Academic University
+Telyoupea Akpi
+Alpha
+[c:lime]Dock fee 0[/c]
+Timestamp: 23.17195
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Skill Manual
+Advanced Skill Manual
+Elite Skill Manual
+[c:orange]DEMAND[/c]
+Candy Cane
+Ornament
+Wrapped Box
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Projectile Basic Operation
+Laser Basic Operation
+Beam Basic Operation
+Launcher Basic Operation
+Torpedo Basic Operation
+Miner Basic Operation
+Escort Ship Operation
+Frigate Ship Operation
+Destroyer Ship Operation
+Utility Ship Operation
+Battlecruiser Ship Operation
+Cruiser Ship Operation
+Dreadnought Ship Operation
+Carrier Ship Operation
+Ship Thruster Systems
+Ship Cargo Stacker
+Max Mission Contracts
+Ship Energy Regeneration
+Ship Energy Systems
+Fleet Commander
+Drone Operation
+Drone Command Systems
+Drone Combat Weapons
+Drone Mining Lasers
+Drone Repair Systems
+Drone Defensive Programing
+Drone Range Signal
+Drone Energy Systems
+Drone Armor Mechanic
+Drone Cargo Mechanic
+Drone Thruster Systems
+Structure Build operation
+Structure Warehouse Management
+Structure Accountant
+Structure Prospector
+Structure Engineer
+Ship Shield Regeneration
+
+
+<Station Missions>
+[c:lime]DIALOG[/c]
+Collect a small debt from <color='yellow'><i>Laborer Tajves Leiti</i></color> in <color='cyan'>Dogstar Prime</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Overseer Oamad Jagfeira</i></color> in <color='cyan'>Ballast Crow</color> and return to Blargg's in <color='cyan'>Beacon Spita</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>77</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]ESCORT[/c]
+Escort <color='yellow'><i>Rookie Molegore Arfall</i></color> from Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+
+
+<Station Ships>
+RS-1 Translator / Shuttle    (Transport)
+RE-1 Integrator / Escort    (Recon)
+RE-2 Harmonizer / Escort    (Recon)
+RU-1 Curator / Escort    (Recon)
+RU-2 Conservator / Escort    (Recon)
+RF-1 Assimilator / Escort    (Recon)
+
+
+<Station Offices>
+(Tutorial Office) Camera Basics 
+[c:grey](Ratamaq Guru)[/c]
+
+(Tutorial Office) Navigation Basics 
+[c:grey](Arji Darn)[/c]
+
+(Tutorial Office) Life Support Basics 
+[c:grey](Carter Burke)[/c]
+
+(Tutorial Office) Introduction 
+[c:grey](Jessa Din)[/c]
+
+(Tutorial Office) Basic Combat 
+[c:grey](Fredric Din)[/c]
+
+(Tutorial Office) Basic Drones 
+[c:grey](Daniel Traek)[/c]
+
+(Tutorial Office) Basic Fleet Command 
+[c:grey](Jacob Salis)[/c]
+
+(Tutorial Office) Wormhole Basics 
+[c:grey](Darius Ghent)[/c]
+

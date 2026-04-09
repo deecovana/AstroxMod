@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;66
 SECTOR;name;Ele
-SECTOR;level;3.1
+SECTOR;level;3.0
 SECTOR;faction;Trade
 SECTOR;filename;sector_66.txt
 SECTOR;is_explored;False

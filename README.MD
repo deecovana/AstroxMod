@@ -1,8 +1,10 @@
 # "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
 
-* @TEST New game with new settings
-  * Test eXperimental 1600@60 modified values ~1.5x
-- Start Exy Alpha Distributor
+### @TODO Translate with AstroxImperiumTranslator
+
+### @TEST New game with new settings
+- Test eXperimental 1600@60 modified values ~1.5x
+  - Start Exy Alpha Distributor
 
 ## @NEXT Continue Farming Target 14m Apastron DestroyerIII
 - Need Destroyer III Need 15m (Have 10m)
