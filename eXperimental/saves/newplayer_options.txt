@@ -113,7 +113,9 @@ WORLD_OPTIONS_show_unexplored_sectors;False
 WORLD_OPTIONS_max_officer_table;0
 WORLD_OPTIONS_galaxy_map_max_distance;50000
 WORLD_OPTIONS_galaxy_map_auto;True
-WORLD_OPTIONS_target_framerate;30
+WORLD_OPTIONS_target_framerate;60
+WORLD_OPTIONS_target_framerate_30;30
+WORLD_OPTIONS_target_framerate_60;60
 WORLD_OPTIONS_follow_cam;False
 WORLD_OPTIONS_wormhole_chance;0.75
 WORLD_OPTIONS_gate_warptime_modifier;1
