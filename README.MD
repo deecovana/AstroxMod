@@ -3,6 +3,7 @@
 ## Continue Farming Target 14m Apastron DestroyerIII
 - Need Destroyer III Need 15m (Have 10m)
 - Need 15m (Have 10m)
+* Test New player 1600@60hz with new settings
 
 ## 0402 Continue ExPansion
 - Add 1m

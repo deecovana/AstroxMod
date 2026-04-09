@@ -3,13 +3,13 @@
 PLAYER;name;eX
 PLAYER;level;15
 PLAYER;xp;119596.00
-PLAYER;next_level_xp;119100.00
+PLAYER;next_level_xp;119600.00
 PLAYER;last_level_xp;104100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;9868080.49
+PLAYER;credits;14868080.49
 PLAYER;residual_credits;0.00
 PLAYER;skill_points;29
-PLAYER;playtime;83404.98
+PLAYER;playtime;129404.98
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;3
