@@ -1,4 +1,8 @@
 //;LOG DATA FILE (Astrox Imperium)
+SELL;336;Adamyte Ore;4.64;1559.3730;5870.80695796013;StarShepards Headquarters;Void Starcross;1h 7m 28s 
+SELL;498;Adamyte Ore;8.01;3987.0960;4386.43354487419;Starbase Corporate Center;Void Starcross;0h 57m 52s 
+BUY;1;Basic Cargo Expansion;29,344;29,344;424.337109327316;Daemon Ammunitions;Starfort Ramos;0h 54m 42s 
+BUY;1;Improved Thruster;43,486;43,486;28618.7890625;StarShepards Headquarters;Void Starcross;0h 44m 3s 
 SELL;1;Plastic Caps;42.49;42.4934;72129.5435190201;Biomate University;Void Starcross;0h 38m 50s 
 SELL;1;Generic Pulse Laser;130;130.0000;58658.0398378372;Proctors Center;Void Starcross;0h 25m 58s 
 BUY;1;Basic Pulse Laser;7,350;7,350;58531.339838028;Proctors Center;Void Starcross;0h 24m 40s 

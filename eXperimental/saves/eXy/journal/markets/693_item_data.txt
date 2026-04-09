@@ -2,3 +2,5 @@ NPC;+LOCAL;25;5;1625;StarShepards Headquarters;Void Starcross;0h 20m 30s ;1230.9
 NPC;+LOCAL;25;1;6157.148;Proctors Center;Void Starcross;0h 23m 57s ;1437.134
 NPC;+LOCAL;25;1;4904.98;Lammassu Financial;Void Starcross;0h 31m 12s ;1872.756
 NPC;+LOCAL;25;3;4877.527;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
+NPC;-LOCAL;19;0;5625;Daemon Ammunitions;Starfort Ramos;0h 53m 52s ;3232.529
+NPC;+LOCAL;25;2;1625;StarShepards Headquarters;Void Starcross;1h 7m 22s ;4042.726

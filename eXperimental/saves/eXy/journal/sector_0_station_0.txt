@@ -3,7 +3,7 @@ Academic University
 Telyoupea Akpi
 Alpha
 [c:lime]Dock fee 0[/c]
-Timestamp: 2330.641
+Timestamp: 2775.599
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -390,26 +390,29 @@ Ship Shield Regeneration
 
 
 <Station Missions>
+[c:lime]KILL[/c]
+Assassinate in-experienced <color='yellow'><i>Entertainer Visar Coojangot</i></color> in <color='cyan'>Lins</color> and return to Rendo Labs in <color='cyan'>Entropy</color>
+
+[c:lime]TRANSPORT[/c]
+Head to Lammassu Financial in <color='cyan'>Void Starcross</color>, pick up <color='yellow'>199</color> <color='yellow'>Large Processors</color> for a light shipment to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]KILL RAIDERS[/c]
+Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Dogstar Prime</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
 [c:lime]SCAN[/c]
-Locate and scan <color='yellow'><i>Leader Eroxul Ninegorepi</i></color> in <color='cyan'>Entropy</color> and return to Astrox Security Patrol in <color='cyan'>Felishar</color>
-
-[c:lime]KILL RECOVER[/c]
-Hijack <color='yellow'><i>Lieutenant Mobino Zenowhokee</i></color> in <color='cyan'>Ballast Crow</color> for <color='yellow'>8</color> <color='yellow'>Foodservice Equipments</color> and deliver them to ValueStar in <color='cyan'>Hunu</color>
-
-[c:lime]SALVAGE[/c]
-Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Void Starcross</color> and return with <color='yellow'>62</color> to Astrox Security Patrol in <color='cyan'>Felishar</color>
-
-[c:lime]SCAN[/c]
-Find the target <color='yellow'>Office Center</color> structure in <color='cyan'>Temple Gates</color>, scan, and return to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
+Find <color='yellow'><i>Liaison Heaxul Meeaqu</i></color> in <color='cyan'>Ballast Crow</color>, scan their ship, and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
 
 [c:lime]COLLECT[/c]
-Collect a light shipment of <color='yellow'>Pressure Sensors</color> and return to Transporteers in <color='cyan'>Hunu</color>
+Collect a light shipment of <color='yellow'>Improved Heavy Cannons</color> and return to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Transporteers in <color='cyan'>Hunu</color> to deliver a light shipment of <color='yellow'>2</color> <color='yellow'>Improved Energy Generators</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Star Shepards Hub in <color='cyan'>Temple Gates</color> to deliver a light shipment of <color='yellow'>16</color> <color='yellow'>Micro Computers</color>
 
 [c:lime]HARVEST[/c]
-Mine special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>63</color> to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
-
-[c:lime]REFINE[/c]
-Refine a light container of <color='yellow'>4</color> <color='yellow'>Weapons Components</color> at the Transporteers station in <color='cyan'>Hunu</color>
+Mine special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Dragon Sea</color> and return with <color='yellow'>89</color> to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
 
 
 

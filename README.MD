@@ -13,6 +13,9 @@
   - REStart eXy Alpha Trade Transporter
   - !!!AGAIN!!! Temple -10: change to -5 in save
 - Try 1280@30 Low
+  - Tested 1280@30hz
+  - Works Great
+- @FIX stading to Templar to use gates to continue missions
 
 ## @NEXT Continue Farming Target 14m Apastron DestroyerIII
 - Need Destroyer III Need 15m (Have 10m)

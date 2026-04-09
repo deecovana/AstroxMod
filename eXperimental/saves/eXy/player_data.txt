@@ -1,15 +1,15 @@
 // PLAYER;Variable;Value
 <PLAYER>
 PLAYER;name;eXy
-PLAYER;level;2
-PLAYER;xp;2049.00
-PLAYER;next_level_xp;2100.00
-PLAYER;last_level_xp;100.00
+PLAYER;level;3
+PLAYER;xp;2189.00
+PLAYER;next_level_xp;5100.00
+PLAYER;last_level_xp;2100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;72129.54
+PLAYER;credits;4311.43
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;5
-PLAYER;playtime;2473.06
+PLAYER;skill_points;33
+PLAYER;playtime;4030.63
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -29,12 +29,12 @@ PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
 PLAYER;sector;sector_0.txt
 PLAYER;sector_id;0
-PLAYER;station;sector_0_station_0.txt
+PLAYER;station;sector_0_station_3.txt
 PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;-92.80;-115.14;-4860.84
+SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;-595.60;-135.30;4678.98
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
@@ -58,9 +58,12 @@ SKILL;100;1;0;85
 <MEDALS>
 MEDAL;8;True;medal_17.png;First Mission Completed;Awarded for the successful completion of your very first Mission. 
 MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your first raider in combat. 
+MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful excavation of 100 units of Adamyte. 
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
+MISSION;60;25;840632;HARVEST#72#1#sector_96.txt#sector_0_station_2.txt#null#null#null#null;Harvest special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Arch of Mori</color> and return with <color='yellow'>72</color> ore to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>;10;0;False;10000;504;A local prospector, <i>Leitel Yanpae</i> of the Missionary faction has located a light quantity of special <color='yellow'>Special Adamyte Ore</color> in the <color='cyan'>Arch of Mori</color> sector. Head over there and harvest all of the special <color='yellow'>Special Adamyte Ore</color>, and meet <i>Leitel Yanpae</i> back at StarGypsy Warehouse station located in the <color='cyan'>Void Starcross</color>.
+MISSION;60;25;944674;HARVEST#70#1#sector_3.txt#sector_95_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>70</color> ore to Star Shepards Hub in <color='cyan'>Temple Gates</color>;10;72;True;10000;490;A local prospector, <i>Bidbaz Covofa</i> of the Missionary faction has located a light quantity of special <color='yellow'>Special Adamyte Ore</color> in the <color='cyan'>Starfort Ramos</color> sector. Head over there and harvest all of the special <color='yellow'>Special Adamyte Ore</color>, and meet <i>Bidbaz Covofa</i> back at Star Shepards Hub station located in the <color='cyan'>Temple Gates</color>.
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
@@ -74,8 +77,8 @@ STAT;6;Salvage Beams Fired;0;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;2;Excavation
-STAT;11;Adamyte Ore Mined;24;Excavation
+STAT;10;Mining lasers Fired;73;Excavation
+STAT;11;Adamyte Ore Mined;858;Excavation
 STAT;12;Gradeon Ore Mined;0;Excavation
 STAT;13;Quazor Ore Mined;0;Excavation
 STAT;14;Lokken Ore Mined;0;Excavation
@@ -103,7 +106,7 @@ STAT;35;Recover Missions Complete;0;Missions
 STAT;36;Kill Missions Complete;6;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
 STAT;38;Sectors Explored;2;Navigation
-STAT;39;Warp gate Jumps;0;Navigation
+STAT;39;Warp gate Jumps;4;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;0;Missions
@@ -115,7 +118,7 @@ STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
 STAT;50;Skill Levels Trained;8;Skills
-STAT;51;Skill Points Earned;15;Skills
+STAT;51;Skill Points Earned;29;Skills
 STAT;52;Skill Points Spent;51;Skills
 STAT;53;;0;
 STAT;54;;0;

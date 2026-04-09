@@ -1,2 +1,4 @@
 NPC;+LOCAL;9;1;18269.31;Proctors Center;Void Starcross;0h 23m 57s ;1437.134
 NPC;+LOCAL;13;4;10961.04;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
+NPC;+LOCAL;25;9;7800;StarShepards Headquarters;Void Starcross;0h 42m 35s ;2555.411
+NPC;-LOCAL;43;0;27000;Daemon Ammunitions;Starfort Ramos;0h 53m 52s ;3232.529

@@ -1,2 +1,5 @@
 PLAYER;+QTY;31;1;5866;Biomate University;Void Starcross;0h 17m 6s ;1026.35
 NPC;+LOCAL;25;5;3472.673;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
+NPC;+LOCAL;25;9;2275;StarShepards Headquarters;Void Starcross;0h 42m 35s ;2555.411
+NPC;-LOCAL;23;0;8575;Daemon Ammunitions;Starfort Ramos;0h 53m 52s ;3232.529
+NPC;+LOCAL;25;2;2275;StarShepards Headquarters;Void Starcross;1h 7m 22s ;4042.726
