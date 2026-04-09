@@ -8,7 +8,9 @@
 - Update Keys
 - Update Factions Database 
   - Temple -5 Law -1
-  - REStart Exy Alpha Distributor
+  - REStart eXy Alpha Trade Transporter
+- Temple less-7.5 blocking Missions. Restore default Temple;-2 Law;-1
+  - REStart eXy Alpha Trade Transporter
 
 ## @NEXT Continue Farming Target 14m Apastron DestroyerIII
 - Need Destroyer III Need 15m (Have 10m)
