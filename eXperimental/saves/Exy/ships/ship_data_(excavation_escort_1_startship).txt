@@ -1,0 +1,116 @@
+//; ASTROX IMPERIUM SHIP EDITOR
+//; Jace Masula 2017
+//; edited by DragonSlayer
+//; -------------------------------SHIP MAIN VARS ----------------------------------
+//; ---------------------------- Variable name, value ------------------------------
+<STATS>
+//; ----- General Info -----
+SHIP_name;ATC Starter
+SHIP_filename;ship_data_(excavation_escort_1_startship)
+SHIP_class;Shuttle
+SHIP_type;Recon
+SHIP_skill_level;1
+SHIP_base_level;1
+SHIP_base_price;250000
+SHIP_manufacturer;AstroTech Consortium
+SHIP_manufacturer_icon;icon_atc.png
+SHIP_faction_id;0
+//; ----- Main Stats -----
+SHIP_active_slots;1
+SHIP_passive_slots;2
+SHIP_base_drones;0
+SHIP_base_shield;225
+SHIP_base_armor;300
+SHIP_base_energy;300
+SHIP_base_cargo;300
+SHIP_base_lifesupport;1000
+//; ----- Propulsion -----
+SHIP_base_mass;38
+SHIP_base_thrust;125
+SHIP_base_turn;0.70
+SHIP_base_engine_burn;0.20
+SHIP_base_speed;0
+//; ----- Sensors -----
+SHIP_base_scan_max_targets;3
+SHIP_base_scan_speed;2.00
+SHIP_base_scan_pulserange;2000
+SHIP_base_scan_pulsespeed;2.00
+//; ----- Resistance -----
+SHIP_impact_resistance;0.05
+SHIP_energy_resistance;0.00
+SHIP_explosive_resistance;0.00
+//; ----- Regeneration -----
+SHIP_base_recharge;0.20
+SHIP_base_shield_recharge;0.50
+//; ----- Bonuses -----
+SHIP_specials_raw;Scan Range#0.20
+//; ----- Description -----
+SHIP_description;Recon Ships usually prefer flexibility over raw power or extra defence. They convert all Drone support for additional Passive modules and are cappable to perform wide variety of tasks, from extended electronic warfare to deep space exploration.
+//; ----- Editor -----
+SHIP_material_texture_a;atc_main.png
+SHIP_material_texture_b;4atc_detail.png
+SHIP_material_texture_c;med_glow.png
+SHIP_material_color_a;0.50;0.50;0.50;1.00
+SHIP_material_color_b;0;1.00;1.00;0.5
+SHIP_engine_color;0;1.00;1.00;0.5
+//; ----- Misc -----
+SHIP_shield;0
+SHIP_armor;0
+SHIP_energy;0
+SHIP_ls_food;0
+SHIP_ls_water;0
+SHIP_ls_thermal;0
+SHIP_ls_waste;0
+SHIP_ls_points;0
+SHIP_collider_x;1
+SHIP_collider_y;1
+SHIP_collider_z;1
+//; ----- Merc stuff -----
+SHIP_owner;none
+SHIP_xp;0
+SHIP_next_level_xp;800
+SHIP_level;1
+SHIP_talent;Recon
+SHIP_loyalty;10
+SHIP_payroll;50
+//; --------------------------------- SHIP PARTS -----------------------------------
+//; --------------- ITEM,type,catID,pfID,xp,yp,zp,xr,yr,zr--------------------------
+<ITEM>
+ITEM;mast_4;0; 48 ;1.64100;0.83000;-2.31300;30.00002;270.00000;270.00000
+ITEM;mast_4;0; 48 ;-1.64100;-0.82683;-2.31300;330.00000;90.00000;90.00000
+ITEM;mast_4;0; 48 ;1.64100;-0.82700;-2.31300;330.00000;270.00000;270.00000
+ITEM;mast_4;0; 48 ;-1.64129;0.82986;-2.31333;30.00002;90.00000;90.00000
+ITEM;cargo_2;0; 52 ;0.00012;-0.01990;0.62046;0.00000;0.00001;0.00000
+ITEM;command_0;0; 20 ;0.00000;0.21082;1.15041;0.00000;0.00000;0.00000
+ITEM;engine_0;0; 30 ;0.000;-0.053;-0.666;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;wing_9;0; 74 ;1.11800;-0.52500;-0.93800;0.00000;0.00000;330.00000
+ITEM;wing_9;0; 74 ;-1.11800;-0.52466;-0.93800;0.00000;0.00000;210.00000
+ITEM;wing_9;0; 74 ;-1.11847;0.52322;-0.93439;0.00000;0.00000;150.00000
+ITEM;wing_9;0; 74 ;1.11800;0.52300;-0.93800;0.00000;0.00000;30.00000
+ITEM;hull_small_5;0; 8 ;0.00000;0.00000;0.05700;0.00000;180.00000;330.00000
+ITEM;hull_small_5;0; 8 ;0.00200;0.00000;0.05800;0.00000;180.00000;30.00000
+ITEM;hull_small_5;0; 8 ;0.00000;0.00000;0.05600;0.00000;180.00000;210.00000
+ITEM;hull_small_5;0; 8 ;0.00100;0.00000;0.05900;0.00000;180.00000;150.00000
+//; ----------------------------- SHIP CAMERA SLOTS --------------------------------
+//; -------------- PILOTCAM,name,SLOTid,model_id,xp,yp,zp,xr,yr,zr--------------------
+<PILOTCAM>
+PILOTCAM;pilot_cam; 5 ; 98 ;0.00000;0.15503;2.23070;0.00000;0.00000;0.00000
+//; ----------------------------- SHIP MODULE SLOTS --------------------------------
+//; -------------- MODSLOT,name,SLOTid,model_id, ammo_id,xp,yp,zp,xr,yr,zr----------
+<MODSLOT>
+MODSLOT;module_slot;1; 99 ;0.000;-0.377;1.362;0.000;0.000;180.000;0.50;0.50;0.50
+//; ----------------------------- SHIP MODULES --------------------------------------
+//; ----- MODULE,slot,module_id
+<MODULE>
+//; ----------------------------- SHIP CARGO -----------------------------------------
+//; ----- CARGO, qty, cargo_id
+<CARGO>
+CARGO; 1 ; 1100
+CARGO; 1 ; 1200
+CARGO; 1 ; 1451
+CARGO; 1 ; 600
+CARGO; 1 ; 620
+//; ----------------------------- SHIP DRONES -----------------------------------------
+//; ----- DRONE, id, hp, energy , is_docked, group_id
+<DRONE>
+
