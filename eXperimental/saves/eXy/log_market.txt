@@ -1,0 +1,8 @@
+//;LOG DATA FILE (Astrox Imperium)
+SELL;1;Plastic Caps;42.49;42.4934;72129.5435190201;Biomate University;Void Starcross;0h 38m 50s 
+SELL;1;Generic Pulse Laser;130;130.0000;58658.0398378372;Proctors Center;Void Starcross;0h 25m 58s 
+BUY;1;Basic Pulse Laser;7,350;7,350;58531.339838028;Proctors Center;Void Starcross;0h 24m 40s 
+SELL;1;Metal Valve;24.67;24.6675;68836.339838028;Biomate University;Void Starcross;0h 17m 11s 
+SELL;1;Light Shield Charge;3,595;3594.5000;68811.6723384857;Biomate University;Void Starcross;0h 17m 6s 
+SELL;10;Oil;8.62;86.2452;65217.1725826263;Biomate University;Void Starcross;0h 17m 0s 
+SELL;6;Adamyte Ore;2.82;16.9260;62411.9260005951;Biomate University;Void Starcross;0h 7m 33s 

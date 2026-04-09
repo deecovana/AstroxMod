@@ -1,0 +1,371 @@
+[s:30][c:yellow]Lammassu Financial[/c][/s]
+Market Center
+Jelegus
+Trade
+[c:lime]Dock fee 25[/c]
+Timestamp: 1880.799
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Candy Cane
+Ornament
+Wrapped Box
+Medium Shield Charge
+Heavy Shield Charge
+Medium Armor Repair
+Heavy Armor Repair
+Medium Energy Charge
+Heavy Energy Charge
+Medium Life Support Pack
+Large Life Support Pack
+Light Shield Charge
+Light Armor Repair
+Light Energy Charge
+Small Life Support Pack
+[c:orange]DEMAND[/c]
+Basic 20mm
+Advanced 20mm
+Prototype 20mm
+Basic 60mm
+Advanced 60mm
+Prototype 60mm
+Basic Missile 
+Advanced Missile
+Prototype Missile 
+Basic Torpedo 
+Advanced Torpedo 
+Prototype Torpedo 
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Demands: (1) Items 
+ (133) x Basic 60mm
+Fulfill order for [c:lime]9,555 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Acidic Residue  558 - z18
+Adamyte Ore  347 - z8
+Advanced 20mm  44 - z72
+Advanced 60mm  115 - z130
+Advanced Afterburner  33 - z104,200
+Advanced Armor Exterior  40 - z122,700
+Advanced ECM Resistance Field (Doc)  69 - z5,458,973
+Advanced Energy Armor  38 - z83,250
+Advanced Energy Armor (Doc)  48 - z1,059,000
+Advanced Filter  24 - z25,350
+Advanced Light Turret  53 - z56,809
+Advanced Missile Launcher  51 - z113,426
+Advanced Ore Harvester (Doc)  53 - z490,919
+Advanced Railgun (Doc)  139 - z515,786
+Advanced Regulator  4 - z10,198
+Advanced Rocket Launcher (Doc)  130 - z541,297
+Advanced Salvage Collector  53 - z183,934
+Advanced Scan Emitter  68 - z62,820
+Advanced Skill Manual  4 - z457,031
+Advanced Torpedo   98 - z587
+Advanced Turn Thrust  7 - z93,800
+Aged Wine  28 - z159
+AI Interface Drive (Doc)  55 - z12,231
+Aluminium Plates  11 - z198
+Aluminium Rivets  230 - z30
+Aluminium Shard  238 - z15
+Anti-Freeze  53 - z40
+Armor Plating (Doc)  35 - z11,665
+Assembly Tools  41 - z6,441
+Assorted Springs  609 - z46
+Basic 20mm  311 - z36
+Basic Beam Energy Mod  49 - z17,063
+Basic Computer  644 - z1,546
+Basic Energy Armor  55 - z19,063
+Basic Energy Armor (Doc)  48 - z324,750
+Basic Filter  14 - z5,268
+Basic Food Rations  35 - z78
+Basic Ion Beam  53 - z7,161
+Basic Laser Energy Mod (Doc)  3 - z240,750
+Basic Light Turret  44 - z8,348
+Basic Missile   177 - z156
+Basic Missile Explosive Mod  15 - z19,813
+Basic Missile Impact Mod  38 - z17,063
+Basic Missile Launcher (Doc)  83 - z48,991
+Basic Ore Harvester (Doc)  9 - z68,775
+Basic Railgun  18 - z5,733
+Basic Rocket Launcher  34 - z7,018
+Basic Rocket Launcher (Doc)  127 - z33,338
+Basic Scan Emitter (Doc)  3 - z203,580
+Basic Shield Booster  29 - z24,063
+Basic Shield Generator  20 - z34,898
+Basic Torpedo   7 - z261
+Bio Carbon  453 - z22
+Bio Converter  1 - z66,473
+Bio Disposables  14 - z142,753
+Bottled Whiskey  23 - z94
+Burglar Drone  23 - z17,738
+Calcium  113 - z5
+Calibration Tools  4 - z4,730
+Candy Cane  12 - z1
+Candy Corn  69 - z1
+Capacitors  39 - z82
+Carbon  262 - z1
+Carbon Filter  9 - z23,354
+Cat Food  17 - z233,732
+Ceramic  481 - z16
+Cheese and Crackers  15 - z74,967
+Cheeseburger  15 - z34,233
+Childrens Toys  13 - z279
+Chocolate Bars  62 - z1
+Circuit Board  486 - z86
+Cleaning Chemicals  67 - z65
+Colored Dye  10 - z14
+Communication Device  50 - z2,764
+Containment Processor  5 - z235,743
+Containment Unit  5 - z8,728
+Copperi Cables  162 - z192
+Copperi Cables (Doc)  5 - z3,605
+Copperi Cubex  511 - z14
+Copperi Pipes  301 - z381
+Copperi Plates  113 - z439
+Disposables  7 - z8,138
+Dynex Crystal  40 - z43
+Dynex Crystal Resonator  647 - z457
+Dynex Ore  603 - z91
+ECM Sensors Jammer  51 - z135,469
+Eco Regulator  1 - z27,856
+Electron Orb  12 - z157
+Electronic Fragment  258 - z209
+Elite Skill Manual  23 - z1,096,031
+Entertainment Electronics  13 - z782
+Fiber Optic Cables  544 - z108
+Foodservice Equipment  20 - z4,680
+Foodservice Products  36 - z5,761
+Fuel Injector (Doc)  6 - z36,500
+Gaming Devices  35 - z1,804
+Generic Ion Beam (Doc)  61 - z8,670
+Generic Plasma Cannon  55 - z2,140
+Generic Railgun (Doc)  260 - z11,550
+Generic Rocket Launcher  26 - z1,565
+Generic Torpedo Launcher (Doc)  227 - z9,510
+Gourmet Food Rations  10 - z230
+Gradeon Ore  204 - z8
+Grilled Steak  4 - z65,160
+Gummy Bears  11 - z1
+Ham Sandwich  32 - z21,277
+Hand Tools  167 - z361
+Heavy Armor Repair  25 - z75,308
+Heavy Combat Drone  61 - z137,363
+Heavy Defense Drone  109 - z145,613
+Heavy Energy Charge  92 - z39,646
+Heavy Mining Drone  110 - z110,963
+Heavy Salvage Drone  78 - z145,613
+Heavy Shield Charge  104 - z44,348
+Hydrogen  1021 - z3
+Hygiene Products  42 - z171
+Hyperion Regulator  5 - z157,330
+Improved Afterburner  11 - z45,700
+Improved Combat Drone  16 - z50,513
+Improved Energy Armor  50 - z61,625
+Improved Energy Capacitor  25 - z66,170
+Improved Energy Capacitor (Doc)  41 - z351,000
+Improved Filter  17 - z13,628
+Improved Impact Armor  59 - z47,125
+Improved Mining Drone  65 - z35,213
+Improved Missile Launcher (Doc)  289 - z116,222
+Improved Railgun (Doc)  180 - z119,438
+Improved Repair Drone  96 - z52,313
+Improved Salvage Drone  82 - z50,513
+Improved Scan Emitter  44 - z33,210
+Improved Targeting System (Doc)  64 - z494,700
+Interior Lighting  28 - z266
+Iron Coring  547 - z5
+Iron Coring Pipes  35 - z439
+Iron Coring Plates  686 - z507
+Junk Part  99 - z26
+Kitchen Appliances  32 - z628
+Large Defense Drone  57 - z111,250
+Large Life Support Pack  97 - z30,138
+Large Mining Drone (Doc)  49 - z400,800
+Large Processor  447 - z116
+Large Processor (Doc)  24 - z1,540
+Large Pump  472 - z462
+Large Repair Drone  11 - z86,250
+Large Web Field  22 - z84,420
+LED Lights  438 - z131
+Light Armor Repair  25 - z7,351
+Light Energy Charge  25 - z4,723
+Light Shield Charge  88 - z4,737
+Liquid Coolant  400 - z20
+Lokken Ore  409 - z24
+Magnetic Quartz  634 - z2
+Mechanical Belts  596 - z60
+Mechanical Switch  479 - z64
+Mechanical Tools  10 - z5,429
+Media Recordings  7 - z1,722
+Medical Instruments  49 - z8,921
+Medium Armor Bomb  126 - z21,938
+Medium Armor Repair  89 - z18,388
+Medium Combat Drone  128 - z14,888
+Medium Energy Charge  25 - z17,411
+Medium Life Support Pack  102 - z11,423
+Medium Salvage Drone  107 - z8,438
+Medium Shield Bomb  44 - z26,528
+Medium Shield Charge  25 - z18,655
+Medium Shield Recharger  47 - z166,281
+Medium Web Field  78 - z26,940
+Memory Chip  685 - z229
+Metal Brackets  194 - z25
+Metal Fragment  289 - z107
+Metal Valve  569 - z37
+Micro Leech Drone  135 - z19,538
+Module Fragment  334 - z245
+Musical Instruments  58 - z2,844
+Neutron Pods  1027 - z28
+Nitrogen  743 - z6
+Noodles  3 - z7,748
+Office Furniture  35 - z980
+Office Supplies  23 - z3,996
+Oil  583 - z12
+OmniCon Regulator  7 - z43,494
+Optical Interface  640 - z125
+Ornament  47 - z5
+Oxygen  463 - z2
+Personal Clothing  54 - z1,421
+Plasite Extractor (Doc)  39 - z6,159,781
+Plasite Ore  187 - z50
+Plastic Caps  232 - z54
+Plastix Strands  351 - z3
+Predator Laser Guardian (Doc)  19 - z7,578,125
+Premium Afterburner  39 - z99,600
+Premium Energy Capacitor  25 - z245,960
+Premium Heavy Laser  65 - z251,730
+Premium Ion Beam  44 - z469,095
+Premium Missile Launcher (Doc)  200 - z1,143,101
+Premium Railgun (Doc)  125 - z1,120,967
+Premium Scan Booster  5 - z121,980
+Premium Shield Generator (Doc)  32 - z2,442,960
+Protein Bar  34 - z6,388
+Prototype ECM Energy Coil  50 - z1,164,862
+Prototype ECM Energy Coil (Doc)  2 - z14,099,630
+Prototype ECM Range Lock  67 - z1,075,275
+Prototype ECM Resistance Field  31 - z1,226,730
+Prototype Heavy Cannon (Doc)  167 - z6,658,461
+Prototype Missile   245 - z792
+Prototype Railgun  52 - z1,011,571
+Prototype Scan Booster (Doc)  44 - z2,307,360
+Prototype Targeting System  55 - z305,320
+Quazor Ore  641 - z21
+Salt Crystal  132 - z2
+Scrap Part  132 - z21
+Silicon  421 - z5
+Small Electronics  167 - z624
+Small Heatsink  443 - z337
+Small Life Support Pack  25 - z4,842
+Small Motor  160 - z215
+Small Pump (Doc)  11 - z1,824
+Small Storage Tank  518 - z61
+SolarClean Filter  27 - z117,117
+Sporting Equipment  18 - z2,207
+Steelium  158 - z54
+Steelium Beam  437 - z8
+Steelium Pipes  432 - z13
+Synth Filter  31 - z68,074
+Temperature Genie  19 - z12,702
+Textile Fabrics  57 - z1,275
+Thermal Controller  25 - z4,008
+Thermal Generex  11 - z103,690
+Thermal Insulation  404 - z25
+Thermal Insulation (Doc)  69 - z309
+Thermal Sensor  461 - z86
+Titan Combat Drone  26 - z155,625
+Titan Defense Drone  69 - z155,625
+Titan Defense Drone (Doc)  50 - z1,001,600
+Titan Mining Drone (Doc)  46 - z1,590,400
+Titan Repair Drone  12 - z198,125
+Torim Ore  500 - z59
+Transport Units  37 - z7,190
+Undamaged Part  556 - z68
+Uranium Core  404 - z919
+UV Filter  26 - z42,181
+Voltage Regulator (Doc)  52 - z43,842
+Waste Burner  17 - z39,486
+Waste Processor  31 - z25,994
+Water  918 - z1
+Weapon Systems Package (Doc)  42 - z74,641
+Weapons Component  643 - z366
+Wrapped Box  50 - z14
+Xenox Extractor (Doc)  38 - z17,321,720
+
+
+<Station University Skills>
+Market Auditor
+Market Distributor
+Merc Negotiations
+Merc Prospector
+Storage Accountant
+University Discount
+Refinery Accountant
+Max Mission Contracts
+Mission Negotiations
+Ship Engine Burner
+Tractor Energy Optimization
+Tractor Maintenance
+
+
+<Station Missions>
+[c:lime]DELIVERY[/c]
+Deliver light container of <color='yellow'>124</color> <color='yellow'>Copperi Cubexs</color> to Imperium Republica  Station in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]KILL[/c]
+Assassinate in-experienced <color='yellow'><i>Sir Amta Yelzo</i></color> in <color='cyan'>Dragon Sea</color> and return to Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]RECOVER[/c]
+Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Entropy</color> sector, and return to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]ESCORT[/c]
+Escort <color='yellow'><i>Rookie Xuldo Tajpa</i></color> from StarGypsy Warehouse in <color='cyan'>Void Starcross</color> to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+[c:lime]FABRICATE[/c]
+Dock at the Lacuna Bandits station fabricator in <color='cyan'>Ballast Crow</color> and manufacture a light shipment of <color='yellow'>5</color> <color='yellow'>Mechanical Switchs</color>
+
+
+
+<Station Ships>
+TS-1 Dexta / Shuttle    (Recon)
+TE-1 Phoebus / Shuttle    (Transport)
+TE-2 Helios / Shuttle    (Transport)
+TU-1 Jonas / Escort    (Transport)
+TU-2 Series / Escort    (Transport)
+TF-1 Hexalon / Escort    (Transport)
+
+
+<Station Offices>
+(AstyQuest) 
+[c:grey](Asty)[/c]
+
+(Tutorial Office) Ship Orbiting 
+[c:grey](Jonathan Hetcher)[/c]
+
+(Tutorial Office) Camera Basics 
+[c:grey](Ratamaq Guru)[/c]
+
+(Tutorial Office) Navigation Basics 
+[c:grey](Arji Darn)[/c]
+
+(Tutorial Office) Life Support Basics 
+[c:grey](Carter Burke)[/c]
+
+(Tutorial Office) Basic Drones 
+[c:grey](Daniel Traek)[/c]
+

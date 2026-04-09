@@ -11,6 +11,7 @@
   - REStart eXy Alpha Trade Transporter
 - Temple less-7.5 blocking Missions. Restore default Temple;-2 Law;-1
   - REStart eXy Alpha Trade Transporter
+  - !!!AGAIN!!! Temple -10: change to -5 in save
 
 ## @NEXT Continue Farming Target 14m Apastron DestroyerIII
 - Need Destroyer III Need 15m (Have 10m)
