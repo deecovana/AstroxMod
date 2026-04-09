@@ -9,7 +9,7 @@ PLAYER;avatar;none.jpg
 PLAYER;credits;55000.00
 PLAYER;residual_credits;0.00
 PLAYER;skill_points;14
-PLAYER;playtime;23.17
+PLAYER;playtime;312.61
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;1
@@ -18,23 +18,23 @@ PLAYER;face_2;accessory_1.png
 PLAYER;face_bg;bgimg_8.png
 PLAYER;profession_id;22
 PLAYER;passive_scanner_settings;True,True,True,True,True,True,True,True,True
-PLAYER;autopilot_settings;False,False,False,False,False
+PLAYER;autopilot_settings;True,False,False,False,False
 PLAYER;orbit_data;False,300,0,0,False
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
 PLAYER;cargo_settings;ALL,Name,Ascend,1
 PLAYER;targeting_settings;Name,Ascend
 PLAYER;station_market_settings;ALL,Name,Ascend,100
-PLAYER;station_university_settings;ALL,Name,Ascend,100
+PLAYER;station_university_settings;SEARCH,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
 PLAYER;sector;sector_0.txt
 PLAYER;sector_id;0
-PLAYER;station;sector_0_station_0.txt
-PLAYER;isdocked;True
+PLAYER;station;null
+PLAYER;isdocked;False
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;570.00;130.00;-5028.00
+SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;-356.11;-150.29;-5253.76
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
@@ -58,6 +58,7 @@ SKILL;53;1;0;0
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
+MISSION;201;1437;308993;HARVEST#13#1#sector_0.txt#sector_0_station_0.txt#null#null#null#null;( Tutorial 1 ) Harvest your first Special Adamyte rock in <color='cyan'>Void Starcross</color>, then dock at Biomate University;1;0;False;6300;0;This tutorial mission will require that you locate the target Adamyte rock, and harvest the asteroid using tactical sensors to find it (SPACEBAR). When finished, you will need to return to the Biomate University in <color='cyan'>Void Starcross</color>.
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
@@ -137,3 +138,4 @@ STAT;65;Torpedo Damage Taken;0;Combat
 // PLOT; PLOT name ; PLOT value
 <PLOT>
 PLOT;welcome_center;2
+PLOT;tutorial_intro;3

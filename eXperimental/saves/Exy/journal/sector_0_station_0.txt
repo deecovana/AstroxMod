@@ -3,7 +3,7 @@ Academic University
 Telyoupea Akpi
 Alpha
 [c:lime]Dock fee 0[/c]
-Timestamp: 23.17195
+Timestamp: 302.5841
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -77,9 +77,6 @@ Ship Shield Regeneration
 
 
 <Station Missions>
-[c:lime]DIALOG[/c]
-Collect a small debt from <color='yellow'><i>Laborer Tajves Leiti</i></color> in <color='cyan'>Dogstar Prime</color> and return to Transporteers in <color='cyan'>Hunu</color>
-
 [c:lime]SCAN[/c]
 Locate and scan <color='yellow'><i>Overseer Oamad Jagfeira</i></color> in <color='cyan'>Ballast Crow</color> and return to Blargg's in <color='cyan'>Beacon Spita</color>
 
@@ -88,6 +85,18 @@ Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Void Starcros
 
 [c:lime]ESCORT[/c]
 Escort <color='yellow'><i>Rookie Molegore Arfall</i></color> from Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
+
+[c:lime]DELIVERY[/c]
+Deliver light container of <color='yellow'>115</color> <color='yellow'>Thermal Sensors</color> to ValueStar Station in <color='cyan'>Hunu</color>
+
+[c:lime]DIALOG[/c]
+Detain <color='yellow'><i>General Deszan Rastassi</i></color> in <color='cyan'>Equalias Val</color> and escort them to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]FABRICATE[/c]
+Dock at the Rendo Labs station fabricator in <color='cyan'>Entropy</color> and manufacture a light shipment of <color='yellow'>5</color> <color='yellow'>Fuel Injectors</color>
+
+[c:lime]HARVEST[/c]
+Harvest special <color='yellow'>Special Gradeon Ore</color> in <color='cyan'>Bitcola</color> and return with <color='yellow'>49</color> ore to Lammassu Financial in <color='cyan'>Void Starcross</color>
 
 
 

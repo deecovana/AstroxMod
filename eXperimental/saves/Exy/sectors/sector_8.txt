@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;8
 SECTOR;name;The Moon of Crystalis
-SECTOR;level;2.3
+SECTOR;level;2.4
 SECTOR;faction;Labor
 SECTOR;filename;sector_8.txt
 SECTOR;is_explored;False
