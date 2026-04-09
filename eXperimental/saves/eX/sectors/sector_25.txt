@@ -4,7 +4,7 @@ SECTOR;name;Jonahmi
 SECTOR;level;3.1
 SECTOR;faction;Alpha
 SECTOR;filename;sector_25.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;30
@@ -63,18 +63,18 @@ STARLIGHT;color_5;0.50;0.28;0.20;0.10
 
 // STATION;Sector filename;X position;Y position;Z position
 
-// STRUCTURE;Structure filename;X position;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;175;-301;-2399
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;175.00;-301.00;-2399.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;6;15;75;150;2500;-2473;0;0
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;6;-2883;276;57;500;500
+RESOURCE;6;-2883.0;276.0;57.0;500;500
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_24.txt;3;774;234;3436;0;Alpha;1
-WARPGATE;2;sector_33.txt;1;-2873;-1048;-1626;0;Alpha;0.6
+WARPGATE;1;sector_24.txt;3;774;234;3436;0;Alpha;1;prescan
+WARPGATE;2;sector_33.txt;1;-2873;-1048;-1626;0;Alpha;0.6;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;22;0;0;0;0;180;0;rock_3;;;;

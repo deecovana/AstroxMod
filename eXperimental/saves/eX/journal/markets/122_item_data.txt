@@ -13,3 +13,13 @@ NPC;+STOCK;713;223;162.2078;Biomate University;Void Starcross;13h 56m 14s ;50174
 NPC;-PRICE;36;0;109.7476;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;+QTY;216;180;109.0462;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;BAL;361;-129;154.536;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;170;130;86.80849;Crystalis Broadcasting;Jermicus;19h 4m 13s ;68653.3
+NPC;+STOCK;541;180;150.0768;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1498;166;94.4308;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;0;0;357.725;Monarch Society;Solitudes of Frey;20h 43m 22s ;74602.2
+NPC;-LOCAL;0;0;357.725;Monarch Society;Solitudes of Frey;20h 46m 52s ;74812.95
+NPC;-LOCAL;0;0;357.725;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;+LOCAL;250;1372;46.50425;PharmaLife;Carioullis;21h 30m 42s ;77442.81
+NPC;-LOCAL;0;0;357.725;Monarch Society;Solitudes of Frey;22h 5m 5s ;79505.99
+NPC;BAL;324;-217;140.9659;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;-LOCAL;4;4;166.7445;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

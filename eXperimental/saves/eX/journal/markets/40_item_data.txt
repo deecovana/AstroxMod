@@ -29,3 +29,18 @@ NPC;-QTY;677;-1839;16.07878;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089
 NPC;+QTY;1607;1575;25.69683;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;BAL;20;0;27.12897;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-PRICE;23;0;14.22532;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+NPC;-LOCAL;0;0;56.25;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;-LOCAL;31;31;25.3125;Lammassu Financial;Void Starcross;18h 11m 12s ;65472.14
+NPC;-LOCAL;0;0;56.25;Xellon;Ele;18h 34m 55s ;66895.14
+NPC;-LOCAL;0;0;56.25;Xellon;Ele;18h 46m 13s ;67573.88
+NPC;-LOCAL;22;22;25.3125;Xellon;Ele;18h 51m 9s ;67869.42
+NPC;-QTY;0;-263;13.12777;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;2002;1982;26.71162;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1983;1952;30.3305;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;2512;1835;14.97871;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4364;2157;18.81202;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4486;1986;21.41521;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;1939;0;25.3125;Lammassu Financial;Void Starcross;19h 48m 54s ;71334.89
+NPC;+PRICE;36;0;20.18449;Horizons;Gate of Alpharis;21h 30m 39s ;77439.77
+NPC;BAL;2002;0;25.88653;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;-LOCAL;0;0;34.19762;Xellon;Ele;22h 50m 8s ;82208

@@ -11,3 +11,10 @@ NPC;-LOCAL;10;10;28827.89;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
 NPC;+STOCK;12;10;26513.84;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
 NPC;-LOCAL;43;43;28125;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
 NPC;-QTY;37;-6;35769.14;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;12;12;28125;StarGypsy Warehouse;Void Starcross;18h 4m 10s ;65050.88
+NPC;-LOCAL;0;0;46386.65;StarGypsy Warehouse;Void Starcross;18h 25m 48s ;66348.2
+NPC;-LOCAL;0;0;50710.41;StarGypsy Warehouse;Void Starcross;18h 30m 49s ;66649.07
+NPC;+STOCK;14;8;24323.96;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;-QTY;0;-10;31753.9;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;-QTY;0;-3;21586.41;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;-LOCAL;4;4;28125;StarGypsy Warehouse;Void Starcross;19h 47m 29s ;71249.35

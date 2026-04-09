@@ -1,0 +1,37 @@
+scan_title;ATC Spear 169429
+scan_image;npc_ship_data_(ATC_Spear).png
+scan_sector;Alias Outpost
+<color='cyan'>OVERVIEW</color>
+Many Commanders consider Assault Ships a major threat on the battlefield, and for good reason. Their ability to deliver considerable firepower is a factor that cannot be ignored. They sacrifice all Drones support for additional Active modules for extra firepower.
+
+Timestamp: 74101.34
+<color='cyan'>DETAILS</color>
+Type: 1
+Class: Frigate
+
+<color='cyan'>SPECS</color>
+HP total: 
+5069.205
+Shield: 
+2785.455 / 3045
+Armor: 
+2283.75 / 2283.75
+Energy: 
+941.209 / 3090
+Class: 
+2396.76 / 2637.02
+<color='cyan'>DETAILS</color>
+Owner: Yilocki Kaddsaw
+Faction: Alpha
+Combat Capable: 
+True
+Mining Capable: 
+False
+Tactics: Neutral
+Task: ATTACK_NPC
+
+<color='cyan'>RESISTANCE</color>
+Impact : 0%
+Energy : 16%
+Explosive : 10%
+

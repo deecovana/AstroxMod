@@ -41,6 +41,10 @@ MERC;8;1.38;npc_ship_data_(transport_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Demands: (2) Items ;408x604,408x182;18996;150730.80
+
+SELLORDER;Market Supply: (2) Items ;76x594,52x374;114632;125976.00
+BUYORDER;Market Low Inventory: (1) Items ;406x1241;1745;84978.55
 SELLORDER;Market Inventory: (2) Items ;52x408,77x368;305314;80403.58
 SELLORDER;Market Production: (1) Items ;40x230;5280;72330.58
 BUYORDER;Market Low Inventory: (2) Items ;408x48,408x387;9100;35925.21

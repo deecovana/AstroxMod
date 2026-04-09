@@ -1,3 +1,5 @@
 NPC;+STOCK;25;8;48047.98;Acrondia Hub;Temple Gates;4h 47m 59s ;17279.98
 NPC;+STOCK;43;8;25848.96;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039.67
 NPC;-PRICE;1;0;50190.8;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+NPC;-QTY;5;-10;26324.03;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;+STOCK;51;8;24839.96;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8

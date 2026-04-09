@@ -1,0 +1,28 @@
+scan_title;Office Center 971751
+scan_image;structure_office_1.png
+scan_sector;Gendaria
+<color='cyan'>OVERVIEW</color>
+Office structures can provide a sector with an economic boost. They are places of management and organization, and usually revolve around profit. There is no area effect on this structure.
+
+Timestamp: 72967.09
+<color='cyan'>DETAILS</color>
+Level: 1
+Type: Office
+Class: Administration
+Current HP: 15000
+Max HP: 15000
+AOE Effect: none
+AOE Range: 1
+AOE Value: 0
+<color='cyan'>OWNER</color>
+Jonas Mazu
+Faction: Commerce
+Mission Obj: True
+
+<color='cyan'>LOCATION</color>
+x:-2076.626
+y:1201.912
+z:1528.249
+<color='cyan'>OPERATION: </color> True
+Charge: 0 Drain: 2.5
+Power: 757 of 1,000

@@ -15,3 +15,15 @@ NPC;+PRICE;18;0;129259.3;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;+QTY;21;7;91152.19;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
 NPC;+QTY;47;9;204397.9;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;58;-9;109639.9;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;6;53625;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+LOCAL;15;18;53625;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+LOCAL;15;9;53625;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;70;12;102212.7;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;124;14;101110.9;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;60;13;202778.3;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;28;13;56625.94;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;49;10;202425.5;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;12;53625;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;3;53625;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;BAL;63;-7;112609.7;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;47;-13;195799.9;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

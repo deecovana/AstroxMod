@@ -3,3 +3,7 @@ NPC;+STOCK;34;21;10094.01;Oro Omniplex Center;Merces Academy;7h 18m 7s ;26287.49
 NPC;+STOCK;189;17;5685.548;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;123;24;5428.559;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-QTY;5;-17;8196.9;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+STOCK;206;17;5294.421;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;23;18;7967.737;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;141;18;5027.191;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;188;-18;5547.709;Biomate University;Void Starcross;22h 13m 8s ;79988.3

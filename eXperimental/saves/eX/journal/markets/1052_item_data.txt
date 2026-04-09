@@ -8,3 +8,6 @@ NPC;+STOCK;17;10;2679.135;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
 NPC;-PRICE;25;0;2914.716;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
 NPC;+STOCK;12;8;2493.288;Tella's;Bitcola;15h 8m 58s ;54538.96
 NPC;+QTY;54;10;1647.305;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-QTY;0;-4;2536.022;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;+STOCK;63;9;1645.26;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;43;-11;1856.271;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

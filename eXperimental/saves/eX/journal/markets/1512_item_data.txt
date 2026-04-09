@@ -7,3 +7,7 @@ NPC;-PRICE;6;0;110255.8;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
 NPC;+QTY;43;6;63252.2;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;27;-9;102608.7;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-LOCAL;0;0;220000;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
+NPC;+PRICE;0;0;285042.7;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;BAL;17;-10;99969.1;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;32;-11;65344.95;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+PLAYER;+QTY;18;1;99882.75;Biomate University;Void Starcross;22h 31m 45s ;81105.88

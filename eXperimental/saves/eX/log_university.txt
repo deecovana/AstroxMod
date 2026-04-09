@@ -1,4 +1,23 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;1;Torpedo Basic Operation;3 min;5;1547.0;5467015.9798584;Biomate University;Void Starcross;22h 31m 22s 
+SKILL;2;Drone Operation;9 min;10;14250.0;5468562.97998047;Biomate University;Void Starcross;22h 30m 37s 
+SKILL;5;Ship Thruster Systems;6 min;35;5175.0;5482812.97998047;Biomate University;Void Starcross;22h 29m 55s 
+SKILL;3;Ship Shield Systems;6 min;15;2970.0;5262767.73730469;Daemon Ammunitions;Starfort Ramos;22h 25m 23s 
+SKILL;3;Ship Mass Engineering;3 min;9;3624.0;1790012.69189453;PharmaLife;Carioullis;21h 31m 20s 
+SKILL;4;Launcher Basic Operation;8 min;16;7760.0;1714789.50748229;Biomate University;Void Starcross;20h 54m 7s 
+SKILL;3;Ship Shield Regeneration;3 min;24;7875.0;1488109.47027588;Biomate University;Void Starcross;19h 35m 36s 
+SKILL;3;Launcher Basic Operation;24 min;12;5820.0;1552239.16558838;Biomate University;Void Starcross;19h 27m 15s 
+SKILL;2;Ship Shield Regeneration;8 min;16;5250.0;1558059.16558838;Biomate University;Void Starcross;19h 25m 36s 
+SKILL;1;Ship Shield Regeneration;1 min;8;2625.0;1533309.16558838;Biomate University;Void Starcross;19h 24m 31s 
+SKILL;4;Ship Cargo Stacker;2 min;20;3920.0;1535934.16558838;Biomate University;Void Starcross;19h 24m 12s 
+SKILL;1;Projectile Focal Range;2 min;9;3120.0;1474222.71246338;Transporteers Hub;Ambervellis Drea;19h 21m 24s 
+SKILL;2;Ship Mass Engineering;2 min;6;2576.0;1477342.71246338;Transporteers Hub;Ambervellis Drea;19h 21m 22s 
+SKILL;2;Launcher Basic Operation;4 min;8;3880.0;981764.421719313;Biomate University;Void Starcross;18h 8m 7s 
+SKILL;3;Ship Energy Regeneration;6 min;33;6300.0;985644.421719313;StarGypsy Warehouse;Void Starcross;18h 6m 44s 
+SKILL;2;Ship Shield Systems;4 min;10;1980.0;2733209.85743403;Daemon Ammunitions;Starfort Ramos;17h 19m 47s 
+SKILL;3;Ship Gyroscopic Control;3 min;15;2850.0;2850181.6474731;Crystalis Broadcasting;Jermicus;17h 13m 34s 
+SKILL;4;Miner Basic Operation;8 min;20;2928.0;2827169.48926997;Starbase Corporate Center;Void Starcross;17h 7m 42s 
+SKILL;3;Ship Cargo Stacker;2 min;15;750.0;2830097.48926997;Starbase Corporate Center;Void Starcross;17h 7m 36s 
 SKILL;2;Ship Cargo Stacker;1 min;10;500.0;1308213.95175898;Starbase Corporate Center;Void Starcross;16h 8m 46s 
 SKILL;4;Ship Thruster Systems;19 min;28;4140.0;881471.827247262;Biomate University;Void Starcross;15h 33m 44s 
 SKILL;1;Frigate Ship Operation;1 min;16;15750.0;885611.827247262;Biomate University;Void Starcross;15h 33m 32s 

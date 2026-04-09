@@ -11,3 +11,12 @@ NPC;+QTY;66;2;12984.98;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;2;2;15264.97;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;72;2;15705.3;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;184;-1;12493.83;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-QTY;112;-2;10961.48;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;186;2;12338.54;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;74;2;15594.24;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;347;2;7346.907;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;66;0;8003.045;Horizons;Gate of Alpharis;21h 30m 39s ;77439.77
+NPC;BAL;185;-1;13313.63;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;72;-2;14641.89;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;12;-1;13204.54;Blissheads;Estura Cove;22h 13m 8s ;79988.3
+NPC;BAL;21;-2;12814.34;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

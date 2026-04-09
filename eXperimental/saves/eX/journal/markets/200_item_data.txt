@@ -1,2 +1,4 @@
 PLAYER;+QTY;62;1;54.48094;Lacuna Bandits;Ballast Crow;2h 33m 54s ;9234.373
 NPC;+LOCAL;33;5;53.8574;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71
+NPC;-QTY;0;-30;44.54118;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;+STOCK;635;149;82.96938;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8

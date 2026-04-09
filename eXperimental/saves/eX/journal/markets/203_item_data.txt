@@ -5,3 +5,5 @@ NPC;+STOCK;162;118;83.95414;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
 NPC;-PRICE;153;0;91.85481;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;+QTY;245;92;92.11759;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+STOCK;184;138;79.67558;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;+PRICE;234;0;68.56479;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;+STOCK;579;100;60.13301;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8

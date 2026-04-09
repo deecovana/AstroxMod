@@ -18,3 +18,11 @@ NPC;+LOCAL;15;4;1950;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.
 NPC;-QTY;43;-9;6987.675;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;40;10;4829.1;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;BAL;97;-7;4670.583;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;20;1950;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+LOCAL;15;7;1950;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;54;11;6773.593;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;26;11;2059.125;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;11;1950;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;4;1950;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;+STOCK;14;13;5708.276;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;84;-13;5049.77;Biomate University;Void Starcross;22h 13m 8s ;79988.3

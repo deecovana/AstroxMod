@@ -12,3 +12,8 @@ NPC;-QTY;13;-3;38064.2;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;34;2;27340.72;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+LOCAL;5;1;12192.7;Gemini Mining;Jala;16h 2m 31s ;57751.33
 NPC;BAL;5;-2;20945.25;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-QTY;30;-2;27141.19;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;20;3;38124.8;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;34;4;42617.41;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+PLAYER;+QTY;7;2;12875.02;Gemini Mining;Jala;20h 20m 45s ;73245.48
+NPC;BAL;5;0;22674.2;Biomate University;Void Starcross;22h 13m 8s ;79988.3

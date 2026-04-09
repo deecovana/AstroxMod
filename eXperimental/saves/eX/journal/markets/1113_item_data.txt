@@ -1,3 +1,7 @@
 NPC;-QTY;23;-7;75796.03;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
 NPC;+STOCK;32;9;73655.33;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+QTY;38;6;73457.95;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+PRICE;23;0;62897.3;Dreamstar;Gendaria;17h 11m 38s ;61898.45
+NPC;+STOCK;47;9;71552.39;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;31;0;97129.87;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;+PRICE;26;0;55237.05;Spacebook;Phistatisia;21h 30m 39s ;77439.77

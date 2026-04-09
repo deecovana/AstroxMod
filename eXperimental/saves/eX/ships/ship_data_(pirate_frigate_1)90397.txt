@@ -1,0 +1,135 @@
+//; ASTROX IMPERIUM SHIP EDITOR
+//; Jace Masula 2017
+//; edited by DragonSlayer
+//; -------------------------------SHIP MAIN VARS ----------------------------------
+//; ---------------------------- Variable name, value ------------------------------
+<STATS>
+//; ----- General Info -----
+SHIP_name;PF-1 Assault Frigate
+SHIP_filename;ship_data_(pirate_frigate_1)90397
+SHIP_class;Frigate
+SHIP_type;Assault
+SHIP_skill_level;1
+SHIP_base_level;3
+SHIP_base_price;2625000
+SHIP_manufacturer;Sailcraft
+SHIP_manufacturer_icon;icon_sailcraft.png
+SHIP_faction_id;0
+//; ----- Main Stats -----
+SHIP_active_slots;6
+SHIP_passive_slots;3
+SHIP_base_drones;0
+SHIP_base_shield;2000
+SHIP_base_armor;1500
+SHIP_base_energy;2000
+SHIP_base_cargo;2263.98
+SHIP_base_lifesupport;300
+//; ----- Propulsion -----
+SHIP_base_mass;210
+SHIP_base_thrust;332.8051
+SHIP_base_turn;0.63
+SHIP_base_engine_burn;0.4
+SHIP_base_speed;0
+//; ----- Sensors -----
+SHIP_base_scan_max_targets;4
+SHIP_base_scan_speed;5
+SHIP_base_scan_pulserange;2400
+SHIP_base_scan_pulsespeed;4
+//; ----- Resistance -----
+SHIP_impact_resistance;0.10
+SHIP_energy_resistance;0.10
+SHIP_explosive_resistance;0.00
+//; ----- Regeneration -----
+SHIP_base_recharge;0.4
+SHIP_base_shield_recharge;3.00
+//; ----- Bonuses -----
+SHIP_specials_raw;Energy#0.20,Energy Recharge#0.20
+//; ----- Description -----
+SHIP_description;Many Commanders consider Assault Ships a major threat on the battlefield, and for good reason. Their ability to deliver considerable firepower is a factor that cannot be ignored. They sacrifice all Drones support for additional Active modules for extra firepower.
+//; ----- Editor -----
+SHIP_material_texture_a;default_main.png
+SHIP_material_texture_b;default_detail.png
+SHIP_material_texture_c;default_glow.png
+SHIP_material_color_a;0.50;0.50;0.50;1.00
+SHIP_material_color_b;1.00;0.20;0.20;0.50
+SHIP_engine_color;1.00;0.20;0.20;0.50
+//; ----- Misc -----
+SHIP_shield;2600
+SHIP_armor;1500
+SHIP_energy;3120
+SHIP_ls_food;607;471
+SHIP_ls_water;627;471
+SHIP_ls_thermal;644;212.1784
+SHIP_ls_waste;667;471
+SHIP_ls_points;1966.65
+SHIP_collider_x;1
+SHIP_collider_y;1
+SHIP_collider_z;1
+//; ----- Merc stuff -----
+SHIP_owner;none
+SHIP_xp;0
+SHIP_next_level_xp;882
+SHIP_level;1
+SHIP_talent;Combat
+SHIP_loyalty;10
+SHIP_payroll;113
+//; --------------------------------- SHIP PARTS -----------------------------------
+//; --------------- ITEM,type,catID,pfID,xp,yp,zp,xr,yr,zr--------------------------
+<ITEM>
+ITEM;mast_2;0; 42 ;0.00;-1.05;-3.06;0.00;0.00;0.00
+ITEM;hull_small_7; 4 ; 1 ;0.00;0.00;0.64;0.00;0.00;0.00
+ITEM;Sail_2; 4 ; 45 ;-1.15;1.27;-2.12;0.00;131.60;0.00
+ITEM;Sail_2; 4 ; 45 ;1.27;1.27;-2.12;0.00;230.94;0.00
+ITEM;bulk_7; 4 ; 66 ;0.00;0.00;-1.43;0.00;0.00;0.00
+ITEM;Hull_boat_3; 4 ; 18 ;0.00;-1.49;4.88;0.00;0.00;180.00
+ITEM;Hull_small_5; 4 ; 8 ;0.00;0.52;1.23;0.00;180.00;0.00
+ITEM;wing_12; 4 ; 77 ;1.38;-0.54;1.23;0.00;0.00;340.00
+ITEM;wing_12; 4 ;77;-1.39;-0.36;1.16;0.00;0.00;196.00
+ITEM;engine_3; 4 ;37;0.05;-0.23;-4.20;0.00;0.00;0.00
+ITEM;engine_3; 4 ; 33 ;-2.68311;-0.53000;0.58000;0.00000;0.00000;0.00000
+ITEM;engine_3; 4 ; 33 ;2.66719;-0.76000;0.48000;0.00000;0.00000;0.00000
+ITEM;command_0; 4 ; 20 ;0.00;0.27;2.18;0.00;0.00;0.00
+//; ----------------------------- SHIP CAMERA SLOTS --------------------------------
+//; -------------- PILOTCAM,name,SLOTid,model_id,xp,yp,zp,xr,yr,zr--------------------
+<PILOTCAM>
+PILOTCAM;pilot_cam; 5 ; 98 ;0.00000;-0.76084;6.36513;0.00000;0.00000;0.00000
+//; ----------------------------- SHIP MODULE SLOTS --------------------------------
+//; ----------------------- SLOT,slotID,xp,yp,zp,xr,yr,zr-------------------------------
+<MODSLOT>
+MODSLOT;module_slot;1; 99 ;0.00;-2.06;0.94;0.00;0.00;0.00;0.80;0.80;0.80
+MODSLOT;module_slot;2; 99 ;0.00;0.66;2.61;0.00;0.00;0.00;0.80;0.80;0.80
+MODSLOT;module_slot;3; 99 ;0.08;1.16;-1.46;0.00;0.00;0.00;0.80;0.80;0.80
+MODSLOT;module_slot;4; 99 ;-0.01;-2.39;-1.72;0.00;0.00;180.00;0.80;0.80;0.80
+MODSLOT;module_slot;5; 99 ;1.33;-0.85;-2.39;0.00;0.00;270.00;1.00;1.00;1.00
+MODSLOT;module_slot;6; 99 ;-1.32;-0.89;-2.44;0.00;0.00;90.00;1.00;1.00;1.00
+//; ----------------------------- SHIP MODULES --------------------------------------
+//; ----- MODULE,slot,module_id
+<MODULE>
+MODULE; 1 ; 1400;0;-10/20/-50/50/0
+MODULE; 2 ; 1400;0;-10/20/-50/50/0
+MODULE; 3 ; 1102;0;-40/80/-160/160/0
+MODULE; 4 ; 1102;0;-40/80/-160/160/0
+MODULE; 5 ; 1102;0;-40/80/-160/160/0
+MODULE; 6 ; 1102;0;-40/80/-160/160/0
+PMODULE; 1 ; 1523
+PMODULE; 2 ; 1503
+PMODULE; 3 ; 1533
+//; ----------------------------- SHIP CARGO -----------------------------------------
+//; ----- CARGO, qty, cargo_id
+<CARGO>
+CARGO; 1 ; 1300
+CARGO; 412 ; 62
+CARGO; 1 ; 1451
+CARGO; 774 ; 41
+CARGO; 4 ; 1014
+CARGO; 2 ; 1062
+CARGO; 2 ; 1060
+CARGO; 1 ; 1523
+CARGO; 4 ; 1533
+CARGO; 1 ; 1563
+CARGO; 776 ; 42
+CARGO; 4 ; 1205
+CARGO; 1 ; 647
+//; ----------------------------- SHIP DRONES -----------------------------------------
+//; ----- DRONE, id, hp, energy , is_docked, group_id
+<DRONE>

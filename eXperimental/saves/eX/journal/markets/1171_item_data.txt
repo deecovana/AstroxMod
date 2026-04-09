@@ -6,3 +6,11 @@ NPC;-LOCAL;0;0;21000;CoraVault;Lins;11h 10m 39s ;40239.91
 NPC;-LOCAL;0;0;21000;OmniTrust;Ponze;13h 18m 0s ;47880.8
 NPC;-QTY;24;-6;9026.745;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;BAL;97;-11;9547.571;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;0;0;21000;CoraVault;Lins;16h 40m 58s ;60058.63
+NPC;-LOCAL;0;0;21000;CoraVault;Lins;17h 32m 2s ;63122.3
+NPC;+STOCK;105;8;9304.383;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;63;10;6641.412;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;34;10;8821.718;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;87;8;9946.431;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;96;-9;8746.511;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;24;-7;7614.088;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

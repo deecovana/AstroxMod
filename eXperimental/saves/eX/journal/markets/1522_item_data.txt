@@ -10,3 +10,5 @@ PLAYER;+QTY;33;1;104400.5;Lammassu Financial;Void Starcross;14h 51m 35s ;53495.8
 NPC;-QTY;40;-10;76369;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;20;8;85766.5;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;-LOCAL;0;0;200000;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
+NPC;+STOCK;41;8;99722.28;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;20;-11;88267.16;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

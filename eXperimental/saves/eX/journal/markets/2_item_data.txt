@@ -28,3 +28,26 @@ NPC;-LOCAL;0;0;28.875;Gemini Mining;Jala;16h 2m 31s ;57751.33
 PLAYER;+QTY;500;500;28.875;Gemini Mining;Jala;16h 2m 42s ;57762.04
 NPC;BAL;4933;0;7.369969;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-LOCAL;477;0;28.50521;Gemini Mining;Jala;16h 15m 11s ;58511.58
+NPC;-LOCAL;323;0;12.99375;Holosynth Industries;Rats Of Mortalis;16h 44m 52s ;60292.05
+NPC;-LOCAL;0;0;28.875;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;-QTY;0;-57;14.58462;Tella's;Bitcola;18h 54m 42s ;68082.57
+NPC;-LOCAL;0;0;28.875;Transporteers Hub;Ambervellis Drea;18h 54m 44s ;68084.57
+NPC;-LOCAL;37;37;13.20556;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;-LOCAL;0;0;28.875;Transporteers Hub;Ambervellis Drea;19h 19m 43s ;69583.54
+NPC;-LOCAL;20;20;13.42768;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;9226;4293;7.062572;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4896;4692;7.544597;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;5459;4323;14.20979;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;11565;3914;13.03786;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;3858;3838;16.47045;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;9210;4197;11.01533;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;0;0;28.875;Gemini Mining;Jala;20h 20m 30s ;73230.36
+NPC;-LOCAL;0;0;28.875;Gemini Mining;Jala;20h 50m 44s ;75044.43
+NPC;-LOCAL;2250;0;12.99375;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;-LOCAL;1531;0;12.99375;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+PLAYER;+QTY;2375;2356;10.98694;Rendo Labs;Entropy;21h 35m 24s ;77724.03
+NPC;-LOCAL;0;0;28.875;Gemini Mining;Jala;21h 42m 0s ;78120.47
+NPC;BAL;6099;-3127;7.550613;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;8746;-2819;12.935;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;184;0;13.04274;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;+STOCK;3910;3910;14.30638;Tella's;Bitcola;22h 36m 19s ;81379.42

@@ -14,3 +14,15 @@ NPC;+LOCAL;15;5;4875;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.
 NPC;-PRICE;1;0;13016.27;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;-QTY;82;-9;10269.19;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;13;12;13081.22;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;+LOCAL;15;6;4875;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+LOCAL;15;17;4875;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+STOCK;94;12;9586.214;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;81;11;12360.26;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;27;12;5147.813;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;219;11;12257.94;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;62;4875;Monarch Society;Solitudes of Frey;20h 43m 22s ;74602.2
+NPC;+LOCAL;15;15;4875;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;5;4875;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;+LOCAL;15;8;4875;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;BAL;73;-8;13574.86;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;+LOCAL;15;11;4875;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

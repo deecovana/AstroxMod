@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;10
 SECTOR;name;Lux
-SECTOR;level;0.6
+SECTOR;level;0.5
 SECTOR;faction;Labor
 SECTOR;filename;sector_10.txt
 SECTOR;is_explored;False
@@ -49,8 +49,8 @@ LIGHT;light_s;0.15;0.21;0.17;0.68
 // STAR;object;1;1180.6;1.1;5139.9;1.0;10000
 
 // LIFESUPPORT;type;value
-LIFESUPPORT;food;2.70489
-LIFESUPPORT;water;3.353953
+LIFESUPPORT;food;2.25
+LIFESUPPORT;water;2.25
 LIFESUPPORT;thermal;2.178595
 LIFESUPPORT;waste;2.25
 

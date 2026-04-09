@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;32
 SECTOR;name;Geminey
-SECTOR;level;0.8
+SECTOR;level;0.7
 SECTOR;faction;Alpha
 SECTOR;filename;sector_32.txt
 SECTOR;is_explored;False

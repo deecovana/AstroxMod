@@ -8,3 +8,11 @@ NPC;+STOCK;4206;4162;71.31506;Biomate University;Void Starcross;13h 56m 14s ;501
 NPC;-QTY;0;-4160;153.2015;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;7374;4038;142.4895;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;44;0;88.8738;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;4585;4541;83.89296;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4745;4733;147.7901;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;3751;3751;147.4747;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;11601;4227;139.6745;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4531;3576;116.5825;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;163;0;118.2844;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;BAL;4585;0;95.52447;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;8862;-2739;144.6087;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

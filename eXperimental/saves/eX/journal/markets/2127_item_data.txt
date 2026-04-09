@@ -14,3 +14,11 @@ NPC;+QTY;17;1;614094.1;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;23;2;537369.5;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;BAL;83;-1;368646.7;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;+PRICE;41;0;375692;Acrondia Corp.;Crown of Imperium;16h 11m 8s ;58268.67
+NPC;-QTY;85;-1;501213.6;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;+PRICE;117;0;302757.4;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;+STOCK;85;2;345036.3;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;453;2;572363.5;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;14;2;502043.4;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;276;2;266927.2;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;83;-2;352690.9;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;451;-2;562224.5;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

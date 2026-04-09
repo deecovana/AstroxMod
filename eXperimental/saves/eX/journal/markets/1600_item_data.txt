@@ -6,3 +6,9 @@ NPC;+STOCK;69;10;15113.58;Starbase Corporate Center;Void Starcross;7h 47m 19s ;2
 NPC;+STOCK;99;9;21221.55;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;+QTY;26;10;20067.3;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;BAL;80;-10;20763.82;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-QTY;1;-6;19622.81;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;-QTY;9;-7;20402.21;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;88;8;20078.42;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;79;10;14364.52;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;5;0;10331.15;Spacebook;Phistatisia;21h 30m 39s ;77439.77
+NPC;BAL;81;-7;18868.64;Biomate University;Void Starcross;22h 13m 8s ;79988.3

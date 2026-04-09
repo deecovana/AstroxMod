@@ -5,3 +5,5 @@ NPC;+STOCK;24;11;501692.7;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+LOCAL;12;30;119600;ValueStar;Hunu;10h 24m 2s ;37442.54
 NPC;-LOCAL;44;44;414000;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
 NPC;-LOCAL;0;0;920000;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
+NPC;-LOCAL;49;49;414000;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+STOCK;60;11;510570.8;Proctors Center;Void Starcross;19h 47m 17s ;71237.8

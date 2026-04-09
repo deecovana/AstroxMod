@@ -12,3 +12,14 @@ NPC;+LOCAL;15;77;53625;Starbase Corporate Center;Void Starcross;14h 37m 22s ;526
 NPC;+PRICE;57;0;100750.2;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;+LOCAL;15;4;53625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;BAL;157;-14;163883.6;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;7;53625;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;-QTY;0;-9;156775.8;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;+LOCAL;15;15;53625;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+LOCAL;15;9;53625;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;171;14;160839.6;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;122;13;138485;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;25;10;56625.94;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;104;13;143650.6;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;14;53625;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;3;53625;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;BAL;159;-12;170243.1;Biomate University;Void Starcross;22h 13m 8s ;79988.3

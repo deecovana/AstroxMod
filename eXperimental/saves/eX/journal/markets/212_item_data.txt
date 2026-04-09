@@ -6,3 +6,5 @@ NPC;+LOCAL;150;889;58.39925;Biomart;Veloxi;9h 47m 56s ;35276.94
 NPC;+LOCAL;150;180;58.39925;Biomart;Veloxi;11h 7m 4s ;40024.25
 NPC;+STOCK;910;123;159.5181;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;BAL;698;-89;174.4427;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;813;115;169.098;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;985;104;207.6468;Proctors Center;Void Starcross;19h 47m 17s ;71237.8

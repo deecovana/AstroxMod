@@ -9,3 +9,8 @@ NPC;-LOCAL;6;6;1068154;StarShepards Headquarters;Void Starcross;14h 31m 59s ;523
 NPC;-QTY;33;-6;1181722;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;15;9;1351541;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;-PRICE;23;0;1101123;Star Shepard's Temple;Lightless;16h 31m 13s ;59473.96
+NPC;-LOCAL;58;58;1068154;StarShepards Headquarters;Void Starcross;19h 44m 44s ;71084.94
+NPC;+STOCK;76;9;1021256;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;43;10;1166720;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;67;9;1333053;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;57;-10;1256647;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

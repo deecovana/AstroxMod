@@ -3,3 +3,6 @@ NPC;+STOCK;26;8;242629.8;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28
 NPC;+LOCAL;12;37;104000;Fellacore Research Center;Grace;7h 56m 45s ;28605
 NPC;+QTY;32;6;239608;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;-LOCAL;0;0;800000;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
+NPC;-QTY;57;-8;263506;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;41;9;236000.6;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;30;-11;256273;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

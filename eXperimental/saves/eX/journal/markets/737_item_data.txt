@@ -28,3 +28,12 @@ NPC;-QTY;62;-2;615719.5;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+LOCAL;5;1;182812.5;Biomate University;Void Starcross;15h 31m 48s ;55908.38
 NPC;BAL;5;0;166565.5;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;+LOCAL;5;1;182812.5;Biomate University;Void Starcross;16h 11m 11s ;58271.77
+NPC;+LOCAL;5;1;182812.5;Biomate University;Void Starcross;18h 8m 31s ;65311.09
+NPC;+LOCAL;5;1;182812.5;Biomate University;Void Starcross;19h 29m 3s ;70143.61
+NPC;+STOCK;8;3;156752.9;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;66;4;602557.3;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;147;3;347479.8;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;165;3;585058.4;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;5;1;182812.5;Biomate University;Void Starcross;19h 49m 56s ;71396.77
+NPC;+LOCAL;5;1;182812.5;Biomate University;Void Starcross;21h 6m 1s ;75961.27
+NPC;BAL;5;0;200836.2;Biomate University;Void Starcross;22h 13m 8s ;79988.3

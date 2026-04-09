@@ -9,3 +9,6 @@ NPC;+PRICE;37;0;2899.957;Astrox Security Patrol;Kilotorish;11h 25m 38s ;41138.85
 NPC;-LOCAL;0;0;6000;OmniTrust;Ponze;13h 18m 0s ;47880.8
 NPC;-QTY;62;-11;1403.07;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;BAL;12;0;1785.496;Cosmic Jay's;Canndelis;16h 10m 6s ;58206.41
+NPC;-LOCAL;0;0;6000;CoraVault;Lins;16h 40m 58s ;60058.63
+NPC;-LOCAL;20;20;2700;CoraVault;Lins;17h 32m 2s ;63122.3
+NPC;+STOCK;70;8;1331.34;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8

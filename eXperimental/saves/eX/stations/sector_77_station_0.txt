@@ -42,6 +42,8 @@ MERC;7;1.94;npc_ship_data_(recon_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Purchase Order for: (1) Items ;405x62;67;75538.41
+
 SELLORDER;Market Items: (3) Items ;2009x384,219x622,2004x420;317602.00;85332.85
 ITEM;1;319;0.55;4.50
 ITEM;41;0;0.54;32.04

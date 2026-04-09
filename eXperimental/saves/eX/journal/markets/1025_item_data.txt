@@ -4,3 +4,6 @@ NPC;+STOCK;96;9;407428.4;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;107;11;395703.6;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;+PRICE;35;0;227559.9;Temple of the Void;Valley of Truths;14h 51m 18s ;53478.49
 NPC;BAL;86;-10;376323.8;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;71;10;367717.3;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;78;-8;370338.2;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;62;-9;351489;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

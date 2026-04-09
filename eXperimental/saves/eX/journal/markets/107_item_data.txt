@@ -22,3 +22,15 @@ NPC;-LOCAL;4;0;12.54375;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
 NPC;+QTY;830;229;6.899341;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;283;160;15.88039;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;BAL;399;-149;12.60421;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-QTY;0;-27;8.695676;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;-QTY;957;-142;10.07354;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;757;174;10.91229;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1072;242;6.719145;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;782;181;6.058402;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;0;0;27.875;Monarch Society;Solitudes of Frey;20h 43m 22s ;74602.2
+NPC;-LOCAL;18;18;12.60768;Monarch Society;Solitudes of Frey;20h 46m 52s ;74812.95
+NPC;-LOCAL;0;0;17.17492;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;-LOCAL;0;0;21.03294;Monarch Society;Solitudes of Frey;22h 5m 5s ;79505.99
+NPC;BAL;919;-153;7.094419;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;132;-172;14.17817;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;-LOCAL;0;0;27.12645;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

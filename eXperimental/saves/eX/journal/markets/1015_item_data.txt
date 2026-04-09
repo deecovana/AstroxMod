@@ -8,3 +8,11 @@ NPC;+STOCK;16;8;40580.2;Starbase Corporate Center;Void Starcross;7h 47m 19s ;280
 NPC;+PRICE;3;0;29469.85;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;-LOCAL;60;60;33075;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
 NPC;-LOCAL;0;0;60862.36;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
+NPC;-LOCAL;2;2;33075;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;-LOCAL;0;0;73500;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;-LOCAL;59;59;33075;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;70;11;41426.48;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;1;0;33075;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;-LOCAL;62;62;33608.84;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;+PRICE;14;0;38020.87;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;+PRICE;67;0;32279.65;Oak Industries;Dorando Corridor;23h 1m 14s ;82874.7

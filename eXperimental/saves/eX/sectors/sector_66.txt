@@ -66,25 +66,25 @@ STATION;sector_66_station_0.txt;1966;135;-4172;prescan
 STATION;sector_66_station_1.txt;-2081;215;4312;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_energy_gen_1.txt;97.00;80.36;3027.00
-STRUCTURE;structure_habitat_1.txt;86.00;51.05;3349.00
-STRUCTURE;structure_energy_gen_1.txt;1946.00;-188.66;-1766.15
-STRUCTURE;structure_recon_1.txt;175.00;318.00;2689.00
-STRUCTURE;structure_medical_1.txt;2032.00;172.00;1320.00
-STRUCTURE;structure_gun_platform_1.txt;2021.00;571.00;778.00
-STRUCTURE;structure_energy_gen_1.txt;2614.00;456.15;727.00
-STRUCTURE;structure_office_1.txt;2063.00;229.00;160.00
-STRUCTURE;structure_storage_1.txt;2035.00;210.00;768.00
-STRUCTURE;structure_farm_1.txt;-646.00;136.00;3044.00
-STRUCTURE;structure_recon_1.txt;1470.00;-105.00;-1764.00
 STRUCTURE;structure_habitat_1.txt;638.00;99.00;3058.00
+STRUCTURE;structure_recon_1.txt;1470.00;-105.00;-1764.00
+STRUCTURE;structure_farm_1.txt;-646.00;136.00;3044.00
+STRUCTURE;structure_storage_1.txt;2035.00;210.00;768.00
+STRUCTURE;structure_office_1.txt;2063.00;229.00;160.00
+STRUCTURE;structure_energy_gen_1.txt;2614.00;456.15;727.00
+STRUCTURE;structure_gun_platform_1.txt;2021.00;571.00;778.00
+STRUCTURE;structure_medical_1.txt;2032.00;172.00;1320.00
+STRUCTURE;structure_recon_1.txt;175.00;318.00;2689.00
+STRUCTURE;structure_energy_gen_1.txt;1946.00;-188.66;-1766.15
+STRUCTURE;structure_habitat_1.txt;86.00;51.05;3349.00
+STRUCTURE;structure_energy_gen_1.txt;97.00;80.36;3027.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;3;50;100;250;3000;-711;0;0
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;4;-1798.0;29.0;-370.0;500;500
-RESOURCE;4;-1589.7;-607.3;-479.8;1200;1200
+RESOURCE;4;-1799.7;207.4;-499.4;500;500
+RESOURCE;4;-1599.2;-572.5;-528.9;1200;1200
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
 WARPGATE;1;sector_65.txt;2;-756;16;3982;0;Trade;-3517.525;prescan

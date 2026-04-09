@@ -20,3 +20,19 @@ NPC;+PRICE;481;0;6.012643;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;-QTY;849;-144;5.217464;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;-LOCAL;255;0;5.04;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
 NPC;+QTY;531;202;3.085712;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-QTY;78;-182;3.6295;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;+LOCAL;172;133;2.177259;Crystalis Broadcasting;Jermicus;19h 4m 13s ;68653.3
+NPC;+LOCAL;176;4;2.149842;Crystalis Broadcasting;Jermicus;19h 7m 21s ;68841.83
+NPC;+STOCK;342;229;4.351196;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1024;175;5.118005;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;774;243;2.979581;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;959;201;3.037082;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;866;205;5.607062;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;0;0;11.2;Monarch Society;Solitudes of Frey;20h 43m 22s ;74602.2
+NPC;-LOCAL;0;0;11.2;Monarch Society;Solitudes of Frey;20h 46m 52s ;74812.95
+NPC;-LOCAL;0;0;11.2;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;+LOCAL;250;1626;1.456;PharmaLife;Carioullis;21h 30m 42s ;77442.81
+NPC;-LOCAL;0;0;11.2;Monarch Society;Solitudes of Frey;22h 5m 5s ;79505.99
+NPC;BAL;538;-236;3.349219;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;218;-236;5.02361;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;-LOCAL;0;0;11.2;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

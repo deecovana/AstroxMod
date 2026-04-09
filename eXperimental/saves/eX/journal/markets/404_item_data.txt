@@ -30,3 +30,17 @@ NPC;+QTY;729;709;0.753335;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;+QTY;705;693;1.102289;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;969;969;3.559566;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;789;785;1.12134;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;-LOCAL;46;46;1.2375;StarGypsy Warehouse;Void Starcross;18h 4m 10s ;65050.88
+NPC;+PRICE;2;0;1.045222;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;-LOCAL;0;0;2.041013;StarGypsy Warehouse;Void Starcross;18h 25m 48s ;66348.2
+NPC;-LOCAL;0;0;2.231258;StarGypsy Warehouse;Void Starcross;18h 30m 49s ;66649.07
+NPC;-LOCAL;47;47;1.249501;StarShepards Headquarters;Void Starcross;19h 44m 44s ;71084.94
+NPC;+STOCK;942;875;1.249884;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;977;915;1.312927;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;927;927;2.74765;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;889;842;1.568603;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;838;768;0.873859;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;51;51;1.254068;StarGypsy Warehouse;Void Starcross;19h 47m 29s ;71249.35
+NPC;-LOCAL;0;0;2.75;PharmaLife;Carioullis;21h 30m 42s ;77442.81
+NPC;BAL;942;0;1.16563;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;889;0;1.452037;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

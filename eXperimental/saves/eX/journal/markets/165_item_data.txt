@@ -5,3 +5,10 @@ NPC;-PRICE;24;0;66.58038;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;-QTY;389;-144;55.52116;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;BAL;415;-123;61.28773;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-PRICE;172;0;58.4427;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+NPC;+STOCK;118;102;48.36831;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;-QTY;0;-65;40.40231;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+PLAYER;+QTY;0;6;0;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;560;145;59.0253;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;359;127;51.88131;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;499;110;52.98155;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;187;103;53.88969;Rendo Labs;Entropy;21h 34m 29s ;77669.09

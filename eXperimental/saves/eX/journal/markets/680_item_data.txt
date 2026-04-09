@@ -8,3 +8,10 @@ NPC;+STOCK;50;21;12852.3;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;+STOCK;44;24;26011.16;Tella's;Bitcola;15h 8m 58s ;54538.96
 NPC;+QTY;79;12;32366.93;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;12;-17;15190.85;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+PRICE;5;0;19865.42;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;-QTY;7;-13;26533.91;Tella's;Bitcola;18h 54m 42s ;68082.57
+NPC;+STOCK;33;21;14242;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;98;23;28771.53;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;98;19;31763.31;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;19;-14;15757.07;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;76;-22;29487.2;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

@@ -29,3 +29,23 @@ NPC;+LOCAL;25;157;4875;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
 NPC;+LOCAL;25;2;4875;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
 NPC;-PRICE;0;0;48193.75;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;+QTY;38;13;5081.625;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+LOCAL;25;41;4875;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;-LOCAL;0;0;21273.33;Crystalis Broadcasting;Jermicus;17h 15m 50s ;62150.7
+NPC;-LOCAL;0;0;37500;Daemon Ammunitions;Starfort Ramos;17h 18m 13s ;62293.6
+NPC;+PRICE;51;0;9607.511;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;+LOCAL;25;26;4875;Lammassu Financial;Void Starcross;18h 11m 12s ;65472.14
+NPC;-LOCAL;17;17;16875;Crystalis Broadcasting;Jermicus;18h 28m 24s ;66504.64
+NPC;+LOCAL;25;35;4875;Xellon;Ele;18h 34m 55s ;66895.14
+NPC;+LOCAL;25;4;4875;Xellon;Ele;18h 46m 13s ;67573.88
+NPC;+STOCK;44;19;4429.969;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;-QTY;8;-24;17998.22;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;-LOCAL;0;0;22012.62;Crystalis Broadcasting;Jermicus;19h 4m 13s ;68653.3
+NPC;-LOCAL;0;0;22087.29;Crystalis Broadcasting;Jermicus;19h 7m 21s ;68841.83
+NPC;+LOCAL;25;70;4875;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;-QTY;110;-21;14451.84;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+LOCAL;25;67;4875;StarShepards Headquarters;Void Starcross;19h 44m 44s ;71084.94
+NPC;+STOCK;46;21;4401.844;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;44;19;5133.984;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;158;19;12127;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;0;0;30313.36;Crystalis Broadcasting;Jermicus;20h 3m 35s ;72215.7
+NPC;BAL;24;-20;6393.252;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

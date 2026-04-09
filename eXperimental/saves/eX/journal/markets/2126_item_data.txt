@@ -11,3 +11,10 @@ NPC;+QTY;332;2;107634.9;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55
 NPC;+QTY;75;2;162068.9;Scrapdogs;Gemini Els;15h 54m 31s ;57271.5
 NPC;BAL;374;-2;132266;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;+STOCK;115;2;120944.4;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;-QTY;73;-2;103741.5;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;+STOCK;376;2;128686.4;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;291;2;108861.3;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;222;2;135864.6;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;312;2;130537.2;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;61;2;148905.6;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;374;-2;133311.3;Biomate University;Void Starcross;22h 13m 8s ;79988.3

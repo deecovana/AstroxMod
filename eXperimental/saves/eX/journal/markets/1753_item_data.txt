@@ -11,3 +11,13 @@ NPC;-LOCAL;6;6;360000;CoraVault Hub;Pindoris;11h 34m 18s ;41658.76
 NPC;-LOCAL;2;0;360000;CoraVault Hub;Pindoris;11h 36m 50s ;41810.71
 NPC;+LOCAL;12;42;104000;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
 NPC;-QTY;2;-10;110276;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+LOCAL;12;13;104000;StarGypsy Warehouse;Void Starcross;18h 4m 10s ;65050.88
+NPC;+LOCAL;12;4;104000;StarGypsy Warehouse;Void Starcross;18h 25m 48s ;66348.2
+NPC;+LOCAL;12;2;104000;StarGypsy Warehouse;Void Starcross;18h 30m 49s ;66649.07
+NPC;-QTY;0;0;503952.5;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;-LOCAL;8;8;360000;CoraVault Hub;Pindoris;18h 52m 59s ;67979.63
+NPC;+STOCK;21;9;109751;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;99;8;217336.6;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;12;8;104000;StarGypsy Warehouse;Void Starcross;19h 47m 29s ;71249.35
+NPC;-LOCAL;0;0;800000;PharmaLife;Carioullis;21h 30m 42s ;77442.81
+NPC;BAL;7;-7;257556.9;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

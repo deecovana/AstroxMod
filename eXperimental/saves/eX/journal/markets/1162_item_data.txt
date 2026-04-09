@@ -8,3 +8,7 @@ NPC;-PRICE;0;0;85177.23;CoraVault;Lins;14h 47m 2s ;53222.26
 NPC;-QTY;47;-8;33542.3;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;11;11;85055.89;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;+STOCK;19;8;83585.97;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;-LOCAL;0;0;67375;CoraVault;Lins;16h 40m 58s ;60058.63
+NPC;-LOCAL;0;0;67375;CoraVault;Lins;17h 32m 2s ;63122.3
+NPC;+STOCK;19;10;31833.32;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;12;-7;30708.92;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

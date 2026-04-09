@@ -42,6 +42,8 @@ MERC;3;0.50;npc_ship_data_(excavation_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Demands: (1) Items ;60x981;131701;114074.00
+
 BUYORDER;Market Items Req: (2) Items ;41x501,61x389;164094;90689.18
 BUYORDER;Market Shortage: (2) Items ;61x368,62x68;153100.00;94544.54
 SELLORDER;Market Stock: (1) Items ;406x54;59.00;57765.64
@@ -315,12 +317,12 @@ ITEM;408;60;0.62;8.19
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
-SKILL;53;1.67
-SKILL;12;0.51
-SKILL;23;0.88
-SKILL;227;1.76
-SKILL;225;1.15
-SKILL;24;1.16
+SKILL;53;1.64
+SKILL;12;0.48
+SKILL;23;0.85
+SKILL;227;1.69
+SKILL;225;1.11
+SKILL;24;1.13
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
@@ -343,6 +345,8 @@ MISSION;83;60;527460;RECOVER#38#2045#sector_14.txt#sector_61_station_0.txt#null#
 MISSION;92;90;478081;KILL_PILOT#sector_2_station_0.txt#sector_79.txt#Enforcer Xaser Akhin#npc_ship_data_(battle_utility_1)#7#null#null#null;Execute <color='yellow'><i>Enforcer Xaser Akhin</i></color> in <color='cyan'>Dragon Sea</color> and return to Oro Omniplex Center in <color='cyan'>Merces Academy</color>;3;A low level criminal has finally hit the radar of the Astrox Security Patrol. A new kill contract has been issued for <color='yellow'><i>Enforcer Xaser Akhin</i></color> located in <color='cyan'>Dragon Sea</color>. <color='yellow'><i>Enforcer Xaser Akhin</i></color> has been know to pull some sneaky tricks during combat, so be careful when engaging him. After his ship has been destroyed, head to Oro Omniplex Center station in the <color='cyan'>Merces Academy</color> system.;44277;16079
 MISSION;52;30;293241;SCAN_STRUCTURE#sector_40_station_0.txt#sector_14.txt#Industrial Machine#structure_machine_1.txt#1#null#null#null;Track and scan the target <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Gate of Alpharis</color> and return to Legistron in <color='cyan'>Dogstar Prime</color>;5;The Commerce faction has commissioned scientific survey of a strange vibration taking place at <color='yellow'>Industrial Machine</color> in the <color='cyan'>Gate of Alpharis</color> sector. Head over to <color='cyan'>Gate of Alpharis</color> and scan the <color='yellow'>Industrial Machine</color> structure. Once complete, return to the Legistron station located in the <color='cyan'>Dogstar Prime</color> with the scan data.;33731;9188
 MISSION;124;45;102887;CHAT_PILOT#sector_1_station_0.txt#sector_14.txt#Sir Nostracae Foewhatim#npc_ship_data_(Advanced_heavy_battlecuriser_10)#21#missions_arrest_escort.txt#0#null;Arrest <color='yellow'><i>Sir Nostracae Foewhatim</i></color> over an outstanding warrant in <color='cyan'>Gate of Alpharis</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>;3;<i>Bavi Amsev</i> of the Trade faction has sent out a warrent for the arrest of <color='yellow'><i>Sir Nostracae Foewhatim</i></color>. Last known sighting of <color='yellow'><i>Sir Nostracae Foewhatim</i></color> was in the area of <color='cyan'>Gate of Alpharis</color>. Bring them back alive to the Quantex in the <color='cyan'>Dellis Primeria</color> system to complete this contract.;84674;28137
+MISSION;96;90;243157;KILL_PILOT#sector_100_station_0.txt#sector_79.txt#Overseer Yitaj Rofast#npc_ship_data_(support_shuttle_1)#34#null#null#null;Exterminate Skilled <color='yellow'><i>Overseer Yitaj Rofast</i></color> in <color='cyan'>Dragon Sea</color> and return to Fellacore Research Center in <color='cyan'>Grace</color>;5;<i>Goan Qecooco</i> was the last unfortunate victim of the well know hijacker, <color='yellow'><i>Overseer Yitaj Rofast</i></color>. She has been hanging around in the <color='cyan'>Dragon Sea</color> sector and has finally caught the attention of the local Commerce magistrate. Dispatch <color='yellow'><i>Overseer Yitaj Rofast</i></color> and meet <i>Goan Qecooco</i> back at the Fellacore Research Center station in <color='cyan'>Grace</color>.;430845;150796
+MISSION;47;45;212708;SCAN_PILOT#sector_14_station_1.txt#sector_24.txt#Miner Lesmad Bruni#npc_ship_data_(VVS_Dweller)#24#null#null#null;Gather info about a pilot named <color='yellow'><i>Miner Lesmad Bruni</i></color> in <color='cyan'>Soldeux</color> and return to Horizons in <color='cyan'>Gate of Alpharis</color>;3;Authorities in <color='cyan'>Soldeux</color> have reason to believe <i>Sedwo Vesbue</i> has stolen a ship from <color='yellow'><i>Miner Lesmad Bruni</i></color>, and is using his ID. Before further action from the Trade's can be applied, They have requested a scan of <color='yellow'><i>Miner Lesmad Bruni</i></color>'s ship to be delivered to the head investigation office at Horizons in <color='cyan'>Gate of Alpharis</color>.;552915;226193
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>

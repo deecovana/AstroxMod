@@ -7,3 +7,6 @@ NPC;+STOCK;79;10;612070;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;+LOCAL;12;52;409670.6;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
 NPC;+LOCAL;12;19;409670.6;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
 NPC;BAL;61;-8;708037.8;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;12;37;409670.6;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+STOCK;69;8;646040.6;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;22;10;426254.4;Proctors Center;Void Starcross;19h 47m 17s ;71237.8

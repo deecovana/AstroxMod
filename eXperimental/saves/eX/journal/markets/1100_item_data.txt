@@ -4,3 +4,9 @@ PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;12h 58m 13s ;46693.84
 NPC;-PRICE;10;0;2374.806;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;-QTY;0;-1;1910.262;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
 NPC;-PRICE;11;0;2105.414;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;+QTY;19;11;1356.25;Desban;Ellisar;17h 18m 3s ;62283.1
+NPC;-QTY;2;-7;1200.313;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;-QTY;2;-6;1356.313;Desban;Ellisar;18h 54m 42s ;68082.57
+NPC;+STOCK;16;8;1174.353;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;7;0;2194.515;Blissheads;Estura Cove;22h 13m 8s ;79988.3
+NPC;BAL;24;-9;2486.802;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

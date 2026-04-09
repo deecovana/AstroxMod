@@ -5,3 +5,7 @@ NPC;+STOCK;602;104;204.7001;StarGypsy Warehouse;Void Starcross;7h 47m 19s ;28039
 NPC;+LOCAL;150;962;70.6615;Biomart;Veloxi;9h 47m 47s ;35267.4
 NPC;+STOCK;761;142;158.0437;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;-PRICE;150;0;65.88641;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;+STOCK;753;134;157.5884;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;833;148;220.5707;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;748;146;194.2177;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;41;0;176.5279;Transporteers;Hunu;21h 30m 39s ;77439.77

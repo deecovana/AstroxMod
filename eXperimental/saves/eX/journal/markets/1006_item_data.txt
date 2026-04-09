@@ -10,3 +10,12 @@ NPC;+STOCK;64;11;1784232;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28
 NPC;-LOCAL;10;10;1418091;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
 NPC;-LOCAL;0;0;2609474;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;+QTY;71;9;1637138;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-LOCAL;34;34;1442302;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;-LOCAL;0;0;3151313;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;-LOCAL;76;76;1418091;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;62;10;946201.2;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;79;8;1603118;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;85;9;1749497;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;45;45;1418091;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;-LOCAL;0;0;2410432;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;BAL;69;-10;1580550;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

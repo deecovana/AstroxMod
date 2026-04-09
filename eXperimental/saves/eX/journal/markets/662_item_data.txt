@@ -14,3 +14,13 @@ NPC;+PRICE;2;0;27569.8;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;-QTY;15;-3;13604.82;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;22;4;16052.24;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+STOCK;16;3;24510.77;CoraVault;Lins;16h 37m 57s ;59877.96
+PLAYER;+QTY;32;1;25806.06;Lammassu Financial;Void Starcross;17h 6m 3s ;61563.79
+PLAYER;+QTY;0;1;0;Crystalis Broadcasting;Jermicus;18h 29m 30s ;66570.82
+NPC;-QTY;26;-4;12722.52;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;13;3;21752.13;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;35;3;24752.84;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;19;4;12825.95;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;26;4;15903.21;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;39;4;26969.2;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;11;-2;23881.07;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;22;-4;18052.08;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

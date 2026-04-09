@@ -32,3 +32,18 @@ NPC;+QTY;1708;712;1064.584;StarShepards Headquarters;Void Starcross;15h 31m 43s 
 NPC;-LOCAL;0;0;3808.75;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
 NPC;BAL;767;0;835.1246;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-LOCAL;0;0;3808.75;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5
+NPC;-LOCAL;0;0;1713.937;Holosynth Industries;Rats Of Mortalis;16h 44m 52s ;60292.05
+NPC;-QTY;0;0;4937.544;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;-LOCAL;37;37;1734.682;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+STOCK;1741;974;780.1953;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1007;953;1319.051;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1041;769;1351.599;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;2503;795;1021.677;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1977;958;999.3065;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;951;914;2140.191;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;646;616;1034.353;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;+PRICE;16;0;2138.635;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;BAL;1144;-597;790.621;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;+STOCK;793;793;4845.373;Tella's;Bitcola;22h 36m 19s ;81379.42
+NPC;-LOCAL;0;0;3808.75;Tella's;Bitcola;22h 36m 41s ;81401.38
+NPC;+LOCAL;1000;936;589.9499;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

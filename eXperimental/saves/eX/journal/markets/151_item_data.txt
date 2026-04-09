@@ -9,3 +9,12 @@ NPC;+QTY;727;112;10.51218;StarShepards Headquarters;Void Starcross;15h 31m 43s ;
 NPC;+QTY;221;147;13.73169;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
 NPC;BAL;603;-123;11.60983;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-PRICE;7;0;13.82955;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;-QTY;0;-5;14.67412;Tella's;Bitcola;18h 3m 42s ;65022.39
+PLAYER;+QTY;0;9;0;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;748;145;11.47153;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;440;131;9.65326;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;131;0;7.034505;Horizons;Gate of Alpharis;21h 30m 39s ;77439.77
+NPC;BAL;631;-117;12.09518;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;635;-92;11.27966;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;90;-82;11.01558;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;+STOCK;125;125;14.33305;Tella's;Bitcola;22h 36m 19s ;81379.42

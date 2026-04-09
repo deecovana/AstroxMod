@@ -14,3 +14,11 @@ NPC;-LOCAL;0;0;260000;Tella's;Bitcola;15h 9m 48s ;54588.81
 NPC;+QTY;91;11;98672.6;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;-LOCAL;2;2;117000;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
 NPC;-LOCAL;0;0;163234;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5
+NPC;-QTY;20;-6;61376.25;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;+LOCAL;12;1;90602.16;Crystalis Broadcasting;Jermicus;19h 7m 21s ;68841.83
+NPC;+STOCK;89;11;49945.27;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;100;9;95744.3;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;78;-11;60055.25;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;94;-6;102178.5;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;+STOCK;10;10;332327.7;Tella's;Bitcola;22h 36m 19s ;81379.42
+NPC;-LOCAL;23;23;117328.8;Tella's;Bitcola;22h 36m 41s ;81401.38

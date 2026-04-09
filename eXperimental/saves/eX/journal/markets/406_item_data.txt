@@ -51,3 +51,18 @@ NPC;-LOCAL;72;72;1.2375;Biomate University;Void Starcross;15h 31m 48s ;55908.38
 NPC;+QTY;586;581;1.47334;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;-LOCAL;0;0;2.708919;Biomate University;Void Starcross;16h 11m 11s ;58271.77
 NPC;+STOCK;928;923;1.163251;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;+LOCAL;1000;1779;0.3575;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;-LOCAL;0;0;2.75;Biomate University;Void Starcross;18h 8m 31s ;65311.09
+NPC;-LOCAL;46;46;1.241255;Biomate University;Void Starcross;19h 29m 3s ;70143.61
+NPC;-QTY;0;-30;0.7518018;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;1070;932;1.337747;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1418;737;1.312269;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1658;706;1.27679;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1827;903;1.077992;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;0;0;1.663865;Biomate University;Void Starcross;19h 49m 56s ;71396.77
+NPC;-LOCAL;0;0;2.017114;Biomate University;Void Starcross;21h 6m 1s ;75961.27
+NPC;+PRICE;8;0;1.515677;Horizons;Gate of Alpharis;21h 30m 39s ;77439.77
+NPC;BAL;921;921;2.322217;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;621;-797;1.267519;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;-LOCAL;190;0;1.2375;Biomate University;Void Starcross;22h 27m 29s ;80849.23
+NPC;+STOCK;931;926;1.058088;Tella's;Bitcola;22h 36m 19s ;81379.42

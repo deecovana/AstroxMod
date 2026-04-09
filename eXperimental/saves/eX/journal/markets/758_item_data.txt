@@ -13,3 +13,11 @@ NPC;+PRICE;49;0;114556.4;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;-QTY;113;-7;102461.3;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;118;12;71877.5;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;29;12;56485;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
+NPC;+LOCAL;15;7;32500;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+LOCAL;15;17;32500;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+LOCAL;15;6;32500;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;125;12;97847.67;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;130;12;69101.57;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;105;10;105009.3;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;7;41876.18;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;BAL;116;-14;77384.34;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

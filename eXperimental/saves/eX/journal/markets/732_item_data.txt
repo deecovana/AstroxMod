@@ -15,3 +15,13 @@ NPC;-PRICE;56;0;16871.26;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;-QTY;72;-14;10569.19;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+LOCAL;15;1;8611.06;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
 NPC;BAL;194;-13;13150.93;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;4;4875;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+LOCAL;15;19;4875;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+STOCK;204;10;12675.94;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;82;10;10347.19;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;26;11;5147.813;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;62;12;12338.18;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;9;4875;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+STOCK;43;14;10661.96;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;196;-8;14099.82;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;+LOCAL;15;8;4875;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

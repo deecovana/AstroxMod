@@ -5,3 +5,7 @@ NPC;+PRICE;10;0;28375.7;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;-QTY;53;-11;19876.83;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;27;7;22738.35;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;-PRICE;16;0;24423.58;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;+STOCK;12;8;40206.18;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;+STOCK;64;11;19233.41;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;37;10;21740.36;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;30;-7;23740.03;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

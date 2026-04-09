@@ -12,3 +12,13 @@ NPC;+LOCAL;15;96;81250;Starbase Corporate Center;Void Starcross;14h 37m 22s ;526
 NPC;-PRICE;54;0;259676.2;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;+QTY;65;11;260520.3;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;69;10;267193.8;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+LOCAL;15;4;81250;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;-QTY;12;-8;195039.1;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;+LOCAL;15;6;81250;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;30;10;263175;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;80;11;263417.7;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;28;13;85796.88;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;78;12;192282.2;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;6;162077.4;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;+STOCK;51;13;181816.6;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;73;-7;284508.8;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

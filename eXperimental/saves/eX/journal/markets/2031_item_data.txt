@@ -3,3 +3,7 @@ NPC;+STOCK;833;120;1081.048;Starbase Corporate Center;Void Starcross;7h 47m 19s 
 NPC;+STOCK;714;142;1012.267;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;567;137;1846.056;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;BAL;552;-111;1400.132;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-QTY;0;-42;1268.187;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;654;102;1352.568;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;973;140;1014.664;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;574;-80;1416.063;Biomate University;Void Starcross;22h 13m 8s ;79988.3

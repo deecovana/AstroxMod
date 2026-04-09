@@ -6,3 +6,11 @@ NPC;-PRICE;29;0;6261.408;CoraVault;Lins;14h 47m 2s ;53222.26
 NPC;+STOCK;14;9;9496.543;Tella's;Bitcola;15h 8m 58s ;54538.96
 NPC;-QTY;44;-10;4501.516;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+STOCK;38;9;6107.776;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;-QTY;0;-5;9646.078;Tella's;Bitcola;18h 3m 42s ;65022.39
+PLAYER;-QTY;0;1;9704.768;Crystalis Broadcasting;Jermicus;18h 29m 22s ;66562.69
+PLAYER;+QTY;1;1;9781.768;Crystalis Broadcasting;Jermicus;18h 29m 33s ;66573.85
+PLAYER;-QTY;42;2;4487.079;StarGypsy Warehouse;Void Starcross;18h 30m 55s ;66655.2
+NPC;-QTY;0;0;9646.078;Tella's;Bitcola;18h 54m 42s ;68082.57
+NPC;+STOCK;20;8;4976.149;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+PLAYER;+QTY;14;2;5091.625;Rendo Labs;Entropy;21h 34m 45s ;77685.39
+NPC;+PRICE;38;0;9925.256;Oak Industries;Dorando Corridor;23h 1m 14s ;82874.7

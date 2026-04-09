@@ -14,3 +14,14 @@ NPC;+LOCAL;15;99;4875;Starbase Corporate Center;Void Starcross;14h 37m 22s ;5264
 NPC;-QTY;73;-14;9969.188;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;44;9;18431.63;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;102;-10;11470.04;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;6;4875;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+STOCK;112;10;10877.78;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;35;12;16816.35;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;83;10;9371.813;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;60;4875;Monarch Society;Solitudes of Frey;20h 43m 22s ;74602.2
+NPC;+LOCAL;15;1;4875;Monarch Society;Solitudes of Frey;20h 46m 52s ;74812.95
+NPC;+LOCAL;15;13;4875;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;7;4875;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;BAL;102;-10;11599.96;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;36;-8;17911.12;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;+LOCAL;15;9;4875;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

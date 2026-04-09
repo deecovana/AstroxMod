@@ -17,3 +17,14 @@ NPC;+QTY;10;2;6295.8;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;BAL;44;-3;6220.483;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-PRICE;4;0;7055.054;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
 NPC;-PRICE;6;0;4103.539;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;-QTY;0;-4;7089.163;Tella's;Bitcola;18h 54m 42s ;68082.57
+NPC;+STOCK;47;3;5944.169;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;22;3;8697.996;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;34;3;8802.813;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;42;4;7096.945;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;12;0;6609.382;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;+PRICE;6;0;4252.657;Biomart;Veloxi;21h 30m 39s ;77439.77
+NPC;+STOCK;7;3;4416.204;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;32;-2;8742.719;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;2;0;6695.673;Blissheads;Estura Cove;22h 13m 8s ;79988.3
+NPC;BAL;9;-4;4568.337;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

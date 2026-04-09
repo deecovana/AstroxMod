@@ -11,3 +11,13 @@ NPC;+LOCAL;15;69;14625;Starbase Corporate Center;Void Starcross;14h 37m 22s ;526
 NPC;+LOCAL;15;3;14625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;+LOCAL;10;1;29868.97;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
 NPC;BAL;56;-13;37147.27;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;5;14625;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;-QTY;42;-9;33294.66;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;+LOCAL;15;22;14625;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+LOCAL;15;8;14625;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;66;10;36519.26;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;95;13;47540.38;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;27;12;15443.44;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;11;14625;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;4;14625;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;+LOCAL;15;11;14625;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

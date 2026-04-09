@@ -10,3 +10,7 @@ NPC;-LOCAL;44;44;225000;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
 NPC;-LOCAL;3;3;225000;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
 PLAYER;-QTY;9;1;226487.5;Monarch Society;Solitudes of Frey;15h 19m 54s ;55194.97
 NPC;BAL;13;-11;199667.3;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;39;39;225000;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+STOCK;21;8;193824.3;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;47;8;281729.2;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;11;-10;208761.5;Biomate University;Void Starcross;22h 13m 8s ;79988.3

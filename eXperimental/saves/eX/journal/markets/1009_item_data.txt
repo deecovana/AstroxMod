@@ -15,3 +15,12 @@ NPC;-LOCAL;0;0;17725.25;Starbase Corporate Center;Void Starcross;15h 5m 23s ;543
 NPC;+STOCK;21;9;4815.672;Tella's;Bitcola;15h 8m 58s ;54538.96
 NPC;-PRICE;11;0;8621.303;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;BAL;28;-11;5399.536;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;49;49;9450;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+STOCK;19;8;4527.786;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;-LOCAL;24;24;9692.048;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;-LOCAL;0;0;21000;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;38;10;5165.515;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;29;11;5187.228;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;19;19;9450;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;-LOCAL;0;0;16062.86;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;BAL;32;-6;5792.553;Biomate University;Void Starcross;22h 13m 8s ;79988.3

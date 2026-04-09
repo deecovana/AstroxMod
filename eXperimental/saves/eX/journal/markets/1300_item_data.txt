@@ -17,3 +17,7 @@ NPC;+QTY;27;11;11827.9;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;+QTY;32;11;9502.85;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;18;6;12918.33;Scrapdogs;Gemini Els;15h 54m 31s ;57271.5
 NPC;+STOCK;35;8;11619.44;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;+STOCK;41;9;8980.363;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;0;0;44517.27;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;+PRICE;0;0;44517.27;Biomart;Veloxi;21h 30m 39s ;77439.77
+NPC;+STOCK;17;11;11287.97;Rendo Labs;Entropy;21h 34m 29s ;77669.09

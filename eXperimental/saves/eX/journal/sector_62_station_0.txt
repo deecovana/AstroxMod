@@ -3,7 +3,7 @@ Market Center
 Bosadjan Wagen
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 34753.5
+Timestamp: 83403.96
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -46,13 +46,20 @@ Mission Contracts
 
 
 <Station Market Orders>
+[c:green]BUY Order[/c] Market Demands: (1) Items 
+ (981) x Basic Missile 
+Fulfill order for [c:lime]26,895 profit.[/c]
+[c:green]BUY Order[/c] Market Items Req: (2) Items 
+ (501) x Advanced 20mm
+ (389) x Advanced Missile
+Fulfill order for [c:lime]47,184 profit.[/c]
 [c:green]BUY Order[/c] Market Shortage: (2) Items 
  (368) x Advanced Missile
  (68) x Prototype Missile 
-Fulfill order for [c:lime]37,944 profit.[/c]
+Fulfill order for [c:lime]27,679 profit.[/c]
 [c:red]SELL Order[/c] Market Stock: (1) Items 
  (54) x Candy Cane
-Buy items for [c:lime]31 discount.[/c]
+Buy items for [c:lime]33 discount.[/c]
 
 
 <Station Market Items>
@@ -383,6 +390,12 @@ Track and scan the target <color='yellow'>Industrial Machine</color> structure i
 
 [c:lime]DIALOG[/c]
 Arrest <color='yellow'><i>Sir Nostracae Foewhatim</i></color> over an outstanding warrant in <color='cyan'>Gate of Alpharis</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]KILL[/c]
+Exterminate Skilled <color='yellow'><i>Overseer Yitaj Rofast</i></color> in <color='cyan'>Dragon Sea</color> and return to Fellacore Research Center in <color='cyan'>Grace</color>
+
+[c:lime]SCAN[/c]
+Gather info about a pilot named <color='yellow'><i>Miner Lesmad Bruni</i></color> in <color='cyan'>Soldeux</color> and return to Horizons in <color='cyan'>Gate of Alpharis</color>
 
 
 

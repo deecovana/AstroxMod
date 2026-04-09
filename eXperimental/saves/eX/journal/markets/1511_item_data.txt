@@ -3,3 +3,6 @@ NPC;+STOCK;59;9;31072.73;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;1;0;38164.46;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;-LOCAL;0;0;110000;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
 NPC;-PRICE;15;0;38726.84;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;+STOCK;58;9;51525.86;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;70;11;29652.7;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;30;0;29800.38;Spacebook;Phistatisia;21h 30m 39s ;77439.77

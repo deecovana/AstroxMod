@@ -13,3 +13,14 @@ NPC;+QTY;692;682;718.4405;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.2
 NPC;+QTY;920;920;655.5776;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;799;0;709.36;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-PRICE;1;0;845.087;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;-LOCAL;0;0;1886.5;Transporteers Hub;Ambervellis Drea;18h 54m 44s ;68084.57
+NPC;-LOCAL;0;0;1886.5;Transporteers Hub;Ambervellis Drea;19h 19m 43s ;69583.54
+NPC;-QTY;0;-14;455.3681;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;1571;772;678.3145;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;714;682;578.5586;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1778;858;644.4173;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1706;942;599.0576;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;772;755;475.5213;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;864;862;579.7172;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;859;-712;707.6326;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;791;-987;709.6356;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

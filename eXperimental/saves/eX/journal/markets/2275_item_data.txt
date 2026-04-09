@@ -1,3 +1,5 @@
 NPC;+STOCK;42;2;1619387;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;42;2;1250310;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;-PRICE;24;0;1701713;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
+NPC;+STOCK;44;2;1560725;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;44;2;1207828;Proctors Center;Void Starcross;19h 47m 17s ;71237.8

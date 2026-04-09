@@ -1,15 +1,15 @@
 // PLAYER;Variable;Value
 <PLAYER>
 PLAYER;name;eX
-PLAYER;level;12
-PLAYER;xp;77071.00
-PLAYER;next_level_xp;77100.00
-PLAYER;last_level_xp;65100.00
+PLAYER;level;15
+PLAYER;xp;119596.00
+PLAYER;next_level_xp;119100.00
+PLAYER;last_level_xp;104100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;2741300.84
+PLAYER;credits;9868080.49
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;57
-PLAYER;playtime;59877.96
+PLAYER;skill_points;29
+PLAYER;playtime;83404.98
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;3
@@ -19,22 +19,22 @@ PLAYER;face_bg;bgimg_13.png
 PLAYER;profession_id;52
 PLAYER;passive_scanner_settings;True,True,True,True,True,True,True,True,True
 PLAYER;autopilot_settings;True,False,True,True,False
-PLAYER;orbit_data;True,500,0,6,True
+PLAYER;orbit_data;True,750,0,6,True
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
-PLAYER;cargo_settings;ALL,Class,Descend,0
+PLAYER;cargo_settings;ALL,Class,Ascend,2
 PLAYER;targeting_settings;Distance,Ascend
-PLAYER;station_market_settings;Active Module#Extraction Beam,Price,Ascend,100
+PLAYER;station_market_settings;Support#Thermal,Price,Descend,100
 PLAYER;station_university_settings;TRAINABLE,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
-PLAYER;sector;sector_58.txt
-PLAYER;sector_id;58
-PLAYER;station;sector_58_station_0.txt
+PLAYER;sector;sector_62.txt
+PLAYER;sector_id;62
+PLAYER;station;sector_62_station_0.txt
 PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(pirate_escort_2)18371.txt;True;False;sector_0_station_2.txt;sector_0.txt;-512.14;-739.07;-2790.40
+SHIP;ship_data_(pirate_frigate_1)90397.txt;True;False;sector_58_station_0.txt;sector_58.txt;-284.62;454.20;1751.31
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
@@ -45,30 +45,33 @@ SKILL;214;3;0;0
 SKILL;55;5;0;0
 SKILL;56;5;0;0
 SKILL;57;5;0;0
-SKILL;52;4;0;560
-SKILL;51;2;0;240
+SKILL;52;5;0;350
+SKILL;51;3;0;180
 SKILL;64;3;0;165
-SKILL;65;2;0;240
-SKILL;41;3;0;360
+SKILL;65;3;0;360
+SKILL;41;4;0;480
 SKILL;11;4;0;480
 SKILL;100;2;0;170
-SKILL;31;1;0;120
+SKILL;31;4;0;480
 SKILL;21;1;0;120
 SKILL;1;4;0;480
 SKILL;215;3;0;90
-SKILL;240;1;0;130
+SKILL;240;2;0;260
 SKILL;71;1;0;90
 SKILL;53;1;0;90
 SKILL;111;1;0;45
 SKILL;130;1;0;50
 SKILL;81;1;0;60
-SKILL;60;1;0;120
+SKILL;60;3;0;360
 SKILL;59;2;0;120
 SKILL;227;1;0;90
-SKILL;54;1;0;60
-SKILL;58;2;0;60
+SKILL;54;3;0;180
+SKILL;58;4;0;120
 SKILL;210;1;0;60
 SKILL;216;1;0;60
+SKILL;3;1;0;90
+SKILL;61;3;0;180
+SKILL;91;1;0;135
 
 
 
@@ -78,78 +81,77 @@ MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful 
 MEDAL;8;True;medal_17.png;First Mission Completed;Awarded for the successful completion of your very first Mission. 
 MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your first raider in combat. 
 MEDAL;35;True;medal_5a.png;Exploration Assistant;Awarded for the successful exploration of 25 uncharted Sectors.
+MEDAL;40;True;medal_6a.png;Academic Scholar;Awarded for training 50 levels of various skills.
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
-MISSION;120;42;433300;CHAT_PILOT#sector_17_station_0.txt#sector_58.txt#Private Naliavi Paemole#npc_ship_data_(transport_shuttle_1)#19#missions_debt_collection.txt#0#null;Collect a small debt from <color='yellow'><i>Private Naliavi Paemole</i></color> in <color='cyan'>Lins</color> and return to Holosynth Industries in <color='cyan'>Rats Of Mortalis</color>;12;0;True;12121.48;0;<i>Serimes Coofiewo</i> has requested that debt be collected from <color='yellow'><i>Private Naliavi Paemole</i></color>. After 3 payments to the Labor faction for transport fines, <color='yellow'><i>Private Naliavi Paemole</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Private Naliavi Paemole</i></color> was in the vicinity of the <color='cyan'>Lins</color> system. Have a chat with them, collect the debt, and return to the Holosynth Industries in the <color='cyan'>Rats Of Mortalis</color> system to deliver the payment.
-MISSION;62;42;172761;HARVEST#124#7#sector_66.txt#sector_0_station_1.txt#null#null#null#null;Excavate special <color='yellow'>Special Dynex Ore</color> in <color='cyan'>Ele</color> and return with <color='yellow'>124</color> to Lammassu Financial in <color='cyan'>Void Starcross</color>;12;0;False;52108.05;17515;<i>Ferdee Jelyo</i> has discovered a light deposit of <color='yellow'>Special Dynex Ore</color> in <color='cyan'>Ele</color>. He is currently unable to mine the <color='yellow'>Special Dynex Ore</color>, and has requested a pilot to head over and harvest the <color='yellow'>124</color> <color='yellow'>Special Dynex Ore</color>. Once complete, head over and meet <i>Ferdee Jelyo</i> at the Lammassu Financial station located in the <color='cyan'>Void Starcross</color>.
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
 STAT;0;;0;
-STAT;1;Projectile Weapons Fired;511;Weapons
-STAT;2;Laser Weapons Fired;449;Weapons
+STAT;1;Projectile Weapons Fired;916;Weapons
+STAT;2;Laser Weapons Fired;695;Weapons
 STAT;3;Beam Weapons Fired;39;Weapons
-STAT;4;Launcher Weapons Fired;18;Weapons
+STAT;4;Launcher Weapons Fired;222;Weapons
 STAT;5;Torpedo Weapons Fired;0;Weapons
-STAT;6;Salvage Beams Fired;0;Excavation
+STAT;6;Salvage Beams Fired;40;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;539;Excavation
-STAT;11;Adamyte Ore Mined;3473;Excavation
-STAT;12;Gradeon Ore Mined;2290;Excavation
-STAT;13;Quazor Ore Mined;828;Excavation
-STAT;14;Lokken Ore Mined;0;Excavation
+STAT;10;Mining lasers Fired;907;Excavation
+STAT;11;Adamyte Ore Mined;6234;Excavation
+STAT;12;Gradeon Ore Mined;4646;Excavation
+STAT;13;Quazor Ore Mined;2217;Excavation
+STAT;14;Lokken Ore Mined;1215;Excavation
 STAT;15;Torim Ore Mined;609;Excavation
 STAT;16;Plasite Ore Mined;0;Excavation
-STAT;17;Dynex Ore Mined;0;Excavation
+STAT;17;Dynex Ore Mined;701;Excavation
 STAT;18;Belasite Ore Mined;48;Excavation
 STAT;19;Xenox Ore Mined;0;Excavation
 STAT;20;Zai Ore Mined;0;Excavation
 STAT;21;Electron Orbs Mined;0;Excavation
-STAT;22;Junk Collected;0;Excavation
+STAT;22;Junk Collected;390;Excavation
 STAT;23;Scraps Collected;0;Excavation
 STAT;24;Salvage Collected;0;Excavation
 STAT;25;Derelicts Collected;0;Excavation
-STAT;26;Missions Complete;35;Missions
+STAT;26;Missions Complete;51;Missions
 STAT;27;Missions Expired;5;Missions
 STAT;28;Missions Aborted;3;Missions
 STAT;29;Transport Missions Complete;1;Missions
-STAT;30;Collection Missions Complete;1;Missions
-STAT;31;Delivery Missions Complete;4;Missions
-STAT;32;Recon Missions Complete;2;Missions
-STAT;33;Harvest Missions Complete;3;Missions
-STAT;34;Escort Missions Complete;2;Missions
-STAT;35;Recover Missions Complete;4;Missions
-STAT;36;Kill Missions Complete;16;Missions
+STAT;30;Collection Missions Complete;2;Missions
+STAT;31;Delivery Missions Complete;6;Missions
+STAT;32;Recon Missions Complete;3;Missions
+STAT;33;Harvest Missions Complete;5;Missions
+STAT;34;Escort Missions Complete;5;Missions
+STAT;35;Recover Missions Complete;5;Missions
+STAT;36;Kill Missions Complete;20;Missions
 STAT;37;Kill Recover Missions Complete;2;Missions
-STAT;38;Sectors Explored;28;Navigation
-STAT;39;Warp gate Jumps;213;Navigation
+STAT;38;Sectors Explored;33;Navigation
+STAT;39;Warp gate Jumps;387;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
-STAT;42;Dialog Missions Complete;1;Missions
-STAT;43;Salvage Missions Complete;0;Missions
-STAT;44;Refinery Missions Complete;3;Missions
-STAT;45;Fabricator Missions Complete;5;Missions
+STAT;42;Dialog Missions Complete;2;Missions
+STAT;43;Salvage Missions Complete;1;Missions
+STAT;44;Refinery Missions Complete;4;Missions
+STAT;45;Fabricator Missions Complete;6;Missions
 STAT;46;;0;
 STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
-STAT;50;Skill Levels Trained;41;Skills
-STAT;51;Skill Points Earned;393;Skills
-STAT;52;Skill Points Spent;459;Skills
+STAT;50;Skill Levels Trained;60;Skills
+STAT;51;Skill Points Earned;600;Skills
+STAT;52;Skill Points Spent;745;Skills
 STAT;53;;0;
 STAT;54;;0;
 STAT;55;;0;
 STAT;56;;0;
 STAT;57;;0;
 STAT;58;Structures Destroyed;0;Combat
-STAT;59;Npcs Destroyed;2;Combat
-STAT;60;Raiders Destroyed;4;Combat
-STAT;61;Projectile Damage Taken;1088;Combat
-STAT;62;Laser Damage Taken;9522;Combat
-STAT;63;Beam Damage Taken;5721;Combat
+STAT;59;Npcs Destroyed;4;Combat
+STAT;60;Raiders Destroyed;6;Combat
+STAT;61;Projectile Damage Taken;1248;Combat
+STAT;62;Laser Damage Taken;13491;Combat
+STAT;63;Beam Damage Taken;10536;Combat
 STAT;64;Missile Damage Taken;2900;Combat
 STAT;65;Torpedo Damage Taken;1440;Combat
 

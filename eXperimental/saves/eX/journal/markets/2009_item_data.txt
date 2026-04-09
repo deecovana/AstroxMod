@@ -5,3 +5,6 @@ NPC;+STOCK;145;145;676.2144;StarShepards Headquarters;Void Starcross;7h 47m 19s 
 NPC;+LOCAL;150;707;193.9795;Lacuna Bandits;Ballast Crow;10h 29m 1s ;37741.75
 NPC;+LOCAL;150;913;193.9795;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
 NPC;BAL;105;0;611.8192;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;254;109;665.4475;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;676;0;656.9296;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;BAL;170;-84;633.8354;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

@@ -2,3 +2,4 @@ NPC;+LOCAL;12;87;35100;Transporteers Hub;Ambervellis Drea;11h 21m 7s ;40867.41
 NPC;+LOCAL;12;1;35100;Transporteers Hub;Ambervellis Drea;11h 25m 46s ;41146.25
 NPC;-QTY;6;-6;32954.18;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
 NPC;+QTY;12;6;32923.8;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
+NPC;+PRICE;5;0;133595;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34

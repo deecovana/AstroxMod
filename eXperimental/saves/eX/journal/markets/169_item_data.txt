@@ -5,3 +5,9 @@ NPC;+STOCK;789;116;57.27694;Biomate University;Void Starcross;13h 56m 14s ;50174
 NPC;+QTY;258;85;51.27589;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;+QTY;583;107;77.01994;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;534;-139;60.66218;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+PRICE;80;0;73.39355;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+PLAYER;+QTY;0;7;0;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;649;115;57.97742;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;699;116;74.7942;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;175;0;52.10047;Biomart;Veloxi;21h 30m 39s ;77439.77
+NPC;+STOCK;266;136;64.77668;Rendo Labs;Entropy;21h 34m 29s ;77669.09

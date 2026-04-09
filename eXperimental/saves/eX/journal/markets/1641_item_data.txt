@@ -14,3 +14,12 @@ NPC;-PRICE;9;0;29768.97;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;-QTY;36;-8;72788.29;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;18;9;29604.06;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;21;11;39438.75;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-LOCAL;36;36;56250;StarGypsy Warehouse;Void Starcross;18h 4m 10s ;65050.88
+NPC;-LOCAL;0;0;92773.3;StarGypsy Warehouse;Void Starcross;18h 25m 48s ;66348.2
+NPC;-LOCAL;33;33;56250;StarGypsy Warehouse;Void Starcross;18h 30m 49s ;66649.07
+NPC;+STOCK;59;9;58268.09;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;41;8;69551.21;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;31;10;37153.6;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;43;43;56603.35;StarGypsy Warehouse;Void Starcross;19h 47m 29s ;71249.35
+NPC;+STOCK;20;8;52868.08;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;22;-9;40104.03;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

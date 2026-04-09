@@ -3,7 +3,7 @@ Base
 Mastei Gorebira
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 57429.89
+Timestamp: 79992.37
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -35,114 +35,112 @@ Storage
 
 
 <Station Market Orders>
-[c:red]SELL Order[/c] Market Supply: (2) Items 
- (338) x Advanced 60mm
- (860) x Prototype Missile 
-Buy items for [c:lime]397,717 discount.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
-Adamyte Ore  90 - z8
-Advanced 20mm  8 - z57
-Advanced 60mm  47 - z61
-Advanced Afterburner (Doc)  7 - z609,456
-Advanced Energy Generator (Doc)  4 - z1,552,119
-Advanced Missile  21 - z312
-Advanced Railgun (Doc)  22 - z429,530
-Advanced Rocket Launcher (Doc)  39 - z460,842
-Advanced Torpedo   51 - z374
-Anti-Freeze  3 - z40
-Assorted Gaskets  58 - z16
-Basic 20mm  37 - z18
-Basic 60mm  38 - z30
-Basic Afterburner  7 - z22,897
-Basic Armor Exterior  5 - z27,146
-Basic Charged Cell  43 - z131
-Basic Drone Command Bay  2 - z42,194
-Basic Energy Armor  3 - z14,121
-Basic Energy Generator  3 - z21,416
-Basic Engine Core  8 - z12,647
-Basic Filter  3 - z6,264
-Basic Impact Armor  4 - z30,121
-Basic Missile   15 - z105
-Basic Missile Explosive Mod (Doc)  6 - z202,455
-Basic Projectile Energy Mod (Doc)  6 - z268,455
-Basic Scan Booster  3 - z14,722
-Basic Shield Generator  6 - z20,651
-Basic Targeting System  5 - z12,832
-Basic Torpedo   42 - z160
-Basic Torpedo (Doc)  1 - z9,223
-Basic Turn Thrust  7 - z12,697
-Basic Turn Thrust (Doc)  9 - z152,364
-Beam Defense System (Doc)  6 - z887,760
-Candy Cane  9 - z1
-Candy Corn  7 - z1
-Carbon  9 - z2
-Carbon Fiber  47 - z18
-Chocolate Bars  5 - z1
-Cleaning Chemicals  8 - z127
-Cloak Energy Core (Doc)  6 - z6,391,485
-Colored Dye  9 - z23
-Copperi Plates (Doc)  3 - z3,722
-Disposables  3 - z8,084
-Fasteners  60 - z12
-Generic Construction Platform  15 - z6,636,375
-Generic Heavy Cannon  6 - z2,827
-Generic Ion Beam  2 - z2,316
-Generic Light Turret  1 - z1,850
-Generic Missile Launcher  2 - z2,519
-Generic Ore Harvester  4 - z4,339
-Generic Ore Harvester (Doc)  2 - z17,497
-Generic Plasma Cannon  9 - z1,463
-Generic Pulse Laser  2 - z2,030
-Generic Railgun  7 - z2,340
-Generic Rocket Launcher  9 - z1,650
-Generic Rocket Launcher (Doc)  27 - z12,449
-Generic Salvage Collector  4 - z3,499
-Gummy Bears  8 - z1
-Heavy Shield Bomb  14 - z60,333
-Hydraulic Assembly (Doc)  9 - z25,830
-Improved Impact Armor (Doc)  5 - z716,910
-Improved Scan Booster (Doc)  2 - z558,532
-Improved Targeting System (Doc)  4 - z397,739
-Junk Part  59 - z21
-Large Combat Drone  7 - z100,485
-Large Defense Drone  4 - z124,485
-Large Life Support Pack  15 - z33,968
-Large Motor (Doc)  6 - z26,759
-Large Web Field  2 - z59,389
-Light Shield Recharger  4 - z18,871
-Liquid Coolant  32 - z24
-Lubricant  68 - z20
-Medium Mining Drone  14 - z10,423
-Metal Brackets  8 - z20
-Micro Leech Drone  10 - z13,273
-Nuts And Bolts  12 - z10
-Ornament  6 - z4
-Oxygen  35 - z1
-Premium Missile Launcher (Doc)  11 - z1,229,515
-Premium Salvage Collector (Doc)  7 - z2,355,531
-Protein Bar  3 - z3,954
-Prototype 20mm  49 - z79
-Prototype 60mm  21 - z143
-Prototype Heavy Cannon (Doc)  34 - z6,614,264
-Prototype Missile   25 - z470
-Prototype Rocket Launcher (Doc)  16 - z6,065,490
-Prototype Torpedo   38 - z773
-Radar System (Doc)  8 - z44,863
-Recon Scanner Drone  14 - z18,973
-Reinforced Rubber  62 - z13
-Small Life Support Pack  19 - z3,774
-Small LS Bomb  13 - z4,654
-Small Mining Drone  8 - z7,109
-Small Web Field  8 - z8,439
-Steelium Beam  34 - z13
-Steelium Pipes  16 - z17
-Thermal Controller  1 - z5,494
-Voltage Regulator (Doc)  5 - z35,113
-Water  35 - z2
 Wrapped Box  9 - z9
+Water  35 - z2
+Voltage Regulator (Doc)  5 - z34,671
+Thermal Controller  1 - z5,427
+Steelium Pipes  16 - z17
+Steelium Beam  34 - z12
+Small Web Field  8 - z8,363
+Small Mining Drone  8 - z7,052
+Small LS Bomb  13 - z4,587
+Small Life Support Pack  19 - z3,727
+Reinforced Rubber  62 - z13
+Recon Scanner Drone  14 - z18,830
+Radar System (Doc)  8 - z44,345
+Prototype Torpedo   38 - z764
+Prototype Rocket Launcher (Doc)  16 - z6,015,495
+Prototype Missile   2100 - z174
+Prototype Heavy Cannon (Doc)  34 - z6,559,270
+Prototype 60mm  2500 - z56
+Prototype 20mm  2500 - z34
+Protein Bar  3 - z3,887
+Premium Salvage Collector (Doc)  7 - z2,326,963
+Premium Missile Launcher (Doc)  11 - z1,213,803
+Oxygen  35 - z1
+Ornament  6 - z4
+Nuts And Bolts  12 - z10
+Micro Leech Drone  10 - z13,130
+Metal Brackets  8 - z20
+Medium Mining Drone  14 - z10,280
+Lubricant  68 - z19
+Liquid Coolant  32 - z24
+Light Shield Recharger  4 - z18,633
+Large Web Field  2 - z58,704
+Large Motor (Doc)  6 - z26,370
+Large Life Support Pack  15 - z33,540
+Large Defense Drone  4 - z123,533
+Large Combat Drone  7 - z99,533
+Junk Part  59 - z20
+Improved Targeting System (Doc)  4 - z393,855
+Improved Scan Booster (Doc)  2 - z554,191
+Improved Impact Armor (Doc)  5 - z711,199
+Hydraulic Assembly (Doc)  9 - z25,508
+Heavy Shield Bomb  14 - z59,562
+Gummy Bears  8 - z1
+Generic Salvage Collector  4 - z3,461
+Generic Rocket Launcher (Doc)  27 - z12,353
+Generic Rocket Launcher  9 - z1,631
+Generic Railgun  7 - z2,317
+Generic Pulse Laser  2 - z2,011
+Generic Plasma Cannon  9 - z1,442
+Generic Ore Harvester (Doc)  2 - z17,307
+Generic Ore Harvester  4 - z4,301
+Generic Missile Launcher  2 - z2,498
+Generic Light Turret  1 - z1,831
+Generic Ion Beam  2 - z2,293
+Generic Heavy Cannon  6 - z2,806
+Generic Construction Platform  15 - z6,564,984
+Fasteners  60 - z12
+Disposables  3 - z8,017
+Copperi Plates (Doc)  3 - z3,690
+Colored Dye  9 - z23
+Cloak Field Generator  17 - z1,711,455
+Cloak Energy Core (Doc)  6 - z6,330,940
+Cloak Booster  12 - z753,116
+Cleaning Chemicals  8 - z126
+Chocolate Bars  5 - z1
+Carbon Fiber  47 - z18
+Carbon  9 - z2
+Candy Corn  7 - z1
+Candy Cane  9 - z1
+Beam Defense System (Doc)  6 - z872,530
+Basic Turn Thrust (Doc)  9 - z150,080
+Basic Turn Thrust  7 - z12,507
+Basic Torpedo (Doc)  1 - z9,080
+Basic Torpedo   42 - z159
+Basic Targeting System  5 - z12,671
+Basic Shield Generator  6 - z20,394
+Basic Scan Booster  3 - z14,541
+Basic Projectile Energy Mod (Doc)  6 - z265,599
+Basic Missile Explosive Mod (Doc)  6 - z199,599
+Basic Missile   15 - z104
+Basic Impact Armor  4 - z29,883
+Basic Filter  3 - z6,197
+Basic Engine Core  8 - z12,437
+Basic Energy Generator  3 - z21,149
+Basic Energy Armor  3 - z13,883
+Basic Drone Command Bay  2 - z41,813
+Basic Charged Cell  43 - z129
+Basic Armor Exterior  5 - z26,860
+Basic Afterburner  7 - z22,707
+Basic 60mm  2500 - z11
+Basic 20mm  37 - z17
+Assorted Gaskets  58 - z16
+Anti-Freeze  3 - z40
+Advanced Torpedo   2500 - z125
+Advanced Rocket Launcher (Doc)  39 - z456,761
+Advanced Railgun (Doc)  22 - z424,633
+Advanced Missile  1929 - z77
+Advanced Energy Generator (Doc)  4 - z1,539,325
+Advanced Afterburner (Doc)  7 - z600,318
+Advanced 60mm  2500 - z25
+Advanced 20mm  2247 - z15
+Adamyte Ore  90 - z8
 
 
 <Station University Skills>

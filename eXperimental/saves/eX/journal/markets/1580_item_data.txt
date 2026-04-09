@@ -15,3 +15,8 @@ NPC;-LOCAL;6;6;31500;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
 NPC;+QTY;16;8;21823.2;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;-PRICE;13;0;32549.5;Biomart;Veloxi;16h 31m 13s ;59473.96
 NPC;-LOCAL;0;0;43947.62;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5
+NPC;+LOCAL;12;1;25548.27;Crystalis Broadcasting;Jermicus;17h 15m 50s ;62150.7
+NPC;+STOCK;65;8;23963.6;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;13;0;33590.66;Biomart;Veloxi;21h 30m 39s ;77439.77
+NPC;+STOCK;24;9;16243.09;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;-LOCAL;6;6;31850.17;Tella's;Bitcola;22h 36m 41s ;81401.38

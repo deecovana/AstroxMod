@@ -14,3 +14,13 @@ NPC;-QTY;0;-3853;36.08703;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.9
 NPC;+QTY;9564;4969;37.55345;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;2539;-3211;49.13582;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;+STOCK;4784;4691;74.17226;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;-LOCAL;0;0;132.8753;Daemon Ammunitions;Starfort Ramos;17h 18m 13s ;62293.6
+NPC;+PRICE;11;0;61.94156;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;+STOCK;6319;3780;48.26567;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4133;3577;63.85064;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4067;4067;35.04611;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;8636;4357;51.5669;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;536;0;35.68695;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;-LOCAL;0;0;151.725;Rendo Labs;Entropy;21h 34m 32s ;77672.16
+NPC;BAL;2789;-3530;54.32079;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;137;0;55.63228;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

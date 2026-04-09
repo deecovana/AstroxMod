@@ -10,3 +10,13 @@ NPC;+LOCAL;15;78;1950;Starbase Corporate Center;Void Starcross;14h 37m 22s ;5264
 NPC;+LOCAL;15;5;1950;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;-QTY;38;-13;7707.675;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;BAL;126;-7;4618.687;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;7;1950;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+LOCAL;15;5;1950;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;140;14;4354.153;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;50;12;7462.597;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;29;14;2059.125;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;43;14;7075.484;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;11;1950;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;3;1950;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;BAL;126;-14;4705.621;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;7;0;7620.803;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

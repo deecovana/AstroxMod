@@ -5,3 +5,7 @@ NPC;+LOCAL;12;51;70200;Transporteers Hub;Ambervellis Drea;11h 21m 7s ;40867.41
 PLAYER;-QTY;79;1;182992.5;Proctors Center;Void Starcross;14h 45m 42s ;53142.53
 NPC;+QTY;80;10;222215.4;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;18;6;65847.6;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
+NPC;+STOCK;91;11;219256.1;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;21;9;209416.3;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;90;11;176585.6;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;84;-7;227595.6;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

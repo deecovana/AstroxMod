@@ -13,3 +13,11 @@ NPC;+LOCAL;15;51;53625;Starbase Corporate Center;Void Starcross;14h 37m 22s ;526
 NPC;+LOCAL;15;4;53625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;+QTY;15;8;135702.2;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
 NPC;BAL;138;-8;169718.1;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;5;53625;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+LOCAL;15;17;53625;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+LOCAL;15;8;53625;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;151;13;163870.2;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;27;12;56625.94;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;12;53625;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;BAL;138;-13;169753.7;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;+LOCAL;15;9;85867.77;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

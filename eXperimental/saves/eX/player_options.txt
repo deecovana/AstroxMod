@@ -19,7 +19,7 @@ OPTIONS_ui_color_2;0.1912575,0.1912575,0.1912571,0.94
 OPTIONS_ui_color_3;0.2238802,0.2147547,0.2,0.99
 OPTIONS_ui_color_4;1,1,1,1
 OPTIONS_ui_color_sensors;0.1,0.61,0.9,0.5
-OPTIONS_open_panels;False
+OPTIONS_open_panels;True
 OPTIONS_open_panels_state;True,True,True,True,True,True,True
 OPTIONS_galaxy_box;0,0,0
 OPTIONS_tactical_box;0,0,0
@@ -36,7 +36,7 @@ OPTIONS_mission_accept_popup;False
 OPTIONS_repair_complete_popup;False
 OPTIONS_refinery_move_popup;True
 OPTIONS_instant_skill_training;False
-OPTIONS_autopilot_select;False
+OPTIONS_autopilot_select;True
 OPTIONS_engine_trail_time;2.5
 OPTIONS_run_in_background;False
 OPTIONS_tactical_override;False
@@ -49,7 +49,7 @@ OPTIONS_camera_rotation_drift;5
 OPTIONS_notify_box_size;1
 
 //AUDIO OPTIONS
-OPTION_music_vol;0.4841095
+OPTION_music_vol;0.4936738
 OPTION_soundfx_vol;0.7753381
 OPTION_ui_vol;1
 OPTION_sound_chat_vol;0.4722036
@@ -112,7 +112,7 @@ WORLD_OPTIONS_afterburner_drain_rate;20
 WORLD_OPTIONS_show_unexplored_sectors;False
 WORLD_OPTIONS_max_officer_table;0
 WORLD_OPTIONS_galaxy_map_max_distance;20000
-WORLD_OPTIONS_galaxy_map_auto;True
+WORLD_OPTIONS_galaxy_map_auto;False
 WORLD_OPTIONS_target_framerate;60
 WORLD_OPTIONS_follow_cam;False
 WORLD_OPTIONS_wormhole_chance;0.5
@@ -133,7 +133,7 @@ KEY_OPTIONS_left;A
 KEY_OPTIONS_right;D
 KEY_OPTIONS_reverse;S
 KEY_OPTIONS_lshift;Space
-KEY_OPTIONS_action;LeftBracket
+KEY_OPTIONS_action;RightBracket
 KEY_OPTIONS_clear_all_targets;H
 KEY_OPTIONS_autopilot_toggle;E
 KEY_OPTIONS_autotarget_toggle;Y
@@ -166,13 +166,13 @@ KEY_OPTIONS_camera_ui;Backspace
 KEY_OPTIONS_allmodules_on;KeypadMinus
 KEY_OPTIONS_allmodules_off;KeypadMinus
 KEY_OPTIONS_friendly_fire;F
-KEY_OPTIONS_allmodules_target;BackQuote
+KEY_OPTIONS_allmodules_target;F4
 KEY_OPTIONS_drones_launch;B
 KEY_OPTIONS_drones_dock;V
 KEY_OPTIONS_lcontrol;LeftControl
 KEY_OPTIONS_lalt;LeftAlt
-KEY_OPTIONS_lbracket;KeypadDivide
-KEY_OPTIONS_rbracket;KeypadMultiply
+KEY_OPTIONS_lbracket;F1
+KEY_OPTIONS_rbracket;F2
 KEY_OPTIONS_toggle_panels;KeypadPlus
 KEY_OPTIONS_sort_targets;Period
 KEY_OPTIONS_drone_group_1;F5

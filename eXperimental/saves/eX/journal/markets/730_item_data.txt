@@ -15,3 +15,12 @@ NPC;+LOCAL;15;61;14625;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
 NPC;+LOCAL;15;71;14625;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
 NPC;+LOCAL;15;5;14625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;-QTY;17;-9;34857.56;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+LOCAL;15;4;14625;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+LOCAL;15;21;14625;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+STOCK;79;14;32439.35;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;28;11;32647.46;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;71;11;39704.2;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;29;14;15443.44;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;14;14625;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;3;14625;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;BAL;60;-11;42542.7;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

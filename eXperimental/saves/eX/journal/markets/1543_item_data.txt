@@ -6,3 +6,6 @@ NPC;+STOCK;89;9;103678.9;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28
 NPC;-LOCAL;11;11;207000;Proctors Center;Void Starcross;14h 45m 0s ;53100.76
 NPC;-LOCAL;0;0;460000;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
 NPC;+QTY;97;8;102814.6;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-LOCAL;80;80;207000;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+STOCK;108;11;96947.27;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;91;11;257575.5;Proctors Center;Void Starcross;19h 47m 17s ;71237.8

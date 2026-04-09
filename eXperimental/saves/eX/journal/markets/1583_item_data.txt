@@ -10,3 +10,9 @@ NPC;-LOCAL;12;12;252000;Tella's;Bitcola;15h 9m 48s ;54588.81
 NPC;-QTY;51;-8;180233.2;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;-LOCAL;0;0;560000;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
 NPC;-LOCAL;6;6;255840.9;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5
+NPC;-QTY;1;-11;319966.5;Tella's;Bitcola;18h 54m 42s ;68082.57
+NPC;+LOCAL;12;6;155990.3;Crystalis Broadcasting;Jermicus;19h 4m 13s ;68653.3
+NPC;+LOCAL;12;1;154707.4;Crystalis Broadcasting;Jermicus;19h 7m 21s ;68841.83
+NPC;+STOCK;59;8;177621.5;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;25;-7;257753.2;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;-LOCAL;22;22;252000;Tella's;Bitcola;22h 36m 41s ;81401.38

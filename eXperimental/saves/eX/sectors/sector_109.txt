@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;109
 SECTOR;name;Capital Void
-SECTOR;level;3.9
+SECTOR;level;3.8
 SECTOR;faction;Temple
 SECTOR;filename;sector_109.txt
 SECTOR;is_explored;False
@@ -49,7 +49,7 @@ STAR;object;1;0;0;50000;10.0;5000
 
 // LIFESUPPORT;type;value
 LIFESUPPORT;food;3.25
-LIFESUPPORT;water;2.118146
+LIFESUPPORT;water;2.029602
 LIFESUPPORT;thermal;3.45
 LIFESUPPORT;waste;1.15
 

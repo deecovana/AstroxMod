@@ -1,2 +1,5 @@
 NPC;+STOCK;97;9;1168392;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+QTY;105;8;1164699;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+QTY;45;11;1311078;Desban;Ellisar;17h 18m 3s ;62283.1
+NPC;+STOCK;116;11;1134313;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;108;-8;1178420;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

@@ -15,3 +15,9 @@ NPC;+QTY;15;10;2507.64;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
 NPC;+QTY;15;6;1822.56;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;+QTY;12;7;3150.57;Scrapdogs;Gemini Els;15h 54m 31s ;57271.5
 NPC;+PRICE;4;0;3172.321;Acrondia Corp.;Crown of Imperium;16h 11m 8s ;58268.67
+NPC;-LOCAL;0;0;6000;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;-LOCAL;56;56;2739.594;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;-LOCAL;75;75;2700;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;84;9;3366.224;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;47;47;2700;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;-LOCAL;0;0;4589.387;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03

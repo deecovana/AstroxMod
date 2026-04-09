@@ -11,3 +11,9 @@ NPC;+LOCAL;15;53;4875;Starbase Corporate Center;Void Starcross;14h 37m 22s ;5264
 NPC;-PRICE;6;0;12638.4;CoraVault;Lins;14h 47m 2s ;53222.26
 NPC;+LOCAL;15;4;4875;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;-QTY;114;-11;9369.188;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+LOCAL;15;6;4875;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+STOCK;139;11;14079.7;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;128;14;8845.4;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;29;14;5147.813;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;2;11466.11;Monarch Society;Solitudes of Frey;20h 46m 52s ;74812.95
+NPC;+LOCAL;15;4;4875;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03

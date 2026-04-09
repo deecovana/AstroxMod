@@ -11,3 +11,9 @@ NPC;-QTY;124;-1;28161.44;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;440;1;29007.13;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;41;2;43729;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;-PRICE;35;0;23891.52;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+NPC;+STOCK;265;2;31284.07;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;129;2;32293.66;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;126;2;26728.5;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;160;2;42158.7;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;327;2;43778.29;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;144;-2;41560.26;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

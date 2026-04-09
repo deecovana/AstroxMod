@@ -26,3 +26,17 @@ NPC;+QTY;136;2;1284635;StarShepards Headquarters;Void Starcross;15h 31m 43s ;559
 NPC;+LOCAL;5;1;329062.5;Biomate University;Void Starcross;15h 31m 48s ;55908.38
 NPC;BAL;5;0;371947.3;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;+LOCAL;5;1;329062.5;Biomate University;Void Starcross;16h 11m 11s ;58271.77
+NPC;+LOCAL;5;1;329062.5;Biomate University;Void Starcross;18h 8m 31s ;65311.09
+NPC;-QTY;42;-3;1306283;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;+STOCK;9;4;282155.3;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;27;4;1029715;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;18;3;1316095;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;140;4;1243038;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;101;4;1102048;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;5;1;329062.5;Biomate University;Void Starcross;21h 6m 1s ;75961.27
+NPC;+PRICE;150;0;1202395;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;+PRICE;17;0;1355288;Biomart;Veloxi;21h 30m 39s ;77439.77
+NPC;BAL;5;0;310606;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;137;-3;1166788;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;20;-2;1255383;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;+LOCAL;5;1;329062.5;Biomate University;Void Starcross;22h 27m 29s ;80849.23

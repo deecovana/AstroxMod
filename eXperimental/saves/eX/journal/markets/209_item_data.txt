@@ -6,3 +6,7 @@ NPC;+STOCK;281;129;99.64685;StarShepards Headquarters;Void Starcross;7h 47m 19s 
 NPC;+LOCAL;150;780;43.875;Biomart;Veloxi;9h 47m 56s ;35276.94
 NPC;-QTY;639;-143;172.0727;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;370;89;98.38462;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+STOCK;560;122;127.1496;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;754;115;166.9996;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;487;117;94.54755;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;345;-142;98.80319;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

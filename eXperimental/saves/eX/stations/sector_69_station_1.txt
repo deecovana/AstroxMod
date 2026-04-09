@@ -40,6 +40,8 @@ MERC;9;1.53;npc_ship_data_(battle_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Demands: (1) Items ;24x701;119512;93120.23
+
 SELLORDER;Market Goods: (2) Items ;76x716,41x839;149865;62136.19
 SELLORDER;Market Items: (1) Items ;51x367;10432;106780.20
 SELLORDER;Market Supply: (2) Items ;40x879,60x442;43638;128662.20

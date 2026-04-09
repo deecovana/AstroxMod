@@ -23,3 +23,22 @@ NPC;-PRICE;54;0;2.440539;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;-LOCAL;569;0;4.19625;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.99
 NPC;+QTY;963;132;4.919031;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;1068;-132;2.886442;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;250;218;1.21225;Daemon Ammunitions;Starfort Ramos;17h 18m 13s ;62293.6
+NPC;+PRICE;49;0;2.822079;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;+LOCAL;250;307;2.517922;Crystalis Broadcasting;Jermicus;18h 28m 24s ;66504.64
+NPC;-QTY;5;-177;4.065257;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;+LOCAL;250;138;1.760368;Crystalis Broadcasting;Jermicus;19h 4m 13s ;68653.3
+NPC;+STOCK;835;201;2.007784;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;852;195;4.666576;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1132;169;4.885873;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;528;192;4.457624;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;740;222;2.737923;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;250;163;1.21225;Crystalis Broadcasting;Jermicus;20h 3m 35s ;72215.7
+NPC;-LOCAL;0;0;9.325;Monarch Society;Solitudes of Frey;20h 43m 22s ;74602.2
+NPC;-LOCAL;1;1;4.356202;Monarch Society;Solitudes of Frey;20h 46m 52s ;74812.95
+NPC;-LOCAL;0;0;5.857411;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;-LOCAL;0;0;7.14803;Monarch Society;Solitudes of Frey;22h 5m 5s ;79505.99
+NPC;BAL;881;-187;3.182147;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;943;-189;4.658636;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;+STOCK;242;181;2.294525;Tella's;Bitcola;22h 36m 19s ;81379.42
+NPC;-LOCAL;0;0;9.18649;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

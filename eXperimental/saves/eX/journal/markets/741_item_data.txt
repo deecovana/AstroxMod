@@ -13,3 +13,14 @@ NPC;+LOCAL;15;66;14625;Starbase Corporate Center;Void Starcross;14h 37m 22s ;526
 NPC;+LOCAL;15;4;14625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;-QTY;5;-12;58707.56;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;68;11;56918.25;CoraVault;Lins;15h 31m 43s ;55903.28
+NPC;+LOCAL;15;6;14625;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+PRICE;2;0;61541.28;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;+LOCAL;15;14;14625;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+STOCK;212;13;50658.06;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;29;13;47455.7;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;28;13;15443.44;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;9;14625;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;4;14625;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;+PRICE;133;0;38804.68;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;+STOCK;15;12;44736.55;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;201;-11;46981.97;Biomate University;Void Starcross;22h 13m 8s ;79988.3

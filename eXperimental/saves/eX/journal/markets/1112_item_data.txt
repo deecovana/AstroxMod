@@ -6,3 +6,6 @@ NPC;+STOCK;80;9;28128.83;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28
 NPC;+STOCK;73;11;30428.14;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;-QTY;9;-6;17102.81;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;BAL;51;-11;30416.56;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;62;11;29400.61;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;19;10;16561.24;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;90;10;27750.67;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8

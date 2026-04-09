@@ -11,3 +11,11 @@ NPC;+LOCAL;15;4;32500;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323
 NPC;+QTY;89;9;69877.5;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;17;9;78940;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;-PRICE;34;0;63675.61;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;+LOCAL;15;6;32500;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+LOCAL;15;19;32500;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+STOCK;69;12;104717.5;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;100;11;67443.49;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;25;10;34318.75;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;8;32500;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;5;32500;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;BAL;87;-13;74141.18;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

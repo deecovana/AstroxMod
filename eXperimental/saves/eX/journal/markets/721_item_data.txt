@@ -14,3 +14,12 @@ NPC;+LOCAL;15;4;1950;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.
 NPC;-QTY;117;-10;7407.675;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;53;8;6449.1;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;+STOCK;65;12;6166.982;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;+LOCAL;15;5;1950;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;-QTY;21;-8;3916.425;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;+LOCAL;15;22;1950;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+LOCAL;15;5;1950;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;56;10;6655.342;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;1;4648.068;Monarch Society;Solitudes of Frey;20h 46m 52s ;74812.95
+NPC;+LOCAL;15;8;1950;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;4;1950;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;+STOCK;28;11;4043.777;Rendo Labs;Entropy;21h 34m 29s ;77669.09

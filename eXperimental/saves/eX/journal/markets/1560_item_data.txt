@@ -7,3 +7,7 @@ NPC;+STOCK;10;9;27349.72;Oro Omniplex Center;Merces Academy;7h 18m 7s ;26287.49
 NPC;+STOCK;60;11;24928.4;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+PRICE;12;0;17411.54;Acrondia Hub;Temple Gates;8h 43m 42s ;31422.46
 NPC;+QTY;70;10;24806.92;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+LOCAL;6;5;30725.69;Transporteers Hub;Ambervellis Drea;19h 19m 43s ;69583.54
+NPC;+STOCK;30;10;34037.34;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;81;11;24155.88;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;27;10;31875.59;Rendo Labs;Entropy;21h 34m 29s ;77669.09

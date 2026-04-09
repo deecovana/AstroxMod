@@ -9,3 +9,10 @@ NPC;-PRICE;168;0;48.87813;CoraVault;Lins;14h 47m 2s ;53222.26
 NPC;-QTY;480;-82;47.70088;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;167;88;40.02733;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
 NPC;+QTY;213;149;35.6208;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
+NPC;-QTY;0;-40;23.66801;Tella's;Bitcola;18h 3m 42s ;65022.39
+PLAYER;+QTY;232;4;29.65676;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;319;133;45.84234;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;353;123;27.90107;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;584;104;46.34929;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;338;106;27.81625;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;243;-76;42.32198;Biomate University;Void Starcross;22h 13m 8s ;79988.3

@@ -5,3 +5,7 @@ NPC;-LOCAL;4;4;371405.3;CoraVault;Lins;11h 10m 39s ;40239.91
 NPC;-LOCAL;0;0;825345;OmniTrust;Ponze;13h 18m 0s ;47880.8
 NPC;-QTY;28;-10;272235.9;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;-PRICE;62;0;358856.2;Star Shepard's Temple;Lightless;16h 31m 13s ;59473.96
+NPC;-LOCAL;0;0;825345;CoraVault;Lins;16h 40m 58s ;60058.63
+NPC;-LOCAL;0;0;825345;CoraVault;Lins;17h 32m 2s ;63122.3
+NPC;+STOCK;36;8;262492.6;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;41;10;189776.7;Proctors Center;Void Starcross;19h 47m 17s ;71237.8

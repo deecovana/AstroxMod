@@ -3,3 +3,5 @@ NPC;-QTY;25;-9;17839.06;StarShepards Headquarters;Void Starcross;5h 48m 34s ;209
 NPC;+STOCK;33;8;16986.61;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
 NPC;+QTY;52;6;20802.03;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;44;11;16969.38;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+LOCAL;12;13;8125;Daemon Ammunitions;Starfort Ramos;17h 18m 13s ;62293.6
+NPC;+STOCK;53;9;16236.97;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8

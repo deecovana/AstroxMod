@@ -30,3 +30,17 @@ NPC;-LOCAL;5;0;156.4447;PharmaLife;Carioullis;15h 22m 21s ;55341.64
 NPC;-LOCAL;13;0;157.7218;Imperium Republica ;Gate of Alpharis;15h 25m 53s ;55553.39
 NPC;+QTY;943;901;181.7912;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;286;-780;135.7904;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;73;73;143.6737;StarGypsy Warehouse;Void Starcross;18h 4m 10s ;65050.88
+NPC;-LOCAL;0;0;236.9616;StarGypsy Warehouse;Void Starcross;18h 25m 48s ;66348.2
+NPC;-LOCAL;10;10;143.6737;StarGypsy Warehouse;Void Starcross;18h 30m 49s ;66649.07
+NPC;-LOCAL;25;25;143.6737;StarShepards Headquarters;Void Starcross;19h 44m 44s ;71084.94
+NPC;+STOCK;925;902;85.48596;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;792;782;180.0724;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;976;951;176.9656;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1727;668;93.58936;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;58;58;143.6737;StarGypsy Warehouse;Void Starcross;19h 47m 29s ;71249.35
+NPC;+PRICE;44;0;116.2313;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;-LOCAL;18;18;143.6737;PharmaLife;Carioullis;21h 30m 42s ;77442.81
+NPC;BAL;286;0;133.1103;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;976;0;164.8466;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;3;0;142.0049;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

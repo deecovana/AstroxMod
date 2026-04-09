@@ -18,3 +18,8 @@ PLAYER;+QTY;10;1;25134.71;Monarch Society;Solitudes of Frey;15h 18m 15s ;55095.0
 NPC;+QTY;5;4;24912.7;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;9;3;23984.3;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;12;-2;24849.42;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+PLAYER;+QTY;6;1;24867.41;Daemon Ammunitions;Starfort Ramos;17h 19m 21s ;62361.62
+NPC;-QTY;0;-1;14581.19;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;+STOCK;15;3;23979.61;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;36;3;19383.65;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;32;3;13139.72;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8

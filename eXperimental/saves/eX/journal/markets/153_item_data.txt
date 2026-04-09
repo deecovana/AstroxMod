@@ -6,3 +6,9 @@ NPC;-PRICE;200;0;12.23862;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;-QTY;377;-121;15.14673;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;205;128;16.46781;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
 NPC;+QTY;246;149;16.68082;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+PLAYER;+QTY;191;6;10.4342;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;501;124;14.9463;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;317;126;9.929504;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;50;0;16.5375;Horizons;Gate of Alpharis;21h 30m 39s ;77439.77
+NPC;+STOCK;181;136;11.52791;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;2;0;13.35685;Blissheads;Estura Cove;22h 13m 8s ;79988.3

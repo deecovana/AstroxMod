@@ -8,3 +8,12 @@ NPC;+QTY;368;96;30.92259;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;747;146;28.76162;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;133;76;33.96584;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;-PRICE;23;0;30.43697;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+NPC;+PRICE;201;0;20.6258;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;+STOCK;274;112;28.06083;Xellon;Ele;18h 50m 39s ;67839.91
+PLAYER;+QTY;251;9;25.23232;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;851;104;27.79405;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;377;126;24.08721;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1156;113;21.87351;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;123;0;29.88547;Biomart;Veloxi;21h 30m 39s ;77439.77
+NPC;+STOCK;319;128;20.57924;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;8;0;18.94136;Blissheads;Estura Cove;22h 13m 8s ;79988.3

@@ -12,3 +12,10 @@ NPC;+PRICE;14;0;38172.84;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;+QTY;14;6;36104.06;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;65;6;57438.75;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;-PRICE;4;0;52392.93;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;-LOCAL;31;31;56250;StarGypsy Warehouse;Void Starcross;18h 4m 10s ;65050.88
+NPC;-LOCAL;45;45;56250;StarGypsy Warehouse;Void Starcross;18h 25m 48s ;66348.2
+NPC;-LOCAL;27;0;56250;StarGypsy Warehouse;Void Starcross;18h 30m 49s ;66649.07
+NPC;+STOCK;70;11;44739.98;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;35;8;68849.51;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;62;62;57744.1;StarGypsy Warehouse;Void Starcross;19h 47m 29s ;71249.35
+NPC;BAL;56;-9;56543.86;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

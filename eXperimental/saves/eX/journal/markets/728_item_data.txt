@@ -17,3 +17,18 @@ NPC;+LOCAL;15;71;4875;Starbase Corporate Center;Void Starcross;14h 37m 22s ;5264
 NPC;+LOCAL;15;5;4875;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;-QTY;100;-9;11619.19;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;BAL;149;-9;16103.05;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;6;4875;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;-QTY;3;-9;11291.06;Tella's;Bitcola;18h 54m 42s ;68082.57
+NPC;-QTY;0;-1;10802.34;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;+LOCAL;15;17;4875;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+LOCAL;15;7;4875;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;161;12;15698.93;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;148;13;18966.92;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;110;10;11390.67;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;29;14;5147.813;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;218;11;11655.33;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;14;4875;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;4;4875;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;+STOCK;35;10;14760.88;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;+LOCAL;15;6;10395.94;Monarch Society;Solitudes of Frey;22h 5m 5s ;79505.99
+NPC;BAL;152;-9;15463.11;Biomate University;Void Starcross;22h 13m 8s ;79988.3

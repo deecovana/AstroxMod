@@ -28,3 +28,17 @@ NPC;-QTY;1338;-1344;132.661;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089
 NPC;-LOCAL;43;0;136.1225;Xellon;Ele;15h 52m 50s ;57170.69
 NPC;+QTY;1325;1325;146.8756;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;BAL;1963;1963;122.4999;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;2500;2593;37.02075;Communications Hub;Ele;16h 59m 36s ;61176.28
+NPC;-LOCAL;64;64;128.1487;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;-QTY;0;0;143.8384;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;-LOCAL;42;42;128.1487;Lammassu Financial;Void Starcross;18h 11m 12s ;65472.14
+NPC;-LOCAL;0;0;284.775;Xellon;Ele;18h 34m 55s ;66895.14
+NPC;-LOCAL;0;0;284.775;Xellon;Ele;18h 46m 13s ;67573.88
+NPC;-LOCAL;0;0;284.775;Xellon;Ele;18h 51m 9s ;67869.42
+PLAYER;-QTY;1663;300;122.8715;Biomate University;Void Starcross;19h 31m 46s ;70306.97
+NPC;+STOCK;3578;1915;122.4557;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;3648;2310;131.3022;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4505;2471;96.07628;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;42;42;133.5403;Lammassu Financial;Void Starcross;19h 48m 54s ;71334.89
+NPC;BAL;1490;-2088;118.1232;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;-LOCAL;0;0;284.775;Xellon;Ele;22h 50m 8s ;82208

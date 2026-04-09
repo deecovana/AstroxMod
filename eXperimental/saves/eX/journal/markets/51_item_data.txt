@@ -22,3 +22,17 @@ NPC;-LOCAL;0;0;181.5262;Lammassu Financial;Void Starcross;14h 42m 46s ;52966.15
 NPC;-LOCAL;16;16;94.92749;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
 NPC;+QTY;3984;2314;59.80643;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+LOCAL;2500;23931;27.4235;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
+NPC;-LOCAL;23;23;98.35591;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;+PRICE;2500;0;30.29878;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;-LOCAL;49;49;95.45495;Lammassu Financial;Void Starcross;18h 11m 12s ;65472.14
+NPC;-LOCAL;0;0;210.95;Xellon;Ele;18h 34m 55s ;66895.14
+NPC;+LOCAL;2500;3723;27.4235;Communications Hub;Ele;18h 37m 40s ;67060.95
+NPC;-LOCAL;12;12;94.92749;Xellon;Ele;18h 46m 13s ;67573.88
+NPC;+STOCK;1817;1805;110.2736;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;-LOCAL;0;0;97.75444;Xellon;Ele;18h 51m 9s ;67869.42
+NPC;+STOCK;2117;2068;114.5234;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;6269;2285;58.0715;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4281;2050;99.60848;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;0;0;210.95;Lammassu Financial;Void Starcross;19h 48m 54s ;71334.89
+NPC;BAL;61;0;70.30236;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;-LOCAL;0;0;130.7801;Xellon;Ele;22h 50m 8s ;82208

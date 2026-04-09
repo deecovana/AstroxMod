@@ -1,4 +1,33 @@
 //;LOG DATA FILE (Astrox Imperium)
+COMPLETED;Recover;Salvage a heavy load in ;1,734,176;9868080.48507547;Valuestar Hub;Jelumus;23h 10m 4s 
+ACCEPTED;Recover;Salvage a heavy load in A...;-180075;7953929.36007547;Monarch Society;Solitudes of Frey;23h 3m 35s 
+COMPLETED;Salvage;Dismantle ;949,994;8133949.75407672;Monarch Society;Solitudes of Frey;23h 1m 14s 
+ACCEPTED;Salvage;Dismantle 346 of salvage ...;-1816.5;7182249.92907715;Xellon;Ele;22h 51m 47s 
+COMPLETED;Collect;Locate and collect ;1,554,101;7184166.42907715;Tella's;Bitcola;22h 36m 21s 
+ACCEPTED;Collect;Locate and collect 61 Sen...;-0;5337034.24157715;Biomate University;Void Starcross;22h 32m 56s 
+COMPLETED;Harvest;Extract at least ;1,968,419;5265737.73730469;Daemon Ammunitions;Starfort Ramos;22h 24m 45s 
+ACCEPTED;Harvest;Extract at least 559 of s...;-19739.69;3277979.04980469;Monarch Society;Solitudes of Frey;22h 6m 22s 
+COMPLETED;Fabricate;Manufacture A heavy shipm...;1,488,147;3297918.73730469;Gemini Mining;Jala;21h 41m 32s 
+ACCEPTED;Fabricate;Manufacture A heavy shipm...;-7680.75;1804810.61230469;Rendo Labs;Entropy;21h 36m 11s 
+COMPLETED;Delivery;Return Monarch Society in...;8,380;1653863.27935791;Monarch Society;Solitudes of Frey;20h 43m 21s 
+COMPLETED;Scan;Scan the ...;96,128;1640993.79058838;Gemini Mining;Jala;20h 19m 43s 
+ACCEPTED;Scan;Scan the Office Center st...;-0;1547443.54058838;Crystalis Broadcasting;Jermicus;20h 9m 42s 
+COMPLETED;Delivery;Take medium shipment of ;96,139;1547443.54058838;Crystalis Broadcasting;Jermicus;20h 3m 16s 
+ACCEPTED;Delivery;Take medium shipment of 1...;-73.98;1451330.07621002;Biomate University;Void Starcross;19h 59m 55s 
+COMPLETED;Kill;Assassinate in-experience...;65,631;1539854.16558838;Biomate University;Void Starcross;19h 23m 27s 
+ACCEPTED;Kill;Assassinate in-experience...;-0;1453814.99946344;Crystalis Broadcasting;Jermicus;19h 6m 1s 
+COMPLETED;Escort;A pilot at StarGypsy Ware...;240,168;1453814.99946344;Crystalis Broadcasting;Jermicus;19h 4m 2s 
+ACCEPTED;Escort;A pilot at StarGypsy Ware...;-0;1183995.00963521;Xellon;Ele;18h 47m 57s 
+COMPLETED;Escort;Liaiso...;206,438;1253747.28514791;Xellon;Ele;18h 34m 44s 
+COMPLETED;Refine;Refine 43...;90,829;1058614.07152486;StarGypsy Warehouse;Void Starcross;18h 25m 59s 
+ACCEPTED;Refine;Refine 43 Junk Parts at S...;-225.75;967634.609023809;Lammassu Financial;Void Starcross;18h 20m 43s 
+ACCEPTED;Escort;Liaison Zoea Portam docke...;-0;967860.359023809;Lammassu Financial;Void Starcross;18h 19m 4s 
+COMPLETED;Kill;Assassinate in-experience...;25,193;952762.109265089;StarGypsy Warehouse;Void Starcross;18h 3m 44s 
+ACCEPTED;Kill;Assassinate in-experience...;-0;925702.455090284;CoraVault;Lins;17h 55m 40s 
+COMPLETED;Escort;A ship in Starbase Corpor...;44,533;2853131.6474731;Dreamstar;Gendaria;17h 11m 39s 
+COMPLETED;Harvest;Excavate special ;52,108;2814687.83124995;Lammassu Financial;Void Starcross;17h 5m 40s 
+COMPLETED;Dialog;Collect a small debt from...;12,121;2753322.23046875;Holosynth Industries;Rats Of Mortalis;16h 44m 46s 
+ACCEPTED;Escort;A ship in Starbase Corpor...;-0;2741300.75;CoraVault;Lins;16h 41m 55s 
 ACCEPTED;Harvest;Excavate special Special ...;-4378.75;1741400.84472775;Starbase Corporate Center;Void Starcross;16h 34m 50s 
 ACCEPTED;Dialog;Collect a small debt from...;-0;1745779.59472775;Starbase Corporate Center;Void Starcross;16h 34m 47s 
 COMPLETED;Escort;A pilot at Lacuna Bandits...;121,826;1745779.59472775;Starbase Corporate Center;Void Starcross;16h 33m 16s 
@@ -71,11 +100,3 @@ ACCEPTED;Delivery;Light delivery of Advance...;-47162.5;1027023.75390625;Oro Omn
 EXPIRED;Collect;Return to Lacuna Bandits ...;-25,266;1072910.875;Undocked;Temple Gates;4h 51m 28s 
 ACCEPTED;Collect;Collect a light shipment ...;-0;102271.358307362;Tella's;Bitcola;3h 46m 11s 
 ACCEPTED;Collect;Return to Lacuna Bandits ...;-0;229351.158307552;Biomate University;Void Starcross;2h 41m 25s 
-COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;-6,527;84524.1164822578;Biomate University;Void Starcross;2h 1m 45s 
-COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;53,896;82741.1941189766;Biomate University;Void Starcross;1h 57m 11s 
-COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;13,087;28853.5941195488;Biomate University;Void Starcross;1h 52m 22s 
-COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;11,718;15771.3941197395;Biomate University;Void Starcross;1h 44m 53s 
-COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;6,820;14066.2939245701;Biomate University;Void Starcross;1h 27m 18s 
-COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;6,820;31160.8232214451;Biomate University;Void Starcross;1h 7m 42s 
-COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;6,820;25638.2243757248;Biomate University;Void Starcross;0h 53m 4s 
-COMPLETED;Harvest;( Tutorial 1 ) Harvest yo...;6,300;20070.9914655685;Biomate University;Void Starcross;0h 41m 24s 

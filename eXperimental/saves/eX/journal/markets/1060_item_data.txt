@@ -1,3 +1,4 @@
 NPC;BAL;43;-10;21221.13;Oak Industries;Dorando Corridor;3h 56m 14s ;14174.64
 NPC;-PRICE;27;0;19465.67;CoraVault;Lins;14h 47m 2s ;53222.26
 NPC;+STOCK;36;9;19157.66;CoraVault;Lins;16h 37m 57s ;59877.96
+PLAYER;-QTY;25;2;19416.33;CoraVault;Lins;17h 44m 59s ;63899.83

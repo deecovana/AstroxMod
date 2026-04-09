@@ -16,3 +16,12 @@ NPC;+QTY;5;2;7975.8;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;-PRICE;7;0;5239.794;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
 NPC;-PRICE;6;0;7165.999;Biomart;Veloxi;16h 31m 13s ;59473.96
 NPC;+STOCK;10;4;7900.333;CoraVault;Lins;16h 37m 57s ;59877.96
+PLAYER;+QTY;4;1;7918.75;Holosynth Industries;Rats Of Mortalis;16h 50m 2s ;60602.25
+NPC;+STOCK;27;4;6562.852;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;39;4;5000.092;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;40;4;7701.008;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;36;3;6543.46;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;6;0;7399.923;Biomart;Veloxi;21h 30m 39s ;77439.77
+NPC;+STOCK;12;4;4674.303;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;35;-4;5212.319;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;2;-4;8831.391;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

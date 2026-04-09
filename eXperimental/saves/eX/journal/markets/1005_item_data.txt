@@ -1,3 +1,5 @@
 NPC;+PRICE;9;0;997704.7;Medicore University;Cliffs of Drameria;0h 13m 58s ;838.7362
 NPC;-QTY;48;-9;1217371;StarShepards Headquarters;Void Starcross;5h 48m 34s ;20914.43
 NPC;+STOCK;56;8;1190284;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
+NPC;+STOCK;65;9;1137850;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;59;-6;1212227;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

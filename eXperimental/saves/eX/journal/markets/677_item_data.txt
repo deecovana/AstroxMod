@@ -30,3 +30,21 @@ NPC;+QTY;20;18;28909.69;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
 NPC;+QTY;22;22;145804.6;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;46;21;15244.88;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;56;-12;50002.25;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;25;34;14625;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;-LOCAL;29;0;50625;Crystalis Broadcasting;Jermicus;17h 12m 27s ;61947.41
+NPC;-LOCAL;25;0;50625;Crystalis Broadcasting;Jermicus;17h 15m 50s ;62150.7
+NPC;-LOCAL;4;4;50625;Daemon Ammunitions;Starfort Ramos;17h 18m 13s ;62293.6
+NPC;-LOCAL;0;0;82809.05;Crystalis Broadcasting;Jermicus;18h 28m 24s ;66504.64
+NPC;-LOCAL;0;0;98437.85;Crystalis Broadcasting;Jermicus;19h 4m 13s ;68653.3
+NPC;-LOCAL;0;0;98661.85;Crystalis Broadcasting;Jermicus;19h 7m 21s ;68841.83
+NPC;+LOCAL;25;79;14625;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+LOCAL;25;82;14625;StarShepards Headquarters;Void Starcross;19h 44m 44s ;71084.94
+NPC;+STOCK;75;19;47837.53;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;48;23;15401.95;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;81;23;50608.9;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;45;20;15217.03;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;25;27;14625;Lammassu Financial;Void Starcross;19h 48m 54s ;71334.89
+NPC;-LOCAL;0;0;112500;Crystalis Broadcasting;Jermicus;20h 3m 35s ;72215.7
+NPC;BAL;60;-15;46293.1;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;25;-23;19137.86;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;+LOCAL;25;12;24221.38;Xellon;Ele;22h 50m 8s ;82208

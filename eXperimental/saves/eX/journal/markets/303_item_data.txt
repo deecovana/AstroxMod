@@ -14,3 +14,14 @@ NPC;-PRICE;21;0;1149.474;CoraVault;Lins;14h 47m 2s ;53222.26
 NPC;+STOCK;727;726;610.0614;Tella's;Bitcola;15h 8m 58s ;54538.96
 NPC;+QTY;1468;789;958.4545;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;791;0;868.7589;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-QTY;0;-8;1005.16;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;-LOCAL;0;0;2284.7;Transporteers Hub;Ambervellis Drea;18h 54m 44s ;68084.57
+NPC;-LOCAL;0;0;2284.7;Transporteers Hub;Ambervellis Drea;19h 19m 43s ;69583.54
+NPC;+STOCK;814;779;940.7857;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1642;847;1165.841;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;2354;886;920.0269;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1626;691;1012.363;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1750;834;499.3617;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;791;0;955.8607;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;1814;-540;944.5966;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;+STOCK;754;753;580.7803;Tella's;Bitcola;22h 36m 19s ;81379.42

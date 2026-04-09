@@ -6,3 +6,10 @@ NPC;+STOCK;658;117;10.04027;Biomate University;Void Starcross;13h 56m 14s ;50174
 NPC;-QTY;631;-141;9.245293;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;140;113;9.248454;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;BAL;448;-93;10.66823;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;335;141;12.81873;Xellon;Ele;18h 50m 39s ;67839.91
+PLAYER;+QTY;0;12;0;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;550;102;10.06637;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;579;142;7.431416;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;731;100;9.033456;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;448;-102;11.20226;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;+STOCK;251;135;13.74013;Tella's;Bitcola;22h 36m 19s ;81379.42

@@ -1,4 +1,7 @@
 //;LOG DATA FILE (Astrox Imperium)
+SELL;PE-2 Pirate Escort T2;725,203;1021630.66993403;CoraVault;Lins;17h 26m 24s 
+ACTIVATED;PF-1 Assault Frigate;0;296427.607434034;CoraVault;Lins;17h 26m 6s 
+BUY;PF-1 Assault Frigate;2,436,682;296427.607434034;CoraVault;Lins;17h 25m 42s 
 SELL;EU-1 Mining Escort;505,625;625994.836681366;StarGypsy Warehouse;Void Starcross;8h 30m 17s 
 ACTIVATED;PE-2 Pirate Escort T2;0;120369.836681366;StarGypsy Warehouse;Void Starcross;8h 30m 4s 
 BUY;PE-2 Pirate Escort T2;1,264,063;55201.8328094482;StarGypsy Warehouse;Void Starcross;7h 32m 26s 

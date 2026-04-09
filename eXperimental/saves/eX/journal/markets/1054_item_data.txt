@@ -12,3 +12,6 @@ NPC;+LOCAL;12;15;780;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
 NPC;-PRICE;9;0;2611.332;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;+QTY;22;10;2757.06;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;11;6;2206.56;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;+STOCK;64;8;2010.105;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;34;11;960.5377;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;13;-9;2651.644;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

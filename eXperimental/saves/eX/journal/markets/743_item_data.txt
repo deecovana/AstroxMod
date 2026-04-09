@@ -11,3 +11,13 @@ NPC;+LOCAL;15;52;53625;Acrondia Hub;Temple Gates;13h 40m 24s ;49224.59
 NPC;+LOCAL;15;5;53625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;+QTY;64;7;162043.4;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;39;11;178101;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;+LOCAL;15;5;53625;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+LOCAL;15;22;53625;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+LOCAL;15;8;53625;Starbase Corporate Center;Void Starcross;19h 43m 2s ;70982.77
+NPC;+STOCK;74;13;126581.1;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;45;13;128586.4;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;26;11;56625.94;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;11;53625;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;3;53625;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;+LOCAL;15;8;94058.66;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;+LOCAL;15;8;53625;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

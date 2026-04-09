@@ -6,3 +6,8 @@ NPC;+STOCK;526;122;24.63317;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.
 NPC;+STOCK;1105;137;44.27518;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;BAL;856;-112;44.03692;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-PRICE;62;0;45.38621;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+PLAYER;+QTY;0;2;0;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;1004;148;42.1106;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;208;144;40.72976;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;881;-123;39.32755;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;62;-146;39.00574;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

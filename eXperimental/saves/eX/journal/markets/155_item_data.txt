@@ -5,3 +5,7 @@ NPC;-QTY;563;-121;14.08053;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.
 NPC;-QTY;0;-38;15.50733;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
 NPC;+QTY;212;80;21.47808;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;-PRICE;87;0;13.86625;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;-QTY;56;-110;10.6299;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+PLAYER;+QTY;0;9;0;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;246;127;18.55983;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;71;0;19.38382;Blissheads;Estura Cove;22h 13m 8s ;79988.3

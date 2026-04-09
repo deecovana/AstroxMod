@@ -8,3 +8,10 @@ NPC;+STOCK;472;107;42.60005;Biomate University;Void Starcross;13h 56m 14s ;50174
 NPC;-QTY;453;-135;44.69925;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;93;79;58.6025;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
 NPC;BAL;278;-87;43.91959;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+PLAYER;+QTY;460;3;48.09614;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
+NPC;+STOCK;409;131;42.21348;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;599;146;41.80858;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;860;104;63.48788;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;93;0;60.80705;Horizons;Gate of Alpharis;21h 30m 39s ;77439.77
+NPC;BAL;331;-78;45.12926;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;719;-141;64.34082;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

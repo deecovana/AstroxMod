@@ -5,3 +5,6 @@ PLAYER;-QTY;13;3;5670.438;Astrox Security Patrol;Felishar;9h 4m 0s ;32640.76
 NPC;+STOCK;27;11;6989.485;Tella's;Bitcola;15h 8m 58s ;54538.96
 PLAYER;+QTY;0;4;0;Biomate University;Void Starcross;15h 35m 37s ;56137.86
 NPC;+STOCK;36;11;7499.7;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;-QTY;0;-10;4619.168;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;+STOCK;65;9;7136.988;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;26;10;7060.66;Tella's;Bitcola;22h 36m 19s ;81379.42

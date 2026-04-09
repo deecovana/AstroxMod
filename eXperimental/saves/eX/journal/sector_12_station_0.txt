@@ -1,0 +1,37 @@
+[s:30][c:yellow]Gek Mining[/c][/s]
+Mining Facility
+Uemejoh Nofall
+Labor
+[c:lime]Dock fee 100[/c]
+Timestamp: 74020.67
+<Station Services>
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Refinery
+Ship Garage
+University
+Ship Hangar
+
+
+<Station Market Orders>
+
+
+<Station University Skills>
+Ship Thruster Systems
+Ship Armor Management
+Projectile Maintenance
+Passive Scanner Systems
+Salvager Cycle Mechanics
+Launcher Advanced Systems
+
+
+<Station Missions>
+
+
+<Station Ships>
+SU-1 Archanis / Frigate    (Recon)
+RCA-1 Correlator / Destroyer    (Support)
+PC-1 Pirate Utility / Utility    (Excavation)
+BC-1 Alpharis Predator / Escort    (Battle)
+ES-1 Shuttle / Shuttle    (Transport)

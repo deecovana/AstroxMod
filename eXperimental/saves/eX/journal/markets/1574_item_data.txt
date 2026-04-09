@@ -11,3 +11,5 @@ NPC;-LOCAL;5;5;468000;Tella's;Bitcola;15h 9m 48s ;54588.81
 NPC;-QTY;20;-7;467838.8;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;-LOCAL;0;0;1040000;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
 NPC;-LOCAL;0;0;1040000;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5
+NPC;+STOCK;28;8;454060.3;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;0;0;1040000;Tella's;Bitcola;22h 36m 41s ;81401.38

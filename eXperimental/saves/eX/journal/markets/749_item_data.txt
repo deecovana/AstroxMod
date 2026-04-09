@@ -17,3 +17,20 @@ NPC;-QTY;7;-9;201153.1;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;54;7;188020.3;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;146;8;224693.8;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;39;-9;251083.5;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;5;81250;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+STOCK;46;10;136946;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;+LOCAL;15;13;81250;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+STOCK;51;12;242485.7;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;82;13;143908.4;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;17;10;190053.7;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;156;10;221180.5;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;26;11;85796.88;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;109;14;147088.8;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;13;81250;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;4;81250;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;+LOCAL;15;8;135317.8;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;+PRICE;28;0;181031.2;Horizons;Gate of Alpharis;21h 30m 39s ;77439.77
+NPC;BAL;41;-10;256170.9;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;39;-14;248624.3;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;+STOCK;44;12;327524.6;Tella's;Bitcola;22h 36m 19s ;81379.42
+NPC;+LOCAL;15;7;81250;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

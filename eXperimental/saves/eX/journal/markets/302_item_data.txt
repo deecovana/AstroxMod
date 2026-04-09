@@ -18,3 +18,16 @@ NPC;+PRICE;15;0;45.405;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;-QTY;169;-753;43.92846;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;-QTY;0;-4;32.56708;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
 NPC;BAL;759;0;47.94195;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-QTY;0;-17;56.13887;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;+STOCK;1001;991;45.68953;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;-QTY;0;-10;47.35619;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;-QTY;0;0;56.13887;Tella's;Bitcola;18h 54m 42s ;68082.57
+NPC;+STOCK;1603;844;46.74127;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1034;981;37.30078;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;889;720;41.96567;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1615;909;45.47357;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1787;916;24.01256;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1983;958;35.49493;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;14;0;42.21638;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;-LOCAL;14;14;51.2325;Rendo Labs;Entropy;21h 34m 32s ;77672.16
+NPC;BAL;660;-955;47.25754;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

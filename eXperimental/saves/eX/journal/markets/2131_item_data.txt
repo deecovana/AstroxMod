@@ -7,3 +7,13 @@ NPC;-QTY;21;-2;31295.51;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
 NPC;+QTY;6;1;44607.41;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;BAL;594;-1;32692.24;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;BAL;0;99;29632;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+PRICE;69;0;54807.17;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;+STOCK;19;2;48619.8;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;-QTY;80;-2;33595.01;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;-QTY;160;-1;40885.16;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;0;99;27746.62;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;596;2;30040.49;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;101;2;36266.25;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;35;0;47664.95;Horizons;Gate of Alpharis;21h 30m 39s ;77439.77
+NPC;BAL;595;-1;29540.67;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;0;99;31377.6;Biomate University;Void Starcross;22h 13m 8s ;79988.3

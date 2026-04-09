@@ -7,3 +7,4 @@ NPC;+QTY;12;10;20724.89;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;-LOCAL;0;0;64375;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
 NPC;-PRICE;13;0;21017.45;Star Shepard's Temple;Lightless;16h 31m 13s ;59473.96
 NPC;+STOCK;21;9;20201.91;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;+PRICE;12;0;8076.191;Transporteers;Hunu;21h 30m 39s ;77439.77

@@ -2,3 +2,7 @@ NPC;-PRICE;599;0;2350.105;KIN AI;Xenilo Valley;4h 42m 34s ;16954.71
 NPC;+STOCK;868;122;3095.968;Biomate University;Void Starcross;7h 47m 19s ;28039.67
 NPC;+LOCAL;150;663;865.6862;ValueStar;Hunu;10h 24m 2s ;37442.54
 NPC;+STOCK;993;125;3002.793;Biomate University;Void Starcross;13h 56m 14s ;50174.25
+NPC;-QTY;31;-119;781.6647;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;1009;141;3019.154;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;502;124;3397.497;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;880;-129;2788.146;Biomate University;Void Starcross;22h 13m 8s ;79988.3

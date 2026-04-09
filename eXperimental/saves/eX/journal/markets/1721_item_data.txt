@@ -2,3 +2,5 @@ NPC;+LOCAL;12;12;8125;Tella's;Bitcola;3h 44m 37s ;13477.42
 NPC;+STOCK;75;9;21526.97;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+LOCAL;12;78;8125;Tella's;Bitcola;15h 9m 48s ;54588.81
 NPC;+LOCAL;12;58;8125;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
+NPC;+STOCK;59;10;15863.85;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;83;8;20676.6;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8

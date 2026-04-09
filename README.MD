@@ -1,5 +1,9 @@
 # "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
 
+## Continue Farming Target 14m Apastron DestroyerIII
+- Need Destroyer III Need 15m (Have 10m)
+- Need 15m (Have 10m)
+
 ## 0402 Continue ExPansion
 - Add 1m
 - Try Commmand

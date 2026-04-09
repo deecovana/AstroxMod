@@ -21,3 +21,18 @@ NPC;+PRICE;127;0;380.6307;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;-LOCAL;35;35;474.615;Lammassu Financial;Void Starcross;14h 51m 27s ;53487.67
 NPC;-QTY;475;-2198;381.6379;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;4561;2427;450.8948;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+LOCAL;2500;2614;180.7811;Communications Hub;Ele;16h 59m 36s ;61176.28
+NPC;-LOCAL;10;10;474.615;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;-LOCAL;45;45;477.0484;Lammassu Financial;Void Starcross;18h 11m 12s ;65472.14
+NPC;-LOCAL;0;0;1054.7;Xellon;Ele;18h 34m 55s ;66895.14
+NPC;+LOCAL;2500;3295;137.111;Communications Hub;Ele;18h 37m 40s ;67060.95
+NPC;-LOCAL;4;4;474.615;Xellon;Ele;18h 46m 13s ;67573.88
+NPC;-LOCAL;0;0;488.7491;Xellon;Ele;18h 51m 9s ;67869.42
+NPC;+STOCK;1759;1714;565.2625;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;2755;2280;375.227;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;6230;1669;433.9354;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4233;2397;467.7866;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;859;0;474.615;Lammassu Financial;Void Starcross;19h 48m 54s ;71334.89
+NPC;BAL;85;0;434.3768;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;4148;-2082;475.1348;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;-LOCAL;0;0;653.8694;Xellon;Ele;22h 50m 8s ;82208

@@ -29,3 +29,15 @@ NPC;-LOCAL;0;0;539;Tella's;Bitcola;15h 9m 48s ;54588.81
 NPC;-QTY;29;-996;264.0265;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;-LOCAL;14;14;242.55;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
 NPC;-LOCAL;0;0;338.3967;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5
+NPC;-LOCAL;45;0;242.55;Holosynth Industries;Rats Of Mortalis;16h 44m 52s ;60292.05
+NPC;-LOCAL;63;63;243.861;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+STOCK;1458;702;123.4341;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;727;685;159.5737;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;724;695;258.9753;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;945;921;136.5229;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;89;51;190.6124;Monarch Society;Solitudes of Frey;20h 46m 52s ;74812.95
+NPC;BAL;855;-603;139.359;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;945;0;149.0717;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;+STOCK;901;901;690.5078;Tella's;Bitcola;22h 36m 19s ;81379.42
+NPC;-LOCAL;0;0;539;Tella's;Bitcola;22h 36m 41s ;81401.38
+NPC;+LOCAL;1000;1079;98.09129;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

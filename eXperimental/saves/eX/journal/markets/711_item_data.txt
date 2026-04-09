@@ -7,3 +7,6 @@ NPC;-QTY;121;-14;27710.7;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;38;15;13018.5;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
 NPC;+QTY;61;23;20145.6;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;BAL;145;-16;25649.23;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;118;20;26909.18;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;37;18;24992.3;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;126;-19;25182.77;Biomate University;Void Starcross;22h 13m 8s ;79988.3

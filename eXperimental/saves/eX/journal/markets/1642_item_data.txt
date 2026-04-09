@@ -13,3 +13,12 @@ NPC;-LOCAL;0;0;250000;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
 NPC;-LOCAL;61;61;112500;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
 NPC;+QTY;32;7;97208.13;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;BAL;50;-8;112893.1;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-LOCAL;0;0;250000;StarGypsy Warehouse;Void Starcross;18h 4m 10s ;65050.88
+NPC;-LOCAL;0;0;250000;StarGypsy Warehouse;Void Starcross;18h 25m 48s ;66348.2
+NPC;-LOCAL;55;55;116157.8;StarGypsy Warehouse;Void Starcross;18h 30m 49s ;66649.07
+NPC;+STOCK;59;9;108746;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;46;8;77292.63;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;65;10;145455.5;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;31;8;120364;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;60;60;112500;StarGypsy Warehouse;Void Starcross;19h 47m 29s ;71249.35
+NPC;BAL;52;-7;101207.1;Biomate University;Void Starcross;22h 13m 8s ;79988.3

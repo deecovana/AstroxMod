@@ -4,3 +4,6 @@ NPC;+LOCAL;150;628;64.23625;Biomart;Veloxi;9h 47m 47s ;35267.4
 NPC;+LOCAL;150;145;64.23625;Biomart;Veloxi;11h 7m 4s ;40024.25
 NPC;+LOCAL;150;1142;64.23625;Transporteers;Hunu;14h 56m 54s ;53814.21
 NPC;-QTY;96;-120;143.2197;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;+STOCK;197;101;133.6753;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;769;144;135.5702;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;659;101;139.1859;Proctors Center;Void Starcross;19h 47m 17s ;71237.8

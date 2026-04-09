@@ -13,3 +13,10 @@ NPC;-QTY;61;-9;62418.3;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;-LOCAL;0;0;140000;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
 NPC;BAL;54;-7;57592.28;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;-LOCAL;0;0;140000;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5
+NPC;-QTY;73;-6;58993.55;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;70;9;60991.21;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;12;11;20314.13;Crystalis Broadcasting;Jermicus;20h 3m 35s ;72215.7
+NPC;+STOCK;16;11;38076.82;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;47;-7;61984.87;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;+STOCK;8;8;179114.5;Tella's;Bitcola;22h 36m 19s ;81379.42
+NPC;-LOCAL;0;0;140000;Tella's;Bitcola;22h 36m 41s ;81401.38

@@ -9,3 +9,6 @@ NPC;-LOCAL;0;0;57500;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
 NPC;+PRICE;3;0;15469.37;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;+QTY;16;11;15396.2;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;+QTY;25;9;15396.2;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;-QTY;0;-3;28063.59;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;-LOCAL;0;0;57500;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+PRICE;5;0;29211.44;Biomart;Veloxi;21h 30m 39s ;77439.77

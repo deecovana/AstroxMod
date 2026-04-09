@@ -7,3 +7,6 @@ NPC;+STOCK;16;10;2078.38;CoraVault Hub;Pindoris;11h 40m 3s ;42003.88
 NPC;-QTY;0;-1;1590.263;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
 NPC;+QTY;37;6;1317.55;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;20;11;2098.8;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;+STOCK;36;11;1467.809;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;45;8;1280.263;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;37;-8;1336.27;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

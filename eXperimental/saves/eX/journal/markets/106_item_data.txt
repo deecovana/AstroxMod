@@ -22,3 +22,18 @@ NPC;-LOCAL;116;0;10.45125;Monarch Society;Solitudes of Frey;15h 18m 12s ;55092.9
 NPC;+QTY;340;130;5.655519;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;135;135;17.41178;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;BAL;879;-176;10.65963;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;250;249;3.01925;Daemon Ammunitions;Starfort Ramos;17h 18m 13s ;62293.6
+NPC;+STOCK;1106;227;10.50533;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;988;245;5.46207;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;602;167;7.436803;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;571;231;5.297347;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;511;222;11.65987;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;658;190;10.53599;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;0;0;23.225;Monarch Society;Solitudes of Frey;20h 43m 22s ;74602.2
+NPC;-LOCAL;0;0;23.225;Monarch Society;Solitudes of Frey;20h 46m 52s ;74812.95
+NPC;-LOCAL;0;0;23.225;Monarch Society;Solitudes of Frey;21h 28m 4s ;77284.81
+NPC;-LOCAL;0;0;23.225;Monarch Society;Solitudes of Frey;22h 5m 5s ;79505.99
+NPC;BAL;953;-153;10.22952;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;444;-127;5.640815;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;17;0;7.271787;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;-LOCAL;0;0;23.225;Monarch Society;Solitudes of Frey;23h 1m 38s ;82898.2

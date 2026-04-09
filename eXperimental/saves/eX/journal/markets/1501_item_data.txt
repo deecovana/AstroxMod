@@ -7,3 +7,5 @@ NPC;+STOCK;36;9;40926.21;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28
 NPC;-PRICE;5;0;31845.06;CoraVault;Lins;14h 47m 2s ;53222.26
 NPC;+QTY;44;8;40688.55;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;-LOCAL;21;21;47945.18;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
+NPC;-QTY;1;-6;45474.98;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;+STOCK;54;10;39970.64;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8

@@ -17,3 +17,12 @@ NPC;+LOCAL;15;5;32500;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323
 NPC;-QTY;39;-7;120461.3;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;120;10;112877.5;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;181;-9;93981.88;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;18;32500;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;-QTY;91;-10;104345.6;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;195;14;90187.02;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;130;10;109961.1;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;95;12;112277;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;12;32500;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;5;72033.38;Monarch Society;Solitudes of Frey;22h 5m 5s ;79505.99
+NPC;BAL;181;-14;94061.51;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;117;-13;101075.6;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

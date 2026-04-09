@@ -9,3 +9,12 @@ NPC;+PRICE;19;0;7153.872;Valuestar Hub;Jelumus;8h 43m 42s ;31422.46
 NPC;-QTY;11;-2;8292.288;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;8;4;4545.8;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;BAL;3;-3;4874.578;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;-QTY;6;-3;5759.163;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;+PRICE;3;0;6239.562;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;-QTY;21;-4;6184.193;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;6;3;4773.255;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;14;3;8044.186;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;37;3;4497.855;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;18;3;7267.438;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;3;-3;5343.182;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;40;-2;4630.506;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

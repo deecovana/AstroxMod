@@ -10,3 +10,11 @@ NPC;-LOCAL;37;37;112500;StarGypsy Warehouse;Void Starcross;8h 32m 1s ;30721.06
 NPC;-LOCAL;3;3;112500;StarGypsy Warehouse;Void Starcross;14h 19m 28s ;51568.39
 NPC;+PRICE;20;0;121096.5;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;-QTY;0;-3;143076.5;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
+NPC;-LOCAL;18;18;116220.5;StarGypsy Warehouse;Void Starcross;18h 4m 10s ;65050.88
+NPC;+PRICE;8;0;65087.95;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;-LOCAL;0;0;189546.6;StarGypsy Warehouse;Void Starcross;18h 25m 48s ;66348.2
+NPC;-LOCAL;0;0;206841.7;StarGypsy Warehouse;Void Starcross;18h 30m 49s ;66649.07
+NPC;-QTY;15;-8;69015.63;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;+STOCK;11;11;256841;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;83;11;110696.6;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;44;44;112500;StarGypsy Warehouse;Void Starcross;19h 47m 29s ;71249.35

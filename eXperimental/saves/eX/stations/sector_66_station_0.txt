@@ -18,7 +18,7 @@ STATION;seed;3-1-0-1-5-2-7-1-1-3-2-6-0-5-5-2-7-90
 STATION;interior_seed;5-1-45-8
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;57427.79
+STATION;last_dock_time;79991.34
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -45,112 +45,111 @@ MERC;8;0.50;npc_ship_data_(transport_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-SELLORDER;Market Supply: (2) Items ;51x338,62x860;252063.00;65675.26
-ITEM;1;90;1.10;8.08
-ITEM;41;8;1.08;57.36
-ITEM;51;47;0.67;61.11
-ITEM;2220;7;0.58;609456.00
-ITEM;2250;4;1.10;1552119.00
-ITEM;61;21;1.18;312.14
-ITEM;2115;22;0.78;429530.30
-ITEM;2121;39;1.02;460841.90
-ITEM;76;51;0.83;374.27
-ITEM;302;3;0.83;40.30
-ITEM;153;58;1.03;15.88
-ITEM;40;37;0.73;17.64
-ITEM;50;38;0.75;30.01
-ITEM;1520;7;1.09;22897.00
-ITEM;1620;5;0.85;27145.50
-ITEM;70;43;0.99;130.61
-ITEM;1750;2;1.00;42194.00
-ITEM;1640;3;0.51;14121.25
-ITEM;1580;3;0.71;21415.80
-ITEM;1510;8;0.52;12646.70
-ITEM;620;3;0.84;6263.95
-ITEM;1630;4;1.15;30121.25
-ITEM;60;15;0.88;105.17
-ITEM;2304;6;0.62;202455.00
-ITEM;2294;6;0.84;268455.00
-ITEM;1615;3;0.72;14722.15
-ITEM;1560;6;0.71;20650.95
-ITEM;1610;5;0.70;12832.45
-ITEM;75;42;0.80;159.84
-ITEM;2339;1;0.56;9222.75
-ITEM;1590;7;0.58;12697.00
-ITEM;2253;9;0.58;152364.00
-ITEM;2200;6;0.50;887760.00
-ITEM;406;9;0.64;0.76
-ITEM;403;7;0.84;0.98
-ITEM;101;9;1.00;1.90
-ITEM;168;47;0.64;18.02
-ITEM;404;5;1.20;1.38
-ITEM;300;8;1.22;126.91
-ITEM;1779;0;1.23;880202.90
-ITEM;1780;0;1.34;924767.50
-ITEM;2324;6;0.95;6391485.00
-ITEM;1480;0;1.26;2050315.00
-ITEM;1778;0;1.27;947444.30
-ITEM;1781;0;1.27;843600.90
-ITEM;301;9;0.86;23.15
-ITEM;2385;3;1.05;3722.24
-ITEM;660;3;1.10;8083.95
-ITEM;151;60;0.93;11.92
-ITEM;735;15;0.83;6636375.00
-ITEM;1001;6;1.23;2826.67
-ITEM;1170;2;0.91;2315.64
-ITEM;1002;1;0.87;1849.70
-ITEM;1052;2;1.09;2518.67
-ITEM;1200;4;1.03;4339.40
-ITEM;2160;2;0.82;17497.00
-ITEM;1160;9;0.61;1462.67
-ITEM;1100;2;0.96;2029.70
-ITEM;1003;7;0.92;2339.64
-ITEM;1050;9;0.77;1649.70
-ITEM;2118;27;1.19;12448.50
-ITEM;1400;4;0.82;3499.40
-ITEM;405;8;0.71;0.84
-ITEM;679;14;0.69;60332.85
-ITEM;2426;9;0.71;25829.75
-ITEM;2279;5;1.14;716910.00
-ITEM;2269;2;1.17;558531.60
-ITEM;2264;4;0.92;397738.80
-ITEM;20;59;0.93;20.68
-ITEM;742;7;0.95;100485.00
-ITEM;747;4;1.19;124485.00
-ITEM;677;15;0.70;33968.25
-ITEM;2428;6;0.60;26759.14
-ITEM;712;2;0.77;59389.20
-ITEM;1460;4;0.70;18871.25
-ITEM;158;32;0.97;24.17
-ITEM;155;68;1.05;19.58
-ITEM;732;14;0.64;10422.75
-ITEM;157;8;0.88;20.04
-ITEM;728;10;0.83;13272.75
-ITEM;150;12;0.85;9.95
-ITEM;407;6;0.71;4.21
-ITEM;103;35;0.62;1.46
-ITEM;2128;11;0.69;1229515.00
-ITEM;2180;7;0.73;2355531.00
-ITEM;600;3;0.51;3953.95
-ITEM;42;49;0.64;79.32
-ITEM;52;21;0.70;143.30
-ITEM;2111;34;1.09;6614264.00
-ITEM;62;25;0.77;469.78
-ITEM;2123;16;1.10;6065490.00
-ITEM;77;38;0.76;773.07
-ITEM;2431;8;0.77;44862.77
-ITEM;726;14;1.21;18972.75
-ITEM;164;62;0.76;13.13
-ITEM;693;19;0.70;3774.25
-ITEM;703;13;0.61;4653.95
-ITEM;720;8;1.13;7109.10
-ITEM;710;8;1.00;8438.80
-ITEM;152;34;0.89;12.58
-ITEM;156;16;0.82;17.05
-ITEM;640;1;0.73;5493.95
-ITEM;2434;5;0.70;35113.36
-ITEM;100;35;1.02;1.61
-ITEM;408;9;0.68;8.89
+ITEM;408;9;0.68;8.78
+ITEM;100;35;1.02;1.60
+ITEM;2434;5;0.70;34670.57
+ITEM;640;1;0.73;5427.32
+ITEM;156;16;0.82;16.87
+ITEM;152;34;0.89;12.45
+ITEM;710;8;1.00;8362.65
+ITEM;720;8;1.13;7051.99
+ITEM;703;13;0.61;4587.32
+ITEM;693;19;0.70;3726.66
+ITEM;164;62;0.76;12.97
+ITEM;726;14;1.21;18829.97
+ITEM;2431;8;0.77;44345.05
+ITEM;77;38;0.76;764.44
+ITEM;2123;16;1.10;6015495.00
+ITEM;62;2100;0.26;173.90
+ITEM;2111;34;1.09;6559270.00
+ITEM;52;2500;0.25;56.07
+ITEM;42;2500;0.25;33.64
+ITEM;600;3;0.51;3887.32
+ITEM;2180;7;0.73;2326963.00
+ITEM;2128;11;0.69;1213803.00
+ITEM;103;35;0.62;1.44
+ITEM;407;6;0.71;4.15
+ITEM;150;12;0.85;9.85
+ITEM;728;10;0.83;13129.97
+ITEM;157;8;0.88;19.84
+ITEM;732;14;0.64;10279.97
+ITEM;155;68;1.05;19.41
+ITEM;158;32;0.97;23.94
+ITEM;1460;4;0.70;18633.28
+ITEM;712;2;0.77;58703.85
+ITEM;2428;6;0.60;26370.17
+ITEM;677;15;0.70;33539.91
+ITEM;747;4;1.19;123533.10
+ITEM;742;7;0.95;99533.13
+ITEM;20;59;0.93;20.48
+ITEM;2264;4;0.92;393855.20
+ITEM;2269;2;1.17;554191.00
+ITEM;2279;5;1.14;711198.80
+ITEM;2426;9;0.71;25508.29
+ITEM;679;14;0.69;59561.83
+ITEM;405;8;0.71;0.83
+ITEM;1400;4;0.82;3461.33
+ITEM;2118;27;1.19;12353.31
+ITEM;1050;9;0.77;1630.66
+ITEM;1003;7;0.92;2316.80
+ITEM;1100;2;0.96;2010.66
+ITEM;1160;9;0.61;1441.73
+ITEM;2160;2;0.82;17306.63
+ITEM;1200;4;1.03;4301.33
+ITEM;1052;2;1.09;2497.73
+ITEM;1002;1;0.87;1830.66
+ITEM;1170;2;0.91;2292.80
+ITEM;1001;6;1.23;2805.73
+ITEM;735;15;0.83;6564984.00
+ITEM;151;60;0.93;11.80
+ITEM;660;3;1.10;8017.32
+ITEM;2385;3;1.05;3690.17
+ITEM;301;9;0.86;22.90
+ITEM;1781;0;1.12;740679.70
+ITEM;1778;0;2.50;1813730.00
+ITEM;1480;17;1.05;1711455.00
+ITEM;2324;6;0.95;6330940.00
+ITEM;1780;0;2.50;1686451.00
+ITEM;1779;12;1.05;753115.50
+ITEM;300;8;1.22;125.96
+ITEM;404;5;1.20;1.37
+ITEM;168;47;0.64;17.78
+ITEM;101;9;1.00;1.88
+ITEM;403;7;0.84;0.97
+ITEM;406;9;0.64;0.75
+ITEM;2200;6;0.50;872530.00
+ITEM;2253;9;0.58;150079.50
+ITEM;1590;7;0.58;12506.63
+ITEM;2339;1;0.56;9079.97
+ITEM;75;42;0.80;158.50
+ITEM;1610;5;0.70;12670.63
+ITEM;1560;6;0.71;20393.94
+ITEM;1615;3;0.72;14541.29
+ITEM;2294;6;0.84;265599.40
+ITEM;2304;6;0.62;199599.40
+ITEM;60;15;0.88;104.10
+ITEM;1630;4;1.15;29883.28
+ITEM;620;3;0.84;6197.32
+ITEM;1510;8;0.52;12437.29
+ITEM;1580;3;0.71;21149.28
+ITEM;1640;3;0.51;13883.28
+ITEM;1750;2;1.00;41813.25
+ITEM;70;43;0.99;129.42
+ITEM;1620;5;0.85;26859.94
+ITEM;1520;7;1.09;22706.63
+ITEM;50;2500;0.25;11.07
+ITEM;40;37;0.73;17.44
+ITEM;153;58;1.03;15.74
+ITEM;302;3;0.83;39.86
+ITEM;76;2500;0.25;124.59
+ITEM;2121;39;1.02;456760.80
+ITEM;2115;22;0.78;424632.90
+ITEM;61;1929;0.26;77.29
+ITEM;2250;4;1.10;1539325.00
+ITEM;2220;7;0.58;600318.00
+ITEM;51;2500;0.25;24.92
+ITEM;41;2247;0.26;15.46
+ITEM;1;90;1.10;8.02
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
@@ -166,10 +165,26 @@ SKILL;36;0.91
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;10;30;278929;DELIVERY#37#2040#sector_16_station_0.txt#sector_60_station_0.txt#null#null#null#null;Dock at Rendo Labs in <color='cyan'>Entropy</color> to deliver a light shipment of <color='yellow'>37</color> <color='yellow'>Fusion Chambers</color>;4;<i>Mase Fonsawweli</i> runs a Financial shipping company at Biomart. After having some issues with a transport ship, <color='yellow'>37</color> items of <color='yellow'>Fusion Chambers</color> were left behind. Head on over to <color='cyan'>Entropy</color> and deliver these <color='yellow'>Fusion Chambers</color> to Rendo Labs.;8300;3000
-MISSION;30;45;610855;TRANSPORT#2#1504#sector_12_station_0.txt#sector_23_station_0.txt#null#null#null#null;Transport a light shipment of <color='yellow'>2</color> <color='yellow'>Prototype Thrusters</color> from Gek Mining in <color='cyan'>Alias Outpost</color> to PharmaLife in <color='cyan'>Carioullis</color>;3;Transport manager <i>Mila Kaddze</i> has requested a transport of a light shipment of <color='yellow'>2</color> <color='yellow'>Prototype Thrusters</color>. They need to be picked up at the storage facility at Gek Mining in <color='cyan'>Alias Outpost</color>, and transported to PharmaLife in <color='cyan'>Carioullis</color>. <i>Mila Kaddze</i> will be waiting at PharmaLife to receive the shipment.;12764;4500
-MISSION;62;45;324790;HARVEST#116#3#sector_38.txt#sector_95_station_0.txt#null#null#null#null;Excavate special <color='yellow'>Special Quazor Ore</color> in <color='cyan'>Equalias Val</color> and return with <color='yellow'>116</color> to Star Shepards Hub in <color='cyan'>Temple Gates</color>;3;<i>Lazo Jancoya</i> has discovered a light deposit of <color='yellow'>Special Quazor Ore</color> in <color='cyan'>Equalias Val</color>. He is currently unable to mine the <color='yellow'>Special Quazor Ore</color>, and has requested a pilot to head over and harvest the <color='yellow'>116</color> <color='yellow'>Special Quazor Ore</color>. Once complete, head over and meet <i>Lazo Jancoya</i> at the Star Shepards Hub station located in the <color='cyan'>Temple Gates</color>.;41194;15505
 MISSION;145;90;395244;REFINE#260#1#sector_2_station_0.txt#sector_65_station_0.txt#null#null#null#null;Dock with Oro Omniplex Center refinery and process a medium shipment of <color='yellow'>260</color> <color='yellow'>Adamyte Ores</color> in <color='cyan'>Merces Academy</color>;3;<i>Foekin Sivbodemi</i> has relocated from CoraVault Hub and requests processing of <color='yellow'>260</color> <color='yellow'>Adamyte Ores</color> to be refined at the new refinery at Oro Omniplex Center. Head on over to <color='cyan'>Merces Academy</color> and process these <color='yellow'>Adamyte Ores</color>.;241271;110788
+MISSION;120;45;363648;CHAT_PILOT#sector_3_station_0.txt#sector_57.txt#Captain Sevfi Beckgot#npc_ship_data_(freighter_7)#22#missions_debt_collection.txt#0#null;Collect a small debt from <color='yellow'><i>Captain Sevfi Beckgot</i></color> in <color='cyan'>Ponze</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;4;<i>Enoam Boyanmast</i> has requested that debt be collected from <color='yellow'><i>Captain Sevfi Beckgot</i></color>. After 3 payments to the Financial faction for transport fines, <color='yellow'><i>Captain Sevfi Beckgot</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Captain Sevfi Beckgot</i></color> was in the vicinity of the <color='cyan'>Ponze</color> system. Have a chat with them, collect the debt, and return to the Daemon Ammunitions in the <color='cyan'>Starfort Ramos</color> system to deliver the payment.;11468;3500
+MISSION;21;120;118054;COLLECT#4#1052#sector_57_station_0.txt#sector_14_station_1.txt#null#null#null#null;Gather a collection of <color='yellow'>4</color> <color='yellow'>Generic Missile Launchers</color> and dock the light shipment at OmniTrust in <color='cyan'>Ponze</color>;3;<i>Binoyit Xayan</i> has requested an small collection of <color='yellow'>4</color> <color='yellow'>Generic Missile Launchers</color> in preparation for an upcoming exploration run. Backed by the Trades after these items have been collected, return to the OmniTrust Station located in the <color='cyan'>Ponze</color> Sector.;19011;4813
+MISSION;131;45;962022;SALVAGE#70#20#sector_35.txt#sector_0_station_4.txt#null#null#null#null;Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Felishar</color> and return with <color='yellow'>70</color> to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;3;While collecting some junk in the <color='cyan'>Felishar</color> system, <i>Kolfoe Hasro</i> discovered a light haul of <color='yellow'>70</color> <color='yellow'>Special Junk Part</color>. Unable to collect the material alone, <i>Kolfoe Hasro</i> has requested that a capable pilot salvage the <color='yellow'>Special Junk Part</color> and drop it off at the Starbase Corporate Center station located in the <color='cyan'>Void Starcross</color>.;19493;7876
+MISSION;61;45;589823;HARVEST#80#10#sector_65.txt#sector_58_station_0.txt#null#null#null#null;Mine special <color='yellow'>Special Zai Ore</color> in <color='cyan'>Pindoris</color> and return with <color='yellow'>80</color> to CoraVault in <color='cyan'>Lins</color>;5;While collecting some junk in the <color='cyan'>Pindoris</color> system, <i>Sihqo Peaei</i> discovered a light haul of <color='yellow'>80</color> <color='yellow'>Special Zai Ore</color>. Unable to collect the material alone, <i>Sihqo Peaei</i> has requested that a capable pilot harvest the <color='yellow'>Special Zai Ore</color> and drop it off at the CoraVault station located in the <color='cyan'>Lins</color>.;16575;1969
+MISSION;116;60;871400;KILL_RAIDERS#sector_0_station_1.txt#sector_2.txt#3#40#npc_ship_data_(ATC_Nomad)#npc_ship_data_(excavation_carrier_5)#npc_ship_data_(transport_utility_1)#random;Eradicate <color='yellow'>3 Raiders</color> level 40 Dangerous Raider(s) in <color='cyan'>Merces Academy</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>;5;A small group of high level raiders have entered the <color='cyan'>Merces Academy</color> sector and locals are alarmed. Head over there are chase these <color='yellow'>3 Raiders</color> raiders away, or destroy their ships. Once you have completed this task, head over to the Lammassu Financial station in the <color='cyan'>Void Starcross</color> system and report to the Commerce reps in charge of this contract for payment.;430485;197470
+MISSION;84;60;652976;RECOVER#66#2038#sector_11.txt#sector_40_station_0.txt#null#null#null#null;Recover a medium shipment <color='yellow'>crate</color> in <color='cyan'>Chamo</color> and bring back to Legistron in <color='cyan'>Dogstar Prime</color>;3;In the <color='cyan'>Chamo</color> sector, a medium shipment of <color='yellow'>Fiber Optic Interfaces</color> have been reported to the local Trade authorities as derelict. <i>Lestim Daear</i> has filed a claim on the crate, and has requested a recovery contract for <color='yellow'>66</color> <color='yellow'>Fiber Optic Interfaces</color> to be delivered Legistron station in <color='cyan'>Dogstar Prime</color>.;140314;52758
+MISSION;142;90;757567;REFINE#7#25#sector_0_station_4.txt#sector_66_station_1.txt#null#null#null#null;Refine <color='yellow'>7</color> <color='yellow'>Module Fragments</color> at Starbase Corporate Center station refinery in <color='cyan'>Void Starcross</color>;3;<i>Vojag Timleiles</i> from Xellon Station has commissioned a refinery run . He has required a small batch of <color='yellow'>7</color> <color='yellow'>Module Fragments</color> to be processed. Set your GPS autopilot to <color='cyan'>Void Starcross</color> and refine these <color='yellow'>Module Fragments</color> to Starbase Corporate Center refinery immediately.;43184;16079
+MISSION;64;45;519672;HARVEST#204#6#sector_62.txt#sector_56_station_1.txt#null#null#null#null;In <color='cyan'>Jelumus</color>, Extract special <color='yellow'>Special Plasite Ore</color> and return to ValueStar in <color='cyan'>Hunu</color> with at least <color='yellow'>204</color>;3;A local company in <color='cyan'>Jelumus</color> has requested a medium harvest of <color='yellow'>204</color> <color='yellow'>Special Plasite Ore</color>. This is a rare find, and the client has requested someone bring the resource back to ValueStar station located in the <color='cyan'>Hunu</color>. A Trade faction representative will be waiting to take the resources from you.;133877;47482
+MISSION;122;45;418794;CHAT_PILOT#sector_0_station_1.txt#sector_57.txt#Major Binco Zafiefast#npc_ship_data_(excavation_escort_1_startship)#20#missions_debt_collection.txt#0#null;Collect a payment from <color='yellow'><i>Major Binco Zafiefast</i></color> in <color='cyan'>Ponze</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>;3;<i>Waxa Xero</i> has requested that debt be collected from <color='yellow'><i>Major Binco Zafiefast</i></color>. After 3 payments to the Trade faction for transport fines, <color='yellow'><i>Major Binco Zafiefast</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Major Binco Zafiefast</i></color> was in the vicinity of the <color='cyan'>Ponze</color> system. Have a chat with them, collect the debt, and return to the Lammassu Financial in the <color='cyan'>Void Starcross</color> system to deliver the payment.;28788;10719
+MISSION;51;30;997877;SCAN_STRUCTURE#sector_56_station_0.txt#sector_78.txt#Office Center#structure_office_1.txt#1#null#null#null;Find the target <color='yellow'>Office Center</color> structure in <color='cyan'>Bitcola</color>, scan, and return to Transporteers in <color='cyan'>Hunu</color>;5;<i>Bintel Buegilla</i> has requested that someone verify the location of <color='yellow'>Office Center</color> in the <color='cyan'>Bitcola</color> sector. After a recent mix-up at the zoning office, the Commerce reps are concerned that construction guidelines were not followed properly. Return to the Transporteers station located in the <color='cyan'>Hunu</color> with the scan data.;18200;7875
+MISSION;146;90;914433;REFINE#158#3#sector_78_station_0.txt#sector_62_station_0.txt#null#null#null#null;Refine a heavy container of <color='yellow'>158</color> <color='yellow'>Quazor Ores</color> at the Tella's refinery in the <color='cyan'>Bitcola</color> system.;3;Dock manager <i>Emiei Ferkaddzeno</i> from the Valuestar Hub Corporation needs a heavy transport refined. <color='yellow'>158</color> units of <color='yellow'>Quazor Ores</color> need moved on over to <color='cyan'>Bitcola</color> and refined at the Tella's Station refinery.;404994;150796
+MISSION;116;60;435772;KILL_RAIDERS#sector_0_station_4.txt#sector_77.txt#3#40#npc_ship_data_(ATC_Hammerhead)#npc_ship_data_(support_utility_3)#npc_ship_data_(transport_escort_3)#random;Eradicate <color='yellow'>3 Raiders</color> level 40 Dangerous Raider(s) in <color='cyan'>Ballast Crow</color> and return to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;4;A small group of high level raiders have entered the <color='cyan'>Ballast Crow</color> sector and locals are alarmed. Head over there are chase these <color='yellow'>3 Raiders</color> raiders away, or destroy their ships. Once you have completed this task, head over to the Starbase Corporate Center station in the <color='cyan'>Void Starcross</color> system and report to the Financial reps in charge of this contract for payment.;477009;157976
+MISSION;123;45;930322;CHAT_PILOT#sector_99_station_0.txt#sector_100.txt#Privateer Ceena Ferbazro#npc_ship_data_(ATC_Arrow_MK2)#15#missions_arrest_escort.txt#0#null;Detain <color='yellow'><i>Privateer Ceena Ferbazro</i></color> in <color='cyan'>Grace</color> and escort them to Ferce Hub in <color='cyan'>Semja</color>;3;<i>Fallsev Casihpei</i> has requested that <color='yellow'><i>Privateer Ceena Ferbazro</i></color> be escorted back into custody. Authorities of the Trade faction has determined guilt opon the accused. <color='yellow'><i>Privateer Ceena Ferbazro</i></color> has refused to cooperate with the courts. Last known sighting of <color='yellow'><i>Privateer Ceena Ferbazro</i></color> was in the vicinity of the <color='cyan'>Grace</color> system. Have a chat with them ann bring them back for further questioning.;71271;26798
+MISSION;10;30;535968;DELIVERY#16#5#sector_2_station_0.txt#sector_18_station_0.txt#null#null#null#null;Dock at Oro Omniplex Center in <color='cyan'>Merces Academy</color> to deliver a light shipment of <color='yellow'>16</color> <color='yellow'>Torim Ores</color>;3;<i>Sivao Wenobor</i> runs a Trade shipping company at Dreamstar. After having some issues with a transport ship, <color='yellow'>16</color> items of <color='yellow'>Torim Ores</color> were left behind. Head on over to <color='cyan'>Merces Academy</color> and deliver these <color='yellow'>Torim Ores</color> to Oro Omniplex Center.;9400;3500
+MISSION;53;30;651330;SCAN_STRUCTURE#sector_13_station_0.txt#sector_62.txt#Office Center#structure_office_1.txt#1#null#null#null;Scan the <color='yellow'>Office Center</color> structure in <color='cyan'>Jelumus</color> and return to Gemini Mining in <color='cyan'>Jala</color>;3;Space rats have infested the <color='yellow'>Office Center</color> structure over in <color='cyan'>Jelumus</color>. <i>Deetad Notuba</i> has been trying to get help with the infestation, but until the structure is scanned, Trade union members are not going to come. Head back to the Gemini Mining station located in the <color='cyan'>Jala</color> with a scan report.;68001;24118
+MISSION;111;60;464432;KILL_RAIDERS#sector_57_station_0.txt#sector_65.txt#1#20#npc_ship_data_(pirate_escort_2)#random#random#random;Kill <color='yellow'>1 Raider</color> level 20 Raider Ship(s) in <color='cyan'>Pindoris</color>. Return to OmniTrust in <color='cyan'>Ponze</color>;3;A medium group of thugs decided to set up camp in the <color='cyan'>Pindoris</color> system. <i>Feised Funuhser</i>, who has recently been elected as Overseer of <color='cyan'>Pindoris</color> by the Trades, has requesting this contract to maintain in good standing with his constituents. Wipe out the level 20 raiders and return to the OmniTrust station.;21139;2407
+MISSION;153;120;798328;FABRICATE#14#2402#sector_99_station_0.txt#sector_58_station_0.txt#null#null#null#null;Produce a medium shipment of <color='yellow'>14</color> <color='yellow'>Titanyte Pipes</color> in <color='cyan'>Semja</color> at the Ferce Hub station fabricator;5;CoraVault Station has contacted our client informing them of some medium cargo that remains missing by a former employee, <i>Counalia Navak</i> of the Commerce Faction. <color='yellow'>14</color> <color='yellow'>Titanyte Pipes</color> production run in <color='cyan'>Semja</color>, at the Ferce Hub fabricator.;105270;28137
+MISSION;17;30;449260;DELIVERY#12#1750#sector_36_station_0.txt#sector_58_station_0.txt#null#null#null#null;Courier A heavy shipment to <color='cyan'>Beacon Spita</color> and dock at Blargg's with delivery of <color='yellow'>12</color> <color='yellow'>Basic Drone Command Bays</color>;3;CoraVault Operator <i>Nuhxe Xadfallyer</i> has requested a heavy cargo delivery to his counterpart at the Trade Transport CO. <color='yellow'>12</color> units of <color='yellow'>Basic Drone Command Bays</color> are commissioned to be delivered. Head on over to <color='cyan'>Beacon Spita</color> and deliver these <color='yellow'>Basic Drone Command Bays</color> to Blargg's.;437306;125663
+MISSION;13;30;388781;DELIVERY#5#1522#sector_56_station_1.txt#sector_12_station_0.txt#null#null#null#null;Take medium shipment of <color='yellow'>5</color> <color='yellow'>Advanced Afterburners</color> and deliver to <color='cyan'>Hunu</color> and dock at ValueStar Station;4;Gek Mining Station has contacted our client informing them of some medium cargo that remains unclaimed by a former employee, <i>Wenne Fastlelris</i> of the Financial Faction. <color='yellow'>5</color> <color='yellow'>Advanced Afterburners</color> need to be delivered to <color='cyan'>Hunu</color>, ValueStar Station.;49307;16079
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -183,4 +198,6 @@ SHIP;7;1.08;ship_data_(pirate_cruiser_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
+
 

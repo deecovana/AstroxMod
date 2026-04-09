@@ -9,3 +9,8 @@ NPC;-PRICE;33;0;23420.16;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
 NPC;-LOCAL;40;40;28125;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
 NPC;+QTY;14;6;28371.25;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
 NPC;+QTY;27;8;25735;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;-QTY;0;-7;17568.44;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;-LOCAL;46;46;29348.27;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+STOCK;57;11;35814.07;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+PRICE;25;0;28229.11;Spacebook;Phistatisia;21h 30m 39s ;77439.77
+NPC;BAL;4;0;19425.58;Blissheads;Estura Cove;22h 13m 8s ;79988.3

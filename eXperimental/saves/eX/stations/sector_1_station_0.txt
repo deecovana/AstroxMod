@@ -41,7 +41,7 @@ MERC;1;1.13;npc_ship_data_(battle_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-SELLORDER;Market Inventory: (1) Items ;61x198;43117;119836.20
+SELLORDER;Market Stock: (1) Items ;52x552;30535;95000.92
 ITEM;1014;12;0.67
 ITEM;1002;3;0.88
 ITEM;1001;11;0.85

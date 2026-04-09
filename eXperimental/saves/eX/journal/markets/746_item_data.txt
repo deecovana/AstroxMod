@@ -17,3 +17,14 @@ NPC;+STOCK;134;10;42119.85;Biomate University;Void Starcross;13h 56m 14s ;50174.
 NPC;+LOCAL;15;99;14625;Starbase Corporate Center;Void Starcross;14h 37m 22s ;52642.46
 NPC;+LOCAL;15;5;14625;Starbase Corporate Center;Void Starcross;15h 5m 23s ;54323.49
 NPC;BAL;111;-13;44532.94;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;15;6;14625;Starbase Corporate Center;Void Starcross;17h 8m 13s ;61693.48
+NPC;+STOCK;20;11;47022.87;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;-QTY;0;-3;47694.66;PharmaLife;Carioullis;18h 52m 57s ;67977.59
+NPC;-QTY;17;-9;40623.19;Tella's;Bitcola;18h 54m 42s ;68082.57
+NPC;+LOCAL;15;14;14625;Starbase Corporate Center;Void Starcross;18h 58m 49s ;68329.49
+NPC;+STOCK;125;14;42292.09;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;62;13;50614.91;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;27;12;15443.44;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;15;9;14625;Starbase Corporate Center;Void Starcross;20h 52m 23s ;75143.21
+NPC;+LOCAL;15;4;14625;Starbase Corporate Center;Void Starcross;21h 12m 58s ;76378.03
+NPC;BAL;115;-10;43132.12;Biomate University;Void Starcross;22h 13m 8s ;79988.3

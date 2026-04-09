@@ -11,3 +11,11 @@ NPC;+STOCK;29;3;37914.84;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;-QTY;30;-3;47068.04;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;BAL;23;-3;37505.07;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 PLAYER;+QTY;17;1;31991.3;Lacuna Bandits;Ballast Crow;16h 31m 43s ;59503.56
+NPC;+STOCK;4;3;25519.73;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;33;3;45639.39;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;34;4;25347.76;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;40;4;48762.3;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;49;3;48114.02;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;21;-2;40860.43;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;30;-4;27443.61;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;8;-4;40564.86;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

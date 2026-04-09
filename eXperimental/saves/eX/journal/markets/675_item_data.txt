@@ -28,3 +28,26 @@ NPC;-QTY;29;-19;55869.07;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;41;16;18293.85;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;37;13;58827.6;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;+QTY;50;13;58827.6;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
+NPC;+LOCAL;25;44;17550;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;-LOCAL;0;0;69563.99;Crystalis Broadcasting;Jermicus;17h 15m 50s ;62150.7
+NPC;-LOCAL;23;23;60750;Daemon Ammunitions;Starfort Ramos;17h 18m 13s ;62293.6
+NPC;+LOCAL;25;15;17550;Lammassu Financial;Void Starcross;18h 11m 12s ;65472.14
+NPC;-LOCAL;0;0;108010.9;Crystalis Broadcasting;Jermicus;18h 28m 24s ;66504.64
+NPC;+LOCAL;25;43;17550;Xellon;Ele;18h 34m 55s ;66895.14
+NPC;+LOCAL;25;4;17550;Xellon;Ele;18h 46m 13s ;67573.88
+NPC;-LOCAL;0;0;126765.4;Crystalis Broadcasting;Jermicus;19h 4m 13s ;68653.3
+NPC;-LOCAL;0;0;127034.2;Crystalis Broadcasting;Jermicus;19h 7m 21s ;68841.83
+NPC;+LOCAL;25;76;17550;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+LOCAL;25;94;17550;StarShepards Headquarters;Void Starcross;19h 44m 44s ;71084.94
+NPC;+STOCK;106;16;43287.79;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;49;24;15846.64;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;51;22;55140.2;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;48;23;18482.34;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;99;19;66048.41;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;43;18;18260.44;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;25;19;17550;Lammassu Financial;Void Starcross;19h 48m 54s ;71334.89
+NPC;-LOCAL;17;17;60750;Crystalis Broadcasting;Jermicus;20h 3m 35s ;72215.7
+NPC;+PRICE;18;0;66505.52;Horizons;Gate of Alpharis;21h 30m 39s ;77439.77
+NPC;BAL;84;-22;47110.12;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;36;-12;21652.81;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;56;-18;57433.08;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

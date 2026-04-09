@@ -25,3 +25,19 @@ NPC;+QTY;4786;2212;192.0687;StarShepards Headquarters;Void Starcross;15h 31m 43s
 NPC;-LOCAL;62;0;284.7712;Xellon;Ele;15h 52m 50s ;57170.69
 NPC;+LOCAL;21;5;317.2411;Communications Hub;Ele;15h 55m 44s ;57344.79
 NPC;BAL;2147;0;291.929;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+LOCAL;1929;1908;84.54607;Communications Hub;Ele;16h 59m 36s ;61176.28
+NPC;-LOCAL;0;0;632.825;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;-LOCAL;7;7;284.7712;Lammassu Financial;Void Starcross;18h 11m 12s ;65472.14
+NPC;-LOCAL;0;0;632.825;Xellon;Ele;18h 34m 55s ;66895.14
+NPC;-LOCAL;17;17;284.7712;Xellon;Ele;18h 46m 13s ;67573.88
+NPC;-LOCAL;0;0;293.2517;Xellon;Ele;18h 51m 9s ;67869.42
+NPC;-QTY;0;-125;281.8492;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;4233;2086;278.1604;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;2345;2338;342.0809;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;7020;2234;186.875;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4376;2207;213.2272;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;29;29;284.7712;Lammassu Financial;Void Starcross;19h 48m 54s ;71334.89
+NPC;BAL;2647;-1586;268.7801;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;4616;-2404;210.1509;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;157;0;316.1755;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3
+NPC;-LOCAL;0;0;392.3247;Xellon;Ele;22h 50m 8s ;82208

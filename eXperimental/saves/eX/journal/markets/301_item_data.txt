@@ -16,3 +16,12 @@ NPC;+QTY;656;651;28.2057;CoraVault;Lins;15h 31m 43s ;55903.28
 NPC;+QTY;858;858;20.71501;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+QTY;558;554;20.6157;Transporteers Hub;Ambervellis Drea;15h 54m 31s ;57271.5
 NPC;BAL;988;0;18.17666;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;844;828;28.26948;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;-QTY;0;-6;28.40526;Tella's;Bitcola;18h 54m 42s ;68082.57
+NPC;+STOCK;1879;891;17.11201;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;865;855;13.16406;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;1682;826;19.42484;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;724;724;39.44199;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;-LOCAL;0;0;63.25;Rendo Labs;Entropy;21h 34m 32s ;77672.16
+NPC;BAL;932;-947;18.94473;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;858;0;22.36866;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

@@ -3,3 +3,6 @@ NPC;+STOCK;84;8;32376.29;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;-LOCAL;27;0;56250;Imperium Republica ;Gate of Alpharis;15h 25m 53s ;55553.39
 NPC;+QTY;27;6;47104.06;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;-PRICE;12;0;49810.45;Biomart;Veloxi;16h 31m 13s ;59473.96
+NPC;+STOCK;87;11;32608.08;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;16;9;45798.73;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;76;-11;35309.37;Biomate University;Void Starcross;22h 13m 8s ;79988.3

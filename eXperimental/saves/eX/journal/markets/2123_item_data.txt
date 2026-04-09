@@ -11,3 +11,12 @@ NPC;-QTY;108;-2;5066326;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;-QTY;0;99;5118848;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;38;1;5578251;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;207;1;4247839;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;+STOCK;490;2;2872644;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;0;99;5036589;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;110;2;4963954;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;209;2;4199579;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;459;2;6670000;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;80;2;2947451;Rendo Labs;Entropy;21h 34m 29s ;77669.09
+NPC;BAL;489;-1;3246285;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;207;-2;4554348;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;111;-2;3993059;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

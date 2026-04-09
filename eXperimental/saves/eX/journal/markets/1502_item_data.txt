@@ -1,3 +1,4 @@
 NPC;-PRICE;22;0;105541.5;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
 NPC;+QTY;31;9;105174.8;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;-LOCAL;2;2;94500;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
+NPC;-QTY;0;-3;56270.02;PharmaLife;Carioullis;18h 52m 57s ;67977.59

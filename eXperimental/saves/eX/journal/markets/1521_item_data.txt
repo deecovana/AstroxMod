@@ -8,3 +8,9 @@ NPC;+QTY;14;9;40897.5;Horizons;Gate of Alpharis;15h 31m 43s ;55903.28
 NPC;+QTY;10;9;46083.25;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
 NPC;+QTY;60;9;43151;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;-LOCAL;3;3;45000;Oro Omniplex Center;Merces Academy;16h 25m 58s ;59158.07
+NPC;+PRICE;3;0;59018.36;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;-QTY;0;-2;25606.25;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;+STOCK;19;8;43988.45;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;39;11;50484.18;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;68;8;42720.52;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;14;9;29745.78;Rendo Labs;Entropy;21h 34m 29s ;77669.09

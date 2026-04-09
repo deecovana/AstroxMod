@@ -1,3 +1,7 @@
 NPC;+STOCK;400;2;5958196;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;-QTY;10;-1;6898932;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;-QTY;36;-1;5389572;Transporteers Hub;Ambervellis Drea;15h 18m 9s ;55089.98
+NPC;+STOCK;17;2;4600092;Xellon;Ele;18h 50m 39s ;67839.91
+NPC;+STOCK;253;2;6707258;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;12;2;6784678;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;43;2;4597859;Proctors Center;Void Starcross;19h 47m 17s ;71237.8

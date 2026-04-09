@@ -4,7 +4,7 @@ SECTOR;name;Crellara
 SECTOR;level;5.2
 SECTOR;faction;Alpha
 SECTOR;filename;sector_19.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;25
 SECTOR;population;25
 SECTOR;habitation;20
@@ -14,7 +14,7 @@ SECTOR;production;22
 SECTOR;defense;25
 SECTOR;environment;25
 SECTOR;wormhole_type;
-SECTOR;event_type;war#45956#16#6
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;845;216;1345
@@ -84,7 +84,7 @@ RESOURCE;5;-6320.0;-1164.0;1321.0;1000;1000
 RESOURCE;5;-5133.0;2253.0;2676.0;1000;1000
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_16.txt;2;4055;292;-3913;0;Alpha;2918
+WARPGATE;1;sector_16.txt;2;4055;292;-3913;0;Alpha;2918;prescan
 WARPGATE;2;sector_24.txt;1;4305;-150;-461;0;Alpha;0.7
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12

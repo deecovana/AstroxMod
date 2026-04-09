@@ -11,3 +11,9 @@ NPC;+STOCK;11;11;545055.9;Tella's;Bitcola;15h 8m 58s ;54538.96
 NPC;-LOCAL;23;23;240096;Tella's;Bitcola;15h 9m 48s ;54588.81
 NPC;-LOCAL;0;0;520000;Lacuna Bandits;Ballast Crow;15h 46m 24s ;56784.17
 NPC;-LOCAL;0;0;520000;Lacuna Bandits;Ballast Crow;16h 31m 41s ;59501.5
+NPC;+LOCAL;12;14;83497.38;Crystalis Broadcasting;Jermicus;18h 28m 24s ;66504.64
+NPC;+STOCK;35;10;237129.9;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;37;8;167804.2;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+LOCAL;12;9;67600;Crystalis Broadcasting;Jermicus;20h 3m 35s ;72215.7
+NPC;+PRICE;24;0;237716.5;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;-LOCAL;0;0;520000;Tella's;Bitcola;22h 36m 41s ;81401.38

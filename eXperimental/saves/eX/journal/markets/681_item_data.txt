@@ -5,3 +5,7 @@ NPC;+LOCAL;25;5;64727.56;Star Shepards Hub;Temple Gates;13h 29m 50s ;48590.18
 NPC;+STOCK;58;16;47414.36;Biomate University;Void Starcross;13h 56m 14s ;50174.25
 NPC;+QTY;45;20;65561.4;Star Shepards Hub;Temple Gates;15h 54m 31s ;57271.5
 NPC;BAL;29;-13;53763.35;Biomate University;Void Starcross;16h 10m 6s ;58206.41
+NPC;+STOCK;51;22;49759.61;Biomate University;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;133;21;63317.87;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;119;19;100393.2;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;51;-12;61038.94;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

@@ -14,3 +14,12 @@ NPC;+PRICE;10;0;19801.69;SimKitten;Kolkax Prime;14h 51m 18s ;53478.49
 NPC;-QTY;33;-3;22394.4;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;27;4;25270.58;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;+STOCK;5;4;13640.63;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;-QTY;5;-4;17582.51;Vita Assembly;Capital Void;18h 54m 42s ;68082.57
+NPC;-QTY;24;-2;18510.78;ValueStar;Hunu;19h 42m 52s ;70972.37
+NPC;+STOCK;36;3;21727.93;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;30;3;24732.25;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;7;3;20485.46;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;55;4;13125.84;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;37;-4;20089.11;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;28;-2;22785.78;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;7;-2;24953.34;Astrox Security Patrol;Felishar;22h 13m 8s ;79988.3

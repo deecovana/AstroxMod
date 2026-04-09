@@ -19,3 +19,19 @@ NPC;-QTY;0;-250;630.8635;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
 NPC;+QTY;4048;1821;577.8614;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;BAL;266;0;955.225;Biomate University;Void Starcross;16h 10m 6s ;58206.41
 NPC;+STOCK;1919;1805;1171.768;CoraVault;Lins;16h 37m 57s ;59877.96
+NPC;-LOCAL;0;0;2373.05;Lammassu Financial;Void Starcross;17h 5m 46s ;61546.43
+NPC;+PRICE;21;0;810.7527;Oro Omniplex Center;Merces Academy;18h 10m 58s ;65458.34
+NPC;-LOCAL;71;71;1067.872;Lammassu Financial;Void Starcross;18h 11m 12s ;65472.14
+NPC;-LOCAL;23;23;1067.872;Xellon;Ele;18h 34m 55s ;66895.14
+NPC;-LOCAL;5;0;1067.872;Xellon;Ele;18h 46m 13s ;67573.88
+NPC;-LOCAL;0;0;1099.674;Xellon;Ele;18h 51m 9s ;67869.42
+NPC;+STOCK;2029;2029;583.4721;StarGypsy Warehouse;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;6464;2416;563.3652;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;2357;2337;880.2479;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;4210;1805;1185.679;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;-LOCAL;10;10;1067.872;Lammassu Financial;Void Starcross;19h 48m 54s ;71334.89
+NPC;+PRICE;253;0;722.0252;Transporteers;Hunu;21h 30m 39s ;77439.77
+NPC;+PRICE;25;0;1064.655;Biomart;Veloxi;21h 30m 39s ;77439.77
+NPC;BAL;266;0;987.4287;Biomate University;Void Starcross;22h 13m 8s ;79988.3
+NPC;BAL;4196;-2268;627.5633;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
+NPC;-LOCAL;0;0;1471.191;Xellon;Ele;22h 50m 8s ;82208

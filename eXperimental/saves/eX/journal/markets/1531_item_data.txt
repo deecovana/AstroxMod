@@ -16,3 +16,8 @@ NPC;-LOCAL;0;0;125000;Blargg's;Beacon Spita;14h 47m 4s ;53224.33
 NPC;+STOCK;12;10;55682.76;Tella's;Bitcola;15h 8m 58s ;54538.96
 NPC;+QTY;47;10;36438.75;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
 NPC;-PRICE;9;0;32796.95;Scrapdogs;Gemini Els;16h 31m 13s ;59473.96
+NPC;-LOCAL;0;0;125000;Proctors Center;Void Starcross;19h 40m 55s ;70855.4
+NPC;+STOCK;57;10;35772.5;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;74;9;56201.59;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;+STOCK;10;10;160999.8;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;46;-11;37439.23;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

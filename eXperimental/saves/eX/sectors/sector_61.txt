@@ -88,3 +88,5 @@ NPC_SHIP;npc_ship_data_(pirate_shuttle_1);-1637;-2616;74;7;1
 NPC_SHIP;npc_ship_data_(excavation_utility_1);-1246;-1088;-1010;11;1
 
 // CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty
+CRATE;Ship Loot (592);Unknown;Ship Crate;1000;86.76146;300;0;1728.39;-313.19;-3147.89;True;;0;0;
+CRATE;AHBC-10 Tsunami  Crate (171);Ensign Resero Nortiswhafar;Battlecruiser;1000;289.5433;300;0;1730.06;-323.33;-3147.34;False;;0;0;

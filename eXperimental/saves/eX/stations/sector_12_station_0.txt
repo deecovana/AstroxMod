@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-1-1-2-6-3-4-1-2-0-2-0-90
 STATION;interior_seed;5-2-0-7
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;74018.47
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;False
@@ -250,6 +253,8 @@ SKILL;32;0.52
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;31;45;444605;TRANSPORT#113#114#sector_61_station_0.txt#sector_14_station_0.txt#null#null#null#null;Head to Transporteers Hub in <color='cyan'>Ambervellis Drea</color>, pick up <color='yellow'>113</color> <color='yellow'>Salt Crystals</color> for a light shipment to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>;12;The Labor faction advisor <i>Foujid Timemimes</i> has placed a light shipment transport order to move <color='yellow'>113</color> <color='yellow'>Salt Crystals</color> from the Transporteers Hub storage in <color='cyan'>Ambervellis Drea</color>, to the Imperium Republica  in <color='cyan'>Gate of Alpharis</color>.;17130;4923
+MISSION;60;45;659223;HARVEST#51#5#sector_63.txt#sector_40_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Numbu</color> and return with <color='yellow'>51</color> ore to Legistron in <color='cyan'>Dogstar Prime</color>;12;A local prospector, <i>Donostra Yaenoto</i> of the Labor faction has located a light quantity of special <color='yellow'>Special Torim Ore</color> in the <color='cyan'>Numbu</color> sector. Head over there and harvest all of the special <color='yellow'>Special Torim Ore</color>, and meet <i>Donostra Yaenoto</i> back at Legistron station located in the <color='cyan'>Dogstar Prime</color>.;17917;5063
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -261,3 +266,4 @@ SHIP;5;0.99;ship_data_(excavation_shuttle_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

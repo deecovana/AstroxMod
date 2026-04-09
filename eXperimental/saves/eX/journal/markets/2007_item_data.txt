@@ -5,3 +5,6 @@ NPC;+STOCK;855;123;475.2224;StarShepards Headquarters;Void Starcross;7h 47m 19s 
 NPC;+STOCK;305;121;633.5063;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
 NPC;+STOCK;570;111;332.8392;Valuestar Hub;Jelumus;9h 35m 31s ;34531.46
 NPC;+QTY;953;98;472.9349;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
+NPC;-QTY;0;-48;415.6971;Tella's;Bitcola;18h 3m 42s ;65022.39
+NPC;+STOCK;1056;103;454.0568;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
+NPC;BAL;972;-84;466.6302;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3
