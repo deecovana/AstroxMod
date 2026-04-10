@@ -1,8 +1,0 @@
-NPC;+STOCK;6;2;2278.911;Star Shepards Hub;Temple Gates;0h 57m 57s ;3477.823
-NPC;+STOCK;5;2;2195.283;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
-NPC;+PRICE;64;0;3438.633;Janca Refinery;Canndelis;4h 11m 12s ;15072.39
-NPC;+STOCK;7;2;2151.094;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
-NPC;+QTY;40;2;3006.675;Star Shepard's Temple;Lightless;4h 50m 45s ;17445.84
-NPC;+STOCK;9;2;1885.244;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
-NPC;+QTY;11;2;1865.325;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
-NPC;-QTY;9;-2;1836.525;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89

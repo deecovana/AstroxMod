@@ -3,7 +3,7 @@ Worship Center
 Temple Of the Void
 Temple
 [c:lime]Dock fee 25[/c]
-Timestamp: 4048.766
+Timestamp: 4035.699
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -378,41 +378,23 @@ Merc Negotiations
 
 
 <Station Missions>
-[c:lime]SALVAGE[/c]
-Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Felishar</color> and return with <color='yellow'>70</color> to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
-
-[c:lime]FABRICATE[/c]
-Produce a light container of <color='yellow'>5</color> <color='yellow'>Antenna Arrays</color> at the Lammassu Financial fabricator in <color='cyan'>Void Starcross</color>
-
-[c:lime]REFINE[/c]
-Dock at the Transporteers station refinery in <color='cyan'>Hunu</color> and process a light shipment of <color='yellow'>3</color> <color='yellow'>Weapons Components</color>
-
-[c:lime]KILL[/c]
-Assassinate in-experienced <color='yellow'><i>Professor Zaesa Imesta</i></color> in <color='cyan'>Ballast Crow</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>
-
 [c:lime]TRANSPORT[/c]
-Transport a light shipment of <color='yellow'>28</color> <color='yellow'>Lidar Systems</color> from Starbase Corporate Center in <color='cyan'>Void Starcross</color> to Star Shepards Hub in <color='cyan'>Temple Gates</color>
-
-[c:lime]FABRICATE[/c]
-Produce a light container of <color='yellow'>6</color> <color='yellow'>Basic Sensors</color> at the Astrox Security Patrol fabricator in <color='cyan'>Felishar</color>
+Transport a light shipment of <color='yellow'>131</color> <color='yellow'>Anti-Freezes</color> from Transporteers in <color='cyan'>Hunu</color> to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
 
 [c:lime]SCAN[/c]
-Locate and scan <color='yellow'><i>Leader Venalia Mafe</i></color> in <color='cyan'>Hunu</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+Locate and scan <color='yellow'><i>Privateer Ciecoo Telpave</i></color> in <color='cyan'>Starfort Ramos</color> and return to Star Shepards Hub in <color='cyan'>Temple Gates</color>
 
-[c:lime]RECOVER[/c]
-Recover a light quantity of <color='yellow'>1</color> <color='yellow'>Premium Turn Thrust</color> in <color='cyan'>Felishar</color>, and return to Acrondia Hub in <color='cyan'>Temple Gates</color>
-
-[c:lime]COLLECT[/c]
-Collect a light shipment of <color='yellow'>Light Shield Rechargers</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>
+[c:lime]REFINE[/c]
+Dock at the Tella's station refinery in <color='cyan'>Bitcola</color> and process a light shipment of <color='yellow'>4</color> <color='yellow'>Electronic Fragments</color>
 
 [c:lime]COLLECT[/c]
-Gather a collection of <color='yellow'>2</color> <color='yellow'>Improved Thrusters</color> and dock the light shipment at Gemini Mining in <color='cyan'>Jala</color>
+Gather a collection of <color='yellow'>1</color> <color='yellow'>Premium Cargo Expansion</color> and dock the light shipment at StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
 
-[c:lime]TRANSPORT[/c]
-Transport a light shipment of <color='yellow'>139</color> <color='yellow'>Thermal Insulations</color> from Horizons in <color='cyan'>Gate of Alpharis</color> to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
+[c:lime]REFINE[/c]
+Dock at the StarGypsy Warehouse station refinery in <color='cyan'>Void Starcross</color> and process a light shipment of <color='yellow'>12</color> <color='yellow'>Undamaged Parts</color>
 
-[c:lime]KILL RAIDERS[/c]
-Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Felishar</color> and return to Star Shepards Hub in <color='cyan'>Temple Gates</color>
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Gate of Alpharis</color> and return with <color='yellow'>68</color> to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
 
 
 

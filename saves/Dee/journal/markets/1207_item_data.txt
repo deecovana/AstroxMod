@@ -1,8 +1,0 @@
-NPC;+QTY;59;11;548883.1;Foodmaid;Daelus;0h 50m 9s ;3009.769
-NPC;+STOCK;57;9;563499.1;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
-NPC;-QTY;47;-10;566148.1;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
-NPC;BAL;39;-8;509337.3;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
-NPC;+STOCK;48;9;497485;Starbase Corporate Center;Void Starcross;12h 16m 20s ;44180.46
-NPC;+QTY;15;10;376269.1;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
-NPC;+QTY;23;8;376269.1;Astrox Security Patrol;Kilotorish;12h 33m 5s ;45185.51
-NPC;+STOCK;50;11;497426.3;Starbase Corporate Center;Void Starcross;23h 4m 29s ;83069.7

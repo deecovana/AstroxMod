@@ -43,6 +43,7 @@ MERC;15;1.47;npc_ship_data_(transport_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Out of Stock: (1) Items ;41x85;8235;57409.70
 BUYORDER;Market Demands: (1) Items ;50x133;12806.00;80038.16
 ITEM;2000;558;0.89;18.35
 ITEM;1;347;1.04;7.72

@@ -1,8 +1,0 @@
-NPC;-PRICE;32;0;335838.3;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
-NPC;+STOCK;51;10;218531.5;Proctors Center;Void Starcross;2h 26m 24s ;8784.133
-NPC;+QTY;39;7;334656;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
-NPC;+STOCK;62;11;205402;Proctors Center;Void Starcross;4h 12m 27s ;15147.92
-NPC;+STOCK;71;9;183078.2;Proctors Center;Void Starcross;12h 16m 20s ;44180.46
-NPC;-PRICE;71;0;171126.3;Proctors Center;Void Starcross;12h 34m 48s ;45288.88
-NPC;+STOCK;80;9;156333.8;Proctors Center;Void Starcross;14h 1m 15s ;50475.31
-NPC;+STOCK;91;11;135698.4;Proctors Center;Void Starcross;23h 4m 29s ;83069.7

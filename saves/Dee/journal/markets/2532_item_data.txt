@@ -1,7 +1,0 @@
-NPC;+STOCK;14;2;78255.43;Starbase Corporate Center;Void Starcross;2h 26m 24s ;8784.133
-NPC;+STOCK;16;2;74576.3;Starbase Corporate Center;Void Starcross;4h 12m 27s ;15147.92
-NPC;-QTY;8;-2;41310;Scrapdogs;Gemini Els;4h 19m 24s ;15564.41
-NPC;-QTY;13;-1;78030.01;Starbase Corporate Center;Void Starcross;4h 19m 24s ;15564.41
-NPC;BAL;11;-2;77063.8;Starbase Corporate Center;Void Starcross;4h 40m 21s ;16821.04
-NPC;+STOCK;13;2;74839.12;Starbase Corporate Center;Void Starcross;14h 1m 15s ;50475.31
-NPC;+PRICE;8;0;81043.7;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68

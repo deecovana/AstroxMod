@@ -1,6 +1,0 @@
-NPC;+STOCK;99;11;17039.97;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
-NPC;+STOCK;107;8;16604.84;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
-NPC;+QTY;116;9;16529.55;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
-NPC;+STOCK;125;9;16011.51;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
-NPC;-QTY;117;-8;16011.23;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
-NPC;BAL;27;-9;9176.918;Oak Industries;Dorando Corridor;18h 20m 20s ;66020.74

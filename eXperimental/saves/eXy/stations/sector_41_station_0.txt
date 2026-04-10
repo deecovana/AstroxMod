@@ -39,6 +39,7 @@ MERC;4;0.69;npc_ship_data_(pirate_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Items Req: (4) Items ;301x213,301x286,300x179,301x57;60167;66548.70
 ITEM;1121;9;1.22
 ITEM;1019;15;0.95
 ITEM;1008;6;0.97

@@ -1,8 +1,0 @@
-NPC;+STOCK;93;11;456273.3;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
-NPC;+STOCK;101;8;407557.5;StarShepards Headquarters;Void Starcross;4h 12m 27s ;15147.92
-NPC;+STOCK;112;11;363162.6;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
-NPC;+QTY;121;9;357986.9;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
-NPC;+STOCK;131;10;303531.1;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
-NPC;-QTY;124;-7;306399.8;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
-NPC;+STOCK;133;9;265710.2;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7
-NPC;-PRICE;75;0;664040.5;Medicore University;Cliffs of Drameria;23h 28m 40s ;84520.21

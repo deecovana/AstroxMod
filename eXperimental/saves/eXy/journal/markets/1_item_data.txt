@@ -4,3 +4,5 @@ NPC;-LOCAL;0;0;11.00249;Starbase Corporate Center;Void Starcross;0h 34m 44s ;208
 NPC;-LOCAL;20;20;7.875;Starbase Corporate Center;Void Starcross;0h 57m 46s ;3466.521
 PLAYER;+QTY;518;498;10.00781;Starbase Corporate Center;Void Starcross;0h 57m 52s ;3472.588
 PLAYER;+QTY;912;336;8.087625;StarShepards Headquarters;Void Starcross;1h 7m 28s ;4048.766
+NPC;+QTY;3390;3358;8.35625;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+QTY;3280;3278;6.67625;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768

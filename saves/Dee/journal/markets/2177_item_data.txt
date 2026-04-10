@@ -1,8 +1,0 @@
-NPC;-PRICE;33;0;519556.8;Mass Market;Dorando Corridor;0h 0m 23s ;23.44398
-NPC;+STOCK;48;2;667480.3;StarShepards Headquarters;Void Starcross;2h 26m 24s ;8784.133
-NPC;+QTY;35;2;521595;Mass Market;Dorando Corridor;2h 36m 11s ;9371.667
-NPC;+STOCK;50;2;635321.8;StarShepards Headquarters;Void Starcross;12h 16m 20s ;44180.46
-NPC;+QTY;52;2;640250.3;StarShepards Headquarters;Void Starcross;12h 51m 8s ;46268.94
-NPC;+STOCK;54;2;615612.4;StarShepards Headquarters;Void Starcross;14h 1m 15s ;50475.31
-NPC;-QTY;53;-1;610341.6;StarShepards Headquarters;Void Starcross;15h 52m 52s ;57172.89
-NPC;+STOCK;55;2;572626.6;StarShepards Headquarters;Void Starcross;23h 4m 29s ;83069.7

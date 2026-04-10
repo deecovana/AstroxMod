@@ -1,8 +1,0 @@
-NPC;+PRICE;30;0;27319.75;Astrox Security Patrol;Felishar;2h 34m 4s ;9244.389
-NPC;-PRICE;7;0;49809.62;Oro Omniplex Center;Merces Academy;4h 29m 47s ;16187.74
-NPC;+STOCK;21;2;62785.24;Horizons;Gate of Alpharis;9h 25m 28s ;33928.45
-NPC;-QTY;29;-1;27161.33;Astrox Security Patrol;Felishar;9h 48m 4s ;35284.71
-NPC;+PRICE;7;0;52593.3;Oro Omniplex Center;Merces Academy;11h 29m 25s ;41365.69
-NPC;+PRICE;19;0;68369.16;Horizons;Gate of Alpharis;15h 8m 41s ;54521.68
-NPC;+STOCK;21;2;67234.12;Horizons;Gate of Alpharis;16h 33m 52s ;59632.26
-NPC;BAL;27;-2;30007.97;Astrox Security Patrol;Felishar;23h 46m 31s ;85591.75
