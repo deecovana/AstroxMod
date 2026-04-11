@@ -3,7 +3,7 @@ Market Center
 Bosadjan Wagen
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 20526.08
+Timestamp: 20531.15
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -331,9 +331,6 @@ Beam Energy Optimization
 
 
 <Station Missions>
-[c:lime]DELIVERY[/c]
-Dock at Lacuna Bandits in <color='cyan'>Ballast Crow</color> to deliver a light shipment of <color='yellow'>1</color> <color='yellow'>Premium Torpedo Launcher</color>
-
 [c:lime]KILL RAIDERS[/c]
 Kill <color='yellow'>1 Raider</color> level 20 Raider Ship(s) in <color='cyan'>Jala</color>. Return to Crystalis Broadcasting in <color='cyan'>Jermicus</color>
 
@@ -390,6 +387,9 @@ Produce a light container of <color='yellow'>5</color> <color='yellow'>Reinforce
 
 [c:lime]TRANSPORT[/c]
 Transport a light shipment of <color='yellow'>5</color> <color='yellow'>Basic Heavy Lasers</color> from CoraVault in <color='cyan'>Lins</color> to The Dunes in <color='cyan'>The Dunes of Caliph</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Junk Part</color> in <color='cyan'>Entropy</color> and return with <color='yellow'>53</color> to Medicore University in <color='cyan'>Cliffs of Drameria</color>
 
 
 

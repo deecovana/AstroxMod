@@ -1,7 +1,7 @@
 // CONFIG DATA FILE FOR ASTROX IMPERIUM
 // eXperimental 1600@60 modified values ~1.5x
 
-OPTION_ui_scale;0.99
+OPTION_ui_scale;0.75
 OPTION_music_vol;0.75
 OPTION_sfx_vol;0.75
 OPTION_ui_vol;1.25
