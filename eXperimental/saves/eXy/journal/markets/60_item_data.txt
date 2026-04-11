@@ -13,3 +13,10 @@ NPC;+STOCK;2452;2392;141.4866;Biomate University;Void Starcross;5h 37m 58s ;2027
 NPC;+STOCK;1832;1831;150.2483;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;1897;1897;131.7972;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;-LOCAL;0;0;205.4019;Valuestar Hub;Jelumus;5h 45m 4s ;20704.33
+NPC;-LOCAL;117;0;126.5625;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
+NPC;+PRICE;2452;0;146.4207;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;98;0;99.81571;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;-QTY;0;-98;99.30762;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+LOCAL;184;6;93.76718;Astrox Security Patrol;Felishar;7h 0m 45s ;25245.71
+NPC;+LOCAL;2500;8774;36.5625;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
+NPC;+STOCK;1921;1881;102.6636;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03

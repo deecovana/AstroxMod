@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;104
 SECTOR;name;Junia
-SECTOR;level;0.0
+SECTOR;level;0.1
 SECTOR;faction;Temple
 SECTOR;filename;sector_104.txt
 SECTOR;is_explored;False

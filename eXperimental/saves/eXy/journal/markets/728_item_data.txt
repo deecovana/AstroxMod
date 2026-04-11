@@ -14,3 +14,8 @@ NPC;+STOCK;12;10;5144.531;Starbase Corporate Center;Void Starcross;5h 37m 58s ;2
 NPC;+STOCK;205;10;11734.19;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;194;-11;13136.82;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+LOCAL;15;23;4875;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
+NPC;+LOCAL;15;1;4875;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
+NPC;+PRICE;146;0;18056.02;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;19;0;8892.237;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+NPC;+STOCK;42;10;18771.25;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+LOCAL;15;13;4875;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08

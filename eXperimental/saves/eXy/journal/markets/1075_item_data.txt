@@ -3,3 +3,6 @@ NPC;+LOCAL;12;2;509966.8;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
 NPC;+STOCK;68;10;708130.9;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;23;11;507381;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;15;-8;563720.6;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;68;0;768637.3;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+STOCK;14;9;690949.8;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+LOCAL;12;74;409670.6;Proctors Center;Void Starcross;7h 25m 26s ;26726.99

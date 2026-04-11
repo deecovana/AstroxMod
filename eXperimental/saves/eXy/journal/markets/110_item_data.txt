@@ -5,3 +5,7 @@ NPC;+STOCK;805;231;14.48898;StarShepards Headquarters;Void Starcross;5h 37m 58s 
 NPC;+STOCK;909;214;13.6844;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;1471;181;12.32951;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;1338;-133;12.8018;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;211;0;20.83426;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-QTY;0;-37;14.32839;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+STOCK;473;203;14.82857;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-QTY;779;-152;10.92102;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11

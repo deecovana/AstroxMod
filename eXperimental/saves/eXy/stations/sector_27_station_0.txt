@@ -40,6 +40,7 @@ MERC;8;0.81;npc_ship_data_(recon_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Production: (1) Items ;2024x266;243123;73570.20
 BUYORDER;Market Low Inventory: (1) Items ;310x166;45166;7735.37
 ITEM;1101;4;1.18
 ITEM;1021;16;0.54

@@ -65,25 +65,25 @@ STARLIGHT;color_5;0.90;0.48;0.00;1.00
 STATION;sector_16_station_0.txt;3181;-37;-3803;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_medical_1.txt;1965.00;415.00;-935.00
-STRUCTURE;structure_recon_1.txt;-1119.00;42.00;-1684.00
-STRUCTURE;structure_farm_1.txt;-66.00;136.00;-888.00
-STRUCTURE;structure_storage_1.txt;2400.00;383.00;-1067.00
-STRUCTURE;structure_office_1.txt;-1467.00;101.00;1447.00
-STRUCTURE;structure_energy_gen_1.txt;1805.00;374.73;-1304.49
-STRUCTURE;structure_gun_platform_1.txt;2230.12;612.20;-1309.49
-STRUCTURE;structure_medical_1.txt;-399.00;-44.00;-1681.00
-STRUCTURE;structure_recon_1.txt;1616.00;394.00;-971.00
-STRUCTURE;structure_energy_gen_1.txt;-710.00;-189.91;-1460.49
-STRUCTURE;structure_habitat_1.txt;-716.00;51.18;-624.00
 STRUCTURE;structure_energy_gen_1.txt;-1845.00;-28.91;1473.53
+STRUCTURE;structure_habitat_1.txt;-716.00;51.18;-624.00
+STRUCTURE;structure_energy_gen_1.txt;-710.00;-189.91;-1460.49
+STRUCTURE;structure_recon_1.txt;1616.00;394.00;-971.00
+STRUCTURE;structure_medical_1.txt;-399.00;-44.00;-1681.00
+STRUCTURE;structure_gun_platform_1.txt;2230.12;612.20;-1309.49
+STRUCTURE;structure_energy_gen_1.txt;1805.00;374.73;-1304.49
+STRUCTURE;structure_office_1.txt;-1467.00;101.00;1447.00
+STRUCTURE;structure_storage_1.txt;2400.00;383.00;-1067.00
+STRUCTURE;structure_farm_1.txt;-66.00;136.00;-888.00
+STRUCTURE;structure_recon_1.txt;-1119.00;42.00;-1684.00
+STRUCTURE;structure_medical_1.txt;1965.00;415.00;-935.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;5;50;50;100;2000;4872;2;4017
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;5;845.0;-284.0;5094.0;483;483
-RESOURCE;5;1908.6;363.7;4934.3;1000;794
+RESOURCE;5;844.4;-284.3;5094.1;483;447
+RESOURCE;5;1908.6;363.7;4934.3;1000;0
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
 WARPGATE;1;sector_14.txt;2;2917;-41;1604;0;Alpha;-0.8;prescan

@@ -1,3 +1,5 @@
 NPC;+STOCK;810;113;67.19708;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;263;121;104.0502;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;384;0;96.95344;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
+NPC;+PRICE;697;0;72.38552;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;113;-95;70.8291;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02

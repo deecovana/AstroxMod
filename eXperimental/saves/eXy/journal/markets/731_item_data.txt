@@ -15,3 +15,7 @@ NPC;+STOCK;28;14;56589.84;Starbase Corporate Center;Void Starcross;5h 37m 58s ;2
 NPC;+STOCK;39;11;207634.6;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;25;-14;195652.3;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+LOCAL;15;17;53625;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
+NPC;+LOCAL;15;1;53625;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
+NPC;+PRICE;69;0;108615.8;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;33;-11;99339.9;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;+LOCAL;15;10;53625;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08

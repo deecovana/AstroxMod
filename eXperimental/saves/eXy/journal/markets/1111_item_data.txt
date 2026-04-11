@@ -2,3 +2,4 @@ NPC;+PRICE;35;0;5496.586;Legistron;Dogstar Prime;0h 38m 14s ;2294.613
 NPC;-QTY;15;-11;9576.875;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
 NPC;+STOCK;50;10;8923.111;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;42;-8;8293.449;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;-PRICE;5;0;5948.784;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83

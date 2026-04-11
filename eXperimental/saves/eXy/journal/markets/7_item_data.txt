@@ -17,3 +17,8 @@ NPC;+STOCK;5093;4778;158.5418;Proctors Center;Void Starcross;5h 37m 58s ;20278.1
 NPC;BAL;2393;-2700;149.0558;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;2882;0;158.9063;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
 PLAYER;+QTY;3186;304;201.8054;Starbase Corporate Center;Void Starcross;6h 18m 26s ;22706.95
+NPC;-LOCAL;3184;0;158.9063;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
+NPC;+PRICE;3613;0;119.5481;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;473;0;163.2135;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-LOCAL;2663;0;158.9063;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+NPC;-QTY;0;-29;175.2118;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11

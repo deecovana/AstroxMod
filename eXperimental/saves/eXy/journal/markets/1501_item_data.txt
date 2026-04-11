@@ -7,3 +7,4 @@ NPC;-LOCAL;0;0;48007.77;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
 NPC;+PRICE;5;0;34756.86;CoraVault;Lins;4h 31m 45s ;16305.97
 PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;5h 32m 16s ;19936.14
 NPC;+STOCK;41;9;42615.33;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;32;0;44190.21;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02

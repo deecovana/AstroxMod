@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;3-6-1-7-7-3-3-1-1-0-2-6-0-3-3-2-1-90
 STATION;interior_seed;5-8-45-6
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;24349.74
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -250,6 +253,8 @@ SKILL;56;0.90
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;60;45;589586;HARVEST#42#5#sector_19.txt#sector_16_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Crellara</color> and return with <color='yellow'>42</color> ore to Rendo Labs in <color='cyan'>Entropy</color>;6;A local prospector, <i>Bastkadd Bruleipa</i> of the Pirate faction has located a light quantity of special <color='yellow'>Special Torim Ore</color> in the <color='cyan'>Crellara</color> sector. Head over there and harvest all of the special <color='yellow'>Special Torim Ore</color>, and meet <i>Bastkadd Bruleipa</i> back at Rendo Labs station located in the <color='cyan'>Entropy</color>.;8235;2813
+MISSION;62;45;687859;HARVEST#82#3#sector_38.txt#sector_62_station_0.txt#null#null#null#null;Excavate special <color='yellow'>Special Quazor Ore</color> in <color='cyan'>Equalias Val</color> and return with <color='yellow'>82</color> to Valuestar Hub in <color='cyan'>Jelumus</color>;7;<i>Qedemi Sipopcou</i> has discovered a light deposit of <color='yellow'>Special Quazor Ore</color> in <color='cyan'>Equalias Val</color>. He is currently unable to mine the <color='yellow'>Special Quazor Ore</color>, and has requested a pilot to head over and harvest the <color='yellow'>82</color> <color='yellow'>Special Quazor Ore</color>. Once complete, head over and meet <i>Qedemi Sipopcou</i> at the Valuestar Hub station located in the <color='cyan'>Jelumus</color>.;23119;6891
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -264,3 +269,4 @@ SHIP;8;1.07;ship_data_(excavation_shuttle_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

@@ -1,3 +1,4 @@
 NPC;+PRICE;30;0;231100.2;Legistron;Dogstar Prime;0h 38m 14s ;2294.613
 NPC;+LOCAL;12;2;139092.5;Imperium Republica ;Gate of Alpharis;1h 51m 16s ;6676.245
 NPC;+STOCK;56;9;161614.7;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;-QTY;19;-8;138218;Lammassu Hub;Numbu;7h 0m 13s ;25213.58

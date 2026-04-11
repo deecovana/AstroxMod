@@ -3,3 +3,8 @@ NPC;-LOCAL;24;24;2801.644;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
 NPC;-LOCAL;0;0;4415.57;Daemon Ammunitions;Starfort Ramos;4h 9m 18s ;14958.07
 NPC;+STOCK;4847;4197;2084.082;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;-LOCAL;0;0;3871.647;Oak Industries;Dorando Corridor;6h 9m 6s ;22146.36
+NPC;+PRICE;4847;0;2145.76;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;3915;3915;5531.878;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;-LOCAL;21;21;2801.644;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
+NPC;-LOCAL;0;0;6225.875;Rendo Labs;Entropy;7h 21m 12s ;26472.57
+NPC;-LOCAL;3375;0;2801.644;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19

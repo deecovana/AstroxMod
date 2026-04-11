@@ -29,3 +29,8 @@ NPC;+STOCK;105;21;20748.13;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.
 NPC;+STOCK;136;20;13301.04;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;48;23;7976.901;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;28;-20;9480.682;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+LOCAL;25;13;5850;StarShepards Headquarters;Void Starcross;6h 22m 23s ;22943.25
+NPC;+LOCAL;25;52;5850;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
+NPC;+PRICE;25;0;7392.688;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+LOCAL;25;125;5850;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
+NPC;-LOCAL;0;0;45000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19

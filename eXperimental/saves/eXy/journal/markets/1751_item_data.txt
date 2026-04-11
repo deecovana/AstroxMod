@@ -3,3 +3,5 @@ NPC;+LOCAL;12;1;101490.5;StarGypsy Warehouse;Void Starcross;0h 31m 56s ;1916.392
 NPC;+STOCK;23;11;100948.9;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;88;11;56720.32;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;77;-11;64127.84;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;BAL;9;-6;80180.92;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;+LOCAL;12;51;26000;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08

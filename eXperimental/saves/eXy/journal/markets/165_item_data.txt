@@ -3,3 +3,5 @@ NPC;+QTY;284;125;59.06294;Crystalis Broadcasting;Jermicus;1h 7m 10s ;4030.626
 NPC;+PRICE;155;0;42.03652;Ferce;Allabentoris;1h 15m 16s ;4516.316
 NPC;+STOCK;575;146;63.46828;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;661;128;54.09177;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;575;0;65.35152;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+STOCK;247;107;63.31896;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03

@@ -5,3 +5,4 @@ NPC;+STOCK;53;9;456313.4;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;14;9;302164.7;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;11;11;354814.2;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;-LOCAL;0;0;900375;OmniTrust;Ponze;6h 16m 48s ;22608.67
+NPC;+PRICE;0;0;690484.4;CoraVault;Lins;6h 48m 22s ;24502.02

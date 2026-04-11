@@ -10,3 +10,5 @@ NPC;+LOCAL;14;12;4875;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.
 NPC;+STOCK;66;12;12682.61;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;54;-12;13008.59;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+LOCAL;15;25;4875;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
+NPC;+LOCAL;15;1;4875;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
+NPC;+STOCK;23;13;11530.94;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03

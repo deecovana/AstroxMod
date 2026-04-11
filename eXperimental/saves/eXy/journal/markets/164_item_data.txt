@@ -3,3 +3,5 @@ NPC;+QTY;201;122;20.1662;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
 NPC;-QTY;0;-33;17.35852;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
 NPC;+STOCK;778;105;14.70157;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;575;0;13.93758;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
+NPC;+PRICE;312;0;15.01313;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;673;0;15.83284;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02

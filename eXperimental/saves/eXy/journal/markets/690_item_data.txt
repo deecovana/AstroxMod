@@ -21,3 +21,9 @@ NPC;+LOCAL;25;3;2275;StarShepards Headquarters;Void Starcross;5h 36m 35s ;20195.
 NPC;+STOCK;46;21;2173.063;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;61;18;9087.134;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;41;16;2559.944;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+LOCAL;25;14;2275;StarShepards Headquarters;Void Starcross;6h 22m 23s ;22943.25
+NPC;+LOCAL;25;60;2275;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
+NPC;+PRICE;25;0;2729.989;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+STOCK;92;24;7336.37;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+LOCAL;25;26;2275;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
+NPC;-LOCAL;0;0;17500;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19

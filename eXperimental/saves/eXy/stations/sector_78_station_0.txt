@@ -17,7 +17,7 @@ STATION;seed;2-3-0-2-1-0-2-0-5-3-2-6-90
 STATION;interior_seed;3-8-45-1
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;9496.537
+STATION;last_dock_time;24434.92
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -190,10 +190,11 @@ SKILL;42;0.99
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;124;45;520067;CHAT_PILOT#sector_0_station_2.txt#sector_13.txt#Entertainer Aobira Qunortis#npc_ship_data_(pirate_escort_3)#5#missions_arrest_escort.txt#0#null;Arrest <color='yellow'><i>Entertainer Aobira Qunortis</i></color> over an outstanding warrant in <color='cyan'>Jala</color> and return to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>;6;<i>Leaars Ciedaeast</i> of the Pirate faction has sent out a warrent for the arrest of <color='yellow'><i>Entertainer Aobira Qunortis</i></color>. Last known sighting of <color='yellow'><i>Entertainer Aobira Qunortis</i></color> was in the area of <color='cyan'>Jala</color>. Bring them back alive to the StarGypsy Warehouse in the <color='cyan'>Void Starcross</color> system to complete this contract.;61789;23448
 MISSION;120;45;182733;CHAT_PILOT#sector_58_station_0.txt#sector_15.txt#General Paecie Xodes#npc_ship_data_(ATC_Anubis_MK2)#3#missions_debt_collection.txt#0#null;Collect a small debt from <color='yellow'><i>General Paecie Xodes</i></color> in <color='cyan'>Jermicus</color> and return to CoraVault in <color='cyan'>Lins</color>;6;<i>Welibel Coilssaw</i> has requested that debt be collected from <color='yellow'><i>General Paecie Xodes</i></color>. After 3 payments to the Pirate faction for transport fines, <color='yellow'><i>General Paecie Xodes</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>General Paecie Xodes</i></color> was in the vicinity of the <color='cyan'>Jermicus</color> system. Have a chat with them, collect the debt, and return to the CoraVault in the <color='cyan'>Lins</color> system to deliver the payment.;6588;2500
 MISSION;92;90;992235;KILL_PILOT#sector_0_station_1.txt#sector_15.txt#Lieutenant Arxo Wheased#npc_ship_data_(VVS_Mauler)#7#null#null#null;Execute <color='yellow'><i>Lieutenant Arxo Wheased</i></color> in <color='cyan'>Jermicus</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>;6;A low level criminal has finally hit the radar of the Astrox Security Patrol. A new kill contract has been issued for <color='yellow'><i>Lieutenant Arxo Wheased</i></color> located in <color='cyan'>Jermicus</color>. <color='yellow'><i>Lieutenant Arxo Wheased</i></color> has been know to pull some sneaky tricks during combat, so be careful when engaging him. After his ship has been destroyed, head to Lammassu Financial station in the <color='cyan'>Void Starcross</color> system.;30265;11485
 MISSION;40;45;199345;SCAN_PILOT#sector_56_station_1.txt#sector_58.txt#Laborer Deezae Pamokile#npc_ship_data_(ATC_Cobra_MK2)#21#null#null#null;Locate and scan <color='yellow'><i>Laborer Deezae Pamokile</i></color> in <color='cyan'>Lins</color> and return to ValueStar in <color='cyan'>Hunu</color>;8;<i>Kolpad Bordie</i> has requested a location verification on a recent employee. <color='yellow'><i>Laborer Deezae Pamokile</i></color> is supposed to be running a survey in <color='cyan'>Lins</color>. Please verify the location of this pilot by scanning their ship and return to ValueStar in <color='cyan'>Hunu</color>.;6588;2500
+MISSION;62;45;921956;HARVEST#128#5#sector_59.txt#sector_5_station_0.txt#null#null#null#null;Excavate special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Coralor</color> and return with <color='yellow'>128</color> to Mazu Starship in <color='cyan'>Enoch Estates</color>;7;<i>Eifer Galegoregore</i> has discovered a light deposit of <color='yellow'>Special Torim Ore</color> in <color='cyan'>Coralor</color>. He is currently unable to mine the <color='yellow'>Special Torim Ore</color>, and has requested a pilot to head over and harvest the <color='yellow'>128</color> <color='yellow'>Special Torim Ore</color>. Once complete, head over and meet <i>Eifer Galegoregore</i> at the Mazu Starship station located in the <color='cyan'>Enoch Estates</color>.;27323;10337
+MISSION;101;120;677847;KILL_RECOVER#sector_14_station_0.txt#sector_20.txt#Doctor Gotal Videevel#npc_ship_data_(VVS_Wingman_Mk2)#5#2#1551#null;Hijack <color='yellow'><i>Doctor Gotal Videevel</i></color> in <color='cyan'>Cliffs of Drameria</color> for <color='yellow'>2</color> <color='yellow'>Improved Shield Boosters</color> and deliver them to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>;6;Authorities in <color='cyan'>Cliffs of Drameria</color> have reported the location of a known criminal, <color='yellow'><i>Doctor Gotal Videevel</i></color>. He is carrying some stolen property belonging to members of the Pirate faction. Destroy <color='yellow'><i>Doctor Gotal Videevel</i></color>'s ship and recover the <color='yellow'>2</color> <color='yellow'>Improved Shield Boosters</color>. When finished, meet up with <i>Sergo Ciebo</i>, you can find him at Imperium Republica  in <color='cyan'>Gate of Alpharis</color>.;24286;9188
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -204,5 +205,6 @@ SHIP;4;1.02;ship_data_(titan).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
 
 

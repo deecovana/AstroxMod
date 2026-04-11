@@ -2,3 +2,4 @@ NPC;-QTY;9;-9;89355;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
 NPC;+PRICE;14;0;89610.05;Ferce;Allabentoris;1h 15m 16s ;4516.316
 NPC;-LOCAL;0;0;124599;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
 NPC;-LOCAL;0;0;126255.5;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
+NPC;-QTY;15;-7;107749.7;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58

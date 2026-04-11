@@ -1,2 +1,5 @@
 NPC;+STOCK;106;9;17843.29;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;68;9;35338.42;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;106;0;18514.81;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;5;0;25765.02;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;BAL;5;-11;33468.7;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02

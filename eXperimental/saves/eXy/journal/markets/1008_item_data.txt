@@ -4,3 +4,7 @@ NPC;+STOCK;50;10;9330.046;StarShepards Headquarters;Void Starcross;5h 37m 58s ;2
 NPC;+STOCK;37;9;4448.749;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+QTY;17;11;7494.375;Mazu Starship;Volox;5h 48m 35s ;20915.76
 NPC;BAL;29;-8;5072.44;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;40;0;9771.143;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;24;0;5697.075;CoraVault;Lins;6h 48m 22s ;24502.02
+NPC;-QTY;18;-7;6319.141;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;-LOCAL;0;0;17500;Quantex;Dellis Primeria;7h 2m 44s ;25364.85

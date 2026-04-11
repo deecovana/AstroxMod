@@ -3,3 +3,8 @@ NPC;+STOCK;127;2;1040685;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;28;2;1301124;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;354;2;1110596;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;342;2;1752327;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;84;0;1084461;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;352;0;1221940;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;195;-2;1212396;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;+PRICE;8;0;2363344;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+NPC;+STOCK;9;2;1067973;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03

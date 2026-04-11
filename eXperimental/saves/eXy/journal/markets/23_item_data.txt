@@ -11,3 +11,8 @@ NPC;+STOCK;4580;4027;119.0432;Proctors Center;Void Starcross;5h 37m 58s ;20278.1
 NPC;BAL;4580;0;113.9064;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;306;0;116.0662;Oak Industries;Dorando Corridor;5h 53m 34s ;21214.17
 NPC;-LOCAL;218;0;116.0662;Oak Industries;Dorando Corridor;6h 9m 6s ;22146.36
+NPC;+PRICE;831;0;93.29272;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;233;0;120.1758;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;-LOCAL;0;0;257.925;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
+NPC;-LOCAL;0;0;257.925;Rendo Labs;Entropy;7h 21m 12s ;26472.57
+NPC;-LOCAL;0;0;257.925;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19

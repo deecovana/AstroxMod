@@ -2,3 +2,4 @@ NPC;+STOCK;61;9;239538.3;Starbase Corporate Center;Void Starcross;1h 25m 20s ;51
 NPC;-LOCAL;0;0;533916.5;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
 NPC;+STOCK;8;8;727052.9;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;63;11;242240.8;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;-LOCAL;0;0;1000000;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08

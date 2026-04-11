@@ -13,3 +13,8 @@ NPC;+STOCK;1057;995;23.89003;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;2027
 NPC;+STOCK;949;941;20.41271;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;740;740;28.5215;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;778;691;20.2718;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;1027;0;17.86075;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;8;0;22.19189;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;26;0;27.26642;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;-LOCAL;0;0;63.25;Rendo Labs;Entropy;7h 21m 12s ;26472.57
+NPC;-LOCAL;0;0;28.4625;Star Shepards Hub;Temple Gates;7h 28m 51s ;26931.18

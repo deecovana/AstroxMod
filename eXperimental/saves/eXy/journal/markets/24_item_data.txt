@@ -12,3 +12,8 @@ NPC;BAL;4144;0;203.3988;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;97;0;225.3762;Oak Industries;Dorando Corridor;5h 53m 34s ;21214.17
 NPC;+PRICE;611;0;121.9282;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;-LOCAL;77;0;212.0704;Oak Industries;Dorando Corridor;6h 9m 6s ;22146.36
+NPC;+PRICE;5291;0;224.8428;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;4447;4447;388.8522;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;-LOCAL;0;0;438.475;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
+NPC;-LOCAL;18;18;197.3137;Rendo Labs;Entropy;7h 21m 12s ;26472.57
+NPC;-LOCAL;3153;0;197.3137;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19

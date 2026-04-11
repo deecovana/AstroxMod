@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;30
 SECTOR;name;Phistatisia
-SECTOR;level;0.9
+SECTOR;level;1.0
 SECTOR;faction;Alpha
 SECTOR;filename;sector_30.txt
 SECTOR;is_explored;False

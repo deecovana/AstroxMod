@@ -1,6 +1,9 @@
 # "Astrox Imperium_Data/Mod" - AstroxMod GitHub repo (CC4 2026)
 ### @TODO Translate with AstroxImperiumTranslator
 
+## 26.04.12 eXy Bought Cruiser, need skills
+  - Drones with +3 Drone Module confirmed 
+
 ## 26.04.10 eXy Resaling got 77m 
 
 ## @TEST New game with new settings

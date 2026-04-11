@@ -1,3 +1,4 @@
 NPC;+QTY;14;7;280617.3;Gunstellar;Adrenal;1h 7m 10s ;4030.626
 NPC;+STOCK;60;11;414083.4;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;-PRICE;7;0;276617.4;Gunstellar;Adrenal;6h 18m 15s ;22695.92
+NPC;+PRICE;49;0;440103;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02

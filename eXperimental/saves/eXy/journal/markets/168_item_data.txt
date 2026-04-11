@@ -5,3 +5,9 @@ NPC;+STOCK;705;110;29.87839;StarShepards Headquarters;Void Starcross;5h 37m 58s 
 NPC;+STOCK;217;117;26.15794;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;1075;137;23.45163;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;988;-87;23.95411;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;595;0;31.40322;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;126;-146;29.79061;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;-QTY;0;-126;29.90193;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;-PRICE;288;0;18.57164;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
+NPC;+PRICE;21;0;34.88211;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+NPC;+STOCK;304;130;14.35629;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03

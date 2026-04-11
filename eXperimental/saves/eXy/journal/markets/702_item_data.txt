@@ -3,3 +3,6 @@ NPC;-QTY;114;-23;7845.156;Starbase Corporate Center;Void Starcross;2h 51m 54s ;1
 NPC;+STOCK;168;18;6376.74;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;145;-15;10651.48;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;54;0;8255.47;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
+NPC;+PRICE;168;0;6589.862;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;3;0;6257.478;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;-QTY;0;-3;6227.343;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58

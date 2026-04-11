@@ -4,3 +4,5 @@ NPC;-LOCAL;0;0;156922.5;CoraVault;Lins;2h 47m 52s ;10072.21
 NPC;-QTY;0;0;194280;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;-LOCAL;0;0;257250;OmniTrust;Ponze;6h 16m 48s ;22608.67
 NPC;-PRICE;39;0;59864.09;Gunstellar;Adrenal;6h 18m 15s ;22695.92
+NPC;+PRICE;28;0;127820.1;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-QTY;0;-6;65901.02;Lammassu Hub;Numbu;7h 0m 13s ;25213.58

@@ -4,3 +4,5 @@ NPC;+QTY;11;6;21826.94;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
 NPC;-QTY;0;-1;19150;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
 NPC;-LOCAL;0;0;29866.44;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
 NPC;-LOCAL;0;0;30260.84;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
+NPC;BAL;5;-9;22653.28;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;-QTY;35;-7;23208.75;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11

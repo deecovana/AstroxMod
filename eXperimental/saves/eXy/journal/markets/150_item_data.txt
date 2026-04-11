@@ -2,3 +2,6 @@ NPC;+QTY;166;99;11.48125;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
 NPC;+PRICE;234;0;10.63693;Ferce;Allabentoris;1h 15m 16s ;4516.316
 NPC;-QTY;0;-20;13.7225;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
 NPC;+STOCK;260;104;8.032884;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;156;0;8.525058;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;13;0;10.02161;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;+STOCK;475;104;12.82915;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03

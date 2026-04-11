@@ -12,3 +12,6 @@ NPC;+STOCK;25;8;1304.4;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;79;8;1359.63;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;69;-10;1499.812;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;0;0;5500;OmniTrust;Ponze;6h 16m 48s ;22608.67
+NPC;+PRICE;50;0;2349.62;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;8;0;1650.234;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+NPC;+PRICE;8;0;1558.567;Fellacore Research Center;Grace;8h 0m 32s ;28832.23

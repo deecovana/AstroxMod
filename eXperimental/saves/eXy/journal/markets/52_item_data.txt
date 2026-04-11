@@ -14,3 +14,8 @@ NPC;+STOCK;2309;2254;184.2726;Proctors Center;Void Starcross;5h 37m 58s ;20278.1
 NPC;-LOCAL;0;0;340.9136;Valuestar Hub;Jelumus;5h 45m 4s ;20704.33
 NPC;BAL;2309;0;194.6821;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+LOCAL;69;6;167.4003;Oak Industries;Dorando Corridor;5h 53m 34s ;21214.17
+NPC;-LOCAL;1694;0;213.57;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
+NPC;+LOCAL;19;6;137.1774;Astrox Security Patrol;Felishar;7h 0m 45s ;25245.71
+NPC;+LOCAL;2500;8501;61.698;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
+NPC;-LOCAL;50;50;213.57;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
+NPC;-QTY;0;0;422.4978;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11

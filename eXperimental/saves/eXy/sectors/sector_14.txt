@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;war#23772#11#3
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;334.9937;160.5744;335.53

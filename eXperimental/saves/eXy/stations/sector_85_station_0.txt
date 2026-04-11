@@ -39,6 +39,8 @@ MERC;5;1.97;npc_ship_data_(excavation_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Selling Items: (1) Items ;320x100;72637;44433.44
+
 SELLORDER;Market Supply: (2) Items ;305x497,100x167;45270;67648.52
 
 SELLORDER;Sale Request Order: (1) Items ;112x723;16139;16720.11

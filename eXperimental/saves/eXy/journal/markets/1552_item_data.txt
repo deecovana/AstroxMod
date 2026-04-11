@@ -1,2 +1,6 @@
 NPC;-LOCAL;0;0;152660.4;Imperium Republica ;Gate of Alpharis;1h 51m 16s ;6676.245
 NPC;-QTY;6;-7;82043.75;CoraVault;Lins;5h 30m 34s ;19834.27
+PLAYER;-QTY;60;1;125570.6;StarShepards Headquarters;Void Starcross;6h 32m 14s ;23534.5
+NPC;+PRICE;60;0;130519.9;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+STOCK;8;8;181031.3;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;7h 56m 16s ;28576.75

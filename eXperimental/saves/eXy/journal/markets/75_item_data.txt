@@ -19,3 +19,6 @@ NPC;+STOCK;1957;1881;259.0588;Lammassu Financial;Void Starcross;5h 37m 58s ;2027
 NPC;+STOCK;1952;1952;205.4347;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;-LOCAL;0;0;317.9614;Valuestar Hub;Jelumus;5h 45m 4s ;20704.33
 NPC;+PRICE;27;0;131.527;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34
+NPC;-LOCAL;0;0;468.75;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
+NPC;BAL;92;0;207.4502;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;-QTY;0;0;393.8525;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11

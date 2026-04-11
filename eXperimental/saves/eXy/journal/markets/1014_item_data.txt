@@ -7,3 +7,5 @@ NPC;-LOCAL;5;0;27562.5;Quantex;Dellis Primeria;3h 18m 35s ;11915.83
 NPC;-QTY;12;-11;21815.72;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;+STOCK;105;11;26569.85;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+QTY;23;9;19125.31;Mazu Starship;Volox;5h 48m 35s ;20915.76
+NPC;+PRICE;105;0;27413.41;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-LOCAL;27;27;28074.52;Quantex;Dellis Primeria;7h 2m 44s ;25364.85

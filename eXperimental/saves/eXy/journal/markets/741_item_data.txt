@@ -13,3 +13,7 @@ NPC;+STOCK;31;14;56776.78;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.1
 NPC;+STOCK;27;12;15433.59;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;82;12;42291.42;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+LOCAL;15;27;14625;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
+NPC;+LOCAL;15;1;14625;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
+NPC;+PRICE;199;0;54052.95;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;17;0;35456.08;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+NPC;+LOCAL;15;11;14625;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08

@@ -5,3 +5,6 @@ NPC;+STOCK;0;99;104952.3;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;226;2;98945.25;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;299;2;107460.4;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;298;-1;116999.5;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;67;0;136906.2;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;51;0;80650.82;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
+NPC;+STOCK;45;2;169981.4;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03

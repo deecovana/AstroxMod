@@ -2,3 +2,5 @@ NPC;+QTY;13;11;18843.75;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
 NPC;-QTY;6;-11;18631.38;PharmaLife;Carioullis;5h 30m 34s ;19834.27
 NPC;+STOCK;90;11;19088.64;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;-PRICE;30;0;21696.15;Gunstellar;Adrenal;6h 18m 15s ;22695.92
+NPC;+PRICE;79;0;19895.53;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;5;0;18764.71;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52

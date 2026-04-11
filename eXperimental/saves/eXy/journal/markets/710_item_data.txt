@@ -1,3 +1,5 @@
 NPC;+PRICE;1;0;5889.907;Ferce;Allabentoris;1h 15m 16s ;4516.316
 NPC;+STOCK;38;16;7866.074;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;80;-19;5941.928;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;172;0;6235.617;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;12;0;9672.577;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52

@@ -8,3 +8,4 @@ NPC;+STOCK;9;9;182666.8;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;9;9;133780.8;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;74;8;90498.25;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;26;0;134584.5;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
+NPC;-LOCAL;77;77;135000;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08

@@ -20,3 +20,9 @@ NPC;+STOCK;47;22;1862.625;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;41;16;2194.238;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;46;21;2103.75;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;22;-24;2534.948;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+LOCAL;25;16;1950;StarShepards Headquarters;Void Starcross;6h 22m 23s ;22943.25
+NPC;+LOCAL;25;60;1950;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
+NPC;+PRICE;118;0;5451.039;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-QTY;0;0;13445.51;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+LOCAL;25;34;1950;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
+NPC;-LOCAL;0;0;15000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19

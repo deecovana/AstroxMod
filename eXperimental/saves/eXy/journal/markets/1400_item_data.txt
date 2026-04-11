@@ -2,3 +2,4 @@ PLAYER;-QTY;57;1;2245;Biomate University;Void Starcross;2h 14m 44s ;8084.678
 PLAYER;+QTY;58;1;2284.413;Biomate University;Void Starcross;2h 53m 24s ;10404.17
 NPC;+PRICE;3;0;5617.366;Acrondia Corp.;Crown of Imperium;4h 31m 45s ;16305.97
 NPC;+STOCK;69;11;2042.61;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;5;0;3814.714;Fellacore Research Center;Grace;8h 0m 32s ;28832.23

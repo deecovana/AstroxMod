@@ -2,3 +2,5 @@ NPC;-LOCAL;0;0;57732.88;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
 NPC;-LOCAL;0;0;58521.69;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
 NPC;+STOCK;20;9;43739.06;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;36;11;52433.8;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;51;0;46808.51;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+STOCK;45;11;31123.18;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03

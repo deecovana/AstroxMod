@@ -4,3 +4,5 @@ NPC;+LOCAL;12;1;129547.7;ValueStar;Hunu;2h 28m 50s ;8930.005
 NPC;+QTY;37;7;130843;Nova Labs;Noah Fox;3h 5m 19s ;11119.64
 NPC;+STOCK;89;9;110933.5;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;11;11;351231;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+PLAYER;-QTY;78;2;115130;StarShepards Headquarters;Void Starcross;6h 24m 8s ;23048.53
+NPC;-LOCAL;1;1;207000;Proctors Center;Void Starcross;7h 25m 26s ;26726.99

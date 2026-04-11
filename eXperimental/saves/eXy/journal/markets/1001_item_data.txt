@@ -1,2 +1,4 @@
 NPC;+PRICE;3;0;2432.067;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34
 NPC;-LOCAL;0;0;3530.252;Oak Industries;Dorando Corridor;6h 9m 6s ;22146.36
+NPC;-QTY;4;-6;2734.016;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+PRICE;8;0;2654.166;Fellacore Research Center;Grace;8h 0m 32s ;28832.23

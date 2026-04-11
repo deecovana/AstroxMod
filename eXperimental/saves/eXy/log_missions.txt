@@ -1,4 +1,18 @@
 //;LOG DATA FILE (Astrox Imperium)
+COMPLETED;Fabricate;Produce a medium shipment...;78,918;64457428.4991238;Daemon Ammunitions;Starfort Ramos;7h 47m 9s 
+COMPLETED;Fabricate;Manufacture ;59,333;64139438.2872097;Mass Market;Dorando Corridor;7h 36m 27s 
+ACCEPTED;Fabricate;Produce a medium shipment...;-224745;64024518.3145535;Star Shepards Hub;Temple Gates;7h 29m 34s 
+ACCEPTED;Fabricate;Manufacture 6 Ionization ...;-55722;64249263.3145535;Star Shepards Hub;Temple Gates;7h 29m 31s 
+COMPLETED;Salvage;Dismantle ;36,593;64213852.4974148;Rendo Labs;Entropy;7h 21m 8s 
+COMPLETED;Recover;Recover a light quantity ...;10,000;64172123.0252469;Horizons;Gate of Alpharis;7h 12m 48s 
+ACCEPTED;Recover;Recover a light quantity ...;-4312.32;64146194.8753445;StarShepards Headquarters;Void Starcross;7h 8m 41s 
+ACCEPTED;Salvage;Dismantle Special Junk Pa...;-504;64150507.1951687;StarShepards Headquarters;Void Starcross;7h 8m 7s 
+COMPLETED;Harvest;Excavate special ;16,793;64182561.1951687;Biomate University;Void Starcross;7h 5m 44s 
+COMPLETED;Kill Raiders;Hunt 1 Ra...;10,000;64151930.187341;Quantex;Dellis Primeria;7h 2m 38s 
+ACCEPTED;Kill Raiders;Hunt 1 Raider level 10 Ra...;-0;64143225.9471066;StarShepards Headquarters;Void Starcross;6h 51m 58s 
+ACCEPTED;Harvest;Excavate special Special ...;-620.94;64143225.9471066;StarShepards Headquarters;Void Starcross;6h 51m 33s 
+COMPLETED;Escort;Escort ;10,000;64138593.887109;StarGypsy Warehouse;Void Starcross;6h 48m 23s 
+ACCEPTED;Escort;Escort Foreman Pieno Goop...;-0;76062843.09375;StarShepards Headquarters;Void Starcross;6h 29m 16s 
 COMPLETED;Salvage;Salvage S...;32,175;384245.156800628;ValueStar;Hunu;3h 52m 10s 
 ACCEPTED;Salvage;Salvage Special Junk Part...;-488.25;186856.739588737;Oro Omniplex Center;Merces Academy;3h 38m 11s 
 COMPLETED;Delivery;Dock at Daemon Ammunition...;27,535;172341.755213737;Daemon Ammunitions;Starfort Ramos;3h 24m 51s 

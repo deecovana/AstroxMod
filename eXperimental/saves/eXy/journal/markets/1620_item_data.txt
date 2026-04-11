@@ -6,3 +6,6 @@ NPC;-LOCAL;6;0;33750;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
 NPC;+STOCK;11;11;49414.34;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;63;11;28814.7;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;13;11;20511.14;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;52;0;30338.11;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;6;0;35945.18;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;-LOCAL;0;0;75000;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08

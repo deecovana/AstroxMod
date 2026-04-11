@@ -10,3 +10,8 @@ NPC;+STOCK;26;3;7061.496;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;36;3;7784.651;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;33;4;6965.444;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;3;0;8291.755;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34
+NPC;+PRICE;30;0;5793.858;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;3;0;7809.761;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;-QTY;4;-4;7649.141;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+PRICE;1;0;5670.119;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+PLAYER;+QTY;7;1;7508.747;Horizons;Gate of Alpharis;7h 13m 40s ;26020.13

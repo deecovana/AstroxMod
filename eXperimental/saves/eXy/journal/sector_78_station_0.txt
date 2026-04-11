@@ -3,7 +3,7 @@ Entertainment Hub
 Jidzangee Akleinortis
 Pirate
 [c:lime]Dock fee 100[/c]
-Timestamp: 9498.54
+Timestamp: 24434.92
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -51,6 +51,10 @@ Offices
 
 
 <Station Market Orders>
+[c:red]SELL Order[/c] Selling Items: (2) Items 
+ (18) x Iron Coring Plates
+ (14) x Belasite Ore
+Buy items for [c:lime]-574 discount.[/c]
 
 
 <Station Market Items>
@@ -192,9 +196,6 @@ Miner Advanced Systems
 
 <Station Missions>
 [c:lime]DIALOG[/c]
-Arrest <color='yellow'><i>Entertainer Aobira Qunortis</i></color> over an outstanding warrant in <color='cyan'>Jala</color> and return to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
-
-[c:lime]DIALOG[/c]
 Collect a small debt from <color='yellow'><i>General Paecie Xodes</i></color> in <color='cyan'>Jermicus</color> and return to CoraVault in <color='cyan'>Lins</color>
 
 [c:lime]KILL[/c]
@@ -202,6 +203,12 @@ Execute <color='yellow'><i>Lieutenant Arxo Wheased</i></color> in <color='cyan'>
 
 [c:lime]SCAN[/c]
 Locate and scan <color='yellow'><i>Laborer Deezae Pamokile</i></color> in <color='cyan'>Lins</color> and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]HARVEST[/c]
+Excavate special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Coralor</color> and return with <color='yellow'>128</color> to Mazu Starship in <color='cyan'>Enoch Estates</color>
+
+[c:lime]KILL RECOVER[/c]
+Hijack <color='yellow'><i>Doctor Gotal Videevel</i></color> in <color='cyan'>Cliffs of Drameria</color> for <color='yellow'>2</color> <color='yellow'>Improved Shield Boosters</color> and deliver them to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
 
 
 

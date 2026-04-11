@@ -13,3 +13,6 @@ NPC;-LOCAL;20;20;115762.5;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14
 NPC;+STOCK;65;8;78287.08;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;31;11;140763.9;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;-LOCAL;0;0;257250;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
+NPC;-LOCAL;68;68;115762.5;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
+NPC;BAL;47;-10;113380.5;Janca Refinery;Canndelis;6h 40m 15s ;24015.74
+NPC;-LOCAL;0;0;257250;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08

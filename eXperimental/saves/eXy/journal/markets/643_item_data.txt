@@ -5,3 +5,7 @@ NPC;+STOCK;31;3;26882.4;StarShepards Headquarters;Void Starcross;5h 37m 58s ;202
 NPC;+STOCK;34;3;48893.95;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;49;3;48320.55;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;45;-4;47825.67;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;21;0;42275.14;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;28;0;28865.26;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;7;0;27618.67;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
+NPC;+STOCK;11;3;43072.26;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03

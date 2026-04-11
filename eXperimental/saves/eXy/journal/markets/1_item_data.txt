@@ -25,3 +25,11 @@ NPC;+STOCK;5179;4538;4.474522;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;202
 NPC;+STOCK;4557;3645;7.554001;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;4078;4002;9.896826;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;-LOCAL;2849;0;7.875;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
+NPC;-LOCAL;2848;0;7.875;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
+NPC;+PRICE;5489;0;4.477161;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;912;0;7.989898;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-QTY;0;-83;5.269141;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;-PRICE;207;0;11.35044;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
+NPC;+PRICE;72;0;6.814712;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+NPC;-LOCAL;1092;0;7.875;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+PLAYER;+QTY;8274;2785;4.512856;Biomate University;Void Starcross;8h 10m 6s ;29406.53

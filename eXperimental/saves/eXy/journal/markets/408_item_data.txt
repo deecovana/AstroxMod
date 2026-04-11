@@ -25,3 +25,16 @@ NPC;+STOCK;796;737;9.440942;StarShepards Headquarters;Void Starcross;5h 37m 58s 
 NPC;+STOCK;794;794;7.036031;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;3;0;11.11964;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;9;0;15.36245;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34
+NPC;+LOCAL;1000;2880;3.9325;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
+NPC;+PRICE;709;0;25.15202;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;59;0;10.03071;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;5;0;13.1318;CoraVault;Lins;6h 48m 22s ;24502.02
+NPC;-QTY;0;-18;15.15809;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;-LOCAL;15;0;13.6125;Astrox Security Patrol;Felishar;7h 0m 45s ;25245.71
+NPC;-LOCAL;614;0;20.31943;Biomate University;Void Starcross;7h 9m 25s ;25765.71
+NPC;+STOCK;849;791;14.50729;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-LOCAL;0;0;30.25;Horizons;Gate of Alpharis;7h 13m 37s ;26017.1
+NPC;+LOCAL;1000;1191;3.9325;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
+NPC;-LOCAL;313;0;15.07751;Biomate University;Void Starcross;7h 53m 46s ;28426.46
+NPC;-LOCAL;288;0;14.9494;Biomate University;Void Starcross;8h 0m 37s ;28837.24
+NPC;-LOCAL;108;0;13.86019;Biomate University;Void Starcross;8h 10m 2s ;29402.51

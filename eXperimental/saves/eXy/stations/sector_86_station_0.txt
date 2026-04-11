@@ -38,6 +38,9 @@ MERC;7;1.73;npc_ship_data_(pirate_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Items Req: (2) Items ;408x316,407x248;8821;55615.84
+BUYORDER;Market Shortage: (2) Items ;406x380,407x349;2627;91191.44
+BUYORDER;Market Demands: (3) Items ;406x405,406x432,406x204;2181;35242.44
 BUYORDER;Market Demands: (2) Items ;407x67,408x108;2253;100445.10
 BUYORDER;Market Demands: (3) Items ;407x294,408x198,407x287;8813;24855.07
 BUYORDER;Market Shortage: (1) Items ;408x303;4214;54132.97

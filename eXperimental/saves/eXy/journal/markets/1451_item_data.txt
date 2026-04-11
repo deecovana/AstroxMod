@@ -7,3 +7,5 @@ PLAYER;+QTY;6;6;38689.68;Oro Omniplex Center;Merces Academy;3h 37m 28s ;13048.3
 PLAYER;-QTY;7;11;16059.95;The Dunes;The Dunes of Caliph;3h 39m 50s ;13190.57
 NPC;-LOCAL;0;0;30463.34;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
 PLAYER;+QTY;11;11;38680.68;Oro Omniplex Center;Merces Academy;3h 41m 0s ;13260.73
+NPC;+STOCK;10;10;64150.86;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-LOCAL;0;0;64375;Horizons;Gate of Alpharis;7h 13m 37s ;26017.1

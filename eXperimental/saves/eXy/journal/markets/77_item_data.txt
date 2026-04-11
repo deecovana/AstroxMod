@@ -15,3 +15,8 @@ NPC;BAL;1279;-1413;1139.079;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;0;0;2027.406;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;17;0;981.1456;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34
 NPC;+LOCAL;381;370;395.9553;Oak Industries;Dorando Corridor;6h 9m 6s ;22146.36
+NPC;-LOCAL;43;43;1067.872;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
+NPC;+PRICE;2325;0;1028.144;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;353;0;655.2354;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;114;0;1238.859;CoraVault;Lins;6h 48m 22s ;24502.02
+NPC;-LOCAL;29;29;1067.872;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44

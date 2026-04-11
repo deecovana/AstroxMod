@@ -1,3 +1,5 @@
 NPC;+STOCK;14;2;3968782;CoraVault;Lins;2h 47m 33s ;10053.19
 NPC;+PRICE;12;0;4523258;CoraVault;Lins;4h 31m 45s ;16305.97
 NPC;-QTY;6;-1;7432353;PharmaLife;Carioullis;5h 30m 34s ;19834.27
+NPC;+PRICE;9;0;8012709;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;12;0;4584702;CoraVault;Lins;6h 48m 22s ;24502.02

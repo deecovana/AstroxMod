@@ -3,3 +3,6 @@ NPC;+QTY;40;13;33779.79;Crystalis Broadcasting;Jermicus;3h 4m 7s ;11047.58
 NPC;+STOCK;30;21;14535.09;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;67;16;30592;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;83;17;33335.32;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;30;0;15571.87;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;66;0;35237.28;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+STOCK;62;18;25159.36;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03

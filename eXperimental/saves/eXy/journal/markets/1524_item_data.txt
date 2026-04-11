@@ -2,3 +2,6 @@ NPC;-LOCAL;0;0;468263;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
 NPC;-LOCAL;0;0;474573.5;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
 NPC;+STOCK;34;8;255298.7;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;61;0;324083.8;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
+NPC;+PRICE;26;0;264717.9;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+STOCK;30;11;188022.8;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-QTY;55;-6;323340;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11

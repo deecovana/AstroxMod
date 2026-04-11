@@ -4,3 +4,4 @@ NPC;+PRICE;2;0;44138.72;Communications Hub;Ele;1h 15m 16s ;4516.316
 NPC;+STOCK;99;9;33282.35;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;27;8;38694.66;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;18;-9;42408.03;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+LOCAL;12;69;13000;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08

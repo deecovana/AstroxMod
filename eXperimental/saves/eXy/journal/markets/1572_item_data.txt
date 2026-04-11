@@ -2,3 +2,7 @@ NPC;+STOCK;9;9;181468.5;Tella's;Bitcola;2h 36m 58s ;9418.72
 NPC;-QTY;10;-8;88445.5;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;+STOCK;76;8;52277.7;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;84;8;101779.1;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;76;0;109419.3;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;10;0;92865.23;CoraVault;Lins;6h 48m 22s ;24502.02
+NPC;BAL;12;0;79519.3;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;-PRICE;24;0;136110.7;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83

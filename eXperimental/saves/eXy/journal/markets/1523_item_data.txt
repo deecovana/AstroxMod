@@ -5,3 +5,4 @@ PLAYER;-QTY;10;1;129851;Biomate University;Void Starcross;5h 2m 44s ;18164.65
 NPC;+STOCK;19;9;125474.7;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;48;9;95045.02;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;37;8;207190.9;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;19;0;129175.9;Biomate University;Void Starcross;6h 48m 22s ;24502.02

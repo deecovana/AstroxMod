@@ -1,0 +1,90 @@
+[s:30][c:yellow]Lacuna Bandits[/c][/s]
+Entertainment Hub
+Kilekom Anfer
+Pirate
+[c:lime]Dock fee 100[/c]
+Timestamp: 24350.74
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Keypad
+Basic Beam Impact Mod
+Basic Beam Energy Mod
+Basic Beam Explosive Mod
+Aluminium Plates
+Copperi Pipes
+Copperi Plates
+Dynex Crystal Resonator
+Electronic Switch
+Glass Panels
+Hand Tools
+Hardened Glass Panels
+Iron Coring Beams
+[c:orange]DEMAND[/c]
+Personal Clothing
+Hygiene Products
+Communication Device
+Transport Units
+Basic Energy Capacitor
+Improved Energy Capacitor
+Advanced Energy Capacitor
+Premium Energy Capacitor
+Prototype Energy Capacitor
+Basic Energy Generator
+Improved Energy Generator
+Advanced Energy Generator
+Premium Energy Generator
+Prototype Energy Generator
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+[c:red]SELL Order[/c] Market Goods: (2) Items 
+ (163) x Copperi Plates
+ (51) x Keypad
+Buy items for [c:lime]46,808 discount.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Ship Cargo Stacker
+Miner Basic Operation
+Miner Energy Optimization
+Module Mechanic
+Launcher Focal Range
+Beam Energy Optimization
+Passive Scanner Focal Range
+
+
+<Station Missions>
+[c:lime]HARVEST[/c]
+Harvest special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Crellara</color> and return with <color='yellow'>42</color> ore to Rendo Labs in <color='cyan'>Entropy</color>
+
+[c:lime]HARVEST[/c]
+Excavate special <color='yellow'>Special Quazor Ore</color> in <color='cyan'>Equalias Val</color> and return with <color='yellow'>82</color> to Valuestar Hub in <color='cyan'>Jelumus</color>
+
+
+
+<Station Ships>
+EC-1 Support Frigate / Frigate    (Support)
+BC-1 Alpharis Predator / Escort    (Battle)
+EC-1 Support Frigate / Frigate    (Support)
+RCA-1 Correlator / Destroyer    (Support)
+BC-1 Alpharis Predator / Escort    (Battle)
+TC-1 Kraken / Cruiser    (Excavation)
+SU-1 Archanis / Frigate    (Recon)
+ES-1 Shuttle / Shuttle    (Transport)

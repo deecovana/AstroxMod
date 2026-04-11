@@ -65,13 +65,13 @@ STARLIGHT;color_5;1.00;0.48;0.22;1.00
 STATION;sector_1_station_0.txt;-5118.6;60.8;-274.1;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_medical_1.txt;-5160.80;55.60;-1322.70
-STRUCTURE;structure_recon_1.txt;-4591.60;617.30;-1779.40
-STRUCTURE;structure_farm_1.txt;-5189.00;700.70;-1145.00
-STRUCTURE;structure_storage_1.txt;-4493.40;342.40;-1312.00
-STRUCTURE;structure_office_1.txt;-5146.50;379.00;-2020.30
-STRUCTURE;structure_energy_gen_1.txt;-4959.10;-24.30;-1722.80
 STRUCTURE;structure_storage_1.txt;-5546.50;138.20;-1504.30
+STRUCTURE;structure_energy_gen_1.txt;-4959.10;-24.30;-1722.80
+STRUCTURE;structure_office_1.txt;-5146.50;379.00;-2020.30
+STRUCTURE;structure_storage_1.txt;-4493.40;342.40;-1312.00
+STRUCTURE;structure_farm_1.txt;-5189.00;700.70;-1145.00
+STRUCTURE;structure_recon_1.txt;-4591.60;617.30;-1779.40
+STRUCTURE;structure_medical_1.txt;-5160.80;55.60;-1322.70
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;20;10;10;20;1000;1212.1;1.9;-2529.3;
@@ -102,7 +102,7 @@ RESOURCE;1;-830.8;-51.6;-2342.3;100;100
 RESOURCE;1;-997.1;-235.8;-2817.1;100;100
 RESOURCE;1;328.4;-94.2;-949.2;100;100
 RESOURCE;1;-102.9;-170.0;-1415.2;100;100
-RESOURCE;1;-325.4;-325.4;-1760.7;100;100
+RESOURCE;1;-360.2;-325.8;-1759.7;100;100
 RESOURCE;1;-1144.9;-362.0;-3037.5;100;100
 RESOURCE;1;104.1;-421.3;-1679.2;100;100
 RESOURCE;1;2509.1;273.9;-733.3;100;100
