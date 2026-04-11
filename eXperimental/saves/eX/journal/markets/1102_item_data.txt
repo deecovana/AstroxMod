@@ -1,7 +1,0 @@
-NPC;+STOCK;38;11;14355.38;Starbase Corporate Center;Void Starcross;7h 47m 19s ;28039.67
-NPC;+STOCK;24;10;24759.65;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
-PLAYER;-QTY;34;4;14339.08;Starbase Corporate Center;Void Starcross;14h 38m 11s ;52691.61
-NPC;-PRICE;28;0;25609.76;Lacuna Bandits;Ballast Crow;14h 47m 2s ;53222.26
-NPC;+STOCK;42;8;13953.95;Starbase Corporate Center;Void Starcross;19h 47m 17s ;71237.8
-NPC;+STOCK;32;8;24399.11;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
-NPC;+PRICE;65;0;19990.29;Oak Industries;Dorando Corridor;23h 1m 14s ;82874.7

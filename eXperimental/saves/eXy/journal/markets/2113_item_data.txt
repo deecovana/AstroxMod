@@ -5,3 +5,4 @@ NPC;-QTY;235;-2;55629.66;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10
 NPC;+STOCK;291;2;51029.54;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;237;2;54645.45;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;385;2;40490.61;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;384;-1;42422.66;Proctors Center;Void Starcross;5h 52m 15s ;21135.14

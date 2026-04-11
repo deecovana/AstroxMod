@@ -8,3 +8,5 @@ NPC;+STOCK;928;900;817.6042;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278
 NPC;+STOCK;850;831;659.5725;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;836;836;561.2954;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;949;872;795.8142;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;949;0;732.6895;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;-LOCAL;3;3;743.985;OmniTrust;Ponze;6h 16m 48s ;22608.67

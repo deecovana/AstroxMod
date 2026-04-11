@@ -1,8 +1,0 @@
-NPC;+STOCK;130;102;34.72056;Acrondia Hub;Temple Gates;4h 47m 59s ;17279.98
-NPC;+STOCK;374;101;36.1912;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
-NPC;-PRICE;211;0;19.92148;Daemon Ammunitions;Starfort Ramos;15h 13m 39s ;54819.5
-NPC;+QTY;315;104;19.86244;Daemon Ammunitions;Starfort Ramos;15h 31m 43s ;55903.28
-NPC;-PRICE;7;0;37.70528;Biomart;Veloxi;16h 31m 13s ;59473.96
-NPC;-QTY;0;-58;28.88213;Tella's;Bitcola;18h 54m 42s ;68082.57
-PLAYER;+QTY;0;6;0;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
-NPC;+STOCK;503;129;35.03817;Proctors Center;Void Starcross;19h 47m 17s ;71237.8

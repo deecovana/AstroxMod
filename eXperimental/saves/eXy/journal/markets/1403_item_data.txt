@@ -2,3 +2,4 @@ NPC;+STOCK;41;11;201242.6;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5
 NPC;-QTY;22;-8;206574.4;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+STOCK;63;10;179199.7;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;32;10;199869.1;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;-PRICE;1;0;136206.9;Gunstellar;Adrenal;6h 18m 15s ;22695.92

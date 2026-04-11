@@ -38,6 +38,8 @@ MERC;9;0.64;npc_ship_data_(pirate_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Sell Order Request for (1) Items ;210x14;2505;65667.76
+
 ITEM;1170;1;0.51
 ITEM;1054;6;1.11
 ITEM;1400;9;1.23

@@ -1,9 +1,0 @@
-PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;0h 56m 52s ;3412.489
-NPC;+STOCK;141;101;62.25448;Temple of the Void;Valley of Truths;4h 34m 31s ;16471.27
-NPC;+STOCK;646;128;59.18654;Lammassu Financial;Void Starcross;7h 47m 19s ;28039.67
-NPC;-QTY;507;-122;49.50928;StarGypsy Warehouse;Void Starcross;15h 18m 9s ;55089.98
-NPC;-QTY;206;-76;40.58306;PharmaLife;Carioullis;18h 52m 57s ;67977.59
-PLAYER;+QTY;0;4;0;Starbase Corporate Center;Void Starcross;18h 59m 49s ;68389.38
-NPC;+STOCK;651;133;58.66636;Lammassu Financial;Void Starcross;19h 47m 17s ;71237.8
-NPC;+STOCK;281;124;31.2219;Rendo Labs;Entropy;21h 34m 29s ;77669.09
-NPC;+STOCK;199;138;31.7037;Tella's;Bitcola;22h 36m 19s ;81379.42

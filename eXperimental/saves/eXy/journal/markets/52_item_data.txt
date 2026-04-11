@@ -11,3 +11,6 @@ NPC;-LOCAL;0;0;298.6576;Valuestar Hub;Jelumus;5h 18m 34s ;19114.57
 NPC;-QTY;0;-79;189.923;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;+STOCK;2217;2188;255.0551;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;2309;2254;184.2726;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;-LOCAL;0;0;340.9136;Valuestar Hub;Jelumus;5h 45m 4s ;20704.33
+NPC;BAL;2309;0;194.6821;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+LOCAL;69;6;167.4003;Oak Industries;Dorando Corridor;5h 53m 34s ;21214.17

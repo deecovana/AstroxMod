@@ -9,3 +9,6 @@ NPC;-LOCAL;0;0;216.7943;Valuestar Hub;Jelumus;5h 18m 34s ;19114.57
 NPC;+STOCK;2310;2231;152.1157;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;2616;2370;130.9436;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;1935;1837;101.3823;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;-LOCAL;0;0;242.1492;Valuestar Hub;Jelumus;5h 45m 4s ;20704.33
+NPC;BAL;1935;0;109.3594;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;45;0;151.0109;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34

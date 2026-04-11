@@ -8,3 +8,6 @@ NPC;+STOCK;4010;3721;103.6632;Lammassu Financial;Void Starcross;5h 37m 58s ;2027
 NPC;+STOCK;5449;4618;85.5293;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;4645;4645;122.2591;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;4580;4027;119.0432;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;4580;0;113.9064;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;-LOCAL;306;0;116.0662;Oak Industries;Dorando Corridor;5h 53m 34s ;21214.17
+NPC;-LOCAL;218;0;116.0662;Oak Industries;Dorando Corridor;6h 9m 6s ;22146.36

@@ -5,3 +5,4 @@ NPC;-LOCAL;0;0;129479.1;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
 NPC;+STOCK;69;11;118758.2;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;9;9;161997.9;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;17;10;126013.6;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;25;0;121144.5;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34

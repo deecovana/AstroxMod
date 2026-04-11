@@ -2,3 +2,4 @@ NPC;-QTY;689;-238;11.15747;Starbase Corporate Center;Void Starcross;2h 51m 54s ;
 NPC;+LOCAL;250;211;4.34525;Daemon Ammunitions;Starfort Ramos;4h 9m 18s ;14958.07
 NPC;+STOCK;926;237;10.56965;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;534;218;16.45491;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;287;-247;16.02339;Proctors Center;Void Starcross;5h 52m 15s ;21135.14

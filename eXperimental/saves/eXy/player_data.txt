@@ -2,14 +2,14 @@
 <PLAYER>
 PLAYER;name;eXy
 PLAYER;level;5
-PLAYER;xp;11316.00
+PLAYER;xp;12328.00
 PLAYER;next_level_xp;14100.00
 PLAYER;last_level_xp;9100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;77669476.00
+PLAYER;credits;76293130.72
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;13
-PLAYER;playtime;20527.12
+PLAYER;skill_points;3
+PLAYER;playtime;22757.04
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -22,19 +22,19 @@ PLAYER;autopilot_settings;True,False,True,True,False
 PLAYER;orbit_data;False,500,0,6,True
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
 PLAYER;cargo_settings;ALL,Name,Ascend,3
-PLAYER;targeting_settings;Name,Ascend
+PLAYER;targeting_settings;Distance,Ascend
 PLAYER;station_market_settings;SEARCH,Level,Ascend,100
 PLAYER;station_university_settings;SEARCH,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
-PLAYER;sector;sector_62.txt
-PLAYER;sector_id;62
-PLAYER;station;sector_62_station_0.txt
+PLAYER;sector;sector_0.txt
+PLAYER;sector_id;0
+PLAYER;station;sector_0_station_4.txt
 PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(support_utility_2)12149.txt;True;False;sector_0_station_0.txt;sector_0.txt;-292.19;439.61;1741.83
+SHIP;ship_data_(support_utility_2)12149.txt;True;False;sector_0_station_0.txt;sector_0.txt;4143.84;-1291.21;1603.90
 SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_0.txt;sector_0.txt;-608.22;-49.05;-4378.36
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
@@ -47,7 +47,7 @@ SKILL;214;3;0;0
 SKILL;58;5;0;0
 SKILL;54;3;0;0
 SKILL;52;2;0;140
-SKILL;51;1;0;0
+SKILL;51;2;0;120
 SKILL;53;4;0;0
 SKILL;41;2;0;240
 SKILL;11;2;0;240
@@ -81,16 +81,16 @@ STAT;6;Salvage Beams Fired;5;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;196;Excavation
+STAT;10;Mining lasers Fired;303;Excavation
 STAT;11;Adamyte Ore Mined;1326;Excavation
 STAT;12;Gradeon Ore Mined;360;Excavation
 STAT;13;Quazor Ore Mined;80;Excavation
 STAT;14;Lokken Ore Mined;56;Excavation
 STAT;15;Torim Ore Mined;212;Excavation
 STAT;16;Plasite Ore Mined;0;Excavation
-STAT;17;Dynex Ore Mined;0;Excavation
-STAT;18;Belasite Ore Mined;0;Excavation
-STAT;19;Xenox Ore Mined;0;Excavation
+STAT;17;Dynex Ore Mined;304;Excavation
+STAT;18;Belasite Ore Mined;270;Excavation
+STAT;19;Xenox Ore Mined;78;Excavation
 STAT;20;Zai Ore Mined;0;Excavation
 STAT;21;Electron Orbs Mined;0;Excavation
 STAT;22;Junk Collected;102;Excavation
@@ -109,8 +109,8 @@ STAT;34;Escort Missions Complete;0;Missions
 STAT;35;Recover Missions Complete;1;Missions
 STAT;36;Kill Missions Complete;6;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
-STAT;38;Sectors Explored;19;Navigation
-STAT;39;Warp gate Jumps;126;Navigation
+STAT;38;Sectors Explored;23;Navigation
+STAT;39;Warp gate Jumps;138;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;0;Missions
@@ -121,9 +121,9 @@ STAT;46;;0;
 STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
-STAT;50;Skill Levels Trained;18;Skills
+STAT;50;Skill Levels Trained;19;Skills
 STAT;51;Skill Points Earned;94;Skills
-STAT;52;Skill Points Spent;157;Skills
+STAT;52;Skill Points Spent;167;Skills
 STAT;53;;0;
 STAT;54;;0;
 STAT;55;;0;
@@ -134,7 +134,7 @@ STAT;59;Npcs Destroyed;0;Combat
 STAT;60;Raiders Destroyed;2;Combat
 STAT;61;Projectile Damage Taken;0;Combat
 STAT;62;Laser Damage Taken;36;Combat
-STAT;63;Beam Damage Taken;0;Combat
+STAT;63;Beam Damage Taken;136;Combat
 STAT;64;Missile Damage Taken;0;Combat
 STAT;65;Torpedo Damage Taken;0;Combat
 

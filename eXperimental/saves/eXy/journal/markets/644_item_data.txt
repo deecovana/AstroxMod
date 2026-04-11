@@ -3,3 +3,4 @@ NPC;-QTY;1;-3;48878.94;Starbase Corporate Center;Void Starcross;2h 51m 54s ;1031
 NPC;+STOCK;10;3;42318.08;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;46;3;62928.93;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;10;3;41120.48;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;6;-4;42779.18;Proctors Center;Void Starcross;5h 52m 15s ;21135.14

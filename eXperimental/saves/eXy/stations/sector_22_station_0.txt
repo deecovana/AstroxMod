@@ -41,6 +41,7 @@ MERC;7;1.92;npc_ship_data_(support_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (3) Items ;106x148,117x402,116x153;36778;106463.00
 BUYORDER;Market Low Inventory: (2) Items ;104x455,100x494;2403;87064.83
 SELLORDER;Market Stock: (1) Items ;331x126;28373;22954.97
 BUYORDER;Market Low Inventory: (2) Items ;113x358,111x452;26984;25605.54

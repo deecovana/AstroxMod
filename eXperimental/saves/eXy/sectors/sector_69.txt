@@ -4,7 +4,7 @@ SECTOR;name;Dorando Corridor
 SECTOR;level;5.0
 SECTOR;faction;Trade
 SECTOR;filename;sector_69.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;50
 SECTOR;population;40
 SECTOR;habitation;40
@@ -62,8 +62,8 @@ STARLIGHT;color_4;0.20;1.00;1.00;0.50
 STARLIGHT;color_5;0.00;0.48;0.25;1.00
 
 // STATION;Sector filename;X position;Y position;Z position
-STATION;sector_69_station_0.txt;3690;838;3706
-STATION;sector_69_station_1.txt;-3452;-205;-4836
+STATION;sector_69_station_0.txt;3690;838;3706;prescan
+STATION;sector_69_station_1.txt;-3452;-205;-4836;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
 STRUCTURE;structure_energy_gen_1.txt;378.00;-306.10;4462.00
@@ -83,13 +83,13 @@ STRUCTURE;structure_medical_1.txt;-2694.00;-86.00;-4638.00
 CLUSTER;3;50;100;300;6000;0;0;0
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;3;2086.6;1243.5;-2774.5;1000;1000
+RESOURCE;3;2094.6;1234.7;-2789.6;1000;1000
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_68.txt;2;-1296;130;4133;0;Trade;-1296.137
-WARPGATE;2;sector_70.txt;1;3262;138;4751;0;Trade;-0.3
-WARPGATE;3;sector_71.txt;1;3702;163;-2746;0;Trade;-0.2
-WARPGATE;4;sector_72.txt;1;-4610;-294;-3846;0;Trade;-4610.387
+WARPGATE;1;sector_68.txt;2;-1296;130;4133;0;Trade;-1296.137;prescan
+WARPGATE;2;sector_70.txt;1;3262;138;4751;0;Trade;-0.3;prescan
+WARPGATE;3;sector_71.txt;1;3702;163;-2746;0;Trade;-0.2;prescan
+WARPGATE;4;sector_72.txt;1;-4610;-294;-3846;0;Trade;-4610.387;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;16;6717;0;0;0;0;0;0.15,0.30,0.50,0.3;0.5;;;

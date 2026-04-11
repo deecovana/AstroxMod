@@ -14,3 +14,6 @@ NPC;+STOCK;2256;2136;28.15121;Biomate University;Void Starcross;5h 37m 58s ;2027
 NPC;+STOCK;2028;1846;16.2976;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;2008;2008;20.41414;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;2422;2052;22.25396;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;-LOCAL;0;0;47.83037;Valuestar Hub;Jelumus;5h 45m 4s ;20704.33
+NPC;+LOCAL;80;6;13.99872;Oak Industries;Dorando Corridor;5h 53m 34s ;21214.17
+NPC;+LOCAL;390;310;10.56002;Oak Industries;Dorando Corridor;6h 9m 6s ;22146.36

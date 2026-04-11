@@ -99,15 +99,20 @@ MODSLOT;module_slot;3; 99 ;0.00;1.66;1.16;0.00;0.00;0.00;0.80;0.80;0.80
 //; ----------------------------- SHIP MODULES --------------------------------------
 //; ----- MODULE,slot,module_id
 <MODULE>
-PMODULE; 1 ; 1533
-PMODULE; 2 ; 1533
-PMODULE; 3 ; 1533
-PMODULE; 4 ; 1533
+MODULE; 1 ; 1201;3;-30/30/-50/50/0
+MODULE; 2 ; 1201;4;-30/30/-50/50/0
+MODULE; 3 ; 1201;2;-30/30/-50/50/0
+PMODULE; 1 ; 1534
+PMODULE; 2 ; 1534
+PMODULE; 3 ; 1534
+PMODULE; 4 ; 1534
 PMODULE; 5 ; 1503
 PMODULE; 6 ; 1523
 //; ----------------------------- SHIP CARGO -----------------------------------------
 //; ----- CARGO, qty, cargo_id
 <CARGO>
+CARGO; 4 ; 1533
+CARGO; 3 ; 1101
 //; ----------------------------- SHIP DRONES -----------------------------------------
 //; ----- DRONE, id, hp, energy , is_docked, group_id
 <DRONE>

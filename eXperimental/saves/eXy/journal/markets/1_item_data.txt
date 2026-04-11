@@ -24,3 +24,4 @@ NPC;+STOCK;5285;4938;7.496492;Lammassu Financial;Void Starcross;5h 37m 58s ;2027
 NPC;+STOCK;5179;4538;4.474522;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;4557;3645;7.554001;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;4078;4002;9.896826;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;-LOCAL;2849;0;7.875;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93

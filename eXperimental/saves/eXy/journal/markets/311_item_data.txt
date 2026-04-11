@@ -27,3 +27,5 @@ NPC;+STOCK;887;788;123.9873;Biomate University;Void Starcross;5h 37m 58s ;20278.
 NPC;+STOCK;818;795;88.63049;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;940;904;179.1038;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;725;725;228.5536;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;1;0;97.68607;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;69;0;122.0393;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34

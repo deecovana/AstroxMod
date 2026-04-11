@@ -1,0 +1,132 @@
+[s:30][c:yellow]Mass Market[/c][/s]
+Market Center
+Bidjag Zofiejalis
+Trade
+[c:lime]Dock fee 100[/c]
+Timestamp: 21001.01
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Candy Cane
+Ornament
+Wrapped Box
+Medium Shield Charge
+Heavy Shield Charge
+Medium Armor Repair
+Heavy Armor Repair
+Medium Energy Charge
+Heavy Energy Charge
+Medium Life Support Pack
+Large Life Support Pack
+Light Shield Charge
+Light Armor Repair
+Light Energy Charge
+Small Life Support Pack
+[c:orange]DEMAND[/c]
+Basic 20mm
+Advanced 20mm
+Prototype 20mm
+Basic 60mm
+Advanced 60mm
+Prototype 60mm
+Basic Missile 
+Advanced Missile
+Prototype Missile 
+Basic Torpedo 
+Advanced Torpedo 
+Prototype Torpedo 
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Demands: (2) Items 
+ (293) x Advanced 20mm
+ (254) x Basic Missile 
+Fulfill order for [c:lime]74,793 profit.[/c]
+[c:green]BUY Order[/c] Market Needs Goods: (1) Items 
+ (27) x Prototype Missile 
+Fulfill order for [c:lime]6,600 profit.[/c]
+[c:green]BUY Order[/c] Market Demands: (2) Items 
+ (76) x Prototype 20mm
+ (68) x Basic Torpedo 
+Fulfill order for [c:lime]17,790 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Ship Shield Regeneration
+Laser Energy Optimization
+Market Distributor
+Projectile Damage Calibration
+Salvager Cycle Mechanics
+
+
+<Station Missions>
+[c:lime]REFINE[/c]
+Refine a light container of <color='yellow'>3</color> <color='yellow'>Xenox Ores</color> at the CoraVault station in <color='cyan'>Lins</color>
+
+[c:lime]RECOVER[/c]
+Recover a light quantity of <color='yellow'>2</color> <color='yellow'>Basic Rocket Launchers</color> in <color='cyan'>Lins</color>, and return to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+[c:lime]SCAN[/c]
+Track and scan the target <color='yellow'>Recon Center</color> structure in <color='cyan'>Dellis Primeria</color> and return to Proctors Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]COLLECT[/c]
+Gather a collection of <color='yellow'>2</color> <color='yellow'>Basic Missile Launchers</color> and dock the light shipment at Transporteers in <color='cyan'>Hunu</color>
+
+[c:lime]SCAN[/c]
+Locate and scan the <color='yellow'>Public Energy Generator</color> structure in <color='cyan'>Beacon Spita</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]ESCORT[/c]
+A ship in Horizons in <color='cyan'>Gate of Alpharis</color> needs an escort to Oro Omniplex Center in <color='cyan'>Merces Academy</color>
+
+[c:lime]KILL RECOVER[/c]
+Kill and Rob <color='yellow'><i>Engineer Aokee Borjoh</i></color> in <color='cyan'>Bitcola</color> and return to Horizons in <color='cyan'>Gate of Alpharis</color> with <color='yellow'>1</color> of <color='yellow'>Advanced Impact Armor</color>
+
+[c:lime]SCAN[/c]
+Find the target <color='yellow'>Community Farming Center</color> structure in <color='cyan'>Equalias Val</color>, scan, and return to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Liaison Gofou Youro</i></color> in <color='cyan'>Chaferea</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Undamaged Part</color> in <color='cyan'>Equalias Val</color> and return with <color='yellow'>97</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]KILL[/c]
+Assassinate in-experienced <color='yellow'><i>Commander Miwen Zancae</i></color> in <color='cyan'>Void Starcross</color> and return to The Dunes in <color='cyan'>The Dunes of Caliph</color>
+
+[c:lime]RECOVER[/c]
+Recover a light quantity of <color='yellow'>7</color> <color='yellow'>Assembly Tools</color> in <color='cyan'>Dorando Corridor</color>, and return to Crystalis Broadcasting in <color='cyan'>Jermicus</color>
+
+[c:lime]FABRICATE[/c]
+Manufacture <color='yellow'>7</color> <color='yellow'>Lidar Systems</color> at Lammassu Financial station fabricator in <color='cyan'>Void Starcross</color>
+
+[c:lime]KILL[/c]
+Hunt down a low level <color='yellow'><i>Doctor Xigore Oubue</i></color> in <color='cyan'>Dellis Primeria</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]DIALOG[/c]
+Detain <color='yellow'><i>Colonel Paxen Feyoucor</i></color> in <color='cyan'>Lins</color> and escort them to Gemini Mining in <color='cyan'>Jala</color>
+
+
+
+<Station Ships>
+RF-1 Assimilator / Escort    (Recon)
+SC-1 Bishop / Utility    (Support)
+BC-1 Alpharis Predator / Escort    (Battle)
+BE-1 Gabriel / Escort    (Battle)
+BE-1 Gabriel / Escort    (Battle)

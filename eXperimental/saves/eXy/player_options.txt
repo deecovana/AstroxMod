@@ -1,8 +1,8 @@
 // PLAYER OPTIONS FILE FOR ASTROX IMPERIUM
-// eXperimental 1600@60 modified values ~1.5x
+// eXperimental 1280@30 modified values ~1.5x
 
 //GRAPHICS OPTIONS
-OPTION_ui_scale;0.75
+OPTION_ui_scale;0.83
 OPTIONS_mouse_scroll_sensitivity;1
 OPTION_cam_drag;4
 OPTION_vsync;0
@@ -114,7 +114,7 @@ WORLD_OPTIONS_show_unexplored_sectors;False
 WORLD_OPTIONS_max_officer_table;0
 WORLD_OPTIONS_galaxy_map_max_distance;50000
 WORLD_OPTIONS_galaxy_map_auto;True
-WORLD_OPTIONS_target_framerate;60
+WORLD_OPTIONS_target_framerate;30
 WORLD_OPTIONS_target_framerate_30;30
 WORLD_OPTIONS_target_framerate_60;60
 WORLD_OPTIONS_follow_cam;False

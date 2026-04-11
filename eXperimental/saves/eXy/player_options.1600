@@ -1,20 +1,20 @@
 // PLAYER OPTIONS FILE FOR ASTROX IMPERIUM
-// eXperimental 1280@30 modified values ~1.5x
+// eXperimental 1600@60 modified values ~1.5x
 
 //GRAPHICS OPTIONS
-OPTION_ui_scale;0.75
-OPTIONS_mouse_scroll_sensitivity;2
+OPTION_ui_scale;0.80
+OPTIONS_mouse_scroll_sensitivity;1
 OPTION_cam_drag;4
 OPTION_vsync;0
-OPTION_depth;True
-OPTION_fog;True
+OPTION_depth;False
+OPTION_fog;False
 OPTION_blur;False
-OPTION_bloom;True
-OPTION_exposure;True
-OPTION_skybox;True
-OPTION_particles;True
-OPTION_space_traffic;True
-OPTION_station_traffic;True
+OPTION_bloom;False
+OPTION_exposure;False
+OPTION_skybox;False
+OPTION_particles;False
+OPTION_space_traffic;False
+OPTION_station_traffic;False
 OPTIONS_ui_color_1;0.2330064,0.2330057,0.2091258,0.99
 OPTIONS_ui_color_2;0.1912575,0.1912575,0.1912571,0.94
 OPTIONS_ui_color_3;0.2238802,0.2147547,0.2,0.99
@@ -50,9 +50,9 @@ OPTIONS_camera_rotation_drift;5
 OPTIONS_notify_box_size;1
 
 //AUDIO OPTIONS
-OPTION_music_vol;0.7499175
+OPTION_music_vol;0.47242
 OPTION_soundfx_vol;0.75
-OPTION_ui_vol;1.25
+OPTION_ui_vol;1
 OPTION_sound_chat_vol;0.7
 OPTION_sound_station_vol;0.7
 
@@ -114,7 +114,7 @@ WORLD_OPTIONS_show_unexplored_sectors;False
 WORLD_OPTIONS_max_officer_table;0
 WORLD_OPTIONS_galaxy_map_max_distance;50000
 WORLD_OPTIONS_galaxy_map_auto;True
-WORLD_OPTIONS_target_framerate;30
+WORLD_OPTIONS_target_framerate;60
 WORLD_OPTIONS_target_framerate_30;30
 WORLD_OPTIONS_target_framerate_60;60
 WORLD_OPTIONS_follow_cam;False

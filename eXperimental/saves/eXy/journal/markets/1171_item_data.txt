@@ -4,3 +4,5 @@ NPC;+STOCK;107;8;10059.56;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;62;9;6886.101;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;38;8;8649.745;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;79;10;10466.52;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;73;-6;10022.98;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;-LOCAL;9;9;9450;OmniTrust;Ponze;6h 16m 48s ;22608.67

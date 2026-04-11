@@ -1,3 +1,5 @@
 NPC;+LOCAL;12;3;191940.6;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
 NPC;+STOCK;26;10;396160.5;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;21;9;190876.6;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;10;-11;222942.5;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;-PRICE;38;0;344653.6;Gunstellar;Adrenal;6h 18m 15s ;22695.92

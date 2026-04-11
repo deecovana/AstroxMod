@@ -40,6 +40,7 @@ MERC;3;0.55;npc_ship_data_(support_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Selling Items: (2) Items ;2011x18,8x14;15582;63359.04
 ITEM;1;3390;1.10;8.35
 ITEM;1572;0;1.34;186049.10
 ITEM;1582;0;1.21;182352.40

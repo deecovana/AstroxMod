@@ -1,7 +1,0 @@
-NPC;+STOCK;450;115;1395.5;StarShepards Headquarters;Void Starcross;7h 47m 19s ;28039.67
-NPC;+STOCK;1101;117;1249.226;Proctors Center;Void Starcross;7h 47m 19s ;28039.67
-NPC;+LOCAL;150;562;444.236;ValueStar;Hunu;10h 24m 2s ;37442.54
-NPC;+QTY;586;136;1392.543;StarShepards Headquarters;Void Starcross;15h 31m 43s ;55903.28
-NPC;+STOCK;709;123;1360.278;StarShepards Headquarters;Void Starcross;19h 47m 17s ;71237.8
-NPC;+STOCK;1242;141;1200.669;Proctors Center;Void Starcross;19h 47m 17s ;71237.8
-NPC;BAL;600;-109;1407.912;StarShepards Headquarters;Void Starcross;22h 13m 8s ;79988.3

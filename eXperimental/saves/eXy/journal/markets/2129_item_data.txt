@@ -4,3 +4,4 @@ NPC;-QTY;171;-1;7363394;Starbase Corporate Center;Void Starcross;2h 51m 54s ;103
 NPC;+STOCK;310;2;6673918;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;173;2;7286033;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;46;2;7024314;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;44;-2;6491667;Proctors Center;Void Starcross;5h 52m 15s ;21135.14

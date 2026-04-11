@@ -1,3 +1,4 @@
 NPC;-QTY;0;-61;11.19251;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-QTY;0;-37;16.56617;PharmaLife;Carioullis;5h 30m 34s ;19834.27
 NPC;+STOCK;469;109;15.6598;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;305;0;13.72369;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34

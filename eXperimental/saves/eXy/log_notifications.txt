@@ -1,25 +1,7 @@
 //;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Valuestar Hub Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Valuestar Hub station.
+dock_fee.png;Starbase Corporate Center Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Starbase Corporate Center station.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Jelumus;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Coralor;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Ponze;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Hunu;Your ship has activated the warp gate and will soon arrive at your destination.
-//;LOG DATA FILE (Astrox Imperium)
-gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;StarShepards Headquarters Station - 25 Dock Fee.;You have been charged a docking fee for entry into the StarShepards Headquarters station.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;StarShepards Headquarters Station - 25 Dock Fee.;You have been charged a docking fee for entry into the StarShepards Headquarters station.
+dock_fee.png;Starbase Corporate Center Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Starbase Corporate Center station.
 //;LOG DATA FILE (Astrox Imperium)
 notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
 //;LOG DATA FILE (Astrox Imperium)
@@ -29,19 +11,37 @@ warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and wi
 //;LOG DATA FILE (Astrox Imperium)
 warpgate.png;Warp to Hunu;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;OmniTrust Station - 100 Dock Fee.;You have been charged a docking fee for entry into the OmniTrust station.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_1.png;Game speed Normal;The gamespeed has been set to normal speed. (x1) 
+//;LOG DATA FILE (Astrox Imperium)
 warpgate.png;Warp to Ponze;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
 warpgate.png;Warp to Coralor;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-sp_adjusted.png;+4 Skill Points Acquired.;Your time spent undocked has helped you to improve your skills. +4 skill points have been awarded to your pilot for use at the university.
+warpgate.png;Warp to Jelumus;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Kriox;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
 gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
 //;LOG DATA FILE (Astrox Imperium)
 notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
 //;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Valuestar Hub Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Valuestar Hub station.
+notify_gps_off.png;GPS Autopilot Error;Your GPS computer does not have the required warpgate information to travel to this location. You cannot use your GPS to travel through unexplored sectors.
 //;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+notify_gps_off.png;GPS Autopilot Error;Your GPS computer does not have the required warpgate information to travel to this location. You cannot use your GPS to travel through unexplored sectors.
 //;LOG DATA FILE (Astrox Imperium)
-notify_gps_autotarget.png;GPS Autotargeting Station;Your current GPS Autotarget has been located. You ship will autopilot to the location of this target.
+notify_gps_off.png;GPS Autopilot Error;Your GPS computer does not have the required warpgate information to travel to this location. You cannot use your GPS to travel through unexplored sectors.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Oak Industries Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Oak Industries station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Dorando Corridor;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+max_targets.png;Maximum Targets Acquired;Your ship's targeting computer has reached the maximum number of targets it can retain at once. Remove an item from your targeting panel before attempting to target another object.
 //;LOG DATA FILE (Astrox Imperium)

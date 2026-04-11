@@ -1,3 +1,5 @@
 NPC;+QTY;10;8;5301.267;Crystalis Broadcasting;Jermicus;3h 4m 7s ;11047.58
 NPC;+PRICE;2;0;6353.487;CoraVault;Lins;4h 31m 45s ;16305.97
 NPC;+STOCK;77;8;4820.716;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+QTY;13;9;7145.25;Mazu Starship;Volox;5h 48m 35s ;20915.76
+NPC;BAL;88;-9;7267.035;Proctors Center;Void Starcross;5h 52m 15s ;21135.14

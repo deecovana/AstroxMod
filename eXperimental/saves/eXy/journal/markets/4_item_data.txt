@@ -12,3 +12,5 @@ PLAYER;+QTY;126;56;46.7333;Starbase Corporate Center;Void Starcross;4h 5m 3s ;14
 NPC;+STOCK;5283;4386;32.15534;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;4097;3921;37.85282;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;4458;3818;33.595;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;4458;0;35.00896;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;-LOCAL;36;36;36.45445;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93

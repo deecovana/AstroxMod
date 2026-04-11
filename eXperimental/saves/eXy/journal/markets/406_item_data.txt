@@ -23,3 +23,5 @@ NPC;-LOCAL;0;0;1.910848;Biomate University;Void Starcross;5h 32m 1s ;19921.86
 NPC;+STOCK;813;813;2.267014;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;1675;675;0.3414813;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;932;921;1.343943;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;42;0;1.273016;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;5;0;1.539675;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34

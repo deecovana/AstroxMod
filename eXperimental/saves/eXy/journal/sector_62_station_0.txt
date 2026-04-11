@@ -3,7 +3,7 @@ Market Center
 Bosadjan Wagen
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 20531.15
+Timestamp: 20754.36
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -66,6 +66,7 @@ Fulfill order for [c:lime]20,471 profit.[/c]
 Visit station market to update prices.
 Acidic Residue  990 - z21
 Adamyte Ore  628 - z5
+Advanced 20mm  15 - z70
 Advanced 20mm (Doc)  19 - z34,418
 Advanced Armor Exterior  26 - z132,053
 Advanced ECM Resistance Field  71 - z596,043
@@ -94,7 +95,7 @@ Armor Plating  760 - z1,624
 Assembly Tools  31 - z3,936
 Assorted Gaskets  305 - z13
 Assorted Springs  458 - z55
-Basic 60mm  147 - z52
+Basic 60mm  2 - z52
 Basic Afterburner  42 - z23,209
 Basic Computer  414 - z2,313
 Basic ECM Energy Coil  9 - z211,366
@@ -176,10 +177,10 @@ Ham Sandwich  38 - z16,088
 Hand Tools  459 - z350
 Hardened Glass Panels  289 - z494
 Heavy Armor Bomb  42 - z81,845
-Heavy Armor Repair  32 - z57,632
+Heavy Armor Repair  25 - z49,187
 Heavy Energy Charge  10 - z55,644
 Heavy Salvage Drone  97 - z145,272
-Heavy Shield Charge  25 - z42,601
+Heavy Shield Charge  25 - z42,868
 Hydrogen  1082 - z4
 Hydrox Filter  21 - z383,677
 Hygiene Products  5 - z192
@@ -218,7 +219,7 @@ Light Armor Bomb  51 - z11,434
 Light Armor Repair  25 - z2,484
 Light Energy Charge  11 - z7,083
 Light Shield Bomb  68 - z10,084
-Light Shield Charge  25 - z2,695
+Light Shield Charge  25 - z2,663
 Lokken Ore  60 - z40
 Magnetic Quartz  987 - z5
 Mechanical Belts  444 - z53

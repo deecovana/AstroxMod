@@ -1,4 +1,10 @@
 //;LOG DATA FILE (Astrox Imperium)
+SELL;304;Dynex Ore;161;49076.6800;76293155.71875;Starbase Corporate Center;Void Starcross;6h 18m 26s 
+SELL;270;Belasite Ore;296;79901.9500;76244079.0429688;Starbase Corporate Center;Void Starcross;6h 18m 24s 
+SELL;78;Xenox Ore;488;38087.6500;76164177.0898438;Starbase Corporate Center;Void Starcross;6h 18m 21s 
+BUY;3;Basic Ore Harvester;17,366;52,098;76126314.4375;Oak Industries;Dorando Corridor;6h 0m 30s 
+BUY;4;Prototype Cargo Expansion;368,175;1,472,700;76178412.8125;Oak Industries;Dorando Corridor;5h 57m 7s 
+BUY;3;Basic Pulse Laser;5,113;15,339;77651112.8125;Oak Industries;Dorando Corridor;5h 54m 36s 
 SELL;47;Advanced ECM Energy Coil;1,405,737;66069650.0000;77669577.4566877;StarShepards Headquarters;Void Starcross;5h 36m 43s 
 BUY;47;Advanced ECM Energy Coil;335,890;15,786,820;11599950.4566877;Biomate University;Void Starcross;5h 34m 57s 
 SELL;1;Improved Thruster;2,730;2730.0000;27386765.4566877;Biomate University;Void Starcross;5h 32m 16s 

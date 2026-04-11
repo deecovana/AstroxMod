@@ -4,3 +4,4 @@ NPC;+QTY;9;6;28277.58;Nova Labs;Noah Fox;3h 5m 19s ;11119.64
 NPC;-LOCAL;0;0;28125;The Dunes;The Dunes of Caliph;3h 33m 3s ;12783.69
 NPC;-LOCAL;0;0;29619.78;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
 NPC;+STOCK;8;8;39848.71;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;-PRICE;25;0;29422.12;Gunstellar;Adrenal;6h 18m 15s ;22695.92

@@ -13,3 +13,4 @@ NPC;+QTY;13;8;2524.275;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
 NPC;-QTY;0;0;4483.547;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-LOCAL;0;0;6000;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38
 NPC;+PRICE;4;0;3276.737;Acrondia Corp.;Crown of Imperium;4h 31m 45s ;16305.97
+NPC;-LOCAL;12;12;2700;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93

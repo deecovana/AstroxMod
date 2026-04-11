@@ -3,7 +3,7 @@ Banking Facility
 Qevedles Zanlocki
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 14194.04
+Timestamp: 22644.76
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -73,9 +73,11 @@ Basic Engine Core  2 - z22,010
 Basic Explosive Armor  15 - z18,261
 Basic Filter  2 - z8,053
 Basic Heavy Cannon  11 - z5,316
+Basic Ion Beam  9 - z11,660
 Basic Missile Explosive Mod (Doc)  15 - z258,131
 Basic Missile Launcher (Doc)  72 - z30,432
 Basic Ore Harvester  9 - z15,266
+Basic Plasma Cannon  18 - z10,688
 Basic Pulse Laser  1 - z4,763
 Basic Scan Emitter  19 - z21,788
 Basic Shield Booster  6 - z18,511
@@ -94,14 +96,14 @@ Containment Unit  3 - z15,808
 Disposables  1 - z4,203
 Duct Work (Doc)  9 - z11,215
 ECM Sensors Jammer (Doc)  2 - z900,410
+Entertainment Electronics  3 - z918
 Fasteners  6 - z10
-Generic Construction Platform  26 - z5,690,525
+Generic Construction Platform  26 - z5,703,281
 Generic Heavy Laser  2 - z1,541
-Generic Ion Beam  15 - z3,331
+Generic Ion Beam  9 - z3,436
 Generic Light Turret  14 - z1,201
 Generic Missile Launcher (Doc)  52 - z11,665
 Generic Ore Harvester  19 - z3,322
-Generic Plasma Cannon  3 - z3,054
 Generic Pulse Laser  9 - z2,541
 Generic Railgun (Doc)  3 - z15,485
 Generic Torpedo Launcher  14 - z2,113
@@ -130,6 +132,7 @@ Liquid Coolant  195 - z14
 Lubricant  159 - z11
 Magnetic Quartz  68 - z4
 Mechanical Belts  194 - z37
+Media Recordings  14 - z2,020
 Medium Armor Bomb  19 - z22,962
 Metal Brackets  149 - z24
 Metal Gears  4 - z21
@@ -161,17 +164,17 @@ Sensor Array (Doc)  15 - z48,839
 Small Combat Drone  6 - z4,863
 Small Mining Drone  8 - z5,043
 Small Tractor Drone  26 - z16,957
-Spaceframe  36 - z4,712
+Spaceframe  36 - z4,697
 Spotlight  1 - z13,655
 Steelium Beam  25 - z8
 Steelium Pipes  182 - z17
 Thermal Controller  5 - z6,863
-Thermal Systems Package  41 - z5,654
+Thermal Systems Package  41 - z5,655
 Thruster Casing (Doc)  7 - z48,650
 Titan Combat Drone  30 - z270,109
 Tractor Beam  15 - z10,646
 Water  218 - z2
-Weapon Systems Package  35 - z6,900
+Weapon Systems Package  35 - z6,911
 Weapon Systems Package (Doc)  12 - z60,668
 Wrapped Box  5 - z15
 
@@ -180,9 +183,6 @@ Wrapped Box  5 - z15
 
 
 <Station Missions>
-[c:lime]DELIVERY[/c]
-Light delivery of <color='yellow'>Cooling Units</color> to The Dunes Station in <color='cyan'>The Dunes of Caliph</color>
-
 [c:lime]SCAN[/c]
 Track and scan the target <color='yellow'>Corporate Dock</color> structure in <color='cyan'>Dellis Primeria</color> and return to Holosynth Industries in <color='cyan'>Rats Of Mortalis</color>
 
@@ -200,6 +200,12 @@ Head to Gunstellar in <color='cyan'>Adrenal</color>, pick up <color='yellow'>7</
 
 [c:lime]REFINE[/c]
 Dock at the ValueStar station refinery in <color='cyan'>Hunu</color> and process a light shipment of <color='yellow'>4</color> <color='yellow'>Electronic Fragments</color>
+
+[c:lime]DIALOG[/c]
+Chat with <color='yellow'><i>Major Kinue Fifon</i></color> about his debt in <color='cyan'>Chaferea</color> and return to Oro Omniplex Center in <color='cyan'>Merces Academy</color>
+
+[c:lime]SCAN[/c]
+Locate and scan <color='yellow'><i>Sir Visvo Farkeeah</i></color> in <color='cyan'>Arch of Mori</color> and return to CoraVault in <color='cyan'>Lins</color>
 
 
 

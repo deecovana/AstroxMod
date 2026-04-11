@@ -3,3 +3,4 @@ NPC;-LOCAL;0;0;31875;Proctors Center;Void Starcross;0h 23m 57s ;1437.134
 NPC;-LOCAL;0;0;42331.52;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
 PLAYER;-QTY;26;1;29343.75;Daemon Ammunitions;Starfort Ramos;0h 54m 42s ;3282.034
 PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;5h 32m 7s ;19927.98
+NPC;BAL;8;8;51712.2;Proctors Center;Void Starcross;5h 52m 15s ;21135.14

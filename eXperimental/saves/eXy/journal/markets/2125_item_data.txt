@@ -4,3 +4,5 @@ NPC;-QTY;158;-1;45988.85;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10
 NPC;-QTY;1;-2;29548.75;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
 NPC;+STOCK;496;2;18814.11;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;160;2;44219;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;446;-2;32626.15;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;3;0;30507.73;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34

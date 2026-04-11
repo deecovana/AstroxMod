@@ -17,3 +17,5 @@ NPC;-QTY;0;-148;116.332;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;+STOCK;2759;2304;118.3536;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;1957;1881;259.0588;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;1952;1952;205.4347;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;-LOCAL;0;0;317.9614;Valuestar Hub;Jelumus;5h 45m 4s ;20704.33
+NPC;+PRICE;27;0;131.527;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34

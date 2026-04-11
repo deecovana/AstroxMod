@@ -6,3 +6,5 @@ NPC;+STOCK;815;232;11.24556;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.
 NPC;+STOCK;984;248;6.733256;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;430;203;6.187061;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;950;203;10.8749;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;BAL;707;-243;11.03622;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;242;0;10.94335;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34

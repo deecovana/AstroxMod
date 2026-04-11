@@ -10,3 +10,8 @@ NPC;+STOCK;2328;2328;2992.751;Lammassu Financial;Void Starcross;5h 37m 58s ;2027
 NPC;+STOCK;2049;1799;586.5838;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;2210;2190;898.0288;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;2692;2312;1215.895;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;-LOCAL;0;0;1609.682;Valuestar Hub;Jelumus;5h 45m 4s ;20704.33
+NPC;BAL;1279;-1413;1139.079;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+PRICE;0;0;2027.406;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
+NPC;+PRICE;17;0;981.1456;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34
+NPC;+LOCAL;381;370;395.9553;Oak Industries;Dorando Corridor;6h 9m 6s ;22146.36
