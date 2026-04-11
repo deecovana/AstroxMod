@@ -1,0 +1,100 @@
+[s:30][c:yellow]Gemini Mining[/c][/s]
+Mining Facility
+Biraemi Xoqi
+Labor
+[c:lime]Dock fee 100[/c]
+Timestamp: 12472.84
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Disposables
+Containment Unit
+Waste Processor
+Waste Burner
+Bio Converter
+Bio Disposables
+Containment Processor
+Advanced Waste Unit
+Biowaste Processor
+Fusion Biomax
+Generic Ore Harvester
+Basic Ore Harvester
+Advanced Ore Harvester
+Gradeon Extractor
+Improved Ore Harvester
+Premium Ore Harvester
+Dynex Extractor
+Prototype Ore Harvester
+Torim Extractor
+Belasite Extractor
+Zai Extractor
+Quazor Extractor
+Xenox Extractor
+Lokken Extractor
+Adamyte Extractor
+Plasite Extractor
+[c:orange]DEMAND[/c]
+Adamyte Ore
+Gradeon Ore
+Quazor Ore
+Lokken Ore
+Torim Ore
+Plasite Ore
+Dynex Ore
+Belasite Ore
+Xenox Ore
+Zai Ore
+Media Recordings
+Musical Instruments
+Entertainment Electronics
+Sporting Equipment
+Gaming Devices
+Childrens Toys
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Ship Garage
+University
+Ship Hangar
+Fabricator
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Needs Goods: (2) Items 
+ (292) x Plasite Ore
+ (158) x Adamyte Ore
+Fulfill order for [c:lime]19,877 profit.[/c]
+[c:green]BUY Order[/c] Market Demands: (2) Items 
+ (76) x Belasite Ore
+ (50) x Lokken Ore
+Fulfill order for [c:lime]12,238 profit.[/c]
+[c:green]BUY Order[/c] Market Demands: (1) Items 
+ (47) x Torim Ore
+Fulfill order for [c:lime]3,557 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Beam Cycle Mechanics
+Passive Scanner Focal Range
+Launcher Focal Range
+Fabrication Accountant
+Armor Mechanic
+Launcher Damage Calibration
+Storage Accountant
+Merc Negotiations
+University Academic
+
+
+<Station Missions>
+
+
+<Station Ships>
+PCA-1 Pirate Destroyer / Destroyer    (Battle)
+TCA-1 Mule / Utility    (Support)
+SE-1 Prophet / Frigate    (Assault)

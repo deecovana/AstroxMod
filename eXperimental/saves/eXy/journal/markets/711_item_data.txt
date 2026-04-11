@@ -1,1 +1,5 @@
 NPC;+QTY;31;14;23130;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+STOCK;163;16;14128.93;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+STOCK;47;16;22178.77;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-QTY;135;-12;15228.38;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-QTY;0;-6;20437.65;PharmaLife;Carioullis;5h 30m 34s ;19834.27

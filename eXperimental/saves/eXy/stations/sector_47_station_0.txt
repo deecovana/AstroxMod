@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;4-2-1-3-0-0-8-0-3-2-1-3-1-5-3-0-8-0-4-3-3-7-0
 STATION;interior_seed;3-4-0-9
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;11144.66
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -39,6 +42,10 @@ MERC;6;1.61;npc_ship_data_(support_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (2) Items ;301x380,301x66;17346;94980.79
+BUYORDER;Market Shortage: (2) Items ;302x270,301x172;32740;90176.94
+BUYORDER;Market Out of Stock: (2) Items ;300x100,302x274;40307;73931.12
+
 SELLORDER;Market Stock: (1) Items ;104x196;218;69498.70
 BUYORDER;Market Shortage: (1) Items ;302x129;13652;64188.59
 ITEM;1150;33;0.62
@@ -258,6 +265,8 @@ SKILL;75;0.94
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;12;30;452847;DELIVERY#3#1015#sector_14_station_0.txt#sector_14_station_1.txt#null#null#null#null;Light delivery of <color='yellow'>Improved Railguns</color> to Imperium Republica  Station in <color='cyan'>Gate of Alpharis</color>;16;<i>Caekadd Fastzils</i> from Horizons Station has commissioned a delivery . He has required a small transport delivery of <color='yellow'>3</color> <color='yellow'>Improved Railguns</color>. Set your GPS autopilot to <color='cyan'>Gate of Alpharis</color> and deliver these <color='yellow'>Improved Railguns</color> to Imperium Republica  immediately.;11331;1531
+MISSION;52;30;743524;SCAN_STRUCTURE#sector_78_station_0.txt#sector_0.txt#Recon Center#structure_recon_1.txt#1#null#null#null;Track and scan the target <color='yellow'>Recon Center</color> structure in <color='cyan'>Void Starcross</color> and return to Tella's in <color='cyan'>Bitcola</color>;16;The Enforcement faction has commissioned scientific survey of a strange vibration taking place at <color='yellow'>Recon Center</color> in the <color='cyan'>Void Starcross</color> sector. Head over to <color='cyan'>Void Starcross</color> and scan the <color='yellow'>Recon Center</color> structure. Once complete, return to the Tella's station located in the <color='cyan'>Bitcola</color> with the scan data.;17456;7656
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -268,3 +277,4 @@ SHIP;4;1.07;ship_data_(recon_utility_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

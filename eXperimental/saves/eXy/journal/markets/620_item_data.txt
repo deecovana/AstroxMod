@@ -1,1 +1,5 @@
 NPC;+QTY;6;3;3788.75;Crystalis Broadcasting;Jermicus;1h 7m 10s ;4030.626
+NPC;+QTY;6;4;5892.469;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
+NPC;-QTY;9;-2;6051.609;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+PLAYER;+QTY;42;1;4951.188;StarShepards Headquarters;Void Starcross;3h 9m 56s ;11396.86
+NPC;-QTY;5;-2;8060.981;PharmaLife;Carioullis;5h 30m 34s ;19834.27

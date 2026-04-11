@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;22
 SECTOR;name;Solitudes of Frey
-SECTOR;level;4.9
+SECTOR;level;4.8
 SECTOR;faction;Alpha
 SECTOR;filename;sector_22.txt
 SECTOR;is_explored;False

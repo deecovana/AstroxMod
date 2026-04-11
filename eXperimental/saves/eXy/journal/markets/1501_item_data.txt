@@ -1,3 +1,8 @@
 PLAYER;-QTY;32;1;43485.75;StarShepards Headquarters;Void Starcross;0h 44m 3s ;2643.498
 NPC;+QTY;38;7;32340;Gunstellar;Adrenal;1h 7m 10s ;4030.626
 NPC;+QTY;16;9;45517.5;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;-LOCAL;14;0;47250;Oro Omniplex Center;Merces Academy;3h 30m 32s ;12632.26
+NPC;-LOCAL;4;0;47250;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
+NPC;-LOCAL;0;0;48007.77;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
+NPC;+PRICE;5;0;34756.86;CoraVault;Lins;4h 31m 45s ;16305.97
+PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;5h 32m 16s ;19936.14

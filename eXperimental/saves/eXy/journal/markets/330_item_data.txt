@@ -1,2 +1,4 @@
 NPC;-LOCAL;33;0;1851.052;Proctors Center;Void Starcross;0h 23m 57s ;1437.134
 NPC;-LOCAL;0;0;2488.273;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
+NPC;+STOCK;948;878;1051.91;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;0;-70;1119.035;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01

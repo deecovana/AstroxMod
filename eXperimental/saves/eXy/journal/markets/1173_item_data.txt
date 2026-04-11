@@ -1,2 +1,4 @@
 NPC;+STOCK;39;11;128710.6;Biomate University;Void Starcross;0h 7m 1s ;421.4978
 NPC;+QTY;48;9;62769;Gunstellar;Adrenal;1h 7m 10s ;4030.626
+NPC;-LOCAL;0;0;156922.5;CoraVault;Lins;2h 47m 52s ;10072.21
+NPC;-QTY;0;0;194280;CoraVault;Lins;5h 30m 34s ;19834.27

@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-4-0-5-7-1-0-0-7-7-3-5-90
 STATION;interior_seed;4-6-30-2
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;12471.84
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -41,6 +44,7 @@ MERC;4;1.95;npc_ship_data_(support_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Needs Goods: (2) Items ;6x292,1x158;35948;86244.78
 BUYORDER;Market Demands: (2) Items ;8x76,4x50;24645;64371.37
 BUYORDER;Market Demands: (1) Items ;5x47;4687;6412.37
 ITEM;1171;9;0.96
@@ -179,6 +183,11 @@ SKILL;234;1.99
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;92;90;339399;KILL_PILOT#sector_3_station_0.txt#sector_60.txt#Scribe Leifa Qoza#npc_ship_data_(support_escort_2)#7#null#null#null;Execute <color='yellow'><i>Scribe Leifa Qoza</i></color> in <color='cyan'>Veloxi</color> and return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;12;A low level criminal has finally hit the radar of the Astrox Security Patrol. A new kill contract has been issued for <color='yellow'><i>Scribe Leifa Qoza</i></color> located in <color='cyan'>Veloxi</color>. <color='yellow'><i>Scribe Leifa Qoza</i></color> has been know to pull some sneaky tricks during combat, so be careful when engaging him. After his ship has been destroyed, head to Daemon Ammunitions station in the <color='cyan'>Starfort Ramos</color> system.;36430;13782
+MISSION;121;45;776497;CHAT_PILOT#sector_0_station_0.txt#sector_15.txt#Sir Zenostra Visateao#npc_ship_data_(kj_utility_2)#20#missions_debt_collection.txt#0#null;Chat with <color='yellow'><i>Sir Zenostra Visateao</i></color> about his debt in <color='cyan'>Jermicus</color> and return to Biomate University in <color='cyan'>Void Starcross</color>;12;<i>Altad Case</i> has requested that debt be collected from <color='yellow'><i>Sir Zenostra Visateao</i></color>. After 3 payments to the Labor faction for transport fines, <color='yellow'><i>Sir Zenostra Visateao</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Sir Zenostra Visateao</i></color> was in the vicinity of the <color='cyan'>Jermicus</color> system. Have a chat with them, collect the debt, and return to the Biomate University in the <color='cyan'>Void Starcross</color> system to deliver the payment.;12810;4375
+MISSION;141;90;283624;REFINE#27#20#sector_3_station_0.txt#sector_0_station_4.txt#null#null#null#null;Refine a light container of <color='yellow'>27</color> <color='yellow'>Junk Parts</color> at the Daemon Ammunitions station in <color='cyan'>Starfort Ramos</color>;12;The Labor Faction has commissioned a refinery liaison, <i>Naxe Voxa</i> at Starbase Corporate Center. After an audit, <color='yellow'>27</color> items of <color='yellow'>Junk Parts</color> were left unused. Head on over to <color='cyan'>Starfort Ramos</color> and refine these <color='yellow'>Junk Parts</color> at the Daemon Ammunitions refinery.;11813;2625
+MISSION;110;60;783735;KILL_RAIDERS#sector_47_station_0.txt#sector_1.txt#1#10#npc_ship_data_(ATC_Libra)#random#random#random;Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Dellis Primeria</color> and return to Gunstellar in <color='cyan'>Adrenal</color>;12;There has been a small Raider gang hanging around the warp gates in <color='cyan'>Dellis Primeria</color>. The Labor faction has requested a sector clearance contract. Head on over to the <color='cyan'>Dellis Primeria</color> and clear out the <color='yellow'>1 Raider</color>, level 10 Raiders that have set up camp there. Dock at the Gunstellar station in <color='cyan'>Adrenal</color> when complete.;6875;2063
+MISSION;81;60;934030;RECOVER#91#2008#sector_78.txt#sector_0_station_3.txt#null#null#null#null;Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Bitcola</color> sector, and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>;12;<i>Ilslea Buegalewho</i> has lost track of a shipment crate from his last haul. It has been reported found in <color='cyan'>Bitcola</color>. In an effort to save time, <i>Ilslea Buegalewho</i> has sub-contracted the task of returning the light shipment to StarShepards Headquarters in <color='cyan'>Void Starcross</color>. The Labor faction is aware of the situation and has sent a representative to StarShepards Headquarters.;14413;4923
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -188,3 +197,4 @@ SHIP;3;0.92;ship_data_(support_escort_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

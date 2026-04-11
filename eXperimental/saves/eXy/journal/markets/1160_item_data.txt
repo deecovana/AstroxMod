@@ -1,0 +1,8 @@
+NPC;+PRICE;15;0;1785.965;Gek Mining;Alias Outpost;2h 22m 22s ;8542.287
+NPC;-LOCAL;0;0;2607;CoraVault;Lins;2h 29m 50s ;8990.045
+NPC;+STOCK;16;11;1788.653;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-LOCAL;0;0;2959;CoraVault;Lins;2h 47m 52s ;10072.21
+NPC;-QTY;0;-8;1776.5;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;+PRICE;3;0;1626.129;Keyworx;Geminey;3h 39m 34s ;13174.54
+NPC;-LOCAL;3;0;2475;OmniTrust;Ponze;3h 55m 37s ;14137.01
+NPC;-QTY;0;-3;2775.451;Quah Relay Station;Noah Fox;5h 30m 34s ;19834.27

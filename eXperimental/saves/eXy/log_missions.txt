@@ -1,4 +1,23 @@
 //;LOG DATA FILE (Astrox Imperium)
+COMPLETED;Salvage;Salvage S...;32,175;384245.156800628;ValueStar;Hunu;3h 52m 10s 
+ACCEPTED;Salvage;Salvage Special Junk Part...;-488.25;186856.739588737;Oro Omniplex Center;Merces Academy;3h 38m 11s 
+COMPLETED;Delivery;Dock at Daemon Ammunition...;27,535;172341.755213737;Daemon Ammunitions;Starfort Ramos;3h 24m 51s 
+ACCEPTED;Delivery;Dock at Daemon Ammunition...;-47162.5;97744.7552137375;Quantex;Dellis Primeria;3h 21m 45s 
+COMPLETED;Fabricate;Produce a light container...;14,378;138298.380213737;Quantex;Dellis Primeria;3h 17m 56s 
+ACCEPTED;Fabricate;Produce a light container...;-5262;121320.129237175;StarShepards Headquarters;Void Starcross;3h 11m 48s 
+COMPLETED;Scan;Find the target ;23,001;118711.437335014;StarShepards Headquarters;Void Starcross;3h 9m 26s 
+COMPLETED;Harvest;Harvest special ;11,930;95735.2517881393;Starbase Corporate Center;Void Starcross;3h 8m 49s 
+ACCEPTED;Scan;Find the target Storage F...;-0;93193.9767881632;CoraVault;Lins;2h 50m 43s 
+COMPLETED;Refine;Refine 8;31,894;82155.8361631632;CoraVault;Lins;2h 47m 47s 
+COMPLETED;Harvest;Excavate special ;31,473;49881.7804431915;Horizons;Gate of Alpharis;2h 41m 36s 
+ACCEPTED;Refine;Refine 8 Belasite Ores at...;-466.14;18260.2288837433;Tella's;Bitcola;2h 37m 59s 
+ACCEPTED;Harvest;Excavate special Special ...;-248.325;18926.3688983917;CoraVault;Lins;2h 31m 11s 
+COMPLETED;Recover;Locate a light ;14,457;26862.9313964844;ValueStar;Hunu;2h 27m 56s 
+ACCEPTED;Recover;Locate a light Crate in t...;-2500;10006.1813964844;Transporteers;Hunu;2h 25m 26s 
+COMPLETED;Transport;Transport a light shipmen...;10,000;12506.1813964844;Transporteers;Hunu;2h 24m 18s 
+ACCEPTED;Transport;Transport a light shipmen...;-634.53;2096.6513671875;StarShepards Headquarters;Void Starcross;2h 17m 42s 
+ABORTED;Harvest;Harvest special ;-6,750;-6523.47998046875;Undocked;Void Starcross;1h 14m 23s 
+ABORTED;Harvest;Harvest special ;-6,750;226.52001953125;Undocked;Void Starcross;1h 13m 17s 
 ACCEPTED;Harvest;Harvest special Special A...;-122.5;28370.2890625;StarShepards Headquarters;Void Starcross;0h 45m 38s 
 ACCEPTED;Harvest;Harvest special Special A...;-126;28492.7890625;StarShepards Headquarters;Void Starcross;0h 45m 36s 
 COMPLETED;Kill Pilot;( Tutorial 2 ) Destroy ta...;4,457;72087.0500917435;Biomate University;Void Starcross;0h 38m 14s 

@@ -1,1 +1,5 @@
 NPC;+QTY;769;753;674.4238;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+STOCK;1020;966;627.3141;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;994;983;914.0823;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+STOCK;1436;667;661.3641;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-QTY;0;-54;652.3635;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01

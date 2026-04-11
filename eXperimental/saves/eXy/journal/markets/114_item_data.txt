@@ -1,1 +1,6 @@
 NPC;+QTY;344;233;2.645037;Crystalis Broadcasting;Jermicus;1h 7m 10s ;4030.626
+NPC;+STOCK;567;227;2.307582;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+STOCK;496;221;2.360047;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-QTY;148;-192;2.368595;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+LOCAL;250;645;0.84175;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
+NPC;-QTY;0;-54;1.865933;CoraVault;Lins;5h 30m 34s ;19834.27

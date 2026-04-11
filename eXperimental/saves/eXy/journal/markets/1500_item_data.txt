@@ -1,0 +1,6 @@
+NPC;+QTY;20;11;19558.28;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;-LOCAL;7;0;23625;Oro Omniplex Center;Merces Academy;3h 30m 32s ;12632.26
+NPC;-LOCAL;0;0;24849.76;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
+NPC;-LOCAL;0;0;25263.89;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
+NPC;+STOCK;52;11;11132.1;Medicore University;Cliffs of Drameria;4h 11m 54s ;15114.28
+NPC;-QTY;20;-8;27309.19;CoraVault;Lins;5h 30m 34s ;19834.27

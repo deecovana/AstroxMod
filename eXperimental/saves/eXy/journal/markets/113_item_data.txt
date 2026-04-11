@@ -1,0 +1,4 @@
+NPC;+STOCK;328;242;6.551767;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+STOCK;658;246;3.97967;CoraVault;Lins;2h 47m 33s ;10053.19
+NPC;-QTY;0;-86;6.737125;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+LOCAL;250;668;2.09625;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62

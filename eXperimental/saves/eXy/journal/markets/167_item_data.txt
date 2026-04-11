@@ -1,0 +1,5 @@
+NPC;+PRICE;148;0;68.85362;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
+NPC;+STOCK;219;100;37.54113;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+STOCK;348;135;71.91978;CoraVault;Lins;2h 47m 33s ;10053.19
+NPC;-QTY;0;-119;40.8057;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-QTY;19;-80;42.54549;PharmaLife;Carioullis;5h 30m 34s ;19834.27

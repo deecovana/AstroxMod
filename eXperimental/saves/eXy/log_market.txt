@@ -1,4 +1,61 @@
 //;LOG DATA FILE (Astrox Imperium)
+SELL;47;Advanced ECM Energy Coil;1,405,737;66069650.0000;77669577.4566877;StarShepards Headquarters;Void Starcross;5h 36m 43s 
+BUY;47;Advanced ECM Energy Coil;335,890;15,786,820;11599950.4566877;Biomate University;Void Starcross;5h 34m 57s 
+SELL;1;Improved Thruster;2,730;2730.0000;27386765.4566877;Biomate University;Void Starcross;5h 32m 16s 
+SELL;1;Basic Cargo Expansion;1,625;1625.0000;27384035.4566877;Biomate University;Void Starcross;5h 32m 7s 
+BUY;1;Synth Filter;75,335;75,335;27382410.4566877;StarShepards Headquarters;Void Starcross;5h 28m 4s 
+BUY;1;Bio Disposables;122,441;122,441;27457745.8629377;StarShepards Headquarters;Void Starcross;5h 27m 30s 
+BUY;1;Thermal Generex;73,038;73,038;27580186.9879377;StarShepards Headquarters;Void Starcross;5h 26m 41s 
+BUY;1;Cheese and Crackers;75,335;75,335;27653224.5504377;StarShepards Headquarters;Void Starcross;5h 26m 13s 
+SELL;33;Basic ECM Energy Coil;839,422;27700920.0000;27728559.9566877;StarShepards Headquarters;Void Starcross;5h 22m 56s 
+BUY;33;Basic ECM Energy Coil;208,065;6,866,151;27662.9566876888;Valuestar Hub;Jelumus;5h 19m 21s 
+BUY;1;Premium Thruster;178,344;178,344;6893913.45668769;Biomate University;Void Starcross;5h 7m 55s 
+BUY;1;Premium Cargo Expansion;196,314;196,314;7072257.00356269;Biomate University;Void Starcross;5h 7m 31s 
+BUY;1;Premium Afterburner;129,851;129,851;7402804.29262519;Biomate University;Void Starcross;5h 2m 44s 
+BUY;1;Premium Thruster;176,664;176,664;7532655.29262519;Biomate University;Void Starcross;5h 2m 16s 
+BUY;1;Premium Thruster;174,984;174,984;7709318.83950019;Biomate University;Void Starcross;5h 1m 11s 
+BUY;1;Premium Afterburner;128,251;128,251;7884302.38637519;Biomate University;Void Starcross;5h 0m 36s 
+BUY;4;Premium Cargo Expansion;194,314;777,255;8012553.38637519;Biomate University;Void Starcross;5h 0m 0s 
+SELL;15;Basic ECM Energy Coil;632,037;9480550.0000;10945405.8863752;StarShepards Headquarters;Void Starcross;4h 45m 57s 
+BUY;15;Basic ECM Energy Coil;204,765;3,071,473;1464880.88637519;Valuestar Hub;Jelumus;4h 42m 4s 
+SELL;8;Basic ECM Energy Coil;558,346;4466770.0000;4536453.88637519;StarShepards Headquarters;Void Starcross;4h 38m 11s 
+BUY;8;Basic ECM Energy Coil;201,465;1,611,716;69708.8863751888;Valuestar Hub;Jelumus;4h 35m 41s 
+SELL;3;Basic ECM Energy Coil;500,264;1500793.0000;1681525.13637519;StarShepards Headquarters;Void Starcross;4h 31m 59s 
+BUY;3;Basic ECM Energy Coil;198,164;594,493;180856.886375189;Valuestar Hub;Jelumus;4h 26m 33s 
+SELL;2;Basic ECM Energy Coil;384,574;769147.1000;775449.511375189;StarShepards Headquarters;Void Starcross;4h 22m 8s 
+BUY;2;Basic ECM Energy Coil;194,864;389,728;6327.44887518883;Valuestar Hub;Jelumus;4h 19m 53s 
+SELL;2090;Magnetic Quartz;2.98;6232.6240;396155.167625189;StarShepards Headquarters;Void Starcross;4h 13m 45s 
+BUY;1206;Magnetic Quartz;2.09;2,526;389947.544090033;Medicore University;Cliffs of Drameria;4h 12m 2s 
+BUY;634;Magnetic Quartz;2.24;1,420;392573.693748236;Lammassu Financial;Void Starcross;4h 10m 55s 
+BUY;250;Magnetic Quartz;1.28;319.8;394018.620383978;Daemon Ammunitions;Starfort Ramos;4h 9m 36s 
+SELL;56;Lokken Ore;37.39;2093.6470;394438.43877387;Starbase Corporate Center;Void Starcross;4h 5m 3s 
+SELL;9;Junk Part;7.23;65.1105;392670.891312957;ValueStar;Hunu;3h 52m 23s 
+SELL;1;Improved Filter;8,361;8360.6240;392605.780824065;ValueStar;Hunu;3h 52m 20s 
+SELL;11;Active Scanner;30,935;340284.6000;351782.143128753;Oro Omniplex Center;Merces Academy;3h 41m 0s 
+BUY;11;Active Scanner;16,060;176,660;11697.5181287527;The Dunes;The Dunes of Caliph;3h 39m 50s 
+SELL;270;Gradeon Ore;5.93;1601.3470;188458.086878777;Oro Omniplex Center;Merces Academy;3h 38m 31s 
+SELL;6;Active Scanner;30,947;185681.7000;187344.989588737;Oro Omniplex Center;Merces Academy;3h 37m 28s 
+BUY;6;Active Scanner;15,803;94,815;1763.28646373749;The Dunes;The Dunes of Caliph;3h 33m 19s 
+SELL;1;Protein Bar;4,550;4550.0000;176891.755213737;Daemon Ammunitions;Starfort Ramos;3h 25m 0s 
+SELL;1;Containment Unit;6,609;6608.8750;144907.255213737;Quantex;Dellis Primeria;3h 18m 45s 
+SELL;7;Quazor Ore;12.88;90.1919;126582.129237175;StarShepards Headquarters;Void Starcross;3h 10m 1s 
+SELL;1;Basic Filter;2,685;2684.5000;126491.937335014;StarShepards Headquarters;Void Starcross;3h 9m 56s 
+SELL;1;Improved Filter;5,096;5096.0000;123807.437335014;StarShepards Headquarters;Void Starcross;3h 9m 54s 
+SELL;1;Generic Salvage Collector;1,404;1404.0000;94597.9767881632;Biomate University;Void Starcross;2h 53m 24s 
+BUY;1;Disposables;8,124;8,124;93193.9767881632;CoraVault;Lins;2h 49m 19s 
+BUY;1;Tractor Beam;12,608;12,608;101318.133038163;CoraVault;Lins;2h 48m 5s 
+SELL;2;Waste Processor;15,885;31770.6100;113926.445538163;CoraVault;Lins;2h 48m 0s 
+SELL;4;Gradeon Ore;6.08;24.3243;49906.1047420502;Horizons;Gate of Alpharis;2h 43m 34s 
+SELL;1;Generic Ore Harvester;260;260.0000;19174.69389534;CoraVault;Lins;2h 30m 34s 
+BUY;1;Basic Ore Harvester;16,965;16,965;18934.4938964844;CoraVault;Lins;2h 30m 16s 
+SELL;1;Noodles;9,237;9236.5000;35999.4313964844;ValueStar;Hunu;2h 28m 52s 
+BUY;1;Generic Salvage Collector;2,245;2,245;2756.18139648438;Biomate University;Void Starcross;2h 14m 44s 
+SELL;104;Torim Ore;112;11632.9100;12053.1813964844;Starbase Corporate Center;Void Starcross;2h 9m 30s 
+BUY;1;Basic Salvage Collector;7,998;7,998;3971.27124023438;Rendo Labs;Entropy;2h 1m 6s 
+SELL;1;Basic Pulse Laser;2,776;2775.5000;11968.7717285156;Rendo Labs;Entropy;1h 59m 56s 
+SELL;108;Torim Ore;118;12694.8400;9318.27172851563;Starbase Corporate Center;Void Starcross;1h 57m 12s 
+SELL;468;Adamyte Ore;8.01;3746.9110;-2826.56909179688;Starbase Corporate Center;Void Starcross;1h 25m 33s 
+SELL;336;Adamyte Ore;8.01;2690.0930;6976.52270507813;Starbase Corporate Center;Void Starcross;1h 11m 33s 
 SELL;336;Adamyte Ore;4.64;1559.3730;5870.80695796013;StarShepards Headquarters;Void Starcross;1h 7m 28s 
 SELL;498;Adamyte Ore;8.01;3987.0960;4386.43354487419;Starbase Corporate Center;Void Starcross;0h 57m 52s 
 BUY;1;Basic Cargo Expansion;29,344;29,344;424.337109327316;Daemon Ammunitions;Starfort Ramos;0h 54m 42s 

@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;26
 SECTOR;name;Canndelis
-SECTOR;level;3.1
+SECTOR;level;3.0
 SECTOR;faction;Alpha
 SECTOR;filename;sector_26.txt
 SECTOR;is_explored;False
@@ -49,7 +49,7 @@ LIGHT;light_s;0.25;0.49;0.60;0.62
 STAR;object;0;-10000;0;10000;1;10000
 
 // LIFESUPPORT;type;value
-LIFESUPPORT;food;1.11768
+LIFESUPPORT;food;1.235674
 LIFESUPPORT;water;2.25
 LIFESUPPORT;thermal;2.25
 LIFESUPPORT;waste;2.101232

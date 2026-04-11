@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;9
 SECTOR;name;Forges of Mintar
-SECTOR;level;0.3
+SECTOR;level;0.2
 SECTOR;faction;Labor
 SECTOR;filename;sector_9.txt
 SECTOR;is_explored;False
@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;30
 SECTOR;environment;30
 SECTOR;wormhole_type;
-SECTOR;event_type;null
+SECTOR;event_type;mining#16185#3#6
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;-1232;-124;-1790

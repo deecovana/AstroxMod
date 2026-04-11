@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;0
 SECTOR;name;Void Starcross
-SECTOR;level;9.9
+SECTOR;level;9.8
 SECTOR;faction;Alpha
 SECTOR;filename;sector_0.txt
 SECTOR;is_explored;True
@@ -90,7 +90,7 @@ CLUSTER;1;20;10;200;2000;2885;0;-3781
 CLUSTER;20;10;50;100;1000;-566;2974;372
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;4693.4;-651.5;4367.0;1000;786
+RESOURCE;1;4684.2;-652.3;4386.4;1000;322
 RESOURCE;1;-3541.5;467.1;152.6;750;0
 RESOURCE;1;2662.7;326.8;-2940.6;500;0
 

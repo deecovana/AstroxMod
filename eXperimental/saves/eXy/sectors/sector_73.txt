@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;73
 SECTOR;name;Abaline
-SECTOR;level;0.3
+SECTOR;level;0.2
 SECTOR;faction;Trade
 SECTOR;filename;sector_73.txt
 SECTOR;is_explored;False
@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;null
+SECTOR;event_type;war#17878#1#0
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;2573.745;0;2112.715

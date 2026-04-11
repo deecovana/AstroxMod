@@ -1,0 +1,28 @@
+scan_title;Storage Facility 925199
+scan_image;structure_storage_1.png
+scan_sector;Dellis Primeria
+<color='cyan'>OVERVIEW</color>
+Storage structures are required to store large numbers of resources for giant construction projects.
+
+Timestamp: 10733.28
+<color='cyan'>DETAILS</color>
+Level: 1
+Type: Storage
+Class: None
+Current HP: 15000
+Max HP: 15000
+AOE Effect: none
+AOE Range: 1
+AOE Value: 0
+<color='cyan'>OWNER</color>
+Gemlet Salazari
+Faction: Trade
+Mission Obj: True
+
+<color='cyan'>LOCATION</color>
+x:1605.055
+y:-1293.2
+z:-3243.885
+<color='cyan'>OPERATION: </color> True
+Charge: 0 Drain: 2.5
+Power: 809 of 1,000

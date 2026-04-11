@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;69
 SECTOR;name;Dorando Corridor
-SECTOR;level;5.1
+SECTOR;level;5.0
 SECTOR;faction;Trade
 SECTOR;filename;sector_69.txt
 SECTOR;is_explored;False

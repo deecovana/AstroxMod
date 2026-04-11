@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;72
 SECTOR;name;Xenolin
-SECTOR;level;4.1
+SECTOR;level;4.0
 SECTOR;faction;Trade
 SECTOR;filename;sector_72.txt
 SECTOR;is_explored;False

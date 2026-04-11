@@ -1,1 +1,10 @@
 NPC;+LOCAL;56;2;2.471706;Daemon Ammunitions;Starfort Ramos;0h 53m 52s ;3232.529
+NPC;+PRICE;291;0;4.138271;Ferce;Allabentoris;1h 15m 16s ;4516.316
+NPC;+PRICE;107;0;4.423292;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
+NPC;+STOCK;337;215;4.60253;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;0;-122;4.753943;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+LOCAL;250;598;1.21225;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
+PLAYER;-QTY;0;250;1.279274;Daemon Ammunitions;Starfort Ramos;4h 9m 36s ;14976.08
+PLAYER;-QTY;0;634;2.239632;Lammassu Financial;Void Starcross;4h 10m 55s ;15055.18
+PLAYER;-QTY;0;1206;2.094651;Medicore University;Cliffs of Drameria;4h 12m 2s ;15122.29
+PLAYER;+QTY;3136;2090;5.019485;StarShepards Headquarters;Void Starcross;4h 13m 45s ;15225.5

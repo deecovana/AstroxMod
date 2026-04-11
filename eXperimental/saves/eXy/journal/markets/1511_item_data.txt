@@ -1,0 +1,6 @@
+NPC;+PRICE;21;0;35027.95;Ferce;Allabentoris;1h 15m 16s ;4516.316
+NPC;+STOCK;50;10;52647.28;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;34;-6;54758.69;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-LOCAL;0;0;66586.16;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
+NPC;+PRICE;15;0;46276.25;Keyworx;Geminey;3h 39m 34s ;13174.54
+NPC;-LOCAL;0;0;67453.86;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71

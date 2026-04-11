@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;49
 SECTOR;name;Bamballi Forge
-SECTOR;level;-0.2
+SECTOR;level;-0.3
 SECTOR;faction;Law
 SECTOR;filename;sector_49.txt
 SECTOR;is_explored;False

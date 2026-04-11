@@ -1,0 +1,6 @@
+NPC;+STOCK;9;9;4104.027;CoraVault;Lins;2h 47m 33s ;10053.19
+NPC;-LOCAL;0;0;3732;CoraVault;Lins;2h 47m 52s ;10072.21
+NPC;+PRICE;5;0;2023.487;Keyworx;Geminey;3h 39m 34s ;13174.54
+NPC;-LOCAL;15;0;2700;OmniTrust;Ponze;3h 55m 37s ;14137.01
+NPC;+STOCK;61;8;1954.255;Medicore University;Cliffs of Drameria;4h 11m 54s ;15114.28
+NPC;-QTY;0;-1;2907.765;Quah Relay Station;Noah Fox;5h 30m 34s ;19834.27

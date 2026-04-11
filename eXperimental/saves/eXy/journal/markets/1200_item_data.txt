@@ -1,1 +1,5 @@
 NPC;+QTY;27;11;4855;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+QTY;14;10;4055;Dustardz;Redsky;1h 11m 23s ;4283.425
+NPC;+QTY;17;9;2287.125;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
+PLAYER;+QTY;0;1;0;CoraVault;Lins;2h 30m 34s ;9034.097
+NPC;+STOCK;66;8;2442.397;Medicore University;Cliffs of Drameria;4h 11m 54s ;15114.28

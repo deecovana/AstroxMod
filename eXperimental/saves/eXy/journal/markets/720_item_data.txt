@@ -2,3 +2,10 @@ NPC;+LOCAL;15;1;3785.289;Starbase Corporate Center;Void Starcross;0h 22m 36s ;13
 NPC;+LOCAL;15;2;2413.017;Starbase Corporate Center;Void Starcross;0h 34m 44s ;2084.77
 NPC;+LOCAL;15;4;1950;Starbase Corporate Center;Void Starcross;0h 57m 46s ;3466.521
 NPC;+QTY;45;13;5122.5;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
+NPC;+LOCAL;15;3;1950;Starbase Corporate Center;Void Starcross;1h 11m 28s ;4288.427
+NPC;+STOCK;29;14;2062.5;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+LOCAL;15;3;1950;Starbase Corporate Center;Void Starcross;1h 25m 28s ;5128.006
+NPC;+LOCAL;15;7;1950;Starbase Corporate Center;Void Starcross;1h 57m 6s ;7026.358
+NPC;+LOCAL;15;2;1950;Starbase Corporate Center;Void Starcross;2h 9m 23s ;7763.151
+NPC;-QTY;4;-11;2067.094;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+LOCAL;13;9;1950;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38

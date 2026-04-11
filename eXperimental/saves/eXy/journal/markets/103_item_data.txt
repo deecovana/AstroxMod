@@ -1,1 +1,5 @@
 NPC;+QTY;391;165;2.6865;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
+NPC;+STOCK;1142;213;1.223758;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;227;197;1.471709;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+STOCK;533;243;2.300827;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-QTY;692;-237;1.327354;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01

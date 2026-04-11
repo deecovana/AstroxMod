@@ -1,3 +1,15 @@
 NPC;-LOCAL;41;41;2700;Starbase Corporate Center;Void Starcross;0h 34m 44s ;2084.77
 NPC;-LOCAL;0;0;4796.67;Starbase Corporate Center;Void Starcross;0h 57m 46s ;3466.521
 NPC;+QTY;14;9;3153;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
+NPC;-LOCAL;34;34;2700;Starbase Corporate Center;Void Starcross;1h 11m 28s ;4288.427
+NPC;+PRICE;7;0;2460.972;Communications Hub;Ele;1h 15m 16s ;4516.316
+NPC;+STOCK;42;8;3319.078;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;0;0;4014.142;Starbase Corporate Center;Void Starcross;1h 25m 28s ;5128.006
+NPC;-LOCAL;46;46;2700;Starbase Corporate Center;Void Starcross;1h 57m 6s ;7026.358
+NPC;-LOCAL;43;0;2700;Starbase Corporate Center;Void Starcross;1h 57m 39s ;7059.791
+NPC;-LOCAL;0;0;3541.862;Starbase Corporate Center;Void Starcross;2h 9m 23s ;7763.151
+NPC;+QTY;22;6;2307.75;Nova Labs;Noah Fox;2h 27m 56s ;8876.934
+NPC;+QTY;13;8;2524.275;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
+NPC;-QTY;0;0;4483.547;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-LOCAL;0;0;6000;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38
+NPC;+PRICE;4;0;3276.737;Acrondia Corp.;Crown of Imperium;4h 31m 45s ;16305.97

@@ -4,7 +4,7 @@ SECTOR;name;Adrenal
 SECTOR;level;5.8
 SECTOR;faction;Law
 SECTOR;filename;sector_47.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;25
 SECTOR;population;25
 SECTOR;habitation;20
@@ -51,7 +51,7 @@ STAR;object;0;0;0;60000;1;10000
 // LIFESUPPORT;type;value
 LIFESUPPORT;food;1.25
 LIFESUPPORT;water;1.3062102
-LIFESUPPORT;thermal;1.45
+LIFESUPPORT;thermal;1.318257
 LIFESUPPORT;waste;1.490552
 
 // STARLIGHT;Variable;Red;Green;Blue;Alpha
@@ -62,28 +62,28 @@ STARLIGHT;color_4;0.20;0.48;0.00;0.50
 STARLIGHT;color_5;0.00;0.48;0.00;1.00
 
 // STATION;Sector filename;X position;Y position;Z position
-STATION;sector_47_station_0.txt;-3486;-30;-204
+STATION;sector_47_station_0.txt;-3486;-30;-204;prescan
 
-// STRUCTURE;Structure filename;X position;Y position;Z position
-STRUCTURE;structure_energy_gen_1.txt;1361;456;727
-STRUCTURE;structure_office_1.txt;1606;229;160
-STRUCTURE;structure_storage_1.txt;1578;49;495
-STRUCTURE;structure_farm_1.txt;1054;402;755
-STRUCTURE;structure_recon_1.txt;1690;1011;53
-STRUCTURE;structure_medical_1.txt;2078;388;1398
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_medical_1.txt;2078.00;388.00;1398.00
+STRUCTURE;structure_recon_1.txt;1690.00;1011.00;53.00
+STRUCTURE;structure_farm_1.txt;1054.00;402.00;755.00
+STRUCTURE;structure_storage_1.txt;1578.00;49.00;495.00
+STRUCTURE;structure_office_1.txt;1606.00;229.00;160.00
+STRUCTURE;structure_energy_gen_1.txt;1361.00;456.00;727.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;5;3337;82;-2617;603;405
-RESOURCE;4;4539;-246;-154;500;464
-RESOURCE;4;4160;-366;-2677;900;732
-RESOURCE;4;4447;-297;-1491;1100;1100
+RESOURCE;5;3337.7;82.1;-2617.9;603;94
+RESOURCE;4;4539.0;-246.0;-154.0;500;464
+RESOURCE;4;4160.0;-366.0;-2677.0;900;732
+RESOURCE;4;4447.0;-297.0;-1491.0;1100;1100
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_41.txt;2;-3289;71;2094;0;Law;0
-WARPGATE;2;sector_48.txt;1;3561;519;1525;-1;Law;0;warpgate_47_2.txt;10
-WARPGATE;3;sector_39.txt;2;-111;-454;-3906;3000;Law;0
+WARPGATE;1;sector_41.txt;2;-3289;71;2094;0;Law;0;prescan
+WARPGATE;2;sector_48.txt;1;3561;519;1525;-1;Law;0;warpgate_47_2.txt;10;prescan
+WARPGATE;3;sector_39.txt;2;-111;-454;-3906;3000;Law;0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;16;404;-188;269;0;0;0;0.15,0.12,0.30,0.49;0.7;//fog;;

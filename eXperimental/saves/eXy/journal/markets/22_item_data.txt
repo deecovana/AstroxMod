@@ -1,1 +1,6 @@
 NPC;-LOCAL;40;0;68.27625;Daemon Ammunitions;Starfort Ramos;0h 53m 52s ;3232.529
+NPC;+STOCK;4637;3965;53.49876;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;0;0;101.5631;Rendo Labs;Entropy;1h 59m 17s ;7157.224
+NPC;-LOCAL;147;0;68.27625;Quantex;Dellis Primeria;3h 18m 35s ;11915.83
+NPC;-LOCAL;0;0;151.725;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
+NPC;-LOCAL;0;0;151.725;Daemon Ammunitions;Starfort Ramos;4h 9m 18s ;14958.07

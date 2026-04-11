@@ -1,3 +1,12 @@
 NPC;+LOCAL;15;1;192412.3;Starbase Corporate Center;Void Starcross;0h 22m 36s ;1356.161
 NPC;+LOCAL;15;3;97181.66;Starbase Corporate Center;Void Starcross;0h 34m 44s ;2084.77
 NPC;+LOCAL;15;4;81250;Starbase Corporate Center;Void Starcross;0h 57m 46s ;3466.521
+NPC;+LOCAL;15;2;81250;Starbase Corporate Center;Void Starcross;1h 11m 28s ;4288.427
+NPC;+STOCK;29;14;85937.5;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+LOCAL;15;3;81250;Starbase Corporate Center;Void Starcross;1h 25m 28s ;5128.006
+NPC;+LOCAL;15;6;81250;Starbase Corporate Center;Void Starcross;1h 57m 6s ;7026.358
+NPC;+LOCAL;15;1;81250;Starbase Corporate Center;Void Starcross;1h 57m 39s ;7059.791
+NPC;+QTY;41;13;170336.7;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;-QTY;7;-8;86128.91;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-QTY;3;-12;336875;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;+LOCAL;15;9;81250;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38

@@ -1,2 +1,15 @@
 NPC;-LOCAL;0;0;1314079;StarShepards Headquarters;Void Starcross;0h 42m 35s ;2555.411
 NPC;-LOCAL;61;61;649752.8;StarShepards Headquarters;Void Starcross;1h 7m 22s ;4042.726
+NPC;-LOCAL;57;0;649752.8;StarShepards Headquarters;Void Starcross;1h 8m 12s ;4092.04
+NPC;-LOCAL;0;0;773326.1;StarShepards Headquarters;Void Starcross;1h 16m 55s ;4615.68
+NPC;-LOCAL;0;0;997749.2;StarShepards Headquarters;Void Starcross;1h 30m 9s ;5409.233
+NPC;-LOCAL;76;76;649752.8;StarShepards Headquarters;Void Starcross;3h 9m 51s ;11391.85
+NPC;-LOCAL;0;0;1443895;StarShepards Headquarters;Void Starcross;4h 13m 42s ;15222.47
+NPC;-LOCAL;0;0;1443895;StarShepards Headquarters;Void Starcross;4h 22m 6s ;15726.5
+NPC;-LOCAL;41;41;649752.8;StarShepards Headquarters;Void Starcross;4h 31m 52s ;16312.13
+NPC;-LOCAL;0;0;766851.1;StarShepards Headquarters;Void Starcross;4h 38m 1s ;16681.43
+NPC;-LOCAL;0;0;913475.7;StarShepards Headquarters;Void Starcross;4h 45m 46s ;17146.1
+NPC;-LOCAL;0;0;1443895;StarShepards Headquarters;Void Starcross;5h 22m 47s ;19367.12
+PLAYER;-QTY;0;47;335889.7;Biomate University;Void Starcross;5h 34m 57s ;20097.77
+NPC;-LOCAL;0;0;1443895;StarShepards Headquarters;Void Starcross;5h 36m 35s ;20195.18
+PLAYER;+QTY;47;47;1443895;StarShepards Headquarters;Void Starcross;5h 36m 43s ;20203.45

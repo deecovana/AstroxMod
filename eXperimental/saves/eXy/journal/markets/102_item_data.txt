@@ -1,1 +1,7 @@
 NPC;+LOCAL;250;2;3.929256;Daemon Ammunitions;Starfort Ramos;0h 53m 52s ;3232.529
+NPC;+PRICE;32;0;4.294844;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
+NPC;+STOCK;394;232;2.989786;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+STOCK;377;236;3.820466;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;+STOCK;636;237;2.981036;CoraVault;Lins;2h 47m 33s ;10053.19
+NPC;-QTY;21;-141;3.030744;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+LOCAL;250;610;1.01075;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62

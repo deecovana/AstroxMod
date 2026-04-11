@@ -1,0 +1,5 @@
+NPC;+STOCK;12;10;20458.21;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;19;6;29140.41;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+QTY;18;9;18653.44;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
+NPC;-LOCAL;10;0;33750;The Dunes;The Dunes of Caliph;3h 33m 3s ;12783.69
+NPC;-LOCAL;6;0;33750;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55

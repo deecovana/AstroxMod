@@ -1,0 +1,4 @@
+NPC;+STOCK;99;2;37633.37;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;0;99;50876.57;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+QTY;2;2;50876.57;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;-QTY;113;-2;36558.38;CoraVault;Lins;5h 30m 34s ;19834.27

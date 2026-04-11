@@ -1,2 +1,8 @@
 NPC;-QTY;104;-2;8401.25;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
 NPC;+QTY;45;2;10491.25;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
+NPC;+PRICE;130;0;14643.94;Ferce;Allabentoris;1h 15m 16s ;4516.316
+NPC;+QTY;2;1;12774.82;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+QTY;3;1;12774.82;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+PRICE;149;0;10123.55;CoraVault;Lins;4h 31m 45s ;16305.97
+NPC;-QTY;147;-2;10124.81;CoraVault;Lins;5h 30m 34s ;19834.27
+NPC;-QTY;115;-1;5957.256;PharmaLife;Carioullis;5h 30m 34s ;19834.27

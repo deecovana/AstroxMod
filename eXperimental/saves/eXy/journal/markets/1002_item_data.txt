@@ -1,1 +1,7 @@
 NPC;+QTY;19;6;2062.5;Crystalis Broadcasting;Jermicus;1h 7m 10s ;4030.626
+NPC;+PRICE;15;0;2073.79;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
+NPC;+PRICE;1;0;1958.602;Communications Hub;Ele;1h 15m 16s ;4516.316
+NPC;+STOCK;22;9;1178.921;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;5;-8;1249.031;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-QTY;0;-5;2635;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;-LOCAL;0;0;2250;Quantex;Dellis Primeria;3h 18m 35s ;11915.83

@@ -2,3 +2,14 @@ NPC;-QTY;9;-9;5733;Lammassu Financial;Void Starcross;0h 6m 20s ;380.2659
 NPC;-LOCAL;0;0;15722.99;Starbase Corporate Center;Void Starcross;0h 34m 44s ;2084.77
 NPC;-LOCAL;24;24;9697.888;Starbase Corporate Center;Void Starcross;0h 57m 46s ;3466.521
 NPC;+QTY;20;8;4987.5;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;-LOCAL;0;0;14088.52;Starbase Corporate Center;Void Starcross;1h 11m 28s ;4288.427
+NPC;+PRICE;2;0;9999.389;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
+NPC;+STOCK;11;11;17553.02;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;0;0;18669.5;Starbase Corporate Center;Void Starcross;1h 25m 28s ;5128.006
+NPC;-LOCAL;60;60;9543.496;Starbase Corporate Center;Void Starcross;1h 57m 6s ;7026.358
+NPC;-LOCAL;53;0;9517.021;Starbase Corporate Center;Void Starcross;1h 57m 39s ;7059.791
+NPC;-LOCAL;0;0;12480.52;Starbase Corporate Center;Void Starcross;2h 9m 23s ;7763.151
+NPC;+STOCK;29;9;4596.472;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;+STOCK;13;11;4586.666;CoraVault;Lins;2h 47m 33s ;10053.19
+NPC;-LOCAL;47;47;9450;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38
+NPC;-QTY;0;-4;9169.177;PharmaLife;Carioullis;5h 30m 34s ;19834.27

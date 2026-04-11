@@ -1,1 +1,3 @@
 NPC;+QTY;13;9;5880.875;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+STOCK;21;8;5504.223;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-QTY;0;-7;6086.369;CoraVault;Lins;5h 30m 34s ;19834.27

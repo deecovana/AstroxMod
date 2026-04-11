@@ -1,1 +1,4 @@
 NPC;-QTY;3;-9;6759.375;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
+NPC;+PRICE;16;0;13249.38;Ferce;Allabentoris;1h 15m 16s ;4516.316
+NPC;+QTY;12;11;11776.41;Nova Labs;Noah Fox;2h 27m 56s ;8876.934
+NPC;-QTY;6;-11;10819.59;CoraVault;Lins;5h 30m 34s ;19834.27

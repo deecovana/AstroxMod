@@ -1,0 +1,6 @@
+NPC;+PRICE;10;0;9623.363;Ferce;Allabentoris;1h 15m 16s ;4516.316
+NPC;+STOCK;18;4;15724.98;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;11;-3;15857.82;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+PLAYER;+QTY;3;1;9277.078;StarShepards Headquarters;Void Starcross;3h 9m 54s ;11394.86
+PLAYER;+QTY;17;1;13602.86;ValueStar;Hunu;3h 52m 20s ;13940.77
+NPC;+PRICE;6;0;11159.48;CoraVault;Lins;4h 31m 45s ;16305.97

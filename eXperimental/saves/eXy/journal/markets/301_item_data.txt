@@ -1,1 +1,10 @@
 NPC;+QTY;697;691;28.43087;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+STOCK;862;795;28.51152;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;0;0;33.649;Rendo Labs;Entropy;1h 46m 56s ;6416.35
+NPC;-LOCAL;0;0;40.82089;Rendo Labs;Entropy;1h 59m 17s ;7157.224
+NPC;+QTY;518;511;20.78008;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+STOCK;1415;718;28.03935;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;+STOCK;968;963;27.90505;CoraVault;Lins;2h 47m 33s ;10053.19
+NPC;-QTY;0;-67;29.46225;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+PRICE;5;0;29.06422;CoraVault;Lins;4h 31m 45s ;16305.97
+NPC;-QTY;0;-5;29.10607;CoraVault;Lins;5h 30m 34s ;19834.27

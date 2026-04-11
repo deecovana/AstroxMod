@@ -4,3 +4,18 @@ NPC;-LOCAL;0;0;16.00934;Biomate University;Void Starcross;0h 30m 31s ;1831.387
 NPC;+LOCAL;50;4;14.41139;Lammassu Financial;Void Starcross;0h 31m 12s ;1872.756
 NPC;-LOCAL;0;0;19.63953;Biomate University;Void Starcross;0h 38m 37s ;2317.629
 NPC;+QTY;795;792;10.20938;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
+NPC;-LOCAL;13;0;13.6125;Horizons;Gate of Alpharis;1h 33m 25s ;5605.071
+NPC;-LOCAL;0;0;15.40527;Horizons;Gate of Alpharis;1h 50m 5s ;6605.364
+NPC;-LOCAL;45;45;13.75364;Biomate University;Void Starcross;2h 12m 57s ;7977.378
+NPC;+QTY;810;807;12.24255;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
+NPC;-LOCAL;20;20;14.01375;Horizons;Gate of Alpharis;2h 43m 20s ;9800.769
+NPC;-QTY;0;-18;7.556639;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-QTY;0;-9;14.85275;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;-LOCAL;4;4;13.6125;Biomate University;Void Starcross;2h 53m 16s ;10396.04
+NPC;-LOCAL;0;0;30.25;Biomate University;Void Starcross;4h 3m 19s ;14599.28
+NPC;+LOCAL;1000;2039;3.9325;Lammassu Financial;Void Starcross;4h 10m 49s ;15049.17
+NPC;-LOCAL;16;0;13.6125;Medicore University;Cliffs of Drameria;4h 11m 57s ;15117.29
+NPC;+LOCAL;136;76;7.991968;Valuestar Hub;Jelumus;4h 35m 3s ;16503.93
+NPC;-LOCAL;29;29;13.6125;Biomate University;Void Starcross;4h 59m 19s ;17959.32
+NPC;+LOCAL;755;619;5.818617;Valuestar Hub;Jelumus;5h 18m 34s ;19114.57
+NPC;-LOCAL;0;0;20.77732;Biomate University;Void Starcross;5h 32m 1s ;19921.86

@@ -1,0 +1,274 @@
+[s:30][c:yellow]Oro Omniplex Center[/c][/s]
+Recon Sentry
+Hasrastast Belbar
+Labor
+[c:lime]Dock fee 100[/c]
+Timestamp: 13622.23
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic 20mm
+Advanced 20mm
+Prototype 20mm
+Basic 60mm
+Advanced 60mm
+Prototype 60mm
+Basic Missile 
+Advanced Missile
+Prototype Missile 
+Basic Torpedo 
+Advanced Torpedo 
+Prototype Torpedo 
+[c:orange]DEMAND[/c]
+Active Scanner
+Basic Thruster
+Improved Thruster
+Advanced Thruster
+Premium Thruster
+Prototype Thruster
+Basic Engine Core
+Improved Engine Core
+Advanced Engine Core
+Premium Engine Core
+Prototype Engine Core
+Basic Afterburner
+Improved Afterburner
+Advanced Afterburner
+Premium Afterburner
+Prototype Afterburner
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Want to acquire (1) Items 
+ (6) x Ammunition Loader
+Fulfill order for [c:lime]-65 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Active Scanner  11 - z38,037
+Adamyte Ore  233 - z6
+Advanced 20mm  130 - z42
+Advanced 60mm  16 - z112
+Advanced ECM Power Boost Field (Doc)  11 - z9,215,521
+Advanced Energy Armor  23 - z97,369
+Advanced Energy Generator (Doc)  3 - z1,281,756
+Advanced Filter  3 - z21,303
+Advanced Impact Armor  8 - z62,369
+Advanced Impact Armor (Doc)  28 - z1,456,425
+Advanced Missile  293 - z310
+Advanced Missile Launcher (Doc)  117 - z294,147
+Advanced Plasma Cannon (Doc)  7 - z1,181,350
+Advanced Railgun (Doc)  67 - z490,672
+Advanced Regulator  2 - z14,378
+Advanced Rocket Launcher (Doc)  65 - z366,019
+Advanced Shield Generator  5 - z128,918
+Advanced Torpedo   308 - z335
+Advanced Torpedo (Doc)  15 - z57,277
+Aged Wine  20 - z85
+Anti-Freeze  25 - z35
+Artificial Gravity Generator (Doc)  8 - z67,750
+Ball Bearings  80 - z72
+Basic 20mm  36 - z17
+Basic 60mm  95 - z29
+Basic Armor Exterior  25 - z19,611
+Basic Charged Cell  28 - z89
+Basic ECM Range Lock (Doc)  29 - z3,771,295
+Basic Explosive Armor  14 - z24,842
+Basic Filter  7 - z4,996
+Basic Food Rations  22 - z67
+Basic Laser Impact Mod (Doc)  7 - z241,106
+Basic Light Turret  16 - z8,706
+Basic Missile   38 - z77
+Basic Missile Launcher (Doc)  95 - z39,797
+Basic Ore Harvester  19 - z17,132
+Basic Ore Harvester (Doc)  26 - z54,858
+Basic Projectile Energy Mod (Doc)  25 - z346,106
+Basic Railgun (Doc)  128 - z38,795
+Basic Salvage Collector  10 - z16,292
+Basic Scan Booster  16 - z24,390
+Basic Scan Emitter  16 - z17,346
+Basic Sensor  208 - z110
+Basic Shield Generator  1 - z28,450
+Basic Skill Manual  42 - z255,922
+Basic Torpedo   118 - z210
+Basic Torpedo Launcher  18 - z9,859
+Basic Torpedo Launcher (Doc)  69 - z53,915
+Basic Warp Drive Fuel  278 - z1,990
+Bomber Drone  54 - z17,755
+Bottled Whiskey  29 - z124
+Calcium  314 - z4
+Candy Cane  21 - z1
+Candy Corn  16 - z1
+Carbon  195 - z2
+Carbon Fiber  201 - z20
+Chocolate Bars  2 - z1
+Circuit Board  216 - z77
+Cleaning Chemicals  17 - z77
+Colored Dye  24 - z21
+Containment Unit  3 - z13,765
+Disposables  10 - z6,466
+ECM Sensors Jammer (Doc)  24 - z744,082
+Fasteners  3 - z11
+Fiber Optic Cables  3 - z125
+Generic Construction Platform  35 - z8,652,656
+Generic Heavy Cannon  6 - z1,570
+Generic Heavy Laser  17 - z2,406
+Generic Heavy Laser (Doc)  27 - z14,231
+Generic Railgun  10 - z2,913
+Generic Torpedo Launcher  15 - z3,201
+Gourmet Food Rations  22 - z242
+Gradeon Ore  538 - z10
+Gummy Bears  28 - z1
+Ham Sandwich  2 - z14,443
+Heavy Armor Bomb  44 - z92,639
+Heavy Armor Repair  45 - z57,866
+Heavy Combat Drone  49 - z104,558
+Heavy Shield Bomb  21 - z51,329
+Heavy Shield Charge  10 - z59,452
+Hydrogen  177 - z2
+Improved Combat Drone  2 - z59,566
+Improved Defense Drone  15 - z34,816
+Improved Explosive Armor  29 - z46,184
+Improved Filter  7 - z11,928
+Improved Impact Armor (Doc)  12 - z734,213
+Improved Light Turret  19 - z26,795
+Improved Mass Reduction  21 - z37,430
+Improved Ore Harvester  12 - z60,451
+Improved Ore Harvester (Doc)  17 - z245,903
+Improved Railgun (Doc)  60 - z171,062
+Improved Repair Drone  32 - z60,016
+Improved Rocket Launcher (Doc)  27 - z147,452
+Improved Salvage Collector  27 - z60,941
+Improved Scan Booster  15 - z36,620
+Improved Scan Emitter  10 - z42,253
+Improved Torpedo Launcher  1 - z19,806
+Interior Lighting  9 - z241
+Ionization Plate (Doc)  10 - z27,627
+Junk Part  258 - z15
+Kitchen Appliances  11 - z818
+Large Combat Drone  43 - z127,369
+Large Life Support Pack  31 - z35,266
+Large Web Field  29 - z90,986
+Light Armor Repair  48 - z8,830
+Light Shield Charge  39 - z4,506
+Liquid Coolant  265 - z27
+Lubricant  97 - z15
+Magnetic Quartz  49 - z3
+Mechanical Belts  3 - z57
+Mechanical Switch  234 - z67
+Medium Armor Bomb  5 - z18,730
+Medium Life Support Pack  51 - z9,355
+Medium Mining Drone  35 - z10,405
+Medium Salvage Drone  1 - z9,205
+Medium Shield Charge  58 - z24,017
+Metal Brackets  275 - z17
+Metal Gears  3 - z32
+Noodles  3 - z10,825
+Nuts And Bolts  94 - z12
+Office Furniture  5 - z1,018
+Optical Interface  23 - z175
+Ornament  15 - z7
+Oxygen  188 - z2
+Plastic Caps  112 - z51
+Plastix Strands  415 - z7
+Polymere  14 - z64
+Polymere (Doc)  17 - z772
+Premium Energy Armor (Doc)  9 - z1,832,850
+Premium Explosive Armor (Doc)  6 - z1,448,850
+Premium Missile Launcher (Doc)  92 - z2,151,982
+Premium Rocket Launcher (Doc)  87 - z1,040,965
+Protein Bar  3 - z6,186
+Prototype 20mm  165 - z107
+Prototype 60mm  32 - z139
+Prototype Heavy Cannon (Doc)  11 - z6,896,418
+Prototype Missile   42 - z429
+Prototype Missile Launcher (Doc)  11 - z7,705,254
+Prototype Pulse Laser (Doc)  26 - z6,794,691
+Prototype Rocket Launcher (Doc)  90 - z3,538,333
+Prototype Thruster (Doc)  10 - z2,635,668
+Prototype Torpedo   21 - z782
+Prototype Warp Drive Fuel (Doc)  6 - z891,288
+Quazor Ore  170 - z16
+Recon Scanner Drone  29 - z13,405
+Regulator  160 - z96
+Reinforced Rubber  71 - z17
+Salt Crystal  60 - z3
+Scrap Part  85 - z35
+Silicon  348 - z6
+Small Life Support Pack  51 - z5,618
+Small Repair Drone  43 - z4,222
+Small Storage Tank  3 - z51
+Small Web Field  13 - z10,270
+Steelium Pipes  37 - z22
+Temperature Genie  1 - z17,444
+Thermal Controller  13 - z5,276
+Thermal Insulation  249 - z31
+Thermal Sensor  153 - z57
+Titan Defense Drone  43 - z205,922
+Titan Mining Drone  47 - z150,922
+Titan Mining Drone (Doc)  21 - z1,515,120
+Undamaged Part  11 - z60
+Waste Processor  10 - z26,662
+Water  302 - z1
+Wrapped Box  14 - z13
+
+
+<Station University Skills>
+Projectile Basic Operation
+Laser Basic Operation
+Beam Basic Operation
+Launcher Basic Operation
+Miner Basic Operation
+Ship Cargo Stacker
+Salvager Basic Operation
+Max Mission Contracts
+Fleet Commander
+University Discount
+
+
+<Station Missions>
+[c:lime]ESCORT[/c]
+Escort <color='yellow'><i>Bishop Lesrast Jidgore</i></color> from StarShepards Headquarters in <color='cyan'>Void Starcross</color> to Gunstellar in <color='cyan'>Adrenal</color>
+
+[c:lime]REFINE[/c]
+Refine a light container of <color='yellow'>4</color> <color='yellow'>Module Fragments</color> at the StarShepards Headquarters station in <color='cyan'>Void Starcross</color>
+
+[c:lime]KILL RECOVER[/c]
+Kill and Rob <color='yellow'><i>Engineer Cakom Lelqijo</i></color> in <color='cyan'>Felishar</color> and return to Crystalis Broadcasting in <color='cyan'>Jermicus</color> with <color='yellow'>20</color> of <color='yellow'>Fusion Chambers</color>
+
+[c:lime]DIALOG[/c]
+Collect a small debt from <color='yellow'><i>Accountant Godoe Leiqeada</i></color> in <color='cyan'>The Dunes of Caliph</color> and return to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]DIALOG[/c]
+Transfer payment to <color='yellow'><i>Major Zansip Tubirades</i></color> in <color='cyan'>Starfort Ramos</color> and return with signature to Transporteers Hub in <color='cyan'>Ambervellis Drea</color>
+
+[c:lime]FABRICATE[/c]
+Produce a light container of <color='yellow'>6</color> <color='yellow'>Copperi Pipes</color> at the Gunstellar fabricator in <color='cyan'>Adrenal</color>
+
+[c:lime]COLLECT[/c]
+Return to StarGypsy Warehouse in <color='cyan'>Void Starcross</color> with a light collection of <color='yellow'>58</color> <color='yellow'>Basic Food Rations</color>
+
+[c:lime]KILL RAIDERS[/c]
+Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Ponze</color> and return to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
+
+
+
+<Station Ships>
+SE-1 Prophet / Frigate    (Assault)
+TE-1 Phoebus / Shuttle    (Transport)
+EE-1 Mining Shuttle / Shuttle    (Excavation)
+EE-2 Advanced Escort / Escort    (Excavation)
+EE-3 Salvage Shuttle / Shuttle    (Excavation)

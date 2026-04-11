@@ -4,7 +4,7 @@ SECTOR;name;Coralor
 SECTOR;level;5.2
 SECTOR;faction;Trade
 SECTOR;filename;sector_59.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;null
+SECTOR;event_type;resources#23772#7#10
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;1822.65;20;401.24
@@ -66,14 +66,14 @@ STARLIGHT;color_5;0.70;0.18;0.00;0.30
 STRUCTURE;structure_habitat_1.txt;637.10;98.57;-3583.20
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
-RESOURCE;4;-935.7;938.0;-3005.8;292;224
+RESOURCE;4;-935.7;938.0;-3005.8;292;0
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;4;3248.3;-165.8;-441.5;1000;900
+RESOURCE;4;3248.3;-165.8;-441.5;1000;0
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_57.txt;1;-2244.4;202.5;2665.8;0;trade;0.0
-WARPGATE;2;sector_62.txt;1;1279.8;-83.9;-1026.9;0;trade;0.0
+WARPGATE;1;sector_57.txt;1;-2244.4;202.5;2665.8;0;trade;0.0;prescan
+WARPGATE;2;sector_62.txt;1;1279.8;-83.9;-1026.9;0;trade;0.0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;5;0;0;0;0;-90;0;rock_2

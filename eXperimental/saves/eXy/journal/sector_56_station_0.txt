@@ -1,0 +1,73 @@
+[s:30][c:yellow]Transporteers[/c][/s]
+Auction Facility
+Ribres Borxaxon
+Trade
+[c:lime]Dock fee 100[/c]
+Timestamp: 8733.591
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+LED Lights
+Micro Processor
+Large Processor
+Motion Sensor
+Pressure Sensor
+Memory Chip
+Small Pump
+Small Heatsink
+Small Motor
+Copperi Cables
+Active Scanner
+[c:orange]DEMAND[/c]
+Personal Clothing
+Hygiene Products
+Communication Device
+Transport Units
+Tractor Beam
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Launcher Focal Range
+Beam Energy Optimization
+Ship Energy Regeneration
+Laser Damage Calibration
+Ship Gyroscopic Control
+Armor Mechanic
+Ship Mass Engineering
+Laser Energy Optimization
+Miner Energy Optimization
+
+
+<Station Missions>
+[c:lime]TRANSPORT[/c]
+Transport a light shipment of <color='yellow'>107</color> <color='yellow'>Hand Tools</color> from Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> to Medicore University in <color='cyan'>Cliffs of Drameria</color>
+
+[c:lime]DIALOG[/c]
+Transfer payment to <color='yellow'><i>Captain Kaddfon Foou</i></color> in <color='cyan'>Jermicus</color> and return with signature to Astrox Security Patrol in <color='cyan'>Felishar</color>
+
+
+
+<Station Ships>
+RC-1 Informer / Cruiser    (Transport)
+TC-1 Kraken / Cruiser    (Excavation)
+RF-1 Assimilator / Escort    (Recon)
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+SE-1 Prophet / Frigate    (Assault)

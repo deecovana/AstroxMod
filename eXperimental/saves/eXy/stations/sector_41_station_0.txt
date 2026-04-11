@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;3-7-1-3-5-2-7-1-3-9-1-1-0-2-0-3-9-90
 STATION;interior_seed;5-5-45-0
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;11082.61
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -39,6 +42,7 @@ MERC;4;0.69;npc_ship_data_(pirate_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Demands: (1) Items ;301x301;8813;18145.64
 BUYORDER;Market Items Req: (4) Items ;301x213,301x286,300x179,301x57;60167;66548.70
 ITEM;1121;9;1.22
 ITEM;1019;15;0.95
@@ -260,6 +264,12 @@ SKILL;59;1.57
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;132;45;684926;SALVAGE#118#20#sector_3.txt#sector_14_station_1.txt#null#null#null#null;Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>118</color> to Horizons in <color='cyan'>Gate of Alpharis</color>;16;<i>Mosve Amqecae</i> has discovered a light cache of <color='yellow'>Special Junk Part</color> in <color='cyan'>Starfort Ramos</color>. He is currently unable to dismantle the <color='yellow'>Special Junk Part</color>, and has requested a pilot to head over and salvage the <color='yellow'>118</color> <color='yellow'>Special Junk Part</color>. Once complete, head over and meet <i>Mosve Amqecae</i> at the Horizons station located in the <color='cyan'>Gate of Alpharis</color>.;23960;8614
+MISSION;123;45;405123;CHAT_PILOT#sector_77_station_0.txt#sector_14.txt#Czar Algot Doewasev#npc_ship_data_(excavation_carrier_1)#15#missions_arrest_escort.txt#0#null;Detain <color='yellow'><i>Czar Algot Doewasev</i></color> in <color='cyan'>Gate of Alpharis</color> and escort them to Lacuna Bandits in <color='cyan'>Ballast Crow</color>;15;<i>Woimes Goqe</i> has requested that <color='yellow'><i>Czar Algot Doewasev</i></color> be escorted back into custody. Authorities of the Law faction has determined guilt opon the accused. <color='yellow'><i>Czar Algot Doewasev</i></color> has refused to cooperate with the courts. Last known sighting of <color='yellow'><i>Czar Algot Doewasev</i></color> was in the vicinity of the <color='cyan'>Gate of Alpharis</color> system. Have a chat with them ann bring them back for further questioning.;37270;13399
+MISSION;31;45;775135;TRANSPORT#120#305#sector_77_station_0.txt#sector_47_station_0.txt#null#null#null#null;Head to Lacuna Bandits in <color='cyan'>Ballast Crow</color>, pick up <color='yellow'>120</color> <color='yellow'>Interior Lightings</color> for a light shipment to Gunstellar in <color='cyan'>Adrenal</color>;15;The Law faction advisor <i>Demisiv Sihaswha</i> has placed a light shipment transport order to move <color='yellow'>120</color> <color='yellow'>Interior Lightings</color> from the Lacuna Bandits storage in <color='cyan'>Ballast Crow</color>, to the Gunstellar in <color='cyan'>Adrenal</color>.;14894;5907
+MISSION;12;30;235673;DELIVERY#94#407#sector_0_station_0.txt#sector_0_station_1.txt#null#null#null#null;Light delivery of <color='yellow'>Ornaments</color> to Biomate University Station in <color='cyan'>Void Starcross</color>;16;<i>Zilsca Ceevi</i> from Lammassu Financial Station has commissioned a delivery . He has required a small transport delivery of <color='yellow'>94</color> <color='yellow'>Ornaments</color>. Set your GPS autopilot to <color='cyan'>Void Starcross</color> and deliver these <color='yellow'>Ornaments</color> to Biomate University immediately.;11331;1531
+MISSION;41;45;357604;SCAN_PILOT#sector_78_station_0.txt#sector_35.txt#Miner Rilow Oueroso#npc_ship_data_(VVS_Infiltrator)#5#null#null#null;Find <color='yellow'><i>Miner Rilow Oueroso</i></color> in <color='cyan'>Felishar</color>, scan their ship, and return to Tella's in <color='cyan'>Bitcola</color>;16;<color='yellow'><i>Miner Rilow Oueroso</i></color> has recently been paroled for a capital crime, and their parole officer has received information about a possible raid in <color='cyan'>Felishar</color>. Head to <color='cyan'>Felishar</color> and perform a scan of <color='yellow'><i>Miner Rilow Oueroso</i></color>'s ship and return to Tella's in <color='cyan'>Bitcola</color> with the scan data for review.;10035;2625
+MISSION;102;120;725002;KILL_RECOVER#sector_56_station_0.txt#sector_35.txt#Entertainer Bueoi Sadcaejoh#npc_ship_data_(Drone_cruiser_6)#7#1#1553#null;Hijack and kill <color='yellow'><i>Entertainer Bueoi Sadcaejoh</i></color> in <color='cyan'>Felishar</color> and steal <color='yellow'>1</color> <color='yellow'>Premium Shield Booster</color>. Return to Transporteers in <color='cyan'>Hunu</color>;15;The Law faction has been following an escaped fugitive named <color='yellow'><i>Entertainer Bueoi Sadcaejoh</i></color>. He was recently seen around the <color='cyan'>Felishar</color> system, but his exact location is unknown. <color='yellow'><i>Entertainer Bueoi Sadcaejoh</i></color> is carrying some cargo that was taken from the security facility. Return the <color='yellow'>Premium Shield Booster</color> by any means, and head back to Transporteers in <color='cyan'>Hunu</color>.;30731;8039
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -271,3 +281,5 @@ SHIP;5;1.03;ship_data_(pirate_carrier_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
+

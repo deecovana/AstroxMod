@@ -1,3 +1,12 @@
 NPC;+LOCAL;15;2;2759.556;Starbase Corporate Center;Void Starcross;0h 34m 44s ;2084.77
 NPC;+LOCAL;15;4;1950;Starbase Corporate Center;Void Starcross;0h 57m 46s ;3466.521
 NPC;+QTY;38;9;3922.5;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+LOCAL;15;3;1950;Starbase Corporate Center;Void Starcross;1h 11m 28s ;4288.427
+NPC;+PRICE;24;0;6768.955;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
+NPC;+STOCK;25;10;2062.5;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+LOCAL;15;3;1950;Starbase Corporate Center;Void Starcross;1h 25m 28s ;5128.006
+NPC;+LOCAL;15;1;1950;Starbase Corporate Center;Void Starcross;1h 57m 39s ;7059.791
+NPC;+LOCAL;15;2;1950;Starbase Corporate Center;Void Starcross;2h 9m 23s ;7763.151
+NPC;+STOCK;58;13;6283.993;CoraVault;Lins;2h 47m 33s ;10053.19
+NPC;-QTY;3;-12;2067.094;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+LOCAL;11;8;1950;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38

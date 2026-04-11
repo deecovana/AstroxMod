@@ -1,15 +1,15 @@
 // PLAYER;Variable;Value
 <PLAYER>
 PLAYER;name;eXy
-PLAYER;level;3
-PLAYER;xp;2189.00
-PLAYER;next_level_xp;5100.00
-PLAYER;last_level_xp;2100.00
+PLAYER;level;5
+PLAYER;xp;11316.00
+PLAYER;next_level_xp;14100.00
+PLAYER;last_level_xp;9100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;4311.43
+PLAYER;credits;77669577.46
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;33
-PLAYER;playtime;4057.72
+PLAYER;skill_points;13
+PLAYER;playtime;20273.13
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -18,13 +18,13 @@ PLAYER;face_2;accessory_1.png
 PLAYER;face_bg;accessory_1.png
 PLAYER;profession_id;21
 PLAYER;passive_scanner_settings;True,True,True,True,True,True,True,True,True
-PLAYER;autopilot_settings;True,False,False,True,False
-PLAYER;orbit_data;True,500,0,6,True
+PLAYER;autopilot_settings;True,False,True,True,False
+PLAYER;orbit_data;False,500,0,6,True
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
-PLAYER;cargo_settings;ALL,Name,Ascend,1
+PLAYER;cargo_settings;ALL,Name,Ascend,3
 PLAYER;targeting_settings;Name,Ascend
-PLAYER;station_market_settings;SEARCH,Name,Ascend,100
-PLAYER;station_university_settings;TRAINABLE,Name,Ascend,100
+PLAYER;station_market_settings;SEARCH,Level,Ascend,100
+PLAYER;station_university_settings;SEARCH,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
 PLAYER;sector;sector_0.txt
@@ -34,14 +34,15 @@ PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(excavation_escort_1_startship).txt;True;False;sector_0_station_0.txt;sector_0.txt;-595.60;-135.30;4678.98
+SHIP;ship_data_(support_utility_2)12149.txt;True;False;sector_0_station_0.txt;sector_0.txt;-727.92;-54.56;3986.31
+SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_0.txt;sector_0.txt;-608.22;-49.05;-4378.36
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
 
 // SKILL; skill id, skill lvl, train time remaining, total time
 <SKILLS>
-SKILL;215;1;0;0
+SKILL;215;3;0;90
 SKILL;214;3;0;0
 SKILL;58;5;0;0
 SKILL;54;3;0;0
@@ -51,6 +52,11 @@ SKILL;53;4;0;0
 SKILL;41;2;0;240
 SKILL;11;2;0;240
 SKILL;100;1;0;85
+SKILL;71;2;0;180
+SKILL;111;2;0;90
+SKILL;55;2;0;90
+SKILL;60;1;0;120
+SKILL;216;1;0;60
 
 
 
@@ -62,8 +68,6 @@ MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful 
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
-MISSION;60;25;840632;HARVEST#72#1#sector_96.txt#sector_0_station_2.txt#null#null#null#null;Harvest special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Arch of Mori</color> and return with <color='yellow'>72</color> ore to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>;10;0;False;10000;504;A local prospector, <i>Leitel Yanpae</i> of the Missionary faction has located a light quantity of special <color='yellow'>Special Adamyte Ore</color> in the <color='cyan'>Arch of Mori</color> sector. Head over there and harvest all of the special <color='yellow'>Special Adamyte Ore</color>, and meet <i>Leitel Yanpae</i> back at StarGypsy Warehouse station located in the <color='cyan'>Void Starcross</color>.
-MISSION;60;25;944674;HARVEST#70#1#sector_3.txt#sector_95_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>70</color> ore to Star Shepards Hub in <color='cyan'>Temple Gates</color>;10;72;True;10000;490;A local prospector, <i>Bidbaz Covofa</i> of the Missionary faction has located a light quantity of special <color='yellow'>Special Adamyte Ore</color> in the <color='cyan'>Starfort Ramos</color> sector. Head over there and harvest all of the special <color='yellow'>Special Adamyte Ore</color>, and meet <i>Bidbaz Covofa</i> back at Star Shepards Hub station located in the <color='cyan'>Temple Gates</color>.
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
@@ -73,53 +77,53 @@ STAT;2;Laser Weapons Fired;40;Weapons
 STAT;3;Beam Weapons Fired;0;Weapons
 STAT;4;Launcher Weapons Fired;0;Weapons
 STAT;5;Torpedo Weapons Fired;0;Weapons
-STAT;6;Salvage Beams Fired;0;Excavation
+STAT;6;Salvage Beams Fired;5;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;73;Excavation
-STAT;11;Adamyte Ore Mined;858;Excavation
-STAT;12;Gradeon Ore Mined;0;Excavation
-STAT;13;Quazor Ore Mined;0;Excavation
-STAT;14;Lokken Ore Mined;0;Excavation
-STAT;15;Torim Ore Mined;0;Excavation
+STAT;10;Mining lasers Fired;196;Excavation
+STAT;11;Adamyte Ore Mined;1326;Excavation
+STAT;12;Gradeon Ore Mined;360;Excavation
+STAT;13;Quazor Ore Mined;80;Excavation
+STAT;14;Lokken Ore Mined;56;Excavation
+STAT;15;Torim Ore Mined;212;Excavation
 STAT;16;Plasite Ore Mined;0;Excavation
 STAT;17;Dynex Ore Mined;0;Excavation
 STAT;18;Belasite Ore Mined;0;Excavation
 STAT;19;Xenox Ore Mined;0;Excavation
 STAT;20;Zai Ore Mined;0;Excavation
 STAT;21;Electron Orbs Mined;0;Excavation
-STAT;22;Junk Collected;0;Excavation
+STAT;22;Junk Collected;102;Excavation
 STAT;23;Scraps Collected;0;Excavation
 STAT;24;Salvage Collected;0;Excavation
 STAT;25;Derelicts Collected;0;Excavation
-STAT;26;Missions Complete;4;Missions
+STAT;26;Missions Complete;13;Missions
 STAT;27;Missions Expired;0;Missions
-STAT;28;Missions Aborted;0;Missions
-STAT;29;Transport Missions Complete;0;Missions
+STAT;28;Missions Aborted;2;Missions
+STAT;29;Transport Missions Complete;1;Missions
 STAT;30;Collection Missions Complete;0;Missions
-STAT;31;Delivery Missions Complete;0;Missions
-STAT;32;Recon Missions Complete;0;Missions
-STAT;33;Harvest Missions Complete;1;Missions
+STAT;31;Delivery Missions Complete;1;Missions
+STAT;32;Recon Missions Complete;1;Missions
+STAT;33;Harvest Missions Complete;3;Missions
 STAT;34;Escort Missions Complete;0;Missions
-STAT;35;Recover Missions Complete;0;Missions
+STAT;35;Recover Missions Complete;1;Missions
 STAT;36;Kill Missions Complete;6;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
-STAT;38;Sectors Explored;2;Navigation
-STAT;39;Warp gate Jumps;4;Navigation
+STAT;38;Sectors Explored;19;Navigation
+STAT;39;Warp gate Jumps;122;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;0;Missions
-STAT;43;Salvage Missions Complete;0;Missions
-STAT;44;Refinery Missions Complete;0;Missions
-STAT;45;Fabricator Missions Complete;0;Missions
+STAT;43;Salvage Missions Complete;1;Missions
+STAT;44;Refinery Missions Complete;1;Missions
+STAT;45;Fabricator Missions Complete;1;Missions
 STAT;46;;0;
 STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
-STAT;50;Skill Levels Trained;8;Skills
-STAT;51;Skill Points Earned;29;Skills
-STAT;52;Skill Points Spent;51;Skills
+STAT;50;Skill Levels Trained;18;Skills
+STAT;51;Skill Points Earned;94;Skills
+STAT;52;Skill Points Spent;157;Skills
 STAT;53;;0;
 STAT;54;;0;
 STAT;55;;0;
@@ -136,6 +140,7 @@ STAT;65;Torpedo Damage Taken;0;Combat
 
 // KEY; Sector ; gate_id
 <KEY>
+KEY;2;2;4
 
 // BOOKMARK; sector_id ; title ; notes ; x ; y ; z
 <BOOKMARKS>

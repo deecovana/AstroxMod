@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;29
 SECTOR;name;Noah Fox
-SECTOR;level;1.9
+SECTOR;level;1.6
 SECTOR;faction;Alpha
 SECTOR;filename;sector_29.txt
 SECTOR;is_explored;False
@@ -49,7 +49,7 @@ LIGHT;light_s;0.25;0.49;0.60;0.49
 STAR;object;0;0;30000;0;5;90000
 
 // LIFESUPPORT;type;value
-LIFESUPPORT;food;1.25
+LIFESUPPORT;food;1.199285
 LIFESUPPORT;water;2.25
 LIFESUPPORT;thermal;0.25
 LIFESUPPORT;waste;1.152331

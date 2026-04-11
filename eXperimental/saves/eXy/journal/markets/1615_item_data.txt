@@ -1,1 +1,4 @@
 NPC;-QTY;0;-6;19047.5;Biomart;Veloxi;0h 16m 9s ;969.1705
+NPC;+PRICE;3;0;15670.35;Communications Hub;Ele;1h 15m 16s ;4516.316
+NPC;-QTY;0;-9;16862.5;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;+QTY;45;9;13130.96;Nova Labs;Noah Fox;3h 5m 19s ;11119.64

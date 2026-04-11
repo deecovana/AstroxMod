@@ -1,1 +1,6 @@
 NPC;-QTY;5;-11;15450;Biomart;Veloxi;0h 16m 9s ;969.1705
+NPC;+PRICE;7;0;23260.08;Communications Hub;Ele;1h 15m 16s ;4516.316
+NPC;+QTY;11;6;21826.94;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;-QTY;0;-1;19150;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;-LOCAL;0;0;29866.44;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
+NPC;-LOCAL;0;0;30260.84;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71

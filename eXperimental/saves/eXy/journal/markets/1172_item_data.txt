@@ -1,0 +1,7 @@
+NPC;+PRICE;8;0;26987.98;Ferce;Allabentoris;1h 15m 16s ;4516.316
+NPC;+STOCK;19;8;36159.6;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;1;0;33075;CoraVault;Lins;2h 29m 50s ;8990.045
+NPC;+STOCK;12;11;39647.58;CoraVault;Lins;2h 47m 33s ;10053.19
+NPC;-LOCAL;0;0;37778.99;CoraVault;Lins;2h 47m 52s ;10072.21
+NPC;-QTY;5;-6;37176.76;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-QTY;0;0;46688.58;CoraVault;Lins;5h 30m 34s ;19834.27

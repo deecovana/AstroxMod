@@ -3,3 +3,15 @@ NPC;+LOCAL;25;1;4797.66;Lammassu Financial;Void Starcross;0h 31m 12s ;1872.756
 NPC;+LOCAL;25;4;1950;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
 NPC;+LOCAL;16;7;1950;StarShepards Headquarters;Void Starcross;0h 42m 35s ;2555.411
 NPC;+LOCAL;18;2;1950;StarShepards Headquarters;Void Starcross;1h 7m 22s ;4042.726
+NPC;+LOCAL;20;2;1950;StarShepards Headquarters;Void Starcross;1h 16m 55s ;4615.68
+NPC;-LOCAL;20;20;6750;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
+NPC;-LOCAL;0;0;10638.43;Daemon Ammunitions;Starfort Ramos;4h 9m 18s ;14958.07
+NPC;+LOCAL;25;23;1950;Lammassu Financial;Void Starcross;4h 10m 49s ;15049.17
+NPC;+LOCAL;25;21;1950;StarShepards Headquarters;Void Starcross;4h 13m 42s ;15222.47
+NPC;+LOCAL;25;2;1950;StarShepards Headquarters;Void Starcross;4h 22m 6s ;15726.5
+NPC;+LOCAL;11;2;7198.915;Valuestar Hub;Jelumus;4h 24m 15s ;15855.9
+NPC;+PRICE;3;0;4251.342;CoraVault;Lins;4h 31m 45s ;16305.97
+NPC;+LOCAL;25;5;1950;StarShepards Headquarters;Void Starcross;4h 31m 52s ;16312.13
+NPC;+LOCAL;25;2;1950;StarShepards Headquarters;Void Starcross;4h 38m 1s ;16681.43
+NPC;+LOCAL;25;3;1950;StarShepards Headquarters;Void Starcross;4h 45m 46s ;17146.1
+NPC;+LOCAL;25;7;1950;StarShepards Headquarters;Void Starcross;5h 22m 47s ;19367.12

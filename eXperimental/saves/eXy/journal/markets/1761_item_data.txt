@@ -1,3 +1,16 @@
 NPC;-LOCAL;0;0;771533.3;StarShepards Headquarters;Void Starcross;0h 20m 30s ;1230.998
 NPC;-LOCAL;0;0;1324422;StarShepards Headquarters;Void Starcross;0h 42m 35s ;2555.411
 NPC;-LOCAL;15;15;728510.6;StarShepards Headquarters;Void Starcross;1h 7m 22s ;4042.726
+NPC;-LOCAL;13;0;728510.6;StarShepards Headquarters;Void Starcross;1h 8m 12s ;4092.04
+NPC;-LOCAL;0;0;867062.6;StarShepards Headquarters;Void Starcross;1h 16m 55s ;4615.68
+NPC;+STOCK;13;11;828154.4;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;0;0;1118688;StarShepards Headquarters;Void Starcross;1h 30m 9s ;5409.233
+NPC;-QTY;0;-2;851234.3;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-LOCAL;3;3;728510.6;StarShepards Headquarters;Void Starcross;3h 9m 51s ;11391.85
+NPC;-LOCAL;58;58;728510.6;StarShepards Headquarters;Void Starcross;4h 13m 42s ;15222.47
+NPC;-LOCAL;0;0;896352.6;StarShepards Headquarters;Void Starcross;4h 22m 6s ;15726.5
+NPC;-LOCAL;0;0;1137522;StarShepards Headquarters;Void Starcross;4h 31m 52s ;16312.13
+NPC;-LOCAL;0;0;1267769;StarShepards Headquarters;Void Starcross;4h 38m 1s ;16681.43
+NPC;-LOCAL;61;61;748602.9;StarShepards Headquarters;Void Starcross;4h 45m 46s ;17146.1
+NPC;-LOCAL;29;29;736513.3;StarShepards Headquarters;Void Starcross;5h 22m 47s ;19367.12
+NPC;-LOCAL;0;0;908685.4;StarShepards Headquarters;Void Starcross;5h 36m 35s ;20195.18

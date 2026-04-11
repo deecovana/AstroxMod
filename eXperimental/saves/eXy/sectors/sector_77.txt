@@ -64,21 +64,21 @@ STARLIGHT;color_5;0.00;0.10;0.00;0.00
 STATION;sector_77_station_0.txt;-4186.9;376.6;4552.9
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;-1580.6;720.5;3596.0
+STRUCTURE;structure_habitat_1.txt;-1580.60;720.50;3596.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;100;50;300;5000;4727;-890;-3146;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;4942.3;-1700.6;-3452.4;1200.0;1200.0
-RESOURCE;1;1430.3;1585.8;-3931.3;200.0;200.0
-RESOURCE;1;3856.3;1525.5;-5542.8;2000.0;2000.0
-RESOURCE;1;3067.7;2356.8;-4807.0;500.0;500.0
-RESOURCE;1;4802.2;-422.4;-5456.6;3300.0;3300.0
+RESOURCE;1;4942.3;-1700.6;-3452.4;1200;1200
+RESOURCE;1;1430.3;1585.8;-3931.3;200;200
+RESOURCE;1;3856.3;1525.5;-5542.8;2000;2000
+RESOURCE;1;3067.7;2356.8;-4807.0;500;500
+RESOURCE;1;4793.6;-434.6;-5467.4;3300;3300
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_0.txt;5;5415.3;-375.1;183.7;0;alpha;-0.5
-WARPGATE;2;sector_78.txt;1;-2514.5;683.9;-5293.5;0;alpha;0.2
+WARPGATE;1;sector_0.txt;5;5415.3;-375.1;183.7;0;alpha;-0.5;prescan
+WARPGATE;2;sector_78.txt;1;-2514.5;683.9;-5293.5;0;alpha;0.2;prescan
 WARPGATE;3;sector_79.txt;1;-2538.1;850.3;4419.4;0;alpha;1.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1

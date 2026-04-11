@@ -1,2 +1,4 @@
 PLAYER;-QTY;55;1;7350;Proctors Center;Void Starcross;0h 24m 40s ;1480.277
 NPC;-QTY;5;-10;5276.25;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
+PLAYER;+QTY;12;1;4488.75;Rendo Labs;Entropy;1h 59m 56s ;7196.43
+NPC;+PRICE;15;0;7493.768;Keyworx;Geminey;3h 39m 34s ;13174.54

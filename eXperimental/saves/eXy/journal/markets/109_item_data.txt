@@ -1,1 +1,6 @@
 NPC;+LOCAL;100;1;2.88167;Daemon Ammunitions;Starfort Ramos;0h 53m 52s ;3232.529
+NPC;+PRICE;10;0;3.328914;Ferce;Allabentoris;1h 15m 16s ;4516.316
+NPC;+STOCK;775;245;3.068693;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;295;-235;3.24583;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+LOCAL;250;614;1.456;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
+NPC;+PRICE;34;0;5.721286;CoraVault;Lins;4h 31m 45s ;16305.97

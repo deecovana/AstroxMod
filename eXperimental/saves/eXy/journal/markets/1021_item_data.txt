@@ -2,3 +2,11 @@ NPC;-LOCAL;0;0;115762.5;Starbase Corporate Center;Void Starcross;0h 22m 36s ;135
 NPC;-LOCAL;0;0;161736.6;Starbase Corporate Center;Void Starcross;0h 34m 44s ;2084.77
 NPC;-LOCAL;73;73;115762.5;Starbase Corporate Center;Void Starcross;0h 57m 46s ;3466.521
 NPC;+QTY;47;7;122451;Gunstellar;Adrenal;1h 7m 10s ;4030.626
+NPC;-LOCAL;0;0;169497.4;Starbase Corporate Center;Void Starcross;1h 11m 28s ;4288.427
+NPC;+STOCK;9;9;210316.4;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;0;0;225614.4;Starbase Corporate Center;Void Starcross;1h 25m 28s ;5128.006
+NPC;-LOCAL;48;48;115762.5;Starbase Corporate Center;Void Starcross;1h 57m 6s ;7026.358
+NPC;-LOCAL;46;0;115762.5;Starbase Corporate Center;Void Starcross;1h 57m 39s ;7059.791
+NPC;-LOCAL;0;0;151857.3;Starbase Corporate Center;Void Starcross;2h 9m 23s ;7763.151
+NPC;-QTY;0;0;192232.1;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-LOCAL;20;20;115762.5;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38

@@ -82,17 +82,17 @@ CLUSTER;1;150;100;500;10000;0;0;0;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
 RESOURCE;1;-4640.2;-416.1;-2646.0;1000;1000
-RESOURCE;1;-4249.5;-981.5;-4430.0;2000;2000
+RESOURCE;1;-4203.6;-1009.7;-4447.1;2000;2000
 RESOURCE;1;-5191.5;-1129.6;-3469.6;2400;2400
 RESOURCE;1;4242.8;-290.9;-420.6;1000;1000
-RESOURCE;1;4260.6;-1655.3;-682.0;2000;2000
+RESOURCE;1;4266.4;-1656.7;-678.1;2000;2000
 RESOURCE;1;1662.4;-367.3;4014.8;2400;2400
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
 WARPGATE;1;sector_36.txt;3;-3711.8;83.0;2243.9;0;law;0.0
 WARPGATE;2;sector_40.txt;1;3471.0;-987.6;-2974.3;0;law;0.0
-WARPGATE;3;sector_38.txt;1;-3347.4;-320.3;-3727.9;0;law;0.0
-WARPGATE;4;sector_0.txt;3;2988.4;-555.6;3775.2;0;law;0.0
+WARPGATE;3;sector_38.txt;1;-3347.4;-320.3;-3727.9;0;law;0.0;prescan
+WARPGATE;4;sector_0.txt;3;2988.4;-555.6;3775.2;0;law;0.0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 //PROP;0;0;0;0;0;0;0;lightning 1

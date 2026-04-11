@@ -6,3 +6,16 @@ PLAYER;+QTY;518;498;10.00781;Starbase Corporate Center;Void Starcross;0h 57m 52s
 PLAYER;+QTY;912;336;8.087625;StarShepards Headquarters;Void Starcross;1h 7m 28s ;4048.766
 NPC;+QTY;3390;3358;8.35625;Tella's;Bitcola;1h 7m 16s ;4036.768
 NPC;+QTY;3280;3278;6.67625;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
+NPC;-LOCAL;178;0;7.875;Starbase Corporate Center;Void Starcross;1h 11m 28s ;4288.427
+PLAYER;+QTY;514;336;10.00781;Starbase Corporate Center;Void Starcross;1h 11m 33s ;4293.457
+NPC;+PRICE;172;0;9.23801;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
+NPC;+STOCK;4653;4139;9.579119;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;7;0;7.875;Starbase Corporate Center;Void Starcross;1h 25m 28s ;5128.006
+PLAYER;+QTY;475;468;10.00781;Starbase Corporate Center;Void Starcross;1h 25m 33s ;5133.189
+NPC;-LOCAL;432;0;7.875;Starbase Corporate Center;Void Starcross;1h 57m 6s ;7026.358
+NPC;-LOCAL;426;0;7.875;Starbase Corporate Center;Void Starcross;1h 57m 39s ;7059.791
+NPC;-LOCAL;79;0;7.875;Starbase Corporate Center;Void Starcross;2h 9m 23s ;7763.151
+NPC;+STOCK;8361;4971;8.054255;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-QTY;0;-44;7.2625;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;-LOCAL;76;76;7.879984;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38
+NPC;-QTY;0;-35;6.170981;PharmaLife;Carioullis;5h 30m 34s ;19834.27

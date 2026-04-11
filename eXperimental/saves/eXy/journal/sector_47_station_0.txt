@@ -1,0 +1,114 @@
+[s:30][c:yellow]Gunstellar[/c][/s]
+Weapons Plant
+Xonfahin Wheal
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 11144.66
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Water
+Carbon
+Hydrogen
+Oxygen
+Magnetic Quartz
+Iron Coring
+Nitrogen
+Oil
+Copperi Cubex
+Calcium
+Ceramic
+Aluminium Shard
+Dynex Crystal
+Silicon
+Salt Crystal
+Bio Carbon
+Calciate Residue
+Steelium
+Plastix Strands
+Silveryte
+Prometheum
+Neutron Pods
+Uranium
+Goldyte
+Titanyte
+Generic Plasma Cannon
+Basic Plasma Cannon
+Improved Plasma Cannon
+Advanced Plasma Cannon
+Premium Plasma Cannon
+Prototype Plasma Cannon
+Generic Ion Beam
+Basic Ion Beam
+Improved Ion Beam
+Advanced Ion Beam
+Premium Ion Beam
+Prototype Ion Beam
+Acidic Residue
+[c:orange]DEMAND[/c]
+Cleaning Chemicals
+Colored Dye
+Anti-Freeze
+Basic Beam Impact Mod
+Basic Beam Energy Mod
+Basic Beam Explosive Mod
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (270) x Anti-Freeze
+ (172) x Colored Dye
+Fulfill order for [c:lime]26,275 profit.[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (2) Items 
+ (100) x Cleaning Chemicals
+ (274) x Anti-Freeze
+Fulfill order for [c:lime]30,410 profit.[/c]
+[c:red]SELL Order[/c] Market Stock: (1) Items 
+ (196) x Magnetic Quartz
+Buy items for [c:lime]545 discount.[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (129) x Anti-Freeze
+Fulfill order for [c:lime]12,023 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Ship Mass Engineering
+Beam Advanced Systems
+Fleet Combat Training
+Ship Thruster Systems
+Laser Advanced Systems
+Fleet Navigation
+Miner Focal Range
+Ship Advanced Targeting Systems
+Salvager Cycle Mechanics
+
+
+<Station Missions>
+[c:lime]DELIVERY[/c]
+Light delivery of <color='yellow'>Improved Railguns</color> to Imperium Republica  Station in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]SCAN[/c]
+Track and scan the target <color='yellow'>Recon Center</color> structure in <color='cyan'>Void Starcross</color> and return to Tella's in <color='cyan'>Bitcola</color>
+
+
+
+<Station Ships>
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+PC-1 Pirate Utility / Utility    (Excavation)
+SC-1 Bishop / Utility    (Support)
+RU-1 Curator / Escort    (Recon)

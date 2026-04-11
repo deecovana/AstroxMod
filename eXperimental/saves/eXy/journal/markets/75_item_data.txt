@@ -1,1 +1,16 @@
 NPC;-LOCAL;7;0;210.9375;Lammassu Financial;Void Starcross;0h 31m 12s ;1872.756
+NPC;+STOCK;2324;2183;203.2715;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;1813;1773;146.5025;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+LOCAL;2500;2345;98.45811;Horizons;Gate of Alpharis;2h 43m 20s ;9800.769
+NPC;-QTY;0;-141;212.7217;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+LOCAL;101;7;234.8884;Quantex;Dellis Primeria;3h 18m 35s ;11915.83
+NPC;+LOCAL;39;7;208.7522;Oro Omniplex Center;Merces Academy;3h 30m 32s ;12632.26
+NPC;+LOCAL;118;79;206.1823;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
+NPC;-LOCAL;76;76;218.6356;Lammassu Financial;Void Starcross;4h 10m 49s ;15049.17
+NPC;-LOCAL;319;0;210.9375;Valuestar Hub;Jelumus;4h 18m 0s ;15480.29
+NPC;-LOCAL;297;0;210.9375;Valuestar Hub;Jelumus;4h 24m 15s ;15855.9
+NPC;-LOCAL;293;0;210.9375;Valuestar Hub;Jelumus;4h 28m 10s ;16090.3
+NPC;-LOCAL;269;0;210.9375;Valuestar Hub;Jelumus;4h 35m 3s ;16503.93
+NPC;-LOCAL;235;0;210.9375;Valuestar Hub;Jelumus;4h 41m 17s ;16877.19
+NPC;-LOCAL;0;0;276.2263;Valuestar Hub;Jelumus;5h 18m 34s ;19114.57
+NPC;-QTY;0;-148;116.332;CoraVault;Lins;5h 30m 34s ;19834.27

@@ -1,0 +1,68 @@
+[s:30][c:yellow]Biomart[/c][/s]
+Auction Facility
+Leira Kolyitpi
+Trade
+[c:lime]Dock fee 100[/c]
+Timestamp: 13865.4
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+LED Lights
+Micro Processor
+Large Processor
+Motion Sensor
+Pressure Sensor
+Memory Chip
+Small Pump
+Small Heatsink
+Small Motor
+Copperi Cables
+Active Scanner
+[c:orange]DEMAND[/c]
+Personal Clothing
+Hygiene Products
+Communication Device
+Transport Units
+Tractor Beam
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Low Inventory: (1) Items 
+ (143) x Hygiene Products
+Fulfill order for [c:lime]24,438 profit.[/c]
+[c:red]SELL Order[/c] Market Goods: (1) Items 
+ (62) x Pressure Sensor
+Buy items for [c:lime]2,999 discount.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Launcher Basic Operation
+Miner Maintenance
+Laser Basic Operation
+Projectile Damage Calibration
+
+
+<Station Missions>
+
+
+<Station Ships>
+TE-1 Phoebus / Shuttle    (Transport)
+TU-1 Jonas / Escort    (Transport)
+BCA-1 Drone Piranha / Destroyer    (Support)
+RE-1 Integrator / Escort    (Recon)
+RF-1 Assimilator / Escort    (Recon)
+BCA-1 Drone Piranha / Destroyer    (Support)
+SF-1 Redeemer / Frigate    (Support)

@@ -4,7 +4,7 @@ SECTOR;name;Equalias Val
 SECTOR;level;6.9
 SECTOR;faction;Law
 SECTOR;filename;sector_38.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -63,19 +63,19 @@ STARLIGHT;color_5;0.00;0.48;0.00;0.00
 
 // STATION;Sector filename;X position;Y position;Z position
 
-// STRUCTURE;Structure filename;X position;Y position;Z position
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;9;50;100;150;5000;0;0;0
 CLUSTER;11;50;100;150;5000;0;0;0
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;3230;-166;-440;200;200
+RESOURCE;1;3230.0;-166.0;-440.0;200;200
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_35.txt;3;-1606;-100;2387;0;Law;0
-WARPGATE;2;sector_41.txt;1;2780;-653;3567;0;Law;0
-WARPGATE;3;sector_39.txt;1;-2869;-217;-2875;0;Law;0
+WARPGATE;1;sector_35.txt;3;-1606;-100;2387;0;Law;0;prescan
+WARPGATE;2;sector_41.txt;1;2780;-653;3567;0;Law;0;prescan
+WARPGATE;3;sector_39.txt;1;-2869;-217;-2875;0;Law;0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 

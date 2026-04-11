@@ -1,0 +1,6 @@
+NPC;+PRICE;19;0;216.6381;Ferce;Allabentoris;1h 15m 16s ;4516.316
+NPC;+STOCK;975;971;147.9786;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;996;980;198.5341;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+STOCK;768;754;129.1515;CoraVault;Lins;2h 47m 33s ;10053.19
+NPC;-QTY;0;-4;157.297;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+QTY;986;976;158.8332;Crystalis Broadcasting;Jermicus;3h 4m 7s ;11047.58

@@ -1,0 +1,11 @@
+NPC;+PRICE;21;0;147.8129;Communications Hub;Ele;1h 15m 16s ;4516.316
+NPC;-QTY;0;-10;238.7238;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;-LOCAL;29;29;213.57;Lammassu Financial;Void Starcross;4h 10m 49s ;15049.17
+NPC;-LOCAL;23;0;213.57;Valuestar Hub;Jelumus;4h 18m 0s ;15480.29
+NPC;-LOCAL;20;0;213.57;Valuestar Hub;Jelumus;4h 24m 15s ;15855.9
+NPC;-LOCAL;18;0;213.57;Valuestar Hub;Jelumus;4h 28m 10s ;16090.3
+NPC;+PRICE;79;0;190.799;CoraVault;Lins;4h 31m 45s ;16305.97
+NPC;-LOCAL;0;0;222.3899;Valuestar Hub;Jelumus;4h 35m 3s ;16503.93
+NPC;-LOCAL;0;0;231.8932;Valuestar Hub;Jelumus;4h 41m 17s ;16877.19
+NPC;-LOCAL;0;0;298.6576;Valuestar Hub;Jelumus;5h 18m 34s ;19114.57
+NPC;-QTY;0;-79;189.923;CoraVault;Lins;5h 30m 34s ;19834.27

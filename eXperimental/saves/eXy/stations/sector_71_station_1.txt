@@ -39,6 +39,11 @@ MERC;2;0.99;npc_ship_data_(support_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Purchasing (2) Items ;301x2433,312x1495;222927;22744.03
+SELLORDER;Market Production: (4) Items ;42x104,52x111,62x108,42x55;50439;64676.23
+SELLORDER;Market Stock: (3) Items ;61x204,51x79,76x231;157041;19052.23
+SELLORDER;Sell Order Request for (3) Items ;1600x5,1590x3,166x180;145144;53974.40
+
 ITEM;1460;7;0.62
 ITEM;1111;11;0.95
 ITEM;1001;19;0.52

@@ -1,2 +1,4 @@
 NPC;-LOCAL;0;0;207000;Proctors Center;Void Starcross;0h 23m 57s ;1437.134
 NPC;-LOCAL;0;0;283960;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
+NPC;+LOCAL;12;1;129547.7;ValueStar;Hunu;2h 28m 50s ;8930.005
+NPC;+QTY;37;7;130843;Nova Labs;Noah Fox;3h 5m 19s ;11119.64

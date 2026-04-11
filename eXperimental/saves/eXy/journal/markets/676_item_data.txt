@@ -1,3 +1,17 @@
 NPC;+LOCAL;25;8;4875;StarShepards Headquarters;Void Starcross;0h 42m 35s ;2555.411
 NPC;-LOCAL;41;0;18075;Daemon Ammunitions;Starfort Ramos;0h 53m 52s ;3232.529
 NPC;+LOCAL;25;2;4875;StarShepards Headquarters;Void Starcross;1h 7m 22s ;4042.726
+NPC;+LOCAL;25;1;4875;StarShepards Headquarters;Void Starcross;1h 8m 12s ;4092.04
+NPC;+LOCAL;25;3;4875;StarShepards Headquarters;Void Starcross;1h 16m 55s ;4615.68
+NPC;+STOCK;142;21;12564.42;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+LOCAL;25;13;4875;StarShepards Headquarters;Void Starcross;3h 9m 51s ;11391.85
+NPC;-LOCAL;29;29;16875;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
+NPC;-LOCAL;0;0;26596.08;Daemon Ammunitions;Starfort Ramos;4h 9m 18s ;14958.07
+NPC;+LOCAL;25;6;11306.18;Valuestar Hub;Jelumus;4h 18m 0s ;15480.29
+NPC;+LOCAL;25;3;4875;StarShepards Headquarters;Void Starcross;4h 22m 6s ;15726.5
+NPC;+LOCAL;25;4;4875;StarShepards Headquarters;Void Starcross;4h 31m 52s ;16312.13
+NPC;+LOCAL;25;3;4875;StarShepards Headquarters;Void Starcross;4h 38m 1s ;16681.43
+NPC;+LOCAL;25;2;10791.35;Valuestar Hub;Jelumus;4h 41m 17s ;16877.19
+NPC;+LOCAL;25;3;4875;StarShepards Headquarters;Void Starcross;4h 45m 46s ;17146.1
+NPC;+LOCAL;25;12;4875;StarShepards Headquarters;Void Starcross;5h 22m 47s ;19367.12
+NPC;+LOCAL;25;3;4875;StarShepards Headquarters;Void Starcross;5h 36m 35s ;20195.18

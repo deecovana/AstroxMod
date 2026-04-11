@@ -1,1 +1,6 @@
 NPC;+QTY;87;1;501691.1;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+STOCK;12;2;516644.6;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;29;1;609236.3;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
+NPC;+STOCK;89;2;484439.6;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-QTY;9;-1;530349.7;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+QTY;56;1;292927.8;Crystalis Broadcasting;Jermicus;3h 4m 7s ;11047.58

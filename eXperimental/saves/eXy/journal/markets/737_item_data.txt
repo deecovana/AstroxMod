@@ -1,3 +1,9 @@
 NPC;+LOCAL;5;1;500333.2;Biomate University;Void Starcross;0h 7m 31s ;451.5211
 NPC;+LOCAL;5;1;400437.2;Biomate University;Void Starcross;0h 16m 54s ;1014.248
 NPC;+LOCAL;5;1;398657.7;Biomate University;Void Starcross;0h 30m 31s ;1831.387
+NPC;+STOCK;144;3;356486.2;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+LOCAL;5;1;182812.5;Biomate University;Void Starcross;2h 12m 57s ;7977.378
+NPC;-QTY;138;-3;373790;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+LOCAL;5;1;182812.5;Biomate University;Void Starcross;2h 53m 16s ;10396.04
+NPC;+LOCAL;5;1;553255.3;Medicore University;Cliffs of Drameria;4h 11m 57s ;15117.29
+NPC;+LOCAL;5;1;182812.5;Biomate University;Void Starcross;5h 32m 1s ;19921.86

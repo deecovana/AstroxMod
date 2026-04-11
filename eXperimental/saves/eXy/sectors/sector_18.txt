@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;18
 SECTOR;name;Gendaria
-SECTOR;level;5.8
+SECTOR;level;5.7
 SECTOR;faction;Alpha
 SECTOR;filename;sector_18.txt
 SECTOR;is_explored;False

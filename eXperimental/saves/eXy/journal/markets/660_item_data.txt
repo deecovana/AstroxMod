@@ -1,0 +1,7 @@
+NPC;+STOCK;40;4;7687.24;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;6;4;7499.428;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+STOCK;10;4;8173.255;Tella's;Bitcola;2h 36m 58s ;9418.72
+PLAYER;-QTY;5;1;8124.156;CoraVault;Lins;2h 49m 19s ;10159.3
+NPC;-QTY;33;-3;8011.609;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-QTY;2;-3;8193.063;CoraVault;Lins;5h 30m 34s ;19834.27
+NPC;-QTY;9;-4;4000.981;PharmaLife;Carioullis;5h 30m 34s ;19834.27

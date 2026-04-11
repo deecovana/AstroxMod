@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-9-1-2-0-3-0-0-4-2-1-0-90
 STATION;interior_seed;4-7-30-7
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;8733.591
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -329,6 +332,8 @@ SKILL;44;0.66
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;30;45;330902;TRANSPORT#107#2007#sector_3_station_0.txt#sector_20_station_0.txt#null#null#null#null;Transport a light shipment of <color='yellow'>107</color> <color='yellow'>Hand Tools</color> from Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> to Medicore University in <color='cyan'>Cliffs of Drameria</color>;5;Transport manager <i>Feifou Galeada</i> has requested a transport of a light shipment of <color='yellow'>107</color> <color='yellow'>Hand Tools</color>. They need to be picked up at the storage facility at Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>, and transported to Medicore University in <color='cyan'>Cliffs of Drameria</color>. <i>Feifou Galeada</i> will be waiting at Medicore University to receive the shipment.;7412;2813
+MISSION;126;45;590289;CHAT_PILOT#sector_35_station_0.txt#sector_15.txt#Captain Kaddfon Foou#npc_ship_data_(ATC_Spear)#11#missions_transfer_pilot.txt#0#null;Transfer payment to <color='yellow'><i>Captain Kaddfon Foou</i></color> in <color='cyan'>Jermicus</color> and return with signature to Astrox Security Patrol in <color='cyan'>Felishar</color>;3;<i>Lasgen Jidkinni</i> has a bonus payment for <color='yellow'><i>Captain Kaddfon Foou</i></color>. The Trade faction has recognized <color='yellow'><i>Captain Kaddfon Foou</i></color> and has award a bonus payment. <color='yellow'><i>Captain Kaddfon Foou</i></color> was last working in the <color='cyan'>Jermicus</color> system. Find them, deliver this envelope, and return to the Astrox Security Patrol in the <color='cyan'>Felishar</color> system with a signature.;171706;57446
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -340,3 +345,4 @@ SHIP;5;1.04;ship_data_(support_escort_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

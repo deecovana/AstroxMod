@@ -1,2 +1,7 @@
 NPC;-QTY;2;-10;23389.84;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
 NPC;+QTY;46;6;20090;Gunstellar;Adrenal;1h 7m 10s ;4030.626
+NPC;+STOCK;19;8;23465.92;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;2;-9;24120.63;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+QTY;20;6;24772.03;Nova Labs;Noah Fox;3h 5m 19s ;11119.64
+NPC;-LOCAL;5;0;27562.5;Quantex;Dellis Primeria;3h 18m 35s ;11915.83
+NPC;-QTY;12;-11;21815.72;CoraVault;Lins;5h 30m 34s ;19834.27

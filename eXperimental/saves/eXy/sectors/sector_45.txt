@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;null
+SECTOR;event_type;mining#20097#1#8
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;-1304.273;219.1569;1122.686
@@ -48,7 +48,7 @@ LIGHT;light_s;0.25;0.49;0.60;0.00
 STAR;object;-50000;0;-50000;10000;10.0;70000
 
 // LIFESUPPORT;type;value
-LIFESUPPORT;food;1.25
+LIFESUPPORT;food;1.349139
 LIFESUPPORT;water;1.3062102
 LIFESUPPORT;thermal;1.45
 LIFESUPPORT;waste;1.25

@@ -1,2 +1,7 @@
 NPC;-QTY;6;-10;1494;Biomart;Veloxi;0h 16m 9s ;969.1705
 NPC;+LOCAL;12;2;967.1131;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
+NPC;+STOCK;56;11;2091.643;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;10;6;1492.275;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
+NPC;-QTY;37;-8;2170.837;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-QTY;0;-5;2274;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;+PRICE;11;0;2488.143;CoraVault;Lins;4h 31m 45s ;16305.97

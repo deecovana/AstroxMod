@@ -1,0 +1,111 @@
+[s:30][c:yellow]Mazu Starship[/c][/s]
+Weapons Plant
+Anres Xadue
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 11083.61
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Water
+Carbon
+Hydrogen
+Oxygen
+Magnetic Quartz
+Iron Coring
+Nitrogen
+Oil
+Copperi Cubex
+Calcium
+Ceramic
+Aluminium Shard
+Dynex Crystal
+Silicon
+Salt Crystal
+Bio Carbon
+Calciate Residue
+Steelium
+Plastix Strands
+Silveryte
+Prometheum
+Neutron Pods
+Uranium
+Goldyte
+Titanyte
+Generic Plasma Cannon
+Basic Plasma Cannon
+Improved Plasma Cannon
+Advanced Plasma Cannon
+Premium Plasma Cannon
+Prototype Plasma Cannon
+Generic Ion Beam
+Basic Ion Beam
+Improved Ion Beam
+Advanced Ion Beam
+Premium Ion Beam
+Prototype Ion Beam
+Acidic Residue
+[c:orange]DEMAND[/c]
+Cleaning Chemicals
+Colored Dye
+Anti-Freeze
+Basic Beam Impact Mod
+Basic Beam Energy Mod
+Basic Beam Explosive Mod
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Refinery
+University
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Items Req: (4) Items 
+ (213) x Colored Dye
+ (286) x Colored Dye
+ (179) x Cleaning Chemicals
+ (57) x Colored Dye
+Fulfill order for [c:lime]46,993 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+Passive Scanner Systems
+Ship Afterburner Systems
+Beam Cycle Mechanics
+Launcher Cycle Mechanics
+Ship Shield Systems
+Miner Basic Operation
+Launcher Energy Optimization
+Ship Mass Engineering
+Ship Engine Burner
+
+
+<Station Missions>
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>118</color> to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]DIALOG[/c]
+Detain <color='yellow'><i>Czar Algot Doewasev</i></color> in <color='cyan'>Gate of Alpharis</color> and escort them to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
+
+[c:lime]TRANSPORT[/c]
+Head to Lacuna Bandits in <color='cyan'>Ballast Crow</color>, pick up <color='yellow'>120</color> <color='yellow'>Interior Lightings</color> for a light shipment to Gunstellar in <color='cyan'>Adrenal</color>
+
+[c:lime]DELIVERY[/c]
+Light delivery of <color='yellow'>Ornaments</color> to Biomate University Station in <color='cyan'>Void Starcross</color>
+
+[c:lime]SCAN[/c]
+Find <color='yellow'><i>Miner Rilow Oueroso</i></color> in <color='cyan'>Felishar</color>, scan their ship, and return to Tella's in <color='cyan'>Bitcola</color>
+
+[c:lime]KILL RECOVER[/c]
+Hijack and kill <color='yellow'><i>Entertainer Bueoi Sadcaejoh</i></color> in <color='cyan'>Felishar</color> and steal <color='yellow'>1</color> <color='yellow'>Premium Shield Booster</color>. Return to Transporteers in <color='cyan'>Hunu</color>
+
+
+
+<Station Ships>

@@ -1,0 +1,5 @@
+NPC;+STOCK;34;3;4590.524;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+STOCK;13;4;5678.82;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;+STOCK;15;4;5274.841;CoraVault;Lins;2h 47m 33s ;10053.19
+PLAYER;+QTY;8;1;7655.813;Daemon Ammunitions;Starfort Ramos;3h 25m 0s ;12300.65
+NPC;-QTY;9;-2;5393.063;CoraVault;Lins;5h 30m 34s ;19834.27

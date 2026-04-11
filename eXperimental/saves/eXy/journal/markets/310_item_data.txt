@@ -1,3 +1,22 @@
 NPC;-LOCAL;0;0;181.901;StarShepards Headquarters;Void Starcross;0h 20m 30s ;1230.998
 NPC;-LOCAL;66;66;154.7428;StarShepards Headquarters;Void Starcross;0h 42m 35s ;2555.411
 NPC;-LOCAL;14;0;153.6975;StarShepards Headquarters;Void Starcross;1h 7m 22s ;4042.726
+NPC;-LOCAL;11;0;153.6975;StarShepards Headquarters;Void Starcross;1h 8m 12s ;4092.04
+NPC;-LOCAL;0;0;182.9285;StarShepards Headquarters;Void Starcross;1h 16m 55s ;4615.68
+NPC;-LOCAL;0;0;236.0152;StarShepards Headquarters;Void Starcross;1h 30m 9s ;5409.233
+NPC;-LOCAL;30;0;153.6975;Imperium Republica ;Gate of Alpharis;1h 38m 5s ;5885.779
+NPC;-LOCAL;1;0;153.6975;Imperium Republica ;Gate of Alpharis;1h 51m 16s ;6676.245
+NPC;-LOCAL;28;0;153.6975;ValueStar;Hunu;2h 28m 4s ;8884.941
+NPC;-LOCAL;26;0;153.6975;ValueStar;Hunu;2h 28m 50s ;8930.005
+NPC;-QTY;0;-48;120.8425;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-LOCAL;73;73;155.2135;StarShepards Headquarters;Void Starcross;3h 9m 51s ;11391.85
+NPC;-LOCAL;13;0;153.6975;The Dunes;The Dunes of Caliph;3h 33m 3s ;12783.69
+NPC;-LOCAL;0;0;161.8662;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
+NPC;-LOCAL;0;0;267.4504;ValueStar;Hunu;3h 52m 17s ;13937.75
+NPC;-LOCAL;51;51;153.6975;StarShepards Headquarters;Void Starcross;4h 13m 42s ;15222.47
+NPC;-LOCAL;0;0;189.108;StarShepards Headquarters;Void Starcross;4h 22m 6s ;15726.5
+NPC;-LOCAL;0;0;239.9887;StarShepards Headquarters;Void Starcross;4h 31m 52s ;16312.13
+NPC;-LOCAL;0;0;267.4674;StarShepards Headquarters;Void Starcross;4h 38m 1s ;16681.43
+NPC;-LOCAL;0;0;302.1511;StarShepards Headquarters;Void Starcross;4h 45m 46s ;17146.1
+NPC;-LOCAL;56;56;153.6975;StarShepards Headquarters;Void Starcross;5h 22m 47s ;19367.12
+NPC;-LOCAL;0;0;190.3437;StarShepards Headquarters;Void Starcross;5h 36m 35s ;20195.18

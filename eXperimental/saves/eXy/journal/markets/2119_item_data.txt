@@ -1,1 +1,4 @@
 NPC;+QTY;37;2;24981.25;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
+NPC;+STOCK;158;2;43253.17;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;36;-1;45412.5;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;-QTY;43;-2;25915.31;CoraVault;Lins;5h 30m 34s ;19834.27

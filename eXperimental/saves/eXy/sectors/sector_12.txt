@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;12
 SECTOR;name;Alias Outpost
-SECTOR;level;0.4
+SECTOR;level;0.5
 SECTOR;faction;Labor
 SECTOR;filename;sector_12.txt
 SECTOR;is_explored;False

@@ -1,1 +1,11 @@
 NPC;-LOCAL;177;0;126.5625;Lammassu Financial;Void Starcross;0h 31m 12s ;1872.756
+NPC;+QTY;1443;1403;76.65152;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+LOCAL;2500;1689;40.10014;Horizons;Gate of Alpharis;2h 43m 20s ;9800.769
+NPC;-QTY;0;-374;134.383;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-LOCAL;1;1;126.5625;Lammassu Financial;Void Starcross;4h 10m 49s ;15049.17
+NPC;-LOCAL;0;0;126.5625;Valuestar Hub;Jelumus;4h 18m 0s ;15480.29
+NPC;-LOCAL;0;0;130.4168;Valuestar Hub;Jelumus;4h 24m 15s ;15855.9
+NPC;-LOCAL;0;0;130.4312;Valuestar Hub;Jelumus;4h 28m 10s ;16090.3
+NPC;-LOCAL;0;0;135.1642;Valuestar Hub;Jelumus;4h 35m 3s ;16503.93
+NPC;-LOCAL;0;0;140.7959;Valuestar Hub;Jelumus;4h 41m 17s ;16877.19
+NPC;-LOCAL;0;0;180.3608;Valuestar Hub;Jelumus;5h 18m 34s ;19114.57

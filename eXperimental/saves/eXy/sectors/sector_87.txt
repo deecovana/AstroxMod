@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;87
 SECTOR;name;Yellon
-SECTOR;level;2.9
+SECTOR;level;2.8
 SECTOR;faction;Pirate
 SECTOR;filename;sector_87.txt
 SECTOR;is_explored;False

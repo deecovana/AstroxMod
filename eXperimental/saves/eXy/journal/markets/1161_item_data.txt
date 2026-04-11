@@ -1,3 +1,7 @@
 NPC;+STOCK;86;9;6523.361;Biomate University;Void Starcross;0h 7m 1s ;421.4978
 NPC;-QTY;6;-10;4562.25;Biomart;Veloxi;0h 16m 9s ;969.1705
 NPC;-QTY;19;-6;5264.875;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
+NPC;-LOCAL;5;0;8662.5;CoraVault;Lins;2h 29m 50s ;8990.045
+NPC;+STOCK;27;9;9955.33;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-LOCAL;0;0;9894.497;CoraVault;Lins;2h 47m 52s ;10072.21
+NPC;-LOCAL;0;0;8662.5;OmniTrust;Ponze;3h 55m 37s ;14137.01

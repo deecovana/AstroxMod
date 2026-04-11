@@ -1,1 +1,6 @@
 NPC;+QTY;516;515;624.8654;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+PRICE;18;0;627.0466;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
+NPC;+STOCK;1015;978;999.7994;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+QTY;516;501;759.7513;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;+STOCK;1332;816;593.6562;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;-QTY;0;-37;1045.95;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01

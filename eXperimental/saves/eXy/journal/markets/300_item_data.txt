@@ -1,0 +1,6 @@
+NPC;+PRICE;10;0;129.5096;Ferce;Allabentoris;1h 15m 16s ;4516.316
+NPC;+PRICE;18;0;88.07738;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
+NPC;+STOCK;786;748;76.35639;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;5;0;111.9938;Rendo Labs;Entropy;1h 46m 56s ;6416.35
+NPC;-LOCAL;0;0;139.7159;Rendo Labs;Entropy;1h 59m 17s ;7157.224
+NPC;-QTY;0;-38;81.08504;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01

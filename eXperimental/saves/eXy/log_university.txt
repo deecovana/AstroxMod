@@ -1,4 +1,14 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;1;Frigate Ship Operation;1 min;16;15750.0;7387054.29262519;Biomate University;Void Starcross;5h 3m 1s 
+SKILL;3;Escort Ship Operation;2 min;24;15750.0;8789808.38637519;Biomate University;Void Starcross;4h 58m 47s 
+SKILL;2;Escort Ship Operation;1 min;16;10500.0;8805558.38637519;Biomate University;Void Starcross;4h 57m 39s 
+SKILL;2;Passive Scanner Systems;2 min;10;4464.0;83930.2517881393;Mazu Starship;Volox;3h 4m 35s 
+SKILL;1;Ship Shield Systems;2 min;5;1240.0;88394.2517881393;Mazu Starship;Volox;3h 4m 32s 
+SKILL;1;Passive Scanner Systems;1 min;5;2232.0;89734.2517881393;Mazu Starship;Volox;3h 3m 41s 
+SKILL;2;Tractor Basic Operation;2 min;10;4628.0;5001.18139648438;Starbase Corporate Center;Void Starcross;2h 10m 12s 
+SKILL;2;Salvager Basic Operation;3 min;10;2424.0;9629.18139648438;Starbase Corporate Center;Void Starcross;2h 9m 50s 
+SKILL;1;Tractor Basic Operation;1 min;5;2314.0;420.271240234375;Starbase Corporate Center;Void Starcross;2h 8m 47s 
+SKILL;1;Salvager Basic Operation;2 min;5;1212.0;2734.27124023438;Starbase Corporate Center;Void Starcross;2h 7m 25s 
 SKILL;1;Max Mission Contracts;2 min;4;810.0;65956.339838028;Biomate University;Void Starcross;0h 19m 0s 
 SKILL;2;Ship Thruster Systems;3 min;14;2070.0;66766.339838028;Biomate University;Void Starcross;0h 17m 47s 
 SKILL;2;Laser Basic Operation;4 min;12;4070.0;55546.9260005951;Biomate University;Void Starcross;0h 10m 17s 

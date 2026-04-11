@@ -1,1 +1,3 @@
 NPC;+QTY;24;10;96800;Gunstellar;Adrenal;1h 7m 10s ;4030.626
+NPC;+STOCK;19;9;90278.41;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;3;-7;93961.25;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01

@@ -1,0 +1,6 @@
+NPC;+STOCK;80;11;24910.15;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;+PRICE;3;0;32562.1;Gek Mining;Alias Outpost;2h 22m 22s ;8542.287
+NPC;-QTY;63;-6;25862.89;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-QTY;0;-8;33687.5;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;-LOCAL;0;0;33619.78;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
+NPC;+PRICE;22;0;23677.32;CoraVault;Lins;4h 31m 45s ;16305.97

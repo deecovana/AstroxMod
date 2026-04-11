@@ -1,2 +1,11 @@
 NPC;-LOCAL;64;0;40.1625;Daemon Ammunitions;Starfort Ramos;0h 53m 52s ;3232.529
 NPC;+QTY;2671;2540;24.05288;Tella's;Bitcola;1h 7m 16s ;4036.768
+NPC;+STOCK;4041;3975;32.8599;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-LOCAL;103;0;40.1625;Rendo Labs;Entropy;1h 46m 56s ;6416.35
+NPC;-LOCAL;0;0;50.10402;Rendo Labs;Entropy;1h 59m 17s ;7157.224
+NPC;+QTY;3711;3594;34.67709;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
+NPC;-QTY;0;-66;33.71921;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-LOCAL;144;0;40.1625;Quantex;Dellis Primeria;3h 18m 35s ;11915.83
+NPC;-LOCAL;20;20;40.1625;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
+NPC;-LOCAL;0;0;63.29867;Daemon Ammunitions;Starfort Ramos;4h 9m 18s ;14958.07
+NPC;-QTY;0;-18;22.50662;CoraVault;Lins;5h 30m 34s ;19834.27

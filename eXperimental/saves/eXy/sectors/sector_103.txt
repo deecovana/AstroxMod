@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;103
 SECTOR;name;Vindicati
-SECTOR;level;2.7
+SECTOR;level;2.6
 SECTOR;faction;Temple
 SECTOR;filename;sector_103.txt
 SECTOR;is_explored;False

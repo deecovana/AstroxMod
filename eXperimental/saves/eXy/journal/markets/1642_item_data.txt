@@ -1,1 +1,4 @@
 NPC;+QTY;48;8;106000;Gunstellar;Adrenal;1h 7m 10s ;4030.626
+NPC;+STOCK;22;8;124719.9;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
+NPC;-QTY;7;-7;127451.6;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;-LOCAL;0;0;129479.1;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55

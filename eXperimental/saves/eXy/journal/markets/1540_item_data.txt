@@ -1,3 +1,7 @@
 NPC;-LOCAL;50;0;25875;Proctors Center;Void Starcross;0h 23m 57s ;1437.134
 NPC;-LOCAL;0;0;35495;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
 NPC;+QTY;25;10;21246.25;Scrapdogs;Gemini Els;1h 7m 16s ;4036.768
+NPC;+LOCAL;12;1;20098.36;ValueStar;Hunu;2h 28m 50s ;8930.005
+NPC;+QTY;9;8;18900.97;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
+NPC;-QTY;0;-5;16042.5;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;+QTY;22;11;14975.37;Crystalis Broadcasting;Jermicus;3h 4m 7s ;11047.58
