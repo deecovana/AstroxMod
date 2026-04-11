@@ -2,7 +2,7 @@
 // eXperimental 1280@30 modified values ~1.5x
 
 //GRAPHICS OPTIONS
-OPTION_ui_scale;0.99
+OPTION_ui_scale;0.83
 OPTIONS_mouse_scroll_sensitivity;1
 OPTION_cam_drag;4
 OPTION_vsync;0
