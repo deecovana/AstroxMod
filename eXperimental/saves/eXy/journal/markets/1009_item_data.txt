@@ -13,3 +13,5 @@ NPC;+STOCK;29;9;4596.472;Tella's;Bitcola;2h 36m 58s ;9418.72
 NPC;+STOCK;13;11;4586.666;CoraVault;Lins;2h 47m 33s ;10053.19
 NPC;-LOCAL;47;47;9450;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38
 NPC;-QTY;0;-4;9169.177;PharmaLife;Carioullis;5h 30m 34s ;19834.27
+NPC;+STOCK;28;10;5628.906;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;55;8;11625.88;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19

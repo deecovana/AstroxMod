@@ -7,3 +7,7 @@ NPC;+STOCK;26;11;85937.5;Starbase Corporate Center;Void Starcross;1h 25m 20s ;51
 NPC;+LOCAL;15;1;81250;Starbase Corporate Center;Void Starcross;1h 57m 39s ;7059.791
 NPC;-QTY;1;-14;86128.91;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+LOCAL;9;8;81250;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38
+NPC;+STOCK;19;11;269180.8;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;72;13;273327.2;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;20;11;85742.19;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;80;14;198881.4;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

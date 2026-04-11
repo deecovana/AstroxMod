@@ -70,18 +70,18 @@ STATION;sector_0_station_1.txt;-4276;1050;-3270;prescan
 STATION;sector_0_station_0.txt;-533;-57;-5196;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_energy_gen_1.txt;1891.00;-33.00;1135.00
-STRUCTURE;structure_habitat_1.txt;-359.00;-385.00;1019.00
-STRUCTURE;structure_energy_gen_1.txt;669.00;-111.00;-5414.00
-STRUCTURE;structure_recon_1.txt;-339.00;-386.00;658.00
-STRUCTURE;structure_medical_1.txt;1560.00;-59.00;915.00
-STRUCTURE;structure_gun_platform_1.txt;1565.00;32.00;522.00
-STRUCTURE;structure_energy_gen_1.txt;-803.34;-456.79;733.17
-STRUCTURE;structure_office_1.txt;1565.00;43.00;1377.00
-STRUCTURE;structure_storage_1.txt;1577.00;49.00;1771.00
-STRUCTURE;structure_farm_1.txt;-327.09;-336.97;281.01
-STRUCTURE;structure_recon_1.txt;733.00;42.00;-5082.00
 STRUCTURE;structure_welcome_center_0-26140.txt;520.00;80.00;-5078.00
+STRUCTURE;structure_recon_1.txt;733.00;42.00;-5082.00
+STRUCTURE;structure_farm_1.txt;-327.09;-336.97;281.01
+STRUCTURE;structure_storage_1.txt;1577.00;49.00;1771.00
+STRUCTURE;structure_office_1.txt;1565.00;43.00;1377.00
+STRUCTURE;structure_energy_gen_1.txt;-803.34;-456.79;733.17
+STRUCTURE;structure_gun_platform_1.txt;1565.00;32.00;522.00
+STRUCTURE;structure_medical_1.txt;1560.00;-59.00;915.00
+STRUCTURE;structure_recon_1.txt;-339.00;-386.00;658.00
+STRUCTURE;structure_energy_gen_1.txt;669.00;-111.00;-5414.00
+STRUCTURE;structure_habitat_1.txt;-359.00;-385.00;1019.00
+STRUCTURE;structure_energy_gen_1.txt;1891.00;-33.00;1135.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;20;10;200;2000;3933;0;4036

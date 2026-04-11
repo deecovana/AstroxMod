@@ -3,3 +3,7 @@ NPC;+STOCK;14;10;134559;Starbase Corporate Center;Void Starcross;1h 25m 20s ;512
 NPC;-QTY;0;-4;137341.9;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-LOCAL;20;0;135000;The Dunes;The Dunes of Caliph;3h 33m 3s ;12783.69
 NPC;-LOCAL;1;0;135000;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
+NPC;+STOCK;49;9;119218.8;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;9;9;182666.8;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;9;9;133780.8;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;74;8;90498.25;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

@@ -11,3 +11,7 @@ NPC;+LOCAL;15;11;4875;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.
 NPC;+PRICE;14;0;9117.222;CoraVault;Lins;4h 31m 45s ;16305.97
 NPC;-QTY;0;-14;9156.563;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;-QTY;0;-6;14723.53;PharmaLife;Carioullis;5h 30m 34s ;19834.27
+NPC;+STOCK;208;13;12048.14;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;87;14;10426.83;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;27;12;5144.531;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;53;14;12766.41;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

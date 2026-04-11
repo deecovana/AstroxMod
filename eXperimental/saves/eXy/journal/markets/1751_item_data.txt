@@ -1,2 +1,4 @@
 NPC;-QTY;5;-7;93800;Biomart;Veloxi;0h 16m 9s ;969.1705
 NPC;+LOCAL;12;1;101490.5;StarGypsy Warehouse;Void Starcross;0h 31m 56s ;1916.392
+NPC;+STOCK;23;11;100948.9;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;88;11;56720.32;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

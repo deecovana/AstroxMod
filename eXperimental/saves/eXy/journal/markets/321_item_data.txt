@@ -2,3 +2,7 @@ NPC;+STOCK;887;818;3237.423;Starbase Corporate Center;Void Starcross;1h 25m 20s 
 NPC;-LOCAL;0;0;3719.561;CoraVault;Lins;2h 47m 52s ;10072.21
 NPC;-QTY;0;-69;3309.3;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-QTY;0;0;4602.918;CoraVault;Lins;5h 30m 34s ;19834.27
+NPC;+STOCK;1036;978;2807.219;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;900;849;1924.377;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;858;810;3354.215;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;875;875;3248.666;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19

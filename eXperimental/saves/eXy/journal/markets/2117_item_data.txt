@@ -1,3 +1,5 @@
 NPC;-QTY;70;-2;7704959;Biomart;Veloxi;0h 16m 9s ;969.1705
 NPC;+QTY;38;1;5431484;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
 NPC;-QTY;24;-2;5233936;CoraVault;Lins;5h 30m 34s ;19834.27
+NPC;+STOCK;13;2;6764078;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;43;2;4716084;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

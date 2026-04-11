@@ -14,3 +14,6 @@ NPC;+LOCAL;25;16;23400;StarShepards Headquarters;Void Starcross;4h 13m 42s ;1522
 NPC;+LOCAL;25;3;23400;StarShepards Headquarters;Void Starcross;4h 22m 6s ;15726.5
 NPC;+LOCAL;25;4;23400;StarShepards Headquarters;Void Starcross;4h 45m 46s ;17146.1
 NPC;+LOCAL;25;4;23400;StarShepards Headquarters;Void Starcross;5h 36m 35s ;20195.18
+NPC;+STOCK;47;22;22351.5;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;59;23;73320.7;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;41;16;25245;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

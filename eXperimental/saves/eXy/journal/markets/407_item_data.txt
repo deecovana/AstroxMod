@@ -16,3 +16,8 @@ NPC;-LOCAL;57;0;6.1875;Medicore University;Cliffs of Drameria;4h 11m 57s ;15117.
 NPC;+PRICE;17;0;4.689604;CoraVault;Lins;4h 31m 45s ;16305.97
 NPC;-LOCAL;0;0;13.75;Biomate University;Void Starcross;4h 59m 19s ;17959.32
 NPC;-LOCAL;21;21;6.1875;Biomate University;Void Starcross;5h 32m 1s ;19921.86
+NPC;+STOCK;961;940;7.227336;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;815;768;4.810301;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;762;719;6.368259;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;1038;968;6.260659;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;888;811;5.465427;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

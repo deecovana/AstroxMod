@@ -1,3 +1,7 @@
 NPC;+STOCK;184;2;11036.77;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
 NPC;+QTY;49;1;13341.37;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
 NPC;-QTY;181;-1;11574.19;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+STOCK;185;2;11948.14;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;229;2;9175.847;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;183;2;11028.8;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;345;2;7911.626;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

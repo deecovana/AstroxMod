@@ -10,3 +10,5 @@ NPC;+LOCAL;15;2;1950;Starbase Corporate Center;Void Starcross;2h 9m 23s ;7763.15
 NPC;+STOCK;58;13;6283.993;CoraVault;Lins;2h 47m 33s ;10053.19
 NPC;-QTY;3;-12;2067.094;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+LOCAL;11;8;1950;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38
+NPC;+STOCK;22;11;2057.813;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;46;11;7161.669;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

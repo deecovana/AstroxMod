@@ -6,10 +6,10 @@ PLAYER;xp;11316.00
 PLAYER;next_level_xp;14100.00
 PLAYER;last_level_xp;9100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;77669577.46
+PLAYER;credits;77669476.00
 PLAYER;residual_credits;0.00
 PLAYER;skill_points;13
-PLAYER;playtime;20273.13
+PLAYER;playtime;20527.12
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -27,14 +27,14 @@ PLAYER;station_market_settings;SEARCH,Level,Ascend,100
 PLAYER;station_university_settings;SEARCH,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
-PLAYER;sector;sector_0.txt
-PLAYER;sector_id;0
-PLAYER;station;sector_0_station_3.txt
+PLAYER;sector;sector_62.txt
+PLAYER;sector_id;62
+PLAYER;station;sector_62_station_0.txt
 PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(support_utility_2)12149.txt;True;False;sector_0_station_0.txt;sector_0.txt;-727.92;-54.56;3986.31
+SHIP;ship_data_(support_utility_2)12149.txt;True;False;sector_0_station_0.txt;sector_0.txt;-292.19;439.61;1741.83
 SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_0.txt;sector_0.txt;-608.22;-49.05;-4378.36
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
@@ -110,7 +110,7 @@ STAT;35;Recover Missions Complete;1;Missions
 STAT;36;Kill Missions Complete;6;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
 STAT;38;Sectors Explored;19;Navigation
-STAT;39;Warp gate Jumps;122;Navigation
+STAT;39;Warp gate Jumps;126;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;0;Missions

@@ -3,7 +3,7 @@ Worship Center
 Temple Of the Void
 Temple
 [c:lime]Dock fee 25[/c]
-Timestamp: 20203.45
+Timestamp: 20357.31
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -379,15 +379,6 @@ Merc Negotiations
 
 
 <Station Missions>
-[c:lime]RECOVER[/c]
-Recover a light quantity of <color='yellow'>2</color> <color='yellow'>Improved Turn Thrusts</color> in <color='cyan'>Volox</color>, and return to Mazu Starship in <color='cyan'>Volox</color>
-
-[c:lime]DELIVERY[/c]
-Deliver light container of <color='yellow'>119</color> <color='yellow'>Small Microchips</color> to Quantex Station in <color='cyan'>Dellis Primeria</color>
-
-[c:lime]SCAN[/c]
-Locate and scan <color='yellow'><i>Doctor Restdemi Johfae</i></color> in <color='cyan'>Ballast Crow</color> and return to Biomart in <color='cyan'>Veloxi</color>
-
 [c:lime]REFINE[/c]
 Refine <color='yellow'>11</color> <color='yellow'>Metal Fragments</color> at Gunstellar station refinery in <color='cyan'>Adrenal</color>
 
@@ -411,6 +402,12 @@ Manufacture <color='yellow'>10</color> <color='yellow'>Copperi Plates</color> at
 
 [c:lime]KILL[/c]
 Assassinate in-experienced <color='yellow'><i>Watchman Nalialocki Monihea</i></color> in <color='cyan'>Lins</color> and return to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]HARVEST[/c]
+Excavate special <color='yellow'>Special Lokken Ore</color> in <color='cyan'>Dellis Primeria</color> and return with <color='yellow'>79</color> to Biomate University in <color='cyan'>Void Starcross</color>
+
+[c:lime]DIALOG[/c]
+Collect a small debt from <color='yellow'><i>Mr. Jancovis Vehin</i></color> in <color='cyan'>Entropy</color> and return to Valuestar Hub in <color='cyan'>Jelumus</color>
 
 
 

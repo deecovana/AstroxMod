@@ -1,3 +1,6 @@
 NPC;-QTY;81;-1;3430335;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
 NPC;+STOCK;174;2;7112058;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
 NPC;-QTY;171;-1;7363394;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+STOCK;310;2;6673918;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;173;2;7286033;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;46;2;7024314;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

@@ -6,3 +6,5 @@ NPC;-LOCAL;0;0;107.111;Valuestar Hub;Jelumus;4h 28m 10s ;16090.3
 NPC;-LOCAL;0;0;110.661;Valuestar Hub;Jelumus;4h 35m 3s ;16503.93
 NPC;-LOCAL;0;0;114.885;Valuestar Hub;Jelumus;4h 41m 17s ;16877.19
 NPC;-LOCAL;0;0;144.5604;Valuestar Hub;Jelumus;5h 18m 34s ;19114.57
+NPC;+STOCK;2422;2310;63.32046;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;2080;1698;104.4611;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

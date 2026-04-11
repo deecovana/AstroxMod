@@ -1,3 +1,5 @@
 NPC;-QTY;0;-2;47125;Biomart;Veloxi;0h 16m 9s ;969.1705
 NPC;+PRICE;9;0;36115.73;Ferce;Allabentoris;1h 15m 16s ;4516.316
 NPC;-LOCAL;0;0;70239.56;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
+NPC;+STOCK;11;11;86103.58;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;38;11;36222.69;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

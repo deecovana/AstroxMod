@@ -22,3 +22,5 @@ PLAYER;-QTY;9;33;208065.2;Valuestar Hub;Jelumus;5h 19m 21s ;19161.94
 NPC;-LOCAL;0;0;825082.5;StarShepards Headquarters;Void Starcross;5h 22m 47s ;19367.12
 PLAYER;+QTY;33;33;825082.5;StarShepards Headquarters;Void Starcross;5h 22m 56s ;19376.32
 NPC;-LOCAL;6;6;382306.7;StarShepards Headquarters;Void Starcross;5h 36m 35s ;20195.18
+NPC;+STOCK;17;11;487836.4;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;93;11;319334.8;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

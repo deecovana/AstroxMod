@@ -5,3 +5,7 @@ PLAYER;-QTY;5;1;8124.156;CoraVault;Lins;2h 49m 19s ;10159.3
 NPC;-QTY;33;-3;8011.609;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-QTY;2;-3;8193.063;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;-QTY;9;-4;4000.981;PharmaLife;Carioullis;5h 30m 34s ;19834.27
+NPC;+STOCK;10;3;8040.147;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;26;3;7061.496;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;36;3;7784.651;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;33;4;6965.444;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

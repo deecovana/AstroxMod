@@ -2,3 +2,6 @@ NPC;-LOCAL;42;0;28625;Imperium Republica ;Gate of Alpharis;1h 38m 5s ;5885.779
 NPC;-LOCAL;0;0;31415.1;Imperium Republica ;Gate of Alpharis;1h 51m 16s ;6676.245
 NPC;+QTY;10;7;14044.53;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
 NPC;-QTY;0;-1;16937.5;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
+NPC;+STOCK;67;9;30262.76;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;39;10;23063.6;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;31;8;31387.46;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19

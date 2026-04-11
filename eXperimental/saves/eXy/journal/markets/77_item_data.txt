@@ -5,3 +5,8 @@ NPC;-LOCAL;219;0;1067.872;Valuestar Hub;Jelumus;4h 28m 10s ;16090.3
 NPC;-LOCAL;209;0;1067.872;Valuestar Hub;Jelumus;4h 35m 3s ;16503.93
 NPC;-LOCAL;161;0;1067.872;Valuestar Hub;Jelumus;4h 41m 17s ;16877.19
 NPC;-LOCAL;0;0;1398.397;Valuestar Hub;Jelumus;5h 18m 34s ;19114.57
+NPC;+STOCK;2325;2059;988.5233;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;2328;2328;2992.751;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;2049;1799;586.5838;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;2210;2190;898.0288;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;2692;2312;1215.895;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

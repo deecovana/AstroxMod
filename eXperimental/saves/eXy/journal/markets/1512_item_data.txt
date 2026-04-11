@@ -2,3 +2,5 @@ NPC;-QTY;0;-4;65450;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
 NPC;-LOCAL;0;0;99000;Oro Omniplex Center;Merces Academy;3h 30m 32s ;12632.26
 NPC;-LOCAL;0;0;104132.3;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
 NPC;-LOCAL;0;0;105867.7;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
+NPC;+STOCK;48;11;106475.1;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;43;8;65774.17;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19

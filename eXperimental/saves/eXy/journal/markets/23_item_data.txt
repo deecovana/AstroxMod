@@ -3,3 +3,8 @@ NPC;-LOCAL;0;0;164.3987;Rendo Labs;Entropy;1h 59m 17s ;7157.224
 NPC;-QTY;0;-40;127.365;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-LOCAL;0;0;257.925;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
 NPC;-LOCAL;25;25;116.0662;Daemon Ammunitions;Starfort Ramos;4h 9m 18s ;14958.07
+NPC;+STOCK;4731;4436;58.30095;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;4010;3721;103.6632;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;5449;4618;85.5293;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;4645;4645;122.2591;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;4580;4027;119.0432;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

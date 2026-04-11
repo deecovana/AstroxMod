@@ -9,3 +9,8 @@ NPC;-LOCAL;144;0;40.1625;Quantex;Dellis Primeria;3h 18m 35s ;11915.83
 NPC;-LOCAL;20;20;40.1625;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
 NPC;-LOCAL;0;0;63.29867;Daemon Ammunitions;Starfort Ramos;4h 9m 18s ;14958.07
 NPC;-QTY;0;-18;22.50662;CoraVault;Lins;5h 30m 34s ;19834.27
+NPC;+STOCK;3961;3523;36.49279;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;4070;3938;19.35045;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;4444;4394;37.83749;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;3950;3691;31.23028;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;4620;4061;25.42064;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

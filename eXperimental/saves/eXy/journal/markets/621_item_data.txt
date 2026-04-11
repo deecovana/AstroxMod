@@ -4,3 +4,7 @@ NPC;-QTY;11;-3;15857.82;Starbase Corporate Center;Void Starcross;2h 51m 54s ;103
 PLAYER;+QTY;3;1;9277.078;StarShepards Headquarters;Void Starcross;3h 9m 54s ;11394.86
 PLAYER;+QTY;17;1;13602.86;ValueStar;Hunu;3h 52m 20s ;13940.77
 NPC;+PRICE;6;0;11159.48;CoraVault;Lins;4h 31m 45s ;16305.97
+NPC;+STOCK;38;3;7210.271;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;20;3;13279.54;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;7;4;8564.488;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;7;4;13930.53;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

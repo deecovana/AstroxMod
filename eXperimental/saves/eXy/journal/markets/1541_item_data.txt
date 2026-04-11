@@ -2,3 +2,7 @@ NPC;-QTY;7;-11;56235;Biomart;Veloxi;0h 16m 9s ;969.1705
 NPC;-LOCAL;11;0;51750;Proctors Center;Void Starcross;0h 23m 57s ;1437.134
 NPC;-LOCAL;0;0;70989.99;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
 NPC;-QTY;17;-7;53532.5;Quantex;Dellis Primeria;0h 41m 19s ;2479.238
+NPC;+STOCK;109;11;31606.21;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;50;10;34401.35;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;44;11;27630.88;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;11;11;87564.92;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

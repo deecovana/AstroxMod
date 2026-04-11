@@ -4,3 +4,6 @@ NPC;-QTY;63;-6;25862.89;Starbase Corporate Center;Void Starcross;2h 51m 54s ;103
 NPC;-QTY;0;-8;33687.5;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
 NPC;-LOCAL;0;0;33619.78;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
 NPC;+PRICE;22;0;23677.32;CoraVault;Lins;4h 31m 45s ;16305.97
+NPC;+STOCK;83;11;16871.58;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;8;8;42931.3;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;71;8;25413.09;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19

@@ -4,3 +4,8 @@ NPC;+QTY;29;1;609236.3;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
 NPC;+STOCK;89;2;484439.6;Tella's;Bitcola;2h 36m 58s ;9418.72
 NPC;-QTY;9;-1;530349.7;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+QTY;56;1;292927.8;Crystalis Broadcasting;Jermicus;3h 4m 7s ;11047.58
+NPC;+STOCK;84;2;341537.9;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;23;2;333571.8;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;451;2;602025.3;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;11;2;507422.4;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;274;2;278916.2;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

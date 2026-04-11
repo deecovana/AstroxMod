@@ -2,3 +2,5 @@ NPC;+STOCK;29;8;116709.7;Starbase Corporate Center;Void Starcross;1h 25m 20s ;51
 NPC;-QTY;15;-6;123994.8;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-LOCAL;0;0;252264.7;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
 NPC;-LOCAL;0;0;255735.4;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
+NPC;+STOCK;26;11;119610.7;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;45;9;228742.1;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

@@ -8,3 +8,9 @@ PLAYER;-QTY;0;250;1.279274;Daemon Ammunitions;Starfort Ramos;4h 9m 36s ;14976.08
 PLAYER;-QTY;0;634;2.239632;Lammassu Financial;Void Starcross;4h 10m 55s ;15055.18
 PLAYER;-QTY;0;1206;2.094651;Medicore University;Cliffs of Drameria;4h 12m 2s ;15122.29
 PLAYER;+QTY;3136;2090;5.019485;StarShepards Headquarters;Void Starcross;4h 13m 45s ;15225.5
+NPC;+STOCK;1371;171;2.652809;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;180;180;2.214211;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;661;214;4.803482;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;3325;189;4.782939;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;167;167;4.589511;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;731;213;2.787783;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

@@ -1,3 +1,7 @@
 NPC;+STOCK;28;3;80398.95;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
 NPC;-QTY;23;-2;84389.97;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 PLAYER;-QTY;34;1;75335.41;StarShepards Headquarters;Void Starcross;5h 28m 4s ;19684.54
+NPC;+STOCK;34;3;65800.77;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;30;4;63715.85;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;27;4;80012.02;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;39;3;88224.41;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

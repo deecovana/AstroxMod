@@ -2,3 +2,6 @@ NPC;-LOCAL;81;0;3132.731;Proctors Center;Void Starcross;0h 23m 57s ;1437.134
 NPC;-LOCAL;0;0;4297.44;Proctors Center;Void Starcross;0h 36m 54s ;2214.955
 NPC;+STOCK;1004;987;3554.135;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
 NPC;+STOCK;820;820;4864.456;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;+STOCK;765;698;2628.415;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;725;675;2640.167;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;963;963;5403.09;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

@@ -14,3 +14,5 @@ NPC;-LOCAL;0;0;1267769;StarShepards Headquarters;Void Starcross;4h 38m 1s ;16681
 NPC;-LOCAL;61;61;748602.9;StarShepards Headquarters;Void Starcross;4h 45m 46s ;17146.1
 NPC;-LOCAL;29;29;736513.3;StarShepards Headquarters;Void Starcross;5h 22m 47s ;19367.12
 NPC;-LOCAL;0;0;908685.4;StarShepards Headquarters;Void Starcross;5h 36m 35s ;20195.18
+NPC;+STOCK;8;8;1149811;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;89;8;583253.9;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

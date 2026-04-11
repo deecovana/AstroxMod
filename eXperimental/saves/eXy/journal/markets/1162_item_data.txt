@@ -2,3 +2,5 @@ NPC;+QTY;11;9;25872;Gunstellar;Adrenal;1h 7m 10s ;4030.626
 NPC;+PRICE;38;0;25510.06;Gek Mining;Alias Outpost;2h 22m 22s ;8542.287
 NPC;-LOCAL;0;0;39751.24;CoraVault;Lins;2h 47m 52s ;10072.21
 NPC;+PRICE;0;0;49718.23;CoraVault;Lins;4h 31m 45s ;16305.97
+NPC;+STOCK;52;8;33614.54;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;21;11;32218.77;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19

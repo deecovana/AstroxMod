@@ -4,3 +4,8 @@ NPC;+QTY;996;980;198.5341;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
 NPC;+STOCK;768;754;129.1515;CoraVault;Lins;2h 47m 33s ;10053.19
 NPC;-QTY;0;-4;157.297;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+QTY;986;976;158.8332;Crystalis Broadcasting;Jermicus;3h 4m 7s ;11047.58
+NPC;+STOCK;928;894;276.0538;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;907;879;258.782;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;807;758;189.7562;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;905;905;146.1357;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;773;725;197.5137;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

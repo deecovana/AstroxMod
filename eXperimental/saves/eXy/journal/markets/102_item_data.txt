@@ -5,3 +5,9 @@ NPC;+STOCK;377;236;3.820466;Tella's;Bitcola;2h 36m 58s ;9418.72
 NPC;+STOCK;636;237;2.981036;CoraVault;Lins;2h 47m 33s ;10053.19
 NPC;-QTY;21;-141;3.030744;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+LOCAL;250;610;1.01075;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
+NPC;+STOCK;438;234;2.850109;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;1270;249;2.582406;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;326;213;1.830026;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;654;211;2.416696;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;263;242;2.940308;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;1012;249;2.766581;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

@@ -1,2 +1,4 @@
 NPC;-QTY;63;-8;29497.2;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-QTY;18;-10;29687.28;PharmaLife;Carioullis;5h 30m 34s ;19834.27
+NPC;+STOCK;64;10;31097.86;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;71;8;28608.77;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19

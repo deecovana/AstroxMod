@@ -2,3 +2,6 @@ NPC;+STOCK;155;3;8803370;Starbase Corporate Center;Void Starcross;1h 25m 20s ;51
 NPC;+QTY;5;4;5260102;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
 NPC;-QTY;149;-3;8958867;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+PRICE;31;0;6959107;CoraVault;Lins;4h 31m 45s ;16305.97
+NPC;+STOCK;114;4;3867871;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;153;4;8794682;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;24;3;6763229;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

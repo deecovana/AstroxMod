@@ -3,7 +3,7 @@ Market Center
 Bosadjan Wagen
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 19208.41
+Timestamp: 20526.08
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -331,9 +331,6 @@ Beam Energy Optimization
 
 
 <Station Missions>
-[c:lime]FABRICATE[/c]
-Dock at the Lammassu Hub station fabricator in <color='cyan'>Numbu</color> and manufacture a light shipment of <color='yellow'>3</color> <color='yellow'>Armor Platings</color>
-
 [c:lime]DELIVERY[/c]
 Dock at Lacuna Bandits in <color='cyan'>Ballast Crow</color> to deliver a light shipment of <color='yellow'>1</color> <color='yellow'>Premium Torpedo Launcher</color>
 

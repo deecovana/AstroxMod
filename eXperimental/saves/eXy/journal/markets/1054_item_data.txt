@@ -5,3 +5,6 @@ NPC;+QTY;10;6;1492.275;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
 NPC;-QTY;37;-8;2170.837;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-QTY;0;-5;2274;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
 NPC;+PRICE;11;0;2488.143;CoraVault;Lins;4h 31m 45s ;16305.97
+NPC;+STOCK;20;9;2810.16;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;47;10;2121.18;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;21;9;998.0788;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

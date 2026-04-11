@@ -1,2 +1,6 @@
 NPC;-QTY;45;-8;7161;Lammassu Financial;Void Starcross;0h 6m 20s ;380.2659
 NPC;-LOCAL;0;0;12222;CoraVault;Lins;2h 47m 52s ;10072.21
+NPC;+STOCK;107;8;10059.56;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;62;9;6886.101;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;38;8;8649.745;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;79;10;10466.52;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

@@ -1,3 +1,5 @@
 NPC;-QTY;0;-9;2155;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
 NPC;+PRICE;4;0;2507.489;Acrondia Corp.;Crown of Imperium;4h 31m 45s ;16305.97
 NPC;-QTY;0;-3;3178.922;Quah Relay Station;Noah Fox;5h 30m 34s ;19834.27
+NPC;+STOCK;35;9;1493.289;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;49;10;1321.267;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19

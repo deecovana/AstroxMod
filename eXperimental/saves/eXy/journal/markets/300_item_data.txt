@@ -4,3 +4,8 @@ NPC;+STOCK;786;748;76.35639;Starbase Corporate Center;Void Starcross;1h 25m 20s 
 NPC;-LOCAL;5;0;111.9938;Rendo Labs;Entropy;1h 46m 56s ;6416.35
 NPC;-LOCAL;0;0;139.7159;Rendo Labs;Entropy;1h 59m 17s ;7157.224
 NPC;-QTY;0;-38;81.08504;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+STOCK;861;860;77.16236;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;747;745;113.9126;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;941;859;90.06969;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;809;809;79.41573;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;842;793;120.1591;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

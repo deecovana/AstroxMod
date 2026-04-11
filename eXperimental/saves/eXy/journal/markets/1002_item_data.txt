@@ -5,3 +5,5 @@ NPC;+STOCK;22;9;1178.921;Starbase Corporate Center;Void Starcross;1h 25m 20s ;51
 NPC;-QTY;5;-8;1249.031;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-QTY;0;-5;2635;Star Shepards Hub;Temple Gates;2h 51m 54s ;10314.01
 NPC;-LOCAL;0;0;2250;Quantex;Dellis Primeria;3h 18m 35s ;11915.83
+NPC;+STOCK;20;10;1925.622;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;14;9;1197.568;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19

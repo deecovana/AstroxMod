@@ -1,3 +1,5 @@
 NPC;-QTY;3;-10;30900;Biomart;Veloxi;0h 16m 9s ;969.1705
 NPC;+PRICE;11;0;49066.24;Acrondia Hub;Temple Gates;1h 15m 16s ;4516.316
 NPC;+PRICE;2;0;44138.72;Communications Hub;Ele;1h 15m 16s ;4516.316
+NPC;+STOCK;99;9;33282.35;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;27;8;38694.66;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

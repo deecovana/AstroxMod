@@ -17,3 +17,7 @@ NPC;+LOCAL;25;3;7800;StarShepards Headquarters;Void Starcross;4h 31m 52s ;16312.
 NPC;+LOCAL;25;3;7800;StarShepards Headquarters;Void Starcross;4h 38m 1s ;16681.43
 NPC;+LOCAL;25;4;7800;StarShepards Headquarters;Void Starcross;4h 45m 46s ;17146.1
 NPC;-QTY;0;-3;15130.5;CoraVault;Lins;5h 30m 34s ;19834.27
+NPC;+STOCK;29;19;13995.19;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;49;24;7450.5;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;41;16;8776.95;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;30;17;10955.2;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

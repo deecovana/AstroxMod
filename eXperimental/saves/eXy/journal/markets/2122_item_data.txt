@@ -1,2 +1,6 @@
 NPC;+QTY;17;2;1548317;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
 NPC;-QTY;93;-1;1057214;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+STOCK;346;2;1753029;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;442;2;1259624;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;95;2;999037.3;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;338;2;1921679;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

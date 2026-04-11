@@ -3,3 +3,7 @@ NPC;+STOCK;219;100;37.54113;Starbase Corporate Center;Void Starcross;1h 25m 20s 
 NPC;+STOCK;348;135;71.91978;CoraVault;Lins;2h 47m 33s ;10053.19
 NPC;-QTY;0;-119;40.8057;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-QTY;19;-80;42.54549;PharmaLife;Carioullis;5h 30m 34s ;19834.27
+NPC;+STOCK;719;110;43.83754;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;683;145;49.99718;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;116;116;39.41548;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;1034;112;60.38844;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

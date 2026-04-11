@@ -8,3 +8,5 @@ NPC;-LOCAL;33;0;98.70652;Starbase Corporate Center;Void Starcross;1h 57m 39s ;70
 NPC;-LOCAL;0;0;128.9095;Starbase Corporate Center;Void Starcross;2h 9m 23s ;7763.151
 NPC;-QTY;0;0;163.1422;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;-LOCAL;49;49;97.68998;Starbase Corporate Center;Void Starcross;4h 4m 58s ;14698.38
+NPC;+STOCK;4240;4053;48.67577;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;5267;4832;100.6326;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

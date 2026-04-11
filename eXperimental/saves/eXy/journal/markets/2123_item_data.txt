@@ -1,3 +1,9 @@
 NPC;+PRICE;71;0;5397149;Ferce;Allabentoris;1h 15m 16s ;4516.316
 NPC;+STOCK;62;2;5157088;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
 NPC;-QTY;59;-1;5328427;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+STOCK;488;2;3097826;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;110;2;4830066;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;0;99;5067528;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;208;2;4332208;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;61;2;5210144;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;457;2;6693355;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

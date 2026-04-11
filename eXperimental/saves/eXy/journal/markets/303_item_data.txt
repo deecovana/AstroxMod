@@ -4,3 +4,9 @@ NPC;+STOCK;1015;978;999.7994;Starbase Corporate Center;Void Starcross;1h 25m 20s
 NPC;+QTY;516;501;759.7513;Horizons;Gate of Alpharis;2h 29m 43s ;8983.031
 NPC;+STOCK;1332;816;593.6562;Tella's;Bitcola;2h 36m 58s ;9418.72
 NPC;-QTY;0;-37;1045.95;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
+NPC;+STOCK;695;675;952.3312;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;872;837;948.642;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;778;768;1178.366;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;895;813;978.8312;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;710;710;999.9428;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;816;788;535.3588;Proctors Center;Void Starcross;5h 37m 58s ;20278.19

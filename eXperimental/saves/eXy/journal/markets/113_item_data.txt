@@ -2,3 +2,8 @@ NPC;+STOCK;328;242;6.551767;Starbase Corporate Center;Void Starcross;1h 25m 20s 
 NPC;+STOCK;658;246;3.97967;CoraVault;Lins;2h 47m 33s ;10053.19
 NPC;-QTY;0;-86;6.737125;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+LOCAL;250;668;2.09625;Daemon Ammunitions;Starfort Ramos;3h 24m 55s ;12295.62
+NPC;+STOCK;1215;188;6.607998;Biomate University;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;648;227;4.988893;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;501;172;8.254964;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;996;188;7.215561;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
+NPC;+STOCK;701;244;8.267671;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
