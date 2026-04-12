@@ -11,3 +11,4 @@ NPC;-PRICE;38;0;2714.897;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;-LOCAL;0;0;4477;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;0;0;4477;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;20;20;2014.65;CoraVault;Lins;8h 53m 52s ;32032.93
+NPC;+LOCAL;53;8;1360.266;Lammassu Hub;Numbu;9h 18m 41s ;33521.09

@@ -6,3 +6,4 @@ NPC;+STOCK;954;886;7738.683;StarShepards Headquarters;Void Starcross;5h 37m 58s 
 NPC;+STOCK;772;706;5181.227;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;772;0;5701.526;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;928;0;7281.784;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-LOCAL;0;0;8714.509;Lammassu Hub;Numbu;9h 18m 41s ;33521.09

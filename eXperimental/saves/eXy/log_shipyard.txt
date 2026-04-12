@@ -1,4 +1,8 @@
 //;LOG DATA FILE (Astrox Imperium)
+ACTIVATED;PF-1 Assault Frigate;0;58810618.625;Lammassu Hub;Numbu;9h 20m 55s 
+ACTIVATED;SU-2 Stacius;0;58810618.625;Lammassu Hub;Numbu;9h 20m 40s 
+ACTIVATED;PF-1 Assault Frigate;0;58810618.625;Lammassu Hub;Numbu;9h 20m 33s 
+BUY;PF-1 Assault Frigate;3,158,216;59070863.75;Lammassu Hub;Numbu;9h 17m 56s 
 MOVED;TC-1 Kraken;709033;63203403.9405301;Biomate University;Void Starcross;8h 10m 24s 
 BUY;TC-1 Kraken;10,900,280;64128718.887109;Lacuna Bandits;Ballast Crow;6h 45m 23s 
 ACTIVATED;SU-2 Stacius;0;6893913.45668769;Biomate University;Void Starcross;5h 9m 41s 

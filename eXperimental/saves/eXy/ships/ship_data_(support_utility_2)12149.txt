@@ -111,27 +111,12 @@ PMODULE; 6 ; 1553
 //; ----------------------------- SHIP CARGO -----------------------------------------
 //; ----- CARGO, qty, cargo_id
 <CARGO>
-CARGO; 7 ; 725
-CARGO; 9 ; 755
-CARGO; 7 ; 723
-CARGO; 9 ; 720
-CARGO; 7 ; 722
-CARGO; 6 ; 721
-CARGO; 4 ; 1534
-CARGO; 2 ; 1503
-CARGO; 2 ; 1543
-CARGO; 9 ; 732
-CARGO; 10 ; 674
-CARGO; 3 ; 1201
-CARGO; 1 ; 1602
-CARGO; 1 ; 1451
-CARGO; 27 ; 670
 //; ----------------------------- SHIP DRONES -----------------------------------------
 //; ----- DRONE, id, hp, energy , is_docked, group_id
 <DRONE>
-DRONE; 725 ; 200 ; 2495.353 ; True;0
-DRONE; 725 ; 200 ; 2495.897 ; True;0
-DRONE; 723 ; 200 ; 2496.658 ; True;0
-DRONE; 723 ; 200 ; 2510.855 ; True;0
-DRONE; 722 ; 200 ; 2463.179 ; True;0
-DRONE; 722 ; 200 ; 2464.025 ; True;0
+DRONE; 725 ; 200 ; 200 ; True;0
+DRONE; 725 ; 200 ; 200 ; True;0
+DRONE; 723 ; 200 ; 250 ; True;0
+DRONE; 723 ; 200 ; 250 ; True;0
+DRONE; 722 ; 200 ; 200 ; True;0
+DRONE; 722 ; 200 ; 200 ; True;0

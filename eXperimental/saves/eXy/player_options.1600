@@ -90,8 +90,8 @@ WORLD_OPTIONS_merc_faction_hire_modifier;1.0
 WORLD_OPTIONS_merc_takedmg_modifier;2
 WORLD_OPTIONS_raider_spawn_timer;250.0
 WORLD_OPTIONS_raider_speed;0.75
-WORLD_OPTIONS_raider_attack;0.9
-WORLD_OPTIONS_raider_defense;1.1
+WORLD_OPTIONS_raider_attack;0.75
+WORLD_OPTIONS_raider_defense;0.75
 WORLD_OPTIONS_raider_takedmg_modifier;2
 WORLD_OPTIONS_dock_fee_modifier;1.0
 WORLD_OPTIONS_gate_fee_modifier;1.0

@@ -1,4 +1,38 @@
 //;LOG DATA FILE (Astrox Imperium)
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+//;LOG DATA FILE (Astrox Imperium)
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+//;LOG DATA FILE (Astrox Imperium)
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+//;LOG DATA FILE (Astrox Imperium)
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+//;LOG DATA FILE (Astrox Imperium)
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+//;LOG DATA FILE (Astrox Imperium)
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+//;LOG DATA FILE (Astrox Imperium)
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+//;LOG DATA FILE (Astrox Imperium)
+modules_on.png;Modules Online;All active modules have been activated and are currently online.
+//;LOG DATA FILE (Astrox Imperium)
+modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_1.png;Game speed Normal;The gamespeed has been set to normal speed. (x1) 
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_0.png;Game speed Paused;The gamespeed has been set to normal speed. (x0) 
+//;LOG DATA FILE (Astrox Imperium)
+drones.png;Cannot Launch drone.;Your ship does not have an available drone bay to control this drone.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_0.png;Game speed Paused;The gamespeed has been set to normal speed. (x0) 
+//;LOG DATA FILE (Astrox Imperium)
+drones.png;Cannot Launch drone.;Your ship does not have an available drone bay to control this drone.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Lammassu Hub Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Lammassu Hub station.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_1.png;Game speed Normal;The gamespeed has been set to normal speed. (x1) 
+//;LOG DATA FILE (Astrox Imperium)
+event_raider_alert.png;Raiders have been detected.;Raiders have been detected in this area. It is recommended that you dock and seek protection until this raider is removed from the sector.
+//;LOG DATA FILE (Astrox Imperium)
 energy_charge_1.png;Used the Medium Energy Charge;You have used the Medium Energy Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
 sp_adjusted.png;+2 Skill Points Acquired.;Your time spent undocked has helped you to improve your skills. +2 skill points have been awarded to your pilot for use at the university.
@@ -10,38 +44,4 @@ energy_charge_1.png;Used the Medium Energy Charge;You have used the Medium Energ
 modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
 //;LOG DATA FILE (Astrox Imperium)
 drones.png;Small Tractor Drone has been launched.;The drone has been launched, and a command connection has been established.
-//;LOG DATA FILE (Astrox Imperium)
-energy_charge_1.png;Used the Medium Energy Charge;You have used the Medium Energy Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-drones.png;Drone Retrieved.;The drone has been retrieved and stored into your ship's cargo bay.
-//;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-energy_charge_1.png;Used the Medium Energy Charge;You have used the Medium Energy Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-drones.png;Undock Selected Drones.;The drones selected have undocked, and are ready to receive commands.
-//;LOG DATA FILE (Astrox Imperium)
-energy_charge_1.png;Used the Medium Energy Charge;You have used the Medium Energy Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-drones.png;Undock Selected Drones.;The drones selected have undocked, and are ready to receive commands.
-//;LOG DATA FILE (Astrox Imperium)
-drones.png;Dock Selected Drones.;The drones you have currently selected will return to the ship, and dock onto the command bay.
-//;LOG DATA FILE (Astrox Imperium)
-event_raider_alert.png;Raiders have been detected.;Raiders have been detected in this area. It is recommended that you dock and seek protection until this raider is removed from the sector.
-//;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-drones.png;Engage Selected Target.;All selected drones will engage your current target.
-//;LOG DATA FILE (Astrox Imperium)
-drones.png;Engage Selected Target.;All selected drones will engage your current target.
-//;LOG DATA FILE (Astrox Imperium)
-event_raider_alert.png;Raiders have been detected.;Raiders have been detected in this area. It is recommended that you dock and seek protection until this raider is removed from the sector.
-//;LOG DATA FILE (Astrox Imperium)
-friendly_fire_on.png;Friendly Fire Active;You have activated Friendly Fire. Your modules will deliver damage to any target, regardless of faction.
 //;LOG DATA FILE (Astrox Imperium)

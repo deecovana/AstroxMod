@@ -6,10 +6,10 @@ PLAYER;xp;29263.00
 PLAYER;next_level_xp;35100.00
 PLAYER;last_level_xp;27100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;62229181.00
+PLAYER;credits;58513920.82
 PLAYER;residual_credits;0.00
 PLAYER;skill_points;41
-PLAYER;playtime;33399.79
+PLAYER;playtime;33655.32
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -23,7 +23,7 @@ PLAYER;orbit_data;True,700,0,9,True
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
 PLAYER;cargo_settings;ALL,Name,Descend,3
 PLAYER;targeting_settings;Distance,Ascend
-PLAYER;station_market_settings;SEARCH,Level,Ascend,100
+PLAYER;station_market_settings;Support#Water,Level,Descend,100
 PLAYER;station_university_settings;SEARCH,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
@@ -34,8 +34,9 @@ PLAYER;isdocked;False
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
+SHIP;ship_data_(pirate_frigate_1)56209.txt;True;False;sector_63_station_0.txt;sector_63.txt;3692.32;154.65;2916.89
 SHIP;ship_data_(transport_cruiser_1)87868.txt;False;False;sector_0_station_0.txt;sector_0.txt;0.0;0.0;0.0
-SHIP;ship_data_(support_utility_2)12149.txt;True;False;sector_0_station_0.txt;sector_0.txt;3694.68;155.82;2752.35
+SHIP;ship_data_(support_utility_2)12149.txt;False;False;sector_63_station_0.txt;sector_0.txt;3692.32;154.65;2916.89
 SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_0.txt;sector_0.txt;-608.22;-49.05;-4378.36
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
@@ -70,7 +71,7 @@ MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful 
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
-MISSION;103;59;705382;KILL_RECOVER#sector_41_station_0.txt#sector_63.txt#Entertainer Lowpei Sedpaeoa#npc_ship_data_(ATC_Nomad)#10#8#2038#null;Eradicate <color='yellow'><i>Entertainer Lowpei Sedpaeoa</i></color> in <color='cyan'>Numbu</color> and recover <color='yellow'>8</color> <color='yellow'>Fiber Optic Interfaces</color>. Return to Mazu Starship in <color='cyan'>Volox</color>;1;0;False;173067.2;23440.16;After <color='yellow'>8</color> <color='yellow'>Fiber Optic Interfaces</color> were hijacked from a transport in <color='cyan'>Numbu</color>, Science authorities began hunting for <color='yellow'><i>Entertainer Lowpei Sedpaeoa</i></color>. A well known lowlife from the area, <color='yellow'><i>Entertainer Lowpei Sedpaeoa</i></color> has been on the run from the ASP for various crimes and recently had a bounty commissioned by <i>Hinhas Fuquyan</i>. Return the stolen cargo and meet <i>Hinhas Fuquyan</i> at Mazu Starship in <color='cyan'>Volox</color>.<color='orange'>The Missionary faction will not favor this action, and penalize your faction standing.</color>
+MISSION;103;55;705382;KILL_RECOVER#sector_41_station_0.txt#sector_63.txt#Entertainer Lowpei Sedpaeoa#npc_ship_data_(ATC_Nomad)#10#8#2038#null;Eradicate <color='yellow'><i>Entertainer Lowpei Sedpaeoa</i></color> in <color='cyan'>Numbu</color> and recover <color='yellow'>8</color> <color='yellow'>Fiber Optic Interfaces</color>. Return to Mazu Starship in <color='cyan'>Volox</color>;1;0;False;173067.2;23440.16;After <color='yellow'>8</color> <color='yellow'>Fiber Optic Interfaces</color> were hijacked from a transport in <color='cyan'>Numbu</color>, Science authorities began hunting for <color='yellow'><i>Entertainer Lowpei Sedpaeoa</i></color>. A well known lowlife from the area, <color='yellow'><i>Entertainer Lowpei Sedpaeoa</i></color> has been on the run from the ASP for various crimes and recently had a bounty commissioned by <i>Hinhas Fuquyan</i>. Return the stolen cargo and meet <i>Hinhas Fuquyan</i> at Mazu Starship in <color='cyan'>Volox</color>.<color='orange'>The Missionary faction will not favor this action, and penalize your faction standing.</color>
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>

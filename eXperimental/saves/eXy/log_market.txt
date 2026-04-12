@@ -1,4 +1,10 @@
 //;LOG DATA FILE (Astrox Imperium)
+BUY;1;UV Filter;65,476;65,476;58513920.8203125;Lammassu Hub;Numbu;9h 20m 55s 
+BUY;1;Bio Converter;81,889;81,889;58579396.3789063;Lammassu Hub;Numbu;9h 20m 55s 
+BUY;1;OmniCon Regulator;64,819;64,819;58661284.9414063;Lammassu Hub;Numbu;9h 20m 55s 
+BUY;1;Grilled Steak;84,515;84,515;58726103.984375;Lammassu Hub;Numbu;9h 20m 55s 
+BUY;1;Premium Energy Generator;216,678;216,678;58810618.625;Lammassu Hub;Numbu;9h 20m 13s 
+BUY;6;Basic Pulse Laser;7,261;43,567;59027296.625;Lammassu Hub;Numbu;9h 19m 36s 
 BUY;20;Medium Shield Charge;6,454;129,071;62229432;Lammassu Financial;Void Starcross;8h 57m 30s 
 BUY;20;Medium Energy Charge;5,532;110,633;62358503.25;Lammassu Financial;Void Starcross;8h 57m 15s 
 BUY;20;Medium Shield Charge;16,954;339,071;62469160.75;CoraVault;Lins;8h 54m 40s 
@@ -94,9 +100,3 @@ SELL;1;Improved Filter;5,096;5096.0000;123807.437335014;StarShepards Headquarter
 SELL;1;Generic Salvage Collector;1,404;1404.0000;94597.9767881632;Biomate University;Void Starcross;2h 53m 24s 
 BUY;1;Disposables;8,124;8,124;93193.9767881632;CoraVault;Lins;2h 49m 19s 
 BUY;1;Tractor Beam;12,608;12,608;101318.133038163;CoraVault;Lins;2h 48m 5s 
-SELL;2;Waste Processor;15,885;31770.6100;113926.445538163;CoraVault;Lins;2h 48m 0s 
-SELL;4;Gradeon Ore;6.08;24.3243;49906.1047420502;Horizons;Gate of Alpharis;2h 43m 34s 
-SELL;1;Generic Ore Harvester;260;260.0000;19174.69389534;CoraVault;Lins;2h 30m 34s 
-BUY;1;Basic Ore Harvester;16,965;16,965;18934.4938964844;CoraVault;Lins;2h 30m 16s 
-SELL;1;Noodles;9,237;9236.5000;35999.4313964844;ValueStar;Hunu;2h 28m 52s 
-BUY;1;Generic Salvage Collector;2,245;2,245;2756.18139648438;Biomate University;Void Starcross;2h 14m 44s 

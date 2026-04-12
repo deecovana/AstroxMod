@@ -9,3 +9,4 @@ NPC;+PRICE;49;0;1686.017;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;1071;0;944.1073;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;17;0;1450.826;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-QTY;0;-49;1686.023;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;-LOCAL;0;0;1923.74;Lammassu Hub;Numbu;9h 18m 41s ;33521.09
