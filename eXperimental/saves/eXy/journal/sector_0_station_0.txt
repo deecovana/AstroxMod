@@ -3,7 +3,7 @@ Academic University
 Telyoupea Akpi
 Alpha
 [c:lime]Dock fee 0[/c]
-Timestamp: 29444.61
+Timestamp: 30205.13
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -285,7 +285,7 @@ Premium Missile Launcher (Doc)  85 - z998,161
 Premium Railgun (Doc)  84 - z1,088,902
 Premium Rocket Launcher  11 - z241,509
 Premium Scan Booster  52 - z155,754
-Premium Shield Booster  18 - z124,939
+Premium Shield Booster  16 - z126,939
 Premium Thruster  22 - z183,909
 Premium Torpedo Launcher  26 - z408,660
 Pressure Sensor (Doc)  81 - z1,215
@@ -303,7 +303,7 @@ Prototype Missile   2497 - z401
 Prototype Missile Launcher (Doc)  177 - z7,017,779
 Prototype Ore Harvester  93 - z1,669,552
 Prototype Railgun (Doc)  251 - z6,899,444
-Prototype Rocket Launcher (Doc)  488 - z3,123,443
+Prototype Rocket Launcher (Doc)  488 - z3,123,444
 Prototype Scan Booster (Doc)  58 - z2,643,683
 Prototype Torpedo   2325 - z1,030
 Prototype Torpedo Launcher  68 - z774,837
@@ -358,7 +358,7 @@ Waste Burner  7 - z19,684
 Waste Processor  16 - z21,967
 Water  615 - z1
 Weapons Component  5549 - z317
-Wrapped Box  108 - z17
+Wrapped Box  105 - z17
 Xenox Ore  4471 - z271
 Zai Ore  3615 - z333
 
@@ -404,15 +404,6 @@ Ship Shield Regeneration
 
 
 <Station Missions>
-[c:lime]KILL RAIDERS[/c]
-Kill <color='yellow'>1 Raider</color> level 20 Raider Ship(s) in <color='cyan'>Forges of Mintar</color>. Return to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
-
-[c:lime]SALVAGE[/c]
-Salvage <color='yellow'>Special Metal Fragment</color> in <color='cyan'>Veloxi</color> and return with <color='yellow'>64</color> to Acrondia Hub in <color='cyan'>Temple Gates</color>
-
-[c:lime]DELIVERY[/c]
-Dock at Astrox Security Patrol in <color='cyan'>Felishar</color> to deliver a light shipment of <color='yellow'>53</color> <color='yellow'>Steelium Beams</color>
-
 [c:lime]SALVAGE[/c]
 Dismantle <color='yellow'>Special Hull Chassis</color> in <color='cyan'>The Dunes of Caliph</color> and return with <color='yellow'>123</color> to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>
 
@@ -442,6 +433,15 @@ Produce a medium shipment of <color='yellow'>13</color> <color='yellow'>Micro Pr
 
 [c:lime]SCAN[/c]
 Scan the <color='yellow'>Community Farming Center</color> structure in <color='cyan'>Ponze</color> and return to Foodmaid Hub in <color='cyan'>Forges of Mintar</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Engine Component</color> in <color='cyan'>Goru Populan</color> and return with <color='yellow'>54</color> to Mazu Starship in <color='cyan'>Volox</color>
+
+[c:lime]HARVEST[/c]
+Excavate special <color='yellow'>Special Lokken Ore</color> in <color='cyan'>Jala</color> and return with <color='yellow'>94</color> to Quantex in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]SCAN[/c]
+Scan the <color='yellow'>Corporate Dock</color> structure in <color='cyan'>Entropy</color> and return to ValueStar in <color='cyan'>Hunu</color>
 
 
 

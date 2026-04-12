@@ -21,3 +21,4 @@ NPC;+PRICE;2497;0;396.8058;Biomate University;Void Starcross;6h 48m 22s ;24502.0
 NPC;+LOCAL;2500;7127;185.0973;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;+STOCK;2141;2038;336.0494;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-LOCAL;44;44;663.3799;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
+NPC;-LOCAL;0;0;1423.825;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

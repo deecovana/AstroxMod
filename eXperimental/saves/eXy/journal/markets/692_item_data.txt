@@ -26,3 +26,4 @@ NPC;+PRICE;118;0;5451.039;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;-QTY;0;0;13445.51;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+LOCAL;25;34;1950;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-LOCAL;0;0;15000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+LOCAL;25;41;1950;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

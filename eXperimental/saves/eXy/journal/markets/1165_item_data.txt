@@ -3,3 +3,6 @@ NPC;+STOCK;22;11;970864.3;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;14;-8;1084607;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;0;0;2888703;OmniTrust;Ponze;6h 16m 48s ;22608.67
 NPC;BAL;69;-9;1354450;Janca Refinery;Canndelis;6h 40m 15s ;24015.74
+NPC;-LOCAL;0;0;2888703;OmniTrust;Ponze;8h 44m 50s ;31490.25
+NPC;-LOCAL;0;0;2888703;OmniTrust;Ponze;8h 49m 53s ;31793.95
+NPC;-LOCAL;0;0;2888703;CoraVault;Lins;8h 53m 52s ;32032.93

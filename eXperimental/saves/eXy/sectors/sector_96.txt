@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;96
 SECTOR;name;Arch of Mori
-SECTOR;level;9
+SECTOR;level;8.9
 SECTOR;faction;Temple
 SECTOR;filename;sector_96.txt
 SECTOR;is_explored;False

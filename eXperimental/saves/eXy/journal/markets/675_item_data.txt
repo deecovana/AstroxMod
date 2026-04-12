@@ -30,3 +30,4 @@ NPC;+PRICE;67;0;49685.26;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;25;0;22058.83;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;25;105;17550;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;0;0;135000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+LOCAL;25;34;17550;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

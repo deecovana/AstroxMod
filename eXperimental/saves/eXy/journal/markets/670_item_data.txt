@@ -26,3 +26,6 @@ NPC;BAL;24;24;45948.84;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-QTY;3;-21;46009.28;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+LOCAL;25;125;6825;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;0;0;52500;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+PLAYER;-QTY;23;20;16953.56;CoraVault;Lins;8h 54m 40s ;32080.01
+NPC;+LOCAL;25;35;6825;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+PLAYER;-QTY;5;20;6453.563;Lammassu Financial;Void Starcross;8h 57m 30s ;32250.86

@@ -14,3 +14,6 @@ NPC;+PRICE;946;0;299.485;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;6;0;230.0705;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;40;0;191.6215;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;-PRICE;2;0;254.9433;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
+NPC;-LOCAL;0;0;807.4;OmniTrust;Ponze;8h 44m 50s ;31490.25
+NPC;-LOCAL;0;0;807.4;OmniTrust;Ponze;8h 49m 53s ;31793.95
+NPC;-LOCAL;0;0;807.4;CoraVault;Lins;8h 53m 52s ;32032.93

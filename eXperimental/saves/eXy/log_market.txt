@@ -1,4 +1,13 @@
 //;LOG DATA FILE (Astrox Imperium)
+BUY;20;Medium Shield Charge;6,454;129,071;62229432;Lammassu Financial;Void Starcross;8h 57m 30s 
+BUY;20;Medium Energy Charge;5,532;110,633;62358503.25;Lammassu Financial;Void Starcross;8h 57m 15s 
+BUY;20;Medium Shield Charge;16,954;339,071;62469160.75;CoraVault;Lins;8h 54m 40s 
+BUY;8;Small Tractor Drone;16,910;135,278;62808532.1361325;OmniTrust;Ponze;8h 48m 0s 
+BUY;5;Small Combat Drone;4,904;24,519;62943809.6361325;OmniTrust;Ponze;8h 47m 29s 
+BUY;1;Small Combat Drone;4,844;4,844;62968329.0111325;OmniTrust;Ponze;8h 47m 17s 
+SELL;1;Advanced Railgun;6,689;6688.5000;62973172.8861325;OmniTrust;Ponze;8h 46m 23s 
+SELL;199;Basic Charged Cell;63.37;12611.4700;62966484.3861325;OmniTrust;Ponze;8h 46m 17s 
+BUY;2;Premium Shield Booster;124,939;249,878;62947656.5755856;Biomate University;Void Starcross;8h 19m 49s 
 SELL;2785;Adamyte Ore;2.78;7729.7080;63912436.6280301;Biomate University;Void Starcross;8h 10m 6s 
 BUY;9;Small Mining Drone;4,768;42,913;63904706.919534;Biomate University;Void Starcross;8h 0m 59s 
 BUY;2;Premium Shield Booster;122,939;245,878;63947620.3843777;Biomate University;Void Starcross;7h 56m 31s 
@@ -91,12 +100,3 @@ SELL;1;Generic Ore Harvester;260;260.0000;19174.69389534;CoraVault;Lins;2h 30m 3
 BUY;1;Basic Ore Harvester;16,965;16,965;18934.4938964844;CoraVault;Lins;2h 30m 16s 
 SELL;1;Noodles;9,237;9236.5000;35999.4313964844;ValueStar;Hunu;2h 28m 52s 
 BUY;1;Generic Salvage Collector;2,245;2,245;2756.18139648438;Biomate University;Void Starcross;2h 14m 44s 
-SELL;104;Torim Ore;112;11632.9100;12053.1813964844;Starbase Corporate Center;Void Starcross;2h 9m 30s 
-BUY;1;Basic Salvage Collector;7,998;7,998;3971.27124023438;Rendo Labs;Entropy;2h 1m 6s 
-SELL;1;Basic Pulse Laser;2,776;2775.5000;11968.7717285156;Rendo Labs;Entropy;1h 59m 56s 
-SELL;108;Torim Ore;118;12694.8400;9318.27172851563;Starbase Corporate Center;Void Starcross;1h 57m 12s 
-SELL;468;Adamyte Ore;8.01;3746.9110;-2826.56909179688;Starbase Corporate Center;Void Starcross;1h 25m 33s 
-SELL;336;Adamyte Ore;8.01;2690.0930;6976.52270507813;Starbase Corporate Center;Void Starcross;1h 11m 33s 
-SELL;336;Adamyte Ore;4.64;1559.3730;5870.80695796013;StarShepards Headquarters;Void Starcross;1h 7m 28s 
-SELL;498;Adamyte Ore;8.01;3987.0960;4386.43354487419;Starbase Corporate Center;Void Starcross;0h 57m 52s 
-BUY;1;Basic Cargo Expansion;29,344;29,344;424.337109327316;Daemon Ammunitions;Starfort Ramos;0h 54m 42s 

@@ -2,3 +2,7 @@ NPC;-LOCAL;0;0;143845.6;CoraVault;Lins;2h 47m 52s ;10072.21
 NPC;-QTY;0;0;178090;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;-LOCAL;0;0;235812.5;OmniTrust;Ponze;6h 16m 48s ;22608.67
 NPC;-PRICE;32;0;100502.3;Gunstellar;Adrenal;6h 18m 15s ;22695.92
+NPC;+PRICE;17;0;77861.94;Spacebook;Phistatisia;8h 11m 3s ;29463.74
+NPC;-LOCAL;0;0;235812.5;OmniTrust;Ponze;8h 44m 50s ;31490.25
+NPC;-LOCAL;0;0;235812.5;OmniTrust;Ponze;8h 49m 53s ;31793.95
+NPC;-LOCAL;0;0;235812.5;CoraVault;Lins;8h 53m 52s ;32032.93

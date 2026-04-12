@@ -27,3 +27,4 @@ NPC;+STOCK;58;23;12479.01;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968
 NPC;+STOCK;54;24;14975.06;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+LOCAL;25;148;4875;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;0;0;37500;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+LOCAL;25;44;4875;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

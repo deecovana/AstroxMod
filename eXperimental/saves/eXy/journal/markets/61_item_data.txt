@@ -22,3 +22,4 @@ NPC;+PRICE;319;0;211.7249;StarShepards Headquarters;Void Starcross;6h 48m 22s ;2
 NPC;+LOCAL;163;6;329.9124;Astrox Security Patrol;Felishar;7h 0m 45s ;25245.71
 NPC;+STOCK;2136;1969;268.6368;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-LOCAL;0;0;632.825;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
+NPC;-LOCAL;38;38;293.172;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

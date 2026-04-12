@@ -2,3 +2,4 @@ NPC;+PRICE;27;0;5694.729;CoraVault;Lins;4h 31m 45s ;16305.97
 NPC;-QTY;0;-27;5724.578;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;+STOCK;619;105;4446.341;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;532;-87;4754.338;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;+LOCAL;150;360;2267.678;OmniTrust;Ponze;8h 44m 50s ;31490.25

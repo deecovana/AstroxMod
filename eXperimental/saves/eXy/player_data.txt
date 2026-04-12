@@ -1,15 +1,15 @@
 // PLAYER;Variable;Value
 <PLAYER>
 PLAYER;name;eXy
-PLAYER;level;7
-PLAYER;xp;22557.00
-PLAYER;next_level_xp;27100.00
-PLAYER;last_level_xp;20100.00
+PLAYER;level;8
+PLAYER;xp;29263.00
+PLAYER;next_level_xp;35100.00
+PLAYER;last_level_xp;27100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;63203403.94
+PLAYER;credits;62229181.00
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;6
-PLAYER;playtime;29457.63
+PLAYER;skill_points;41
+PLAYER;playtime;33399.79
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -19,23 +19,23 @@ PLAYER;face_bg;accessory_1.png
 PLAYER;profession_id;21
 PLAYER;passive_scanner_settings;False,False,False,False,False,True,True,True,True
 PLAYER;autopilot_settings;True,False,True,True,False
-PLAYER;orbit_data;False,700,0,6,False
+PLAYER;orbit_data;True,700,0,9,True
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
-PLAYER;cargo_settings;ALL,Name,Ascend,3
+PLAYER;cargo_settings;ALL,Name,Descend,3
 PLAYER;targeting_settings;Distance,Ascend
 PLAYER;station_market_settings;SEARCH,Level,Ascend,100
 PLAYER;station_university_settings;SEARCH,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
-PLAYER;sector;sector_0.txt
-PLAYER;sector_id;0
-PLAYER;station;sector_0_station_0.txt
-PLAYER;isdocked;True
+PLAYER;sector;sector_63.txt
+PLAYER;sector_id;63
+PLAYER;station;null
+PLAYER;isdocked;False
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
 SHIP;ship_data_(transport_cruiser_1)87868.txt;False;False;sector_0_station_0.txt;sector_0.txt;0.0;0.0;0.0
-SHIP;ship_data_(support_utility_2)12149.txt;True;False;sector_0_station_0.txt;sector_0.txt;-202.61;-123.48;-4470.80
+SHIP;ship_data_(support_utility_2)12149.txt;True;False;sector_0_station_0.txt;sector_0.txt;3694.68;155.82;2752.35
 SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_0.txt;sector_0.txt;-608.22;-49.05;-4378.36
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
@@ -70,12 +70,13 @@ MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful 
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
+MISSION;103;59;705382;KILL_RECOVER#sector_41_station_0.txt#sector_63.txt#Entertainer Lowpei Sedpaeoa#npc_ship_data_(ATC_Nomad)#10#8#2038#null;Eradicate <color='yellow'><i>Entertainer Lowpei Sedpaeoa</i></color> in <color='cyan'>Numbu</color> and recover <color='yellow'>8</color> <color='yellow'>Fiber Optic Interfaces</color>. Return to Mazu Starship in <color='cyan'>Volox</color>;1;0;False;173067.2;23440.16;After <color='yellow'>8</color> <color='yellow'>Fiber Optic Interfaces</color> were hijacked from a transport in <color='cyan'>Numbu</color>, Science authorities began hunting for <color='yellow'><i>Entertainer Lowpei Sedpaeoa</i></color>. A well known lowlife from the area, <color='yellow'><i>Entertainer Lowpei Sedpaeoa</i></color> has been on the run from the ASP for various crimes and recently had a bounty commissioned by <i>Hinhas Fuquyan</i>. Return the stolen cargo and meet <i>Hinhas Fuquyan</i> at Mazu Starship in <color='cyan'>Volox</color>.<color='orange'>The Missionary faction will not favor this action, and penalize your faction standing.</color>
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
 STAT;0;;0;
 STAT;1;Projectile Weapons Fired;0;Weapons
-STAT;2;Laser Weapons Fired;205;Weapons
+STAT;2;Laser Weapons Fired;1173;Weapons
 STAT;3;Beam Weapons Fired;0;Weapons
 STAT;4;Launcher Weapons Fired;0;Weapons
 STAT;5;Torpedo Weapons Fired;0;Weapons
@@ -112,7 +113,7 @@ STAT;35;Recover Missions Complete;2;Missions
 STAT;36;Kill Missions Complete;7;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
 STAT;38;Sectors Explored;23;Navigation
-STAT;39;Warp gate Jumps;174;Navigation
+STAT;39;Warp gate Jumps;186;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;0;Missions
@@ -124,7 +125,7 @@ STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
 STAT;50;Skill Levels Trained;22;Skills
-STAT;51;Skill Points Earned;169;Skills
+STAT;51;Skill Points Earned;198;Skills
 STAT;52;Skill Points Spent;252;Skills
 STAT;53;;0;
 STAT;54;;0;
@@ -133,11 +134,11 @@ STAT;56;;0;
 STAT;57;;0;
 STAT;58;Structures Destroyed;0;Combat
 STAT;59;Npcs Destroyed;0;Combat
-STAT;60;Raiders Destroyed;3;Combat
-STAT;61;Projectile Damage Taken;0;Combat
-STAT;62;Laser Damage Taken;428;Combat
-STAT;63;Beam Damage Taken;408;Combat
-STAT;64;Missile Damage Taken;0;Combat
+STAT;60;Raiders Destroyed;5;Combat
+STAT;61;Projectile Damage Taken;317;Combat
+STAT;62;Laser Damage Taken;14220;Combat
+STAT;63;Beam Damage Taken;10575;Combat
+STAT;64;Missile Damage Taken;1740;Combat
 STAT;65;Torpedo Damage Taken;0;Combat
 
 // KEY; Sector ; gate_id

@@ -29,3 +29,4 @@ NPC;+PRICE;15;0;27990.03;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;-QTY;0;0;204177.8;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+LOCAL;25;120;20475;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;29;29;70875;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+LOCAL;25;47;20475;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

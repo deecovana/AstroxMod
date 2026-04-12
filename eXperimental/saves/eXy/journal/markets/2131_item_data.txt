@@ -8,3 +8,4 @@ NPC;+STOCK;99;2;37685.11;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20
 NPC;+PRICE;595;0;33898.45;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;113;0;37405.82;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;+STOCK;39;2;46993.48;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+STOCK;5;2;38366.46;Biomart;Veloxi;8h 51m 34s ;31894.31

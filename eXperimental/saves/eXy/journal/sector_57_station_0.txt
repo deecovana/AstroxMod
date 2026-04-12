@@ -3,7 +3,7 @@ Banking Facility
 Qevedles Zanlocki
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 22644.76
+Timestamp: 31835.99
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -44,138 +44,137 @@ Offices
 <Station Market Orders>
 [c:red]SELL Order[/c] Looking to Sell (1) Items 
  (17) x Water
-Buy items for [c:lime]1 discount.[/c]
+Buy items for [c:lime]2 discount.[/c]
 [c:red]SELL Order[/c] Sell Order Request for (2) Items 
  (19) x Textile Fabrics
  (8) x Motion Sensor
-Buy items for [c:lime]17,106 discount.[/c]
+Buy items for [c:lime]17,264 discount.[/c]
 [c:green]BUY Order[/c] Market Out of Stock: (1) Items 
  (107) x Entertainment Electronics
-Fulfill order for [c:lime]44,097 profit.[/c]
+Fulfill order for [c:lime]42,631 profit.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
 Adamyte Ore  109 - z5
-Advanced Regulator  2 - z11,275
-Advanced Rocket Launcher (Doc)  45 - z446,088
+Advanced Ion Beam  9 - z142,428
+Advanced Regulator  2 - z11,237
+Advanced Rocket Launcher (Doc)  45 - z444,748
 Aluminium Rivets  81 - z50
 Anti-Freeze  6 - z33
 Assorted Gaskets  190 - z17
 Assorted Springs  40 - z82
 Ball Bearings  15 - z85
 Basic 60mm  56 - z32
-Basic Armor Exterior  17 - z21,313
-Basic Charged Cell  48 - z105
-Basic ECM Range Lock (Doc)  10 - z3,759,203
-Basic Energy Generator  15 - z17,092
-Basic Engine Core  2 - z22,010
-Basic Explosive Armor  15 - z18,261
-Basic Filter  2 - z8,053
-Basic Heavy Cannon  11 - z5,316
-Basic Ion Beam  9 - z11,660
-Basic Missile Explosive Mod (Doc)  15 - z258,131
-Basic Missile Launcher (Doc)  72 - z30,432
-Basic Ore Harvester  9 - z15,266
-Basic Plasma Cannon  18 - z10,688
-Basic Pulse Laser  1 - z4,763
-Basic Scan Emitter  19 - z21,788
-Basic Shield Booster  6 - z18,511
-Basic Shield Generator  1 - z19,452
-Basic Skill Manual  18 - z217,609
-Basic Thruster  11 - z23,109
-Basic Warp Drive Fuel (Doc)  1 - z12,487
+Basic Armor Exterior  17 - z21,219
+Basic Charged Cell  247 - z102
+Basic ECM Range Lock (Doc)  10 - z3,747,577
+Basic Energy Generator  15 - z17,005
+Basic Engine Core  2 - z21,941
+Basic Explosive Armor  15 - z18,183
+Basic Filter  2 - z8,031
+Basic Heavy Cannon  11 - z5,292
+Basic Ion Beam  4 - z11,627
+Basic Missile Explosive Mod (Doc)  15 - z257,194
+Basic Missile Launcher (Doc)  72 - z30,312
+Basic Ore Harvester  9 - z15,222
+Basic Pulse Laser  1 - z4,741
+Basic Scan Emitter  19 - z21,732
+Basic Shield Booster  6 - z18,433
+Basic Shield Generator  1 - z19,367
+Basic Skill Manual  18 - z216,828
+Basic Thruster  11 - z23,044
+Basic Warp Drive Fuel (Doc)  1 - z12,437
 Candy Cane  4 - z1
 Candy Corn  8 - z1
 Carbon  97 - z1
 Carbon Fiber  36 - z32
 Chocolate Bars  18 - z1
-Cleaning Chemicals  7 - z65
+Cleaning Chemicals  7 - z64
 Colored Dye  6 - z29
-Containment Unit  3 - z15,808
-Disposables  1 - z4,203
-Duct Work (Doc)  9 - z11,215
-ECM Sensors Jammer (Doc)  2 - z900,410
-Entertainment Electronics  3 - z918
+Containment Unit  3 - z15,770
+Disposables  1 - z4,181
+Duct Work (Doc)  9 - z11,153
+ECM Sensors Jammer (Doc)  2 - z897,480
 Fasteners  6 - z10
-Generic Construction Platform  26 - z5,703,281
-Generic Heavy Laser  2 - z1,541
-Generic Ion Beam  9 - z3,436
-Generic Light Turret  14 - z1,201
-Generic Missile Launcher (Doc)  52 - z11,665
-Generic Ore Harvester  19 - z3,322
-Generic Pulse Laser  9 - z2,541
-Generic Railgun (Doc)  3 - z15,485
-Generic Torpedo Launcher  14 - z2,113
+Generic Construction Platform  26 - z5,679,844
+Generic Heavy Laser  2 - z1,534
+Generic Light Turret  14 - z1,195
+Generic Missile Launcher (Doc)  52 - z11,630
+Generic Ore Harvester  19 - z3,309
+Generic Pulse Laser  9 - z2,535
+Generic Railgun (Doc)  3 - z15,448
+Generic Torpedo Launcher  14 - z2,106
 Gradeon Ore  126 - z12
 Gummy Bears  3 - z1
-Heavy Armor Bomb  12 - z46,205
-Heavy Repair Drone  12 - z201,372
-Hydraulic Assembly (Doc)  1 - z43,242
+Heavy Armor Bomb  12 - z45,952
+Heavy Repair Drone  12 - z200,857
+Hydraulic Assembly (Doc)  1 - z43,136
 Hydrogen  281 - z3
-Improved Energy Capacitor  19 - z46,823
-Improved Explosive Armor  7 - z32,522
-Improved Filter  9 - z11,275
-Improved Impact Armor  7 - z48,022
-Improved Railgun (Doc)  81 - z92,674
-Improved Salvage Drone  21 - z56,720
-Improved Shield Generator  10 - z31,344
-Interior Lighting  3 - z266
+Improved Energy Capacitor  19 - z46,660
+Improved Explosive Armor  7 - z32,366
+Improved Filter  9 - z11,237
+Improved Impact Armor  7 - z47,866
+Improved Ion Beam  18 - z40,694
+Improved Plasma Cannon  5 - z37,303
+Improved Railgun (Doc)  81 - z92,215
+Improved Salvage Drone  21 - z56,579
+Improved Shield Generator  10 - z31,175
+Interior Lighting  3 - z265
 Junk Part  51 - z24
-Kitchen Appliances  11 - z612
-Large Life Support Pack  30 - z48,170
-Large Web Field  36 - z93,632
-Light Armor Bomb  31 - z5,494
-Light Shield Bomb  22 - z10,354
-Light Shield Recharger  18 - z27,761
+Kitchen Appliances  11 - z609
+Large Life Support Pack  30 - z48,029
+Large Web Field  36 - z93,407
+Light Armor Bomb  31 - z5,466
+Light Shield Bomb  22 - z10,326
+Light Shield Recharger  18 - z27,683
 Liquid Coolant  195 - z14
 Lubricant  159 - z11
 Magnetic Quartz  68 - z4
 Mechanical Belts  194 - z37
-Media Recordings  14 - z2,020
-Medium Armor Bomb  19 - z22,962
+Medium Armor Bomb  19 - z22,877
 Metal Brackets  149 - z24
 Metal Gears  4 - z21
 Metal Valve  41 - z18
-Noodles  7 - z12,378
+Noodles  7 - z12,340
 Nuts And Bolts  152 - z12
-Office Furniture  13 - z786
+Office Furniture  13 - z783
 Ornament  8 - z3
 Oxygen  118 - z2
 Plastic Caps  20 - z37
-Premium Afterburner (Doc)  1 - z2,266,440
-Premium Railgun (Doc)  9 - z2,215,710
-Premium Shield Generator (Doc)  7 - z3,085,614
-Premium Turn Thrust (Doc)  10 - z1,824,840
-Protein Bar  2 - z8,333
+Premium Afterburner (Doc)  1 - z2,260,440
+Premium Plasma Cannon  7 - z456,957
+Premium Railgun (Doc)  9 - z2,210,083
+Premium Shield Generator (Doc)  7 - z3,077,514
+Premium Turn Thrust (Doc)  10 - z1,818,840
+Protein Bar  2 - z8,311
 Prototype 20mm  79 - z81
-Prototype 60mm  90 - z179
-Prototype 60mm (Doc)  10 - z265,109
-Prototype Drone Command Bay (Doc)  12 - z7,452,960
-Prototype Missile Launcher (Doc)  90 - z3,988,938
-Prototype Pulse Laser (Doc)  3 - z4,046,483
-Prototype Railgun (Doc)  10 - z3,973,411
-Prototype Turn Thrust (Doc)  15 - z2,459,280
+Prototype 60mm  90 - z178
+Prototype 60mm (Doc)  10 - z264,328
+Prototype Drone Command Bay (Doc)  12 - z7,428,960
+Prototype Missile Launcher (Doc)  90 - z3,970,883
+Prototype Pulse Laser (Doc)  3 - z4,030,070
+Prototype Railgun (Doc)  10 - z3,953,716
+Prototype Turn Thrust (Doc)  15 - z2,447,280
 Reinforced Rubber  125 - z14
 Rubber Tubing  46 - z42
 Salt Crystal  147 - z2
-Scrap Part  92 - z23
-Sensor Array (Doc)  15 - z48,839
-Small Combat Drone  6 - z4,863
-Small Mining Drone  8 - z5,043
-Small Tractor Drone  26 - z16,957
-Spaceframe  36 - z4,697
-Spotlight  1 - z13,655
+Scrap Part  92 - z22
+Sensor Array (Doc)  15 - z48,719
+Small Mining Drone  8 - z5,024
+Small Tractor Drone  18 - z17,060
+Spaceframe  36 - z4,677
+Spotlight  1 - z13,622
 Steelium Beam  25 - z8
 Steelium Pipes  182 - z17
-Thermal Controller  5 - z6,863
-Thermal Systems Package  41 - z5,655
-Thruster Casing (Doc)  7 - z48,650
-Titan Combat Drone  30 - z270,109
-Tractor Beam  15 - z10,646
+Thermal Controller  5 - z6,841
+Thermal Systems Package  150 - z2,144
+Thruster Casing (Doc)  7 - z48,518
+Titan Combat Drone  30 - z269,328
+Tractor Beam  15 - z10,602
 Water  218 - z2
-Weapon Systems Package  35 - z6,911
-Weapon Systems Package (Doc)  12 - z60,668
+Weapon Systems Package  35 - z6,887
+Weapon Systems Package (Doc)  12 - z60,428
 Wrapped Box  5 - z15
 
 
@@ -183,9 +182,6 @@ Wrapped Box  5 - z15
 
 
 <Station Missions>
-[c:lime]SCAN[/c]
-Track and scan the target <color='yellow'>Corporate Dock</color> structure in <color='cyan'>Dellis Primeria</color> and return to Holosynth Industries in <color='cyan'>Rats Of Mortalis</color>
-
 [c:lime]KILL RAIDERS[/c]
 Destroy <color='yellow'>1 Raider</color> level 20 Raider(s) in <color='cyan'>Dogstar Prime</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>
 
@@ -206,6 +202,33 @@ Chat with <color='yellow'><i>Major Kinue Fifon</i></color> about his debt in <co
 
 [c:lime]SCAN[/c]
 Locate and scan <color='yellow'><i>Sir Visvo Farkeeah</i></color> in <color='cyan'>Arch of Mori</color> and return to CoraVault in <color='cyan'>Lins</color>
+
+[c:lime]SCAN[/c]
+Locate and scan the <color='yellow'>Recon Center</color> structure in <color='cyan'>Veloxi</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]DIALOG[/c]
+Transfer payment to <color='yellow'><i>Engineer Ribser Yerse</i></color> in <color='cyan'>Void Starcross</color> and return with signature to Biomart in <color='cyan'>Veloxi</color>
+
+[c:lime]RECOVER[/c]
+Reclaim a medium shipment <color='yellow'>crate</color> in <color='cyan'>Rats Of Mortalis</color> and bring back to Acrondia Hub in <color='cyan'>Temple Gates</color>
+
+[c:lime]KILL RECOVER[/c]
+Kill and Rob <color='yellow'><i>Enforcer Sevaj Venuh</i></color> in <color='cyan'>Void Starcross</color> and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color> with <color='yellow'>1368</color> of <color='yellow'>Acidic Residues</color>
+
+[c:lime]KILL[/c]
+Assassinate in-experienced <color='yellow'><i>Major Galeop Sevninera</i></color> in <color='cyan'>Temple Gates</color> and return to Gunstellar in <color='cyan'>Adrenal</color>
+
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Metal Fragment</color> in <color='cyan'>Dellis Primeria</color> and return to Oro Omniplex Center in <color='cyan'>Merces Academy</color> with minimum of <color='yellow'>119</color>
+
+[c:lime]KILL RECOVER[/c]
+Kill and Rob <color='yellow'><i>Scribe Jalisfa Ciesofall</i></color> in <color='cyan'>Void Starcross</color> and return to Crystalis Broadcasting in <color='cyan'>Jermicus</color> with <color='yellow'>11</color> of <color='yellow'>Plasite Ores</color>
+
+[c:lime]REFINE[/c]
+Refine <color='yellow'>4</color> <color='yellow'>Module Fragments</color> at Quantex station refinery in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]RECOVER[/c]
+Retrieve a light cache of <color='yellow'>Premium Railgun</color> from a <color='yellow'>crate</color> in <color='cyan'>Veloxi</color> sector, drop at Biomart in <color='cyan'>Veloxi</color>
 
 
 

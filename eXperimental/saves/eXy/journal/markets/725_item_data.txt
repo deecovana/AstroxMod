@@ -17,3 +17,4 @@ NPC;+LOCAL;15;1;4875;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.
 NPC;+PRICE;68;0;13988.28;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;15;10;4875;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 PLAYER;-QTY;0;1;13241.02;Daemon Ammunitions;Starfort Ramos;7h 51m 30s ;28290.25
+PLAYER;-QTY;18;8;16909.69;OmniTrust;Ponze;8h 48m 0s ;31680.56

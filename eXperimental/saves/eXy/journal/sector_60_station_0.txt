@@ -3,7 +3,7 @@ Auction Facility
 Leira Kolyitpi
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 13865.4
+Timestamp: 31911.41
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -36,16 +36,141 @@ Storage
 
 
 <Station Market Orders>
+[c:red]SELL Order[/c] Market Items: (3) Items 
+ (447) x Memory Chip
+ (333) x Copperi Cables
+ (426) x Micro Processor
+Buy items for [c:lime]159,181 discount.[/c]
 [c:green]BUY Order[/c] Market Low Inventory: (1) Items 
  (143) x Hygiene Products
-Fulfill order for [c:lime]24,438 profit.[/c]
-[c:red]SELL Order[/c] Market Goods: (1) Items 
- (62) x Pressure Sensor
-Buy items for [c:lime]2,999 discount.[/c]
+Fulfill order for [c:lime]23,812 profit.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
+Active Scanner  39 - z18,481
+Adamyte Ore  147 - z5
+Advanced Regulator  5 - z7,930
+Advanced Targeting System (Doc)  16 - z626,127
+Aluminium Rivets  163 - z37
+Anti-Freeze  18 - z43
+Assorted Gaskets  195 - z17
+Assorted Springs  86 - z42
+Ball Bearings  175 - z52
+Basic 20mm  26 - z26
+Basic 60mm  29 - z48
+Basic Afterburner  16 - z15,346
+Basic Armor Exterior  15 - z24,519
+Basic Cargo Expansion  3 - z28,933
+Basic Drone Command Bay  13 - z30,693
+Basic Energy Generator  13 - z32,965
+Basic Filter  6 - z9,081
+Basic Heavy Cannon  18 - z5,292
+Basic Heavy Laser  5 - z6,832
+Basic Ion Beam  16 - z9,889
+Basic Light Turret (Doc)  1 - z24,756
+Basic Mass Reduction  5 - z28,918
+Basic Plasma Cannon  16 - z4,522
+Basic Railgun  18 - z10,393
+Basic Rocket Launcher  7 - z6,211
+Basic Rocket Launcher (Doc)  78 - z27,906
+Basic Scan Booster  6 - z18,949
+Basic Shield Generator  8 - z21,797
+Basic Torpedo   88 - z191
+Basic Torpedo Launcher  16 - z8,125
+Basic Torpedo Launcher (Doc)  3 - z39,787
+Bomber Drone  38 - z18,860
+Candy Cane  2 - z1
+Candy Corn  8 - z1
+Carbon  271 - z2
+Carbon Fiber  123 - z30
+Chocolate Bars  19 - z1
+Cleaning Chemicals  1 - z110
+Colored Dye  6 - z18
+Containment Unit  3 - z8,175
+Copperi Cables  33 - z271
+Disposables  6 - z7,471
+Dynex Crystal Resonator (Doc)  3 - z2,399
+ECM Sensors Jammer (Doc)  15 - z1,225,606
+Elite Skill Manual  17 - z1,323,654
+Fasteners  7 - z14
+Generic Missile Launcher  10 - z1,622
+Generic Plasma Cannon  12 - z1,886
+Generic Pulse Laser  11 - z2,155
+Generic Railgun (Doc)  69 - z11,848
+Generic Rocket Launcher  2 - z2,455
+Generic Rocket Launcher (Doc)  52 - z8,973
+Generic Torpedo Launcher  16 - z1,482
+Gradeon Ore  44 - z10
+Gummy Bears  3 - z1
+Heavy Combat Drone  13 - z197,557
+Hydraulic Assembly (Doc)  6 - z28,277
+Hydrogen  161 - z3
+Improved Drone Command Bay  12 - z93,385
+Improved Engine Core  15 - z40,802
+Improved Explosive Armor  2 - z46,866
+Improved Filter  4 - z12,707
+Improved Impact Armor  4 - z53,866
+Improved Mass Reduction  18 - z55,996
+Improved Repair Drone  38 - z43,529
+Improved Salvage Drone  2 - z33,629
+Improved Shield Booster  12 - z51,366
+Improved Shield Generator  15 - z32,255
+Improved Targeting System  16 - z25,409
+Improved Thruster  13 - z30,547
+Improved Turn Thrust  4 - z45,493
+Interior Lighting  8 - z139
+Ionization Plate (Doc)  19 - z45,964
+Junk Part  193 - z26
+Kitchen Appliances  1 - z858
+Large Defense Drone  34 - z67,731
+Large Processor  35 - z137
+Large Salvage Drone  5 - z56,731
+LED Lights  34 - z108
+Light Shield Recharger  9 - z27,683
+Liquid Coolant  126 - z27
+Lubricant  87 - z14
+Magnetic Quartz  243 - z3
+Mechanical Belts  16 - z55
+Medium Armor Repair  22 - z19,856
+Medium Shield Bomb  5 - z24,497
+Memory Chip  41 - z189
+Metal Gears  7 - z39
+Micro Processor  39 - z119
+Misc Hardware (Doc)  6 - z9,226
+Missile Defense System (Doc)  5 - z1,275,700
+Motion Sensor  41 - z163
+Noodles  1 - z7,440
+Nuts And Bolts  64 - z13
+Office Furniture  17 - z966
+Ornament  19 - z7
+Oxygen  251 - z3
+Plasite Extractor (Doc)  5 - z10,934,870
+Plastic Caps  82 - z65
+Premium Heavy Cannon (Doc)  18 - z2,157,965
+Premium Railgun (Doc)  25 - z2,246,098
+Pressure Sensor  39 - z174
+Protein Bar  2 - z7,541
+Prototype ECM Power Boost Field (Doc)  3 - z7,555,059
+Prototype Heavy Cannon (Doc)  71 - z6,339,620
+Prototype Railgun (Doc)  72 - z7,672,264
+Prototype Torpedo   25 - z1,032
+Rubber Tubing  67 - z28
+Salt Crystal  217 - z3
+Scrap Part  187 - z24
+Small Heatsink  25 - z193
+Small LS Bomb  14 - z4,391
+Small Motor  43 - z259
+Small Pump  27 - z207
+Small Storage Tank  1 - z35
+Small Web Field  17 - z6,059
+Spotlight  10 - z10,052
+Steelium Pipes  37 - z17
+Thermal Controller  6 - z4,321
+Thermal Insulation  128 - z26
+Titan Combat Drone  21 - z274,328
+Water  38 - z1
+Wrapped Box  4 - z10
 
 
 <Station University Skills>

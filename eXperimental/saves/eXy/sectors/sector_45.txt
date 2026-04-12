@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;45
 SECTOR;name;Itsobvi-Emma
-SECTOR;level;3
+SECTOR;level;3.1
 SECTOR;faction;Law
 SECTOR;filename;sector_45.txt
 SECTOR;is_explored;False

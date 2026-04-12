@@ -16,3 +16,4 @@ NPC;-LOCAL;1018;0;56.95875;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.7
 NPC;+PRICE;173;0;55.68675;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-PRICE;131;0;59.94775;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;-LOCAL;3;3;56.95875;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
+NPC;-LOCAL;26;26;56.95875;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

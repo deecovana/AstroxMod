@@ -43,6 +43,9 @@ MERC;1;1.13;npc_ship_data_(battle_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Production: (3) Items ;52x413,77x488,52x292;190389;103791.90
+SELLORDER;Market Surplus: (2) Items ;75x400,40x452;36804;110745.90
+SELLORDER;For Sale: (2) Items ;202x376,170x113;39177;48561.31
 SELLORDER;Market Supply: (1) Items ;42x231;16256.00;79982.28
 ITEM;1;10;1.17;8.84
 ITEM;41;128;0.70;40.14

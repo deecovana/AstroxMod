@@ -2,7 +2,7 @@
 // eXperimental 1280@30 modified values ~1.5x
 
 //GRAPHICS OPTIONS
-OPTION_ui_scale;0.83
+OPTION_ui_scale;0.67
 OPTIONS_mouse_scroll_sensitivity;1
 OPTION_cam_drag;4
 OPTION_vsync;0
@@ -34,7 +34,7 @@ OPTIONS_enable_controller_inputs;False
 OPTIONS_market_popup;False
 OPTIONS_skill_train_popup;False
 OPTIONS_mission_accept_popup;False
-OPTIONS_repair_complete_popup;True
+OPTIONS_repair_complete_popup;False
 OPTIONS_refinery_move_popup;True
 OPTIONS_instant_skill_training;False
 OPTIONS_autopilot_select;False
@@ -50,9 +50,9 @@ OPTIONS_camera_rotation_drift;5
 OPTIONS_notify_box_size;1
 
 //AUDIO OPTIONS
-OPTION_music_vol;0.7499175
+OPTION_music_vol;0.001
 OPTION_soundfx_vol;0.75
-OPTION_ui_vol;1.25
+OPTION_ui_vol;1
 OPTION_sound_chat_vol;0.7
 OPTION_sound_station_vol;0.7
 
@@ -87,12 +87,12 @@ WORLD_OPTIONS_merc_loyalty_drain;0.5
 WORLD_OPTIONS_merc_loyalty_bonus;0.5
 WORLD_OPTIONS_merc_payroll_rate;1.0
 WORLD_OPTIONS_merc_faction_hire_modifier;1.0
-WORLD_OPTIONS_merc_takedmg_modifier;1
+WORLD_OPTIONS_merc_takedmg_modifier;2
 WORLD_OPTIONS_raider_spawn_timer;250.0
 WORLD_OPTIONS_raider_speed;0.75
 WORLD_OPTIONS_raider_attack;0.9
 WORLD_OPTIONS_raider_defense;1.1
-WORLD_OPTIONS_raider_takedmg_modifier;1
+WORLD_OPTIONS_raider_takedmg_modifier;2
 WORLD_OPTIONS_dock_fee_modifier;1.0
 WORLD_OPTIONS_gate_fee_modifier;1.0
 WORLD_OPTIONS_economic_gen_rate;1.0
@@ -102,8 +102,8 @@ WORLD_OPTIONS_station_fabricator_speed;2.0
 WORLD_OPTIONS_station_university_speed;2.0
 WORLD_OPTIONS_ship_shield_recharge_rate;1
 WORLD_OPTIONS_ship_energy_recharge_rate;1
-WORLD_OPTIONS_ship_takedmg_modifier;1
-WORLD_OPTIONS_npc_takedmg_modifier;1
+WORLD_OPTIONS_ship_takedmg_modifier;2
+WORLD_OPTIONS_npc_takedmg_modifier;2
 WORLD_OPTIONS_turret_accuracy_modifier;1
 WORLD_OPTIONS_critical_hit_modifier;1.5
 WORLD_OPTIONS_critical_hit_chance;3

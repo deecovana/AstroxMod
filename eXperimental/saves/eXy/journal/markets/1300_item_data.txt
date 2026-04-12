@@ -4,3 +4,5 @@ NPC;-QTY;6;-6;12929.88;Scrapdogs;Gemini Els;2h 41m 34s ;9694.812
 PLAYER;-QTY;15;1;12608.31;CoraVault;Lins;2h 48m 5s ;10085.26
 NPC;+STOCK;27;9;10259.28;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;18;0;10645.46;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+STOCK;30;11;19728.85;Biomart;Veloxi;8h 51m 34s ;31894.31
+NPC;-LOCAL;0;0;35000;Biomart;Veloxi;8h 51m 40s ;31900.39

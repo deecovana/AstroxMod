@@ -87,12 +87,12 @@ WORLD_OPTIONS_merc_loyalty_drain;0.5
 WORLD_OPTIONS_merc_loyalty_bonus;0.5
 WORLD_OPTIONS_merc_payroll_rate;1.0
 WORLD_OPTIONS_merc_faction_hire_modifier;1.0
-WORLD_OPTIONS_merc_takedmg_modifier;1
+WORLD_OPTIONS_merc_takedmg_modifier;2
 WORLD_OPTIONS_raider_spawn_timer;250.0
 WORLD_OPTIONS_raider_speed;0.75
 WORLD_OPTIONS_raider_attack;0.9
 WORLD_OPTIONS_raider_defense;1.1
-WORLD_OPTIONS_raider_takedmg_modifier;1
+WORLD_OPTIONS_raider_takedmg_modifier;2
 WORLD_OPTIONS_dock_fee_modifier;1.0
 WORLD_OPTIONS_gate_fee_modifier;1.0
 WORLD_OPTIONS_economic_gen_rate;1.0
@@ -102,8 +102,8 @@ WORLD_OPTIONS_station_fabricator_speed;2.0
 WORLD_OPTIONS_station_university_speed;2.0
 WORLD_OPTIONS_ship_shield_recharge_rate;1
 WORLD_OPTIONS_ship_energy_recharge_rate;1
-WORLD_OPTIONS_ship_takedmg_modifier;1
-WORLD_OPTIONS_npc_takedmg_modifier;1
+WORLD_OPTIONS_ship_takedmg_modifier;2
+WORLD_OPTIONS_npc_takedmg_modifier;2
 WORLD_OPTIONS_turret_accuracy_modifier;1
 WORLD_OPTIONS_critical_hit_modifier;1.5
 WORLD_OPTIONS_critical_hit_chance;3

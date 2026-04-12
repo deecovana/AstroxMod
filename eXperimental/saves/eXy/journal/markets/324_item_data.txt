@@ -13,3 +13,6 @@ NPC;+PRICE;804;0;1761.541;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;8;0;1609.57;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;804;777;2350.063;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-QTY;0;-11;1898.812;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;-LOCAL;0;0;6242.5;OmniTrust;Ponze;8h 44m 50s ;31490.25
+NPC;-LOCAL;0;0;6242.5;OmniTrust;Ponze;8h 49m 53s ;31793.95
+NPC;-LOCAL;0;0;6242.5;CoraVault;Lins;8h 53m 52s ;32032.93

@@ -8,3 +8,6 @@ NPC;BAL;73;-6;10022.98;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;9;9;9450;OmniTrust;Ponze;6h 16m 48s ;22608.67
 NPC;+PRICE;107;0;10512.38;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;11;-11;8960.782;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;-LOCAL;10;10;9450;OmniTrust;Ponze;8h 44m 50s ;31490.25
+NPC;-LOCAL;4;0;9450;OmniTrust;Ponze;8h 49m 53s ;31793.95
+NPC;-LOCAL;0;0;21000;CoraVault;Lins;8h 53m 52s ;32032.93

@@ -27,3 +27,4 @@ NPC;-PRICE;47;0;53060.18;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;+LOCAL;25;132;14625;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;+LOCAL;25;38;14625;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-LOCAL;0;0;112500;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+LOCAL;25;48;14625;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

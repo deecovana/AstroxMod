@@ -21,3 +21,5 @@ NPC;-LOCAL;39;39;26.15248;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
 NPC;+PRICE;2256;0;29.19015;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;32;0;23.52172;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;+LOCAL;2500;6628;7.3125;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
+NPC;+STOCK;1923;1897;24.67953;Biomart;Veloxi;8h 51m 34s ;31894.31
+NPC;-LOCAL;21;21;25.3125;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

@@ -38,3 +38,5 @@ NPC;+LOCAL;1000;1191;3.9325;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-LOCAL;313;0;15.07751;Biomate University;Void Starcross;7h 53m 46s ;28426.46
 NPC;-LOCAL;288;0;14.9494;Biomate University;Void Starcross;8h 0m 37s ;28837.24
 NPC;-LOCAL;108;0;13.86019;Biomate University;Void Starcross;8h 10m 2s ;29402.51
+NPC;-LOCAL;105;0;13.84419;Biomate University;Void Starcross;8h 18m 46s ;29926.68
+NPC;+LOCAL;1000;2508;3.9325;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

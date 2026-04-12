@@ -32,3 +32,4 @@ PLAYER;+QTY;18;1;9621.875;Quantex;Dellis Primeria;7h 3m 5s ;25385.92
 NPC;+LOCAL;25;88;2600;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;+LOCAL;25;39;2600;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-LOCAL;0;0;20000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+LOCAL;25;34;2600;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

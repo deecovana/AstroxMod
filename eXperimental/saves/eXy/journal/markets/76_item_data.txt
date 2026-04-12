@@ -21,3 +21,4 @@ NPC;+PRICE;85;0;417.0646;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;193;0;493.676;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;2500;5817;137.111;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;-LOCAL;93;0;474.615;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
+NPC;-LOCAL;37;37;474.615;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

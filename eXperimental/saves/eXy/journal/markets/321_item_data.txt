@@ -11,3 +11,6 @@ NPC;+PRICE;54;0;1630.919;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;-LOCAL;0;0;6391;OmniTrust;Ponze;6h 16m 48s ;22608.67
 NPC;+PRICE;26;0;2180.267;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;48;0;3449.922;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-LOCAL;10;10;2875.95;OmniTrust;Ponze;8h 44m 50s ;31490.25
+NPC;-LOCAL;0;0;2902.066;OmniTrust;Ponze;8h 49m 53s ;31793.95
+NPC;-LOCAL;0;0;6391;CoraVault;Lins;8h 53m 52s ;32032.93

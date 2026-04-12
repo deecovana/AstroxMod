@@ -27,3 +27,4 @@ NPC;+PRICE;25;0;2729.989;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;+STOCK;92;24;7336.37;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+LOCAL;25;26;2275;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-LOCAL;0;0;17500;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+LOCAL;25;53;2275;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54

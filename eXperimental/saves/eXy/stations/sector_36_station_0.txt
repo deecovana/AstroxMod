@@ -37,6 +37,7 @@ MERC;4;0.93;npc_ship_data_(battle_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;For Sale: (1) Items ;304x264;109173;76946.31
 ITEM;1013;7;1.14
 ITEM;1121;17;0.85
 ITEM;1112;29;0.61
