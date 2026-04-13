@@ -9,3 +9,5 @@ NPC;+PRICE;10;0;33732.23;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;-LOCAL;16;16;30318.75;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;5;0;30318.75;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;17;17;30318.75;CoraVault;Lins;8h 53m 52s ;32032.93
+NPC;+STOCK;18;8;33313.46;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;63;11;32742.95;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

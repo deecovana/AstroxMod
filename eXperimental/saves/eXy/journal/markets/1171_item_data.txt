@@ -11,3 +11,6 @@ NPC;BAL;11;-11;8960.782;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-LOCAL;10;10;9450;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;4;0;9450;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;0;0;21000;CoraVault;Lins;8h 53m 52s ;32032.93
+NPC;+PRICE;85;0;6794.959;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;46;8;8240.186;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;115;8;10303.95;Biomate University;Void Starcross;12h 15m 59s ;44159.89

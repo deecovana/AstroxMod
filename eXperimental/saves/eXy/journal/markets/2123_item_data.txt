@@ -9,3 +9,11 @@ NPC;+STOCK;61;2;5210144;Starbase Corporate Center;Void Starcross;5h 37m 58s ;202
 NPC;+STOCK;457;2;6693355;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;455;-2;6366986;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;206;0;4564845;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;62;-1;5822614;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;-PRICE;270;0;3686168;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;101;0;5498374;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+PRICE;195;0;7010831;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;208;2;4243249;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;0;99;4800879;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;112;2;4683210;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;490;2;3046921;Biomate University;Void Starcross;12h 15m 59s ;44159.89

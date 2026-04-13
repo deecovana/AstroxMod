@@ -15,3 +15,8 @@ NPC;+PRICE;1060;0;3.087116;StarShepards Headquarters;Void Starcross;6h 48m 22s ;
 NPC;+STOCK;1007;216;2.878453;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+STOCK;357;228;2.48692;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+LOCAL;250;685;0.84175;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+LOCAL;250;1671;0.84175;Mazu Starship;Volox;9h 42m 16s ;34936.92
+NPC;-PRICE;974;0;1.776696;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;1307;247;3.039114;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;495;184;1.421243;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;486;226;1.413278;Biomate University;Void Starcross;12h 15m 59s ;44159.89

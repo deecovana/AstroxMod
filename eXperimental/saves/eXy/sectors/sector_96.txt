@@ -4,7 +4,7 @@ SECTOR;name;Arch of Mori
 SECTOR;level;8.9
 SECTOR;faction;Temple
 SECTOR;filename;sector_96.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -63,17 +63,17 @@ STARLIGHT;color_5;0.00;0.08;0.09;0.00
 // STATION;Sector filename;X poisition;Y position;Z position
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;637.097;98.56665;-3583.199
+STRUCTURE;structure_habitat_1.txt;637.10;98.57;-3583.20
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;20;10;100;1000;1212.1;1.9;-2529.3;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;574.2;386.8;-931.0;1000;1000;
+RESOURCE;1;574.2;386.8;-931.0;1000;1000
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
 WARPGATE;1;sector_95.txt;1;2671.9;647.1;-1407.4;0;Temple;0.0
-WARPGATE;2;sector_99.txt;1;-1546.9;324.4;-4774.7;0;Temple;0.0
+WARPGATE;2;sector_99.txt;1;-1546.9;324.4;-4774.7;0;Temple;0.0;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 //PROP;0;0;0;0;0;0;0;lightning 1
@@ -88,3 +88,5 @@ NPC_SHIP;npc_ship_data_(excavation_shuttle_1);-301.72;-654.75;-838.25;17;2
 NPC_SHIP;npc_ship_data_(recon_carrier_1);-393.30;-1098.54;733.11;3;4
 NPC_SHIP;npc_ship_data_(transport_carrier_1);-313.47;1329.54;166.95;11;5
 
+
+// CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty

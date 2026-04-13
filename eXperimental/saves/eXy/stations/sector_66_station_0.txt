@@ -43,6 +43,8 @@ MERC;8;0.50;npc_ship_data_(transport_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Surplus: (1) Items ;62x892;231472;117518.00
+SELLORDER;Market Items: (2) Items ;62x929,51x129;452183;96133.03
 SELLORDER;Market Surplus: (1) Items ;41x225;4341;42197.25
 SELLORDER;Market Production: (4) Items ;75x467,51x181,75x253,61x327;165402;46407.52
 SELLORDER;Market Production: (1) Items ;50x112;3801;28443.52

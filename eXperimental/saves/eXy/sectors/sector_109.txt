@@ -4,7 +4,7 @@ SECTOR;name;Capital Void
 SECTOR;level;3.9
 SECTOR;faction;Temple
 SECTOR;filename;sector_109.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;10
 SECTOR;habitation;12
@@ -61,27 +61,27 @@ STARLIGHT;color_4;0.40;0.21;0.20;0.45
 STARLIGHT;color_5;0.50;0.18;0.30;0.30
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_109_station_0.txt;-3260.4;24.2;2194.3
+STATION;sector_109_station_0.txt;-3260.4;24.2;2194.3;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;637.097;98.56665;-3583.199
+STRUCTURE;structure_habitat_1.txt;637.10;98.57;-3583.20
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;10;50;10;100;4000;4544.8;-1079.5;3514.9;
 CLUSTER;9;150;10;100;12000;0;0;0;
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;9;4544.8;-1079.5;3514.9;1000.0;1000.0
-RESOURCE;9;2664.8;-1267.1;1882.5;300.0;300.0
-RESOURCE;9;2089.7;-1263.1;-758.2;300.0;300.0
-RESOURCE;9;3234.5;-1792.2;571.1;300.0;300.0
-RESOURCE;9;2492.7;-1315.7;-1504.1;300.0;300.0
-RESOURCE;9;2761.9;-1163.2;1124.6;300.0;300.0
-RESOURCE;9;2565.2;-2426.9;299.3;300.0;300.0
-RESOURCE;9;4461.5;-501.7;4063.1;300.0;300.0
-RESOURCE;9;3297.7;-582.8;1114.6;300.0;300.0
+RESOURCE;9;4544.8;-1079.5;3514.9;1000;1000
+RESOURCE;9;2664.8;-1267.1;1882.5;300;300
+RESOURCE;9;2094.4;-1264.0;-757.6;300;215
+RESOURCE;9;3234.5;-1792.2;571.1;300;300
+RESOURCE;9;2492.7;-1315.7;-1504.1;300;300
+RESOURCE;9;2761.9;-1163.2;1124.6;300;300
+RESOURCE;9;2565.2;-2426.9;299.3;300;300
+RESOURCE;9;4461.5;-501.7;4063.1;300;300
+RESOURCE;9;3297.7;-582.8;1114.6;300;300
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_105.txt;2;-3286.3;1.7;-1687.8;0;Temple;-0.7
+WARPGATE;1;sector_105.txt;2;-3286.3;1.7;-1687.8;0;Temple;-0.7;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 //PROP;0;0;0;0;0;0;0;lightning 1
@@ -97,3 +97,5 @@ NPC_SHIP;npc_ship_data_(excavation_utility_1);-781.98;-1091.41;5.05;13;10
 NPC_SHIP;npc_ship_data_(transport_cruiser_1);-318.04;-320.48;455.87;16;5
 NPC_SHIP;npc_ship_data_(support_utility_1);-154.39;-771.10;7.82;10;2
 
+
+// CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty

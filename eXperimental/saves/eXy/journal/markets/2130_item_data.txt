@@ -9,3 +9,6 @@ NPC;BAL;343;-2;8918.91;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;69;0;16294.52;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;0;99;14859.81;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-QTY;0;0;14912.81;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;BAL;50;-2;7896.537;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;+STOCK;71;2;15569.82;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;187;2;11613.86;Biomate University;Void Starcross;12h 15m 59s ;44159.89

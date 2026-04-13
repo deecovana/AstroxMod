@@ -17,3 +17,6 @@ NPC;+PRICE;173;0;55.68675;StarShepards Headquarters;Void Starcross;6h 48m 22s ;2
 NPC;-PRICE;131;0;59.94775;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;-LOCAL;3;3;56.95875;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-LOCAL;26;26;56.95875;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-PRICE;69;0;38.57648;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;69;0;37.67971;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;0;0;126.575;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09

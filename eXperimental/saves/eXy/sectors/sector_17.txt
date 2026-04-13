@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;17
 SECTOR;name;Rats Of Mortalis
-SECTOR;level;9
+SECTOR;level;8.8
 SECTOR;faction;Alpha
 SECTOR;filename;sector_17.txt
 SECTOR;is_explored;False

@@ -14,3 +14,7 @@ PLAYER;+QTY;20;1;8753.828;StarGypsy Warehouse;Void Starcross;6h 49m 20s ;24560.0
 NPC;-QTY;0;-3;7719.141;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 PLAYER;+QTY;4;1;8839.141;Quantex;Dellis Primeria;7h 2m 58s ;25378.89
 NPC;+PRICE;3;0;6467.604;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+NPC;-PRICE;16;0;8737.248;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;16;0;8495.826;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;36;3;8689.551;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;50;3;5496.83;Biomate University;Void Starcross;12h 15m 59s ;44159.89

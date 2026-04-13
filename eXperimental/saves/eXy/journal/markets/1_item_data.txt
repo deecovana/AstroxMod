@@ -33,3 +33,8 @@ NPC;-PRICE;207;0;11.35044;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;+PRICE;72;0;6.814712;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 NPC;-LOCAL;1092;0;7.875;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 PLAYER;+QTY;8274;2785;4.512856;Biomate University;Void Starcross;8h 10m 6s ;29406.53
+NPC;-LOCAL;3;0;9.135;Vita Assembly;Capital Void;10h 32m 49s ;37969.92
+NPC;+PRICE;275;0;5.466488;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;4511;3599;7.843841;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;9058;3879;4.296064;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;11991;3717;4.235191;Biomate University;Void Starcross;12h 15m 59s ;44159.89

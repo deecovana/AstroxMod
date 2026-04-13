@@ -9,3 +9,4 @@ NPC;BAL;51;-101;50.53278;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-PRICE;3;0;27.07301;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;+STOCK;664;147;28.14841;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-QTY;419;-135;44.81761;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;BAL;33;-146;41.86511;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39

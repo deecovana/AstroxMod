@@ -9,3 +9,7 @@ NPC;+STOCK;13;11;20511.14;Starbase Corporate Center;Void Starcross;5h 37m 58s ;2
 NPC;+PRICE;52;0;30338.11;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;6;0;35945.18;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;-LOCAL;0;0;75000;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
+NPC;-LOCAL;57;57;34006.98;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-LOCAL;0;0;43172.29;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+PRICE;0;0;56125.98;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;-LOCAL;77;77;33750;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

@@ -15,3 +15,7 @@ NPC;-LOCAL;10;10;2875.95;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;0;0;2902.066;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;0;0;6391;CoraVault;Lins;8h 53m 52s ;32032.93
 NPC;+LOCAL;41;10;2455.593;Lammassu Hub;Numbu;9h 18m 41s ;33521.09
+NPC;-PRICE;52;0;2932.247;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;1020;972;3378.419;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;1570;670;1840.692;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;895;869;2094.579;Biomate University;Void Starcross;12h 15m 59s ;44159.89

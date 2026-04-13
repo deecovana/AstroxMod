@@ -6,3 +6,6 @@ NPC;+STOCK;83;17;33335.32;StarShepards Headquarters;Void Starcross;5h 37m 58s ;2
 NPC;+PRICE;30;0;15571.87;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;66;0;35237.28;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;62;18;25159.36;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+STOCK;82;16;33844.81;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;85;18;29811.32;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;53;23;15208.83;Biomate University;Void Starcross;12h 15m 59s ;44159.89

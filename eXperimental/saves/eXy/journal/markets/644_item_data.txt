@@ -8,3 +8,5 @@ NPC;+PRICE;21;0;59403.36;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;43;0;67299.41;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;21;3;33520.72;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 PLAYER;-QTY;0;1;64819.04;Lammassu Hub;Numbu;9h 20m 55s ;33655.32
+NPC;+STOCK;46;3;65580.15;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;25;4;57884.45;Biomate University;Void Starcross;12h 15m 59s ;44159.89

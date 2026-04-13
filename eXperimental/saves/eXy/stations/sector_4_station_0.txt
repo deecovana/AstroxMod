@@ -42,7 +42,8 @@ MERC;1;0.75;npc_ship_data_(pirate_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-BUYORDER;Market Needs Goods: (2) Items ;312x135,404x27;10344.00;55307.93
+SELLORDER;Market Stock: (1) Items ;2042x178;316477;44079.37
+
 ITEM;1451;7;0.54;16317.45
 ITEM;1;327;1.14;8.64
 ITEM;41;100;1.01;55.88
@@ -282,6 +283,7 @@ MISSION;90;90;621663;KILL_PILOT#sector_41_station_0.txt#sector_15.txt#Czar Faeje
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;0.8905023;ship_data_(StinVec_SOLV_B_EDN1_StellarDragon).txt
 SHIP;1;0.93;ship_data_(battle_utility_1).txt
 SHIP;2;1.01;ship_data_(excavation_utility_1).txt
 SHIP;3;1.04;ship_data_(support_shuttle_1).txt

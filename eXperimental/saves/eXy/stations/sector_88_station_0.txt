@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;4-6-0-5-7-0-9-1-7-2-0-6-1-6-4-0-8-1-4-3-0-1-90
 STATION;interior_seed;3-3-0-7
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;42644.58
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;False
@@ -164,6 +167,11 @@ SKILL;59;1.79
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;81;60;869962;RECOVER#2#1620#sector_57.txt#sector_16_station_0.txt#null#null#null#null;Locate a light <color='yellow'>Crate</color> in the <color='cyan'>Ponze</color> sector, and return to Rendo Labs in <color='cyan'>Entropy</color>;8;<i>Nortisbeck Mastarris</i> has lost track of a shipment crate from his last haul. It has been reported found in <color='cyan'>Ponze</color>. In an effort to save time, <i>Nortisbeck Mastarris</i> has sub-contracted the task of returning the light shipment to Rendo Labs in <color='cyan'>Entropy</color>. The Sovereign faction is aware of the situation and has sent a representative to Rendo Labs.;26424;11814
+MISSION;62;45;630447;HARVEST#115#5#sector_69.txt#sector_107_station_0.txt#null#null#null#null;Excavate special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Dorando Corridor</color> and return with <color='yellow'>115</color> to RestJag Outlet in <color='cyan'>Daefore</color>;6;<i>Boreno Lombast</i> has discovered a light deposit of <color='yellow'>Special Torim Ore</color> in <color='cyan'>Dorando Corridor</color>. He is currently unable to mine the <color='yellow'>Special Torim Ore</color>, and has requested a pilot to head over and harvest the <color='yellow'>115</color> <color='yellow'>Special Torim Ore</color>. Once complete, head over and meet <i>Boreno Lombast</i> at the RestJag Outlet station located in the <color='cyan'>Daefore</color>.;54646;27564
+MISSION;93;90;168823;KILL_PILOT#sector_69_station_1.txt#sector_82.txt#Major Falldemi Jalisleaweli#npc_ship_data_(battle_carrier_1)#10#null#null#null;Frag <color='yellow'><i>Major Falldemi Jalisleaweli</i></color>, in <color='cyan'>Kidd Overture</color> and return to Oak Industries in <color='cyan'>Dorando Corridor</color>;6;An intermediate level pilot has been sentenced by ASP for extermination. <color='yellow'><i>Major Falldemi Jalisleaweli</i></color>, found guilty of raiding, and murder, has been hanging out in the <color='cyan'>Kidd Overture</color> system. When complete, return to the Oak Industries station in the <color='cyan'>Dorando Corridor</color> system. The Pirate's will be very happy to hear of <color='yellow'><i>Major Falldemi Jalisleaweli</i></color>'s demise.;73557;20098
+MISSION;61;45;234476;HARVEST#73#1#sector_3.txt#sector_62_station_0.txt#null#null#null#null;Mine special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>73</color> to Valuestar Hub in <color='cyan'>Jelumus</color>;6;While collecting some junk in the <color='cyan'>Starfort Ramos</color> system, <i>Lockigore Fallpeasev</i> discovered a light haul of <color='yellow'>73</color> <color='yellow'>Special Adamyte Ore</color>. Unable to collect the material alone, <i>Lockigore Fallpeasev</i> has requested that a capable pilot harvest the <color='yellow'>Special Adamyte Ore</color> and drop it off at the Valuestar Hub station located in the <color='cyan'>Jelumus</color>.;25223;10830
+MISSION;154;120;104542;FABRICATE#19#2343#sector_86_station_0.txt#sector_77_station_0.txt#null#null#null#null;Manufacture a medium crate of <color='yellow'>19</color> <color='yellow'>Fasteners</color> in <color='cyan'>Jonisae</color> at the Stinkfinger fabricator;7;Outlaw Manufacturing facilities have requested a medium production run of <color='yellow'>19</color> <color='yellow'>Fasteners</color>. <i>Foemi Timfastate</i> will meet you at the Stinkfinger Station fabricator in <color='cyan'>Jonisae</color> to sign for the product.;139511;57446
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -177,3 +185,5 @@ SHIP;7;0.99;ship_data_(pirate_utility_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
+

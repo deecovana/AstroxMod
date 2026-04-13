@@ -24,3 +24,5 @@ NPC;+LOCAL;15;12;1950;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.
 PLAYER;-QTY;5;9;6856.406;Daemon Ammunitions;Starfort Ramos;7h 50m 57s ;28257.2
 PLAYER;-QTY;0;5;6916.406;Daemon Ammunitions;Starfort Ramos;7h 51m 35s ;28295.27
 PLAYER;+QTY;58;5;4948.163;Biomate University;Void Starcross;7h 53m 56s ;28436.48
+NPC;+STOCK;121;11;7847.823;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;68;10;4575.39;Biomate University;Void Starcross;12h 15m 59s ;44159.89

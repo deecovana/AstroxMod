@@ -5,3 +5,6 @@ NPC;+STOCK;238;116;883.0314;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278
 NPC;+STOCK;430;128;951.9622;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;774;142;677.7902;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;969;0;481.308;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;811;0;948.3438;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;362;124;838.6456;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1069;100;454.5334;Biomate University;Void Starcross;12h 15m 59s ;44159.89

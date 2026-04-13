@@ -14,3 +14,9 @@ NPC;+PRICE;464;0;670.3191;StarShepards Headquarters;Void Starcross;6h 48m 22s ;2
 NPC;-LOCAL;0;0;1267.225;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;-LOCAL;22;22;570.2512;Rendo Labs;Entropy;7h 21m 12s ;26472.57
 NPC;-LOCAL;0;0;1267.225;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+PRICE;14;0;620.3608;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;-LOCAL;0;0;680.1933;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+QTY;3748;3238;372.1618;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;-PRICE;419;0;375.5553;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+STOCK;4486;4022;653.5189;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;4093;3506;443.2995;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

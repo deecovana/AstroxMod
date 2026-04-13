@@ -1,2 +1,4 @@
 NPC;-QTY;3;-2;47768.85;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+STOCK;50;2;45627.09;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-PRICE;31;0;36624.39;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;31;0;35442.8;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82

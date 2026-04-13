@@ -4,3 +4,5 @@ NPC;-QTY;385;-1;12245.16;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10
 NPC;+STOCK;26;2;10613.36;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;387;2;12028.52;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;24;0;11533.42;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;143;0;11029.44;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;441;0;7336.516;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39

@@ -18,3 +18,6 @@ NPC;+LOCAL;15;15;1950;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698
 NPC;+LOCAL;15;9;1950;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 PLAYER;-QTY;5;1;4843.875;OmniTrust;Ponze;8h 47m 17s ;31637.44
 PLAYER;-QTY;0;5;4903.875;OmniTrust;Ponze;8h 47m 29s ;31649.46
+NPC;BAL;17;-7;5466.494;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;+QTY;113;12;7765.238;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+STOCK;139;12;7157.644;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

@@ -16,3 +16,10 @@ NPC;-QTY;0;-11;1898.812;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
 NPC;-LOCAL;0;0;6242.5;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;0;0;6242.5;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;0;0;6242.5;CoraVault;Lins;8h 53m 52s ;32032.93
+NPC;-PRICE;23;0;2224.625;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;23;0;2149.45;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;82;0;1970.767;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+PRICE;14;0;3159.169;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;691;683;1558.379;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;734;700;2538.869;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1527;723;1635.616;Biomate University;Void Starcross;12h 15m 59s ;44159.89

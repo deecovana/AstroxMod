@@ -9,3 +9,5 @@ NPC;+STOCK;105;11;26569.85;Biomate University;Void Starcross;5h 37m 58s ;20278.1
 NPC;+QTY;23;9;19125.31;Mazu Starship;Volox;5h 48m 35s ;20915.76
 NPC;+PRICE;105;0;27413.41;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;-LOCAL;27;27;28074.52;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
+NPC;+PRICE;2;0;25256.31;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;115;10;26741.28;Biomate University;Void Starcross;12h 15m 59s ;44159.89

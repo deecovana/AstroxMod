@@ -15,3 +15,5 @@ NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;7h 9m 25s ;25765.71
 NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;8h 0m 37s ;28837.24
 NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;8h 10m 2s ;29402.51
 NPC;+LOCAL;5;1;81250;Biomate University;Void Starcross;8h 18m 46s ;29926.68
+NPC;+PRICE;147;0;163720.4;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;123;3;293721.4;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

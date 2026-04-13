@@ -24,3 +24,7 @@ NPC;+LOCAL;25;40;23400;Lammassu Financial;Void Starcross;6h 40m 21s ;24021.76
 NPC;+PRICE;25;0;27947.75;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-LOCAL;0;0;180000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
 NPC;+LOCAL;25;38;23400;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-LOCAL;0;0;95176.45;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+STOCK;42;17;25880.46;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+LOCAL;25;93;23400;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+LOCAL;25;54;23400;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09

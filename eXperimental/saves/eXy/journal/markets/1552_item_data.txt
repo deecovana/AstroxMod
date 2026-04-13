@@ -4,3 +4,6 @@ PLAYER;-QTY;60;1;125570.6;StarShepards Headquarters;Void Starcross;6h 32m 14s ;2
 NPC;+PRICE;60;0;130519.9;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;8;8;181031.3;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;7h 56m 16s ;28576.75
+NPC;-PRICE;55;0;125365.8;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;9;0;125127;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;70;10;126657.9;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

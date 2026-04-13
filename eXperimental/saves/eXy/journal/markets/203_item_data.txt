@@ -2,3 +2,6 @@ NPC;+STOCK;615;136;59.97787;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.
 NPC;+PRICE;46;0;86.11211;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;BAL;149;0;85.4071;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;BAL;25;-128;105.7323;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;-PRICE;202;0;94.40946;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;202;0;93.28668;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;409;0;93.30676;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39

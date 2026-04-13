@@ -65,13 +65,13 @@ STARLIGHT;color_5;0.00;0.23;0.16;0.78
 STATION;sector_41_station_0.txt;4027;-683;849;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_medical_1.txt;2078.00;388.00;1398.00
-STRUCTURE;structure_recon_1.txt;3808.00;958.00;-262.00
-STRUCTURE;structure_farm_1.txt;-646.00;136.00;401.00
-STRUCTURE;structure_storage_1.txt;1578.00;48.00;495.00
-STRUCTURE;structure_office_1.txt;1606.00;229.00;160.00
-STRUCTURE;structure_energy_gen_1.txt;1361.00;458.00;726.00
 STRUCTURE;structure_habitat_1.txt;3731.00;79.00;-321.00
+STRUCTURE;structure_energy_gen_1.txt;1361.00;458.00;726.00
+STRUCTURE;structure_office_1.txt;1606.00;229.00;160.00
+STRUCTURE;structure_storage_1.txt;1578.00;48.00;495.00
+STRUCTURE;structure_farm_1.txt;-646.00;136.00;401.00
+STRUCTURE;structure_recon_1.txt;3808.00;958.00;-262.00
+STRUCTURE;structure_medical_1.txt;2078.00;388.00;1398.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;5;50;50;250;3000;-3126;0;-4902

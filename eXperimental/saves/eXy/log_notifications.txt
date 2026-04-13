@@ -1,47 +1,47 @@
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+dock_fee.png;Desban Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Desban station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+max_targets.png;Maximum Targets Acquired;Your ship's targeting computer has reached the maximum number of targets it can retain at once. Remove an item from your targeting panel before attempting to target another object.
 //;LOG DATA FILE (Astrox Imperium)
 shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_raider_kill.png;The raider Peiwit Bormadbue has been dispatched.;The lowly criminal will not be bother anyone any longer. With the destruction of his stolen ATC Arrow, all that remains is his memory. The Law rating has raised +0.25
 //;LOG DATA FILE (Astrox Imperium)
 shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
 //;LOG DATA FILE (Astrox Imperium)
 shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+//;LOG DATA FILE (Astrox Imperium)
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
+//;LOG DATA FILE (Astrox Imperium)
 shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
-modules_on.png;Modules Online;All active modules have been activated and are currently online.
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
 //;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
 //;LOG DATA FILE (Astrox Imperium)
-gamespeed_1.png;Game speed Normal;The gamespeed has been set to normal speed. (x1) 
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
-gamespeed_0.png;Game speed Paused;The gamespeed has been set to normal speed. (x0) 
+notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
 //;LOG DATA FILE (Astrox Imperium)
-drones.png;Cannot Launch drone.;Your ship does not have an available drone bay to control this drone.
+notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
 //;LOG DATA FILE (Astrox Imperium)
-gamespeed_0.png;Game speed Paused;The gamespeed has been set to normal speed. (x0) 
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
-drones.png;Cannot Launch drone.;Your ship does not have an available drone bay to control this drone.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Lammassu Hub Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Lammassu Hub station.
-//;LOG DATA FILE (Astrox Imperium)
-gamespeed_1.png;Game speed Normal;The gamespeed has been set to normal speed. (x1) 
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
 event_raider_alert.png;Raiders have been detected.;Raiders have been detected in this area. It is recommended that you dock and seek protection until this raider is removed from the sector.
 //;LOG DATA FILE (Astrox Imperium)
-energy_charge_1.png;Used the Medium Energy Charge;You have used the Medium Energy Charge item. It's effects have been deployed.
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
-sp_adjusted.png;+2 Skill Points Acquired.;Your time spent undocked has helped you to improve your skills. +2 skill points have been awarded to your pilot for use at the university.
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)
-drones.png;Engage Selected Target.;All selected drones will engage your current target.
-//;LOG DATA FILE (Astrox Imperium)
-energy_charge_1.png;Used the Medium Energy Charge;You have used the Medium Energy Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-modules_targets.png;All Modules to Target;All powered modules have been assigned the ship's current target.
-//;LOG DATA FILE (Astrox Imperium)
-drones.png;Small Tractor Drone has been launched.;The drone has been launched, and a command connection has been established.
+shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
 //;LOG DATA FILE (Astrox Imperium)

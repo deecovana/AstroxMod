@@ -19,3 +19,5 @@ NPC;-QTY;8;-7;6196.406;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+LOCAL;15;9;1950;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 PLAYER;-QTY;0;8;6196.406;Daemon Ammunitions;Starfort Ramos;7h 51m 17s ;28277.22
 PLAYER;-QTY;96;1;6148.163;Biomate University;Void Starcross;7h 54m 11s ;28451.52
+NPC;+PRICE;112;0;7542.548;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;107;11;5998.829;Biomate University;Void Starcross;12h 15m 59s ;44159.89

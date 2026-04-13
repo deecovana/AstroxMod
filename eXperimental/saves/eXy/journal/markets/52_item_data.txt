@@ -20,3 +20,8 @@ NPC;+LOCAL;2500;8501;61.698;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;-LOCAL;50;50;213.57;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-QTY;0;0;422.4978;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
 NPC;-LOCAL;946;0;213.57;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-PRICE;69;0;155.092;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+QTY;2234;2234;421.0191;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+LOCAL;92;8;122.2147;Stinkfinger;Jonisae;11h 39m 6s ;41946.55
+NPC;+STOCK;2531;2266;196.591;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;33;33;213.57;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09

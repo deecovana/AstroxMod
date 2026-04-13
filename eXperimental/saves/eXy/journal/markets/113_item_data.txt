@@ -11,3 +11,12 @@ NPC;BAL;547;-154;7.622468;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;1215;0;6.832191;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;-QTY;532;-189;7.226821;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
 NPC;+LOCAL;250;875;2.09625;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;-PRICE;499;0;4.896253;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;499;0;4.786716;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;238;0;4.27902;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+LOCAL;250;21;6.68636;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+QTY;715;183;7.18663;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+PRICE;542;0;6.074834;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;1012;204;7.275479;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;692;191;8.073436;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1456;241;6.533568;Biomate University;Void Starcross;12h 15m 59s ;44159.89

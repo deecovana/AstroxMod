@@ -30,3 +30,11 @@ NPC;-QTY;0;0;204177.8;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+LOCAL;25;120;20475;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;29;29;70875;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
 NPC;+LOCAL;25;47;20475;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-PRICE;57;0;50316.93;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;67;0;75285;Kith;Kidd Overture;11h 16m 17s ;40577.67
+NPC;-LOCAL;43;0;72330.61;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+QTY;46;21;42474.99;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+PRICE;162;0;72036.32;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+LOCAL;25;117;20475;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+LOCAL;25;71;20475;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;174;22;60379.2;Biomate University;Void Starcross;12h 15m 59s ;44159.89

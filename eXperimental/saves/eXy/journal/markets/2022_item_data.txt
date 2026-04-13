@@ -1,3 +1,5 @@
 NPC;+LOCAL;60;28;767.7213;Imperium Republica ;Gate of Alpharis;1h 51m 16s ;6676.245
 NPC;+STOCK;539;135;880.075;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;379;119;889.0519;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;+PRICE;474;0;748.6151;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;503;124;851.6437;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

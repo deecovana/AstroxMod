@@ -7,3 +7,7 @@ NPC;+STOCK;20;9;6060.69;Starbase Corporate Center;Void Starcross;5h 37m 58s ;202
 NPC;+STOCK;65;11;5240.202;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;-PRICE;28;0;4362.612;Gunstellar;Adrenal;6h 18m 15s ;22695.92
 NPC;-QTY;13;-9;6389.141;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+PLAYER;-QTY;27;2;5733.416;SimKitten;Kolkax Prime;11h 9m 59s ;40199.03
+PLAYER;+QTY;28;1;5803.394;SimKitten;Kolkax Prime;11h 28m 55s ;41335.24
+PLAYER;+QTY;29;1;5663.394;SimKitten;Kolkax Prime;11h 29m 17s ;41357.55
+NPC;+STOCK;79;10;8860.27;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

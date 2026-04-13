@@ -16,3 +16,9 @@ NPC;BAL;26;0;89.98598;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-PRICE;22;0;97.90495;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;-LOCAL;8;8;111.9938;Rendo Labs;Entropy;7h 21m 12s ;26472.57
 NPC;-LOCAL;0;0;115.9758;Star Shepards Hub;Temple Gates;7h 28m 51s ;26931.18
+NPC;-LOCAL;0;0;248.875;Mazu Starship;Volox;9h 42m 16s ;34936.92
+NPC;BAL;9;0;120.8244;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;-PRICE;4;0;91.38773;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;1035;953;92.4459;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;1494;747;109.0378;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1842;981;76.65887;Biomate University;Void Starcross;12h 15m 59s ;44159.89

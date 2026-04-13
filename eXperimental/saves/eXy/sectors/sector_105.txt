@@ -4,7 +4,7 @@ SECTOR;name;Astrelia Gentris
 SECTOR;level;3.1
 SECTOR;faction;Temple
 SECTOR;filename;sector_105.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -13,7 +13,7 @@ SECTOR;economy;20
 SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
-SECTOR;event_type;resources#14305#20#2
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;Value
 SECTORXYZ;location;322.62;214.5244;-2279.027
@@ -63,11 +63,11 @@ STARLIGHT;color_5;0.20;0.28;0.30;0.70
 // STATION;Sector filename;X poisition;Y position;Z position
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;1765.9;161.9;-688.5
-STRUCTURE;structure_energy_gen_1.txt;1888.1;106.2;19.4
-STRUCTURE;structure_recon_1.txt;1745.6;749.9;48.5
-STRUCTURE;structure_medical_1.txt;1870.1;320.9;430.0
-STRUCTURE;structure_gun_platform_1.txt;2317.4;431.4;-26.8
+STRUCTURE;structure_habitat_1.txt;1765.90;161.90;-688.50
+STRUCTURE;structure_energy_gen_1.txt;1888.10;106.20;19.40
+STRUCTURE;structure_recon_1.txt;1745.60;749.90;48.50
+STRUCTURE;structure_medical_1.txt;1870.10;320.90;430.00
+STRUCTURE;structure_gun_platform_1.txt;2317.40;431.40;-26.80
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;10;20;10;100;1000;-1900.2;117.3;-1358.9;
@@ -75,14 +75,14 @@ CLUSTER;10;20;10;100;1000;822.7;1265.9;520.0;
 CLUSTER;10;20;10;100;1000;-568.3;795.5;-523.0;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;10;-1900.2;117.3;-1358.9;500.0;500.0
-RESOURCE;10;-568.3;795.5;-523.0;500.0;500.0
-RESOURCE;10;822.7;1265.9;520.0;500.0;500.0
+RESOURCE;10;-1815.1;127.9;-1369.0;500;412
+RESOURCE;10;-579.3;793.3;-525.5;500;489
+RESOURCE;10;896.5;1251.7;346.7;500;477
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_106.txt;2;2724.2;-7.4;1515.5;0;Temple;-0.7
-WARPGATE;2;sector_109.txt;1;-2461.4;257.6;1991.5;0;Temple;0.8
-WARPGATE;3;sector_108.txt;1;2800.5;-105.2;-1498.3;0;Temple;-0.5
+WARPGATE;1;sector_106.txt;2;2724.2;-7.4;1515.5;0;Temple;-0.7;prescan
+WARPGATE;2;sector_109.txt;1;-2461.4;257.6;1991.5;0;Temple;0.8;prescan
+WARPGATE;3;sector_108.txt;1;2800.5;-105.2;-1498.3;0;Temple;-0.5;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 //PROP;0;0;0;0;0;0;0;lightning 1
@@ -103,3 +103,5 @@ NPC_SHIP;npc_ship_data_(recon_shuttle_1);743.65;50.50;1112.41;5;7
 NPC_SHIP;npc_ship_data_(recon_carrier_1);-1005.77;-356.90;-579.62;8;8
 NPC_SHIP;npc_ship_data_(excavation_utility_1);-653.20;136.84;-713.02;16;10
 
+
+// CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty

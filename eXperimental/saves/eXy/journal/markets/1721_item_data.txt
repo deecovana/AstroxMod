@@ -1,3 +1,4 @@
 NPC;+STOCK;74;8;21322.36;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
 NPC;-QTY;60;-6;21862.89;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+STOCK;60;11;16583.07;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;+LOCAL;12;35;8125;Tella's;Bitcola;10h 5m 33s ;36333.38

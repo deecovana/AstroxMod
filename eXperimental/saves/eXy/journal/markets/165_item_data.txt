@@ -5,3 +5,5 @@ NPC;+STOCK;575;146;63.46828;Biomate University;Void Starcross;5h 37m 58s ;20278.
 NPC;+STOCK;661;128;54.09177;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;575;0;65.35152;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;247;107;63.31896;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+STOCK;788;127;52.65942;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;704;129;63.48441;Biomate University;Void Starcross;12h 15m 59s ;44159.89

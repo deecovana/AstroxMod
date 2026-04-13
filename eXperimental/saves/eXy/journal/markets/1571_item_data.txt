@@ -1,3 +1,8 @@
 NPC;+STOCK;9;9;80194.76;Tella's;Bitcola;2h 36m 58s ;9418.72
 NPC;+PRICE;24;0;61070.27;CoraVault;Lins;4h 31m 45s ;16305.97
 NPC;+STOCK;36;11;64174.78;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
+NPC;-LOCAL;13;13;58500;Tella's;Bitcola;10h 5m 33s ;36333.38
+NPC;-PRICE;2;0;46321.48;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;2;0;44788.46;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;50;0;56640.22;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;10;0;68215.99;Temple of the Void;Vindicati;11h 50m 16s ;42616.5

@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;3-8-0-7-1-2-8-0-5-7-3-3-1-6-1-2-0-0
 STATION;interior_seed;3-5-0-9
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;39591.03
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;False
@@ -221,6 +224,8 @@ SKILL;21;1.14
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;60;45;602790;HARVEST#51#4#sector_13.txt#sector_104_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Lokken Ore</color> in <color='cyan'>Jala</color> and return with <color='yellow'>51</color> ore to Cecil in <color='cyan'>Junia</color>;10;A local prospector, <i>Jelcoo Fiinobel</i> of the Missionary faction has located a light quantity of special <color='yellow'>Special Lokken Ore</color> in the <color='cyan'>Jala</color> sector. Head over there and harvest all of the special <color='yellow'>Special Lokken Ore</color>, and meet <i>Jelcoo Fiinobel</i> back at Cecil station located in the <color='cyan'>Junia</color>.;14411;6188
+MISSION;83;60;352828;RECOVER#1#1553#sector_38.txt#sector_78_station_0.txt#null#null#null#null;Reclaim a medium shipment <color='yellow'>crate</color> in <color='cyan'>Equalias Val</color> and bring back to Tella's in <color='cyan'>Bitcola</color>;11;A medium shipping crate has come up missing from a mining operation move in <color='cyan'>Equalias Val</color>. <i>Homvel Qewit</i> is looking for an able pilot to scoop up the shipment of <color='yellow'>1</color> <color='yellow'>Premium Shield Booster</color>. Once the crate has been recovered, take it to the Tella's station located in the <color='cyan'>Bitcola</color> where <i>Homvel Qewit</i> will be waiting with your payment.;77238;33162
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -233,3 +238,4 @@ SHIP;6;1.00;ship_data_(transport_cruiser_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

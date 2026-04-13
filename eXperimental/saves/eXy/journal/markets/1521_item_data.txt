@@ -4,3 +4,6 @@ NPC;+STOCK;20;9;43739.06;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;36;11;52433.8;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;51;0;46808.51;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;45;11;31123.18;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-PRICE;22;0;26175.23;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;62;11;45210.71;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;46;10;50468.48;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

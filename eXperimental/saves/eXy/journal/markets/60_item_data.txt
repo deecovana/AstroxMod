@@ -21,3 +21,7 @@ NPC;+LOCAL;184;6;93.76718;Astrox Security Patrol;Felishar;7h 0m 45s ;25245.71
 NPC;+LOCAL;2500;8774;36.5625;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;+STOCK;1921;1881;102.6636;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-LOCAL;13;13;129.0091;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-PRICE;72;0;96.0088;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;365;0;135.8459;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;-LOCAL;0;0;281.25;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;4730;2278;141.6143;Biomate University;Void Starcross;12h 15m 59s ;44159.89

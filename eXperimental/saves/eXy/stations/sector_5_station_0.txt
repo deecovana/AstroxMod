@@ -41,6 +41,7 @@ MERC;8;1.00;npc_ship_data_(battle_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Goods: (1) Items ;52x714;68360;111742.00
 SELLORDER;Market Supply: (2) Items ;41x311,51x668;68574;98989.23
 SELLORDER;Market Surplus: (1) Items ;42x83;5718;80297.81
 SELLORDER;Market Inventory: (2) Items ;75x193,52x158;17689;35061.81

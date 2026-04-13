@@ -3,3 +3,8 @@ NPC;-QTY;18;-10;29687.28;PharmaLife;Carioullis;5h 30m 34s ;19834.27
 NPC;+STOCK;64;10;31097.86;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;71;8;28608.77;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;64;0;31521.53;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;20;0;20192.89;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;20;0;19958.65;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;49;0;25788.21;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+STOCK;15;9;16643.86;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;74;10;31270.36;Biomate University;Void Starcross;12h 15m 59s ;44159.89

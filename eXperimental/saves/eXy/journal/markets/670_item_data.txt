@@ -29,3 +29,12 @@ NPC;-LOCAL;0;0;52500;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
 PLAYER;-QTY;23;20;16953.56;CoraVault;Lins;8h 54m 40s ;32080.01
 NPC;+LOCAL;25;35;6825;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
 PLAYER;-QTY;5;20;6453.563;Lammassu Financial;Void Starcross;8h 57m 30s ;32250.86
+PLAYER;-QTY;0;50;16785.23;StarGypsy Warehouse;Void Starcross;9h 46m 25s ;35185.17
+NPC;-LOCAL;0;0;30279.8;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+QTY;62;22;17308.33;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+PRICE;37;0;16074.12;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+LOCAL;25;67;6825;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+STOCK;16;16;16753.7;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+LOCAL;25;46;6825;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;190;18;25706.94;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;-QTY;100;72;26704.39;Biomate University;Void Starcross;12h 21m 30s ;44490.41

@@ -15,3 +15,8 @@ NPC;BAL;3;0;7809.761;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;-QTY;4;-4;7649.141;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+PRICE;1;0;5670.119;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 PLAYER;+QTY;7;1;7508.747;Horizons;Gate of Alpharis;7h 13m 40s ;26020.13
+NPC;+PRICE;33;0;5709.43;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+PRICE;21;0;5508.552;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+PRICE;2;0;9201.498;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;33;3;5498.646;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;29;3;6751.854;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

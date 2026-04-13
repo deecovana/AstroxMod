@@ -31,3 +31,10 @@ NPC;+PRICE;25;0;22058.83;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;+LOCAL;25;105;17550;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;0;0;135000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
 NPC;+LOCAL;25;34;17550;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-LOCAL;6;0;60750;Kith;Kidd Overture;11h 16m 17s ;40577.67
+NPC;-LOCAL;0;0;63282.34;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+PRICE;115;0;32135.72;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;49;24;20572.67;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+LOCAL;25;86;17550;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+LOCAL;25;41;17550;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;84;17;47341.88;Biomate University;Void Starcross;12h 15m 59s ;44159.89

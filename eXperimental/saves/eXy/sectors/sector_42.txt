@@ -4,7 +4,7 @@ SECTOR;name;Ellisar
 SECTOR;level;2.9
 SECTOR;faction;Law
 SECTOR;filename;sector_42.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -49,7 +49,7 @@ STAR;object;1;0;0;10000;1.0;10000
 
 // LIFESUPPORT;type;value
 LIFESUPPORT;food;1.25
-LIFESUPPORT;water;1.454423
+LIFESUPPORT;water;1.359822
 LIFESUPPORT;thermal;1.45
 LIFESUPPORT;waste;1.55
 
@@ -61,12 +61,12 @@ STARLIGHT;color_4;0.20;0.48;0.96;1.00
 STARLIGHT;color_5;0.31;0.20;0.00;0.44
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_42_station_0.txt;186.2222;905.457;-732.3652
+STATION;sector_42_station_0.txt;186.2222;905.457;-732.3652;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
 STRUCTURE;structure_energy_gen_1.txt;98.00;-27.38;-49.57
-STRUCTURE;structure_habitat_1.txt;-716.48;50.99;-624.00
-STRUCTURE;structure_energy_gen_1.txt;-355.09;-10.59;-927.66
+STRUCTURE;structure_habitat_1.txt;-715.55;51.63;-624.35
+STRUCTURE;structure_energy_gen_1.txt;-354.43;-10.61;-928.29
 STRUCTURE;structure_recon_1.txt;-759.20;133.00;-1103.60
 STRUCTURE;structure_medical_1.txt;905.60;112.00;24.10
 STRUCTURE;structure_gun_platform_1.txt;1776.40;310.40;667.30
@@ -81,15 +81,15 @@ STRUCTURE;structure_medical_1.txt;1098.60;244.70;1176.80
 CLUSTER;5;50;50;200;3000;0;0;0;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;5;819.0;-2089.8;-149.2;2000;2000
-RESOURCE;5;-593.9;3069.1;-1059.5;2000;2000
-RESOURCE;5;828.6;2393.1;-778.5;2000;2000
-RESOURCE;5;1004.5;-2313.6;-1550.9;2000;2000
-RESOURCE;5;-365.7;-2347.4;-37.0;2000;2000
+RESOURCE;5;976.5;-1983.9;-359.3;2000;2000
+RESOURCE;5;-804.7;3642.7;-1019.0;2000;1217
+RESOURCE;5;1211.4;2728.6;-899.6;2000;342
+RESOURCE;5;1134.0;-2342.0;-1685.4;2000;2000
+RESOURCE;5;-689.8;-2168.7;123.3;2000;2000
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_37.txt;1;-2244.4;202.5;2665.8;0;law;0.0
-WARPGATE;2;sector_45.txt;1;2165.4;-544.2;819.9;-1;law;0.0;warpgate_42_2.txt;10
+WARPGATE;1;sector_37.txt;1;-2244.4;202.5;2665.8;0;law;0.0;prescan
+WARPGATE;2;sector_45.txt;1;2165.4;-544.2;819.9;-1;law;0.0;warpgate_42_2.txt;10;prescan
 WARPGATE;3;sector_40.txt;3;1979.8;-83.9;-3026.9;0;law;0.0
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1

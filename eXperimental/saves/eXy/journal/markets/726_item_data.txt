@@ -12,3 +12,7 @@ NPC;BAL;54;-12;13008.59;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+LOCAL;15;25;4875;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
 NPC;+LOCAL;15;1;4875;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;+STOCK;23;13;11530.94;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-PRICE;89;0;9906.291;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+LOCAL;15;1;10855.6;Vita Assembly;Capital Void;10h 32m 49s ;37969.92
+NPC;+PRICE;178;0;15422.32;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+PRICE;38;0;13385.45;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5

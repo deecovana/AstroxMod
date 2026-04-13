@@ -19,3 +19,5 @@ NPC;-LOCAL;0;0;5500;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;0;0;5500;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;+STOCK;23;11;1838.952;Biomart;Veloxi;8h 51m 34s ;31894.31
 NPC;-LOCAL;0;0;5500;CoraVault;Lins;8h 53m 52s ;32032.93
+NPC;+STOCK;34;9;1187.975;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;58;8;2306.821;Biomate University;Void Starcross;12h 15m 59s ;44159.89

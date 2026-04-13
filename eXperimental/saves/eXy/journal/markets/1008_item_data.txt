@@ -8,3 +8,6 @@ NPC;+PRICE;40;0;9771.143;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;+PRICE;24;0;5697.075;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;-QTY;18;-7;6319.141;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;-LOCAL;0;0;17500;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
+NPC;BAL;4;0;6370.444;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;+STOCK;49;9;9611.705;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;39;11;5029.268;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

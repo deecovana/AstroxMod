@@ -7,3 +7,4 @@ NPC;+STOCK;677;137;17.58028;StarShepards Headquarters;Void Starcross;5h 37m 58s 
 NPC;+STOCK;479;132;14.05057;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;540;0;18.35512;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-QTY;137;-106;25.78009;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+STOCK;648;108;17.82543;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

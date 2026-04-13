@@ -1,3 +1,4 @@
 NPC;+PRICE;3;0;13384.96;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;17;-2;20791.41;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-QTY;15;-2;20854.69;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+STOCK;5;2;12334.06;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

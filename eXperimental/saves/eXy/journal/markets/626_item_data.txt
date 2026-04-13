@@ -6,3 +6,7 @@ NPC;+STOCK;19;4;118895.8;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20
 NPC;+STOCK;34;4;185328.1;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;32;-2;196101.3;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;14;0;156657.8;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;27;0;104941.5;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;24;0;143501.5;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;18;4;149192.2;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;10;4;243164.7;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

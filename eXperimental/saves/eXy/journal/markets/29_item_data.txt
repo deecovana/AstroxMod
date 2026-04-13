@@ -8,3 +8,7 @@ NPC;BAL;3915;3915;5531.878;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.0
 NPC;-LOCAL;21;21;2801.644;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;-LOCAL;0;0;6225.875;Rendo Labs;Entropy;7h 21m 12s ;26472.57
 NPC;-LOCAL;3375;0;2801.644;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;-PRICE;0;0;4710.576;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;0;0;4570.872;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;0;0;3565.92;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+STOCK;9690;4843;2085.899;Biomate University;Void Starcross;12h 15m 59s ;44159.89

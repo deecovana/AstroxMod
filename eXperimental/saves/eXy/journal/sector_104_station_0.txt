@@ -1,0 +1,80 @@
+[s:30][c:yellow]Cecil[/c][/s]
+Private Jobsite
+Beckak Vajweli
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 37609.55
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Charged Cell
+Medium Shield Charge
+Heavy Shield Charge
+Medium Armor Repair
+Heavy Armor Repair
+Medium Energy Charge
+Heavy Energy Charge
+Medium Life Support Pack
+Large Life Support Pack
+Light Shield Charge
+Light Armor Repair
+Light Energy Charge
+Small Life Support Pack
+[c:orange]DEMAND[/c]
+Aged Wine
+Bottled Whiskey
+Basic Food Rations
+Gourmet Food Rations
+Candy Corn
+Chocolate Bars
+Gummy Bears
+Basic Warp Drive
+Advanced Warp Drive
+Prototype Warp Drive
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Refinery
+Ship Garage
+Ship Hangar
+Storage
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+
+
+<Station Missions>
+[c:lime]KILL RAIDERS[/c]
+Exterminate <color='yellow'>1 Raider</color> Skilled Raider(s) in <color='cyan'>Jelumus</color> and dock at ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]SALVAGE[/c]
+Dismantle <color='yellow'>Special Metal Fragment</color> in <color='cyan'>Jala</color> and return to Oro Omniplex Center in <color='cyan'>Merces Academy</color> with minimum of <color='yellow'>132</color>
+
+[c:lime]FABRICATE[/c]
+Produce a light container of <color='yellow'>6</color> <color='yellow'>Hand Tools</color> at the Astrox Security Patrol fabricator in <color='cyan'>Felishar</color>
+
+[c:lime]DIALOG[/c]
+Arrest <color='yellow'><i>Lieutenant Hinbo Ciean</i></color> over an outstanding warrant in <color='cyan'>The Dunes of Caliph</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>
+
+[c:lime]SCAN[/c]
+Scan the <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Numbu</color> and return to Oak Industries in <color='cyan'>Dorando Corridor</color>
+
+[c:lime]TRANSPORT[/c]
+Transport <color='yellow'>223</color> units of <color='yellow'>Ornaments</color> from Imperium Republica  in <color='cyan'>Gate of Alpharis</color> to Oro Omniplex Center in <color='cyan'>Merces Academy</color>
+
+
+
+<Station Ships>
+PCA-1 Pirate Destroyer / Destroyer    (Battle)
+PC-1 Pirate Utility / Utility    (Excavation)
+RS-1 Translator / Shuttle    (Transport)

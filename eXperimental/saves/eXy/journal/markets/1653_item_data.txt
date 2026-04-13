@@ -2,3 +2,8 @@ NPC;-LOCAL;0;0;225000;StarGypsy Warehouse;Void Starcross;0h 31m 56s ;1916.392
 NPC;-LOCAL;0;0;278958.3;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
 NPC;+STOCK;11;11;273154.6;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;-LOCAL;0;0;500000;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
+NPC;-LOCAL;38;38;225000;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-LOCAL;0;0;317815.2;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+PRICE;0;0;410263.1;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;47;9;281118;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;35;35;225000;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

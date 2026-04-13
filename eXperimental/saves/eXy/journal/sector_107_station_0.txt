@@ -1,0 +1,38 @@
+[s:30][c:yellow]RestJag Outlet[/c][/s]
+Commercial Hub
+Lowpastwhea Zenofaedoe
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 37778.82
+<Station Services>
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Refinery
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station University Skills>
+
+
+<Station Missions>
+[c:lime]KILL RAIDERS[/c]
+Destroy <color='yellow'>1 Raider</color> level 20 Raider(s) in <color='cyan'>Inchina Wel</color> and return to Temple of the Void in <color='cyan'>Vindicati</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> to deliver a light shipment of <color='yellow'>2</color> <color='yellow'>Premium Shield Boosters</color>
+
+[c:lime]DIALOG[/c]
+Transfer a legal document to <color='yellow'><i>Leader Kaddca Welipi</i></color> in <color='cyan'>Cliffs of Drameria</color>. Return with confirmation at Lammassu Hub in <color='cyan'>Numbu</color>
+
+[c:lime]KILL RAIDERS[/c]
+Kill <color='yellow'>1 Raider</color> level 20 Raider Ship(s) in <color='cyan'>Arch of Mori</color>. Return to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+
+
+<Station Ships>

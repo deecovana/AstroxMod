@@ -7,3 +7,7 @@ NPC;+STOCK;52;4;26022.81;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;50;-2;26611.74;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;27;0;49911.64;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;4;0;39686.49;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;+PRICE;2;0;38920.78;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;31;4;48924.08;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;22;3;35586.86;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;17;3;37566.39;Biomate University;Void Starcross;12h 15m 59s ;44159.89

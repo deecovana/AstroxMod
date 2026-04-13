@@ -33,3 +33,7 @@ NPC;+LOCAL;25;88;2600;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;+LOCAL;25;39;2600;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-LOCAL;0;0;20000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
 NPC;+LOCAL;25;34;2600;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-LOCAL;0;0;11215.16;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+STOCK;102;19;7818.791;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+LOCAL;25;71;2600;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;94;19;6232.48;Biomate University;Void Starcross;12h 15m 59s ;44159.89

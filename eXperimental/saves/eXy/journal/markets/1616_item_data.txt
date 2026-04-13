@@ -1,3 +1,5 @@
 NPC;+QTY;25;10;26362.5;Tella's;Bitcola;1h 7m 16s ;4036.768
 NPC;+STOCK;33;8;24929.7;Tella's;Bitcola;2h 36m 58s ;9418.72
 NPC;+STOCK;43;8;25741.47;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
+NPC;-LOCAL;0;0;42750;Scrapdogs;Gemini Els;11h 55m 10s ;42910.18
+NPC;+STOCK;54;11;24321.28;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

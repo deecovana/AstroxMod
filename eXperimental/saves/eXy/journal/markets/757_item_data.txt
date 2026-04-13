@@ -14,3 +14,6 @@ NPC;+LOCAL;15;26;14625;Starbase Corporate Center;Void Starcross;6h 18m 18s ;2269
 NPC;+LOCAL;15;1;14625;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;+PRICE;59;0;35299.29;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;15;9;14625;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+NPC;-PRICE;45;0;53744.47;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;45;0;52957.02;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;71;12;33392.49;Biomate University;Void Starcross;12h 15m 59s ;44159.89

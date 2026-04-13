@@ -6,3 +6,9 @@ NPC;-PRICE;20;0;64093.45;Gunstellar;Adrenal;6h 18m 15s ;22695.92
 NPC;+PRICE;9;0;43228.72;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-LOCAL;0;0;125000;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
 NPC;-QTY;3;-6;31636.72;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;-LOCAL;17;17;58407.04;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-LOCAL;0;0;79953.8;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+PRICE;0;0;103259.9;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;19;10;41046;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;27;10;70936.9;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;41;41;56250;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

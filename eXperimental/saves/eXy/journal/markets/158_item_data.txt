@@ -6,3 +6,5 @@ NPC;+STOCK;684;112;30.71168;Starbase Corporate Center;Void Starcross;5h 37m 58s 
 NPC;+STOCK;799;135;14.63104;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;721;-78;16.27247;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+STOCK;327;134;27.67463;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;BAL;62;-126;22.82054;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;+STOCK;171;104;25.64672;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

@@ -11,3 +11,7 @@ NPC;+STOCK;62;12;53684.89;StarShepards Headquarters;Void Starcross;5h 37m 58s ;2
 NPC;+LOCAL;15;22;14625;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
 NPC;+LOCAL;15;1;14625;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;+PRICE;123;0;43293.32;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;92;0;36372.52;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;118;0;39616.2;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;61;11;53278.44;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;133;10;42798.13;Biomate University;Void Starcross;12h 15m 59s ;44159.89

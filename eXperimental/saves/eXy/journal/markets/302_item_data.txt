@@ -15,3 +15,10 @@ PLAYER;+QTY;76;70;52.49552;Quantex;Dellis Primeria;7h 3m 10s ;25390.95
 NPC;-LOCAL;0;0;113.85;Rendo Labs;Entropy;7h 21m 12s ;26472.57
 NPC;-LOCAL;2;0;51.2325;Star Shepards Hub;Temple Gates;7h 28m 51s ;26931.18
 NPC;-QTY;0;-11;58.76653;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;-LOCAL;22;22;51.2325;Mazu Starship;Volox;9h 42m 16s ;34936.92
+NPC;-PRICE;50;0;29.0769;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;50;0;28.36525;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;50;0;42.67312;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+STOCK;847;799;48.52937;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;925;862;42.79353;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1811;819;50.47828;Biomate University;Void Starcross;12h 15m 59s ;44159.89

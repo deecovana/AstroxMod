@@ -8,3 +8,6 @@ NPC;BAL;44;-2;6491667;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;177;0;7007778;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;-QTY;12;-1;4002208;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+STOCK;206;2;4068215;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+PRICE;361;0;7322858;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;312;2;6420886;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;179;2;6904253;Biomate University;Void Starcross;12h 15m 59s ;44159.89

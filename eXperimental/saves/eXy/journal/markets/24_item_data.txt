@@ -17,3 +17,11 @@ NPC;BAL;4447;4447;388.8522;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.0
 NPC;-LOCAL;0;0;438.475;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;-LOCAL;18;18;197.3137;Rendo Labs;Entropy;7h 21m 12s ;26472.57
 NPC;-LOCAL;3153;0;197.3137;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;-PRICE;77;0;257.4019;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;224;0;197.3137;Kith;Kidd Overture;11h 16m 17s ;40577.67
+NPC;-LOCAL;221;0;197.3137;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+QTY;4233;3622;120.0029;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+PRICE;70;0;138.4181;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;4168;4166;186.0762;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;8136;3383;177.9997;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;9322;4031;217.7793;Biomate University;Void Starcross;12h 15m 59s ;44159.89

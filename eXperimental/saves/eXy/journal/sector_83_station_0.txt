@@ -1,0 +1,298 @@
+[s:30][c:yellow]SimKitten[/c][/s]
+Tavern Station
+Bruwhikadd Xenbue
+Pirate
+[c:lime]Dock fee 100[/c]
+Timestamp: 41709.72
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Drone Command Bay
+Improved Drone Command Bay
+Advanced Drone Command Bay
+Premium Drone Command Bay
+Prototype Drone Command Bay
+Fusion Chamber
+Gravitational Emitter
+Gyroscope Drive
+Heating Unit
+Hydraulic Assembly
+Ionization Plate
+Large Motor
+Lidar System
+Magnetic Regulator
+Radar System
+[c:orange]DEMAND[/c]
+Aged Wine
+Bottled Whiskey
+Basic Food Rations
+Gourmet Food Rations
+Candy Corn
+Chocolate Bars
+Gummy Bears
+Basic Armor Exterior
+Improved Armor Exterior
+Advanced Armor Exterior
+Premium Armor Exterior
+Prototype Armor Exterior
+Basic Impact Armor
+Improved Impact Armor
+Advanced Impact Armor
+Premium Impact Armor
+Prototype Impact Armor
+Basic Energy Armor
+Improved Energy Armor
+Advanced Energy Armor
+Premium Energy Armor
+Prototype Energy Armor
+Basic Explosive Armor
+Improved Explosive Armor
+Advanced Explosive Armor
+Premium Explosive Armor
+Prototype Explosive Armor
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Ship Garage
+University
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Out of Stock: (1) Items 
+ (250) x Basic Food Rations
+Fulfill order for [c:lime]12,004 profit.[/c]
+[c:red]SELL Order[/c] For Sale: (1) Items 
+ (40) x Iron Coring Pipes (Doc)
+Buy items for [c:lime]31,641 discount.[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (123) x Gourmet Food Rations
+ (47) x Aged Wine
+Fulfill order for [c:lime]39,447 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Adamyte Ore  42 - z4
+Advanced 20mm  44 - z57
+Advanced Afterburner  11 - z65,525
+Advanced Drone Command Bay  34 - z137,449
+Advanced Drone Command Bay (Doc)  16 - z2,551,788
+Advanced Energy Capacitor  15 - z125,742
+Advanced Filter  7 - z27,420
+Advanced Heavy Laser  19 - z97,066
+Advanced Light Turret  39 - z99,389
+Advanced Missile Launcher (Doc)  141 - z428,734
+Advanced Plasma Cannon  20 - z63,109
+Advanced Regulator  15 - z10,401
+Advanced Rocket Launcher (Doc)  2 - z381,183
+Advanced Salvage Collector  12 - z202,208
+Advanced Scan Booster (Doc)  18 - z838,179
+Advanced Shield Booster  9 - z121,906
+Advanced Torpedo   127 - z358
+Advanced Torpedo Launcher  39 - z113,093
+AI Interface Drive (Doc)  7 - z12,829
+Anti-Freeze  15 - z45
+Assorted Gaskets  173 - z19
+Assorted Springs  175 - z86
+Ball Bearings  308 - z61
+Basic 60mm  119 - z30
+Basic Charged Cell  199 - z160
+Basic Drone Command Bay  30 - z34,762
+Basic Energy Generator  16 - z20,694
+Basic Filter  3 - z4,683
+Basic Light Turret  20 - z4,403
+Basic Mass Reduction  3 - z14,698
+Basic Missile Energy Mod  19 - z29,476
+Basic Ore Harvester  31 - z9,227
+Basic Plasma Cannon  32 - z4,767
+Basic Railgun (Doc)  197 - z43,640
+Basic Rocket Launcher  29 - z5,523
+Basic Rocket Launcher (Doc)  66 - z38,467
+Basic Skill Manual  78 - z222,264
+Basic Targeting System  22 - z17,664
+Basic Torpedo Launcher (Doc)  141 - z52,040
+Basic Turn Thrust (Doc)  3 - z198,974
+Basic Warp Drive Fuel  279 - z1,630
+Calcium  481 - z6
+Candy Cane  11 - z1
+Carbon  176 - z2
+Carbon Fiber  255 - z33
+Carbon Filter  19 - z46,860
+Cheeseburger  11 - z23,975
+Childrens Toys  9 - z216
+Cleaning Chemicals  24 - z118
+Colored Dye  13 - z22
+Containment Unit  16 - z15,546
+Disposables  9 - z5,103
+ECM Sensors Jammer (Doc)  30 - z767,865
+Eco Regulator  14 - z28,477
+Entertainment Electronics  35 - z813
+Fasteners  288 - z11
+Fusion Chamber  28 - z2,074
+Gaming Devices  14 - z3,044
+Generic Missile Launcher (Doc)  91 - z7,360
+Generic Ore Harvester (Doc)  22 - z12,381
+Generic Rocket Launcher (Doc)  135 - z7,591
+Generic Salvage Collector  25 - z3,956
+Gradeon Ore  37 - z14
+Gravitational Emitter  41 - z1,926
+Gyroscope Drive  26 - z2,509
+Ham Sandwich  13 - z23,990
+Heating Unit  26 - z2,300
+Heavy Combat Drone  73 - z199,494
+Heavy Defense Drone  57 - z97,194
+Heavy Mining Drone  18 - z125,244
+Heavy Repair Drone  28 - z184,644
+Heavy Shield Charge  31 - z54,751
+Hydraulic Assembly  36 - z2,597
+Hydrogen  101 - z2
+Improved Combat Drone  20 - z32,808
+Improved Drone Command Bay  25 - z67,125
+Improved Energy Generator  38 - z46,427
+Improved Engine Core  1 - z37,358
+Improved Explosive Armor (Doc)  16 - z749,434
+Improved Filter  8 - z13,953
+Improved Heavy Cannon  7 - z31,237
+Improved Impact Armor (Doc)  24 - z431,434
+Improved Light Turret  2 - z24,232
+Improved Light Turret (Doc)  4 - z115,034
+Improved Mining Drone (Doc)  36 - z111,849
+Improved Missile Launcher  5 - z16,414
+Improved Ore Harvester  12 - z43,074
+Improved Rocket Launcher  13 - z29,132
+Improved Rocket Launcher (Doc)  48 - z133,409
+Interior Lighting  19 - z256
+Ionization Plate  37 - z3,451
+Iron Coring  169 - z8
+Junk Part  329 - z24
+Kitchen Appliances  34 - z565
+Large Combat Drone  58 - z98,906
+Large Mining Drone (Doc)  5 - z290,898
+Large Motor  29 - z3,837
+Large Processor  303 - z175
+Large Repair Drone  62 - z88,906
+Large Salvage Drone  49 - z109,906
+Lidar System  58 - z2,910
+Light Armor Bomb  43 - z6,832
+Light Shield Bomb  7 - z10,522
+Light Shield Recharger  14 - z32,476
+Lokken Ore  277 - z40
+Lubricant  369 - z19
+Magnetic Quartz  237 - z4
+Magnetic Regulator  28 - z4,297
+Mechanical Switch  29 - z89
+Media Recordings  27 - z1,717
+Medium Armor Bomb  19 - z31,835
+Medium Armor Repair  29 - z19,657
+Medium Energy Charge  24 - z23,743
+Medium Life Support Pack  53 - z9,436
+Medium Salvage Drone  24 - z12,586
+Medium Shield Charge  6 - z20,350
+Metal Brackets  332 - z28
+Metal Fragment  137 - z131
+Metal Gears  315 - z33
+Micro Processor  250 - z153
+Musical Instruments  13 - z2,528
+Nitrogen  332 - z10
+Noodles  17 - z13,341
+Nuts And Bolts  234 - z6
+Office Furniture  3 - z1,068
+Oil  282 - z9
+Ornament  29 - z7
+Oxygen  357 - z2
+Plastix Strands  530 - z5
+Polymere  373 - z64
+Premium Afterburner (Doc)  17 - z2,071,788
+Premium Armor Exterior (Doc)  31 - z1,926,882
+Premium Drone Command Bay  40 - z265,298
+Premium Energy Generator  26 - z273,069
+Premium Explosive Armor (Doc)  13 - z2,541,735
+Premium Missile Launcher (Doc)  13 - z1,021,869
+Premium Railgun (Doc)  188 - z1,564,953
+Premium Rocket Launcher (Doc)  189 - z1,274,115
+Premium Scan Booster (Doc)  31 - z2,314,759
+Premium Scan Emitter  2 - z164,024
+Premium Thruster (Doc)  1 - z2,397,138
+Pressure Sensor  188 - z233
+Protein Bar  4 - z8,813
+Prototype 60mm (Doc)  28 - z202,264
+Prototype Drone Command Bay  40 - z588,196
+Prototype ECM Power Boost Field (Doc)  25 - z9,764,333
+Prototype Energy Armor (Doc)  31 - z3,691,470
+Prototype Heavy Cannon (Doc)  21 - z5,483,084
+Prototype Missile   86 - z432
+Prototype Missile Launcher (Doc)  74 - z7,505,176
+Prototype Plasma Cannon (Doc)  23 - z17,041,810
+Prototype Railgun (Doc)  3 - z8,250,491
+Prototype Rocket Launcher (Doc)  195 - z6,927,932
+Prototype Scan Booster (Doc)  34 - z3,316,237
+Prototype Torpedo   125 - z1,186
+Prototype Turn Thrust (Doc)  39 - z4,489,176
+Quazor Ore  121 - z17
+Radar System  58 - z3,783
+Recon Scanner Drone  38 - z12,886
+Regulator  335 - z113
+Reinforced Rubber  340 - z19
+Rubber Tubing  233 - z34
+Salt Crystal  15 - z2
+Scrap Part  73 - z32
+Silicon  106 - z8
+Small Heatsink  314 - z200
+Small Life Support Pack  50 - z5,445
+Small LS Bomb  27 - z6,993
+Small Microchip (Doc)  25 - z7,450
+Small Pump  117 - z193
+Sporting Equipment  36 - z1,091
+Steelium Beam  385 - z13
+Steelium Pipes  225 - z25
+Temperature Genie  10 - z19,060
+Thermal Controller  15 - z5,103
+Titan Combat Drone  59 - z254,764
+Titan Defense Drone (Doc)  11 - z920,392
+Titan Repair Drone  21 - z284,764
+Tractor Beam  17 - z10,627
+Undamaged Part  372 - z38
+Voltage Regulator (Doc)  18 - z56,242
+Waste Burner  5 - z41,983
+Waste Processor  2 - z26,777
+Water  198 - z2
+Wrapped Box  30 - z16
+
+
+<Station University Skills>
+Beam Cycle Mechanics
+Fleet Defensive Flight
+Fleet Combat Training
+Projectile Focal Range
+Beam Maintenance
+Ship Cargo Stacker
+
+
+<Station Missions>
+[c:lime]SCAN[/c]
+Find <color='yellow'><i>Lieutenant Nacie Kolbelkee</i></color> in <color='cyan'>Void Starcross</color>, scan their ship, and return to Lammassu Hub in <color='cyan'>Numbu</color>
+
+[c:lime]HARVEST[/c]
+Extract special <color='yellow'>Special Zai Ore</color> in <color='cyan'>Crown of Imperium</color> and return to Transporteers in <color='cyan'>Hunu</color> with minimum of <color='yellow'>143</color>
+
+[c:lime]KILL RECOVER[/c]
+Kill and Rob <color='yellow'><i>Rookie Ilewen Quyeldie</i></color> in <color='cyan'>Void Starcross</color> and return to Vita Assembly in <color='cyan'>Capital Void</color> with <color='yellow'>2</color> of <color='yellow'>Advanced Scan Boosters</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Module Fragment</color> in <color='cyan'>Jelumus</color> and return with <color='yellow'>59</color> to Lammassu Hub in <color='cyan'>Numbu</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Module Fragment</color> in <color='cyan'>Beaondus</color> and return with <color='yellow'>63</color> to Blargg's in <color='cyan'>Beacon Spita</color>
+
+[c:lime]RECOVER[/c]
+Recover a medium shipment <color='yellow'>crate</color> in <color='cyan'>Astrelia Gentris</color> and bring back to Kith in <color='cyan'>Kidd Overture</color>
+
+[c:lime]TRANSPORT[/c]
+Transport a light shipment of <color='yellow'>4</color> <color='yellow'>Basic Ion Beams</color> from Imperium Republica  in <color='cyan'>Gate of Alpharis</color> to Rendo Labs in <color='cyan'>Entropy</color>
+
+
+
+<Station Ships>

@@ -8,3 +8,5 @@ NPC;+LOCAL;12;2;812500;StarShepards Headquarters;Void Starcross;4h 22m 6s ;15726
 NPC;+LOCAL;12;2;812500;StarShepards Headquarters;Void Starcross;4h 38m 1s ;16681.43
 NPC;+LOCAL;12;2;812500;StarShepards Headquarters;Void Starcross;4h 45m 46s ;17146.1
 NPC;+LOCAL;12;2;812500;StarShepards Headquarters;Void Starcross;5h 36m 35s ;20195.18
+NPC;+PRICE;43;0;2283038;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+LOCAL;12;60;812500;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08

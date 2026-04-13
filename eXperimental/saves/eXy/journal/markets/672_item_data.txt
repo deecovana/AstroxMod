@@ -28,3 +28,10 @@ NPC;-PRICE;60;0;25636.62;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;+STOCK;62;20;12927.97;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+LOCAL;25;163;7800;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;8;8;27000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;-PRICE;22;0;27572.41;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;0;0;34605.48;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+PRICE;29;0;20636.96;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;49;24;8563.5;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+LOCAL;25;68;7800;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+LOCAL;25;49;7800;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;48;19;12849.35;Biomate University;Void Starcross;12h 15m 59s ;44159.89

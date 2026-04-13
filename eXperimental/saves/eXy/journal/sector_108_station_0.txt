@@ -1,0 +1,44 @@
+[s:30][c:yellow]Ferce[/c][/s]
+Training Post
+Ronsa Dieceefou
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 39593.03
+<Station Services>
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Lounge
+Refinery
+Ship Garage
+University
+Ship Hangar
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station University Skills>
+Launcher Damage Calibration
+Launcher Maintenance
+Beam Advanced Systems
+Beam Basic Operation
+
+
+<Station Missions>
+[c:lime]HARVEST[/c]
+Harvest special <color='yellow'>Special Lokken Ore</color> in <color='cyan'>Jala</color> and return with <color='yellow'>51</color> ore to Cecil in <color='cyan'>Junia</color>
+
+[c:lime]RECOVER[/c]
+Reclaim a medium shipment <color='yellow'>crate</color> in <color='cyan'>Equalias Val</color> and bring back to Tella's in <color='cyan'>Bitcola</color>
+
+
+
+<Station Ships>
+TCA-1 Mule / Utility    (Support)
+EE-1 Mining Shuttle / Shuttle    (Excavation)
+RE-1 Integrator / Escort    (Recon)
+RCA-1 Correlator / Destroyer    (Support)
+PS-1 Shuttle / Shuttle    (Excavation)
+TC-1 Kraken / Cruiser    (Excavation)

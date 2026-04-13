@@ -28,3 +28,9 @@ NPC;+STOCK;54;24;14975.06;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+LOCAL;25;148;4875;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;0;0;37500;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
 NPC;+LOCAL;25;44;4875;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-LOCAL;0;0;21178.43;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;-PRICE;131;0;14018.13;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;32;0;12296.21;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;45;20;5769.775;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+LOCAL;25;82;4875;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+STOCK;82;22;13131.08;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

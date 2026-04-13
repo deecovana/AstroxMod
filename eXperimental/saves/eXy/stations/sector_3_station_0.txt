@@ -18,7 +18,7 @@ STATION;seed;3-7-1-4-2-0-2-0-6-5-2-2-1-2-9-3-6-90
 STATION;interior_seed;3-1-30-8
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;28362.33
+STATION;last_dock_time;43618.74
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -40,7 +40,8 @@ MERC;2;0.96;npc_ship_data_(transport_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-SELLORDER;Market Stock: (1) Items ;108x168;1255.00;39553.59
+SELLORDER;Market Items: (2) Items ;103x720,106x296;2352;57502.95
+
 ITEM;1;0;0.66;5.27
 ITEM;404;12;0.93;1.13
 ITEM;403;13;0.73;0.91
@@ -274,6 +275,9 @@ MISSION;62;45;965326;HARVEST#98#1#sector_58.txt#sector_20_station_0.txt#null#nul
 MISSION;112;60;302960;KILL_RAIDERS#sector_77_station_0.txt#sector_17.txt#1#20#npc_ship_data_(ATC_Vulture_MK2)#random#random#random;Destroy <color='yellow'>1 Raider</color> level 20 Raider(s) in <color='cyan'>Rats Of Mortalis</color> and return to Lacuna Bandits in <color='cyan'>Ballast Crow</color>;13;A large Raider gang has been seen lurking around in <color='cyan'>Rats Of Mortalis</color>. Their leader, <i>Imestaf Dayan</i>, is a wanted criminal and the Contractor faction has requested a bounty on <i>Imestaf Dayan</i> and his crew. Travel to the <color='cyan'>Rats Of Mortalis</color> and clear out the <color='yellow'>1 Raider</color>, level 20 Raiders that have been lurking around. Dock at the Lacuna Bandits station in <color='cyan'>Ballast Crow</color> when complete.;33907;10528
 MISSION;90;90;646455;KILL_PILOT#sector_0_station_3.txt#sector_68.txt#Major Akas Seryerfei#npc_ship_data_(ATC_Arrow_MK3)#3#null#null#null;Hunt down a low level <color='yellow'><i>Major Akas Seryerfei</i></color> in <color='cyan'>Kriox</color> and return to StarShepards Headquarters in <color='cyan'>Void Starcross</color>;13;<i>Emiah Gorewa</i> has put out a kill contract for <color='yellow'><i>Major Akas Seryerfei</i></color>. Wanted for capital crimes against the Contractor faction for raiding multiple transports. Last known sighting of <color='yellow'><i>Major Akas Seryerfei</i></color> was in the vicinity of the <color='cyan'>Kriox</color> system. After <color='yellow'><i>Major Akas Seryerfei</i></color> is dispatched, return to the StarShepards Headquarters in the <color='cyan'>Void Starcross</color> system to collect the bounty payment.;13908;5250
 MISSION;60;45;832857;HARVEST#62#5#sector_20.txt#sector_18_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Cliffs of Drameria</color> and return with <color='yellow'>62</color> ore to Dreamstar in <color='cyan'>Gendaria</color>;14;A local prospector, <i>Telast Diegamel</i> of the Extractors faction has located a light quantity of special <color='yellow'>Special Torim Ore</color> in the <color='cyan'>Cliffs of Drameria</color> sector. Head over there and harvest all of the special <color='yellow'>Special Torim Ore</color>, and meet <i>Telast Diegamel</i> back at Dreamstar station located in the <color='cyan'>Gendaria</color>.;11051;2813
+MISSION;62;45;717931;HARVEST#123#5#sector_63.txt#sector_78_station_0.txt#null#null#null#null;Excavate special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Numbu</color> and return with <color='yellow'>123</color> to Tella's in <color='cyan'>Bitcola</color>;13;<i>Xenoa Peakomyit</i> has discovered a light deposit of <color='yellow'>Special Torim Ore</color> in <color='cyan'>Numbu</color>. He is currently unable to mine the <color='yellow'>Special Torim Ore</color>, and has requested a pilot to head over and harvest the <color='yellow'>123</color> <color='yellow'>Special Torim Ore</color>. Once complete, head over and meet <i>Xenoa Peakomyit</i> at the Tella's station located in the <color='cyan'>Bitcola</color>.;33628;10337
+MISSION;134;45;321140;SALVAGE#214#22#sector_57.txt#sector_69_station_1.txt#null#null#null#null;In <color='cyan'>Ponze</color>, Salvage <color='yellow'>Special Undamaged Part</color> and return to Oak Industries in <color='cyan'>Dorando Corridor</color> with at least <color='yellow'>214</color>;13;A local company in <color='cyan'>Ponze</color> has requested a medium salvage of <color='yellow'>214</color> <color='yellow'>Special Undamaged Part</color>. This is a rare find, and the client has requested someone bring the parts back to Oak Industries station located in the <color='cyan'>Dorando Corridor</color>. A Contractor faction representative will be waiting to take the salvage from you.;90110;21103
+MISSION;63;45;600294;HARVEST#144#1#sector_58.txt#sector_16_station_0.txt#null#null#null#null;Extract special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Lins</color> and return to Rendo Labs in <color='cyan'>Entropy</color> with minimum of <color='yellow'>144</color>;12;The Labor faction has reported that a special medium load of <color='yellow'>Special Adamyte Ore</color> has been scanned in the <color='cyan'>Lins</color> system. <i>Andoe Diejancojag</i> is credited with the find, but His claim is currently invalid. Hurry up and harvest the <color='yellow'>Special Adamyte Ore</color> and return to Rendo Labs, in the <color='cyan'>Entropy</color>.;51492;12059
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -284,4 +288,5 @@ SHIP;3;1.00;ship_data_(transport_shuttle_1).txt
 // STORAGE;item_id;Qty;0
 <STORAGE>
 STORAGE;623;1;0;FABRICATOR
+
 

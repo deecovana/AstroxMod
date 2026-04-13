@@ -4,3 +4,8 @@ NPC;+STOCK;31;8;671039.4;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;11;-10;521657.8;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-PRICE;47;0;343141.3;Gunstellar;Adrenal;6h 18m 15s ;22695.92
 NPC;-LOCAL;33;33;561763.1;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
+NPC;-LOCAL;68;68;544192.4;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-LOCAL;0;0;705156.6;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+PRICE;0;0;904333.1;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;76;8;674138.3;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;66;66;540000;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

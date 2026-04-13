@@ -36,3 +36,10 @@ NPC;+LOCAL;25;125;5850;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;0;0;45000;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
 NPC;+LOCAL;25;50;5850;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
 PLAYER;-QTY;5;20;5531.625;Lammassu Financial;Void Starcross;8h 57m 15s ;32235.81
+PLAYER;-QTY;16;50;21763.13;Mazu Starship;Volox;9h 42m 58s ;34978.95
+NPC;-PRICE;118;0;9633.208;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;44;0;23068.63;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;-LOCAL;0;0;25954.11;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+STOCK;45;20;6659.366;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+LOCAL;25;120;5850;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+STOCK;124;19;19841.44;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

@@ -5,3 +5,5 @@ NPC;-LOCAL;32;0;8662.5;Oak Industries;Dorando Corridor;5h 53m 34s ;21214.17
 NPC;-LOCAL;0;0;10122.88;Oak Industries;Dorando Corridor;6h 9m 6s ;22146.36
 NPC;+STOCK;51;10;6811.45;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+STOCK;29;11;5080.538;Biomart;Veloxi;8h 51m 34s ;31894.31
+NPC;-PRICE;0;0;12315.68;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;0;0;12008.35;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82

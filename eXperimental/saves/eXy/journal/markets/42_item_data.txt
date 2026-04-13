@@ -17,3 +17,8 @@ NPC;+PRICE;164;0;127.8638;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;2500;5748;37.02075;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;-LOCAL;23;23;128.1487;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-LOCAL;18;18;131.4482;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-PRICE;182;0;76.40282;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;344;0;86.21254;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+STOCK;4520;1904;126.1324;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;0;0;284.775;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;2371;2207;126.2461;Biomate University;Void Starcross;12h 15m 59s ;44159.89

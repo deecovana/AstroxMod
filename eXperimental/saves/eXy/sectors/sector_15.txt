@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;15
 SECTOR;name;Jermicus
-SECTOR;level;7.2
+SECTOR;level;7.1
 SECTOR;faction;Alpha
 SECTOR;filename;sector_15.txt
 SECTOR;is_explored;True

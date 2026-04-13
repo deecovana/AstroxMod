@@ -13,3 +13,6 @@ NPC;+PRICE;38;0;7381.694;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;3;0;9335.891;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;6;0;11444.38;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;-QTY;5;-4;12651;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+PRICE;39;0;8567.261;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;6;3;8836.993;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;42;4;6868.896;Biomate University;Void Starcross;12h 15m 59s ;44159.89

@@ -8,3 +8,6 @@ NPC;+PRICE;249;0;450613.8;StarShepards Headquarters;Void Starcross;6h 48m 22s ;2
 NPC;BAL;0;99;530869.8;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-QTY;0;0;532822.4;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+STOCK;10;2;426599.1;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+PRICE;302;0;501598.3;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;-PRICE;370;0;470040.5;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+STOCK;2;2;505106;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

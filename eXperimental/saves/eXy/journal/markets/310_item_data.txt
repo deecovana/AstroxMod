@@ -32,3 +32,14 @@ NPC;BAL;11;0;135.0095;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;BAL;17;0;142.0355;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-LOCAL;78;78;153.6975;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
 NPC;-PRICE;5;0;83.63804;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
+NPC;-LOCAL;47;47;158.5144;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-LOCAL;0;0;153.6975;Temple of the Void;Vindicati;10h 16m 3s ;36963.16
+NPC;-PRICE;60;0;71.5879;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;24;0;153.6975;SimKitten;Kolkax Prime;11h 7m 32s ;40052.41
+NPC;+PRICE;49;0;105.273;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;-LOCAL;0;0;182.9446;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+PRICE;0;0;336.767;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;881;821;206.0539;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-LOCAL;0;0;341.55;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+STOCK;812;765;195.8017;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;38;38;153.6975;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

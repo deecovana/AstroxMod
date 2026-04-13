@@ -17,7 +17,7 @@ STATION;seed;4-5-0-5-3-2-2-0-2-4-2-3-0-7-2-1-0-0-6-8-1-5-0
 STATION;interior_seed;5-0-30-3
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;33655.32
+STATION;last_dock_time;34762.56
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -248,18 +248,22 @@ ITEM;1;414;1.06;7.82
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
-SKILL;64;1.72
-SKILL;221;1.96
-SKILL;24;1.64
-SKILL;36;1.26
+SKILL;64;1.80
+SKILL;221;2.02
+SKILL;24;1.80
+SKILL;36;1.46
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;32;45;504122;TRANSPORT#6#1542#sector_57_station_0.txt#sector_47_station_0.txt#null#null#null#null;Move light cargo from OmniTrust in <color='cyan'>Ponze</color> and dock with <color='yellow'>6</color> <color='yellow'>Advanced Mass Reductions</color> at Gunstellar in <color='cyan'>Adrenal</color>;3;<i>Kaddza Pastriwit</i> was unable to complete a large shipment from OmniTrust to Gunstellar. A light shipment containing <color='yellow'>6</color> <color='yellow'>Advanced Mass Reductions</color> is located at the storage bay at OmniTrust in <color='cyan'>Ponze</color>. Retrieve the <color='yellow'>Advanced Mass Reductions</color> and transport them to Gunstellar in <color='cyan'>Adrenal</color>.;27219;12059
 MISSION;60;45;126142;HARVEST#70#1#sector_3.txt#sector_40_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>70</color> ore to Legistron in <color='cyan'>Dogstar Prime</color>;3;A local prospector, <i>Ceeeno Welifae</i> of the Trade faction has located a light quantity of special <color='yellow'>Special Adamyte Ore</color> in the <color='cyan'>Starfort Ramos</color> sector. Head over there and harvest all of the special <color='yellow'>Special Adamyte Ore</color>, and meet <i>Ceeeno Welifae</i> back at Legistron station located in the <color='cyan'>Dogstar Prime</color>.;12391;3375
 MISSION;124;45;680463;CHAT_PILOT#sector_58_station_0.txt#sector_47.txt#Accountant Mowa Keeargee#npc_ship_data_(support_carrier_1)#9#missions_arrest_escort.txt#0#null;Arrest <color='yellow'><i>Accountant Mowa Keeargee</i></color> over an outstanding warrant in <color='cyan'>Adrenal</color> and return to CoraVault in <color='cyan'>Lins</color>;5;<i>Sive Zaehinbino</i> of the Commerce faction has sent out a warrent for the arrest of <color='yellow'><i>Accountant Mowa Keeargee</i></color>. Last known sighting of <color='yellow'><i>Accountant Mowa Keeargee</i></color> was in the area of <color='cyan'>Adrenal</color>. Bring them back alive to the CoraVault in the <color='cyan'>Lins</color> system to complete this contract.;83473;42206
 MISSION;50;30;830398;SCAN_STRUCTURE#sector_13_station_0.txt#sector_47.txt#Office Center#structure_office_1.txt#1#null#null#null;Locate and scan the <color='yellow'>Office Center</color> structure in <color='cyan'>Adrenal</color> and return to Gemini Mining in <color='cyan'>Jala</color>;4;A recent construction permit was delivered by the Financial faction. They are demanding a survey of a new structure that has been constructed by <i>Fopoe Zodes</i>. Scan the <color='yellow'>Office Center</color> structure and return back to the Gemini Mining located in the <color='cyan'>Jala</color> with the survey data. Once the data is verified, payment will be rendered.;8900;4500
 MISSION;73;45;308017;ESCORT#sector_95_station_1.txt#sector_3_station_0.txt#Bishop Qoada Toser#npc_ship_data_(kj_escort_2)#10#null#null#null;<color='yellow'><i>Bishop Qoada Toser</i></color> is waiting at Acrondia Hub in <color='cyan'>Temple Gates</color> and needs an escort to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;3;The Trade political party has drafted an escort request for an incoming diplomat named <color='yellow'><i>Bishop Qoada Toser</i></color>. He is currently awaiting in <color='cyan'>Temple Gates</color>, and is docked at the Acrondia Hub station. Lead <color='yellow'><i>Bishop Qoada Toser</i></color> to the Daemon Ammunitions station in the <color='cyan'>Starfort Ramos</color> system safely.;31621;8039
+MISSION;101;120;490785;KILL_RECOVER#sector_14_station_1.txt#sector_1.txt#Rookie Nortisrib Uebar#npc_ship_data_(law_enforcer_3)#5#464#408#null;Hijack <color='yellow'><i>Rookie Nortisrib Uebar</i></color> in <color='cyan'>Dellis Primeria</color> for <color='yellow'>464</color> <color='yellow'>Wrapped Boxs</color> and deliver them to Horizons in <color='cyan'>Gate of Alpharis</color>;3;Authorities in <color='cyan'>Dellis Primeria</color> have reported the location of a known criminal, <color='yellow'><i>Rookie Nortisrib Uebar</i></color>. He is carrying some stolen property belonging to members of the Trade faction. Destroy <color='yellow'><i>Rookie Nortisrib Uebar</i></color>'s ship and recover the <color='yellow'>464</color> <color='yellow'>Wrapped Boxs</color>. When finished, meet up with <i>Restcou Pabefa</i>, you can find him at Horizons in <color='cyan'>Gate of Alpharis</color>.;24194;10719
+MISSION;83;60;683161;RECOVER#3#1482#sector_3.txt#sector_0_station_5.txt#null#null#null#null;Reclaim a medium shipment <color='yellow'>crate</color> in <color='cyan'>Starfort Ramos</color> and bring back to Proctors Center in <color='cyan'>Void Starcross</color>;3;A medium shipping crate has come up missing from a mining operation move in <color='cyan'>Starfort Ramos</color>. <i>Amfoe Fobemcoo</i> is looking for an able pilot to scoop up the shipment of <color='yellow'>3</color> <color='yellow'>Anti-Gun Pods</color>. Once the crate has been recovered, take it to the Proctors Center station located in the <color='cyan'>Void Starcross</color> where <i>Amfoe Fobemcoo</i> will be waiting with your payment.;54434;18089
+MISSION;110;60;993037;KILL_RAIDERS#sector_14_station_0.txt#sector_70.txt#1#10#npc_ship_data_(excavation_utility_1)#random#random#random;Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Beaondus</color> and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>;5;There has been a small Raider gang hanging around the warp gates in <color='cyan'>Beaondus</color>. The Commerce faction has requested a sector clearance contract. Head on over to the <color='cyan'>Beaondus</color> and clear out the <color='yellow'>1 Raider</color>, level 10 Raiders that have set up camp there. Dock at the Imperium Republica  station in <color='cyan'>Gate of Alpharis</color> when complete.;14091;5500
+MISSION;42;45;575135;SCAN_PILOT#sector_1_station_0.txt#sector_35.txt#Chairman Zaexon Lockipei#npc_ship_data_(excavation_utility_1)#17#null#null#null;Track down and scan <color='yellow'><i>Chairman Zaexon Lockipei</i></color> in <color='cyan'>Felishar</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>;4;Financial faction has requested that we verify the whereabouts of a <color='yellow'><i>Chairman Zaexon Lockipei</i></color>. After a recent ban order from the high court minister <i>Foebid Gowhicae</i>, <color='cyan'>Felishar</color> officials are worried that <color='yellow'><i>Chairman Zaexon Lockipei</i></color> might cause problems for the local merchants. Scan <color='yellow'><i>Chairman Zaexon Lockipei</i></color>'s ship and return to Quantex in <color='cyan'>Dellis Primeria</color> with the scan record.;27648;9188
+MISSION;42;45;672128;SCAN_PILOT#sector_0_station_1.txt#sector_41.txt#Overseer Arnortis Tazils#npc_ship_data_(Battle_escort_9)#1#null#null#null;Track down and scan <color='yellow'><i>Overseer Arnortis Tazils</i></color> in <color='cyan'>Volox</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>;3;Trade faction has requested that we verify the whereabouts of a <color='yellow'><i>Overseer Arnortis Tazils</i></color>. After a recent ban order from the high court minister <i>Lindofar Alnesih</i>, <color='cyan'>Volox</color> officials are worried that <color='yellow'><i>Overseer Arnortis Tazils</i></color> might cause problems for the local merchants. Scan <color='yellow'><i>Overseer Arnortis Tazils</i></color>'s ship and return to Lammassu Financial in <color='cyan'>Void Starcross</color> with the scan record.;25725;12250
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -269,16 +273,5 @@ SHIP;3;1.01;ship_data_(pirate_shuttle_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
-STORAGE;1451;1;0
-STORAGE;1602;1;0
-STORAGE;1201;3;0
-STORAGE;732;9;0
-STORAGE;1503;2;0
-STORAGE;1534;4;0
-STORAGE;721;6;0
-STORAGE;722;7;0
-STORAGE;720;9;0
-STORAGE;723;7;0
-STORAGE;755;9;0
-STORAGE;725;7;0
+
 

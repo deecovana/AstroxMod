@@ -2,3 +2,6 @@ NPC;+STOCK;611;146;523.7693;Starbase Corporate Center;Void Starcross;1h 25m 20s 
 NPC;-QTY;380;-85;544.8244;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+STOCK;304;137;349.9958;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;507;106;298.2112;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-PRICE;45;0;351.034;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;160;0;315.1516;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+STOCK;985;138;478.6207;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

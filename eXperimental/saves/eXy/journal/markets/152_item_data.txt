@@ -5,3 +5,6 @@ NPC;+STOCK;567;127;10.61869;Biomate University;Void Starcross;5h 37m 58s ;20278.
 NPC;+STOCK;563;126;7.99861;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;567;0;10.98936;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;607;129;9.788085;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+PRICE;227;0;14.91505;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+PRICE;385;0;13.21469;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;689;122;10.47479;Biomate University;Void Starcross;12h 15m 59s ;44159.89

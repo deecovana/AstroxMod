@@ -4,7 +4,7 @@ SECTOR;name;Kolkax Prime
 SECTOR;level;0.1
 SECTOR;faction;Pirate
 SECTOR;filename;sector_83.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;25
 SECTOR;population;25
 SECTOR;habitation;30
@@ -62,31 +62,31 @@ STARLIGHT;color_4;0.20;0.15;0.00;0.00
 STARLIGHT;color_5;1.00;0.10;0.10;0.85
 
 // STATION;Sector filename;X position;Y position;Z position
-STATION;sector_83_station_0.txt;2925;-96;-2203
+STATION;sector_83_station_0.txt;2925;-96;-2203;prescan
 
-// STRUCTURE;Structure filename;X position;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;1635;-308;-439
-STRUCTURE;structure_energy_gen_1.txt;1127;-613;182
-STRUCTURE;structure_recon_1.txt;-1603;318;950
-STRUCTURE;structure_medical_1.txt;727;-215;57
-STRUCTURE;structure_gun_platform_1.txt;1685;-163;547
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;1635.00;-308.00;-439.00
+STRUCTURE;structure_energy_gen_1.txt;1127.00;-613.00;182.00
+STRUCTURE;structure_recon_1.txt;-1603.00;318.00;950.00
+STRUCTURE;structure_medical_1.txt;727.00;-215.00;57.00
+STRUCTURE;structure_gun_platform_1.txt;1685.00;-163.00;547.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;50;10;250;3000;-1706;474;-937
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;-2663;-397;-420;1000;1000
-RESOURCE;1;-1670;-239;946;1000;1000
-RESOURCE;1;-346;755;-740;1000;1000
-RESOURCE;1;-6759;-37;-7384;1000;1000
-RESOURCE;1;-1706;474;-937;1000;1000
-RESOURCE;1;-2721;502;-120;1000;1000
-RESOURCE;1;574;387;-931;1000;1000
+RESOURCE;1;-2663.0;-397.0;-420.0;1000;1000
+RESOURCE;1;-1670.6;-238.9;946.2;1000;445
+RESOURCE;1;-346.0;755.0;-740.0;1000;0
+RESOURCE;1;-6759.0;-37.0;-7384.0;1000;1000
+RESOURCE;1;-1621.6;581.6;-934.4;1000;1000
+RESOURCE;1;-2721.0;502.0;-120.0;1000;1000
+RESOURCE;1;574;387;-931;1000;0
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_82.txt;2;2661;-302;54;0;Pirate;-0.9
-WARPGATE;2;sector_84.txt;1;-4879;-27;-2467;0;Pirate;0.6
-WARPGATE;3;sector_86.txt;1;-825;-495;-3913;0;Pirate;0.1
+WARPGATE;1;sector_82.txt;2;2661;-302;54;0;Pirate;-0.9;prescan
+WARPGATE;2;sector_84.txt;1;-4879;-27;-2467;0;Pirate;0.6;prescan
+WARPGATE;3;sector_86.txt;1;-825;-495;-3913;0;Pirate;0.1;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;19;0;0;0;0;0;0;0.45,0.12,0.10,0.18;//fog;;;

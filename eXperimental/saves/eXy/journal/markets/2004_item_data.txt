@@ -3,3 +3,5 @@ NPC;+STOCK;392;147;448.3531;StarShepards Headquarters;Void Starcross;5h 37m 58s 
 NPC;+PRICE;779;0;460.1852;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;245;0;478.1102;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;435;104;415.1378;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-PRICE;373;0;288.1798;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;351;106;461.5485;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

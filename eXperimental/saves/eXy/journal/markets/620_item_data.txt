@@ -11,3 +11,8 @@ NPC;BAL;51;-2;8395.309;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;52;0;6156.543;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;42;0;4873.369;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;19;3;3771.852;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-PRICE;3;0;4462.897;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;6;0;5846;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;45;3;4471.142;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;24;4;8377.71;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;55;3;6036.284;Biomate University;Void Starcross;12h 15m 59s ;44159.89

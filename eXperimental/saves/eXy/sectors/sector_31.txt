@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;31
 SECTOR;name;Velmera Prime
-SECTOR;level;1
+SECTOR;level;0.9
 SECTOR;faction;Alpha
 SECTOR;filename;sector_31.txt
 SECTOR;is_explored;False

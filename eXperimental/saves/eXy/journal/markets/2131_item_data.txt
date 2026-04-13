@@ -9,3 +9,7 @@ NPC;+PRICE;595;0;33898.45;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;113;0;37405.82;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;+STOCK;39;2;46993.48;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+STOCK;5;2;38366.46;Biomart;Veloxi;8h 51m 34s ;31894.31
+NPC;+QTY;45;1;30416.66;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+PRICE;47;0;37803.08;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;0;99;33566.33;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+STOCK;597;2;29847.98;Biomate University;Void Starcross;12h 15m 59s ;44159.89

@@ -13,3 +13,5 @@ NPC;-QTY;0;-1;25141.08;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;-PRICE;19;0;14533.67;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 PLAYER;+QTY;39;1;23591.18;Mass Market;Dorando Corridor;7h 36m 57s ;27417.55
 NPC;-QTY;35;-3;16087.88;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;-PRICE;7;0;25601.71;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;36;0;22388.58;Temple of the Void;Vindicati;11h 50m 16s ;42616.5

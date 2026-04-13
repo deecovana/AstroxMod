@@ -19,3 +19,7 @@ NPC;+PRICE;192;0;88951.65;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;106;0;122915.6;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;23;12;106176.6;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+LOCAL;15;10;32500;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+NPC;-PRICE;101;0;104276.9;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+STOCK;117;11;119196.3;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;56;10;117730.1;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;203;11;87348.06;Biomate University;Void Starcross;12h 15m 59s ;44159.89

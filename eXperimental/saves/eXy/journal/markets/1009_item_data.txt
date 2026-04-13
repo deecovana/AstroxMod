@@ -23,3 +23,4 @@ NPC;+PRICE;2;0;4960.569;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;BAL;11;0;9227.555;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-LOCAL;58;58;9759.278;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 NPC;+STOCK;27;9;10206.38;Biomart;Veloxi;8h 51m 34s ;31894.31
+NPC;+STOCK;38;9;5596.044;Biomate University;Void Starcross;12h 15m 59s ;44159.89

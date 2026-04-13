@@ -14,3 +14,4 @@ NPC;+PRICE;82;0;17547.98;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;-LOCAL;20;20;33075;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;18;0;33075;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;0;0;73500;CoraVault;Lins;8h 53m 52s ;32032.93
+NPC;+STOCK;91;9;17122.49;Biomate University;Void Starcross;12h 15m 59s ;44159.89

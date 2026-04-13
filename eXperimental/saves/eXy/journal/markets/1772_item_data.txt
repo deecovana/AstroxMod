@@ -20,3 +20,7 @@ NPC;-LOCAL;46;46;1137067;StarShepards Headquarters;Void Starcross;6h 22m 23s ;22
 NPC;+PRICE;52;0;818270.1;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;46;0;1503343;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;10;-6;1059865;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;-LOCAL;79;0;1137067;Temple of the Void;Vindicati;10h 16m 3s ;36963.16
+NPC;+STOCK;57;11;1449104;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-LOCAL;62;62;1137067;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+STOCK;62;10;771632.9;Biomate University;Void Starcross;12h 15m 59s ;44159.89

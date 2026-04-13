@@ -3,3 +3,4 @@ NPC;+STOCK;540;119;699.3965;Biomate University;Void Starcross;5h 37m 58s ;20278.
 NPC;+STOCK;488;135;887.0547;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;540;0;735.4401;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;169;114;557.6027;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-PRICE;19;0;775.2369;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82

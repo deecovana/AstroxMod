@@ -8,3 +8,6 @@ NPC;+PRICE;595;0;80.94884;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;1500;0;65.3943;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;146;0;76.33525;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;250;796;22.42825;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;-PRICE;389;0;83.51318;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+STOCK;384;238;73.7355;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;1679;179;62.76117;Biomate University;Void Starcross;12h 15m 59s ;44159.89

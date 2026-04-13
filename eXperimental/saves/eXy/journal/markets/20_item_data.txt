@@ -25,3 +25,9 @@ NPC;+PRICE;79;0;26.73145;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 NPC;-LOCAL;8;8;23.625;Rendo Labs;Entropy;7h 21m 12s ;26472.57
 PLAYER;+QTY;48;40;28.43261;Rendo Labs;Entropy;7h 21m 21s ;26481.59
 NPC;-LOCAL;0;0;52.5;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;-LOCAL;441;0;25.515;Kith;Kidd Overture;11h 16m 17s ;40577.67
+NPC;-LOCAL;400;0;24.5302;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+PRICE;146;0;27.14897;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;3748;3643;18.54595;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;8823;3889;21.08716;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;8960;3660;14.78243;Biomate University;Void Starcross;12h 15m 59s ;44159.89

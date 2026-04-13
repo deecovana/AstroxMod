@@ -21,3 +21,7 @@ PLAYER;+QTY;5288;5;32.14318;Biomate University;Void Starcross;7h 9m 54s ;25794.7
 NPC;+STOCK;3927;3815;18.62548;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-LOCAL;78;78;36.55132;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 NPC;-QTY;0;-60;39.94256;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;-PRICE;671;0;34.89865;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;4208;4032;37.09513;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;4420;4265;25.29477;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;9582;4294;31.14772;Biomate University;Void Starcross;12h 15m 59s ;44159.89

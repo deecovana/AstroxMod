@@ -37,3 +37,14 @@ NPC;BAL;7;0;90.39525;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-LOCAL;2;2;81.55245;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
 NPC;-QTY;0;-7;90.58671;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+STOCK;844;844;102.2809;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-LOCAL;19;19;81.21011;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-LOCAL;23;0;90.7467;Temple of the Void;Vindicati;10h 16m 3s ;36963.16
+NPC;-PRICE;24;0;51.31833;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+PLAYER;+QTY;54;42;56.2709;Vita Assembly;Capital Void;10h 35m 33s ;38133.09
+NPC;-LOCAL;4;0;87.9219;SimKitten;Kolkax Prime;11h 7m 32s ;40052.41
+NPC;+QTY;765;714;53.26205;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;-LOCAL;0;0;103.04;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+STOCK;757;757;226.0728;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-LOCAL;21;21;79.4475;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+STOCK;873;854;100.1206;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;25;25;79.4475;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

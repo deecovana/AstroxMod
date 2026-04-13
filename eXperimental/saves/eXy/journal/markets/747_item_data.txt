@@ -15,3 +15,4 @@ NPC;+PRICE;8;0;86119.87;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34
 NPC;+LOCAL;15;1;32500;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;+PRICE;88;0;75285.08;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;17;-7;124192.2;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
+NPC;+STOCK;102;14;72659.24;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

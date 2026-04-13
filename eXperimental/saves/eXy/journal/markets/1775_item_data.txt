@@ -20,3 +20,5 @@ NPC;BAL;48;-9;226872.1;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;57;0;349384;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;-LOCAL;52;52;357071.3;StarShepards Headquarters;Void Starcross;6h 22m 23s ;22943.25
 NPC;+PRICE;52;0;478525;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;39;0;313407.5;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;31;31;362024.8;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08

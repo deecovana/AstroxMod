@@ -11,3 +11,5 @@ NPC;+PRICE;76;0;84913.04;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;139;0;61237.58;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;8;-21;79812.91;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;+STOCK;67;21;72083.44;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+STOCK;131;24;59961.49;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;96;20;83394.23;Biomate University;Void Starcross;12h 15m 59s ;44159.89

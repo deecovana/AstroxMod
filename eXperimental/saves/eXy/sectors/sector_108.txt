@@ -4,7 +4,7 @@ SECTOR;name;Allabentoris
 SECTOR;level;0.7
 SECTOR;faction;Temple
 SECTOR;filename;sector_108.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -61,7 +61,7 @@ STARLIGHT;color_4;0.30;0.28;0.10;0.15
 STARLIGHT;color_5;0.10;0.28;0.10;0.10
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_108_station_0.txt;1322.948;854.5;2802.778
+STATION;sector_108_station_0.txt;1322.948;854.5;2802.778;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
 STRUCTURE;structure_habitat_1.txt;1865.30;1038.90;1808.20
@@ -76,8 +76,8 @@ RESOURCE;4;-1692.1;300.1;1128.5;300;300
 
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_105.txt;3;2726.1;715.7;28.6;0;Temple;-0.7
-WARPGATE;2;sector_84.txt;2;-4074;716;-3966;-1;Temple;-4073.717;warpgate_108_2.txt;10
+WARPGATE;1;sector_105.txt;3;2726.1;715.7;28.6;0;Temple;-0.7;prescan
+WARPGATE;2;sector_84.txt;2;-4074;716;-3966;-1;Temple;-4073.717;warpgate_108_2.txt;10;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 //PROP;0;0;0;0;0;0;0;lightning 1

@@ -11,3 +11,6 @@ NPC;+PRICE;73;0;1987.201;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;72;0;1209.396;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;896;851;1132.518;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-LOCAL;0;0;3808.75;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
+NPC;-LOCAL;0;0;3808.75;Tella's;Bitcola;10h 5m 33s ;36333.38
+NPC;+PRICE;89;0;1197.686;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;1039;977;781.6989;Biomate University;Void Starcross;12h 15m 59s ;44159.89

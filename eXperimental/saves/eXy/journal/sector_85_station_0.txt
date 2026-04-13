@@ -1,0 +1,237 @@
+[s:30][c:yellow]Scrapdogs[/c][/s]
+Civil League
+Timwhilei Jaliszaesiv
+Pirate
+[c:lime]Dock fee 100[/c]
+Timestamp: 42951.23
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Water
+Carbon
+Hydrogen
+Oxygen
+Magnetic Quartz
+Iron Coring
+Nitrogen
+Oil
+Copperi Cubex
+Calcium
+Ceramic
+Aluminium Shard
+Dynex Crystal
+Silicon
+Salt Crystal
+Bio Carbon
+Calciate Residue
+Steelium
+Plastix Strands
+Silveryte
+Prometheum
+Neutron Pods
+Uranium
+Goldyte
+Titanyte
+Office Furniture
+Kitchen Appliances
+Interior Lighting
+Acidic Residue
+[c:orange]DEMAND[/c]
+Textile Fabrics
+Foodservice Products
+Office Supplies
+Foodservice Equipment
+Basic Turn Thrust
+Improved Turn Thrust
+Advanced Turn Thrust
+Premium Turn Thrust
+Prototype Turn Thrust
+Basic Scan Emitter
+Improved Scan Emitter
+Advanced Scan Emitter
+Premium Scan Emitter
+Prototype Scan Emitter
+Basic Targeting System
+Improved Targeting System
+Advanced Targeting System
+Premium Targeting System
+Prototype Targeting System
+Basic Scan Booster
+Improved Scan Booster
+Advanced Scan Booster
+Premium Scan Booster
+Prototype Scan Booster
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Offices
+
+
+<Station Market Orders>
+[c:red]SELL Order[/c] Market Items: (1) Items 
+ (812) x Interior Lighting
+Buy items for [c:lime]84,770 discount.[/c]
+[c:red]SELL Order[/c] Selling Items: (1) Items 
+ (100) x Media Recordings
+Buy items for [c:lime]82,399 discount.[/c]
+[c:red]SELL Order[/c] Market Supply: (2) Items 
+ (497) x Interior Lighting
+ (167) x Water
+Buy items for [c:lime]79,013 discount.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Acidic Residue  26 - z17
+Adamyte Ore  2 - z7
+Advanced 20mm  30 - z37
+Advanced 60mm (Doc)  8 - z50,454
+Advanced Railgun (Doc)  66 - z658,087
+Advanced Regulator  6 - z9,666
+Aluminium Rivets  83 - z33
+Aluminium Shard  25 - z20
+Anti-Freeze  10 - z55
+Assorted Gaskets  48 - z11
+Assorted Springs  166 - z49
+Auxiliary System Mount (Doc)  13 - z60,618
+Ball Bearings  52 - z53
+Basic 20mm  23 - z15
+Basic Cargo Expansion  5 - z27,977
+Basic Energy Armor  13 - z27,727
+Basic Energy Capacitor  9 - z22,856
+Basic Explosive Armor  18 - z29,477
+Basic Filter  3 - z4,194
+Basic Heavy Cannon  5 - z8,001
+Basic Heavy Laser  18 - z10,080
+Basic Mass Reduction  15 - z21,139
+Basic Missile   92 - z132
+Basic Plasma Cannon  14 - z6,153
+Basic Projectile Energy Mod (Doc)  19 - z203,724
+Basic Railgun (Doc)  34 - z44,901
+Basic Rocket Launcher (Doc)  35 - z24,818
+Basic Shield Generator  11 - z19,955
+Basic Torpedo Launcher (Doc)  9 - z45,741
+Bio Carbon  42 - z22
+Calciate Residue  41 - z53
+Calcium  44 - z4
+Candy Cane  14 - z1
+Candy Corn  17 - z1
+Carbon  51 - z1
+Carbon Fiber  23 - z32
+Ceramic  29 - z14
+Cleaning Chemicals  7 - z122
+Colored Dye  5 - z30
+Containment Unit  8 - z8,319
+Copperi Cubex  35 - z10
+Disposables  7 - z5,314
+Dynex Crystal  41 - z27
+Fasteners  94 - z9
+Generic Heavy Laser  11 - z1,714
+Generic Ion Beam  5 - z3,070
+Generic Light Turret (Doc)  19 - z6,991
+Generic Missile Launcher (Doc)  43 - z10,440
+Generic Ore Harvester  2 - z2,916
+Generic Railgun  5 - z3,142
+Goldyte  41 - z82
+Gradeon Ore  132 - z13
+Gummy Bears  12 - z1
+Heavy Combat Drone  26 - z209,398
+Heavy Shield Bomb  16 - z72,016
+Heavy Shield Charge  4 - z50,342
+Hydrogen  266 - z2
+Improved Cargo Expansion  9 - z33,954
+Improved Defense Drone  17 - z34,609
+Improved Engine Core  1 - z41,760
+Improved Filter  8 - z14,321
+Improved Impact Armor  8 - z58,454
+Improved Missile Launcher (Doc)  73 - z161,576
+Improved Salvage Drone  20 - z35,509
+Improved Shield Generator  1 - z59,890
+Improved Targeting System (Doc)  9 - z293,385
+Interior Lighting  19 - z305
+Iron Coring  41 - z7
+Junk Part  106 - z16
+Kitchen Appliances  13 - z694
+Large Combat Drone  10 - z104,908
+Light Shield Bomb  1 - z9,892
+Liquid Coolant  91 - z27
+Lubricant  130 - z16
+Magnetic Quartz  51 - z4
+Mechanical Belts  22 - z75
+Medium Mining Drone  24 - z17,236
+Medium Shield Bomb  12 - z16,175
+Metal Brackets  143 - z20
+Metal Gears  199 - z36
+Metal Valve  159 - z38
+Missile Defense System (Doc)  16 - z1,566,530
+Neutron Pods  39 - z35
+Nitrogen  44 - z7
+Noodles  9 - z12,361
+Nuts And Bolts  67 - z11
+Office Furniture  11 - z922
+Oil  33 - z9
+Ornament  13 - z5
+Oxygen  226 - z3
+Plastic Caps  172 - z59
+Plastix Strands  32 - z5
+Premium Railgun (Doc)  85 - z1,655,036
+Premium Rocket Launcher (Doc)  43 - z1,139,096
+Prometheum  29 - z100
+Protein Bar  5 - z6,434
+Prototype 20mm  92 - z106
+Prototype 60mm  45 - z146
+Prototype ECM Power Boost Field (Doc)  10 - z14,009,700
+Prototype Heavy Cannon (Doc)  44 - z6,003,194
+Prototype Missile   79 - z455
+Prototype Torpedo   95 - z806
+Reinforced Rubber  69 - z19
+Rubber Tubing  80 - z57
+Salt Crystal  1 - z3
+Scrap Part  188 - z23
+Silicon  40 - z5
+Silveryte  31 - z69
+Small Defense Drone  5 - z7,734
+Small Mining Drone  32 - z5,094
+Small Storage Tank  38 - z52
+Steelium  26 - z37
+Steelium Beam  106 - z10
+Steelium Pipes  76 - z12
+Thermal Controller  4 - z7,344
+Thermal Insulation  62 - z46
+Titan Combat Drone  38 - z167,270
+Titanyte  38 - z54
+Tractor Beam  12 - z12,867
+Uranium  43 - z132
+Water  116 - z1
+Wrapped Box  3 - z10
+
+
+<Station University Skills>
+Beam Basic Operation
+Refinery Warehouse Management
+Storage Accountant
+Projectile Cycle Mechanics
+Laser Damage Calibration
+Ship Engine Burner
+Laser Focal Range
+Launcher Energy Optimization
+University Discount
+Ship Advanced Targeting Systems
+
+
+<Station Missions>
+
+
+<Station Ships>
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+SF-1 Redeemer / Frigate    (Support)
+TU-1 Jonas / Escort    (Transport)
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+TS-1 Dexta / Shuttle    (Recon)
+SS-1 Arcane Shuttle / Shuttle    (Support)
+RC-1 Informer / Cruiser    (Transport)

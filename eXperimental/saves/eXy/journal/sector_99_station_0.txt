@@ -1,0 +1,125 @@
+[s:30][c:yellow]Ferce Hub[/c][/s]
+Court Warehouse
+Leibe Leitoei
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 36856.76
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Nuts And Bolts
+Fasteners
+Steelium Beam
+Assorted Gaskets
+Lubricant
+Steelium Pipes
+Metal Brackets
+Liquid Coolant
+Reinforced Rubber
+Carbon Fiber
+Tractor Beam
+[c:orange]DEMAND[/c]
+Adamyte Ore
+Gradeon Ore
+Quazor Ore
+Lokken Ore
+Torim Ore
+Plasite Ore
+Dynex Ore
+Belasite Ore
+Xenox Ore
+Zai Ore
+Aged Wine
+Bottled Whiskey
+Basic Food Rations
+Gourmet Food Rations
+Candy Corn
+Chocolate Bars
+Gummy Bears
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Refinery
+Ship Hangar
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+[c:red]SELL Order[/c] Market Stock: (2) Items 
+ (68) x Nuts And Bolts
+ (438) x Carbon Fiber
+Buy items for [c:lime]3,065 discount.[/c]
+[c:red]SELL Order[/c] Market Inventory: (2) Items 
+ (115) x Metal Brackets
+ (458) x Assorted Gaskets
+Buy items for [c:lime]4,170 discount.[/c]
+[c:green]BUY Order[/c] Wanted (2) Items 
+ (2222) x Colored Dye
+ (1761) x Candy Cane
+Fulfill order for [c:lime]-5,755 profit.[/c]
+[c:red]SELL Order[/c] Market Stock: (3) Items 
+ (225) x Fasteners
+ (438) x Metal Brackets
+ (393) x Carbon Fiber
+Buy items for [c:lime]16,416 discount.[/c]
+[c:red]SELL Order[/c] Market Supply: (4) Items 
+ (155) x Steelium Beam
+ (485) x Lubricant
+ (117) x Carbon Fiber
+ (251) x Steelium Pipes
+Buy items for [c:lime]8,181 discount.[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (34) x Xenox Ore
+ (240) x Belasite Ore
+Fulfill order for [c:lime]24,904 profit.[/c]
+[c:red]SELL Order[/c] Market Production: (3) Items 
+ (88) x Fasteners
+ (111) x Carbon Fiber
+ (141) x Nuts And Bolts
+Buy items for [c:lime]4,157 discount.[/c]
+[c:red]SELL Order[/c] Market Surplus: (1) Items 
+ (143) x Metal Brackets
+Buy items for [c:lime]1,784 discount.[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (2) Items 
+ (35) x Quazor Ore
+ (186) x Basic Food Rations
+Fulfill order for [c:lime]23,635 profit.[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (78) x Xenox Ore
+ (168) x Belasite Ore
+ (101) x Aged Wine
+Fulfill order for [c:lime]105,892 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+
+
+<Station Missions>
+[c:lime]HARVEST[/c]
+Harvest special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Numbu</color> and return with <color='yellow'>62</color> ore to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]ESCORT[/c]
+<color='yellow'><i>Major Welinine Ilsmivis</i></color> requests an escort from Imperium Republica  in <color='cyan'>Gate of Alpharis</color> to ValueStar in <color='cyan'>Hunu</color>
+
+[c:lime]SCAN[/c]
+Track and scan the target <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Void Starcross</color> and return to The Dunes in <color='cyan'>The Dunes of Caliph</color>
+
+[c:lime]KILL[/c]
+Execute <color='yellow'><i>Laborer Peireno Lomdaleimes</i></color> in <color='cyan'>The Moon of Crystalis</color> and return to Oak Industries in <color='cyan'>Dorando Corridor</color>
+
+
+
+<Station Ships>
+TCA-1 Mule / Utility    (Support)
+PS-1 Shuttle / Shuttle    (Excavation)
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+TF-1 Hexalon / Escort    (Transport)
+ES-1 Shuttle / Shuttle    (Transport)
+TE-1 Phoebus / Shuttle    (Transport)
+TE-1 Phoebus / Shuttle    (Transport)

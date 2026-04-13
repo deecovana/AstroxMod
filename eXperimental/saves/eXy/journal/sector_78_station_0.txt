@@ -3,7 +3,7 @@ Entertainment Hub
 Jidzangee Akleinortis
 Pirate
 [c:lime]Dock fee 100[/c]
-Timestamp: 24434.92
+Timestamp: 36363.41
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -54,136 +54,141 @@ Offices
 [c:red]SELL Order[/c] Selling Items: (2) Items 
  (18) x Iron Coring Plates
  (14) x Belasite Ore
-Buy items for [c:lime]-574 discount.[/c]
+Buy items for [c:lime]-509 discount.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
-Adamyte Ore  3390 - z8
-Advanced Missile  1721 - z226
-Advanced Missile Launcher (Doc)  87 - z501,603
-Advanced Railgun (Doc)  90 - z418,578
-Advanced Regulator  4 - z8,619
-Advanced Rocket Launcher (Doc)  14 - z293,077
-Advanced Targeting System (Doc)  4 - z533,307
-Advanced Thruster (Doc)  5 - z910,791
-Aluminium Plates  44 - z212
-Aluminium Rivets  40 - z24
-Anti-Freeze  17 - z56
-Assorted Gaskets  175 - z17
-Assorted Gaskets (Doc)  10 - z100
-Basic 20mm  76 - z17
-Basic Armor Exterior  1 - z33,107
-Basic Beam Energy Mod  30 - z19,576
-Basic Beam Explosive Mod  38 - z18,638
-Basic Beam Impact Mod  38 - z20,196
-Basic Beam Impact Mod (Doc)  16 - z241,069
-Basic Cargo Expansion  7 - z17,589
-Basic Drone Command Bay  5 - z38,143
-Basic ECM Range Lock (Doc)  4 - z4,812,534
-Basic Energy Armor  8 - z33,089
-Basic Energy Capacitor  19 - z37,166
-Basic Explosive Armor  2 - z32,839
-Basic Filter  6 - z9,335
-Basic Heavy Cannon  13 - z5,879
-Basic Light Turret  1 - z6,465
-Basic Missile Launcher  5 - z9,652
-Basic Missile Launcher (Doc)  52 - z31,322
-Basic Ore Harvester  10 - z17,270
-Basic Plasma Cannon  18 - z10,191
-Basic Projectile Explosive Mod (Doc)  12 - z298,069
-Basic Pulse Laser  17 - z7,235
-Basic Railgun  20 - z4,986
-Basic Rocket Launcher  14 - z5,065
-Basic Scan Booster  19 - z21,728
-Basic Scan Emitter  14 - z23,644
-Basic Skill Manual  26 - z283,391
-Basic Thruster  8 - z12,885
-Basic Torpedo   9 - z158
-Beam Defense System (Doc)  17 - z1,701,700
-Candy Cane  5 - z1
-Candy Corn  811 - z1
-Carbon  202 - z2
-Carbon Fiber  91 - z20
-Chocolate Bars  10 - z1
-Cleaning Chemicals  18 - z79
-Cloak Range Extender (Doc)  3 - z8,223,425
-Colored Dye  697 - z28
-Containment Unit  4 - z16,336
-Copperi Pipes  41 - z231
-Copperi Plates  48 - z255
-Disposables  6 - z8,495
-Dynex Crystal Resonator  33 - z317
-Electrical Interface (Doc)  7 - z22,973
-Electronic Switch  47 - z344
-Elite Skill Manual  5 - z641,482
-Fasteners  5 - z15
-Generic Missile Launcher  4 - z2,538
-Generic Ore Harvester  27 - z4,854
-Generic Plasma Cannon  5 - z1,834
-Glass Panels  46 - z368
-Gradeon Ore  57 - z15
-Gummy Bears  14 - z1
-Hand Tools  45 - z394
-Hardened Glass Panels  42 - z481
-Hydrogen  141 - z4
-Improved Afterburner  1 - z30,943
-Improved Cargo Expansion  2 - z57,178
-Improved Defense Drone  26 - z40,660
-Improved Energy Armor (Doc)  15 - z386,138
-Improved Filter  3 - z8,496
-Improved Mass Reduction  9 - z52,604
-Improved Missile Launcher (Doc)  93 - z116,365
-Improved Rocket Launcher (Doc)  18 - z103,336
-Improved Scan Booster  25 - z26,355
-Improved Scan Emitter  18 - z40,448
-Improved Shield Generator  19 - z56,892
-Improved Thruster  16 - z45,510
-Improved Turn Thrust  18 - z53,343
-Interior Lighting  4 - z215
-Ionization Plate (Doc)  1 - z43,224
-Iron Coring Beams  32 - z486
-Junk Part  165 - z22
-Keypad  41 - z197
-Kitchen Appliances  769 - z674
-Light Shield Recharger  11 - z17,589
-Liquid Coolant  38 - z27
-Magnetic Quartz  61 - z2
-Medium Armor Bomb  36 - z26,556
-Medium Armor Repair  16 - z21,926
-Medium Energy Charge  35 - z11,224
-Medium Web Field  31 - z23,126
-Metal Brackets  191 - z17
-Metal Gears  58 - z29
-Metal Valve  209 - z42
-Micro Leech Drone  12 - z11,303
-Noodles  6 - z11,681
-Nuts And Bolts  37 - z9
-Office Furniture  516 - z625
-Ornament  19 - z5
-Oxygen  290 - z2
-Premium Rocket Launcher (Doc)  60 - z1,145,821
-Protein Bar  9 - z5,765
-Prototype 20mm  62 - z143
-Prototype 60mm  94 - z230
-Prototype Missile   50 - z446
-Recon Scanner Drone  4 - z12,353
-Reinforced Rubber  37 - z18
-Rubber Tubing  36 - z40
-Salt Crystal  275 - z2
-Scrap Part  2671 - z24
-Small Combat Drone  38 - z3,921
-Small Defense Drone  8 - z8,001
-Small Storage Tank  61 - z34
-Small Web Field  33 - z7,789
-Steelium Beam  116 - z14
-Steelium Pipes  83 - z20
-Thermal Controller  4 - z7,095
-Thermal Insulation  92 - z25
-Titan Defense Drone  32 - z333,391
-Titan Repair Drone  2 - z195,891
-Water  281 - z1
 Wrapped Box  15 - z10
+Water  281 - z1
+Titan Repair Drone  2 - z194,824
+Titan Defense Drone  32 - z332,324
+Thermal Insulation  92 - z25
+Thermal Controller  4 - z7,065
+Steelium Pipes  83 - z20
+Steelium Beam  116 - z14
+Small Web Field  33 - z7,754
+Small Storage Tank  61 - z34
+Small Defense Drone  8 - z7,976
+Small Combat Drone  38 - z3,896
+Scrap Part  2671 - z24
+Salt Crystal  275 - z2
+Rubber Tubing  36 - z40
+Reinforced Rubber  37 - z18
+Recon Scanner Drone  4 - z12,289
+Prototype Missile   50 - z444
+Prototype Energy Generator  23 - z638,006
+Prototype 60mm  94 - z230
+Prototype 20mm  62 - z142
+Protein Bar  9 - z5,735
+Premium Rocket Launcher (Doc)  60 - z1,139,420
+Oxygen  290 - z2
+Ornament  19 - z5
+Office Furniture  516 - z621
+Nuts And Bolts  37 - z9
+Noodles  6 - z11,629
+Micro Leech Drone  12 - z11,239
+Metal Valve  209 - z42
+Metal Gears  58 - z29
+Metal Brackets  191 - z17
+Medium Web Field  31 - z23,023
+Medium Energy Charge  35 - z11,147
+Medium Armor Repair  16 - z21,823
+Medium Armor Bomb  36 - z26,441
+Magnetic Quartz  61 - z2
+Liquid Coolant  38 - z27
+Light Shield Recharger  11 - z17,482
+Kitchen Appliances  769 - z671
+Keypad  41 - z197
+Junk Part  165 - z22
+Iron Coring Beams  150 - z203
+Ionization Plate (Doc)  1 - z43,066
+Interior Lighting  4 - z214
+Improved Turn Thrust  18 - z53,172
+Improved Thruster  16 - z45,330
+Improved Shield Generator  19 - z56,662
+Improved Scan Emitter  18 - z40,295
+Improved Scan Booster  25 - z26,193
+Improved Rocket Launcher (Doc)  18 - z102,814
+Improved Missile Launcher (Doc)  93 - z115,790
+Improved Mass Reduction  9 - z52,408
+Improved Filter  3 - z8,444
+Improved Energy Generator  7 - z79,751
+Improved Energy Capacitor  13 - z74,054
+Improved Energy Armor (Doc)  15 - z383,578
+Improved Defense Drone  26 - z40,468
+Improved Cargo Expansion  2 - z56,965
+Improved Afterburner  1 - z30,772
+Hygiene Products  17 - z307
+Hydrogen  141 - z4
+Hardened Glass Panels  42 - z477
+Hand Tools  45 - z394
+Gummy Bears  14 - z1
+Gradeon Ore  57 - z15
+Glass Panels  46 - z367
+Generic Plasma Cannon  5 - z1,824
+Generic Ore Harvester  27 - z4,837
+Generic Missile Launcher  4 - z2,528
+Fasteners  5 - z15
+Elite Skill Manual  5 - z637,163
+Electronic Switch  47 - z342
+Electrical Interface (Doc)  7 - z22,879
+Dynex Crystal Resonator  33 - z315
+Disposables  6 - z8,465
+Copperi Plates  48 - z252
+Copperi Pipes  41 - z229
+Containment Unit  4 - z16,284
+Colored Dye  697 - z28
+Cloak Range Extender (Doc)  3 - z8,197,317
+Cleaning Chemicals  18 - z79
+Chocolate Bars  10 - z1
+Carbon Fiber  91 - z20
+Carbon  202 - z2
+Candy Corn  811 - z1
+Candy Cane  5 - z1
+Beam Defense System (Doc)  17 - z1,694,875
+Basic Torpedo   9 - z157
+Basic Thruster  8 - z12,795
+Basic Skill Manual  26 - z282,324
+Basic Scan Emitter  14 - z23,567
+Basic Scan Booster  19 - z21,647
+Basic Rocket Launcher  14 - z5,035
+Basic Railgun  20 - z4,950
+Basic Pulse Laser  17 - z7,205
+Basic Projectile Explosive Mod (Doc)  12 - z296,789
+Basic Plasma Cannon  18 - z10,159
+Basic Ore Harvester  10 - z17,210
+Basic Missile Launcher (Doc)  52 - z31,158
+Basic Missile Launcher  5 - z9,620
+Basic Light Turret  1 - z6,435
+Basic Heavy Cannon  13 - z5,847
+Basic Filter  6 - z9,305
+Basic Explosive Armor  2 - z32,732
+Basic Energy Generator  13 - z41,372
+Basic Energy Armor  8 - z32,982
+Basic ECM Range Lock (Doc)  4 - z4,796,664
+Basic Drone Command Bay  5 - z37,972
+Basic Cargo Expansion  7 - z17,482
+Basic Beam Impact Mod (Doc)  16 - z239,789
+Basic Beam Impact Mod  38 - z19,982
+Basic Beam Explosive Mod  38 - z18,482
+Basic Beam Energy Mod  12 - z8,482
+Basic Armor Exterior  1 - z32,979
+Basic 20mm  76 - z17
+Assorted Gaskets (Doc)  10 - z99
+Assorted Gaskets  175 - z17
+Anti-Freeze  17 - z56
+Aluminium Rivets  40 - z24
+Aluminium Plates  44 - z211
+Advanced Thruster (Doc)  5 - z906,491
+Advanced Targeting System (Doc)  4 - z529,826
+Advanced Rocket Launcher (Doc)  14 - z291,249
+Advanced Regulator  4 - z8,566
+Advanced Railgun (Doc)  90 - z416,383
+Advanced Missile Launcher (Doc)  87 - z499,591
+Advanced Missile  1721 - z225
+Advanced Energy Generator  10 - z159,502
+Adamyte Ore  3390 - z8
 
 
 <Station University Skills>
@@ -209,6 +214,30 @@ Excavate special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Cora
 
 [c:lime]KILL RECOVER[/c]
 Hijack <color='yellow'><i>Doctor Gotal Videevel</i></color> in <color='cyan'>Cliffs of Drameria</color> for <color='yellow'>2</color> <color='yellow'>Improved Shield Boosters</color> and deliver them to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]SALVAGE[/c]
+Salvage <color='yellow'>Special Electronic Fragment</color> in <color='cyan'>Dorando Corridor</color> and return with <color='yellow'>59</color> to Temple of the Void in <color='cyan'>Valley of Truths</color>
+
+[c:lime]DIALOG[/c]
+Transfer a legal document to <color='yellow'><i>Privateer Bolas Corqeqa</i></color> in <color='cyan'>Temple Gates</color>. Return with confirmation at Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]HARVEST[/c]
+Extract special <color='yellow'>Special Lokken Ore</color> in <color='cyan'>Chaferea</color> and return to Oak Industries in <color='cyan'>Dorando Corridor</color> with minimum of <color='yellow'>146</color>
+
+[c:lime]REFINE[/c]
+Refine medium shipment of <color='yellow'>38</color> <color='yellow'>Scrap Parts</color> in <color='cyan'>Dorando Corridor</color> at the Oak Industries station refinery
+
+[c:lime]HARVEST[/c]
+Mine special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Lins</color> and return with <color='yellow'>59</color> to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Parisan in <color='cyan'>Goru Populan</color> to deliver a light shipment of <color='yellow'>2</color> <color='yellow'>Premium Shield Boosters</color>
+
+[c:lime]RECOVER[/c]
+Recover a light quantity of <color='yellow'>50</color> <color='yellow'>Adamyte Ores</color> in <color='cyan'>Hunu</color>, and return to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]DIALOG[/c]
+Chat with <color='yellow'><i>Accountant Tides Faedale</i></color> about his debt in <color='cyan'>Jelumus</color> and return to Crystalis Broadcasting in <color='cyan'>Jermicus</color>
 
 
 

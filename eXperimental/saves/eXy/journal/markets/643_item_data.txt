@@ -9,3 +9,7 @@ NPC;+PRICE;21;0;42275.14;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;28;0;28865.26;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-PRICE;7;0;27618.67;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;+STOCK;11;3;43072.26;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-PRICE;30;0;45144.14;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;31;3;26805.39;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;37;4;46320.34;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;24;3;41887.66;Biomate University;Void Starcross;12h 15m 59s ;44159.89

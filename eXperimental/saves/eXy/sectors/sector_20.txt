@@ -92,3 +92,5 @@ NPC_SHIP;npc_ship_data_(recon_cruiser_1);-283;-1180;1355;7;1
 NPC_SHIP;npc_ship_data_(pirate_escort_1);1632;2296;2108;14;1
 
 // CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty
+CRATE;Ship Loot (802);Unknown;Ship Crate;1000;136.3067;300;0;-3088.77;2048.29;631.18;True;;0;0;
+CRATE;Ship Loot (882);Unknown;Ship Crate;1000;191.6223;300;0;-3371.08;2312.13;550.37;True;;0;0;

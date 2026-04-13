@@ -4,7 +4,7 @@ SECTOR;name;Junia
 SECTOR;level;0.1
 SECTOR;faction;Temple
 SECTOR;filename;sector_104.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -61,23 +61,23 @@ STARLIGHT;color_4;0.50;0.08;0.10;0.95
 STARLIGHT;color_5;0.50;0.08;0.10;0.90
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_104_station_0.txt;-292.3;502.8;-2883.3
+STATION;sector_104_station_0.txt;-292.3;502.8;-2883.3;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;637.097;98.56665;-3583.199
+STRUCTURE;structure_habitat_1.txt;637.10;98.57;-3583.20
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;7;75;50;100;5000;1212.1;1.9;-2529.3;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;7;-1710.6;-476.8;1948.4;500.0;500.0
-RESOURCE;7;3316.9;-1415.9;862.6;500.0;500.0
-RESOURCE;7;-1002.4;146.0;1719.8;500.0;500.0
-RESOURCE;7;-430.5;-1618.6;-4310.7;500.0;500.0
+RESOURCE;7;-1710.6;-476.8;1948.4;500;500
+RESOURCE;7;3316.9;-1415.9;862.6;500;500
+RESOURCE;7;-1002.4;146.0;1719.8;500;500
+RESOURCE;7;-431.2;-1618.6;-4310.7;500;500
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_101.txt;3;3231.8;-308.0;-1119.9;0;Temple;-0.7
-WARPGATE;2;sector_107.txt;1;-1924.9;1113.7;-2323.6;0;Temple;-0.4
+WARPGATE;1;sector_101.txt;3;3231.8;-308.0;-1119.9;0;Temple;-0.7;prescan
+WARPGATE;2;sector_107.txt;1;-1924.9;1113.7;-2323.6;0;Temple;-0.4;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;0;0;0;0;0;0;0;lightning 1
@@ -92,3 +92,5 @@ NPC_SHIP;npc_ship_data_(excavation_utility_1);-1288.94;532.22;404.70;4;10
 NPC_SHIP;npc_ship_data_(support_shuttle_1);-545.88;-85.22;-47.52;5;5
 NPC_SHIP;npc_ship_data_(support_frigate_1);265.64;403.65;-638.22;3;7
 
+
+// CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty

@@ -1,4 +1,27 @@
 //;LOG DATA FILE (Astrox Imperium)
+SELL;1;Advanced Cargo Expansion;6,500;6500.0000;54127057.6853027;Biomate University;Void Starcross;12h 22m 27s 
+BUY;72;Medium Shield Charge;26,704;1,922,716;54120557.6853027;Biomate University;Void Starcross;12h 21m 30s 
+BUY;319;Advanced Missile;209;66,764;56057573.6853027;StarShepards Headquarters;Void Starcross;12h 10m 42s 
+SELL;94;Dynex Ore;95.48;8975.5100;56124337.5368652;StarShepards Headquarters;Void Starcross;12h 9m 29s 
+SELL;383;Torim Ore;24.62;9428.2450;56115362.0270996;StarShepards Headquarters;Void Starcross;12h 9m 11s 
+SELL;121;Plasite Ore;49.53;5992.5350;56106158.7819824;Stinkfinger;Jonisae;11h 52m 19s 
+BUY;1;Prototype Cargo Expansion;335,623;335,623;56101894.9536133;Stinkfinger;Jonisae;11h 39m 24s 
+BUY;1;Advanced Cargo Expansion;63,906;63,906;56437617.4536133;SimKitten;Kolkax Prime;11h 31m 44s 
+SELL;1;Basic Rocket Launcher;3,276;3276.0000;56501523.0786133;SimKitten;Kolkax Prime;11h 29m 17s 
+SELL;1;Basic Rocket Launcher;3,367;3367.0000;56498247.0783691;SimKitten;Kolkax Prime;11h 28m 55s 
+SELL;986;Torim Ore;19.22;18952.0800;56506420.078125;Kith;Kidd Overture;11h 24m 0s 
+BUY;2;Improved Rocket Launcher;28,887;57,774;56496349.2085495;SimKitten;Kolkax Prime;11h 10m 52s 
+BUY;2;Basic Rocket Launcher;5,734;11,467;56554123.1187057;SimKitten;Kolkax Prime;11h 9m 59s 
+BUY;2;Improved Missile Launcher;29,290;58,579;56849236.0611572;Vita Assembly;Capital Void;10h 36m 36s 
+SELL;1;Cheeseburger;2,439;2438.5400;56912255.2564697;Vita Assembly;Capital Void;10h 35m 47s 
+SELL;36;Calibration Tools;773;27824.4500;56909816.7164307;Vita Assembly;Capital Void;10h 35m 36s 
+SELL;42;Basic Food Rations;31.67;1330.2670;56881992.2672119;Vita Assembly;Capital Void;10h 35m 33s 
+BUY;1;Generic Salvage Collector;2,047;2,047;56832355.0952148;Biomate University;Void Starcross;9h 48m 45s 
+BUY;50;Medium Shield Charge;16,785;839,262;56834401.9326172;StarGypsy Warehouse;Void Starcross;9h 46m 25s 
+SELL;1;Grilled Steak;21,337;21336.9000;57673663.6826172;StarGypsy Warehouse;Void Starcross;9h 45m 34s 
+SELL;66;Advanced Torpedo ;225;14840.6800;57652326.7841797;StarGypsy Warehouse;Void Starcross;9h 45m 31s 
+BUY;50;Medium Energy Charge;21,763;1,088,156;57637511.1064453;Mazu Starship;Volox;9h 42m 58s 
+SELL;1;Cheeseburger;13,656;13655.8200;58725667.3564453;Mazu Starship;Volox;9h 42m 18s 
 BUY;1;UV Filter;65,476;65,476;58513920.8203125;Lammassu Hub;Numbu;9h 20m 55s 
 BUY;1;Bio Converter;81,889;81,889;58579396.3789063;Lammassu Hub;Numbu;9h 20m 55s 
 BUY;1;OmniCon Regulator;64,819;64,819;58661284.9414063;Lammassu Hub;Numbu;9h 20m 55s 
@@ -77,26 +100,3 @@ BUY;15;Basic ECM Energy Coil;204,765;3,071,473;1464880.88637519;Valuestar Hub;Je
 SELL;8;Basic ECM Energy Coil;558,346;4466770.0000;4536453.88637519;StarShepards Headquarters;Void Starcross;4h 38m 11s 
 BUY;8;Basic ECM Energy Coil;201,465;1,611,716;69708.8863751888;Valuestar Hub;Jelumus;4h 35m 41s 
 SELL;3;Basic ECM Energy Coil;500,264;1500793.0000;1681525.13637519;StarShepards Headquarters;Void Starcross;4h 31m 59s 
-BUY;3;Basic ECM Energy Coil;198,164;594,493;180856.886375189;Valuestar Hub;Jelumus;4h 26m 33s 
-SELL;2;Basic ECM Energy Coil;384,574;769147.1000;775449.511375189;StarShepards Headquarters;Void Starcross;4h 22m 8s 
-BUY;2;Basic ECM Energy Coil;194,864;389,728;6327.44887518883;Valuestar Hub;Jelumus;4h 19m 53s 
-SELL;2090;Magnetic Quartz;2.98;6232.6240;396155.167625189;StarShepards Headquarters;Void Starcross;4h 13m 45s 
-BUY;1206;Magnetic Quartz;2.09;2,526;389947.544090033;Medicore University;Cliffs of Drameria;4h 12m 2s 
-BUY;634;Magnetic Quartz;2.24;1,420;392573.693748236;Lammassu Financial;Void Starcross;4h 10m 55s 
-BUY;250;Magnetic Quartz;1.28;319.8;394018.620383978;Daemon Ammunitions;Starfort Ramos;4h 9m 36s 
-SELL;56;Lokken Ore;37.39;2093.6470;394438.43877387;Starbase Corporate Center;Void Starcross;4h 5m 3s 
-SELL;9;Junk Part;7.23;65.1105;392670.891312957;ValueStar;Hunu;3h 52m 23s 
-SELL;1;Improved Filter;8,361;8360.6240;392605.780824065;ValueStar;Hunu;3h 52m 20s 
-SELL;11;Active Scanner;30,935;340284.6000;351782.143128753;Oro Omniplex Center;Merces Academy;3h 41m 0s 
-BUY;11;Active Scanner;16,060;176,660;11697.5181287527;The Dunes;The Dunes of Caliph;3h 39m 50s 
-SELL;270;Gradeon Ore;5.93;1601.3470;188458.086878777;Oro Omniplex Center;Merces Academy;3h 38m 31s 
-SELL;6;Active Scanner;30,947;185681.7000;187344.989588737;Oro Omniplex Center;Merces Academy;3h 37m 28s 
-BUY;6;Active Scanner;15,803;94,815;1763.28646373749;The Dunes;The Dunes of Caliph;3h 33m 19s 
-SELL;1;Protein Bar;4,550;4550.0000;176891.755213737;Daemon Ammunitions;Starfort Ramos;3h 25m 0s 
-SELL;1;Containment Unit;6,609;6608.8750;144907.255213737;Quantex;Dellis Primeria;3h 18m 45s 
-SELL;7;Quazor Ore;12.88;90.1919;126582.129237175;StarShepards Headquarters;Void Starcross;3h 10m 1s 
-SELL;1;Basic Filter;2,685;2684.5000;126491.937335014;StarShepards Headquarters;Void Starcross;3h 9m 56s 
-SELL;1;Improved Filter;5,096;5096.0000;123807.437335014;StarShepards Headquarters;Void Starcross;3h 9m 54s 
-SELL;1;Generic Salvage Collector;1,404;1404.0000;94597.9767881632;Biomate University;Void Starcross;2h 53m 24s 
-BUY;1;Disposables;8,124;8,124;93193.9767881632;CoraVault;Lins;2h 49m 19s 
-BUY;1;Tractor Beam;12,608;12,608;101318.133038163;CoraVault;Lins;2h 48m 5s 

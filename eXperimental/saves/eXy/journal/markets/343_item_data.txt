@@ -7,3 +7,8 @@ NPC;+STOCK;772;706;5181.227;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;772;0;5701.526;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;928;0;7281.784;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;-LOCAL;0;0;8714.509;Lammassu Hub;Numbu;9h 18m 41s ;33521.09
+NPC;-PRICE;51;0;4317.296;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;51;0;4236.04;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;974;906;7769.924;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;1671;933;4086.776;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1651;723;7207.144;Biomate University;Void Starcross;12h 15m 59s ;44159.89

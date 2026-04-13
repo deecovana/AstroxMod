@@ -20,3 +20,5 @@ NPC;+LOCAL;15;22;4875;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698
 NPC;+LOCAL;15;1;4875;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;+PRICE;208;0;12277.04;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 PLAYER;-QTY;47;9;17591.02;Daemon Ammunitions;Starfort Ramos;7h 50m 31s ;28231.17
+NPC;-PRICE;132;0;13912.99;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;132;0;13375.34;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82

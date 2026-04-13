@@ -36,3 +36,15 @@ NPC;-LOCAL;0;0;2.75;StarShepards Headquarters;Void Starcross;6h 22m 23s ;22943.2
 NPC;+PRICE;682;0;1.103221;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;-LOCAL;48;48;1.283832;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
 NPC;+STOCK;845;845;1.604954;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-LOCAL;26;26;1.2375;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-LOCAL;64;0;1.2375;Temple of the Void;Vindicati;10h 16m 3s ;36963.16
+NPC;-PRICE;49;0;1.205977;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;49;0;1.164282;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;0;0;1.331;SimKitten;Kolkax Prime;11h 7m 32s ;40052.41
+NPC;+QTY;553;502;1.313627;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;-LOCAL;0;0;1.571984;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+STOCK;885;885;3.535266;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-LOCAL;27;27;1.272515;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+STOCK;754;728;1.530342;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;61;61;1.2375;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85
+NPC;+STOCK;1470;788;1.085378;Biomate University;Void Starcross;12h 15m 59s ;44159.89

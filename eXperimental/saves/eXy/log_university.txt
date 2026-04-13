@@ -1,4 +1,14 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;2;Drone Operation;3 min;10;14250.0;56043273.6853027;Biomate University;Void Starcross;12h 18m 30s 
+SKILL;4;Launcher Basic Operation;8 min;16;11440.0;56494980.078125;Kith;Kidd Overture;11h 24m 14s 
+SKILL;3;Launcher Basic Operation;6 min;12;8580.0;56487669.2085495;Kith;Kidd Overture;11h 17m 3s 
+SKILL;4;Laser Basic Operation;8 min;24;7304.0;56841005.0924683;Vita Assembly;Capital Void;10h 50m 27s 
+SKILL;2;Launcher Basic Operation;4 min;8;4440.0;56907815.2564697;Vita Assembly;Capital Void;10h 36m 6s 
+SKILL;3;Laser Basic Operation;6 min;18;5478.0;56880662;Vita Assembly;Capital Void;10h 32m 47s 
+SKILL;1;Launcher Basic Operation;2 min;4;2220.0;56886140;Vita Assembly;Capital Void;10h 32m 46s 
+SKILL;2;Utility Ship Operation;3 min;52;94500.0;56864058.420166;Biomate University;Void Starcross;10h 7m 42s 
+SKILL;1;Utility Ship Operation;2 min;26;47250.0;56737855.0952148;Biomate University;Void Starcross;9h 50m 11s 
+SKILL;1;Destroyer Ship Operation;2 min;26;47250.0;56785105.0952148;Biomate University;Void Starcross;9h 50m 0s 
 SKILL;1;Drone Operation;2 min;5;7125.0;63731493.9053738;Biomate University;Void Starcross;7h 53m 38s 
 SKILL;3;Frigate Ship Operation;3 min;48;47250.0;63738618.9053738;Biomate University;Void Starcross;7h 53m 31s 
 SKILL;2;Frigate Ship Operation;2 min;32;31500.0;64151061.1951687;Biomate University;Void Starcross;7h 6m 26s 

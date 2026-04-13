@@ -55,12 +55,12 @@ SHIP_material_color_b;1.00;0.20;0.20;0.50
 SHIP_engine_color;1.00;0.20;0.20;0.50
 //; ----- Misc -----
 SHIP_shield;2200
-SHIP_armor;1500
+SHIP_armor;556.5842
 SHIP_energy;2400
-SHIP_ls_food;604;213
-SHIP_ls_water;624;213
-SHIP_ls_thermal;644;213
-SHIP_ls_waste;664;213
+SHIP_ls_food;604;201.5818
+SHIP_ls_water;624;201.5818
+SHIP_ls_thermal;644;201.5818
+SHIP_ls_waste;664;201.5818
 SHIP_ls_points;1152
 SHIP_collider_x;1
 SHIP_collider_y;1
@@ -105,20 +105,27 @@ MODSLOT;module_slot;6; 99 ;-1.32;-0.89;-2.44;0.00;0.00;90.00;1.00;1.00;1.00
 //; ----------------------------- SHIP MODULES --------------------------------------
 //; ----- MODULE,slot,module_id
 <MODULE>
-MODULE; 1 ; 1101;0;-40/80/-160/160/0
-MODULE; 2 ; 1101;0;-40/80/-160/160/0
-MODULE; 3 ; 1101;0;-40/80/-160/160/0
-MODULE; 4 ; 1101;0;-40/80/-160/160/0
-MODULE; 5 ; 1101;0;-40/80/-160/160/0
-MODULE; 6 ; 1101;0;-40/80/-160/160/0
-PMODULE; 1 ; 1583
-PMODULE; 2 ; 1543
-PMODULE; 3 ; 1543
+MODULE; 1 ; 1201;9;-10/30/-50/50/0
+MODULE; 2 ; 1201;8;-10/30/-50/50/0
+MODULE; 3 ; 1101;21;-40/80/-160/160/0
+MODULE; 4 ; 1101;19;-40/80/-160/160/0
+MODULE; 5 ; 1060;16;-10/50/-140/140/0;62
+MODULE; 6 ; 1060;16;-10/50/-140/140/0;61
+PMODULE; 1 ; 1534
+PMODULE; 2 ; 1534
+PMODULE; 3 ; 1534
 //; ----------------------------- SHIP CARGO -----------------------------------------
 //; ----- CARGO, qty, cargo_id
 <CARGO>
-CARGO; 27 ; 670
-CARGO; 10 ; 674
+CARGO; 33 ; 670
+CARGO; 156 ; 62
+CARGO; 1 ; 1583
+CARGO; 2 ; 1062
+CARGO; 1 ; 1400
+CARGO; 4 ; 1101
+CARGO; 1 ; 1451
+CARGO; 134 ; 10
+CARGO; 270 ; 61
 //; ----------------------------- SHIP DRONES -----------------------------------------
 //; ----- DRONE, id, hp, energy , is_docked, group_id
 <DRONE>

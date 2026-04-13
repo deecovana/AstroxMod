@@ -11,3 +11,7 @@ NPC;+PRICE;381;0;6423.824;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;226;0;11165.91;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;0;99;13964.91;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-QTY;134;-1;13592.81;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;-PRICE;214;0;10078.48;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;228;2;10788.48;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;2;2;13431.58;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;383;2;5878.761;Biomate University;Void Starcross;12h 15m 59s ;44159.89

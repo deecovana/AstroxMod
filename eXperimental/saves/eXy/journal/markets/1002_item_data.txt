@@ -11,3 +11,4 @@ NPC;+PRICE;10;0;2082.798;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;+PRICE;8;0;2307.834;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;-LOCAL;0;0;5000;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;+PRICE;2;0;1604.615;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+NPC;+STOCK;18;8;1991.911;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

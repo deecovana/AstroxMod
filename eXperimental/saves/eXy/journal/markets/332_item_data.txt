@@ -10,3 +10,10 @@ NPC;+PRICE;765;0;2683.624;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;17;0;1991.281;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;44;0;2859.523;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;-LOCAL;29;29;3132.731;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
+NPC;-LOCAL;0;0;6961.625;Tella's;Bitcola;10h 5m 33s ;36333.38
+NPC;-PRICE;37;0;2036.734;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;18;0;1765.692;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+PRICE;64;0;2332.853;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;809;792;1912.479;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;1000;958;2914.429;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1617;852;2597.708;Biomate University;Void Starcross;12h 15m 59s ;44159.89

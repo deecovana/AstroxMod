@@ -8,3 +8,6 @@ NPC;+STOCK;385;2;40490.61;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;384;-1;42422.66;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;289;0;53309.58;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-PRICE;28;0;35335.04;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
+NPC;-PRICE;289;0;35379.27;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+QTY;232;1;26636.66;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+PRICE;0;99;57508.13;Temple of the Void;Vindicati;11h 50m 16s ;42616.5

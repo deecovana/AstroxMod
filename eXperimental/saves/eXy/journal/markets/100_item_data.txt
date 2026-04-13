@@ -8,3 +8,10 @@ NPC;BAL;67;0;1.841459;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;615;0;1.103304;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;773;0;1.313578;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-LOCAL;22;0;1.6875;Star Shepards Hub;Temple Gates;7h 28m 51s ;26931.18
+NPC;+PRICE;904;0;1.211334;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+QTY;806;228;1.821309;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+PRICE;481;0;1.793205;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+PRICE;128;0;1.09923;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+PRICE;198;0;2.025647;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;682;218;1.026219;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;801;186;1.025921;Biomate University;Void Starcross;12h 15m 59s ;44159.89

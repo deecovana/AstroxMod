@@ -4,3 +4,6 @@ NPC;-QTY;24;-2;5233936;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;+STOCK;13;2;6764078;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;43;2;4716084;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;251;0;6896281;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;122;0;3587943;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+QTY;399;1;6014004;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+STOCK;253;2;6776668;Biomate University;Void Starcross;12h 15m 59s ;44159.89

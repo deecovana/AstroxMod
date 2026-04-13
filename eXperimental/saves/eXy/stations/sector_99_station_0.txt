@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;3-4-0-1-3-0-8-1-5-4-1-5-0-2-7-3-7-90
 STATION;interior_seed;3-7-0-9
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;36855.76
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -40,6 +43,8 @@ MERC;7;1.92;npc_ship_data_(excavation_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (1) Items ;6x766;71511;104360.10
+BUYORDER;Market Needs Goods: (1) Items ;311x711;108262;107621.10
 SELLORDER;Market Stock: (2) Items ;150x68,168x438;10301;109126.00
 SELLORDER;Market Inventory: (2) Items ;157x115,153x458;5695;82630.03
 BUYORDER;Wanted (2) Items ;301x2222,406x1761;38918;97922.16
@@ -165,6 +170,10 @@ SKILL;74;2.00
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;60;45;383083;HARVEST#62#5#sector_63.txt#sector_3_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Numbu</color> and return with <color='yellow'>62</color> ore to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;9;A local prospector, <i>Totim Arsbastfae</i> of the Temple faction has located a light quantity of special <color='yellow'>Special Torim Ore</color> in the <color='cyan'>Numbu</color> sector. Head over there and harvest all of the special <color='yellow'>Special Torim Ore</color>, and meet <i>Totim Arsbastfae</i> back at Daemon Ammunitions station located in the <color='cyan'>Starfort Ramos</color>.;11941;4500
+MISSION;71;45;559526;ESCORT#sector_14_station_0.txt#sector_56_station_1.txt#Major Welinine Ilsmivis#npc_ship_data_(kj_utility_1)#1#null#null#null;<color='yellow'><i>Major Welinine Ilsmivis</i></color> requests an escort from Imperium Republica  in <color='cyan'>Gate of Alpharis</color> to ValueStar in <color='cyan'>Hunu</color>;11;The Astrox Security Patrol has posted a contract for the safe delivery of a <color='yellow'><i>Major Welinine Ilsmivis</i></color>, wanted for questioning in a non-violent incident a few cycles ago in the <color='cyan'>Gate of Alpharis</color> system. Escort <color='yellow'><i>Major Welinine Ilsmivis</i></color> from Imperium Republica  to ValueStar in the <color='cyan'>Hunu</color> system.;10850;2625
+MISSION;52;30;968975;SCAN_STRUCTURE#sector_4_station_0.txt#sector_0.txt#Industrial Machine#structure_machine_1.txt#1#null#null#null;Track and scan the target <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Void Starcross</color> and return to The Dunes in <color='cyan'>The Dunes of Caliph</color>;11;The Orthodox faction has commissioned scientific survey of a strange vibration taking place at <color='yellow'>Industrial Machine</color> in the <color='cyan'>Void Starcross</color> sector. Head over to <color='cyan'>Void Starcross</color> and scan the <color='yellow'>Industrial Machine</color> structure. Once complete, return to the The Dunes station located in the <color='cyan'>The Dunes of Caliph</color> with the scan data.;20519;6125
+MISSION;92;90;498062;KILL_PILOT#sector_69_station_1.txt#sector_8.txt#Laborer Peireno Lomdaleimes#npc_ship_data_(ATC_Lucky)#7#null#null#null;Execute <color='yellow'><i>Laborer Peireno Lomdaleimes</i></color> in <color='cyan'>The Moon of Crystalis</color> and return to Oak Industries in <color='cyan'>Dorando Corridor</color>;9;A low level criminal has finally hit the radar of the Astrox Security Patrol. A new kill contract has been issued for <color='yellow'><i>Laborer Peireno Lomdaleimes</i></color> located in <color='cyan'>The Moon of Crystalis</color>. <color='yellow'><i>Laborer Peireno Lomdaleimes</i></color> has been know to pull some sneaky tricks during combat, so be careful when engaging him. After his ship has been destroyed, head to Oak Industries station in the <color='cyan'>Dorando Corridor</color> system.;40354;11485
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -178,3 +187,4 @@ SHIP;7;1.08;ship_data_(transport_escort_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

@@ -4,7 +4,7 @@ SECTOR;name;Vindicati
 SECTOR;level;2.6
 SECTOR;faction;Temple
 SECTOR;filename;sector_103.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;30
@@ -62,10 +62,10 @@ STARLIGHT;color_4;0.30;0.18;0.10;0.15
 STARLIGHT;color_5;0.30;0.18;0.10;0.10
 
 // STATION;Sector filename;X position;Y position;Z position
-STATION;sector_103_station_0.txt;-3015;356;391
+STATION;sector_103_station_0.txt;-3015;356;391;prescan
 
-// STRUCTURE;Structure filename;X position;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;637;99;-3583
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;637.00;99.00;-3583.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;100;10;100;10000;1000;0;0
@@ -73,12 +73,12 @@ CLUSTER;2;40;100;200;10000;0;1000;0
 CLUSTER;3;40;100;300;10000;0;0;1000
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;4;-1648;1237;-2291;1200;1200
+RESOURCE;4;-1648.0;1237.0;-2291.0;1200;1200
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_99.txt;2;2672;647;-407;0;Temple;0
-WARPGATE;2;sector_101.txt;2;-3055;-153;2022;0;Temple;-0.4
-WARPGATE;3;sector_9.txt;3;1994;-150;1501;-1;Temple;2;warpgate_103_3.txt;10
+WARPGATE;1;sector_99.txt;2;2672;647;-407;0;Temple;0;prescan
+WARPGATE;2;sector_101.txt;2;-3055;-153;2022;0;Temple;-0.4;prescan
+WARPGATE;3;sector_9.txt;3;1994;-150;1501;-1;Temple;2;warpgate_103_3.txt;10;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;0;0;0;0;0;0;0;lightning 1;;;;

@@ -6,3 +6,9 @@ NPC;+STOCK;30;4;63715.85;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;27;4;80012.02;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;39;3;88224.41;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;36;-3;91481.05;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;-PRICE;16;0;64234.52;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;1;0;122027.2;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;9;0;143822.2;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;37;3;73072.94;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;34;4;61036;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;36;3;59171.3;Biomate University;Void Starcross;12h 15m 59s ;44159.89

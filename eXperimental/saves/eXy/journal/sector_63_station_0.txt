@@ -3,7 +3,7 @@ Enterprise Hub
 Dueemifie Uomi
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 33655.32
+Timestamp: 34763.56
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -39,19 +39,19 @@ Offices
 <Station Market Orders>
 [c:red]SELL Order[/c] Market Production: (1) Items 
  (381) x Entertainment Electronics
-Buy items for [c:lime]64,134 discount.[/c]
+Buy items for [c:lime]66,548 discount.[/c]
 [c:red]SELL Order[/c] Market Stock: (2) Items 
  (144) x Entertainment Electronics
  (474) x Candy Cane
-Buy items for [c:lime]38,961 discount.[/c]
+Buy items for [c:lime]39,691 discount.[/c]
 [c:red]SELL Order[/c] Market Stock: (2) Items 
  (431) x Wrapped Box
  (278) x Media Recordings
-Buy items for [c:lime]268,577 discount.[/c]
+Buy items for [c:lime]270,265 discount.[/c]
 [c:red]SELL Order[/c] Market Stock: (2) Items 
  (84) x Musical Instruments
  (85) x Entertainment Electronics
-Buy items for [c:lime]220,605 discount.[/c]
+Buy items for [c:lime]221,252 discount.[/c]
 
 
 <Station Market Items>
@@ -261,9 +261,6 @@ Launcher Damage Calibration
 
 
 <Station Missions>
-[c:lime]TRANSPORT[/c]
-Move light cargo from OmniTrust in <color='cyan'>Ponze</color> and dock with <color='yellow'>6</color> <color='yellow'>Advanced Mass Reductions</color> at Gunstellar in <color='cyan'>Adrenal</color>
-
 [c:lime]HARVEST[/c]
 Harvest special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Starfort Ramos</color> and return with <color='yellow'>70</color> ore to Legistron in <color='cyan'>Dogstar Prime</color>
 
@@ -275,6 +272,21 @@ Locate and scan the <color='yellow'>Office Center</color> structure in <color='c
 
 [c:lime]ESCORT[/c]
 <color='yellow'><i>Bishop Qoada Toser</i></color> is waiting at Acrondia Hub in <color='cyan'>Temple Gates</color> and needs an escort to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>
+
+[c:lime]KILL RECOVER[/c]
+Hijack <color='yellow'><i>Rookie Nortisrib Uebar</i></color> in <color='cyan'>Dellis Primeria</color> for <color='yellow'>464</color> <color='yellow'>Wrapped Boxs</color> and deliver them to Horizons in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]RECOVER[/c]
+Reclaim a medium shipment <color='yellow'>crate</color> in <color='cyan'>Starfort Ramos</color> and bring back to Proctors Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]KILL RAIDERS[/c]
+Hunt <color='yellow'>1 Raider</color> level 10 Raider(s) in <color='cyan'>Beaondus</color> and return to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]SCAN[/c]
+Track down and scan <color='yellow'><i>Chairman Zaexon Lockipei</i></color> in <color='cyan'>Felishar</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>
+
+[c:lime]SCAN[/c]
+Track down and scan <color='yellow'><i>Overseer Arnortis Tazils</i></color> in <color='cyan'>Volox</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>
 
 
 

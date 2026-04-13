@@ -6,3 +6,4 @@ NPC;-PRICE;38;0;344653.6;Gunstellar;Adrenal;6h 18m 15s ;22695.92
 NPC;+PRICE;26;0;409203.4;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;31;-7;278642.4;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;+LOCAL;12;71;117048.8;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
+NPC;+STOCK;36;10;390715.9;Biomate University;Void Starcross;12h 15m 59s ;44159.89

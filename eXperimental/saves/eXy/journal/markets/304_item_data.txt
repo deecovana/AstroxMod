@@ -11,3 +11,9 @@ NPC;+STOCK;888;871;485.5754;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;806;0;705.902;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;28;0;709.6737;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-QTY;0;-10;734.0253;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;-PRICE;2;0;639.6106;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;14;0;452.4872;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;33;0;1024.152;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;982;954;677.4271;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;712;699;630.7877;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1632;826;666.4054;Biomate University;Void Starcross;12h 15m 59s ;44159.89

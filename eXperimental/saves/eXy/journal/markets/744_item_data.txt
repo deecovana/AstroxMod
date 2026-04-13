@@ -12,3 +12,9 @@ NPC;+STOCK;25;10;85742.19;Starbase Corporate Center;Void Starcross;5h 37m 58s ;2
 NPC;+LOCAL;15;16;81250;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
 NPC;+LOCAL;15;1;81250;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;+PRICE;101;0;263613.3;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;BAL;6;0;270653.7;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;-PRICE;109;0;230692.9;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+QTY;99;11;166051.6;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+PRICE;59;0;266624.3;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;111;10;255380.1;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;57;10;163786.6;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

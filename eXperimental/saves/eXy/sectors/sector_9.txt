@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;9
 SECTOR;name;Forges of Mintar
-SECTOR;level;0.2
+SECTOR;level;0.1
 SECTOR;faction;Labor
 SECTOR;filename;sector_9.txt
 SECTOR;is_explored;False

@@ -6,3 +6,7 @@ NPC;+PRICE;76;0;109419.3;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;+PRICE;10;0;92865.23;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;BAL;12;0;79519.3;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-PRICE;24;0;136110.7;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
+NPC;-LOCAL;0;0;260000;Tella's;Bitcola;10h 5m 33s ;36333.38
+NPC;-PRICE;48;0;66668.41;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;87;11;105470.2;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;85;9;48395.4;Biomate University;Void Starcross;12h 15m 59s ;44159.89

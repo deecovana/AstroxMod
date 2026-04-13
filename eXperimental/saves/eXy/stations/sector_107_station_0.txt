@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;2-9-0-7-9-2-1-0-1-0-1-2-90
 STATION;interior_seed;3-2-15-7
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;37778.82
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;False
@@ -300,6 +303,10 @@ SKILL;4;0.85
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;112;60;790073;KILL_RAIDERS#sector_103_station_0.txt#sector_48.txt#1#20#npc_ship_data_(Testship)#random#random#random;Destroy <color='yellow'>1 Raider</color> level 20 Raider(s) in <color='cyan'>Inchina Wel</color> and return to Temple of the Void in <color='cyan'>Vindicati</color>;9;A large Raider gang has been seen lurking around in <color='cyan'>Inchina Wel</color>. Their leader, <i>Daekadd Eaya</i>, is a wanted criminal and the Temple faction has requested a bounty on <i>Daekadd Eaya</i> and his crew. Travel to the <color='cyan'>Inchina Wel</color> and clear out the <color='yellow'>1 Raider</color>, level 20 Raiders that have been lurking around. Dock at the Temple of the Void station in <color='cyan'>Vindicati</color> when complete.;45058;25266
+MISSION;10;30;597680;DELIVERY#2#1553#sector_3_station_0.txt#sector_62_station_0.txt#null#null#null#null;Dock at Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> to deliver a light shipment of <color='yellow'>2</color> <color='yellow'>Premium Shield Boosters</color>;10;<i>Meljid Tugaas</i> runs a Missionary shipping company at Valuestar Hub. After having some issues with a transport ship, <color='yellow'>2</color> items of <color='yellow'>Premium Shield Boosters</color> were left behind. Head on over to <color='cyan'>Starfort Ramos</color> and deliver these <color='yellow'>Premium Shield Boosters</color> to Daemon Ammunitions.;7700;3000
+MISSION;127;45;187764;CHAT_PILOT#sector_63_station_0.txt#sector_20.txt#Leader Kaddca Welipi#npc_ship_data_(freighter_4)#4#missions_transfer_pilot.txt#0#null;Transfer a legal document to <color='yellow'><i>Leader Kaddca Welipi</i></color> in <color='cyan'>Cliffs of Drameria</color>. Return with confirmation at Lammassu Hub in <color='cyan'>Numbu</color>;10;<color='yellow'><i>Leader Kaddca Welipi</i></color> is required to provide the Missionary faction a signed legal document. <color='yellow'><i>Leader Kaddca Welipi</i></color> has returned this document unsigned. Last known sighting of <color='yellow'><i>Leader Kaddca Welipi</i></color> was in the area of <color='cyan'>Cliffs of Drameria</color>. Locate them and resolve this problem. Then return to Lammassu Hub in the <color='cyan'>Numbu</color> system to deliver confirmation.;594836;251325
+MISSION;111;60;637520;KILL_RAIDERS#sector_14_station_1.txt#sector_96.txt#1#20#npc_ship_data_(heavy_excavation_carrier_7)#random#random#random;Kill <color='yellow'>1 Raider</color> level 20 Raider Ship(s) in <color='cyan'>Arch of Mori</color>. Return to Horizons in <color='cyan'>Gate of Alpharis</color>;11;A medium group of thugs decided to set up camp in the <color='cyan'>Arch of Mori</color> system. <i>Peaso Mesbel</i>, who has recently been elected as Overseer of <color='cyan'>Arch of Mori</color> by the Orthodoxs, has requesting this contract to maintain in good standing with his constituents. Wipe out the level 20 raiders and return to the Horizons station.;22607;7220
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -311,3 +318,4 @@ SHIP;5;0.92;ship_data_(support_carrier_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

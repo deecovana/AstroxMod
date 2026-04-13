@@ -1,3 +1,9 @@
 NPC;-LOCAL;0;0;327549.9;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
 NPC;+STOCK;10;10;386541.4;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;-LOCAL;52;52;270000;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
+NPC;-LOCAL;79;79;270000;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-PRICE;58;0;261014.5;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;46;0;285092.2;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;-LOCAL;0;0;376578.3;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+STOCK;89;10;332026;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;33;33;270000;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

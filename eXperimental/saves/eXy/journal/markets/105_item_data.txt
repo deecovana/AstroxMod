@@ -8,3 +8,8 @@ NPC;+STOCK;1459;242;6.617515;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;1295;-164;6.988821;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;885;0;4.226511;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;1210;0;7.822439;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+LOCAL;250;1830;2.5155;Mazu Starship;Volox;9h 42m 16s ;34936.92
+NPC;+LOCAL;250;2;9.703859;Kith;Kidd Overture;11h 16m 17s ;40577.67
+NPC;+STOCK;1455;245;7.434086;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;1186;227;9.879098;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1067;182;4.047338;Biomate University;Void Starcross;12h 15m 59s ;44159.89

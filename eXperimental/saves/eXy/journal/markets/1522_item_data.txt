@@ -3,3 +3,5 @@ NPC;-LOCAL;0;0;101865.8;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
 NPC;-LOCAL;0;0;103443.4;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
 NPC;+STOCK;44;11;100622.7;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;-QTY;4;-9;85018.75;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+PRICE;11;0;68198.09;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;50;10;76284.09;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

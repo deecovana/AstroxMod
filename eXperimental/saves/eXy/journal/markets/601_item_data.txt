@@ -15,3 +15,7 @@ NPC;+PRICE;27;0;7741.686;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;17;-2;11944.54;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;+STOCK;14;4;6690.821;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-QTY;19;-2;16052.86;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;-PRICE;11;0;13400.21;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;35;0;13786.6;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+STOCK;36;4;14132.33;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;33;4;11801.16;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

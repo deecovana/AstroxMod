@@ -5,3 +5,8 @@ NPC;+STOCK;11;11;86103.58;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.1
 NPC;+STOCK;38;11;36222.69;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;28;-10;37877.19;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;62;62;56634.16;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
+NPC;-LOCAL;0;0;125000;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-PRICE;5;0;44263.61;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;0;0;81953.81;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+STOCK;10;10;158975.7;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;14;14;56250;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

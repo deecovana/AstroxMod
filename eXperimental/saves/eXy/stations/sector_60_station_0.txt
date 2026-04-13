@@ -42,8 +42,6 @@ MERC;9;1.60;npc_ship_data_(excavation_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-SELLORDER;Market Items: (3) Items ;214x447,218x333,210x426;147942.00;43477.25
-BUYORDER;Market Low Inventory: (1) Items ;331x143;49150.00;74258.14
 ITEM;1451;39;0.66;18480.90
 ITEM;1;147;0.62;4.74
 ITEM;641;5;0.59;7929.58

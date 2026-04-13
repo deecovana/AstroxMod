@@ -1,0 +1,75 @@
+[s:30][c:yellow]Acrondia Corp.[/c][/s]
+Fabrication Plant
+Borgale Feiforo
+Temple
+[c:lime]Dock fee 100[/c]
+Timestamp: 37856.83
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic 20mm
+Advanced 20mm
+Prototype 20mm
+Basic 60mm
+Advanced 60mm
+Prototype 60mm
+Basic Missile 
+Advanced Missile
+Prototype Missile 
+Basic Torpedo 
+Advanced Torpedo 
+Prototype Torpedo 
+[c:orange]DEMAND[/c]
+Junk Part
+Scrap Part
+Undamaged Part
+Metal Fragment
+Electronic Fragment
+Module Fragment
+Weapons Component
+Engine Component
+Computer Component
+Hull Chassis
+Generic Heavy Cannon
+Prototype Heavy Cannon
+Basic Heavy Cannon
+Improved Heavy Cannon
+Advanced Heavy Cannon
+Premium Heavy Cannon
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Ship Hangar
+Storage
+Offices
+
+
+<Station Market Orders>
+[c:red]SELL Order[/c] Market Surplus: (1) Items 
+ (121) x Prototype Torpedo 
+Buy items for [c:lime]45,252 discount.[/c]
+[c:red]SELL Order[/c] Market Items: (1) Items 
+ (295) x Basic 60mm
+Buy items for [c:lime]7,071 discount.[/c]
+[c:red]SELL Order[/c] Market Surplus: (2) Items 
+ (94) x Prototype 60mm
+ (122) x Advanced Missile
+Buy items for [c:lime]28,962 discount.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+
+
+<Station University Skills>
+
+
+<Station Missions>
+
+
+<Station Ships>
+EF-1 Mining Escort / Escort    (Excavation)
+BS-1 Starclass Shuttle / Shuttle    (Battle)
+RU-1 Curator / Escort    (Recon)
+PF-1 Assault Frigate / Frigate    (Assault)

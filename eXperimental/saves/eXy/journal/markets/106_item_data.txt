@@ -9,3 +9,8 @@ NPC;+STOCK;463;218;11.13903;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;92;0;6.226551;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;52;0;8.524546;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;+LOCAL;250;862;3.01925;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;-PRICE;226;0;10.73108;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;226;0;11.09055;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;336;244;5.795078;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;872;215;7.616783;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1177;175;10.95855;Biomate University;Void Starcross;12h 15m 59s ;44159.89

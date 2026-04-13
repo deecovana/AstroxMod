@@ -22,3 +22,9 @@ NPC;-LOCAL;1329;0;58.365;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22
 NPC;-LOCAL;516;0;58.365;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 PLAYER;+QTY;1580;1064;74.10632;Starbase Corporate Center;Void Starcross;7h 27m 8s ;26828.08
 NPC;-QTY;0;-796;61.2411;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;+PRICE;288;0;61.28669;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+PLAYER;+QTY;1495;986;34.19184;Kith;Kidd Overture;11h 24m 0s ;41040.57
+NPC;+STOCK;5598;4739;42.51461;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+PLAYER;+QTY;1242;383;43.41383;StarShepards Headquarters;Void Starcross;12h 9m 11s ;43751.38
+NPC;+STOCK;7280;3682;64.03073;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;10792;4892;60.01104;Biomate University;Void Starcross;12h 15m 59s ;44159.89

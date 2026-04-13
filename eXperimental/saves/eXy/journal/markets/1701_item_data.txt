@@ -2,3 +2,5 @@ NPC;+LOCAL;12;8;10282.95;Daemon Ammunitions;Starfort Ramos;4h 9m 18s ;14958.07
 NPC;+STOCK;42;8;17264.11;StarShepards Headquarters;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;34;0;19362.42;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;12;36;8125;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+PRICE;15;0;26307.28;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;45;11;18226.6;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

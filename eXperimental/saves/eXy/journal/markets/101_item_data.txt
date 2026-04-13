@@ -11,3 +11,8 @@ NPC;+PRICE;674;0;2.255332;StarShepards Headquarters;Void Starcross;6h 48m 22s ;2
 NPC;-LOCAL;111;0;2.025;Star Shepards Hub;Temple Gates;7h 28m 51s ;26931.18
 NPC;-QTY;45;-183;1.656788;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
 NPC;+LOCAL;250;837;0.585;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;+LOCAL;250;1106;0.585;Mazu Starship;Volox;9h 42m 16s ;34936.92
+NPC;+PRICE;368;0;1.30737;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+STOCK;896;222;2.21031;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;906;184;2.108376;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1617;245;2.217041;Biomate University;Void Starcross;12h 15m 59s ;44159.89

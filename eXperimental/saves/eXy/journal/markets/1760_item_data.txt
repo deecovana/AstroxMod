@@ -17,3 +17,8 @@ NPC;BAL;99;-8;384730.3;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;28;0;503328.6;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;-LOCAL;24;24;416291.6;StarShepards Headquarters;Void Starcross;6h 22m 23s ;22943.25
 NPC;+PRICE;24;0;552027.5;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-LOCAL;24;0;416291.6;Temple of the Void;Vindicati;10h 16m 3s ;36963.16
+NPC;-PRICE;30;0;239464;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+STOCK;33;9;526119.9;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-LOCAL;26;26;416291.6;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;+STOCK;50;11;470013.7;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

@@ -4,7 +4,7 @@ SECTOR;name;Estura Cove
 SECTOR;level;0.7
 SECTOR;faction;Pirate
 SECTOR;filename;sector_88.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;20
@@ -61,19 +61,19 @@ STARLIGHT;color_4;0.87;0.18;0.00;0.50
 STARLIGHT;color_5;0.77;0.48;0.00;1.00
 
 // STATION;Sector filename;X poisition;Y position;Z position
-STATION;sector_88_station_0.txt;1963.894;-916.7051;-20.78467
+STATION;sector_88_station_0.txt;1963.894;-916.7051;-20.78467;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;1501.6;156.8;-25.6
+STRUCTURE;structure_habitat_1.txt;1501.60;156.80;-25.60
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;20;10;100;1000;1212.1;1.9;-2529.3;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;5;-2765.7;-84.5;264.8;3000.0;3000.0
+RESOURCE;5;-2838.8;-66.5;242.8;3000;3000
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
-WARPGATE;1;sector_87.txt;2;1821.2;-533.9;3357.2;0;Pirate;-0.5
+WARPGATE;1;sector_87.txt;2;1821.2;-533.9;3357.2;0;Pirate;-0.5;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
 PROP;45;0;0;0;0;0;0;GLOW
@@ -91,3 +91,5 @@ NPC_SHIP;npc_ship_data_(pirate_escort_1);-92.64;73.03;-1123.06;16;4
 NPC_SHIP;npc_ship_data_(excavation_escort_1);221.43;559.72;1265.05;9;3
 NPC_SHIP;npc_ship_data_(pirate_utility_1);484.31;-577.84;-174.27;4;5
 
+
+// CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty

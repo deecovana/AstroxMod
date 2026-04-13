@@ -4,3 +4,6 @@ NPC;+STOCK;272;120;47.53456;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;946;0;50.76542;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;823;0;79.27927;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-QTY;0;-42;67.00957;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;+PRICE;373;0;65.07741;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;939;116;75.83775;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;1081;135;47.66935;Biomate University;Void Starcross;12h 15m 59s ;44159.89

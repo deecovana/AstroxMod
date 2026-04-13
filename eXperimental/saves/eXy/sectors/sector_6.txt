@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;6
 SECTOR;name;Atrius Lightfield
-SECTOR;level;2.6
+SECTOR;level;2.5
 SECTOR;faction;Labor
 SECTOR;filename;sector_6.txt
 SECTOR;is_explored;False

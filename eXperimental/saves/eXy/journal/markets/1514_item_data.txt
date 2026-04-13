@@ -1,3 +1,5 @@
 NPC;-LOCAL;0;0;522129.3;Oro Omniplex Center;Merces Academy;3h 37m 23s ;13043.28
 NPC;-LOCAL;0;0;529070.9;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
 NPC;+PRICE;51;0;295353.4;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;7;0;231095.3;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+STOCK;61;10;286407.2;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

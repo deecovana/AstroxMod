@@ -5,3 +5,6 @@ NPC;+PRICE;61;0;324083.8;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;26;0;264717.9;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;30;11;188022.8;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-QTY;55;-6;323340;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;+PRICE;74;0;211320.2;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+QTY;64;9;321346;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+STOCK;35;9;245504.2;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

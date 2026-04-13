@@ -17,3 +17,6 @@ NPC;-PRICE;2;0;254.9433;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;-LOCAL;0;0;807.4;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;0;0;807.4;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;0;0;807.4;CoraVault;Lins;8h 53m 52s ;32032.93
+NPC;-PRICE;12;0;207.5038;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;12;0;191.9976;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;910;904;219.2633;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

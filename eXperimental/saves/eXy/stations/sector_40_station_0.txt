@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;3-9-1-1-3-1-0-1-2-6-2-7-1-3-0-2-7-0
 STATION;interior_seed;3-6-45-2
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;44946.51
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -365,6 +368,12 @@ SKILL;225;1.06
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;90;90;696123;KILL_PILOT#sector_83_station_0.txt#sector_3.txt#Entertainer Fastfon Veswhea#npc_ship_data_(battle_escort_1)#3#null#null#null;Hunt down a low level <color='yellow'><i>Entertainer Fastfon Veswhea</i></color> in <color='cyan'>Starfort Ramos</color> and return to SimKitten in <color='cyan'>Kolkax Prime</color>;15;<i>Jancowho Bafeipoe</i> has put out a kill contract for <color='yellow'><i>Entertainer Fastfon Veswhea</i></color>. Wanted for capital crimes against the Law faction for raiding multiple transports. Last known sighting of <color='yellow'><i>Entertainer Fastfon Veswhea</i></color> was in the vicinity of the <color='cyan'>Starfort Ramos</color> system. After <color='yellow'><i>Entertainer Fastfon Veswhea</i></color> is dispatched, return to the SimKitten in the <color='cyan'>Kolkax Prime</color> system to collect the bounty payment.;12810;3000
+MISSION;151;120;188212;FABRICATE#7#2356#sector_35_station_0.txt#sector_107_station_0.txt#null#null#null#null;Produce a light container of <color='yellow'>7</color> <color='yellow'>Rubber Tubings</color> at the Astrox Security Patrol fabricator in <color='cyan'>Felishar</color>;15;The Law Faction has commissioned a production liaison, <i>Jaghas Xeveskom</i> at RestJag Outlet. After an audit, <color='yellow'>7</color> items of <color='yellow'>Rubber Tubings</color> were deemed required. Head on over to <color='cyan'>Felishar</color> and manufacture these <color='yellow'>Rubber Tubings</color> at Astrox Security Patrol.;27563;12250
+MISSION;104;120;372665;KILL_RECOVER#sector_80_station_0.txt#sector_78.txt#Professor Risbue Eadaxen#npc_ship_data_(ATC_Raider_MK3)#15#87#311#null;Frag <color='yellow'><i>Professor Risbue Eadaxen</i></color> in <color='cyan'>Bitcola</color> and take back <color='yellow'>87</color> <color='yellow'>Bottled Whiskeys</color>. Return to Genistar in <color='cyan'>Blades of Dandrow</color>;15;Mr. <i>Pami Fouqu</i> has finally been arrested in the <color='cyan'>Bitcola</color> system by Law authorities. His accomplice, Mr. <color='yellow'><i>Professor Risbue Eadaxen</i></color> is still at large. Destroy his ship and return the <color='yellow'>87</color> <color='yellow'>Bottled Whiskeys</color> to the Genistar station in the <color='cyan'>Blades of Dandrow</color> sector.;123098;41033
+MISSION;60;45;453229;HARVEST#42#6#sector_70.txt#sector_0_station_2.txt#null#null#null#null;Harvest special <color='yellow'>Special Plasite Ore</color> in <color='cyan'>Beaondus</color> and return with <color='yellow'>42</color> ore to StarGypsy Warehouse in <color='cyan'>Void Starcross</color>;16;A local prospector, <i>Foewe Wheails</i> of the Enforcement faction has located a light quantity of special <color='yellow'>Special Plasite Ore</color> in the <color='cyan'>Beaondus</color> sector. Head over there and harvest all of the special <color='yellow'>Special Plasite Ore</color>, and meet <i>Foewe Wheails</i> back at StarGypsy Warehouse station located in the <color='cyan'>Void Starcross</color>.;13725;5625
+MISSION;32;45;500225;TRANSPORT#129#2033#sector_0_station_5.txt#sector_60_station_0.txt#null#null#null#null;Move light cargo from Proctors Center in <color='cyan'>Void Starcross</color> and dock with <color='yellow'>129</color> <color='yellow'>Cooling Units</color> at Biomart in <color='cyan'>Veloxi</color>;15;<i>Vakfo Paeza</i> was unable to complete a large shipment from Proctors Center to Biomart. A light shipment containing <color='yellow'>129</color> <color='yellow'>Cooling Units</color> is located at the storage bay at Proctors Center in <color='cyan'>Void Starcross</color>. Retrieve the <color='yellow'>Cooling Units</color> and transport them to Biomart in <color='cyan'>Veloxi</color>.;24119;6891
+MISSION;102;120;271710;KILL_RECOVER#sector_3_station_0.txt#sector_72.txt#Engineer Veldorn Nostrafon#npc_ship_data_(excavation_utility_1)#7#19#2055#null;Hijack and kill <color='yellow'><i>Engineer Veldorn Nostrafon</i></color> in <color='cyan'>Xenolin</color> and steal <color='yellow'>19</color> <color='yellow'>Auxiliary System Mounts</color>. Return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>;15;The Law faction has been following an escaped fugitive named <color='yellow'><i>Engineer Veldorn Nostrafon</i></color>. He was recently seen around the <color='cyan'>Xenolin</color> system, but his exact location is unknown. <color='yellow'><i>Engineer Veldorn Nostrafon</i></color> is carrying some cargo that was taken from the security facility. Return the <color='yellow'>Auxiliary System Mounts</color> by any means, and head back to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color>.;53595;26798
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -377,3 +386,4 @@ SHIP;6;0.97;ship_data_(recon_dreadnought_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

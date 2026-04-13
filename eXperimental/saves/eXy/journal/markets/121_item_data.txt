@@ -10,3 +10,8 @@ NPC;+STOCK;1663;193;36.06747;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;150;0;54.25292;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;401;0;43.10356;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;1142;0;53.52579;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;944;0;31.91581;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;944;0;31.45592;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+QTY;337;187;54.07346;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+STOCK;1318;176;51.15979;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;627;226;42.74524;Biomate University;Void Starcross;12h 15m 59s ;44159.89

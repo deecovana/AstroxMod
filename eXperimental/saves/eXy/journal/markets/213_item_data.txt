@@ -3,3 +3,5 @@ NPC;-QTY;402;-112;143.2005;Starbase Corporate Center;Void Starcross;2h 51m 54s ;
 NPC;+STOCK;504;102;137.5161;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;555;107;145.9571;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;469;122;193.2876;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+QTY;271;82;123.3744;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+STOCK;325;109;134.5542;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

@@ -14,3 +14,6 @@ NPC;BAL;72;-12;199424.1;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+LOCAL;13;1;53625;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;+PRICE;146;0;170574.2;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;15;14;53625;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+NPC;-PRICE;120;0;107855.4;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;120;0;106096.4;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;28;0;187265.2;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5

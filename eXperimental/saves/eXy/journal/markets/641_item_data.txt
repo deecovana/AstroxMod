@@ -13,3 +13,10 @@ NPC;+PRICE;24;0;15881.09;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;+PRICE;11;0;9802.618;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;-QTY;0;-1;11548.5;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;-QTY;25;-3;14827.86;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;-PRICE;21;0;12320.32;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;21;0;12066.46;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;14;0;15990.82;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+PRICE;36;0;16169.03;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;28;4;15579.94;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;20;4;14655.65;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;30;4;12490.57;Biomate University;Void Starcross;12h 15m 59s ;44159.89

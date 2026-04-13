@@ -16,3 +16,7 @@ NPC;BAL;233;0;120.1758;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.0
 NPC;-LOCAL;0;0;257.925;Quantex;Dellis Primeria;7h 2m 44s ;25364.85
 NPC;-LOCAL;0;0;257.925;Rendo Labs;Entropy;7h 21m 12s ;26472.57
 NPC;-LOCAL;0;0;257.925;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
+NPC;-PRICE;218;0;139.0126;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;169;0;116.0662;Kith;Kidd Overture;11h 16m 17s ;40577.67
+NPC;-LOCAL;154;0;116.0662;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+STOCK;3647;3455;93.9025;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

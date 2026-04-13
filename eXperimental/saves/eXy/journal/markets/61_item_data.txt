@@ -23,3 +23,10 @@ NPC;+LOCAL;163;6;329.9124;Astrox Security Patrol;Felishar;7h 0m 45s ;25245.71
 NPC;+STOCK;2136;1969;268.6368;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-LOCAL;0;0;632.825;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;-LOCAL;38;38;293.172;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-PRICE;59;0;189.9657;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;59;0;183.5508;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;125;0;293.9313;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;2803;2484;203.5488;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+PLAYER;-QTY;0;319;209.2911;StarShepards Headquarters;Void Starcross;12h 10m 42s ;43842.94
+NPC;-LOCAL;47;47;284.7712;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;4281;1902;292.9242;Biomate University;Void Starcross;12h 15m 59s ;44159.89

@@ -22,3 +22,9 @@ NPC;+PRICE;114;0;1238.859;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;-LOCAL;29;29;1067.872;Mass Market;Dorando Corridor;7h 36m 42s ;27402.44
 NPC;+STOCK;2424;2399;1006.023;Biomart;Veloxi;8h 51m 34s ;31894.31
 NPC;-LOCAL;79;79;1067.872;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-PRICE;381;0;361.2651;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;381;0;320.6135;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;2031;1678;613.1915;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;3953;1904;549.1671;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;0;0;2373.05;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;4240;1915;1011.724;Biomate University;Void Starcross;12h 15m 59s ;44159.89

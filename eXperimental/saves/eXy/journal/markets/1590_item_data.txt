@@ -4,3 +4,5 @@ NPC;+STOCK;90;11;19088.64;StarShepards Headquarters;Void Starcross;5h 37m 58s ;2
 NPC;-PRICE;30;0;21696.15;Gunstellar;Adrenal;6h 18m 15s ;22695.92
 NPC;+PRICE;79;0;19895.53;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;5;0;18764.71;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
+NPC;-LOCAL;0;0;22500;Scrapdogs;Gemini Els;11h 55m 10s ;42910.18
+NPC;+STOCK;90;11;19328.52;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

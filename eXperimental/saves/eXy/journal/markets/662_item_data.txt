@@ -9,3 +9,6 @@ NPC;+STOCK;14;4;18907.51;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;15;0;22398.44;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;6;-3;15107.05;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 PLAYER;+QTY;16;1;22346.23;Biomate University;Void Starcross;7h 9m 52s ;25792.75
+NPC;+STOCK;26;4;15423.48;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;20;3;13173.78;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;20;4;21336.09;Biomate University;Void Starcross;12h 15m 59s ;44159.89

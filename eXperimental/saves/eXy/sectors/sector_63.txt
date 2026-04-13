@@ -96,3 +96,5 @@ NPC_SHIP;npc_ship_data_(transport_cruiser_1);363.85;-1298.31;77.93;5;10
 
 
 // CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty
+CRATE;Ship Loot (923);Unknown;Ship Crate;1000;295.0854;300;2094.668;3652.20;212.72;3176.96;False;;0;0;1160#1,1400#1,50#65,1520#1
+CRATE;ATC Nomad Crate (951);Entertainer Lowpei Sedpaeoa;Cruiser;1000;295.0854;300;0;3639.40;191.48;3178.57;False;;0;0;304#2,405#2,2#2321

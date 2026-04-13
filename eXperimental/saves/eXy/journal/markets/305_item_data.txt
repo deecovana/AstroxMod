@@ -16,3 +16,10 @@ NPC;+PRICE;14;0;135.9649;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;BAL;47;0;133.9303;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;-QTY;0;-22;268.8176;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+STOCK;1980;984;189.0224;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;BAL;986;0;181.0631;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;-PRICE;10;0;195.3508;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;10;0;188.6617;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;45;0;164.88;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+PRICE;19;0;260.7623;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;851;845;267.5707;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1774;846;276.5444;Biomate University;Void Starcross;12h 15m 59s ;44159.89

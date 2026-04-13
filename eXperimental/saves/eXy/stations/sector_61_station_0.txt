@@ -175,6 +175,7 @@ SKILL;25;1.41
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;0.8160721;ship_data_(StinVec_SOLV_B_EDN1_Equinox).txt
 SHIP;1;0.94;ship_data_(pirate_utility_1).txt
 SHIP;2;0.98;ship_data_(transport_utility_1).txt
 SHIP;3;1.04;ship_data_(support_utility_1).txt

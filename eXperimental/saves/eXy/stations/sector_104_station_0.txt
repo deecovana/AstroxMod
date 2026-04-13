@@ -15,6 +15,9 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;4-9-0-2-0-1-7-0-3-7-0-1-0-2-2-3-6-0-1-5-3-2-0
 STATION;interior_seed;3-8-15-7
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;last_dock_time;37608.55
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -37,6 +40,8 @@ MERC;9;1.00;npc_ship_data_(battle_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Sell Order for: (1) Items ;2000x67;996;74476.10
+
 ITEM;1174;86;0.92
 ITEM;1115;57;1.18
 ITEM;1013;19;1.06
@@ -367,6 +372,12 @@ SKILL;212;0.90
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;113;60;170686;KILL_RAIDERS#sector_56_station_1.txt#sector_62.txt#1#30#npc_ship_data_(ATC_Arrow)#random#random#random;Exterminate <color='yellow'>1 Raider</color> Skilled Raider(s) in <color='cyan'>Jelumus</color> and dock at ValueStar in <color='cyan'>Hunu</color>;11;Reports of a small skilled gang in the <color='cyan'>Jelumus</color> system have locals concerned, and Orthodox faction members are worried about the increase in criminal activity around their local production facilities. Eliminate <color='yellow'>1 Raider</color> raiders in total, and return to ValueStar station in <color='cyan'>Hunu</color> when complete.;87205;36845
+MISSION;133;45;294839;SALVAGE#132#23#sector_13.txt#sector_2_station_0.txt#null#null#null#null;Dismantle <color='yellow'>Special Metal Fragment</color> in <color='cyan'>Jala</color> and return to Oro Omniplex Center in <color='cyan'>Merces Academy</color> with minimum of <color='yellow'>132</color>;9;The Temple faction has reported that a special medium load of <color='yellow'>Special Metal Fragment</color> has been scanned in the <color='cyan'>Jala</color> system. <i>Whirib Heaal</i> is credited with the find, but His claim is currently invalid. Hurry up and salvage the <color='yellow'>Special Metal Fragment</color> and return to Oro Omniplex Center, in the <color='cyan'>Merces Academy</color>.;63997;24118
+MISSION;151;120;935556;FABRICATE#6#2389#sector_35_station_0.txt#sector_0_station_4.txt#null#null#null#null;Produce a light container of <color='yellow'>6</color> <color='yellow'>Hand Tools</color> at the Astrox Security Patrol fabricator in <color='cyan'>Felishar</color>;9;The Temple Faction has commissioned a production liaison, <i>Eiba Dornjancofo</i> at Starbase Corporate Center. After an audit, <color='yellow'>6</color> items of <color='yellow'>Hand Tools</color> were deemed required. Head on over to <color='cyan'>Felishar</color> and manufacture these <color='yellow'>Hand Tools</color> at Astrox Security Patrol.;17456;3063
+MISSION;124;45;663981;CHAT_PILOT#sector_0_station_1.txt#sector_4.txt#Lieutenant Hinbo Ciean#npc_ship_data_(kj_utility_2)#7#missions_arrest_escort.txt#0#null;Arrest <color='yellow'><i>Lieutenant Hinbo Ciean</i></color> over an outstanding warrant in <color='cyan'>The Dunes of Caliph</color> and return to Lammassu Financial in <color='cyan'>Void Starcross</color>;9;<i>Rito Moshearo</i> of the Temple faction has sent out a warrent for the arrest of <color='yellow'><i>Lieutenant Hinbo Ciean</i></color>. Last known sighting of <color='yellow'><i>Lieutenant Hinbo Ciean</i></color> was in the area of <color='cyan'>The Dunes of Caliph</color>. Bring them back alive to the Lammassu Financial in the <color='cyan'>Void Starcross</color> system to complete this contract.;82385;23448
+MISSION;53;30;198596;SCAN_STRUCTURE#sector_69_station_1.txt#sector_63.txt#Industrial Machine#structure_machine_1.txt#1#null#null#null;Scan the <color='yellow'>Industrial Machine</color> structure in <color='cyan'>Numbu</color> and return to Oak Industries in <color='cyan'>Dorando Corridor</color>;9;Space rats have infested the <color='yellow'>Industrial Machine</color> structure over in <color='cyan'>Numbu</color>. <i>Daexad Tuvaj</i> has been trying to get help with the infestation, but until the structure is scanned, Temple union members are not going to come. Head back to the Oak Industries station located in the <color='cyan'>Dorando Corridor</color> with a scan report.;63424;26798
+MISSION;33;45;578116;TRANSPORT#223#407#sector_14_station_0.txt#sector_2_station_0.txt#null#null#null#null;Transport <color='yellow'>223</color> units of <color='yellow'>Ornaments</color> from Imperium Republica  in <color='cyan'>Gate of Alpharis</color> to Oro Omniplex Center in <color='cyan'>Merces Academy</color>;10;A Transport request has been posted by <i>Naliayit Ronate</i>. <color='yellow'>223</color> <color='yellow'>Ornaments</color> needs to be picked up at the storage facility at Imperium Republica  in <color='cyan'>Gate of Alpharis</color>. Once the medium shipment has been loaded, transport it to Oro Omniplex Center in <color='cyan'>Merces Academy</color> where <i>Naliayit Ronate</i> will be waiting to receive it.;43412;15074
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -376,3 +387,5 @@ SHIP;3;1.05;ship_data_(recon_shuttle_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
+

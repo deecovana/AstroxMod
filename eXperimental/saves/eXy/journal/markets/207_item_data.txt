@@ -3,3 +3,6 @@ NPC;-QTY;655;-76;154.0248;Starbase Corporate Center;Void Starcross;2h 51m 54s ;1
 NPC;+STOCK;639;115;123.7641;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;134;-79;116.8488;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;+STOCK;404;112;148.8208;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;-PRICE;458;0;146.4679;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;458;0;143.2292;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;754;115;119.5097;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

@@ -18,3 +18,9 @@ NPC;+PRICE;8;0;22.19189;StarShepards Headquarters;Void Starcross;6h 48m 22s ;245
 NPC;BAL;26;0;27.26642;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;-LOCAL;0;0;63.25;Rendo Labs;Entropy;7h 21m 12s ;26472.57
 NPC;-LOCAL;0;0;28.4625;Star Shepards Hub;Temple Gates;7h 28m 51s ;26931.18
+NPC;-LOCAL;38;38;28.4625;Mazu Starship;Volox;9h 42m 16s ;34936.92
+NPC;-PRICE;56;0;24.67312;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;13;0;23.15841;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;976;968;21.60575;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;1932;875;22.70283;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;1984;957;16.64332;Biomate University;Void Starcross;12h 15m 59s ;44159.89

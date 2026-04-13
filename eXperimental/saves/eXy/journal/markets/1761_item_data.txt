@@ -19,3 +19,7 @@ NPC;+STOCK;89;8;583253.9;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;71;0;617312;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;-LOCAL;44;44;728510.6;StarShepards Headquarters;Void Starcross;6h 22m 23s ;22943.25
 NPC;+PRICE;44;0;970424.7;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;+PRICE;66;0;484086.3;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+PRICE;0;0;1053902;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;55;11;948154;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-LOCAL;21;21;728510.6;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08

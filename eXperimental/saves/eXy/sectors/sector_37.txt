@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;37
 SECTOR;name;Calisus Sonaris
-SECTOR;level;4.9
+SECTOR;level;5.0
 SECTOR;faction;Law
 SECTOR;filename;sector_37.txt
 SECTOR;is_explored;False

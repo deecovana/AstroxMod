@@ -35,3 +35,10 @@ NPC;-LOCAL;0;0;8.32216;Biomate University;Void Starcross;8h 10m 2s ;29402.51
 NPC;-LOCAL;0;0;8.351242;Biomate University;Void Starcross;8h 18m 46s ;29926.68
 NPC;+LOCAL;1000;2200;1.7875;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
 NPC;+LOCAL;20;8;4.898921;Lammassu Hub;Numbu;9h 18m 41s ;33521.09
+NPC;-LOCAL;60;60;6.1875;Biomate University;Void Starcross;9h 47m 41s ;35261.42
+NPC;BAL;14;0;3.585234;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;-LOCAL;27;0;6.1875;Stinkfinger;Jonisae;11h 39m 6s ;41946.55
+NPC;-LOCAL;16;0;6.1875;Stinkfinger;Jonisae;11h 52m 10s ;42730.73
+NPC;+STOCK;734;718;5.645506;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+LOCAL;1000;3486;1.7875;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;-LOCAL;32;32;6.1875;Biomate University;Void Starcross;12h 19m 56s ;44396.44

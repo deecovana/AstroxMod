@@ -3,3 +3,7 @@ NPC;+PRICE;10;0;27843.58;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;23;0;26133.02;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;7;-8;22187.33;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-QTY;0;-7;22192.97;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
+NPC;BAL;9;-7;23507.26;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;+QTY;17;7;27683.01;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+STOCK;32;9;24679.86;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;65;10;18831.04;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

@@ -9,3 +9,6 @@ NPC;+PRICE;25;0;121144.5;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;69;0;120500.1;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;17;-8;106931.1;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;-LOCAL;10;10;112500;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
+NPC;-LOCAL;19;19;112500;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;-LOCAL;0;0;152907.6;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;-LOCAL;6;6;112500;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

@@ -1,3 +1,5 @@
 NPC;+STOCK;89;11;321025.5;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;81;-8;316769.7;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-QTY;60;-6;164286;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;-PRICE;62;0;176062.5;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;62;0;173435.9;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82

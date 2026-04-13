@@ -19,3 +19,6 @@ NPC;+PRICE;146;0;18056.02;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;19;0;8892.237;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 NPC;+STOCK;42;10;18771.25;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+LOCAL;15;13;4875;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+NPC;+PRICE;15;0;12313.58;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;121;10;11215.3;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;159;13;17410.18;Biomate University;Void Starcross;12h 15m 59s ;44159.89

@@ -12,3 +12,5 @@ NPC;+LOCAL;15;17;81250;Starbase Corporate Center;Void Starcross;6h 18m 18s ;2269
 NPC;+LOCAL;15;1;81250;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;+PRICE;154;0;310884.1;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;15;11;81250;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+NPC;+LOCAL;15;1;198377.6;Vita Assembly;Capital Void;10h 32m 49s ;37969.92
+NPC;+STOCK;165;11;298369.2;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

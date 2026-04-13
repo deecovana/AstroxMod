@@ -70,11 +70,11 @@ STRUCTURE;structure_habitat_1.txt;-1580.60;720.50;3596.00
 CLUSTER;1;100;50;300;5000;4727;-890;-3146;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;4930.5;-1700.3;-3518.3;1200;1200
+RESOURCE;1;4916.2;-1691.4;-3510.8;1200;1200
 RESOURCE;1;1430.3;1585.8;-3931.3;200;200
 RESOURCE;1;3870.9;1546.4;-5604.7;2000;2000
 RESOURCE;1;3067.7;2356.8;-4807.0;500;500
-RESOURCE;1;4752.7;-502.4;-5494.0;3300;3300
+RESOURCE;1;4705.9;-471.8;-5476.9;3300;3300
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
 WARPGATE;1;sector_0.txt;5;5415.3;-375.1;183.7;0;alpha;-0.5;prescan

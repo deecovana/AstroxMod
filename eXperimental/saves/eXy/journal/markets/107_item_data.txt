@@ -11,3 +11,9 @@ NPC;+PRICE;242;0;10.94335;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;575;0;13.82986;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;736;0;7.669338;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-PRICE;245;0;9.415605;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
+NPC;-PRICE;50;0;8.119062;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+LOCAL;250;21;12.64744;Kith;Kidd Overture;11h 23m 51s ;41031.56
+NPC;+PRICE;1099;0;10.32068;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+STOCK;914;178;7.184905;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;745;201;8.350567;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;819;244;13.63571;Biomate University;Void Starcross;12h 15m 59s ;44159.89

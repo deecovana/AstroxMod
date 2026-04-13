@@ -11,3 +11,6 @@ NPC;-QTY;0;-126;29.90193;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;-PRICE;288;0;18.57164;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;+PRICE;21;0;34.88211;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 NPC;+STOCK;304;130;14.35629;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;BAL;76;-97;25.41893;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
+NPC;+QTY;675;133;22.93631;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;+STOCK;730;135;30.59551;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04

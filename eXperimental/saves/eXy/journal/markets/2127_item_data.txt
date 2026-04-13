@@ -14,3 +14,7 @@ NPC;+PRICE;84;0;362220.9;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;449;0;641301.9;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;145;0;429054.6;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;-QTY;357;-2;278465.1;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
+NPC;+PRICE;187;0;579205.7;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;451;2;622397.3;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;25;2;320608.2;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;86;2;356147.2;Biomate University;Void Starcross;12h 15m 59s ;44159.89

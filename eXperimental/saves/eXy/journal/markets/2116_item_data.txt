@@ -8,3 +8,7 @@ NPC;+PRICE;352;0;1221940;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;BAL;195;-2;1212396;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
 NPC;+PRICE;8;0;2363344;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 NPC;+STOCK;9;2;1067973;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+PRICE;188;0;1643264;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+STOCK;354;2;1129144;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;30;2;1243495;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;86;2;1014504;Biomate University;Void Starcross;12h 15m 59s ;44159.89

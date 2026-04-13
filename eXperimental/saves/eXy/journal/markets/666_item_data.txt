@@ -7,3 +7,8 @@ NPC;+STOCK;3;3;232493.4;Starbase Corporate Center;Void Starcross;5h 37m 58s ;202
 NPC;+STOCK;50;4;224082.6;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;46;-4;215214.9;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;24;0;206541.6;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;18;0;214002.6;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+PRICE;11;0;225423.9;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
+NPC;+PRICE;20;0;237029.5;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;17;4;250506.1;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;9;4;238980;Biomate University;Void Starcross;12h 15m 59s ;44159.89

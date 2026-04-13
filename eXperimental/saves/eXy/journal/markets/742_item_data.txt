@@ -16,3 +16,6 @@ NPC;+LOCAL;15;24;32500;Starbase Corporate Center;Void Starcross;6h 18m 18s ;2269
 NPC;+LOCAL;15;1;32500;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;+PRICE;104;0;91572.27;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;15;11;32500;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+NPC;-PRICE;109;0;113670.4;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;93;0;79958.45;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+STOCK;84;12;92417.36;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82

@@ -1,2 +1,5 @@
 NPC;+STOCK;46;2;21039.59;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;46;0;21609.46;Biomate University;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;12;0;12092.17;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;12;0;11594.09;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+STOCK;48;2;21032.81;Biomate University;Void Starcross;12h 15m 59s ;44159.89

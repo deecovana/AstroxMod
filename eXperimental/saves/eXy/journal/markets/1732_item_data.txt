@@ -1,3 +1,5 @@
 NPC;+QTY;15;9;20750;Gunstellar;Adrenal;1h 7m 10s ;4030.626
 NPC;+STOCK;24;9;19374.93;Lammassu Financial;Void Starcross;5h 37m 58s ;20278.19
 NPC;-PRICE;6;0;20206.85;Gunstellar;Adrenal;6h 18m 15s ;22695.92
+NPC;-PRICE;44;0;28129.4;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+QTY;50;7;14105.16;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14

@@ -106,4 +106,4 @@ NPC_SHIP;npc_ship_data_(pirate_utility_1);501.12;513.34;28.72;4;2
 
 
 // CRATE ; name ; owner ; class ; capacity ; lifetime ; maxlifetime; credits ; xpos ; ypos ; zpos ; opened ; script_file ; script_id ; mission_key ; id#qty,id#qty
-CRATE;Ship Loot (633);Unknown;Ship Crate;1000;274.3254;300;0;-2273.75;-160.27;-1475.41;True;;0;0;
+CRATE;Ship Loot (633);Unknown;Ship Crate;1000;153.1715;300;0;-2273.75;-160.27;-1475.41;True;;0;0;

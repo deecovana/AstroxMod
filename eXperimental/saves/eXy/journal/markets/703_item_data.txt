@@ -3,3 +3,6 @@ NPC;+STOCK;167;16;6945.451;StarShepards Headquarters;Void Starcross;5h 37m 58s ;
 NPC;+STOCK;62;19;7513.767;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;40;-22;7852.142;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;151;0;7251.42;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
+NPC;-PRICE;94;0;6268.467;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;165;0;9371.027;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;+STOCK;70;18;6502.799;Biomate University;Void Starcross;12h 15m 59s ;44159.89

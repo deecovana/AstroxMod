@@ -5,3 +5,5 @@ NPC;+PRICE;389;0;335.4614;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;+PRICE;598;0;323.0972;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;339;0;251.7403;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;BAL;256;-139;331.997;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.02
+NPC;+STOCK;470;131;237.2266;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;729;131;312.7491;Biomate University;Void Starcross;12h 15m 59s ;44159.89

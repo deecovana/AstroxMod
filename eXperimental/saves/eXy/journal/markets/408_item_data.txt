@@ -40,3 +40,13 @@ NPC;-LOCAL;288;0;14.9494;Biomate University;Void Starcross;8h 0m 37s ;28837.24
 NPC;-LOCAL;108;0;13.86019;Biomate University;Void Starcross;8h 10m 2s ;29402.51
 NPC;-LOCAL;105;0;13.84419;Biomate University;Void Starcross;8h 18m 46s ;29926.68
 NPC;+LOCAL;1000;2508;3.9325;Lammassu Financial;Void Starcross;8h 56m 57s ;32217.54
+NPC;-LOCAL;44;44;13.6125;Biomate University;Void Starcross;9h 47m 41s ;35261.42
+NPC;-PRICE;14;0;15.26648;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-PRICE;14;0;14.69397;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;52;0;13.6125;Stinkfinger;Jonisae;11h 39m 6s ;41946.55
+NPC;-PRICE;25;0;8.516793;ValueStar;Hunu;11h 47m 29s ;42449.9
+NPC;+PRICE;74;0;7.797997;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;-LOCAL;49;0;13.6125;Stinkfinger;Jonisae;11h 52m 10s ;42730.73
+NPC;+LOCAL;1000;3859;3.9325;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+STOCK;981;937;15.77921;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;3;3;13.6125;Biomate University;Void Starcross;12h 19m 56s ;44396.44

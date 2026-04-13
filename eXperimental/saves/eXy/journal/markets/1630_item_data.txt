@@ -6,3 +6,8 @@ NPC;-LOCAL;0;0;29619.78;The Dunes;The Dunes of Caliph;3h 39m 36s ;13176.55
 NPC;+STOCK;8;8;39848.71;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;-PRICE;25;0;29422.12;Gunstellar;Adrenal;6h 18m 15s ;22695.92
 NPC;-LOCAL;0;0;62500;StarGypsy Warehouse;Void Starcross;6h 49m 18s ;24558.08
+NPC;-LOCAL;0;0;62500;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
+NPC;+QTY;10;7;28175.55;Nova Labs;Noah Fox;10h 5m 22s ;36322.36
+NPC;-LOCAL;0;0;39976.9;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
+NPC;+STOCK;8;8;79857.26;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;65;65;28125;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85

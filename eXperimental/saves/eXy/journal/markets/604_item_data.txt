@@ -9,3 +9,7 @@ NPC;+STOCK;27;4;39312.9;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;24;-3;41425.27;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;44;0;77567.74;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 PLAYER;-QTY;6;1;84514.64;Lammassu Hub;Numbu;9h 20m 55s ;33655.32
+PLAYER;+QTY;9;1;38688.52;StarGypsy Warehouse;Void Starcross;9h 45m 34s ;35134.08
+NPC;+STOCK;47;3;74722.88;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+STOCK;13;4;34295.65;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+STOCK;43;3;67787.4;Biomate University;Void Starcross;12h 15m 59s ;44159.89
