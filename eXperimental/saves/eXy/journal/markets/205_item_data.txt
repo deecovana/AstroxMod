@@ -5,3 +5,4 @@ NPC;+STOCK;699;130;122.9587;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278
 NPC;+STOCK;759;107;127.0376;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;107;-148;149.4153;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;+STOCK;846;147;118.7076;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+QTY;365;125;106.045;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

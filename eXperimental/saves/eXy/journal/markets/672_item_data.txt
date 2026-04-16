@@ -35,3 +35,7 @@ NPC;+STOCK;49;24;8563.5;StarShepards Headquarters;Void Starcross;12h 8m 53s ;437
 NPC;+LOCAL;25;68;7800;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
 NPC;+LOCAL;25;49;7800;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
 NPC;+STOCK;48;19;12849.35;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;25;31;7800;StarShepards Headquarters;Void Starcross;14h 17m 15s ;51435.13
+NPC;+LOCAL;25;36;7800;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56
+NPC;+LOCAL;25;13;7800;Proctors Center;Void Starcross;14h 51m 52s ;53512.24
+PLAYER;-QTY;0;26;28503;Legistron;Dogstar Prime;15h 41m 44s ;56504.55

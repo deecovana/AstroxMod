@@ -7,3 +7,6 @@ NPC;BAL;8;8;51712.2;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;21;21;28125;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;+PRICE;34;0;27590.41;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
 NPC;+PRICE;41;0;19708.59;ValueStar;Hunu;11h 50m 16s ;42616.5
+NPC;+PRICE;5;0;28884.6;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;-LOCAL;0;0;62500;Proctors Center;Void Starcross;14h 51m 52s ;53512.24
+NPC;+QTY;15;11;18236.72;Blissheads;Estura Cove;15h 2m 18s ;54138.48

@@ -1,47 +1,47 @@
 //;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Desban Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Desban station.
+sp_adjusted.png;+4 Skill Points Acquired.;Your time spent undocked has helped you to improve your skills. +4 skill points have been awarded to your pilot for use at the university.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-max_targets.png;Maximum Targets Acquired;Your ship's targeting computer has reached the maximum number of targets it can retain at once. Remove an item from your targeting panel before attempting to target another object.
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-notify_raider_kill.png;The raider Peiwit Bormadbue has been dispatched.;The lowly criminal will not be bother anyone any longer. With the destruction of his stolen ATC Arrow, all that remains is his memory. The Law rating has raised +0.25
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
-//;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
-//;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
-//;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
 //;LOG DATA FILE (Astrox Imperium)
 notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_on.png;Autopilot Enabled;You have enabled your ship's AUTOPILOT system. This will cause the ship to automatically navigate towards your selected target.
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
 //;LOG DATA FILE (Astrox Imperium)
-notify_autopilot_off.png;Autopilot Disabled;You have disabled your ship's AUTOPILOT system. You now have manual control of the ship.
+warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-event_raider_alert.png;Raiders have been detected.;Raiders have been detected in this area. It is recommended that you dock and seek protection until this raider is removed from the sector.
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
 //;LOG DATA FILE (Astrox Imperium)
-shield_charge_1.png;Used the Medium Shield Charge;You have used the Medium Shield Charge item. It's effects have been deployed.
+warpgate.png;Warp to Temple Gates;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has activated the warp gate and will soon arrive at your destination.
+//;LOG DATA FILE (Astrox Imperium)
+drone_1.png;Drone Warp Initiated;Your active drones have been warped to your location. Please dock you drones before warping to avoid the energy cost to each active drone.
 //;LOG DATA FILE (Astrox Imperium)

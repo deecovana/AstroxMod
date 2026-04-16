@@ -21,3 +21,6 @@ PLAYER;+QTY;78;36;3558.433;Vita Assembly;Capital Void;10h 35m 36s ;38136.13
 NPC;+PRICE;59;0;3599.02;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;714;705;3481.848;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;1856;877;4987.853;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;1000;4367;1420.169;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;1000;331;1420.169;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;+QTY;771;712;3612.964;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

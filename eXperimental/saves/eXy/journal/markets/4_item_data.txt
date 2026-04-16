@@ -25,3 +25,6 @@ NPC;-PRICE;671;0;34.89865;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;4208;4032;37.09513;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;4420;4265;25.29477;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;9582;4294;31.14772;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;72;0;35.37;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;-LOCAL;41;41;35.37;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;0;0;60.06055;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03

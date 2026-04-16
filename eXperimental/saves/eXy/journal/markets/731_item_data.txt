@@ -21,3 +21,6 @@ NPC;BAL;33;-11;99339.9;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.0
 NPC;+LOCAL;15;10;53625;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 NPC;+STOCK;51;10;208789.9;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;81;12;106002.5;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;15;61;53625;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;15;4;53625;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;+QTY;40;9;207374.1;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

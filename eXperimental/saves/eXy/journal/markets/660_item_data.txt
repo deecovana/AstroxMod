@@ -20,3 +20,5 @@ NPC;+PRICE;21;0;5508.552;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+PRICE;2;0;9201.498;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+STOCK;33;3;5498.646;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;29;3;6751.854;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+PLAYER;+QTY;10;1;7588.438;Foodmaid;Daelus;13h 27m 5s ;48425.66
+NPC;+PRICE;7;0;5386.97;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09

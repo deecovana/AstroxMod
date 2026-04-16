@@ -50,3 +50,14 @@ NPC;-LOCAL;49;0;13.6125;Stinkfinger;Jonisae;11h 52m 10s ;42730.73
 NPC;+LOCAL;1000;3859;3.9325;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
 NPC;+STOCK;981;937;15.77921;Biomate University;Void Starcross;12h 15m 59s ;44159.89
 NPC;-LOCAL;3;3;13.6125;Biomate University;Void Starcross;12h 19m 56s ;44396.44
+NPC;-LOCAL;45;0;13.6125;Astrox Security Patrol;Kilotorish;12h 50m 43s ;46243.9
+NPC;BAL;12;0;13.32361;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52
+NPC;-LOCAL;25;25;13.6125;Biomate University;Void Starcross;14h 7m 38s ;50858.57
+NPC;+LOCAL;1000;2224;3.9325;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56
+NPC;-LOCAL;0;0;21.22766;Biomate University;Void Starcross;14h 28m 58s ;52138.29
+NPC;-LOCAL;0;0;24.33767;Biomate University;Void Starcross;14h 40m 16s ;52816.68
+NPC;+QTY;800;726;7.826432;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-LOCAL;0;0;30.25;Medicore University;Cliffs of Drameria;15h 8m 42s ;54522.55
+NPC;-LOCAL;58;58;13.6125;Biomate University;Void Starcross;15h 32m 59s ;55979.3
+NPC;-QTY;0;-2;14.11843;Vita Assembly;Capital Void;15h 39m 30s ;56370.95
+NPC;-LOCAL;0;0;17.36407;Biomate University;Void Starcross;15h 44m 57s ;56697.91

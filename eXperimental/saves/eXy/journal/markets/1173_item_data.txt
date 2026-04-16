@@ -11,3 +11,6 @@ NPC;-LOCAL;9;9;115762.5;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;0;0;257250;CoraVault;Lins;8h 53m 52s ;32032.93
 NPC;+PRICE;12;0;141253.1;Desban;Ellisar;11h 50m 16s ;42616.5
 NPC;+STOCK;37;9;123051;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;0;0;257250;OmniTrust;Ponze;15h 2m 26s ;54146.52
+NPC;-LOCAL;6;6;120237.6;OmniTrust;Ponze;15h 3m 30s ;54210.23
+NPC;-LOCAL;0;0;257250;CoraVault;Lins;15h 28m 16s ;55696.6

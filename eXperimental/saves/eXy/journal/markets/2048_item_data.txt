@@ -7,3 +7,5 @@ NPC;+PRICE;397;0;6658.649;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;298;148;1676.557;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+LOCAL;150;261;1606.933;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85
 NPC;+STOCK;1014;143;4377.714;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;150;207;1606.933;StarGypsy Warehouse;Void Starcross;14h 20m 53s ;51653.97
+NPC;+QTY;516;119;6659.193;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

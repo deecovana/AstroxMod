@@ -7,3 +7,5 @@ PLAYER;-QTY;14;1;178343.5;Biomate University;Void Starcross;5h 7m 55s ;18475.88
 NPC;+STOCK;22;8;176435.6;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;22;0;183009.2;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;32;10;178508.9;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;-QTY;73;1;141355.2;Nostra;Zellis;13h 47m 36s ;49656.21
+PLAYER;+QTY;0;1;0;Monarch Society;Solitudes of Frey;14h 1m 55s ;50515.85

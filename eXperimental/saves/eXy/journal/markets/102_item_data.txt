@@ -23,3 +23,8 @@ NPC;+QTY;1243;161;3.869482;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
 NPC;+STOCK;645;202;2.468085;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;502;176;1.774831;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;622;184;2.889428;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+PRICE;266;0;2.040929;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;+LOCAL;190;2;3.182865;PharmaLife;Carioullis;13h 50m 15s ;49815.91
+NPC;-LOCAL;349;0;3.49875;Monarch Society;Solitudes of Frey;14h 0m 6s ;50406.2
+NPC;BAL;156;0;2.341888;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52
+NPC;-QTY;0;-44;3.006787;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

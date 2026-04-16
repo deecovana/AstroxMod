@@ -20,3 +20,5 @@ NPC;-PRICE;974;0;1.776696;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;1307;247;3.039114;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;495;184;1.421243;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;486;226;1.413278;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;263;0;2.91375;Monarch Society;Solitudes of Frey;14h 0m 6s ;50406.2
+NPC;BAL;99;-245;2.814967;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52

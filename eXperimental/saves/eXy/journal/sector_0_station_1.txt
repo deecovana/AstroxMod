@@ -3,7 +3,7 @@ Market Center
 Jelegus
 Trade
 [c:lime]Dock fee 25[/c]
-Timestamp: 44111.39
+Timestamp: 52108.76
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -71,7 +71,7 @@ Fulfill order for [c:lime]9,067 profit.[/c]
 Visit station market to update prices.
 Acidic Residue  780 - z17
 Adamyte Ore  5285 - z7
-Advanced 60mm  3 - z116
+Advanced 60mm  64 - z118
 Advanced Afterburner  44 - z100,337
 Advanced Armor Exterior  49 - z118,105
 Advanced ECM Resistance Field (Doc)  69 - z5,394,524
@@ -79,7 +79,7 @@ Advanced Energy Armor  38 - z82,421
 Advanced Energy Armor (Doc)  50 - z1,037,048
 Advanced Filter  27 - z24,529
 Advanced Light Turret  63 - z52,668
-Advanced Missile  47 - z349
+Advanced Missile  59 - z349
 Advanced Missile Launcher  61 - z108,871
 Advanced Ore Harvester (Doc)  55 - z449,507
 Advanced Railgun (Doc)  141 - z496,084
@@ -88,7 +88,7 @@ Advanced Rocket Launcher (Doc)  130 - z537,741
 Advanced Salvage Collector  63 - z177,366
 Advanced Scan Emitter  68 - z62,223
 Advanced Skill Manual  8 - z441,116
-Advanced Torpedo   58 - z582
+Advanced Torpedo   24 - z582
 Advanced Turn Thrust  17 - z89,937
 Aged Wine  843 - z156
 AI Interface Drive (Doc)  57 - z11,739
@@ -99,7 +99,8 @@ Anti-Freeze  53 - z40
 Armor Plating (Doc)  37 - z11,182
 Assembly Tools  910 - z6,174
 Assorted Springs  719 - z43
-Basic 20mm  16 - z31
+Basic 20mm  53 - z31
+Basic 60mm  44 - z52
 Basic Beam Energy Mod  60 - z16,355
 Basic Computer  644 - z1,531
 Basic Energy Armor  65 - z18,355
@@ -119,7 +120,7 @@ Basic Rocket Launcher (Doc)  127 - z33,047
 Basic Scan Emitter (Doc)  5 - z199,629
 Basic Shield Booster  39 - z22,855
 Basic Shield Generator  30 - z33,594
-Basic Torpedo   50 - z259
+Basic Torpedo   39 - z270
 Bio Carbon  692 - z21
 Bio Converter  5 - z63,959
 Bio Disposables  14 - z141,800
@@ -228,7 +229,7 @@ Medical Instruments  772 - z8,487
 Medium Armor Bomb  126 - z21,714
 Medium Armor Repair  25 - z7,301
 Medium Combat Drone  139 - z14,313
-Medium Energy Charge  5 - z5,656
+Medium Energy Charge  25 - z5,476
 Medium Life Support Pack  25 - z4,563
 Medium Salvage Drone  107 - z8,313
 Medium Shield Bomb  65 - z25,224
@@ -267,15 +268,18 @@ Premium Railgun (Doc)  127 - z1,034,002
 Premium Scan Booster  15 - z119,199
 Premium Shield Generator (Doc)  34 - z2,343,703
 Protein Bar  37 - z6,259
-Prototype 60mm  33 - z262
+Prototype 20mm  54 - z157
+Prototype 60mm  28 - z262
 Prototype ECM Energy Coil  60 - z1,146,372
 Prototype ECM Energy Coil (Doc)  4 - z13,513,880
 Prototype ECM Range Lock  67 - z1,067,400
 Prototype ECM Resistance Field  31 - z1,217,331
 Prototype Heavy Cannon (Doc)  169 - z6,321,674
+Prototype Missile   34 - z786
 Prototype Railgun  63 - z950,696
 Prototype Scan Booster (Doc)  46 - z2,094,704
 Prototype Targeting System  55 - z303,064
+Prototype Torpedo   60 - z1,310
 Quazor Ore  5520 - z21
 Salt Crystal  364 - z2
 Scrap Part  4070 - z19
@@ -335,12 +339,6 @@ Tractor Maintenance
 
 
 <Station Missions>
-[c:lime]HARVEST[/c]
-Harvest special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Coralor</color> and return with <color='yellow'>49</color> ore to Acrondia Hub in <color='cyan'>Temple Gates</color>
-
-[c:lime]KILL[/c]
-Hunt down a low level <color='yellow'><i>Accountant Beltel Bazti</i></color> in <color='cyan'>Gate of Alpharis</color> and return to Mazu Starship in <color='cyan'>Volox</color>
-
 [c:lime]DELIVERY[/c]
 Deliver light container of <color='yellow'>47</color> <color='yellow'>Electrical Regulators</color> to Quantex Station in <color='cyan'>Dellis Primeria</color>
 
@@ -376,6 +374,21 @@ Salvage <color='yellow'>Special Metal Fragment</color> in <color='cyan'>Chaferea
 
 [c:lime]KILL RECOVER[/c]
 Hijack and kill <color='yellow'><i>Mr. Faebino Zaron</i></color> in <color='cyan'>Coralor</color> and steal <color='yellow'>1</color> <color='yellow'>Prototype Energy Generator</color>. Return to Scrapdogs in <color='cyan'>Gemini Els</color>
+
+[c:lime]REFINE[/c]
+Dock at the Legistron station refinery in <color='cyan'>Dogstar Prime</color> and process a light shipment of <color='yellow'>19</color> <color='yellow'>Quazor Ores</color>
+
+[c:lime]COLLECT[/c]
+Return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> with a light collection of <color='yellow'>2</color> <color='yellow'>Improved Railguns</color>
+
+[c:lime]DELIVERY[/c]
+Take medium shipment of <color='yellow'>6</color> <color='yellow'>Generic Ore Harvesters</color> and deliver to <color='cyan'>Merces Academy</color> and dock at Oro Omniplex Center Station
+
+[c:lime]KILL RAIDERS[/c]
+Destroy <color='yellow'>1 Raider</color> level 20 Raider(s) in <color='cyan'>Estura Cove</color> and return to SimKitten in <color='cyan'>Kolkax Prime</color>
+
+[c:lime]HARVEST[/c]
+Extract special <color='yellow'>Special Dynex Ore</color> in <color='cyan'>Kidd Overture</color> and return to The Dunes in <color='cyan'>The Dunes of Caliph</color> with minimum of <color='yellow'>105</color>
 
 
 

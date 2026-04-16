@@ -17,7 +17,7 @@ STATION;seed;3-4-0-1-7-0-6-1-3-0-0-4-1-3-8-1-9-1-1-3-1-3-180
 STATION;interior_seed;4-5-15-3
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;44110.39
+STATION;last_dock_time;52108.76
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -51,7 +51,7 @@ BUYORDER;Market Demands: (1) Items ;50x133;12806.00;80038.16
 ITEM;2000;780;0.85;17.42
 ITEM;1;5285;1.01;7.45
 ITEM;41;0;2.50;161.65
-ITEM;51;3;1.05;116.47
+ITEM;51;64;1.07;118.12
 ITEM;1522;44;1.20;100336.50
 ITEM;1622;49;0.93;118104.80
 ITEM;2311;69;0.64;5394524.00
@@ -59,7 +59,7 @@ ITEM;1642;38;0.77;82420.63
 ITEM;2285;50;0.81;1037048.00
 ITEM;622;27;1.09;24529.49
 ITEM;1020;63;0.56;52668.19
-ITEM;61;47;1.05;349.38
+ITEM;61;59;1.05;349.38
 ITEM;1067;61;1.10;108870.50
 ITEM;2163;55;0.47;449506.90
 ITEM;2115;141;0.91;496084.10
@@ -68,7 +68,7 @@ ITEM;2121;130;1.20;537740.90
 ITEM;1403;63;0.98;177366.40
 ITEM;1602;68;0.81;62222.85
 ITEM;737;8;0.73;441116.00
-ITEM;76;58;1.05;582.30
+ITEM;76;24;1.05;582.30
 ITEM;1592;17;1.07;89936.51
 ITEM;310;843;1.09;156.32
 ITEM;2407;57;0.86;11739.32
@@ -79,8 +79,8 @@ ITEM;302;53;0.82;39.81
 ITEM;2410;37;0.60;11181.69
 ITEM;351;910;1.06;6173.73
 ITEM;167;719;0.62;43.36
-ITEM;40;16;1.05;31.06
-ITEM;50;0;2.50;119.73
+ITEM;40;53;1.05;31.07
+ITEM;50;44;1.06;52.06
 ITEM;1721;60;0.60;16355.16
 ITEM;2029;644;0.76;1530.78
 ITEM;1640;65;0.68;18355.16
@@ -101,7 +101,7 @@ ITEM;2119;127;0.89;33047.22
 ITEM;2258;5;0.87;199628.50
 ITEM;1550;39;0.86;22855.16
 ITEM;1560;30;1.19;33593.57
-ITEM;75;50;1.05;258.80
+ITEM;75;39;1.10;270.11
 ITEM;115;692;0.72;21.47
 ITEM;664;5;0.92;63958.59
 ITEM;665;14;1.18;141800.40
@@ -148,8 +148,8 @@ ITEM;2421;8;1.03;34943.96
 ITEM;324;981;0.61;1658.52
 ITEM;2154;63;0.62;8090.48
 ITEM;1160;65;0.90;2099.25
-ITEM;2112;-99;1.01;12770.47
 ITEM;2112;260;0.96;12170.47
+ITEM;2112;-99;1.01;12770.47
 ITEM;1050;35;0.69;1488.41
 ITEM;2130;229;0.70;9050.48
 ITEM;313;933;0.71;224.70
@@ -212,7 +212,7 @@ ITEM;352;772;0.89;8486.72
 ITEM;680;126;0.75;21713.57
 ITEM;672;25;0.25;7300.95
 ITEM;740;139;0.90;14313.09
-ITEM;674;5;0.26;5655.71
+ITEM;674;25;0.25;5475.71
 ITEM;676;25;0.25;4563.09
 ITEM;756;107;0.50;8313.09
 ITEM;678;65;0.88;25223.57
@@ -251,18 +251,18 @@ ITEM;2116;127;0.52;1034002.00
 ITEM;1618;15;0.73;119199.40
 ITEM;2241;34;0.85;2343703.00
 ITEM;600;37;0.84;6259.44
-ITEM;42;0;2.50;363.69
-ITEM;52;33;1.05;262.03
+ITEM;42;54;1.05;157.23
+ITEM;52;28;1.05;262.03
 ITEM;1772;60;1.08;1146372.00
 ITEM;2318;4;1.06;13513880.00
 ITEM;1777;67;1.07;1067400.00
 ITEM;1762;31;1.02;1217331.00
 ITEM;2111;169;1.04;6321674.00
-ITEM;62;0;2.50;1818.37
+ITEM;62;34;1.05;786.10
 ITEM;1006;63;0.70;950695.80
 ITEM;2272;46;0.52;2094704.00
 ITEM;1614;55;1.06;303064.10
-ITEM;77;0;2.50;3030.63
+ITEM;77;60;1.05;1310.17
 ITEM;3;5520;1.03;20.66
 ITEM;114;364;0.80;2.21
 ITEM;21;4070;0.48;19.07
@@ -322,8 +322,6 @@ SKILL;117;1.26
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;60;45;532366;HARVEST#49#5#sector_59.txt#sector_95_station_1.txt#null#null#null#null;Harvest special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Coralor</color> and return with <color='yellow'>49</color> ore to Acrondia Hub in <color='cyan'>Temple Gates</color>;4;A local prospector, <i>Sevjan Ribkaddbo</i> of the Financial faction has located a light quantity of special <color='yellow'>Special Torim Ore</color> in the <color='cyan'>Coralor</color> sector. Head over there and harvest all of the special <color='yellow'>Special Torim Ore</color>, and meet <i>Sevjan Ribkaddbo</i> back at Acrondia Hub station located in the <color='cyan'>Temple Gates</color>.;6188;2250
-MISSION;90;90;764651;KILL_PILOT#sector_41_station_0.txt#sector_14.txt#Accountant Beltel Bazti#npc_ship_data_(excavation_carrier_5)#3#null#null#null;Hunt down a low level <color='yellow'><i>Accountant Beltel Bazti</i></color> in <color='cyan'>Gate of Alpharis</color> and return to Mazu Starship in <color='cyan'>Volox</color>;3;<i>Melyan Sednaliabin</i> has put out a kill contract for <color='yellow'><i>Accountant Beltel Bazti</i></color>. Wanted for capital crimes against the Trade faction for raiding multiple transports. Last known sighting of <color='yellow'><i>Accountant Beltel Bazti</i></color> was in the vicinity of the <color='cyan'>Gate of Alpharis</color> system. After <color='yellow'><i>Accountant Beltel Bazti</i></color> is dispatched, return to the Mazu Starship in the <color='cyan'>Volox</color> system to collect the bounty payment.;6750;1500
 MISSION;11;30;271641;DELIVERY#47#2036#sector_1_station_0.txt#sector_61_station_0.txt#null#null#null#null;Deliver light container of <color='yellow'>47</color> <color='yellow'>Electrical Regulators</color> to Quantex Station in <color='cyan'>Dellis Primeria</color>;4;The Financial Faction has commissioned a transport liaison, <i>Homile Bazan</i> at Transporteers Hub. After an audit, <color='yellow'>47</color> items of <color='yellow'>Electrical Regulators</color> were left un accounted for. Head on over to <color='cyan'>Dellis Primeria</color> and deliver these <color='yellow'>Electrical Regulators</color> to Quantex.;13878;5250
 MISSION;32;45;268625;TRANSPORT#249#163#sector_56_station_0.txt#sector_2_station_0.txt#null#null#null#null;Move light cargo from Transporteers in <color='cyan'>Hunu</color> and dock with <color='yellow'>249</color> <color='yellow'>Aluminium Rivets</color> at Oro Omniplex Center in <color='cyan'>Merces Academy</color>;3;<i>Desnortis Gillarast</i> was unable to complete a large shipment from Transporteers to Oro Omniplex Center. A light shipment containing <color='yellow'>249</color> <color='yellow'>Aluminium Rivets</color> is located at the storage bay at Transporteers in <color='cyan'>Hunu</color>. Retrieve the <color='yellow'>Aluminium Rivets</color> and transport them to Oro Omniplex Center in <color='cyan'>Merces Academy</color>.;20673;8614
 MISSION;142;90;659787;REFINE#6#25#sector_69_station_1.txt#sector_0_station_0.txt#null#null#null#null;Refine <color='yellow'>6</color> <color='yellow'>Module Fragments</color> at Oak Industries station refinery in <color='cyan'>Dorando Corridor</color>;5;<i>Ninemos Inosih</i> from Biomate University Station has commissioned a refinery run . He has required a small batch of <color='yellow'>6</color> <color='yellow'>Module Fragments</color> to be processed. Set your GPS autopilot to <color='cyan'>Dorando Corridor</color> and refine these <color='yellow'>Module Fragments</color> to Oak Industries refinery immediately.;32158;16079
@@ -336,6 +334,11 @@ MISSION;121;45;472837;CHAT_PILOT#sector_17_station_0.txt#sector_82.txt#Senator Z
 MISSION;52;30;775684;SCAN_STRUCTURE#sector_101_station_0.txt#sector_80.txt#Storage Facility#structure_storage_1.txt#1#null#null#null;Track and scan the target <color='yellow'>Storage Facility</color> structure in <color='cyan'>Blades of Dandrow</color> and return to Vo Industries in <color='cyan'>Brimstone</color>;5;The Commerce faction has commissioned scientific survey of a strange vibration taking place at <color='yellow'>Storage Facility</color> in the <color='cyan'>Blades of Dandrow</color> sector. Head over to <color='cyan'>Blades of Dandrow</color> and scan the <color='yellow'>Storage Facility</color> structure. Once complete, return to the Vo Industries station located in the <color='cyan'>Brimstone</color> with the scan data.;26154;6125
 MISSION;130;45;675743;SALVAGE#64#23#sector_39.txt#sector_41_station_0.txt#null#null#null#null;Salvage <color='yellow'>Special Metal Fragment</color> in <color='cyan'>Chaferea</color> and return with <color='yellow'>64</color> to Mazu Starship in <color='cyan'>Volox</color>;3;A local prospector, <i>Lasvaj Dornyahore</i> of the Trade faction has located a light quantity of special <color='yellow'>Special Metal Fragment</color> in the <color='cyan'>Chaferea</color> sector. Head over there and salvage all of the special <color='yellow'>Special Metal Fragment</color>, and meet <i>Lasvaj Dornyahore</i> back at Mazu Starship station located in the <color='cyan'>Volox</color>.;9608;2250
 MISSION;102;120;454390;KILL_RECOVER#sector_85_station_0.txt#sector_59.txt#Mr. Faebino Zaron#npc_ship_data_(recon_battlecruiser_5)#7#1#1584#null;Hijack and kill <color='yellow'><i>Mr. Faebino Zaron</i></color> in <color='cyan'>Coralor</color> and steal <color='yellow'>1</color> <color='yellow'>Prototype Energy Generator</color>. Return to Scrapdogs in <color='cyan'>Gemini Els</color>;3;The Trade faction has been following an escaped fugitive named <color='yellow'><i>Mr. Faebino Zaron</i></color>. He was recently seen around the <color='cyan'>Coralor</color> system, but his exact location is unknown. <color='yellow'><i>Mr. Faebino Zaron</i></color> is carrying some cargo that was taken from the security facility. Return the <color='yellow'>Prototype Energy Generator</color> by any means, and head back to Scrapdogs in <color='cyan'>Gemini Els</color>.;45770;10719
+MISSION;140;90;532384;REFINE#19#3#sector_40_station_0.txt#sector_23_station_0.txt#null#null#null#null;Dock at the Legistron station refinery in <color='cyan'>Dogstar Prime</color> and process a light shipment of <color='yellow'>19</color> <color='yellow'>Quazor Ores</color>;3;<i>Wenalia Corgotmole</i> runs a Trade shipping company at PharmaLife. After having some issues with a transport ship, <color='yellow'>19</color> items of <color='yellow'>Quazor Ores</color> were left behind. Head on over to <color='cyan'>Dogstar Prime</color> and refine these <color='yellow'>Quazor Ores</color> at the Legistron refinery.;13500;6000
+MISSION;22;120;809470;COLLECT#2#1015#sector_3_station_0.txt#sector_83_station_0.txt#null#null#null#null;Return to Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> with a light collection of <color='yellow'>2</color> <color='yellow'>Improved Railguns</color>;3;A request has been made by the Overseer of Daemon Ammunitions in <color='cyan'>Starfort Ramos</color> for the acquisition of <color='yellow'>2</color> <color='yellow'>Improved Railguns</color>. <i>Nortissed Nortisdee</i> will reimburse you for the cost of the items, as well as payment for your troubles.;37899;16844
+MISSION;13;30;655905;DELIVERY#6#1200#sector_2_station_0.txt#sector_1_station_0.txt#null#null#null#null;Take medium shipment of <color='yellow'>6</color> <color='yellow'>Generic Ore Harvesters</color> and deliver to <color='cyan'>Merces Academy</color> and dock at Oro Omniplex Center Station;3;Quantex Station has contacted our client informing them of some medium cargo that remains unclaimed by a former employee, <i>Sokin Nuhxen</i> of the Trade Faction. <color='yellow'>6</color> <color='yellow'>Generic Ore Harvesters</color> need to be delivered to <color='cyan'>Merces Academy</color>, Oro Omniplex Center Station.;32157;5360
+MISSION;112;60;258629;KILL_RAIDERS#sector_83_station_0.txt#sector_88.txt#1#20#npc_ship_data_(attack_cruiser_1)#random#random#random;Destroy <color='yellow'>1 Raider</color> level 20 Raider(s) in <color='cyan'>Estura Cove</color> and return to SimKitten in <color='cyan'>Kolkax Prime</color>;3;A large Raider gang has been seen lurking around in <color='cyan'>Estura Cove</color>. Their leader, <i>Galelom Zenoron</i>, is a wanted criminal and the Trade faction has requested a bounty on <i>Galelom Zenoron</i> and his crew. Travel to the <color='cyan'>Estura Cove</color> and clear out the <color='yellow'>1 Raider</color>, level 20 Raiders that have been lurking around. Dock at the SimKitten station in <color='cyan'>Kolkax Prime</color> when complete.;42110;21055
+MISSION;63;45;782629;HARVEST#105#7#sector_82.txt#sector_4_station_0.txt#null#null#null#null;Extract special <color='yellow'>Special Dynex Ore</color> in <color='cyan'>Kidd Overture</color> and return to The Dunes in <color='cyan'>The Dunes of Caliph</color> with minimum of <color='yellow'>105</color>;4;The Financial faction has reported that a special medium load of <color='yellow'>Special Dynex Ore</color> has been scanned in the <color='cyan'>Kidd Overture</color> system. <i>Ciebue Peadiedale</i> is credited with the find, but His claim is currently invalid. Hurry up and harvest the <color='yellow'>Special Dynex Ore</color> and return to The Dunes, in the <color='cyan'>The Dunes of Caliph</color>.;48236;18089
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>

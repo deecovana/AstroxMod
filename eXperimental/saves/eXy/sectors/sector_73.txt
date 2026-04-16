@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;73
 SECTOR;name;Abaline
-SECTOR;level;0.2
+SECTOR;level;0.1
 SECTOR;faction;Trade
 SECTOR;filename;sector_73.txt
 SECTOR;is_explored;False

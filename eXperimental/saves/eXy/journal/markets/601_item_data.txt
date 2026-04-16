@@ -19,3 +19,4 @@ NPC;-PRICE;11;0;13400.21;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+PRICE;35;0;13786.6;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
 NPC;+STOCK;36;4;14132.33;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;33;4;11801.16;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+QTY;26;3;13803.45;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

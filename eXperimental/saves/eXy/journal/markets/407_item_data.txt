@@ -42,3 +42,11 @@ NPC;-LOCAL;16;0;6.1875;Stinkfinger;Jonisae;11h 52m 10s ;42730.73
 NPC;+STOCK;734;718;5.645506;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+LOCAL;1000;3486;1.7875;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
 NPC;-LOCAL;32;32;6.1875;Biomate University;Void Starcross;12h 19m 56s ;44396.44
+NPC;-LOCAL;57;0;6.9025;Astrox Security Patrol;Kilotorish;12h 50m 43s ;46243.9
+NPC;-LOCAL;41;41;6.337359;Biomate University;Void Starcross;14h 7m 38s ;50858.57
+NPC;-LOCAL;0;0;9.813934;Biomate University;Void Starcross;14h 28m 58s ;52138.29
+NPC;-LOCAL;0;0;11.22758;Biomate University;Void Starcross;14h 40m 16s ;52816.68
+NPC;+QTY;858;772;6.692469;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-LOCAL;19;19;6.203635;Medicore University;Cliffs of Drameria;15h 8m 42s ;54522.55
+NPC;-LOCAL;10;10;6.1875;Biomate University;Void Starcross;15h 32m 59s ;55979.3
+NPC;-LOCAL;0;0;7.892758;Biomate University;Void Starcross;15h 44m 57s ;56697.91

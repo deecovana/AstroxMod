@@ -1,0 +1,288 @@
+[s:30][c:yellow]PharmaLife[/c][/s]
+Distribution Warehouse
+Fura Geegacie
+Alpha
+[c:lime]Dock fee 100[/c]
+Timestamp: 49891.29
+<Station Services>
+
+[s:20][c:cyan]STATION ECONOMY[/c][/s]
+[c:lime]SUPPLY[/c]
+Basic Charged Cell
+Water
+Carbon
+Hydrogen
+Oxygen
+Magnetic Quartz
+Iron Coring
+Nitrogen
+Oil
+Copperi Cubex
+Calcium
+Ceramic
+Aluminium Shard
+Dynex Crystal
+Silicon
+Salt Crystal
+Bio Carbon
+Calciate Residue
+Steelium
+Plastix Strands
+Silveryte
+Prometheum
+Neutron Pods
+Uranium
+Goldyte
+Titanyte
+Acidic Residue
+[c:orange]DEMAND[/c]
+Aged Wine
+Bottled Whiskey
+Basic Food Rations
+Gourmet Food Rations
+Candy Corn
+Chocolate Bars
+Gummy Bears
+Basic Drone Command Bay
+Improved Drone Command Bay
+Advanced Drone Command Bay
+Premium Drone Command Bay
+Prototype Drone Command Bay
+
+[s:20][c:cyan]SERVICES[/c][/s]
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+[c:red]SELL Order[/c] Market Stock: (3) Items 
+ (369) x Silveryte
+ (510) x Neutron Pods
+ (544) x Titanyte
+Buy items for [c:lime]39,433 discount.[/c]
+[c:red]SELL Order[/c] Market Stock: (3) Items 
+ (189) x Steelium
+ (108) x Plastix Strands
+ (398) x Silveryte
+Buy items for [c:lime]23,070 discount.[/c]
+[c:red]SELL Order[/c] Market Stock: (2) Items 
+ (381) x Acidic Residue
+ (397) x Oil
+Buy items for [c:lime]4,557 discount.[/c]
+[c:green]BUY Order[/c] Market Needs Goods: (1) Items 
+ (49) x Basic Food Rations
+Fulfill order for [c:lime]3,003 profit.[/c]
+
+
+<Station Market Items>
+Visit station market to update prices.
+Acidic Residue  30 - z13
+Advanced 20mm (Doc)  19 - z27,256
+Advanced 60mm (Doc)  17 - z47,570
+Advanced ECM Range Lock (Doc)  6 - z7,431,254
+Advanced Energy Capacitor  14 - z93,746
+Advanced Engine Core  25 - z49,403
+Advanced Explosive Armor  9 - z76,140
+Advanced Explosive Armor (Doc)  16 - z1,405,680
+Advanced Filter  6 - z15,251
+Advanced Mass Reduction  10 - z86,609
+Advanced Missile  73 - z286
+Advanced Railgun (Doc)  90 - z648,990
+Advanced Regulator  10 - z10,307
+Advanced Rocket Launcher (Doc)  17 - z232,125
+Advanced Scan Booster  12 - z80,666
+Advanced Scan Emitter  15 - z44,021
+Advanced Shield Booster  6 - z106,140
+Advanced Thruster  3 - z56,398
+Advanced Thruster (Doc)  3 - z979,171
+Aged Wine  14 - z185
+Aluminium Rivets  129 - z50
+Aluminium Shard  41 - z17
+Ammunition Loader (Doc)  2 - z11,037
+Anti-Freeze  10 - z47
+Assorted Springs  19 - z43
+Auxiliary System Mount (Doc)  17 - z42,807
+Ball Bearings  203 - z74
+Ball Bearings (Doc)  9 - z694
+Basic 20mm  129 - z21
+Basic 60mm  141 - z45
+Basic Afterburner  15 - z17,228
+Basic Armor Exterior  29 - z34,242
+Basic Beam Impact Mod  10 - z30,285
+Basic Charged Cell  6 - z125
+Basic ECM Range Lock (Doc)  22 - z2,832,691
+Basic Energy Capacitor  29 - z18,236
+Basic Engine Core  19 - z21,591
+Basic Filter  5 - z8,060
+Basic Food Rations  5 - z95
+Basic Heavy Laser  25 - z6,710
+Basic Ion Beam  16 - z6,564
+Basic Light Turret (Doc)  28 - z23,149
+Basic Missile Launcher (Doc)  107 - z28,159
+Basic Ore Harvester  8 - z13,740
+Basic Pulse Laser  10 - z4,630
+Basic Railgun (Doc)  9 - z31,559
+Basic Rocket Launcher  7 - z5,820
+Basic Sensor  33 - z74
+Basic Thruster  27 - z12,209
+Basic Torpedo   28 - z238
+Basic Torpedo Launcher (Doc)  82 - z33,659
+Basic Turn Thrust  6 - z18,628
+Basic Warp Drive (Doc)  7 - z5,468,400
+Bio Carbon  42 - z19
+Bomber Drone  40 - z16,671
+Bottled Whiskey  6 - z189
+Calciate Residue  35 - z45
+Calcium  48 - z4
+Candy Corn  24 - z1
+Capacitors  151 - z142
+Carbon  125 - z1
+Carbon Fiber  185 - z26
+Ceramic  43 - z14
+Circuit Board  30 - z45
+Cleaning Chemicals  29 - z95
+Colored Dye  6 - z28
+Containment Unit  7 - z7,857
+Copperi Cubex  28 - z10
+Disposables  9 - z4,000
+Dynex Crystal  29 - z29
+Elite Skill Manual  51 - z1,115,168
+Fasteners  224 - z12
+Fiber Optic Cables  211 - z61
+Generic Construction Platform  32 - z4,285,500
+Generic Heavy Laser  12 - z1,367
+Generic Missile Launcher  27 - z2,445
+Generic Missile Launcher (Doc)  115 - z5,955
+Generic Pulse Laser  29 - z1,903
+Generic Torpedo Launcher  26 - z2,187
+Goldyte  27 - z79
+Gourmet Food Rations  5 - z442
+Ham Sandwich  9 - z27,042
+Heavy Armor Bomb  34 - z102,983
+Heavy Repair Drone  30 - z117,381
+Heavy Salvage Drone  9 - z117,381
+Heavy Shield Bomb  34 - z73,823
+Heavy Shield Charge  50 - z41,668
+Hydrogen  190 - z3
+Improved Cargo Expansion  20 - z44,570
+Improved Defense Drone  3 - z47,763
+Improved Energy Armor  11 - z61,570
+Improved Energy Capacitor  15 - z35,433
+Improved Filter  7 - z13,492
+Improved Heavy Laser  18 - z29,683
+Improved Ion Beam  21 - z17,681
+Improved Missile Launcher (Doc)  75 - z103,946
+Improved Railgun  29 - z20,621
+Improved Railgun (Doc)  146 - z173,666
+Improved Rocket Launcher (Doc)  147 - z85,922
+Improved Salvage Collector  16 - z54,949
+Improved Salvage Drone  51 - z33,363
+Improved Thruster  23 - z40,799
+Improved Turn Thrust  18 - z33,256
+Interior Lighting  11 - z173
+Ionization Plate (Doc)  6 - z36,086
+Iron Coring  29 - z6
+Junk Part  76 - z16
+Kitchen Appliances  23 - z884
+Large Defense Drone  1 - z56,140
+Large Web Field  45 - z56,261
+Light Armor Repair  2 - z5,451
+Light Energy Charge  44 - z3,908
+Light Shield Recharger  25 - z28,285
+Lubricant  166 - z11
+Magnetic Quartz  182 - z4
+Magnetic Regulator (Doc)  27 - z61,380
+Mechanical Switch  3 - z120
+Medium Defense Drone  56 - z11,121
+Medium Energy Charge  23 - z17,665
+Medium Life Support Pack  32 - z18,021
+Medium Salvage Drone  32 - z16,671
+Medium Shield Bomb  37 - z25,148
+Medium Shield Charge  27 - z25,859
+Metal Brackets  191 - z17
+Metal Brackets (Doc)  14 - z259
+Metal Gears  13 - z17
+Metal Valve  116 - z22
+Micro Leech Drone  33 - z11,271
+Neutron Pods  35 - z28
+Nitrogen  28 - z8
+Noodles  4 - z10,552
+Nuts And Bolts  298 - z13
+Office Furniture  8 - z1,007
+Oil  25 - z9
+Ornament  28 - z3
+Oxygen  276 - z1
+Plastix Strands  177 - z5
+Polymere  233 - z66
+Premium Railgun (Doc)  15 - z1,046,956
+Premium Rocket Launcher (Doc)  43 - z1,547,745
+Prometheum  25 - z104
+Protein Bar  11 - z8,620
+Prototype Missile   54 - z690
+Prototype Rocket Launcher (Doc)  22 - z4,051,538
+Quazor Ore  150 - z15
+Regulator  264 - z155
+Reinforced Rubber  193 - z10
+Rubber Tubing  72 - z37
+Salt Crystal  392 - z3
+Scrap Part  202 - z23
+Servo Controls (Doc)  8 - z82,522
+Silicon  371 - z8
+Silveryte  39 - z57
+Small Combat Drone  34 - z4,148
+Small Storage Tank  157 - z41
+Spotlight  11 - z13,035
+Steelium  42 - z35
+Steelium Beam  32 - z10
+Temperature Genie  14 - z21,468
+Thermal Controller  13 - z7,360
+Thermal Insulation  120 - z31
+Thermal Sensor  193 - z72
+Thruster Casing (Doc)  22 - z35,581
+Titan Combat Drone  54 - z237,850
+Titanyte  42 - z48
+Tractor Beam  16 - z17,520
+Undamaged Part  195 - z64
+Uranium  36 - z119
+Waste Processor  2 - z11,821
+Water  138 - z1
+Wrapped Box  3 - z14
+
+
+<Station University Skills>
+Salvager Harvest Calibration
+Fleet Commander
+Market Auditor
+Beam Energy Optimization
+Ship Mass Engineering
+Launcher Basic Operation
+Ship Shield Systems
+
+
+<Station Missions>
+[c:lime]HARVEST[/c]
+Harvest special <color='yellow'>Special Zai Ore</color> in <color='cyan'>Junia</color> and return with <color='yellow'>62</color> ore to CoraVault in <color='cyan'>Lins</color>
+
+[c:lime]KILL[/c]
+Hunt down a low level <color='yellow'><i>Major Leilocki Lockilom</i></color> in <color='cyan'>Arch of Mori</color> and return to Rendo Labs in <color='cyan'>Entropy</color>
+
+[c:lime]SCAN[/c]
+Scan the <color='yellow'>Office Center</color> structure in <color='cyan'>Bitcola</color> and return to Ferce in <color='cyan'>Allabentoris</color>
+
+[c:lime]TRANSPORT[/c]
+Head to KIN AI in <color='cyan'>Xenilo Valley</color>, pick up <color='yellow'>2</color> <color='yellow'>Advanced Ore Harvesters</color> for a light shipment to RestJag Outlet in <color='cyan'>Daefore</color>
+
+
+
+<Station Ships>
+SCA-1 Demi / Battlecruiser    (Support)
+BC-1 Alpharis Predator / Escort    (Battle)
+TE-1 Phoebus / Shuttle    (Transport)
+EE-1 Mining Shuttle / Shuttle    (Excavation)
+TS-1 Dexta / Shuttle    (Recon)
+TU-1 Jonas / Escort    (Transport)
+EC-1 Support Frigate / Frigate    (Support)

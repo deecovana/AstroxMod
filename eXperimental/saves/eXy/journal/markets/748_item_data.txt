@@ -14,3 +14,5 @@ NPC;+PRICE;161;0;170665.7;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+LOCAL;15;11;53625;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 NPC;-PRICE;51;0;129443.1;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+PRICE;57;0;103247.4;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+LOCAL;15;70;53625;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;15;3;53625;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03

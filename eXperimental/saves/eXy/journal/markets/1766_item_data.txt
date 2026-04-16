@@ -20,3 +20,4 @@ NPC;-LOCAL;35;35;689131.1;StarShepards Headquarters;Void Starcross;6h 22m 23s ;2
 NPC;-PRICE;41;0;362982;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+PRICE;39;0;545637.9;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;-LOCAL;11;11;689131.1;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;-LOCAL;72;72;718336.4;StarShepards Headquarters;Void Starcross;14h 17m 15s ;51435.13

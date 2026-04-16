@@ -17,7 +17,7 @@ STATION;seed;2-8-0-3-1-2-3-1-5-2-2-0-90
 STATION;interior_seed;5-9-45-7
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;45699.06
+STATION;last_dock_time;45978.96
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;False
@@ -312,10 +312,12 @@ SKILL;11;1.49
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;141;90;425158;REFINE#6#7#sector_56_station_0.txt#sector_0_station_1.txt#null#null#null#null;Refine a light container of <color='yellow'>6</color> <color='yellow'>Dynex Ores</color> at the Transporteers station in <color='cyan'>Hunu</color>;15;The Law Faction has commissioned a refinery liaison, <i>Keeero Sevbru</i> at Lammassu Financial. After an audit, <color='yellow'>6</color> items of <color='yellow'>Dynex Ores</color> were left unused. Head on over to <color='cyan'>Hunu</color> and refine these <color='yellow'>Dynex Ores</color> at the Transporteers refinery.;15750;2625
 MISSION;123;45;285779;CHAT_PILOT#sector_14_station_1.txt#sector_15.txt#Professor Todo Akqamos#npc_ship_data_(VVS_Wingman_Mk2)#4#missions_arrest_escort.txt#0#null;Detain <color='yellow'><i>Professor Todo Akqamos</i></color> in <color='cyan'>Jermicus</color> and escort them to Horizons in <color='cyan'>Gate of Alpharis</color>;16;<i>Rastta Couronvak</i> has requested that <color='yellow'><i>Professor Todo Akqamos</i></color> be escorted back into custody. Authorities of the Enforcement faction has determined guilt opon the accused. <color='yellow'><i>Professor Todo Akqamos</i></color> has refused to cooperate with the courts. Last known sighting of <color='yellow'><i>Professor Todo Akqamos</i></color> was in the vicinity of the <color='cyan'>Jermicus</color> system. Have a chat with them ann bring them back for further questioning.;52309;16079
 MISSION;124;45;947481;CHAT_PILOT#sector_95_station_1.txt#sector_35.txt#Laborer Sosih Paevo#npc_ship_data_(ATC_Condor)#0#missions_arrest_escort.txt#0#null;Arrest <color='yellow'><i>Laborer Sosih Paevo</i></color> over an outstanding warrant in <color='cyan'>Felishar</color> and return to Acrondia Hub in <color='cyan'>Temple Gates</color>;16;<i>Peaxul Timakni</i> of the Enforcement faction has sent out a warrent for the arrest of <color='yellow'><i>Laborer Sosih Paevo</i></color>. Last known sighting of <color='yellow'><i>Laborer Sosih Paevo</i></color> was in the area of <color='cyan'>Felishar</color>. Bring them back alive to the Acrondia Hub in the <color='cyan'>Temple Gates</color> system to complete this contract.;74375;14069
 MISSION;133;45;734474;SALVAGE#124#20#sector_14.txt#sector_83_station_0.txt#null#null#null#null;Dismantle <color='yellow'>Special Junk Part</color> in <color='cyan'>Gate of Alpharis</color> and return to SimKitten in <color='cyan'>Kolkax Prime</color> with minimum of <color='yellow'>124</color>;16;The Enforcement faction has reported that a special medium load of <color='yellow'>Special Junk Part</color> has been scanned in the <color='cyan'>Gate of Alpharis</color> system. <i>Yizo Xonnostra</i> is credited with the find, but His claim is currently invalid. Hurry up and salvage the <color='yellow'>Special Junk Part</color> and return to SimKitten, in the <color='cyan'>Kolkax Prime</color>.;55170;15074
+MISSION;82;60;101041;RECOVER#28#320#sector_4.txt#sector_78_station_0.txt#null#null#null#null;Retrieve a light cache of <color='yellow'>Media Recordings</color> from a <color='yellow'>crate</color> in <color='cyan'>The Dunes of Caliph</color> sector, drop at Tella's in <color='cyan'>Bitcola</color>;15;After a skirmish in <color='cyan'>The Dunes of Caliph</color>, the Law's <i>Yitdoe Aozetagen</i> cannot account for a light shipment of <color='yellow'>Media Recordings</color> he was transporting before the attack. Head out to the <color='cyan'>The Dunes of Caliph</color> sector and look for the crate. When found, take the contents of the crate back to the Tella's station in the <color='cyan'>Bitcola</color> sector.;35730;12059
+MISSION;113;60;936722;KILL_RAIDERS#sector_0_station_5.txt#sector_70.txt#1#30#npc_ship_data_(ATC_Cobra)#random#random#random;Exterminate <color='yellow'>1 Raider</color> Skilled Raider(s) in <color='cyan'>Beaondus</color> and dock at Proctors Center in <color='cyan'>Void Starcross</color>;15;Reports of a small skilled gang in the <color='cyan'>Beaondus</color> system have locals concerned, and Law faction members are worried about the increase in criminal activity around their local production facilities. Eliminate <color='yellow'>1 Raider</color> raiders in total, and return to Proctors Center station in <color='cyan'>Void Starcross</color> when complete.;94397;40530
+MISSION;94;90;359055;KILL_PILOT#sector_108_station_0.txt#sector_38.txt#Private Whomel Eido#npc_ship_data_(battle_escort_3)#15#null#null#null;Destroy the ship of <color='yellow'><i>Private Whomel Eido</i></color> and head to Ferce in <color='cyan'>Allabentoris</color> for the bounty;17;A kill contract has been placed on <color='yellow'><i>Private Whomel Eido</i></color> by the Judicial faction for various crimes committed in the <color='cyan'>Equalias Val</color>. <i>Latim Belnuhqo</i> has issued this contract and will be waiting at the Ferce station in <color='cyan'>Allabentoris</color> system for news that this criminal has been destroyed.;120145;28137
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -330,4 +332,5 @@ SHIP;8;0.91;ship_data_(pirate_escort_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
 

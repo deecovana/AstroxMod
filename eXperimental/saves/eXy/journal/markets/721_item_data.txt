@@ -21,3 +21,7 @@ PLAYER;-QTY;0;5;4903.875;OmniTrust;Ponze;8h 47m 29s ;31649.46
 NPC;BAL;17;-7;5466.494;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
 NPC;+QTY;113;12;7765.238;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
 NPC;+STOCK;139;12;7157.644;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;BAL;9;-8;5559.708;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52
+NPC;+LOCAL;15;75;1950;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;15;4;1950;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;+QTY;166;7;4900.875;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

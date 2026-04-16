@@ -3,7 +3,7 @@ Banking Facility
 Qevedles Zanlocki
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 31835.99
+Timestamp: 54316.77
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -48,143 +48,141 @@ Buy items for [c:lime]2 discount.[/c]
 [c:red]SELL Order[/c] Sell Order Request for (2) Items 
  (19) x Textile Fabrics
  (8) x Motion Sensor
-Buy items for [c:lime]17,264 discount.[/c]
-[c:green]BUY Order[/c] Market Out of Stock: (1) Items 
- (107) x Entertainment Electronics
-Fulfill order for [c:lime]42,631 profit.[/c]
+Buy items for [c:lime]17,422 discount.[/c]
 
 
 <Station Market Items>
 Visit station market to update prices.
-Adamyte Ore  109 - z5
-Advanced Ion Beam  9 - z142,428
-Advanced Regulator  2 - z11,237
-Advanced Rocket Launcher (Doc)  45 - z444,748
-Aluminium Rivets  81 - z50
-Anti-Freeze  6 - z33
-Assorted Gaskets  190 - z17
-Assorted Springs  40 - z82
-Ball Bearings  15 - z85
-Basic 60mm  56 - z32
-Basic Armor Exterior  17 - z21,219
-Basic Charged Cell  247 - z102
-Basic ECM Range Lock (Doc)  10 - z3,747,577
-Basic Energy Generator  15 - z17,005
-Basic Engine Core  2 - z21,941
-Basic Explosive Armor  15 - z18,183
-Basic Filter  2 - z8,031
-Basic Heavy Cannon  11 - z5,292
-Basic Ion Beam  4 - z11,627
-Basic Missile Explosive Mod (Doc)  15 - z257,194
-Basic Missile Launcher (Doc)  72 - z30,312
-Basic Ore Harvester  9 - z15,222
-Basic Pulse Laser  1 - z4,741
-Basic Scan Emitter  19 - z21,732
-Basic Shield Booster  6 - z18,433
-Basic Shield Generator  1 - z19,367
-Basic Skill Manual  18 - z216,828
-Basic Thruster  11 - z23,044
-Basic Warp Drive Fuel (Doc)  1 - z12,437
-Candy Cane  4 - z1
-Candy Corn  8 - z1
-Carbon  97 - z1
-Carbon Fiber  36 - z32
-Chocolate Bars  18 - z1
-Cleaning Chemicals  7 - z64
-Colored Dye  6 - z29
-Containment Unit  3 - z15,770
-Disposables  1 - z4,181
-Duct Work (Doc)  9 - z11,153
-ECM Sensors Jammer (Doc)  2 - z897,480
-Fasteners  6 - z10
-Generic Construction Platform  26 - z5,679,844
-Generic Heavy Laser  2 - z1,534
-Generic Light Turret  14 - z1,195
-Generic Missile Launcher (Doc)  52 - z11,630
-Generic Ore Harvester  19 - z3,309
-Generic Pulse Laser  9 - z2,535
-Generic Railgun (Doc)  3 - z15,448
-Generic Torpedo Launcher  14 - z2,106
-Gradeon Ore  126 - z12
-Gummy Bears  3 - z1
-Heavy Armor Bomb  12 - z45,952
-Heavy Repair Drone  12 - z200,857
-Hydraulic Assembly (Doc)  1 - z43,136
-Hydrogen  281 - z3
-Improved Energy Capacitor  19 - z46,660
-Improved Explosive Armor  7 - z32,366
-Improved Filter  9 - z11,237
-Improved Impact Armor  7 - z47,866
-Improved Ion Beam  18 - z40,694
-Improved Plasma Cannon  5 - z37,303
-Improved Railgun (Doc)  81 - z92,215
-Improved Salvage Drone  21 - z56,579
-Improved Shield Generator  10 - z31,175
-Interior Lighting  3 - z265
-Junk Part  51 - z24
-Kitchen Appliances  11 - z609
-Large Life Support Pack  30 - z48,029
-Large Web Field  36 - z93,407
-Light Armor Bomb  31 - z5,466
-Light Shield Bomb  22 - z10,326
-Light Shield Recharger  18 - z27,683
-Liquid Coolant  195 - z14
-Lubricant  159 - z11
-Magnetic Quartz  68 - z4
-Mechanical Belts  194 - z37
-Medium Armor Bomb  19 - z22,877
-Metal Brackets  149 - z24
-Metal Gears  4 - z21
-Metal Valve  41 - z18
-Noodles  7 - z12,340
-Nuts And Bolts  152 - z12
-Office Furniture  13 - z783
-Ornament  8 - z3
-Oxygen  118 - z2
-Plastic Caps  20 - z37
-Premium Afterburner (Doc)  1 - z2,260,440
-Premium Plasma Cannon  7 - z456,957
-Premium Railgun (Doc)  9 - z2,210,083
-Premium Shield Generator (Doc)  7 - z3,077,514
-Premium Turn Thrust (Doc)  10 - z1,818,840
-Protein Bar  2 - z8,311
-Prototype 20mm  79 - z81
-Prototype 60mm  90 - z178
-Prototype 60mm (Doc)  10 - z264,328
-Prototype Drone Command Bay (Doc)  12 - z7,428,960
-Prototype Missile Launcher (Doc)  90 - z3,970,883
-Prototype Pulse Laser (Doc)  3 - z4,030,070
-Prototype Railgun (Doc)  10 - z3,953,716
-Prototype Turn Thrust (Doc)  15 - z2,447,280
-Reinforced Rubber  125 - z14
-Rubber Tubing  46 - z42
-Salt Crystal  147 - z2
-Scrap Part  92 - z22
-Sensor Array (Doc)  15 - z48,719
-Small Mining Drone  8 - z5,024
-Small Tractor Drone  18 - z17,060
-Spaceframe  36 - z4,677
-Spotlight  1 - z13,622
-Steelium Beam  25 - z8
-Steelium Pipes  182 - z17
-Thermal Controller  5 - z6,841
-Thermal Systems Package  150 - z2,144
-Thruster Casing (Doc)  7 - z48,518
-Titan Combat Drone  30 - z269,328
-Tractor Beam  15 - z10,602
-Water  218 - z2
-Weapon Systems Package  35 - z6,887
-Weapon Systems Package (Doc)  12 - z60,428
 Wrapped Box  5 - z15
+Weapon Systems Package (Doc)  12 - z60,189
+Weapon Systems Package  35 - z6,863
+Water  218 - z2
+Tractor Beam  15 - z10,559
+Titan Combat Drone  30 - z268,552
+Thruster Casing (Doc)  7 - z48,386
+Thermal Systems Package  150 - z2,123
+Thermal Controller  5 - z6,819
+Steelium Pipes  182 - z17
+Steelium Beam  25 - z8
+Spotlight  1 - z13,589
+Sporting Equipment  20 - z2,472
+Spaceframe  36 - z4,657
+Small Tractor Drone  18 - z17,013
+Small Mining Drone  8 - z5,005
+Sensor Array (Doc)  15 - z48,600
+Scrap Part  92 - z22
+Salt Crystal  147 - z2
+Rubber Tubing  46 - z42
+Reinforced Rubber  125 - z14
+Prototype Turn Thrust (Doc)  15 - z2,435,352
+Prototype Railgun (Doc)  10 - z3,934,138
+Prototype Pulse Laser (Doc)  3 - z4,013,755
+Prototype Plasma Cannon  4 - z1,594,862
+Prototype Missile Launcher (Doc)  90 - z3,952,937
+Prototype Drone Command Bay (Doc)  12 - z7,405,104
+Prototype 60mm (Doc)  10 - z263,552
+Prototype 60mm  90 - z177
+Prototype 20mm  79 - z80
+Protein Bar  2 - z8,289
+Premium Turn Thrust (Doc)  10 - z1,812,876
+Premium Shield Generator (Doc)  7 - z3,069,463
+Premium Railgun (Doc)  9 - z2,204,489
+Premium Plasma Cannon  5 - z455,676
+Premium Afterburner (Doc)  1 - z2,254,476
+Plastic Caps  20 - z37
+Oxygen  118 - z2
+Ornament  8 - z3
+Office Furniture  13 - z781
+Nuts And Bolts  152 - z12
+Noodles  7 - z12,302
+Musical Instruments  10 - z3,682
+Metal Valve  41 - z18
+Metal Gears  4 - z21
+Metal Brackets  149 - z24
+Medium Armor Bomb  19 - z22,794
+Mechanical Belts  194 - z37
+Magnetic Quartz  68 - z4
+Lubricant  159 - z11
+Liquid Coolant  195 - z14
+Light Shield Recharger  18 - z27,605
+Light Shield Bomb  22 - z10,298
+Light Armor Bomb  31 - z5,438
+Large Web Field  36 - z93,183
+Large Life Support Pack  30 - z47,889
+Kitchen Appliances  11 - z607
+Junk Part  51 - z24
+Interior Lighting  3 - z265
+Improved Shield Generator  10 - z31,007
+Improved Salvage Drone  21 - z56,439
+Improved Railgun (Doc)  81 - z91,758
+Improved Impact Armor  7 - z47,710
+Improved Filter  9 - z11,199
+Improved Explosive Armor  7 - z32,210
+Improved Energy Capacitor  19 - z46,499
+Hydrogen  281 - z3
+Hydraulic Assembly (Doc)  1 - z43,031
+Heavy Repair Drone  12 - z200,344
+Heavy Armor Bomb  12 - z45,701
+Gummy Bears  3 - z1
+Gradeon Ore  126 - z12
+Generic Torpedo Launcher  14 - z2,098
+Generic Railgun (Doc)  3 - z15,410
+Generic Pulse Laser  9 - z2,528
+Generic Ore Harvester  19 - z3,297
+Generic Missile Launcher (Doc)  52 - z11,596
+Generic Light Turret  14 - z1,188
+Generic Heavy Laser  2 - z1,527
+Generic Construction Platform  26 - z5,656,547
+Fasteners  6 - z10
+Entertainment Electronics  3 - z928
+ECM Sensors Jammer (Doc)  2 - z894,568
+Duct Work (Doc)  9 - z11,091
+Disposables  1 - z4,159
+Containment Unit  3 - z15,732
+Colored Dye  6 - z29
+Cleaning Chemicals  7 - z64
+Chocolate Bars  18 - z1
+Carbon Fiber  36 - z32
+Carbon  97 - z1
+Candy Corn  8 - z1
+Candy Cane  4 - z1
+Basic Warp Drive Fuel (Doc)  1 - z12,387
+Basic Thruster  11 - z22,978
+Basic Skill Manual  18 - z216,052
+Basic Shield Generator  1 - z19,284
+Basic Shield Booster  6 - z18,355
+Basic Scan Emitter  19 - z21,676
+Basic Pulse Laser  1 - z4,719
+Basic Plasma Cannon  4 - z10,628
+Basic Ore Harvester  9 - z15,179
+Basic Missile Launcher (Doc)  72 - z30,192
+Basic Missile Explosive Mod (Doc)  15 - z256,262
+Basic Ion Beam  13 - z11,594
+Basic Heavy Cannon  11 - z5,268
+Basic Filter  2 - z8,009
+Basic Explosive Armor  15 - z18,105
+Basic Engine Core  2 - z21,873
+Basic Energy Generator  15 - z16,918
+Basic ECM Range Lock (Doc)  10 - z3,736,021
+Basic Charged Cell  247 - z102
+Basic Armor Exterior  17 - z21,126
+Basic 60mm  56 - z32
+Ball Bearings  15 - z84
+Assorted Springs  40 - z81
+Assorted Gaskets  190 - z17
+Anti-Freeze  6 - z33
+Aluminium Rivets  81 - z50
+Advanced Rocket Launcher (Doc)  45 - z443,416
+Advanced Regulator  2 - z11,199
+Advanced Plasma Cannon  19 - z130,193
+Advanced Ion Beam  6 - z147,622
+Adamyte Ore  109 - z5
 
 
 <Station University Skills>
 
 
 <Station Missions>
-[c:lime]KILL RAIDERS[/c]
-Destroy <color='yellow'>1 Raider</color> level 20 Raider(s) in <color='cyan'>Dogstar Prime</color> and return to Quantex in <color='cyan'>Dellis Primeria</color>
-
 [c:lime]KILL RAIDERS[/c]
 Kill <color='yellow'>1 Raider</color> level 20 Raider Ship(s) in <color='cyan'>Bitcola</color>. Return to Star Shepards Hub in <color='cyan'>Temple Gates</color>
 
@@ -229,6 +227,24 @@ Refine <color='yellow'>4</color> <color='yellow'>Module Fragments</color> at Qua
 
 [c:lime]RECOVER[/c]
 Retrieve a light cache of <color='yellow'>Premium Railgun</color> from a <color='yellow'>crate</color> in <color='cyan'>Veloxi</color> sector, drop at Biomart in <color='cyan'>Veloxi</color>
+
+[c:lime]HARVEST[/c]
+Extract special <color='yellow'>Special Adamyte Ore</color> in <color='cyan'>Ballast Crow</color> and return to The Dunes in <color='cyan'>The Dunes of Caliph</color> with minimum of <color='yellow'>153</color>
+
+[c:lime]HARVEST[/c]
+Mine special <color='yellow'>Special Lokken Ore</color> in <color='cyan'>Dellis Primeria</color> and return with <color='yellow'>63</color> to Lacuna Bandits in <color='cyan'>Ballast Crow</color>
+
+[c:lime]DELIVERY[/c]
+Light delivery of <color='yellow'>Beam Defense Systems</color> to Transporteers Hub Station in <color='cyan'>Ambervellis Drea</color>
+
+[c:lime]DELIVERY[/c]
+Dock at Ferce in <color='cyan'>Allabentoris</color> to deliver a light shipment of <color='yellow'>1</color> <color='yellow'>Gun Defense System</color>
+
+[c:lime]DIALOG[/c]
+Transfer payment to <color='yellow'><i>Major Zasip Bearsser</i></color> in <color='cyan'>Dellis Primeria</color> and return with signature to Imperium Republica  in <color='cyan'>Gate of Alpharis</color>
+
+[c:lime]DIALOG[/c]
+Transfer a legal document to <color='yellow'><i>Chairman Yankadd Opsinalia</i></color> in <color='cyan'>Allabentoris</color>. Return with confirmation at CoraVault in <color='cyan'>Lins</color>
 
 
 

@@ -25,3 +25,4 @@ NPC;+QTY;2234;2234;421.0191;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
 NPC;+LOCAL;92;8;122.2147;Stinkfinger;Jonisae;11h 39m 6s ;41946.55
 NPC;+STOCK;2531;2266;196.591;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;33;33;213.57;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;-LOCAL;28;28;213.57;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56

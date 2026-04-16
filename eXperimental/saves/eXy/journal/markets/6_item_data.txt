@@ -19,3 +19,7 @@ PLAYER;+QTY;122;121;83.817;Stinkfinger;Jonisae;11h 52m 19s ;42739.73
 NPC;+STOCK;4694;4606;62.89416;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;3880;3857;100.6434;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;4980;4376;54.47665;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;115;0;96.31125;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;-LOCAL;21;21;96.34024;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;3;3;97.98624;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;+QTY;3373;2951;109.3079;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

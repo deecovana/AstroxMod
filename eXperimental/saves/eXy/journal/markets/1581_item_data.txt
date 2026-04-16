@@ -4,3 +4,4 @@ NPC;+STOCK;18;11;69215.16;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968
 NPC;-LOCAL;7;7;63000;Tella's;Bitcola;10h 5m 33s ;36333.38
 NPC;+STOCK;68;8;62314.1;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;73;11;59466.53;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+PRICE;6;0;35140.39;Parisan;Goru Populan;13h 46m 17s ;49577.09

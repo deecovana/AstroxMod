@@ -5,3 +5,4 @@ NPC;+PRICE;4;0;23752.85;Star Shepards Hub;Temple Gates;6h 8m 59s ;22139.34
 NPC;+PRICE;0;0;33773.7;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;-QTY;11;-11;34131.09;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;-LOCAL;0;0;65000;Tella's;Bitcola;10h 5m 33s ;36333.38
+NPC;+PRICE;9;0;23241.98;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09

@@ -4,3 +4,4 @@ NPC;+PRICE;20;0;122091.6;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 PLAYER;-QTY;18;2;122938.7;Biomate University;Void Starcross;7h 56m 31s ;28591.84
 PLAYER;-QTY;16;2;124938.7;Biomate University;Void Starcross;8h 19m 49s ;29989.75
 NPC;+STOCK;24;8;121199.3;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;0;0;259300.3;Nostra;Zellis;13h 46m 29s ;49589.13

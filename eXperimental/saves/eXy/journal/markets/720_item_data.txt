@@ -22,3 +22,6 @@ PLAYER;-QTY;125;9;4768.163;Biomate University;Void Starcross;8h 0m 59s ;28859.33
 NPC;+PRICE;31;0;4882.494;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+STOCK;64;14;7474.19;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;135;10;4599.638;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;15;59;1950;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;15;4;1950;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;-QTY;21;-14;4480.875;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

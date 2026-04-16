@@ -8,3 +8,7 @@ NPC;-LOCAL;50;50;225000;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 PLAYER;+QTY;26;4;194938.8;Biomate University;Void Starcross;7h 55m 35s ;28535.7
 NPC;+PRICE;44;0;157018.4;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+STOCK;36;10;185817.6;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;+QTY;0;1;0;Foodmaid;Daelus;13h 7m 37s ;47257.84
+PLAYER;-QTY;9;1;226280;Monarch Society;Solitudes of Frey;14h 0m 43s ;50443.38
+PLAYER;+QTY;10;1;228280;Monarch Society;Solitudes of Frey;14h 1m 36s ;50496.77
+NPC;-LOCAL;35;35;232423.5;Proctors Center;Void Starcross;14h 51m 52s ;53512.24

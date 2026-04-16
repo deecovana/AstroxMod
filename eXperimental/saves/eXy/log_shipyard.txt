@@ -1,4 +1,14 @@
 //;LOG DATA FILE (Astrox Imperium)
+SELL;PCA-1 Pirate Destroyer;3,644,949;17671553.6932373;Monarch Society;Solitudes of Frey;13h 57m 36s 
+ACTIVATED;PCA-1 Pirate Destroyer;0;14026604.6932373;Monarch Society;Solitudes of Frey;13h 57m 24s 
+BUY;PCA-1 Pirate Destroyer;7,552,314;14081604.6932373;Monarch Society;Solitudes of Frey;13h 54m 58s 
+ACTIVATED;PCA-1 Pirate Destroyer;0;44560565.4415283;Foodmaid;Daelus;13h 5m 52s 
+MOVED;SU-2 Stacius;120983;44560565.4415283;Foodmaid;Daelus;13h 4m 50s 
+MOVED;TC-1 Kraken;711407;44681548.7305908;Foodmaid;Daelus;13h 4m 45s 
+SELL;ATC Starter;203,943;45392956.1680908;Foodmaid;Daelus;13h 3m 30s 
+MOVED;ATC Starter;11452;45189013.6680908;Foodmaid;Daelus;13h 3m 17s 
+MOVED;PCA-1 Pirate Destroyer;396093;45200465.9678955;Foodmaid;Daelus;13h 2m 28s 
+BUY;PCA-1 Pirate Destroyer;8,566,288;45560568;Desban;Ellisar;12h 44m 37s 
 ACTIVATED;PF-1 Assault Frigate;0;58810618.625;Lammassu Hub;Numbu;9h 20m 55s 
 ACTIVATED;SU-2 Stacius;0;58810618.625;Lammassu Hub;Numbu;9h 20m 40s 
 ACTIVATED;PF-1 Assault Frigate;0;58810618.625;Lammassu Hub;Numbu;9h 20m 33s 

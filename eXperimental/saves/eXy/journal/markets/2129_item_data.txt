@@ -11,3 +11,4 @@ NPC;+STOCK;206;2;4068215;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.
 NPC;+PRICE;361;0;7322858;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+STOCK;312;2;6420886;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;179;2;6904253;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+QTY;20;1;3794673;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

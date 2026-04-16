@@ -32,3 +32,6 @@ NPC;-LOCAL;0;0;7811.371;Kith;Kidd Overture;11h 23m 51s ;41031.56
 NPC;+QTY;25;14;7045.237;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
 NPC;+STOCK;45;20;2140.875;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;142;24;5310.903;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;25;28;1950;StarShepards Headquarters;Void Starcross;14h 17m 15s ;51435.13
+NPC;+LOCAL;25;11;1950;Proctors Center;Void Starcross;14h 51m 52s ;53512.24
+NPC;-QTY;11;-20;5140.875;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

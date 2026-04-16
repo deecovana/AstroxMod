@@ -48,3 +48,13 @@ NPC;-LOCAL;27;27;1.272515;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43
 NPC;+STOCK;754;728;1.530342;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;61;61;1.2375;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85
 NPC;+STOCK;1470;788;1.085378;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;64;3;1.027294;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;-LOCAL;36;0;1.2375;Nostra;Zellis;13h 41m 15s ;49275.95
+NPC;+PRICE;17;0;1.370535;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;-LOCAL;35;0;1.2375;Nostra;Zellis;13h 46m 29s ;49589.13
+NPC;-LOCAL;24;0;1.2375;PharmaLife;Carioullis;13h 50m 15s ;49815.91
+NPC;BAL;11;0;0.7449354;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52
+NPC;-LOCAL;0;0;2.75;StarShepards Headquarters;Void Starcross;14h 17m 15s ;51435.13
+NPC;-LOCAL;76;76;1.2375;StarGypsy Warehouse;Void Starcross;14h 20m 53s ;51653.97
+NPC;-QTY;0;-13;1.217494;Vita Assembly;Capital Void;15h 39m 30s ;56370.95
+NPC;-LOCAL;48;48;1.2375;StarGypsy Warehouse;Void Starcross;15h 48m 49s ;56929.36

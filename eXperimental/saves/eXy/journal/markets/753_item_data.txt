@@ -17,3 +17,4 @@ NPC;+LOCAL;15;14;53625;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826
 NPC;-PRICE;120;0;107855.4;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-PRICE;120;0;106096.4;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+PRICE;28;0;187265.2;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+LOCAL;15;4;53625;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03

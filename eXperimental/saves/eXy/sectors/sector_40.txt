@@ -65,13 +65,13 @@ STARLIGHT;color_5;0.00;0.48;0.00;1.00
 STATION;sector_40_station_0.txt;-110;2140;429;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;878.00;343.00;464.00
-STRUCTURE;structure_energy_gen_1.txt;1361.00;455.00;727.00
-STRUCTURE;structure_office_1.txt;1606.00;229.00;160.00
-STRUCTURE;structure_storage_1.txt;1578.00;49.00;495.00
-STRUCTURE;structure_farm_1.txt;1398.00;948.00;707.00
-STRUCTURE;structure_recon_1.txt;1114.00;404.00;1139.00
 STRUCTURE;structure_medical_1.txt;2078.00;387.00;1398.00
+STRUCTURE;structure_recon_1.txt;1114.00;404.00;1139.00
+STRUCTURE;structure_farm_1.txt;1398.00;948.00;707.00
+STRUCTURE;structure_storage_1.txt;1578.00;49.00;495.00
+STRUCTURE;structure_office_1.txt;1606.00;229.00;160.00
+STRUCTURE;structure_energy_gen_1.txt;1362.45;454.91;724.96
+STRUCTURE;structure_habitat_1.txt;877.89;343.16;464.74
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;1;50;50;100;10000;0;0;0
@@ -81,11 +81,11 @@ CLUSTER;2;10;250;500;2000;0;0;0
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
 RESOURCE;2;-419.0;-1109.0;682.0;300;300
 RESOURCE;2;-2446.0;302.0;-1972.0;600;600
-RESOURCE;2;-732.0;-1901.0;-789.0;1200;1200
+RESOURCE;2;-712.8;-1948.5;-866.3;1200;1200
 RESOURCE;2;-1986.0;-987.0;-1509.0;1600;1600
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_35.txt;2;-1821;551;3574;0;Law;0
+WARPGATE;1;sector_35.txt;2;-1821;551;3574;0;Law;0;prescan
 WARPGATE;2;sector_36.txt;2;1787;217;1204;0;Law;0;prescan
 WARPGATE;3;sector_42.txt;3;4668;-197;-12;0;Law;0;prescan
 WARPGATE;4;sector_46.txt;1;228;38;-3001;0;Law;0;prescan

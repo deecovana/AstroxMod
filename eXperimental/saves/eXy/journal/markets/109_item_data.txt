@@ -18,3 +18,8 @@ NPC;+PRICE;1234;0;4.077374;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;498;215;3.302265;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;1204;192;5.05841;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;599;201;3.111071;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;250;2;5.16778;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;+PRICE;44;0;3.785419;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;+LOCAL;48;2;4.1826;PharmaLife;Carioullis;13h 50m 15s ;49815.91
+NPC;-LOCAL;254;0;5.04;Monarch Society;Solitudes of Frey;14h 0m 6s ;50406.2
+NPC;+QTY;1386;152;4.06252;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

@@ -15,3 +15,6 @@ NPC;+PRICE;18;0;30427.16;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;51;9;34414.88;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;33;33;28125;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85
 NPC;+STOCK;91;8;16102.52;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;41;41;28125;StarGypsy Warehouse;Void Starcross;14h 20m 53s ;51653.97
+NPC;-QTY;0;-2;32236.72;Genistar;Blades of Dandrow;15h 39m 30s ;56370.95
+NPC;-LOCAL;24;24;28125;StarGypsy Warehouse;Void Starcross;15h 48m 49s ;56929.36

@@ -5,3 +5,5 @@ NPC;+STOCK;69;11;2042.61;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;5;0;3814.714;Fellacore Research Center;Grace;8h 0m 32s ;28832.23
 PLAYER;-QTY;68;1;2046.837;Biomate University;Void Starcross;9h 48m 45s ;35325.57
 NPC;+STOCK;79;11;2037.305;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-QTY;0;-6;3157.875;Genistar;Blades of Dandrow;15h 39m 30s ;56370.95
+NPC;-QTY;0;-6;5067.25;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

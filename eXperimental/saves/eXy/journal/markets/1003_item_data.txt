@@ -17,3 +17,7 @@ NPC;-LOCAL;12;12;2700;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698
 NPC;-LOCAL;4;0;2700;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;-LOCAL;0;0;6000;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 NPC;-LOCAL;2;0;2700;Vita Assembly;Capital Void;10h 32m 49s ;37969.92
+NPC;+PRICE;5;0;3167.649;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;-LOCAL;1;1;2700;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;0;0;4584.775;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;+QTY;86;9;3064.35;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

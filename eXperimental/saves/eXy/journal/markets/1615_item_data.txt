@@ -6,3 +6,4 @@ NPC;+STOCK;54;10;21551.77;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.1
 NPC;+PRICE;16;0;14702.59;CoraVault;Lins;6h 48m 22s ;24502.02
 NPC;+PRICE;1;0;13313.57;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 NPC;+QTY;43;7;13053.42;Nova Labs;Noah Fox;10h 5m 22s ;36322.36
+NPC;BAL;3;0;15095.21;Communications Hub;Ele;14h 24m 58s ;51898.89

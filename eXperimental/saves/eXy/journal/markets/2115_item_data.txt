@@ -6,3 +6,5 @@ NPC;+PRICE;196;0;632650.1;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;-PRICE;86;0;433547.3;ValueStar;Hunu;11h 47m 29s ;42449.9
 NPC;+STOCK;219;2;318120.3;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;198;2;610215.5;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+QTY;109;2;348220;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;+QTY;44;2;421616.7;Blissheads;Estura Cove;15h 2m 18s ;54138.48

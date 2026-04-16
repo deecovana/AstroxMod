@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;77
 SECTOR;name;Ballast Crow
-SECTOR;level;9.7
+SECTOR;level;9.8
 SECTOR;faction;Pirate
 SECTOR;filename;sector_77.txt
 SECTOR;is_explored;True

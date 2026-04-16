@@ -21,3 +21,12 @@ NPC;+PRICE;35;0;808643;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.
 NPC;+PRICE;4;0;770090.4;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;139;4;1328791;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;8;3;285158;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;-QTY;145;20;895113.3;Foodmaid;Daelus;13h 20m 10s ;48010.79
+NPC;+LOCAL;5;1;329062.5;Biomate University;Void Starcross;14h 7m 38s ;50858.57
+NPC;+LOCAL;5;1;329062.5;Biomate University;Void Starcross;14h 28m 58s ;52138.29
+PLAYER;-QTY;0;5;284917.5;Biomate University;Void Starcross;14h 29m 21s ;52161.77
+NPC;+LOCAL;1;1;329062.5;Biomate University;Void Starcross;14h 40m 16s ;52816.68
+NPC;+LOCAL;2;1;329062.5;Biomate University;Void Starcross;15h 32m 59s ;55979.3
+PLAYER;-QTY;0;2;284917.5;Biomate University;Void Starcross;15h 33m 13s ;55993.3
+NPC;+LOCAL;1;1;329062.5;Biomate University;Void Starcross;15h 44m 57s ;56697.91
+PLAYER;-QTY;0;1;281626.9;Biomate University;Void Starcross;15h 45m 9s ;56709.93

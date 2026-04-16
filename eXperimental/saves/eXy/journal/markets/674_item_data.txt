@@ -43,3 +43,7 @@ NPC;-LOCAL;0;0;25954.11;Kith;Kidd Overture;11h 23m 51s ;41031.56
 NPC;+STOCK;45;20;6659.366;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+LOCAL;25;120;5850;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
 NPC;+STOCK;124;19;19841.44;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+LOCAL;25;51;5850;StarShepards Headquarters;Void Starcross;14h 17m 15s ;51435.13
+NPC;+LOCAL;25;37;5850;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56
+NPC;+LOCAL;25;14;5850;Proctors Center;Void Starcross;14h 51m 52s ;53512.24
+PLAYER;-QTY;4;40;23065.2;Medicore University;Cliffs of Drameria;15h 10m 19s ;54619.01

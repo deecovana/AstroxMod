@@ -12,3 +12,4 @@ NPC;-PRICE;27;0;230245.9;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+PRICE;21;0;149407;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;43;3;150212.1;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;29;3;180900.4;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-QTY;9;-3;181235.5;Nostra;Zellis;15h 39m 30s ;56370.95

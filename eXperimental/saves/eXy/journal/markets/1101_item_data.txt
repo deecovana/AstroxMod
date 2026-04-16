@@ -9,3 +9,5 @@ NPC;+PRICE;4;0;4801.695;Spacebook;Phistatisia;8h 11m 3s ;29463.74
 PLAYER;-QTY;22;6;7261.188;Lammassu Hub;Numbu;9h 19m 36s ;33576.16
 NPC;-PRICE;27;0;4869.009;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;24;11;6112.502;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;BAL;42;-11;6084.691;Inovex;Goru Populan;14h 7m 32s ;50852.52
+NPC;-QTY;0;-4;8479.8;Nostra;Zellis;15h 39m 30s ;56370.95

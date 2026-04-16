@@ -19,3 +19,6 @@ NPC;-PRICE;34;0;80558.28;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+PRICE;125;0;91607.41;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+PRICE;62;0;92163.2;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
 NPC;+STOCK;202;14;94034.19;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;15;53;32500;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;15;3;32500;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;+QTY;132;7;91681.25;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

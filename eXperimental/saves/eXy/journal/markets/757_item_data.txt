@@ -17,3 +17,7 @@ NPC;+LOCAL;15;9;14625;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.
 NPC;-PRICE;45;0;53744.47;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-PRICE;45;0;52957.02;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;71;12;33392.49;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;10;1;29887.13;Monarch Society;Solitudes of Frey;14h 0m 6s ;50406.2
+NPC;BAL;7;0;26840.08;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52
+NPC;+LOCAL;15;47;14625;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;15;5;14625;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03

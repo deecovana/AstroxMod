@@ -28,3 +28,6 @@ NPC;+STOCK;5598;4739;42.51461;StarShepards Headquarters;Void Starcross;12h 8m 53
 PLAYER;+QTY;1242;383;43.41383;StarShepards Headquarters;Void Starcross;12h 9m 11s ;43751.38
 NPC;+STOCK;7280;3682;64.03073;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;10792;4892;60.01104;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;223;0;58.365;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;-LOCAL;44;44;58.365;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;0;0;99.10755;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03

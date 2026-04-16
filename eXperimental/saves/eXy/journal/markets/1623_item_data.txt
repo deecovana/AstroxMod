@@ -7,3 +7,6 @@ NPC;+PRICE;46;0;285092.2;Medicore University;Cliffs of Drameria;11h 16m 9s ;4056
 NPC;-LOCAL;0;0;376578.3;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
 NPC;+STOCK;89;10;332026;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;33;33;270000;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85
+NPC;-LOCAL;0;0;600000;StarGypsy Warehouse;Void Starcross;14h 20m 53s ;51653.97
+NPC;+QTY;77;7;306435;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-LOCAL;70;70;271915.1;StarGypsy Warehouse;Void Starcross;15h 48m 49s ;56929.36

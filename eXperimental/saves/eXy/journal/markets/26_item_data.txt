@@ -20,3 +20,4 @@ NPC;+QTY;3748;3238;372.1618;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
 NPC;-PRICE;419;0;375.5553;ValueStar;Hunu;11h 47m 29s ;42449.9
 NPC;+STOCK;4486;4022;653.5189;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;4093;3506;443.2995;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;61;0;570.2512;Foodmaid;Daelus;12h 58m 35s ;46715.01

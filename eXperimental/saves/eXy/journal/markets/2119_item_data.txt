@@ -13,3 +13,4 @@ NPC;-QTY;34;-2;36845.7;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+PRICE;372;0;42910.5;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;439;2;30074.34;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;267;2;31979.82;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+PRICE;35;0;25645.77;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09

@@ -7,3 +7,4 @@ NPC;-QTY;0;-42;67.00957;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+PRICE;373;0;65.07741;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
 NPC;+STOCK;939;116;75.83775;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;1081;135;47.66935;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+QTY;214;88;77.40984;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

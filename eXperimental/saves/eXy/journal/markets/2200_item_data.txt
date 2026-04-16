@@ -1,1 +1,3 @@
 NPC;+STOCK;19;2;1652580;Tella's;Bitcola;2h 36m 58s ;9418.72
+NPC;+QTY;51;1;1402900;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-QTY;13;-1;2026900;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

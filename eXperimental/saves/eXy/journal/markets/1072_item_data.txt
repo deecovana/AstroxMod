@@ -5,3 +5,4 @@ NPC;+PRICE;49;0;440103;StarShepards Headquarters;Void Starcross;6h 48m 22s ;2450
 NPC;-PRICE;28;0;224669;Nostra;Zellis;10h 29m 28s ;37768.82
 NPC;+PRICE;41;0;228029.5;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
 NPC;+STOCK;59;10;432461.4;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-QTY;20;-8;238161.5;Nostra;Zellis;15h 39m 30s ;56370.95

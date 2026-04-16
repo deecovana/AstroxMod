@@ -22,3 +22,4 @@ NPC;-PRICE;344;0;86.21254;ValueStar;Hunu;11h 47m 29s ;42449.9
 NPC;+STOCK;4520;1904;126.1324;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;0;0;284.775;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
 NPC;+STOCK;2371;2207;126.2461;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;54;54;128.1487;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56

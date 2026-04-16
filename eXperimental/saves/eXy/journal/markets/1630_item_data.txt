@@ -11,3 +11,7 @@ NPC;+QTY;10;7;28175.55;Nova Labs;Noah Fox;10h 5m 22s ;36322.36
 NPC;-LOCAL;0;0;39976.9;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
 NPC;+STOCK;8;8;79857.26;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;65;65;28125;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85
+NPC;+PRICE;11;0;15573.86;Parisan;Goru Populan;13h 46m 17s ;49577.09
+NPC;-LOCAL;0;0;62500;StarGypsy Warehouse;Void Starcross;14h 20m 53s ;51653.97
+NPC;-QTY;0;-3;28736.72;Genistar;Blades of Dandrow;15h 39m 30s ;56370.95
+NPC;-LOCAL;0;0;62500;StarGypsy Warehouse;Void Starcross;15h 48m 49s ;56929.36

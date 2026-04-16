@@ -1,4 +1,49 @@
 //;LOG DATA FILE (Astrox Imperium)
+BUY;19;Prototype ECM Resistance Field;679,341;12,907,470;4908127.45293021;StarGypsy Warehouse;Void Starcross;15h 49m 11s 
+BUY;1;Advanced Skill Manual;156,459;156,459;17815626.4529302;Biomate University;Void Starcross;15h 45m 11s 
+BUY;1;Elite Skill Manual;281,627;281,627;17972085.8279302;Biomate University;Void Starcross;15h 45m 9s 
+SELL;50;Light Armor Repair;520;25999.3400;18417178.7966802;Legistron;Dogstar Prime;15h 41m 48s 
+BUY;26;Medium Armor Repair;28,503;741,078;18391179.4587896;Legistron;Dogstar Prime;15h 41m 44s 
+SELL;5;Small Defense Drone;4,056;20279.6700;19132257.4587896;Legistron;Dogstar Prime;15h 41m 6s 
+BUY;5;Medium Defense Drone;15,114;75,572;19111977.7888677;Legistron;Dogstar Prime;15h 41m 3s 
+SELL;1;UV Filter;51,209;51208.5600;19187549.6638677;Legistron;Dogstar Prime;15h 40m 29s 
+BUY;5;Advanced Skill Manual;158,288;791,438;18932531.3701172;Biomate University;Void Starcross;15h 33m 18s 
+BUY;2;Elite Skill Manual;284,918;569,835;19723968.8701172;Biomate University;Void Starcross;15h 33m 13s 
+SELL;7;Prototype Plasma Cannon;2,899,074;20293520.0000;20323219.9847412;CoraVault;Lins;15h 28m 31s 
+BUY;5;Small Defense Drone;5,648;28,242;29797.9847412109;Medicore University;Cliffs of Drameria;15h 22m 54s 
+BUY;5;Medium Repair Drone;8,421;42,105;58039.9866943359;Medicore University;Cliffs of Drameria;15h 16m 7s 
+BUY;7;Prototype Plasma Cannon;810,454;5,673,181;100144.986694336;Medicore University;Cliffs of Drameria;15h 11m 14s 
+BUY;40;Medium Energy Charge;23,065;922,608;5773325.48669434;Medicore University;Cliffs of Drameria;15h 10m 19s 
+SELL;5;Prototype Plasma Cannon;1,269,378;6346888.0000;6696133.48669434;OmniTrust;Ponze;15h 3m 1s 
+BUY;5;Prototype Plasma Cannon;1,083,408;5,417,040;326195.494506836;Proctors Center;Void Starcross;14h 55m 48s 
+SELL;15;Titan Salvage Drone;209,010;3135147.0000;5743259.99450684;Biomate University;Void Starcross;14h 40m 26s 
+BUY;15;Titan Salvage Drone;86,016;1,290,234;2608112.99450684;Starbase Corporate Center;Void Starcross;14h 36m 53s 
+BUY;5;Elite Skill Manual;284,918;1,424,588;3898372.36950684;Biomate University;Void Starcross;14h 29m 21s 
+BUY;20;Advanced Skill Manual;612,826;12,256,520;5340528.6776123;StarGypsy Warehouse;Void Starcross;14h 23m 8s 
+SELL;596;Belasite Ore;276;164237.0000;17604540.6776123;Starbase Corporate Center;Void Starcross;14h 13m 56s 
+SELL;1;Premium Thruster;10,920;10920.0000;17600493.6932373;Monarch Society;Solitudes of Frey;14h 1m 55s 
+SELL;1;Premium Cargo Expansion;144,300;144300.0000;17589573.6932373;Monarch Society;Solitudes of Frey;14h 1m 36s 
+BUY;1;Premium Cargo Expansion;226,280;226,280;17445273.6932373;Monarch Society;Solitudes of Frey;14h 0m 43s 
+SELL;4;Belasite Ore;173;690.8191;21636938.6932373;Nostra;Zellis;13h 47m 56s 
+BUY;1;Premium Thruster;141,355;141,355;21636247.8741455;Nostra;Zellis;13h 47m 36s 
+SELL;21;Belasite Ore;176;3690.4170;21777703.0772705;Nostra;Zellis;13h 45m 21s 
+BUY;50;Light Armor Repair;4,571;228,560;21774012.65979;Nostra;Zellis;13h 44m 17s 
+SELL;1;Thermal Controller;3,868;3867.5000;22077672.675415;Foodmaid;Daelus;13h 27m 13s 
+SELL;1;Disposables;4,505;4504.5000;22073805.1756592;Foodmaid;Daelus;13h 27m 5s 
+SELL;1;Protein Bar;3,367;3367.0000;22069300.6756592;Foodmaid;Daelus;13h 27m 1s 
+SELL;1;Basic Filter;4,186;4186.0000;22065933.6759033;Foodmaid;Daelus;13h 26m 57s 
+BUY;50;Medium Shield Charge;25,075;1,253,766;22061747.6759033;Foodmaid;Daelus;13h 26m 7s 
+BUY;1;Habitax Regulator;544,359;544,359;23315513.3009033;Foodmaid;Daelus;13h 25m 11s 
+BUY;1;Spaghetti;421,209;421,209;23859872.1759033;Foodmaid;Daelus;13h 24m 3s 
+BUY;1;Biowaste Processor;421,209;421,209;24281081.5821533;Foodmaid;Daelus;13h 23m 22s 
+BUY;1;Crystaline Filter;636,721;636,721;24702290.9884033;Foodmaid;Daelus;13h 22m 17s 
+BUY;20;Elite Skill Manual;895,114;17,902,270;25339011.8634033;Foodmaid;Daelus;13h 20m 10s 
+BUY;1;Basic Ore Harvester;15,737;15,737;43241277.8634033;Foodmaid;Daelus;13h 15m 36s 
+BUY;100;Light Shield Charge;8,918;891,844;43257014.7384033;Foodmaid;Daelus;13h 13m 51s 
+BUY;200;Advanced Missile;325;65,007;44148858.4884033;Foodmaid;Daelus;13h 11m 27s 
+BUY;1;Prototype Turn Thrust;359,700;359,700;44213865.4415283;Foodmaid;Daelus;13h 8m 37s 
+SELL;1;Premium Cargo Expansion;13,000;13000.0000;44573565.4415283;Foodmaid;Daelus;13h 7m 37s 
+SELL;134;Zai Ore;853;114261.2000;45597813.1796875;Foodmaid;Daelus;12h 58m 58s 
 SELL;1;Advanced Cargo Expansion;6,500;6500.0000;54127057.6853027;Biomate University;Void Starcross;12h 22m 27s 
 BUY;72;Medium Shield Charge;26,704;1,922,716;54120557.6853027;Biomate University;Void Starcross;12h 21m 30s 
 BUY;319;Advanced Missile;209;66,764;56057573.6853027;StarShepards Headquarters;Void Starcross;12h 10m 42s 
@@ -55,48 +100,3 @@ BUY;1;Advanced Drone Command Bay;120,438;120,438;64347364.9913113;Daemon Ammunit
 SELL;1;Basic Salvage Collector;10,374;10374.0000;64467802.4991238;Daemon Ammunitions;Starfort Ramos;7h 47m 39s 
 SELL;1;Ham Sandwich;14,492;14492.0900;64153930.3741238;Mass Market;Dorando Corridor;7h 36m 57s 
 SELL;1064;Torim Ore;59.28;63075.3300;64305099.3145535;Starbase Corporate Center;Void Starcross;7h 27m 8s 
-SELL;1;Waste Burner;27,312;27311.6500;64242048.9864285;Proctors Center;Void Starcross;7h 25m 46s 
-SELL;40;Junk Part;22.75;909.8425;64214762.3399441;Rendo Labs;Entropy;7h 21m 21s 
-SELL;1;Disposables;4,732;4732.0000;64176855.0247586;Horizons;Gate of Alpharis;7h 13m 40s 
-SELL;5;Lokken Ore;20.23;101.1582;64160370.0804226;Biomate University;Void Starcross;7h 9m 54s 
-SELL;1;Waste Processor;14,074;14074.0500;64160268.9222195;Biomate University;Void Starcross;7h 9m 52s 
-SELL;70;Anti-Freeze;31.38;2196.3890;64165247.0871975;Quantex;Dellis Primeria;7h 3m 10s 
-SELL;1;Light Armor Repair;5,772;5772.0000;64163050.6980374;Quantex;Dellis Primeria;7h 3m 5s 
-SELL;1;Thermal Insulation;25.01;25.0107;64157278.6980374;Quantex;Dellis Primeria;7h 3m 1s 
-SELL;1;Thermal Controller;5,324;5323.5000;64157253.687341;Quantex;Dellis Primeria;7h 2m 58s 
-SELL;1;Thermal Controller;5,278;5278.0000;64143871.887109;StarGypsy Warehouse;Void Starcross;6h 49m 20s 
-BUY;10;Heavy Shield Charge;19,558;195,576;75029101.887109;Lammassu Financial;Void Starcross;6h 40m 37s 
-BUY;5;Heavy Shield Charge;24,300;121,498;75224702.512109;StarShepards Headquarters;Void Starcross;6h 39m 1s 
-BUY;4;Heavy Shield Charge;23,670;94,678;75346199.9730465;StarShepards Headquarters;Void Starcross;6h 37m 44s 
-BUY;1;Heavy Shield Charge;23,039;23,039;75440877.949609;StarShepards Headquarters;Void Starcross;6h 37m 33s 
-BUY;1;Advanced Shield Booster;125,571;125,571;75463917.4437497;StarShepards Headquarters;Void Starcross;6h 32m 14s 
-BUY;2;Premium Shield Generator;236,673;473,345;75589488.0687497;StarShepards Headquarters;Void Starcross;6h 30m 57s 
-BUY;2;Premium Mass Reduction;115,130;230,260;76062843.09375;StarShepards Headquarters;Void Starcross;6h 24m 8s 
-SELL;304;Dynex Ore;161;49076.6800;76293155.71875;Starbase Corporate Center;Void Starcross;6h 18m 26s 
-SELL;270;Belasite Ore;296;79901.9500;76244079.0429688;Starbase Corporate Center;Void Starcross;6h 18m 24s 
-SELL;78;Xenox Ore;488;38087.6500;76164177.0898438;Starbase Corporate Center;Void Starcross;6h 18m 21s 
-BUY;3;Basic Ore Harvester;17,366;52,098;76126314.4375;Oak Industries;Dorando Corridor;6h 0m 30s 
-BUY;4;Prototype Cargo Expansion;368,175;1,472,700;76178412.8125;Oak Industries;Dorando Corridor;5h 57m 7s 
-BUY;3;Basic Pulse Laser;5,113;15,339;77651112.8125;Oak Industries;Dorando Corridor;5h 54m 36s 
-SELL;47;Advanced ECM Energy Coil;1,405,737;66069650.0000;77669577.4566877;StarShepards Headquarters;Void Starcross;5h 36m 43s 
-BUY;47;Advanced ECM Energy Coil;335,890;15,786,820;11599950.4566877;Biomate University;Void Starcross;5h 34m 57s 
-SELL;1;Improved Thruster;2,730;2730.0000;27386765.4566877;Biomate University;Void Starcross;5h 32m 16s 
-SELL;1;Basic Cargo Expansion;1,625;1625.0000;27384035.4566877;Biomate University;Void Starcross;5h 32m 7s 
-BUY;1;Synth Filter;75,335;75,335;27382410.4566877;StarShepards Headquarters;Void Starcross;5h 28m 4s 
-BUY;1;Bio Disposables;122,441;122,441;27457745.8629377;StarShepards Headquarters;Void Starcross;5h 27m 30s 
-BUY;1;Thermal Generex;73,038;73,038;27580186.9879377;StarShepards Headquarters;Void Starcross;5h 26m 41s 
-BUY;1;Cheese and Crackers;75,335;75,335;27653224.5504377;StarShepards Headquarters;Void Starcross;5h 26m 13s 
-SELL;33;Basic ECM Energy Coil;839,422;27700920.0000;27728559.9566877;StarShepards Headquarters;Void Starcross;5h 22m 56s 
-BUY;33;Basic ECM Energy Coil;208,065;6,866,151;27662.9566876888;Valuestar Hub;Jelumus;5h 19m 21s 
-BUY;1;Premium Thruster;178,344;178,344;6893913.45668769;Biomate University;Void Starcross;5h 7m 55s 
-BUY;1;Premium Cargo Expansion;196,314;196,314;7072257.00356269;Biomate University;Void Starcross;5h 7m 31s 
-BUY;1;Premium Afterburner;129,851;129,851;7402804.29262519;Biomate University;Void Starcross;5h 2m 44s 
-BUY;1;Premium Thruster;176,664;176,664;7532655.29262519;Biomate University;Void Starcross;5h 2m 16s 
-BUY;1;Premium Thruster;174,984;174,984;7709318.83950019;Biomate University;Void Starcross;5h 1m 11s 
-BUY;1;Premium Afterburner;128,251;128,251;7884302.38637519;Biomate University;Void Starcross;5h 0m 36s 
-BUY;4;Premium Cargo Expansion;194,314;777,255;8012553.38637519;Biomate University;Void Starcross;5h 0m 0s 
-SELL;15;Basic ECM Energy Coil;632,037;9480550.0000;10945405.8863752;StarShepards Headquarters;Void Starcross;4h 45m 57s 
-BUY;15;Basic ECM Energy Coil;204,765;3,071,473;1464880.88637519;Valuestar Hub;Jelumus;4h 42m 4s 
-SELL;8;Basic ECM Energy Coil;558,346;4466770.0000;4536453.88637519;StarShepards Headquarters;Void Starcross;4h 38m 11s 
-BUY;8;Basic ECM Energy Coil;201,465;1,611,716;69708.8863751888;Valuestar Hub;Jelumus;4h 35m 41s 
-SELL;3;Basic ECM Energy Coil;500,264;1500793.0000;1681525.13637519;StarShepards Headquarters;Void Starcross;4h 31m 59s 

@@ -27,3 +27,7 @@ NPC;-LOCAL;2000;0;21.4425;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26
 NPC;-LOCAL;89;0;21.4425;Vita Assembly;Capital Void;10h 32m 49s ;37969.92
 NPC;-PRICE;63;0;10.05863;ValueStar;Hunu;11h 47m 29s ;42449.9
 NPC;+STOCK;4223;3847;20.61103;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;802;0;24.8733;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;-LOCAL;69;69;21.4425;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;0;0;36.41075;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;+QTY;4249;3903;25.67025;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

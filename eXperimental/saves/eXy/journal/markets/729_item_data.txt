@@ -19,3 +19,5 @@ NPC;BAL;44;-7;12589.73;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.0
 NPC;+LOCAL;15;9;4875;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 NPC;+STOCK;35;10;19073.59;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;101;12;9218.837;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+LOCAL;15;70;4875;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;15;4;4875;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03

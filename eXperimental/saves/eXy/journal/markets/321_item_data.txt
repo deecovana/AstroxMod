@@ -19,3 +19,8 @@ NPC;-PRICE;52;0;2932.247;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;1020;972;3378.419;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;1570;670;1840.692;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;895;869;2094.579;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;11;11;2997.265;OmniTrust;Ponze;15h 2m 26s ;54146.52
+NPC;-LOCAL;10;0;2998.557;OmniTrust;Ponze;15h 3m 30s ;54210.23
+NPC;-LOCAL;0;0;6391;CoraVault;Lins;15h 28m 16s ;55696.6
+NPC;-QTY;0;-33;2355.467;Nostra;Zellis;15h 39m 30s ;56370.95
+NPC;-LOCAL;27;27;2875.95;Legistron;Dogstar Prime;15h 40m 26s ;56426.41

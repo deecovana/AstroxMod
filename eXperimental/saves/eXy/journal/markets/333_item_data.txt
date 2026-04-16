@@ -14,3 +14,4 @@ NPC;-LOCAL;0;0;18871.88;Tella's;Bitcola;10h 5m 33s ;36333.38
 NPC;-PRICE;56;0;6397.406;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;1740;779;5143.55;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1784;888;8633.456;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;43;43;8492.344;Proctors Center;Void Starcross;14h 51m 52s ;53512.24

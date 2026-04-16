@@ -13,3 +13,5 @@ NPC;-PRICE;18;0;329491.2;Gunstellar;Adrenal;6h 18m 15s ;22695.92
 NPC;-LOCAL;16;16;405168.8;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
 NPC;-LOCAL;11;0;405168.8;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;-LOCAL;56;56;405168.8;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+NPC;-LOCAL;40;40;411491;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;20;20;418241.3;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03

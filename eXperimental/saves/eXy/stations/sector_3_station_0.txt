@@ -40,7 +40,7 @@ MERC;2;0.96;npc_ship_data_(transport_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-SELLORDER;Market Items: (2) Items ;103x720,106x296;2352;57502.95
+SELLORDER;Sale Request Order: (1) Items ;1002x17;38203;84953.95
 
 ITEM;1;0;0.66;5.27
 ITEM;404;12;0.93;1.13

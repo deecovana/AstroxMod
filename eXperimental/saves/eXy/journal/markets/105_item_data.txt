@@ -13,3 +13,4 @@ NPC;+LOCAL;250;2;9.703859;Kith;Kidd Overture;11h 16m 17s ;40577.67
 NPC;+STOCK;1455;245;7.434086;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;1186;227;9.879098;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1067;182;4.047338;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;413;0;8.7075;Monarch Society;Solitudes of Frey;14h 0m 6s ;50406.2

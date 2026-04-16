@@ -17,3 +17,5 @@ NPC;-QTY;6;-11;2425.05;Lammassu Hub;Numbu;7h 0m 13s ;25213.58
 NPC;+PRICE;6;0;2926.515;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 NPC;+STOCK;22;11;2792.804;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+PRICE;1;0;2221.956;Gemini Mining;Jala;12h 14m 9s ;44049.95
+NPC;+LOCAL;12;7;780;Proctors Center;Void Starcross;14h 51m 52s ;53512.24
+NPC;+PRICE;18;0;2854.185;Psybermind;Ion Child;15h 8m 35s ;54515.52

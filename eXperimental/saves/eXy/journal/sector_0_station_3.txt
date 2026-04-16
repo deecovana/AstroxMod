@@ -3,7 +3,7 @@ Worship Center
 Temple Of the Void
 Temple
 [c:lime]Dock fee 25[/c]
-Timestamp: 43857.05
+Timestamp: 51558.64
 <Station Services>
 
 [s:20][c:cyan]STATION ECONOMY[/c][/s]
@@ -69,11 +69,10 @@ Adamyte Ore  912 - z8
 Advanced 20mm  173 - z55
 Advanced 60mm  112 - z68
 Advanced Drone Command Bay  56 - z141,890
-Advanced ECM Energy Coil  17 - z835,158
-Advanced ECM Power Boost Field  11 - z885,773
-Advanced ECM Range Lock  58 - z784,542
+Advanced ECM Energy Coil  29 - z835,158
+Advanced ECM Power Boost Field  72 - z922,279
+Advanced ECM Range Lock  78 - z784,542
 Advanced ECM Range Lock (Doc)  9 - z7,987,345
-Advanced ECM Resistance Field  21 - z936,389
 Advanced Energy Capacitor  76 - z108,869
 Advanced Energy Generator  33 - z135,163
 Advanced Engine Core  35 - z69,240
@@ -91,6 +90,7 @@ Advanced Torpedo Launcher  62 - z106,688
 Advanced Warp Drive  12 - z892,031
 Advanced Warp Drive Fuel  9 - z6,225
 Advanced Waste Unit  28 - z234,622
+Aged Wine  66 - z198
 AI Interface Drive  349 - z1,729
 Aluminium Plates  339 - z250
 Aluminium Shard  482 - z30
@@ -105,12 +105,12 @@ Basic Armor Exterior  52 - z30,204
 Basic Beam Explosive Mod  60 - z17,670
 Basic Charged Cell  76 - z123
 Basic Drone Command Bay (Doc)  39 - z363,270
-Basic ECM Energy Coil  43 - z485,377
-Basic ECM Power Boost  10 - z506,156
-Basic ECM Range Lock  31 - z464,860
-Basic ECM Resistance Field  26 - z535,079
+Basic ECM Energy Coil  15 - z477,494
+Basic ECM Power Boost  79 - z506,156
+Basic ECM Range Lock  56 - z453,901
+Basic ECM Resistance Field  5 - z535,079
 Basic Filter  42 - z4,808
-Basic Food Rations  21 - z102
+Basic Food Rations  20 - z102
 Basic Heavy Laser (Doc)  16 - z44,922
 Basic Laser Energy Mod  41 - z27,170
 Basic Laser Energy Mod (Doc)  8 - z236,044
@@ -126,7 +126,7 @@ Basic Shield Generator  56 - z26,374
 Basic Skill Manual  120 - z296,703
 Basic Targeting System  24 - z16,096
 Basic Turn Thrust  79 - z19,736
-Basic Warp Drive  12 - z188,406
+Basic Warp Drive  12 - z178,406
 Battery Core  11 - z148
 Belasite Ore  25 - z319
 Bio Carbon  1004 - z38
@@ -134,13 +134,12 @@ Bio Converter  6 - z74,634
 Bio Disposables  9 - z122,568
 Biowaste Processor  39 - z718,461
 Bomber Drone  31 - z17,952
-Bottled Whiskey  16 - z185
+Bottled Whiskey  71 - z189
 Burglar Drone  25 - z19,602
 Calciate Residue  225 - z77
 Calcium  283 - z3
 Calibration Tools  9 - z3,613
 Candy Cane  3 - z1
-Candy Corn  27 - z2
 Carbon  674 - z2
 Carbon Fiber  595 - z31
 Carbon Filter  27 - z49,402
@@ -149,7 +148,7 @@ Ceramic  574 - z15
 Cheese and Crackers  33 - z80,058
 Cheeseburger  31 - z38,522
 Childrens Toys  6 - z228
-Chocolate Bars  54 - z2
+Chocolate Bars  10 - z2
 Cleaning Chemicals  82 - z95
 Cloak Booster  87 - z702,317
 Colored Dye  8 - z22
@@ -194,10 +193,10 @@ Generic Torpedo Launcher  11 - z2,896
 Generic Torpedo Launcher (Doc)  69 - z16,162
 Glass Panels  672 - z537
 Goldyte  1095 - z129
-Gourmet Food Rations  42 - z425
 Gradeon Ore  748 - z14
 Gravitational Emitter  387 - z2,986
 Grilled Steak  44 - z77,260
+Gummy Bears  47 - z2
 Gyroscope Drive  307 - z3,033
 Habitax Regulator  20 - z650,729
 Ham Sandwich  9 - z24,800
@@ -301,15 +300,15 @@ Premium Mass Reduction  78 - z115,334
 Premium Missile Launcher  49 - z438,031
 Premium Missile Launcher (Doc)  357 - z1,414,330
 Premium Railgun (Doc)  352 - z1,200,763
-Premium Rocket Launcher (Doc)  440 - z1,293,257
+Premium Rocket Launcher (Doc)  440 - z1,300,761
 Premium Shield Generator  69 - z236,912
 Protein Bar  42 - z4,598
 Prototype Afterburner  26 - z261,380
 Prototype Drone Command Bay  82 - z657,160
-Prototype ECM Energy Coil  62 - z1,461,526
-Prototype ECM Power Boost Field  68 - z1,550,103
-Prototype ECM Range Lock  51 - z1,372,949
-Prototype ECM Resistance Field  26 - z1,646,001
+Prototype ECM Energy Coil  51 - z1,461,526
+Prototype ECM Power Boost Field  80 - z1,550,103
+Prototype ECM Range Lock  13 - z1,423,739
+Prototype ECM Resistance Field  67 - z1,638,680
 Prototype Energy Capacitor (Doc)  78 - z5,625,048
 Prototype Engine Core  51 - z291,038
 Prototype Heavy Cannon  57 - z1,232,682
@@ -382,21 +381,6 @@ Merc Negotiations
 
 <Station Missions>
 [c:lime]DIALOG[/c]
-Transfer payment to <color='yellow'><i>Doctor Jancosev Janvak</i></color> in <color='cyan'>Chaferea</color> and return with signature to Quantex in <color='cyan'>Dellis Primeria</color>
-
-[c:lime]HARVEST[/c]
-Mine special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Coralor</color> and return with <color='yellow'>69</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>
-
-[c:lime]KILL[/c]
-Hunt down a low level <color='yellow'><i>Engineer Mefo Arsjalisqe</i></color> in <color='cyan'>Lins</color> and return to Gemini Mining in <color='cyan'>Jala</color>
-
-[c:lime]HARVEST[/c]
-Extract special <color='yellow'>Special Belasite Ore</color> in <color='cyan'>The Moon of Crystalis</color> and return to Proctors Center in <color='cyan'>Void Starcross</color> with minimum of <color='yellow'>171</color>
-
-[c:lime]DELIVERY[/c]
-Move medium crate of <color='yellow'>22</color> <color='yellow'>Mechanical Tools</color> to <color='cyan'>Temple Gates</color> and deliver to Acrondia Hub
-
-[c:lime]DIALOG[/c]
 Chat with <color='yellow'><i>Captain Renojanco Beckport</i></color> about his debt in <color='cyan'>Gate of Alpharis</color> and return to Oro Omniplex Center in <color='cyan'>Merces Academy</color>
 
 [c:lime]KILL[/c]
@@ -407,6 +391,27 @@ Locate and scan <color='yellow'><i>Enforcer Jidlow Whewho</i></color> in <color=
 
 [c:lime]HARVEST[/c]
 In <color='cyan'>Dragon Sea</color>, Extract special <color='yellow'>Special Torim Ore</color> and return to Ferce Hub in <color='cyan'>Semja</color> with at least <color='yellow'>225</color>
+
+[c:lime]SCAN[/c]
+Locate and scan the <color='yellow'>Defensive Gun Platform</color> structure in <color='cyan'>Kidd Overture</color> and return to Scrapdogs in <color='cyan'>Gemini Els</color>
+
+[c:lime]KILL RECOVER[/c]
+Frag <color='yellow'><i>Miner Jancokee Momole</i></color> in <color='cyan'>Capital Void</color> and take back <color='yellow'>1</color> <color='yellow'>Basic ECM Resistance Field</color>. Return to Rendo Labs in <color='cyan'>Entropy</color>
+
+[c:lime]ESCORT[/c]
+<color='yellow'><i>Govenor Sorest Zoak</i></color> requests an escort from Nostra in <color='cyan'>Zellis</color> to Starbase Corporate Center in <color='cyan'>Void Starcross</color>
+
+[c:lime]DELIVERY[/c]
+Take medium shipment of <color='yellow'>33</color> <color='yellow'>Afterburner Assemblys</color> and deliver to <color='cyan'>Entropy</color> and dock at Rendo Labs Station
+
+[c:lime]HARVEST[/c]
+Harvest special <color='yellow'>Special Xenox Ore</color> in <color='cyan'>Empathy Forge</color> and return with <color='yellow'>56</color> ore to Foodmaid in <color='cyan'>Daelus</color>
+
+[c:lime]DELIVERY[/c]
+Take medium shipment of <color='yellow'>5</color> <color='yellow'>Advanced Explosive Armors</color> and deliver to <color='cyan'>Vindicati</color> and dock at Temple of the Void Station
+
+[c:lime]KILL[/c]
+Frag <color='yellow'><i>Father Ileast Arvelpad</i></color>, in <color='cyan'>Heliojen</color> and return to Crystalis Broadcasting in <color='cyan'>Jermicus</color>
 
 
 

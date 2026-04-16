@@ -12,3 +12,5 @@ NPC;+PRICE;778;0;22.57063;Medicore University;Cliffs of Drameria;11h 16m 9s ;405
 NPC;+LOCAL;241;2;20.08075;Kith;Kidd Overture;11h 16m 17s ;40577.67
 NPC;+STOCK;673;176;17.52326;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1511;217;14.94314;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+PRICE;42;0;23.0446;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;+QTY;1259;178;37.06981;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

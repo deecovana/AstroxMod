@@ -14,3 +14,4 @@ NPC;-LOCAL;0;0;3808.75;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-LOCAL;0;0;3808.75;Tella's;Bitcola;10h 5m 33s ;36333.38
 NPC;+PRICE;89;0;1197.686;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;1039;977;781.6989;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;0;0;3808.75;Proctors Center;Void Starcross;14h 51m 52s ;53512.24

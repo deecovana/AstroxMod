@@ -4,3 +4,5 @@ NPC;+STOCK;40;17;50428.32;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;87;22;64805.55;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;+STOCK;121;21;100313.2;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;104;-17;97917.09;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
+NPC;-QTY;88;-19;69773.4;Nostra;Zellis;15h 39m 30s ;56370.95
+NPC;-QTY;1;-14;106067;Genistar;Blades of Dandrow;15h 39m 30s ;56370.95

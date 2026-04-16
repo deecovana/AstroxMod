@@ -48,3 +48,9 @@ NPC;-LOCAL;0;0;2.75;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
 NPC;+STOCK;975;934;1.505737;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;0;0;2.75;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85
 NPC;+STOCK;1503;689;0.8812402;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;43;0;1.3365;Nostra;Zellis;13h 41m 15s ;49275.95
+NPC;-LOCAL;41;0;1.334849;Nostra;Zellis;13h 46m 29s ;49589.13
+NPC;-LOCAL;0;0;1.2375;PharmaLife;Carioullis;13h 50m 15s ;49815.91
+NPC;-LOCAL;47;47;1.2375;StarShepards Headquarters;Void Starcross;14h 17m 15s ;51435.13
+NPC;-LOCAL;0;0;2.75;StarGypsy Warehouse;Void Starcross;14h 20m 53s ;51653.97
+NPC;-LOCAL;66;66;1.2375;StarGypsy Warehouse;Void Starcross;15h 48m 49s ;56929.36

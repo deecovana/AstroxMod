@@ -16,3 +16,5 @@ NPC;-PRICE;89;0;9906.291;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+LOCAL;15;1;10855.6;Vita Assembly;Capital Void;10h 32m 49s ;37969.92
 NPC;+PRICE;178;0;15422.32;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
 NPC;+PRICE;38;0;13385.45;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
+NPC;+LOCAL;15;3;4875;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;-QTY;5;-10;11352.19;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

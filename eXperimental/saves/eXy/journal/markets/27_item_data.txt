@@ -17,3 +17,4 @@ NPC;-LOCAL;0;0;1268.347;Kith;Kidd Overture;11h 23m 51s ;41031.56
 NPC;-PRICE;237;0;865.4523;ValueStar;Hunu;11h 47m 29s ;42449.9
 NPC;+STOCK;4645;4392;829.4047;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;8324;4099;780.1324;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;497;0;969.4238;Foodmaid;Daelus;12h 58m 35s ;46715.01

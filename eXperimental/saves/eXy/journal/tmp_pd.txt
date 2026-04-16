@@ -1,15 +1,15 @@
 // PLAYER;Variable;Value
 <PLAYER>
 PLAYER;name;eXy
-PLAYER;level;10
-PLAYER;xp;52164.00
-PLAYER;next_level_xp;54100.00
-PLAYER;last_level_xp;44100.00
+PLAYER;level;11
+PLAYER;xp;55816.00
+PLAYER;next_level_xp;65100.00
+PLAYER;last_level_xp;54100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;54126857.69
+PLAYER;credits;4908127.45
 PLAYER;residual_credits;0.00
-PLAYER;skill_points;16
-PLAYER;playtime;45700.10
+PLAYER;skill_points;35
+PLAYER;playtime;56964.39
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -21,48 +21,56 @@ PLAYER;passive_scanner_settings;False,False,False,False,False,True,True,True,Tru
 PLAYER;autopilot_settings;True,False,True,True,False
 PLAYER;orbit_data;True,500,0,9,True
 PLAYER;tactical_settings;True,True,True,True,True,True,True,True,True
-PLAYER;cargo_settings;ALL,Name,Descend,4
+PLAYER;cargo_settings;ALL,Name,Descend,0
 PLAYER;targeting_settings;Distance,Ascend
-PLAYER;station_market_settings;Support#Usable,Level,Ascend,100
-PLAYER;station_university_settings;SEARCH,Name,Ascend,100
+PLAYER;station_market_settings;SEARCH,Price,Descend,100
+PLAYER;station_university_settings;ALL,Name,Ascend,100
 PLAYER;station_mission_settings;ALL,Name,Ascend,100
 PLAYER;quickbar_settings;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,
-PLAYER;sector;sector_42.txt
-PLAYER;sector_id;42
-PLAYER;station;sector_42_station_0.txt
-PLAYER;isdocked;True
+PLAYER;sector;sector_0.txt
+PLAYER;sector_id;0
+PLAYER;station;null
+PLAYER;isdocked;False
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;ship_data_(pirate_frigate_1)56209.txt;True;False;sector_63_station_0.txt;sector_63.txt;-13.21;520.84;-1402.63
-SHIP;ship_data_(transport_cruiser_1)87868.txt;False;False;sector_0_station_0.txt;sector_0.txt;0.0;0.0;0.0
-SHIP;ship_data_(support_utility_2)12149.txt;False;False;sector_63_station_0.txt;sector_0.txt;3692.32;154.65;2916.89
-SHIP;ship_data_(excavation_escort_1_startship).txt;False;False;sector_0_station_0.txt;sector_0.txt;-608.22;-49.05;-4378.36
+SHIP;ship_data_(pirate_carrier_1)55211.txt;True;False;sector_22_station_0.txt;sector_22.txt;-4829.99;-632.25;3412.10
+SHIP;ship_data_(pirate_frigate_1)56209.txt;False;False;sector_55_station_0.txt;sector_63.txt;3832.62;155.72;2892.43
+SHIP;ship_data_(transport_cruiser_1)87868.txt;False;False;sector_55_station_0.txt;sector_55.txt;0.0;0.0;0.0
+SHIP;ship_data_(support_utility_2)12149.txt;False;False;sector_55_station_0.txt;sector_55.txt;3692.32;154.65;2916.89
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
 
 // SKILL; skill id, skill lvl, train time remaining, total time
 <SKILLS>
-SKILL;215;3;0;90
-SKILL;214;3;0;0
-SKILL;58;5;0;0
-SKILL;54;3;0;0
-SKILL;52;2;0;140
-SKILL;51;2;0;120
-SKILL;53;4;0;0
-SKILL;41;2;0;240
-SKILL;11;4;0;480
-SKILL;100;1;0;85
-SKILL;71;2;0;180
-SKILL;111;2;0;90
-SKILL;55;2;0;90
-SKILL;60;1;0;120
-SKILL;216;3;0;180
-SKILL;240;2;0;130
 SKILL;217;1;0;90
-SKILL;218;2;0;180
+SKILL;241;1;0;65
+SKILL;240;3;0;165.75
+SKILL;215;3;0;90
+SKILL;210;1;0;60
+SKILL;216;3;0;180
+SKILL;11;4;0;480
 SKILL;31;4;0;480
+SKILL;100;1;0;85
+SKILL;41;2;0;240
+SKILL;55;2;0;90
+SKILL;71;2;0;180
+SKILL;53;4;0;0
+SKILL;58;5;0;0
+SKILL;65;3;0;306
+SKILL;64;3;0;280.5
+SKILL;59;2;0;120
+SKILL;51;2;0;120
+SKILL;54;3;0;0
+SKILL;61;3;0;459
+SKILL;60;3;0;360
+SKILL;52;3;0;210
+SKILL;214;3;0;0
+SKILL;111;2;0;90
+SKILL;234;2;0;120.25
+SKILL;233;2;0;90
+SKILL;218;4;0;306
 
 
 
@@ -74,6 +82,8 @@ MEDAL;9;True;medal_3.png;First 100 Adamyte Ore Mined;Awarded for the successful 
 MEDAL;11;True;medal_1b.png;Laser Operations Officer;Awarded for the successful operation of a Laser Active Weapon module for 2,000 cycles.
 MEDAL;61;True;medal_10b.png;Laser Damage Officer;Awarded for the successful mitigation of Laser Active Weapon damage for 20,000 points.
 MEDAL;35;True;medal_5a.png;Exploration Assistant;Awarded for the successful exploration of 25 uncharted Sectors.
+MEDAL;36;True;medal_5b.png;Exploration Officer;Awarded for the successful exploration of 50 uncharted Sectors.
+MEDAL;40;True;medal_6a.png;Academic Scholar;Awarded for training 50 levels of various skills.
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
@@ -90,7 +100,7 @@ STAT;6;Salvage Beams Fired;13;Excavation
 STAT;7;;0;
 STAT;8;;0;
 STAT;8;;0;
-STAT;10;Mining lasers Fired;733;Excavation
+STAT;10;Mining lasers Fired;842;Excavation
 STAT;11;Adamyte Ore Mined;4111;Excavation
 STAT;12;Gradeon Ore Mined;360;Excavation
 STAT;13;Quazor Ore Mined;80;Excavation
@@ -98,7 +108,7 @@ STAT;14;Lokken Ore Mined;140;Excavation
 STAT;15;Torim Ore Mined;2645;Excavation
 STAT;16;Plasite Ore Mined;121;Excavation
 STAT;17;Dynex Ore Mined;398;Excavation
-STAT;18;Belasite Ore Mined;270;Excavation
+STAT;18;Belasite Ore Mined;895;Excavation
 STAT;19;Xenox Ore Mined;78;Excavation
 STAT;20;Zai Ore Mined;134;Excavation
 STAT;21;Electron Orbs Mined;0;Excavation
@@ -106,7 +116,7 @@ STAT;22;Junk Collected;238;Excavation
 STAT;23;Scraps Collected;0;Excavation
 STAT;24;Salvage Collected;0;Excavation
 STAT;25;Derelicts Collected;0;Excavation
-STAT;26;Missions Complete;22;Missions
+STAT;26;Missions Complete;23;Missions
 STAT;27;Missions Expired;0;Missions
 STAT;28;Missions Aborted;2;Missions
 STAT;29;Transport Missions Complete;1;Missions
@@ -118,21 +128,21 @@ STAT;34;Escort Missions Complete;1;Missions
 STAT;35;Recover Missions Complete;2;Missions
 STAT;36;Kill Missions Complete;7;Missions
 STAT;37;Kill Recover Missions Complete;4;Missions
-STAT;38;Sectors Explored;45;Navigation
-STAT;39;Warp gate Jumps;262;Navigation
+STAT;38;Sectors Explored;54;Navigation
+STAT;39;Warp gate Jumps;294;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;0;Missions
 STAT;43;Salvage Missions Complete;2;Missions
-STAT;44;Refinery Missions Complete;1;Missions
+STAT;44;Refinery Missions Complete;2;Missions
 STAT;45;Fabricator Missions Complete;4;Missions
 STAT;46;;0;
 STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
-STAT;50;Skill Levels Trained;32;Skills
-STAT;51;Skill Points Earned;277;Skills
-STAT;52;Skill Points Spent;448;Skills
+STAT;50;Skill Levels Trained;55;Skills
+STAT;51;Skill Points Earned;320;Skills
+STAT;52;Skill Points Spent;950;Skills
 STAT;53;;0;
 STAT;54;;0;
 STAT;55;;0;
@@ -142,8 +152,8 @@ STAT;58;Structures Destroyed;0;Combat
 STAT;59;Npcs Destroyed;1;Combat
 STAT;60;Raiders Destroyed;12;Combat
 STAT;61;Projectile Damage Taken;6017;Combat
-STAT;62;Laser Damage Taken;37537;Combat
-STAT;63;Beam Damage Taken;19342;Combat
+STAT;62;Laser Damage Taken;37933;Combat
+STAT;63;Beam Damage Taken;19495;Combat
 STAT;64;Missile Damage Taken;8228;Combat
 STAT;65;Torpedo Damage Taken;5107;Combat
 
@@ -151,6 +161,8 @@ STAT;65;Torpedo Damage Taken;5107;Combat
 <KEY>
 KEY;2;2;4
 KEY;108;2;84
+KEY;42;2;45
+KEY;54;3;27
 
 // BOOKMARK; sector_id ; title ; notes ; x ; y ; z
 <BOOKMARKS>

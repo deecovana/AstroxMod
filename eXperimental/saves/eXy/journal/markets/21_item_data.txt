@@ -29,3 +29,6 @@ NPC;-LOCAL;545;0;40.1625;Kith;Kidd Overture;11h 23m 51s ;41031.56
 NPC;+STOCK;4952;4693;31.26838;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;7962;3518;36.8339;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;8042;4081;36.80148;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;666;0;40.1625;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;+QTY;4076;3257;35.22921;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-QTY;0;-450;35.39298;Nostra;Zellis;15h 39m 30s ;56370.95

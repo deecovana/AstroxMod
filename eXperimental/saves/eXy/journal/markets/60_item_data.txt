@@ -25,3 +25,6 @@ NPC;-PRICE;72;0;96.0088;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+PRICE;365;0;135.8459;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;-LOCAL;0;0;281.25;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
 NPC;+STOCK;4730;2278;141.6143;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;0;0;281.25;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56
+NPC;+QTY;2031;1982;96.69023;Blissheads;Estura Cove;15h 2m 18s ;54138.48
+NPC;-QTY;0;-134;136.8914;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

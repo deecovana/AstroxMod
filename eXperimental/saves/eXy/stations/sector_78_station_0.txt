@@ -209,6 +209,7 @@ MISSION;121;45;701544;CHAT_PILOT#sector_15_station_0.txt#sector_62.txt#Accountan
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;0.9672453;ship_data_(StinVec_SOLV_B_EDN1_Filament).txt
 SHIP;1;0.91;ship_data_(excavation_utility_3).txt
 SHIP;2;1.05;ship_data_(battle_frigate_1).txt
 SHIP;3;1.02;ship_data_(battle_cruiser_1).txt

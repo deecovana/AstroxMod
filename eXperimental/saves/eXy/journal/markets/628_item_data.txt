@@ -5,3 +5,4 @@ NPC;+PRICE;47;0;342774.4;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;42;0;431932.9;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;45;3;411838;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;50;3;328999.4;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;-QTY;15;1;636720.9;Foodmaid;Daelus;13h 22m 17s ;48137.16

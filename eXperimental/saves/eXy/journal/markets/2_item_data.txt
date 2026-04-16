@@ -29,3 +29,7 @@ NPC;-PRICE;371;0;6.556384;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-PRICE;371;0;6.005569;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-LOCAL;244;0;12.99375;Vita Assembly;Capital Void;10h 32m 49s ;37969.92
 NPC;+STOCK;4464;3823;7.495536;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;282;0;12.99375;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;-LOCAL;63;63;12.99375;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;0;0;22.06423;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;-QTY;0;-150;9.14067;Nostra;Zellis;15h 39m 30s ;56370.95

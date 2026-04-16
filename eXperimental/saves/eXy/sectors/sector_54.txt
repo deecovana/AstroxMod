@@ -1,10 +1,10 @@
 // SECTOR;Variable;Value
 SECTOR;id;54
 SECTOR;name;Pindell
-SECTOR;level;0.9
+SECTOR;level;1.0
 SECTOR;faction;Law
 SECTOR;filename;sector_54.txt
-SECTOR;is_explored;False
+SECTOR;is_explored;True
 SECTOR;energy;20
 SECTOR;population;20
 SECTOR;habitation;40
@@ -63,22 +63,22 @@ STARLIGHT;color_5;0.00;0.08;0.70;1.00
 
 // STATION;Sector filename;X position;Y position;Z position
 
-// STRUCTURE;Structure filename;X position;Y position;Z position
-STRUCTURE;structure_habitat_1.txt;637;99;-3583
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;637.00;99.00;-3583.00
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;7;20;100;200;2000;3360;0;-4420
 CLUSTER;7;20;100;200;3000;-3983;0;-2673
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;7;-3668;32;-2134;500;500
-RESOURCE;7;4680;-745;-3065;400;400
-RESOURCE;7;3297;-149;-4249;250;250
+RESOURCE;7;-3669.2;34.0;-2136.7;500;339
+RESOURCE;7;4680.0;-745.0;-3065.0;400;400
+RESOURCE;7;3297.0;-149.0;-4249.0;250;250
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
-WARPGATE;1;sector_51.txt;2;-3420;203;3208;0;Law;0
+WARPGATE;1;sector_51.txt;2;-3420;203;3208;0;Law;0;prescan
 WARPGATE;2;sector_55.txt;3;-322;-84;-4362;0;Law;-322.3481
-WARPGATE;3;sector_27.txt;4;4214;-84;2784;-1;Law;3251.424;warpgate_54_3.txt;10
+WARPGATE;3;sector_27.txt;4;4214;-84;2784;-1;Law;3251.424;warpgate_54_3.txt;10;prescan
 
 // PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;param 8;param 9;param 10;param 11;param 12
 PROP;17;0;0;0;0;0;0;0.15,0.22,0.10,0.2;//fog;;;

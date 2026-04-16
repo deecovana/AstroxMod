@@ -7,3 +7,4 @@ NPC;+PRICE;30;0;439431.3;Medicore University;Cliffs of Drameria;11h 16m 9s ;4056
 NPC;+PRICE;32;0;671523.3;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;43;4;692175.8;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;17;4;558031.4;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;-QTY;22;1;421209.4;Foodmaid;Daelus;13h 23m 22s ;48202.25

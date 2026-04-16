@@ -9,3 +9,4 @@ NPC;-QTY;20;-3;454048.2;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
 NPC;+PRICE;14;0;477651.1;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;17;3;325842.7;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;24;3;316371.3;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+QTY;16;2;477402.6;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

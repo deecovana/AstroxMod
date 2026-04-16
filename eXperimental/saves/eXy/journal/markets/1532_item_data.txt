@@ -5,3 +5,4 @@ NPC;BAL;10;0;219687.5;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;76;76;112500;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 PLAYER;-QTY;0;1;63905.63;SimKitten;Kolkax Prime;11h 31m 44s ;41504.04
 PLAYER;+QTY;0;1;0;Biomate University;Void Starcross;12h 22m 27s ;44547.4
+NPC;-LOCAL;47;47;112500;Proctors Center;Void Starcross;14h 51m 52s ;53512.24

@@ -27,3 +27,5 @@ NPC;+PRICE;272;0;408.7724;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+LOCAL;336;133;506.8023;Stinkfinger;Jonisae;11h 52m 10s ;42730.73
 NPC;-LOCAL;0;0;1423.825;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
 NPC;+STOCK;4568;2071;385.4986;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;BAL;25;0;515.6378;Communications Hub;Ele;14h 24m 58s ;51898.89
+NPC;-LOCAL;34;34;640.7213;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56

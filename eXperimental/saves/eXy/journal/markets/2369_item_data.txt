@@ -1,3 +1,4 @@
 NPC;+STOCK;49;2;928.8433;Starbase Corporate Center;Void Starcross;1h 25m 20s ;5120.805
 NPC;-QTY;46;-1;979.038;Starbase Corporate Center;Void Starcross;2h 51m 54s ;10314.01
 NPC;+STOCK;48;2;950.0139;Starbase Corporate Center;Void Starcross;5h 37m 58s ;20278.19
+NPC;+QTY;12;1;1258.208;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

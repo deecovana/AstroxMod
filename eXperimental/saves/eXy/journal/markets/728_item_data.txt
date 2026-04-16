@@ -22,3 +22,5 @@ NPC;+LOCAL;15;13;4875;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.
 NPC;+PRICE;15;0;12313.58;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+STOCK;121;10;11215.3;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;159;13;17410.18;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;15;81;4875;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;15;4;4875;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03

@@ -10,3 +10,5 @@ NPC;-LOCAL;9;0;112500;SimKitten;Kolkax Prime;11h 7m 32s ;40052.41
 NPC;-LOCAL;0;0;133907.6;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
 NPC;+STOCK;67;10;136410.1;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;18;18;112500;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85
+NPC;-LOCAL;0;0;250000;StarGypsy Warehouse;Void Starcross;14h 20m 53s ;51653.97
+NPC;-LOCAL;58;58;112500;StarGypsy Warehouse;Void Starcross;15h 48m 49s ;56929.36

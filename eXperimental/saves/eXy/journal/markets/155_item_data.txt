@@ -5,3 +5,5 @@ NPC;-QTY;16;-116;22.02125;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+PRICE;4;0;14.27872;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 NPC;+STOCK;257;104;8.922714;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;+STOCK;827;148;13.60697;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-QTY;0;-87;11.15419;Genistar;Blades of Dandrow;15h 39m 30s ;56370.95
+NPC;-QTY;82;-97;16.60032;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

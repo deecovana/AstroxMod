@@ -30,3 +30,4 @@ NPC;+STOCK;2027;1834;478.4517;StarShepards Headquarters;Void Starcross;12h 8m 53
 NPC;+STOCK;4475;2257;367.3747;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;58;58;474.615;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
 NPC;+STOCK;2167;2082;413.5399;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;24;24;474.615;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56

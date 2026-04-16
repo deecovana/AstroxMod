@@ -8,3 +8,4 @@ NPC;+PRICE;114;0;310.8108;StarShepards Headquarters;Void Starcross;6h 48m 22s ;2
 NPC;-PRICE;281;0;202.4812;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;+QTY;857;145;227.3554;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
 NPC;+STOCK;228;114;306.5819;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-QTY;172;-144;171.3703;Nostra;Zellis;15h 39m 30s ;56370.95

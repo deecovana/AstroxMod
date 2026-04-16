@@ -64,28 +64,28 @@ STARLIGHT;color_5;0.31;0.20;0.00;0.44
 STATION;sector_42_station_0.txt;186.2222;905.457;-732.3652;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_energy_gen_1.txt;98.00;-27.38;-49.57
-STRUCTURE;structure_habitat_1.txt;-715.55;51.63;-624.35
-STRUCTURE;structure_energy_gen_1.txt;-354.43;-10.61;-928.29
-STRUCTURE;structure_recon_1.txt;-759.20;133.00;-1103.60
-STRUCTURE;structure_medical_1.txt;905.60;112.00;24.10
-STRUCTURE;structure_gun_platform_1.txt;1776.40;310.40;667.30
-STRUCTURE;structure_energy_gen_1.txt;1360.70;456.50;726.60
-STRUCTURE;structure_office_1.txt;1606.20;229.00;160.40
-STRUCTURE;structure_storage_1.txt;1578.10;48.50;495.00
-STRUCTURE;structure_farm_1.txt;-646.00;135.80;400.60
-STRUCTURE;structure_recon_1.txt;1271.40;272.00;770.60
 STRUCTURE;structure_medical_1.txt;1098.60;244.70;1176.80
+STRUCTURE;structure_recon_1.txt;1271.40;272.00;770.60
+STRUCTURE;structure_farm_1.txt;-646.00;135.80;400.60
+STRUCTURE;structure_storage_1.txt;1578.10;48.50;495.00
+STRUCTURE;structure_office_1.txt;1606.20;229.00;160.40
+STRUCTURE;structure_energy_gen_1.txt;1360.70;456.50;726.60
+STRUCTURE;structure_gun_platform_1.txt;1776.40;310.40;667.30
+STRUCTURE;structure_medical_1.txt;905.60;112.00;24.10
+STRUCTURE;structure_recon_1.txt;-759.20;133.00;-1103.60
+STRUCTURE;structure_energy_gen_1.txt;-354.43;-10.61;-928.29
+STRUCTURE;structure_habitat_1.txt;-715.55;51.63;-624.35
+STRUCTURE;structure_energy_gen_1.txt;98.00;-27.38;-49.57
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
 CLUSTER;5;50;50;200;3000;0;0;0;
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;5;976.5;-1983.9;-359.3;2000;2000
+RESOURCE;5;996.1;-1943.8;-359.6;2000;2000
 RESOURCE;5;-804.7;3642.7;-1019.0;2000;1217
 RESOURCE;5;1211.4;2728.6;-899.6;2000;342
-RESOURCE;5;1134.0;-2342.0;-1685.4;2000;2000
-RESOURCE;5;-689.8;-2168.7;123.3;2000;2000
+RESOURCE;5;1165.7;-2440.5;-1785.6;2000;2000
+RESOURCE;5;-629.3;-2310.8;18.5;2000;1804
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
 WARPGATE;1;sector_37.txt;1;-2244.4;202.5;2665.8;0;law;0.0;prescan

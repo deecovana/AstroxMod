@@ -16,3 +16,5 @@ NPC;BAL;20;-3;7377.551;Holosynth Industries;Rats Of Mortalis;6h 48m 22s ;24502.0
 NPC;-PRICE;6;0;4863.253;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;16;4;8366.155;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;8;4;4760.032;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;+QTY;42;1;5838.438;Foodmaid;Daelus;13h 27m 1s ;48421.64
+NPC;-QTY;24;-4;8199.8;Nostra;Zellis;15h 39m 30s ;56370.95

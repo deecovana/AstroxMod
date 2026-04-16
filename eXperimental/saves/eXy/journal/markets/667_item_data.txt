@@ -6,3 +6,4 @@ NPC;+PRICE;8;0;277457.5;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+PRICE;28;0;238763.9;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;31;3;229708.8;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;11;3;272927.4;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-QTY;5;-4;250310.4;Nostra;Zellis;15h 39m 30s ;56370.95

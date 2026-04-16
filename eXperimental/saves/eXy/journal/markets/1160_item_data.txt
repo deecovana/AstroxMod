@@ -21,3 +21,9 @@ NPC;+STOCK;23;11;1838.952;Biomart;Veloxi;8h 51m 34s ;31894.31
 NPC;-LOCAL;0;0;5500;CoraVault;Lins;8h 53m 52s ;32032.93
 NPC;+STOCK;34;9;1187.975;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;58;8;2306.821;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+PRICE;18;0;2055.152;Parisan;Goru Populan;13h 46m 17s ;49577.09
+NPC;+QTY;8;7;1538.831;Blissheads;Estura Cove;15h 2m 18s ;54138.48
+NPC;-LOCAL;0;0;5500;OmniTrust;Ponze;15h 2m 26s ;54146.52
+NPC;-LOCAL;0;0;5500;OmniTrust;Ponze;15h 3m 30s ;54210.23
+NPC;-LOCAL;0;0;5500;CoraVault;Lins;15h 28m 16s ;55696.6
+NPC;-QTY;0;-3;2154.831;Genistar;Blades of Dandrow;15h 39m 30s ;56370.95

@@ -23,3 +23,6 @@ NPC;+PRICE;45;0;164.88;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+PRICE;19;0;260.7623;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
 NPC;+STOCK;851;845;267.5707;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1774;846;276.5444;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+PRICE;19;0;313.209;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;BAL;986;0;197.0829;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52
+NPC;+QTY;576;536;244.1167;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

@@ -7,3 +7,4 @@ NPC;+STOCK;51;10;6811.45;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.
 NPC;+STOCK;29;11;5080.538;Biomart;Veloxi;8h 51m 34s ;31894.31
 NPC;-PRICE;0;0;12315.68;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-PRICE;0;0;12008.35;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-QTY;16;-10;4903.456;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

@@ -15,3 +15,6 @@ NPC;-LOCAL;22;22;34274.38;Starbase Corporate Center;Void Starcross;6h 18m 18s ;2
 NPC;-LOCAL;16;0;34200.98;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;-LOCAL;42;42;33075;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 NPC;-PRICE;67;0;30035.84;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-LOCAL;71;71;33075;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;7;7;33075;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;+QTY;42;11;30482.29;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

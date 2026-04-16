@@ -17,7 +17,7 @@ STATION;seed;2-2-0-1-4-0-4-1-3-0-0-4-1-3-6-1-5-1-1-3-1-3-0
 STATION;interior_seed;3-3-15-3
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
-STATION;last_dock_time;43856.05
+STATION;last_dock_time;51557.64
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -48,11 +48,11 @@ ITEM;1;912;1.03;7.96
 ITEM;41;173;0.98;55.03
 ITEM;51;112;0.70;68.08
 ITEM;1752;56;0.78;141890.00
-ITEM;1771;17;1.05;835157.90
-ITEM;1766;11;1.05;885772.80
-ITEM;1776;58;1.05;784541.60
+ITEM;1771;29;1.05;835157.90
+ITEM;1766;72;1.10;922279.40
+ITEM;1776;78;1.05;784541.60
 ITEM;2320;9;1.12;7987345.00
-ITEM;1761;21;1.05;936389.10
+ITEM;1761;0;2.50;2110101.00
 ITEM;1572;76;0.94;108868.50
 ITEM;1582;33;1.10;135163.00
 ITEM;1512;35;0.68;69239.50
@@ -72,7 +72,7 @@ ITEM;1069;62;0.93;106688.00
 ITEM;1786;12;0.25;892031.30
 ITEM;401;9;1.19;6224.70
 ITEM;667;28;0.56;234622.00
-ITEM;310;0;2.50;445.18
+ITEM;310;66;1.05;197.55
 ITEM;2025;349;1.24;1729.48
 ITEM;2001;339;0.79;249.71
 ITEM;111;482;1.18;29.74
@@ -87,12 +87,12 @@ ITEM;1620;52;0.90;30204.38
 ITEM;1722;60;0.60;17670.31
 ITEM;70;76;0.88;123.35
 ITEM;2305;39;0.65;363270.00
-ITEM;1770;43;1.07;485377.10
-ITEM;1765;10;1.05;506156.10
-ITEM;1775;31;1.09;464859.50
-ITEM;1760;26;1.05;535079.30
+ITEM;1770;15;1.05;477493.90
+ITEM;1765;79;1.05;506156.10
+ITEM;1775;56;1.06;453901.00
+ITEM;1760;5;1.05;535079.30
 ITEM;620;42;0.58;4807.69
-ITEM;312;21;1.05;102.12
+ITEM;312;20;1.05;102.12
 ITEM;2143;16;1.06;44922.28
 ITEM;1711;41;0.98;27170.31
 ITEM;2297;8;0.68;236043.80
@@ -108,7 +108,7 @@ ITEM;1560;56;0.87;26373.94
 ITEM;736;120;1.08;296703.10
 ITEM;1610;24;0.84;16095.81
 ITEM;1590;79;0.88;19736.25
-ITEM;1785;12;0.27;188406.30
+ITEM;1785;12;0.25;178406.30
 ITEM;208;11;0.82;147.51
 ITEM;8;25;1.26;318.56
 ITEM;115;1004;1.28;38.46
@@ -116,13 +116,13 @@ ITEM;664;6;1.03;74634.02
 ITEM;665;9;0.96;122568.20
 ITEM;668;39;1.06;718461.30
 ITEM;727;31;1.09;17952.19
-ITEM;311;16;1.05;184.67
+ITEM;311;71;1.08;189.35
 ITEM;729;25;1.20;19602.19
 ITEM;116;225;1.24;77.46
 ITEM;109;283;0.66;3.44
 ITEM;353;9;0.72;3612.96
 ITEM;406;3;1.22;1.46
-ITEM;403;27;1.08;1.63
+ITEM;403;0;2.50;3.58
 ITEM;101;674;1.14;2.24
 ITEM;168;595;1.09;31.05
 ITEM;623;27;1.21;49401.54
@@ -131,7 +131,7 @@ ITEM;110;574;0.81;14.71
 ITEM;605;33;0.59;80058.18
 ITEM;603;31;0.92;38521.90
 ITEM;325;6;0.60;228.27
-ITEM;404;54;1.05;1.59
+ITEM;404;10;1.07;1.61
 ITEM;300;82;0.85;95.25
 ITEM;1779;87;1.17;702317.10
 ITEM;301;8;0.76;21.93
@@ -177,11 +177,11 @@ ITEM;1054;11;1.10;2896.35
 ITEM;2130;69;1.24;16161.75
 ITEM;2006;672;1.09;536.69
 ITEM;123;1095;1.19;128.86
-ITEM;313;42;1.05;425.17
+ITEM;313;0;2.50;958.10
 ITEM;2;748;1.10;13.94
 ITEM;2041;387;1.07;2985.88
 ITEM;604;44;1.07;77260.10
-ITEM;405;0;2.50;3.58
+ITEM;405;47;1.05;1.59
 ITEM;2042;307;0.98;3033.28
 ITEM;648;20;0.95;650729.10
 ITEM;602;9;1.05;24799.75
@@ -285,16 +285,16 @@ ITEM;1543;78;0.52;115333.50
 ITEM;1072;49;1.22;438031.30
 ITEM;2128;357;0.75;1414330.00
 ITEM;2116;352;0.56;1200763.00
+ITEM;2122;440;0.76;1300761.00
 ITEM;2122;-99;0.72;1240736.00
-ITEM;2122;440;0.76;1293257.00
 ITEM;1563;69;0.99;236911.50
 ITEM;600;42;0.55;4597.69
 ITEM;1524;26;0.71;261380.00
 ITEM;1754;82;0.92;657160.00
-ITEM;1772;62;1.05;1461526.00
-ITEM;1767;68;1.05;1550103.00
-ITEM;1777;51;1.05;1372949.00
-ITEM;1762;26;1.06;1646001.00
+ITEM;1772;51;1.05;1461526.00
+ITEM;1767;80;1.05;1550103.00
+ITEM;1777;13;1.09;1423739.00
+ITEM;1762;67;1.05;1638680.00
 ITEM;2247;78;1.02;5625048.00
 ITEM;1514;51;0.72;291038.00
 ITEM;1005;57;0.96;1232682.00
@@ -366,15 +366,17 @@ SKILL;225;1.15
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;126;45;727099;CHAT_PILOT#sector_1_station_0.txt#sector_39.txt#Doctor Jancosev Janvak#npc_ship_data_(recon_utility_2)#3#missions_transfer_pilot.txt#0#null;Transfer payment to <color='yellow'><i>Doctor Jancosev Janvak</i></color> in <color='cyan'>Chaferea</color> and return with signature to Quantex in <color='cyan'>Dellis Primeria</color>;11;<i>Whowe Vellockifie</i> has a bonus payment for <color='yellow'><i>Doctor Jancosev Janvak</i></color>. The Orthodox faction has recognized <color='yellow'><i>Doctor Jancosev Janvak</i></color> and has award a bonus payment. <color='yellow'><i>Doctor Jancosev Janvak</i></color> was last working in the <color='cyan'>Chaferea</color> system. Find them, deliver this envelope, and return to the Quantex in the <color='cyan'>Dellis Primeria</color> system with a signature.;166593;57446
-MISSION;61;45;656655;HARVEST#69#5#sector_59.txt#sector_0_station_3.txt#null#null#null#null;Mine special <color='yellow'>Special Torim Ore</color> in <color='cyan'>Coralor</color> and return with <color='yellow'>69</color> to StarShepards Headquarters in <color='cyan'>Void Starcross</color>;11;While collecting some junk in the <color='cyan'>Coralor</color> system, <i>Gotlas Janmadyit</i> discovered a light haul of <color='yellow'>69</color> <color='yellow'>Special Torim Ore</color>. Unable to collect the material alone, <i>Gotlas Janmadyit</i> has requested that a capable pilot harvest the <color='yellow'>Special Torim Ore</color> and drop it off at the StarShepards Headquarters station located in the <color='cyan'>Void Starcross</color>.;13933;3938
-MISSION;90;90;113631;KILL_PILOT#sector_13_station_0.txt#sector_58.txt#Engineer Mefo Arsjalisqe#npc_ship_data_(transport_escort_3)#3#null#null#null;Hunt down a low level <color='yellow'><i>Engineer Mefo Arsjalisqe</i></color> in <color='cyan'>Lins</color> and return to Gemini Mining in <color='cyan'>Jala</color>;10;<i>Erofie Vakgillaal</i> has put out a kill contract for <color='yellow'><i>Engineer Mefo Arsjalisqe</i></color>. Wanted for capital crimes against the Missionary faction for raiding multiple transports. Last known sighting of <color='yellow'><i>Engineer Mefo Arsjalisqe</i></color> was in the vicinity of the <color='cyan'>Lins</color> system. After <color='yellow'><i>Engineer Mefo Arsjalisqe</i></color> is dispatched, return to the Gemini Mining in the <color='cyan'>Jala</color> system to collect the bounty payment.;7950;2250
-MISSION;63;45;385074;HARVEST#171#8#sector_8.txt#sector_0_station_5.txt#null#null#null#null;Extract special <color='yellow'>Special Belasite Ore</color> in <color='cyan'>The Moon of Crystalis</color> and return to Proctors Center in <color='cyan'>Void Starcross</color> with minimum of <color='yellow'>171</color>;11;The Orthodox faction has reported that a special medium load of <color='yellow'>Special Belasite Ore</color> has been scanned in the <color='cyan'>The Moon of Crystalis</color> system. <i>Lesna Xullel</i> is credited with the find, but His claim is currently invalid. Hurry up and harvest the <color='yellow'>Special Belasite Ore</color> and return to Proctors Center, in the <color='cyan'>Void Starcross</color>.;50021;18089
-MISSION;14;30;144234;DELIVERY#22#350#sector_95_station_1.txt#sector_106_station_0.txt#null#null#null#null;Move medium crate of <color='yellow'>22</color> <color='yellow'>Mechanical Tools</color> to <color='cyan'>Temple Gates</color> and deliver to Acrondia Hub;10;Missionary Manufacturing facilities have requested a medium shipment of <color='yellow'>22</color> <color='yellow'>Mechanical Tools</color>. <i>Wogilla Belvesou</i> will meet you at the Acrondia Hub Station in <color='cyan'>Temple Gates</color> to sign for the delivery.;79722;32827
 MISSION;121;45;896115;CHAT_PILOT#sector_2_station_0.txt#sector_14.txt#Captain Renojanco Beckport#npc_ship_data_(ATC_Anubis_MK2)#1#missions_debt_collection.txt#0#null;Chat with <color='yellow'><i>Captain Renojanco Beckport</i></color> about his debt in <color='cyan'>Gate of Alpharis</color> and return to Oro Omniplex Center in <color='cyan'>Merces Academy</color>;9;<i>Woweli Vajdoejag</i> has requested that debt be collected from <color='yellow'><i>Captain Renojanco Beckport</i></color>. After 3 payments to the Temple faction for transport fines, <color='yellow'><i>Captain Renojanco Beckport</i></color> has refused to make any further payments. Last known sighting of <color='yellow'><i>Captain Renojanco Beckport</i></color> was in the vicinity of the <color='cyan'>Gate of Alpharis</color> system. Have a chat with them, collect the debt, and return to the Oro Omniplex Center in the <color='cyan'>Merces Academy</color> system to deliver the payment.;12810;1750
 MISSION;90;90;298138;KILL_PILOT#sector_82_station_0.txt#sector_1.txt#Laborer Serfoe Velpeidemi#npc_ship_data_(ATC_Raven)#3#null#null#null;Hunt down a low level <color='yellow'><i>Laborer Serfoe Velpeidemi</i></color> in <color='cyan'>Dellis Primeria</color> and return to Kith in <color='cyan'>Kidd Overture</color>;9;<i>Poebac Farpast</i> has put out a kill contract for <color='yellow'><i>Laborer Serfoe Velpeidemi</i></color>. Wanted for capital crimes against the Temple faction for raiding multiple transports. Last known sighting of <color='yellow'><i>Laborer Serfoe Velpeidemi</i></color> was in the vicinity of the <color='cyan'>Dellis Primeria</color> system. After <color='yellow'><i>Laborer Serfoe Velpeidemi</i></color> is dispatched, return to the Kith in the <color='cyan'>Kidd Overture</color> system to collect the bounty payment.;9750;2250
 MISSION;40;45;860053;SCAN_PILOT#sector_57_station_0.txt#sector_101.txt#Enforcer Jidlow Whewho#npc_ship_data_(battle_utility_3)#2#null#null#null;Locate and scan <color='yellow'><i>Enforcer Jidlow Whewho</i></color> in <color='cyan'>Brimstone</color> and return to OmniTrust in <color='cyan'>Ponze</color>;10;<i>Besed Whemozae</i> has requested a location verification on a recent employee. <color='yellow'><i>Enforcer Jidlow Whewho</i></color> is supposed to be running a survey in <color='cyan'>Brimstone</color>. Please verify the location of this pilot by scanning their ship and return to OmniTrust in <color='cyan'>Ponze</color>.;7500;2500
 MISSION;64;45;116873;HARVEST#225#5#sector_79.txt#sector_99_station_0.txt#null#null#null#null;In <color='cyan'>Dragon Sea</color>, Extract special <color='yellow'>Special Torim Ore</color> and return to Ferce Hub in <color='cyan'>Semja</color> with at least <color='yellow'>225</color>;11;A local company in <color='cyan'>Dragon Sea</color> has requested a medium harvest of <color='yellow'>225</color> <color='yellow'>Special Torim Ore</color>. This is a rare find, and the client has requested someone bring the resource back to Ferce Hub station located in the <color='cyan'>Semja</color>. A Orthodox faction representative will be waiting to take the resources from you.;68585;15827
+MISSION;50;30;841646;SCAN_STRUCTURE#sector_85_station_0.txt#sector_82.txt#Defensive Gun Platform#structure_gun_platform_1.txt#1#null#null#null;Locate and scan the <color='yellow'>Defensive Gun Platform</color> structure in <color='cyan'>Kidd Overture</color> and return to Scrapdogs in <color='cyan'>Gemini Els</color>;9;A recent construction permit was delivered by the Temple faction. They are demanding a survey of a new structure that has been constructed by <i>Xenves Sevlel</i>. Scan the <color='yellow'>Defensive Gun Platform</color> structure and return back to the Scrapdogs located in the <color='cyan'>Gemini Els</color> with the survey data. Once the data is verified, payment will be rendered.;8000;3000
+MISSION;104;120;241420;KILL_RECOVER#sector_16_station_0.txt#sector_109.txt#Miner Jancokee Momole#npc_ship_data_(VVS_Wyvern)#15#1#1760#null;Frag <color='yellow'><i>Miner Jancokee Momole</i></color> in <color='cyan'>Capital Void</color> and take back <color='yellow'>1</color> <color='yellow'>Basic ECM Resistance Field</color>. Return to Rendo Labs in <color='cyan'>Entropy</color>;9;Mr. <i>Demiwa Nostrafoe</i> has finally been arrested in the <color='cyan'>Capital Void</color> system by Temple authorities. His accomplice, Mr. <color='yellow'><i>Miner Jancokee Momole</i></color> is still at large. Destroy his ship and return the <color='yellow'>1</color> <color='yellow'>Basic ECM Resistance Field</color> to the Rendo Labs station in the <color='cyan'>Entropy</color> sector.;200239;82065
+MISSION;71;45;244302;ESCORT#sector_27_station_0.txt#sector_0_station_4.txt#Govenor Sorest Zoak#npc_ship_data_(battle_carrier_1)#1#null#null#null;<color='yellow'><i>Govenor Sorest Zoak</i></color> requests an escort from Nostra in <color='cyan'>Zellis</color> to Starbase Corporate Center in <color='cyan'>Void Starcross</color>;9;The Astrox Security Patrol has posted a contract for the safe delivery of a <color='yellow'><i>Govenor Sorest Zoak</i></color>, wanted for questioning in a non-violent incident a few cycles ago in the <color='cyan'>Zellis</color> system. Escort <color='yellow'><i>Govenor Sorest Zoak</i></color> from Nostra to Starbase Corporate Center in the <color='cyan'>Void Starcross</color> system.;14875;6125
+MISSION;13;30;795303;DELIVERY#33#2053#sector_16_station_0.txt#sector_3_station_0.txt#null#null#null#null;Take medium shipment of <color='yellow'>33</color> <color='yellow'>Afterburner Assemblys</color> and deliver to <color='cyan'>Entropy</color> and dock at Rendo Labs Station;9;Daemon Ammunitions Station has contacted our client informing them of some medium cargo that remains unclaimed by a former employee, <i>Gotbac Pastfero</i> of the Temple Faction. <color='yellow'>33</color> <color='yellow'>Afterburner Assemblys</color> need to be delivered to <color='cyan'>Entropy</color>, Rendo Labs Station.;37517;10719
+MISSION;60;45;876878;HARVEST#56#9#sector_28.txt#sector_55_station_0.txt#null#null#null#null;Harvest special <color='yellow'>Special Xenox Ore</color> in <color='cyan'>Empathy Forge</color> and return with <color='yellow'>56</color> ore to Foodmaid in <color='cyan'>Daelus</color>;9;A local prospector, <i>Mossed Lawa</i> of the Temple faction has located a light quantity of special <color='yellow'>Special Xenox Ore</color> in the <color='cyan'>Empathy Forge</color> sector. Head over there and harvest all of the special <color='yellow'>Special Xenox Ore</color>, and meet <i>Mossed Lawa</i> back at Foodmaid station located in the <color='cyan'>Daelus</color>.;12353;4500
+MISSION;13;30;559444;DELIVERY#5#1652#sector_103_station_0.txt#sector_109_station_0.txt#null#null#null#null;Take medium shipment of <color='yellow'>5</color> <color='yellow'>Advanced Explosive Armors</color> and deliver to <color='cyan'>Vindicati</color> and dock at Temple of the Void Station;11;Vita Assembly Station has contacted our client informing them of some medium cargo that remains unclaimed by a former employee, <i>Melea Maahqe</i> of the Orthodox Faction. <color='yellow'>5</color> <color='yellow'>Advanced Explosive Armors</color> need to be delivered to <color='cyan'>Vindicati</color>, Temple of the Void Station.;45556;18758
+MISSION;93;90;213306;KILL_PILOT#sector_15_station_0.txt#sector_53.txt#Father Ileast Arvelpad#npc_Ship_data_(Heavy_battlecuiser_5)#10#null#null#null;Frag <color='yellow'><i>Father Ileast Arvelpad</i></color>, in <color='cyan'>Heliojen</color> and return to Crystalis Broadcasting in <color='cyan'>Jermicus</color>;11;An intermediate level pilot has been sentenced by ASP for extermination. <color='yellow'><i>Father Ileast Arvelpad</i></color>, found guilty of raiding, and murder, has been hanging out in the <color='cyan'>Heliojen</color> system. When complete, return to the Crystalis Broadcasting station in the <color='cyan'>Jermicus</color> system. The Orthodox's will be very happy to hear of <color='yellow'><i>Father Ileast Arvelpad</i></color>'s demise.;78461;24117
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>

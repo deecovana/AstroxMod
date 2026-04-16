@@ -4,3 +4,6 @@ NPC;+QTY;17;9;2287.125;Transporteers Hub;Ambervellis Drea;2h 29m 43s ;8983.031
 PLAYER;+QTY;0;1;0;CoraVault;Lins;2h 30m 34s ;9034.097
 NPC;+STOCK;66;8;2442.397;Medicore University;Cliffs of Drameria;4h 11m 54s ;15114.28
 NPC;+QTY;53;6;4776.825;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
+NPC;BAL;4;0;4102.41;Communications Hub;Ele;14h 24m 58s ;51898.89
+NPC;+QTY;95;10;4267.25;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-QTY;0;-5;5077.875;Genistar;Blades of Dandrow;15h 39m 30s ;56370.95

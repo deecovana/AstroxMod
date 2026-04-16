@@ -9,3 +9,5 @@ NPC;-QTY;0;-3;6227.343;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+PRICE;86;0;11532.71;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
 NPC;+PRICE;27;0;11181.2;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;187;19;6297.238;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+QTY;47;20;11168.13;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;+QTY;34;21;6794.687;Blissheads;Estura Cove;15h 2m 18s ;54138.48

@@ -18,3 +18,6 @@ NPC;+QTY;99;11;166051.6;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
 NPC;+PRICE;59;0;266624.3;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
 NPC;+STOCK;111;10;255380.1;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;57;10;163786.6;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+LOCAL;15;72;81250;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;+LOCAL;15;5;81250;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;-QTY;107;-10;305350;Nostra;Zellis;15h 39m 30s ;56370.95

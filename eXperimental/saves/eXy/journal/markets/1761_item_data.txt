@@ -23,3 +23,4 @@ NPC;+PRICE;66;0;484086.3;Medicore University;Cliffs of Drameria;11h 16m 9s ;4056
 NPC;+PRICE;0;0;1053902;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;55;11;948154;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;-LOCAL;21;21;728510.6;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
+NPC;-LOCAL;0;0;1618913;StarShepards Headquarters;Void Starcross;14h 17m 15s ;51435.13

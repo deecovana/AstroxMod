@@ -5,3 +5,5 @@ NPC;BAL;9;0;175814.2;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;19;0;103937.9;Valuestar Hub;Jelumus;6h 8m 59s ;22139.34
 NPC;-QTY;12;-8;113411.6;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;-LOCAL;73;73;103500;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
+NPC;-LOCAL;42;42;103500;Proctors Center;Void Starcross;14h 51m 52s ;53512.24
+NPC;-QTY;8;-7;49808.8;Nostra;Zellis;15h 39m 30s ;56370.95

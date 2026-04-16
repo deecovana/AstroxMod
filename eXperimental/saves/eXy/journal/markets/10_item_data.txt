@@ -15,3 +15,7 @@ NPC;BAL;3878;0;705.9598;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-LOCAL;3357;0;800.6819;Starbase Corporate Center;Void Starcross;6h 18m 18s ;22698.93
 NPC;-LOCAL;3355;0;801.6009;Starbase Corporate Center;Void Starcross;6h 20m 10s ;22810.4
 NPC;-LOCAL;3062;0;713.8463;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
+PLAYER;+QTY;134;134;1065.99;Foodmaid;Daelus;12h 58m 58s ;46738.12
+NPC;-LOCAL;47;47;738.2687;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;7;0;713.8463;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;-QTY;0;0;1139.626;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

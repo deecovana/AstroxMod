@@ -24,3 +24,4 @@ NPC;+PRICE;13;0;23.15841;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
 NPC;+STOCK;976;968;21.60575;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;1932;875;22.70283;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1984;957;16.64332;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-QTY;0;-65;24.07042;Nostra;Zellis;15h 39m 30s ;56370.95

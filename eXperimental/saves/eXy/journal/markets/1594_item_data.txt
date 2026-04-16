@@ -1,3 +1,4 @@
 NPC;+STOCK;105;9;314027.6;Biomate University;Void Starcross;5h 37m 58s ;20278.19
 NPC;+PRICE;105;0;326697.9;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;116;11;317290.4;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;-QTY;52;1;359700;Foodmaid;Daelus;13h 8m 37s ;47317.02

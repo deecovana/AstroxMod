@@ -16,3 +16,5 @@ NPC;+PRICE;368;0;1.30737;Medicore University;Cliffs of Drameria;11h 16m 9s ;4056
 NPC;+STOCK;896;222;2.21031;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;906;184;2.108376;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1617;245;2.217041;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;250;2;1.842039;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;-LOCAL;468;0;2.025;Monarch Society;Solitudes of Frey;14h 0m 6s ;50406.2

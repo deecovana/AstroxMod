@@ -16,3 +16,7 @@ NPC;+LOCAL;29;12;1390.955;Lammassu Hub;Numbu;9h 18m 41s ;33521.09
 NPC;+STOCK;954;892;1378.572;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;1728;803;1059.549;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1628;700;1322.392;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;0;0;3549.7;OmniTrust;Ponze;15h 2m 26s ;54146.52
+NPC;-LOCAL;0;0;3549.7;OmniTrust;Ponze;15h 3m 30s ;54210.23
+NPC;-LOCAL;0;0;3549.7;CoraVault;Lins;15h 28m 16s ;55696.6
+NPC;-LOCAL;17;17;1597.365;Legistron;Dogstar Prime;15h 40m 26s ;56426.41

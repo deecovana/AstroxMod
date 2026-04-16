@@ -28,3 +28,6 @@ NPC;+LOCAL;51;2;3.557321;Scrapdogs;Gemini Els;11h 55m 10s ;42910.18
 NPC;+STOCK;3320;184;4.868194;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;858;197;4.668041;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1566;195;2.588798;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+PRICE;51;0;3.723569;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;-LOCAL;576;0;4.19625;Monarch Society;Solitudes of Frey;14h 0m 6s ;50406.2
+NPC;BAL;209;0;4.330777;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52

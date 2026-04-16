@@ -41,6 +41,8 @@ MERC;1;1.63;npc_ship_data_(transport_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Demands: (1) Items ;4x590;37930;88488.38
+
 BUYORDER;Market Demands: (3) Items ;305x126,1x172,7x466;115995;83599.10
 BUYORDER;Market Needs Goods: (3) Items ;2x330,7x209,3x174;65868;55154.75
 BUYORDER;Market Items Req: (2) Items ;3x188,9x130;104600;74414.19

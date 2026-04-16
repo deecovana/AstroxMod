@@ -14,3 +14,4 @@ NPC;-QTY;6;-1;1093968;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+PRICE;10;0;2161956;CoraVault Hub;Pindoris;7h 9m 7s ;25747.52
 NPC;+PRICE;375;0;1237578;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
 NPC;+STOCK;359;2;1386859;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-QTY;94;-1;1586972;Nostra;Zellis;15h 39m 30s ;56370.95

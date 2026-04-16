@@ -37,3 +37,8 @@ NPC;-LOCAL;0;0;11215.16;Kith;Kidd Overture;11h 23m 51s ;41031.56
 NPC;+STOCK;102;19;7818.791;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+LOCAL;25;71;2600;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
 NPC;+STOCK;94;19;6232.48;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;-QTY;47;50;4571.2;Nostra;Zellis;13h 44m 17s ;49457.61
+NPC;+LOCAL;25;46;2600;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56
+NPC;+LOCAL;25;15;2600;Proctors Center;Void Starcross;14h 51m 52s ;53512.24
+NPC;-QTY;32;-15;4651.2;Nostra;Zellis;15h 39m 30s ;56370.95
+PLAYER;+QTY;0;50;0;Legistron;Dogstar Prime;15h 41m 48s ;56508.55

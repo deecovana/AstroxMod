@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;59
 SECTOR;name;Coralor
-SECTOR;level;5.2
+SECTOR;level;5.1
 SECTOR;faction;Trade
 SECTOR;filename;sector_59.txt
 SECTOR;is_explored;True

@@ -8,3 +8,4 @@ NPC;+PRICE;5;0;11058.89;Spacebook;Phistatisia;8h 11m 3s ;29463.74
 NPC;-PRICE;3;0;21819.42;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-LOCAL;0;0;20250;Scrapdogs;Gemini Els;11h 55m 10s ;42910.18
 NPC;+STOCK;100;10;21508.89;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+QTY;12;7;12950.44;Blissheads;Estura Cove;15h 2m 18s ;54138.48

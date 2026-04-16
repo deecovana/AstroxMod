@@ -17,3 +17,4 @@ NPC;+PRICE;64;0;2332.853;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;809;792;1912.479;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;1000;958;2914.429;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1617;852;2597.708;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;0;0;6961.625;Proctors Center;Void Starcross;14h 51m 52s ;53512.24

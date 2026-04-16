@@ -9,3 +9,5 @@ NPC;-LOCAL;1;1;207000;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;+PRICE;63;0;162167.5;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
 NPC;+PRICE;6;0;163671;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;86;8;108339.9;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;-LOCAL;31;31;210358.9;Proctors Center;Void Starcross;14h 51m 52s ;53512.24
+NPC;+QTY;15;9;163173.5;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

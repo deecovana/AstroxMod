@@ -14,3 +14,4 @@ NPC;-LOCAL;0;0;3662.275;Daemon Ammunitions;Starfort Ramos;7h 47m 28s ;28048.19
 NPC;+PRICE;458;0;1804.07;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
 NPC;-LOCAL;0;0;1877.861;Kith;Kidd Overture;11h 23m 51s ;41031.56
 NPC;+STOCK;9115;4492;1390.893;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;788;0;1648.024;Foodmaid;Daelus;12h 58m 35s ;46715.01

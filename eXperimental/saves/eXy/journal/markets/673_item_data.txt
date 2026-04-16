@@ -28,3 +28,7 @@ NPC;-LOCAL;0;0;95176.45;Kith;Kidd Overture;11h 23m 51s ;41031.56
 NPC;+STOCK;42;17;25880.46;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+LOCAL;25;93;23400;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
 NPC;+LOCAL;25;54;23400;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
+NPC;+LOCAL;25;44;23400;StarShepards Headquarters;Void Starcross;14h 17m 15s ;51435.13
+NPC;+QTY;44;19;49450.5;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;+QTY;32;15;83481.75;Blissheads;Estura Cove;15h 2m 18s ;54138.48
+NPC;-QTY;8;-15;46570.5;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

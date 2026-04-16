@@ -6,3 +6,5 @@ NPC;+PRICE;62;0;107545.6;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 NPC;+LOCAL;12;77;33442.5;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;+PRICE;25;0;66812.24;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+STOCK;71;9;102527.7;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;BAL;37;-11;64095.24;Inovex;Goru Populan;14h 7m 32s ;50852.52
+NPC;+LOCAL;12;6;33442.5;Proctors Center;Void Starcross;14h 51m 52s ;53512.24

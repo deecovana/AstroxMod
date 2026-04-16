@@ -6,3 +6,10 @@ NPC;BAL;69;-9;1354450;Janca Refinery;Canndelis;6h 40m 15s ;24015.74
 NPC;-LOCAL;0;0;2888703;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;0;0;2888703;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;0;0;2888703;CoraVault;Lins;8h 53m 52s ;32032.93
+PLAYER;-QTY;9;5;1083408;Proctors Center;Void Starcross;14h 55m 48s ;53748.13
+NPC;-LOCAL;1;1;1299916;OmniTrust;Ponze;15h 2m 26s ;54146.52
+PLAYER;+QTY;6;5;1594862;OmniTrust;Ponze;15h 3m 1s ;54181.97
+NPC;-LOCAL;4;0;1299916;OmniTrust;Ponze;15h 3m 30s ;54210.23
+PLAYER;-QTY;63;7;810454.4;Medicore University;Cliffs of Drameria;15h 11m 14s ;54674.85
+NPC;-LOCAL;0;0;2888703;CoraVault;Lins;15h 28m 16s ;55696.6
+PLAYER;+QTY;7;7;2888703;CoraVault;Lins;15h 28m 31s ;55711.95

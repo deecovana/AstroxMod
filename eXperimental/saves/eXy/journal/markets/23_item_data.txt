@@ -20,3 +20,5 @@ NPC;-PRICE;218;0;139.0126;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-LOCAL;169;0;116.0662;Kith;Kidd Overture;11h 16m 17s ;40577.67
 NPC;-LOCAL;154;0;116.0662;Kith;Kidd Overture;11h 23m 51s ;41031.56
 NPC;+STOCK;3647;3455;93.9025;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;682;0;116.0662;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;+QTY;5635;4886;114.1898;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

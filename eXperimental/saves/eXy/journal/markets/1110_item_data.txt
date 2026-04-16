@@ -3,3 +3,5 @@ NPC;+STOCK;64;9;2813.444;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;56;-8;2736.86;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-QTY;11;-10;1744.016;Daemon Ammunitions;Starfort Ramos;7h 0m 13s ;25213.58
 NPC;+PRICE;6;0;2822.63;Spacebook;Phistatisia;8h 11m 3s ;29463.74
+NPC;+PRICE;11;0;1810.867;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;+QTY;18;9;2506.831;Blissheads;Estura Cove;15h 2m 18s ;54138.48

@@ -13,3 +13,5 @@ NPC;-LOCAL;0;0;115000;Proctors Center;Void Starcross;7h 25m 26s ;26726.99
 NPC;-PRICE;40;0;33315.3;ValueStar;Hunu;11h 47m 29s ;42449.9
 NPC;+STOCK;41;8;29996.95;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;119;10;32869.46;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;BAL;5;0;49296.51;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52
+NPC;-LOCAL;15;15;51750;Proctors Center;Void Starcross;14h 51m 52s ;53512.24

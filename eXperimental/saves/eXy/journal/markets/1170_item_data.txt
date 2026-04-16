@@ -10,3 +10,8 @@ NPC;-PRICE;21;0;2820.303;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;-LOCAL;0;0;6000;OmniTrust;Ponze;8h 44m 50s ;31490.25
 NPC;-LOCAL;0;0;6000;OmniTrust;Ponze;8h 49m 53s ;31793.95
 NPC;-LOCAL;0;0;6000;CoraVault;Lins;8h 53m 52s ;32032.93
+NPC;+QTY;0;99;1984.35;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-LOCAL;0;0;6000;OmniTrust;Ponze;15h 2m 26s ;54146.52
+NPC;-LOCAL;0;0;6000;OmniTrust;Ponze;15h 3m 30s ;54210.23
+NPC;-LOCAL;6;6;2700;CoraVault;Lins;15h 28m 16s ;55696.6
+NPC;-QTY;0;-5;2806.725;Genistar;Blades of Dandrow;15h 39m 30s ;56370.95

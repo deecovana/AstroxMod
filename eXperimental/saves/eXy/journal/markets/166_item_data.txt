@@ -11,3 +11,5 @@ NPC;-QTY;312;-132;55.56258;Valuestar Hub;Jelumus;7h 45m 51s ;27951.11
 NPC;-PRICE;181;0;34.9063;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;852;140;65.05845;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;368;109;45.48278;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-QTY;527;-84;71.40305;Nostra;Zellis;15h 39m 30s ;56370.95
+NPC;-QTY;169;-130;75.81166;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

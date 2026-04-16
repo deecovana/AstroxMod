@@ -1,4 +1,27 @@
 //;LOG DATA FILE (Astrox Imperium)
+SKILL;4;Utility Ship Operation;6 min;104;163466.1;18253712.7029302;Biomate University;Void Starcross;15h 44m 43s 
+SKILL;3;Ship Shield Regeneration;23 min;24;6811.1;20293803.8701172;Biomate University;Void Starcross;15h 32m 18s 
+SKILL;3;Ship Energy Systems;10 min;21;1938.2;20300614.9575195;Biomate University;Void Starcross;15h 32m 16s 
+SKILL;3;Ship Energy Regeneration;6 min;33;2179.5;20302553.1983643;Biomate University;Void Starcross;15h 32m 15s 
+SKILL;3;Drone Operation;3 min;15;18487.2;20304732.74646;Biomate University;Void Starcross;15h 31m 58s 
+SKILL;2;University Academic;3 min;18;4566.7;319345.486694336;Proctors Center;Void Starcross;14h 59m 18s 
+SKILL;1;University Academic;2 min;9;2283.3;323912.158569336;Proctors Center;Void Starcross;14h 58m 12s 
+SKILL;2;Ship Engine Burner;2 min;14;1251.6;5322959.86950684;Lammassu Financial;Void Starcross;14h 28m 22s 
+SKILL;2;University Discount;2 min;14;5900.2;5324211.43591309;Lammassu Financial;Void Starcross;14h 28m 20s 
+SKILL;1;University Discount;1 min;7;3168.0;5330111.6776123;Lammassu Financial;Void Starcross;14h 26m 34s 
+SKILL;1;Ship Engine Burner;1 min;7;672.0;5333279.6776123;Lammassu Financial;Void Starcross;14h 26m 19s 
+SKILL;2;Ship Shield Regeneration;2 min;16;6552.0;5333976.6776123;StarGypsy Warehouse;Void Starcross;14h 23m 40s 
+SKILL;1;Ship Shield Regeneration;2 min;8;3276.0;17597052.6776123;StarGypsy Warehouse;Void Starcross;14h 20m 28s 
+SKILL;2;Ship Energy Regeneration;4 min;22;4137.0;17600328.6776123;StarGypsy Warehouse;Void Starcross;14h 20m 16s 
+SKILL;1;Ship Energy Regeneration;4 min;11;840.0;17440328.6932373;Biomate University;Void Starcross;14h 12m 24s 
+SKILL;3;Ship Thruster Systems;4 min;21;3105.0;17441168.6932373;Biomate University;Void Starcross;14h 12m 7s 
+SKILL;3;Utility Ship Operation;18 min;78;141750.0;17444273.6932373;Biomate University;Void Starcross;14h 11m 50s 
+SKILL;1;Fleet Commander;1 min;25;4725.0;17586023.6932373;Biomate University;Void Starcross;14h 10m 17s 
+SKILL;1;Drone Command Systems;2 min;9;7125.0;17590748.6932373;Biomate University;Void Starcross;14h 10m 7s 
+SKILL;2;Ship Energy Systems;2 min;14;2520.0;17597973.6932373;Monarch Society;Solitudes of Frey;14h 2m 38s 
+SKILL;1;Ship Energy Systems;1 min;7;1260.0;21633918.6932373;Monarch Society;Solitudes of Frey;13h 52m 33s 
+SKILL;3;Ship Shield Systems;6 min;15;1560.0;21635278.6932373;PharmaLife;Carioullis;13h 51m 22s 
+SKILL;2;Ship Shield Systems;4 min;10;1720.0;45483748;Astrox Security Patrol;Kilotorish;12h 50m 27s 
 SKILL;2;Drone Operation;3 min;10;14250.0;56043273.6853027;Biomate University;Void Starcross;12h 18m 30s 
 SKILL;4;Launcher Basic Operation;8 min;16;11440.0;56494980.078125;Kith;Kidd Overture;11h 24m 14s 
 SKILL;3;Launcher Basic Operation;6 min;12;8580.0;56487669.2085495;Kith;Kidd Overture;11h 17m 3s 

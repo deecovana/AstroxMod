@@ -14,3 +14,4 @@ NPC;+STOCK;304;130;14.35629;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;BAL;76;-97;25.41893;Crystalis Broadcasting;Jermicus;10h 13m 3s ;36783.39
 NPC;+QTY;675;133;22.93631;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
 NPC;+STOCK;730;135;30.59551;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;+PRICE;23;0;32.70045;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09

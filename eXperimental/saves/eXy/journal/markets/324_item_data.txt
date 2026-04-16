@@ -23,3 +23,8 @@ NPC;+PRICE;14;0;3159.169;SimKitten;Kolkax Prime;11h 50m 16s ;42616.5
 NPC;+STOCK;691;683;1558.379;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;734;700;2538.869;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1527;723;1635.616;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+QTY;973;891;1964.671;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-LOCAL;0;0;6242.5;OmniTrust;Ponze;15h 2m 26s ;54146.52
+NPC;-LOCAL;0;0;6242.5;OmniTrust;Ponze;15h 3m 30s ;54210.23
+NPC;-LOCAL;0;0;6242.5;CoraVault;Lins;15h 28m 16s ;55696.6
+NPC;-LOCAL;23;23;2809.125;Legistron;Dogstar Prime;15h 40m 26s ;56426.41

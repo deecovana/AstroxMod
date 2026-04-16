@@ -6,3 +6,5 @@ NPC;+PRICE;76;0;124.4622;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24
 PLAYER;+QTY;247;199;104.6641;OmniTrust;Ponze;8h 46m 17s ;31577.36
 NPC;+STOCK;1823;1747;121.0373;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;2086;1999;110.8879;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+LOCAL;6;6;130.5124;PharmaLife;Carioullis;13h 50m 15s ;49815.91
+NPC;-QTY;0;-146;142.1016;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

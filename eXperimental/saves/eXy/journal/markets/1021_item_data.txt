@@ -19,3 +19,5 @@ NPC;-LOCAL;0;0;257250;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.
 PLAYER;+QTY;0;1;0;OmniTrust;Ponze;8h 46m 23s ;31583.4
 NPC;+PRICE;77;0;93229.73;Medicore University;Cliffs of Drameria;11h 16m 9s ;40569.39
 NPC;+STOCK;73;8;76350.59;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;7;7;115762.5;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;0;0;196572.2;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03

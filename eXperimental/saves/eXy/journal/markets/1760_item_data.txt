@@ -22,3 +22,4 @@ NPC;-PRICE;30;0;239464;ValueStar;Hunu;11h 47m 29s ;42449.9
 NPC;+STOCK;33;9;526119.9;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;-LOCAL;26;26;416291.6;StarShepards Headquarters;Void Starcross;12h 9m 0s ;43740.08
 NPC;+STOCK;50;11;470013.7;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;-LOCAL;5;5;416291.6;StarShepards Headquarters;Void Starcross;14h 17m 15s ;51435.13

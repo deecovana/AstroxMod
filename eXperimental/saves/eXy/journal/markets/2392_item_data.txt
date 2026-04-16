@@ -1,3 +1,4 @@
 NPC;+STOCK;25;2;4152.474;StarGypsy Warehouse;Void Starcross;5h 37m 58s ;20278.19
 NPC;-PRICE;61;0;4145.227;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-PRICE;61;0;3961.506;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;+QTY;82;1;3083.558;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

@@ -12,3 +12,5 @@ NPC;-PRICE;10;0;21333.83;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;11;4;26861.96;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;38;4;12862.88;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;41;3;14020.08;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-QTY;7;-2;14607.85;Nostra;Zellis;15h 39m 30s ;56370.95
+NPC;-QTY;0;-2;15152.65;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

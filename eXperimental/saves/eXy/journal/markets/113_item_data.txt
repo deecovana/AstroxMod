@@ -20,3 +20,5 @@ NPC;+PRICE;542;0;6.074834;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+STOCK;1012;204;7.275479;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;692;191;8.073436;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1456;241;6.533568;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;309;0;7.901249;Monarch Society;Solitudes of Frey;14h 0m 6s ;50406.2
+NPC;+QTY;1424;161;8.17094;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

@@ -13,3 +13,4 @@ NPC;-PRICE;123;0;1424178;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+QTY;168;2;1251831;Valuestar Hub;Jelumus;11h 28m 0s ;41280.14
 NPC;+STOCK;442;2;1294836;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;348;2;1703584;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
+NPC;+PRICE;43;0;1171449;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09

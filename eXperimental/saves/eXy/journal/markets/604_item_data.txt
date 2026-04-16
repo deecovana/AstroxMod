@@ -13,3 +13,4 @@ PLAYER;+QTY;9;1;38688.52;StarGypsy Warehouse;Void Starcross;9h 45m 34s ;35134.08
 NPC;+STOCK;47;3;74722.88;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;13;4;34295.65;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;43;3;67787.4;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-QTY;8;-2;69683.03;Nostra;Zellis;15h 39m 30s ;56370.95

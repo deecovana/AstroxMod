@@ -31,3 +31,6 @@ NPC;+PRICE;146;0;27.14897;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
 NPC;+STOCK;3748;3643;18.54595;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;8823;3889;21.08716;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;8960;3660;14.78243;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;117;0;23.625;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;+PRICE;106;0;16.49297;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09
+NPC;BAL;4305;0;13.286;Crystalis Broadcasting;Jermicus;14h 7m 32s ;50852.52

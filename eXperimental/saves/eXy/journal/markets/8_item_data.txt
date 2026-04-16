@@ -25,3 +25,11 @@ NPC;+PRICE;272;0;304.9862;Medicore University;Cliffs of Drameria;11h 16m 9s ;405
 NPC;-PRICE;301;0;259.6297;ValueStar;Hunu;11h 47m 29s ;42449.9
 NPC;+STOCK;4860;4835;309.6503;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;8973;3769;188.1852;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;51;0;262.2037;Foodmaid;Daelus;12h 58m 35s ;46715.01
+PLAYER;+QTY;751;21;277.6796;Nostra;Zellis;13h 45m 21s ;49521.85
+PLAYER;+QTY;755;4;273.0182;Nostra;Zellis;13h 47m 56s ;49676.25
+NPC;-LOCAL;8;8;271.1677;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+PLAYER;+QTY;604;596;344.5132;Starbase Corporate Center;Void Starcross;14h 13m 56s ;51236.18
+NPC;-LOCAL;63;0;262.2037;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
+NPC;+QTY;4038;3250;283.6025;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-QTY;0;0;395.2904;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

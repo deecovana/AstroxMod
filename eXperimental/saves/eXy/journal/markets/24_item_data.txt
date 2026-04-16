@@ -25,3 +25,6 @@ NPC;+PRICE;70;0;138.4181;ValueStar;Hunu;11h 50m 16s ;42616.5
 NPC;+STOCK;4168;4166;186.0762;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;8136;3383;177.9997;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;9322;4031;217.7793;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;643;0;197.3137;Foodmaid;Daelus;12h 58m 35s ;46715.01
+NPC;+QTY;4230;4205;164.3075;Temple of the Void;Vindicati;15h 2m 18s ;54138.48
+NPC;-QTY;0;-720;107.2334;Nostra;Zellis;15h 39m 30s ;56370.95

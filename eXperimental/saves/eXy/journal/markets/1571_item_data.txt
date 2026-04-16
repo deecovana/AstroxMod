@@ -6,3 +6,4 @@ NPC;-PRICE;2;0;46321.48;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-PRICE;2;0;44788.46;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;-PRICE;50;0;56640.22;ValueStar;Hunu;11h 47m 29s ;42449.9
 NPC;+PRICE;10;0;68215.99;Temple of the Void;Vindicati;11h 50m 16s ;42616.5
+NPC;-QTY;26;-6;29712.8;Nostra;Zellis;15h 39m 30s ;56370.95

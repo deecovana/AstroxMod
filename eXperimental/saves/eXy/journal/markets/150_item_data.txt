@@ -6,3 +6,4 @@ NPC;+PRICE;156;0;8.525058;StarShepards Headquarters;Void Starcross;6h 48m 22s ;2
 NPC;BAL;13;0;10.02161;Daemon Ammunitions;Starfort Ramos;6h 48m 22s ;24502.02
 NPC;+STOCK;475;104;12.82915;Imperium Republica ;Gate of Alpharis;7h 12m 48s ;25968.03
 NPC;-PRICE;376;0;6.298953;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
+NPC;-QTY;67;-97;10.30494;Vita Assembly;Capital Void;15h 39m 30s ;56370.95

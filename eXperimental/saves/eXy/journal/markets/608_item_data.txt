@@ -3,3 +3,5 @@ NPC;+STOCK;27;4;634528.1;Proctors Center;Void Starcross;5h 37m 58s ;20278.19
 NPC;BAL;25;-2;685093;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;+PRICE;4;0;713092;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;8;4;687326.5;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+PLAYER;-QTY;35;1;421209.4;Foodmaid;Daelus;13h 24m 3s ;48243.52
+NPC;+QTY;43;2;669201.6;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

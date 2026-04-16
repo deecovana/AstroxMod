@@ -5,3 +5,4 @@ NPC;-LOCAL;0;0;25263.89;Oro Omniplex Center;Merces Academy;3h 40m 56s ;13256.71
 NPC;+STOCK;52;11;11132.1;Medicore University;Cliffs of Drameria;4h 11m 54s ;15114.28
 NPC;-QTY;20;-8;27309.19;CoraVault;Lins;5h 30m 34s ;19834.27
 NPC;+STOCK;31;11;19317.59;Horizons;Gate of Alpharis;7h 12m 48s ;25968.03
+NPC;+PRICE;9;0;26801.54;Parisan;Goru Populan;13h 46m 17s ;49577.09

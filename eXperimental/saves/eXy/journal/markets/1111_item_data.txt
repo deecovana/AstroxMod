@@ -5,3 +5,5 @@ NPC;BAL;42;-8;8293.449;Proctors Center;Void Starcross;5h 52m 15s ;21135.14
 NPC;-PRICE;5;0;5948.784;Gek Mining;Alias Outpost;7h 2m 38s ;25358.83
 NPC;-PRICE;36;0;6608.645;Nostra;Zellis;10h 29m 28s ;37768.82
 NPC;+PRICE;17;0;6057.947;Gemini Mining;Jala;12h 14m 9s ;44049.95
+NPC;+PRICE;11;0;7897.147;Parisan;Goru Populan;13h 46m 17s ;49577.09
+NPC;-QTY;28;-8;6709.78;Nostra;Zellis;15h 39m 30s ;56370.95

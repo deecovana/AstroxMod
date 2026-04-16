@@ -8,3 +8,7 @@ NPC;-LOCAL;38;38;28125;StarGypsy Warehouse;Void Starcross;9h 45m 27s ;35127.06
 NPC;-LOCAL;0;0;39226.9;SimKitten;Kolkax Prime;11h 28m 43s ;41323.92
 NPC;+STOCK;46;8;34785.89;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;43;43;28125;StarGypsy Warehouse;Void Starcross;12h 11m 43s ;43903.85
+NPC;-LOCAL;0;0;62500;StarGypsy Warehouse;Void Starcross;14h 20m 53s ;51653.97
+NPC;BAL;3;0;15667;Communications Hub;Ele;14h 24m 58s ;51898.89
+NPC;-QTY;15;-10;14535;Nostra;Zellis;15h 39m 30s ;56370.95
+NPC;-LOCAL;77;77;28567.4;StarGypsy Warehouse;Void Starcross;15h 48m 49s ;56929.36

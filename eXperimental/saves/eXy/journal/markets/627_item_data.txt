@@ -5,3 +5,4 @@ NPC;+STOCK;6;4;255276.1;Starbase Corporate Center;Void Starcross;5h 37m 58s ;202
 NPC;+PRICE;6;0;366069.8;Biomate University;Void Starcross;6h 48m 22s ;24502.02
 NPC;+STOCK;39;4;433679;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;10;4;359285.7;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+QTY;24;3;477402.6;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

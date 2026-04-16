@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;14
 SECTOR;name;Gate of Alpharis
-SECTOR;level;9.7
+SECTOR;level;9.6
 SECTOR;faction;Alpha
 SECTOR;filename;sector_14.txt
 SECTOR;is_explored;True
@@ -14,7 +14,7 @@ SECTOR;production;20
 SECTOR;defense;20
 SECTOR;environment;20
 SECTOR;wormhole_type;
-SECTOR;event_type;resources#41433#18#8
+SECTOR;event_type;null
 
 // SECTORXYZ;Variable;x;y;z
 SECTORXYZ;location;334.9937;160.5744;335.53
@@ -73,7 +73,7 @@ CLUSTER;1;100;10;200;2000;3830;2;-5269
 CLUSTER;1;100;10;100;2000;-3327;0;-3735
 
 // RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
-RESOURCE;1;-3424.0;-166.0;-3575.0;500;500
+RESOURCE;1;-3422.5;-179.6;-3575.3;500;500
 
 // WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation
 WARPGATE;1;sector_0.txt;2;3550;201;2705;0;Alpha;-0.4;prescan

@@ -22,3 +22,4 @@ NPC;-PRICE;4;0;91.38773;Oak Industries;Dorando Corridor;10h 29m 28s ;37768.82
 NPC;+STOCK;1035;953;92.4459;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
 NPC;+STOCK;1494;747;109.0378;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;+STOCK;1842;981;76.65887;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;+PRICE;7;0;124.5696;Scrapdogs;Gemini Els;13h 46m 17s ;49577.09

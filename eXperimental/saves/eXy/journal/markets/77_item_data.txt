@@ -28,3 +28,5 @@ NPC;+STOCK;2031;1678;613.1915;StarShepards Headquarters;Void Starcross;12h 8m 53
 NPC;+STOCK;3953;1904;549.1671;StarGypsy Warehouse;Void Starcross;12h 11m 36s ;43896.82
 NPC;-LOCAL;0;0;2373.05;Lammassu Financial;Void Starcross;12h 14m 17s ;44057.09
 NPC;+STOCK;4240;1915;1011.724;Biomate University;Void Starcross;12h 15m 59s ;44159.89
+NPC;-LOCAL;60;60;1067.872;Lammassu Financial;Void Starcross;14h 26m 53s ;52013.56
+NPC;+QTY;2580;2337;927.21;Temple of the Void;Vindicati;15h 2m 18s ;54138.48

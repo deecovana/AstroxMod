@@ -16,3 +16,6 @@ NPC;-LOCAL;0;0;1426670;Starbase Corporate Center;Void Starcross;6h 20m 10s ;2281
 NPC;+PRICE;59;0;1752013;StarShepards Headquarters;Void Starcross;6h 48m 22s ;24502.02
 NPC;-LOCAL;0;0;3151313;Starbase Corporate Center;Void Starcross;7h 27m 6s ;26826.08
 NPC;+STOCK;70;11;1683749;StarShepards Headquarters;Void Starcross;12h 8m 53s ;43733.04
+NPC;BAL;42;-11;1132943;Inovex;Goru Populan;14h 7m 32s ;50852.52
+NPC;-LOCAL;41;41;1421387;Starbase Corporate Center;Void Starcross;14h 13m 48s ;51228.04
+NPC;-LOCAL;0;0;2408010;Starbase Corporate Center;Void Starcross;14h 35m 5s ;52505.03
